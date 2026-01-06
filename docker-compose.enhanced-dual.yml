@@ -1,0 +1,180 @@
+version: '3.8'
+
+services:
+  vllm-text:
+    container_name: vllm-text
+    image: vllm/vllm-openai:latest
+    ports:
+      - "8000:8000"
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              device_ids: ['0']
+              capabilities: [gpu]
+    environment:
+      - HF_TOKEN=${HF_TOKEN}
+      - VLLM_API_KEY=${VLLM_API_KEY:-dummy}
+    volumes:
+      - ~/.cache/huggingface:/root/.cache/huggingface
+      - ~/.local-ai-server/models:/models
+    command:
+      - --model
+      - Qwen/Qwen3-32B-Instruct
+      - --trust-remote-code
+      - --gpu-memory-utilization
+      - "0.38"
+      - --max-model-len
+      - "6144"
+      - --port
+      - "8000"
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 300s
+    restart: unless-stopped
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+  vllm-vision:
+    container_name: vllm-vision
+    image: vllm/vllm-openai:latest
+    ports:
+      - "8001:8000"
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              device_ids: ['0']
+              capabilities: [gpu]
+    environment:
+      - HF_TOKEN=${HF_TOKEN}
+      - VLLM_API_KEY=${VLLM_API_KEY:-dummy}
+    volumes:
+      - ~/.cache/huggingface:/root/.cache/huggingface
+      - ~/.local-ai-server/models:/models
+    command:
+      - --model
+      - Qwen/Qwen2.5-VL-32B-Instruct
+      - --trust-remote-code
+      - --gpu-memory-utilization
+      - "0.38"
+      - --max-model-len
+      - "4096"
+      - --port
+      - "8000"
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 300s
+    restart: unless-stopped
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+    depends_on:
+      vllm-text:
+        condition: service_healthy
+
+  open-webui:
+    container_name: open-webui
+    image: ghcr.io/open-webui/open-webui:main
+    ports:
+      - "3000:8080"
+    environment:
+      - OPENAI_API_BASE_URLS=http://vllm-text:8000/v1;http://vllm-vision:8000/v1
+      - OPENAI_API_KEYS=${VLLM_API_KEY:-dummy};${VLLM_API_KEY:-dummy}
+      - WEBUI_AUTH=true
+      - ENABLE_RAG_WEB_SEARCH=false
+      - ENABLE_RAG_LOCAL_WEB_FETCH=false
+      - ENABLE_IMAGE_GENERATION=false
+      - ENABLE_COMMUNITY_SHARING=false
+      - WEBUI_NAME=Local AI Server
+    volumes:
+      - ~/.local-ai-server/data/open-webui:/app/backend/data
+    restart: unless-stopped
+    depends_on:
+      - vllm-text
+      - vllm-vision
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+  anythingllm:
+    container_name: anythingllm
+    image: mintplexlabs/anythingllm:latest
+    ports:
+      - "3001:3001"
+    environment:
+      - LLM_PROVIDER=openai
+      - OPEN_AI_KEY=${VLLM_API_KEY:-dummy}
+      - OPEN_AI_BASE_URL=http://vllm-text:8000/v1
+      - OPEN_AI_MODEL=Qwen/Qwen3-32B-Instruct
+      - EMBEDDING_ENGINE=native
+      - EMBEDDING_MODEL_PREF=nomic-embed-text
+      - VECTOR_DB=lancedb
+      - STORAGE_DIR=/app/server/storage
+      - AUTH_TOKEN=${ANYTHINGLLM_AUTH_TOKEN:-}
+    volumes:
+      - ~/.local-ai-server/data/anythingllm:/app/server/storage
+      - ~/.local-ai-server/data/documents:/app/server/storage/documents
+    cap_add:
+      - SYS_ADMIN
+    restart: unless-stopped
+    depends_on:
+      vllm-text:
+        condition: service_healthy
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+  jupyter:
+    container_name: jupyter
+    image: jupyter/datascience-notebook:latest
+    ports:
+      - "8888:8888"
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+      - JUPYTER_TOKEN=lightninglily
+      - GRANT_SUDO=yes
+    volumes:
+      - ~/.local-ai-server/data/notebooks:/home/jovyan/work
+      - ~/.local-ai-server/data/documents:/home/jovyan/data:ro
+      - ~/.local-ai-server/data/analysis:/home/jovyan/analysis
+    command: start-notebook.sh --NotebookApp.token='lightninglily' --NotebookApp.password=''
+    user: root
+    restart: unless-stopped
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+networks:
+  default:
+    name: local-ai-network
+    driver: bridge
+
+volumes:
+  huggingface-cache:
+    driver: local
+  open-webui-data:
+    driver: local
+  anythingllm-data:
+    driver: local
+  jupyter-data:
+    driver: local

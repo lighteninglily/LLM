@@ -4,6 +4,13 @@
 
 This guide explains how to create a USB deployment package and install the LLM server from USB drive on your Ubuntu machine.
 
+**✨ Now includes ENHANCED STACK:**
+- 🌐 Open WebUI (ChatGPT-like interface)
+- 📚 AnythingLLM (Document RAG)
+- 📊 JupyterLab (Code execution)
+- 🔌 vLLM API (Direct access)
+- 🚀 One-click installer option
+
 ---
 
 ## Why Use USB Installation?
@@ -12,6 +19,7 @@ This guide explains how to create a USB deployment package and install the LLM s
 - **Offline preparation** - Prepare on one machine, deploy on another
 - **Multiple deployments** - Reuse USB for multiple servers
 - **Backup** - Keep installation files as backup
+- **Enhanced stack** - Get all 4 interfaces automatically
 
 ---
 
@@ -67,12 +75,17 @@ llm-installer/
 ├── START-HERE.txt
 ├── VERSION.txt
 ├── CHECKSUMS.txt
+├── one-click-install.sh              ⭐ NEW: Automated installer
 ├── install-ubuntu-rtx5090.sh
 ├── deploy-web-facing.sh
 ├── deploy.py
 ├── models.py
+├── ai-data-analyst.py                ⭐ NEW: Code execution
 ├── docker-compose.yml
+├── docker-compose.enhanced.yml        ⭐ NEW: Enhanced stack
 ├── .env.example
+├── ENHANCEMENTS-SUMMARY.md            ⭐ NEW: What's new guide
+├── ALTERNATIVES-COMPARISON.md         ⭐ NEW: Solution comparison
 └── All documentation files
 ```
 
@@ -125,6 +138,25 @@ All files should show "OK"
 
 ### Step 4: Run Installation
 
+**⭐ NEW: Option 1 - One-Click Installer (RECOMMENDED)**
+
+```bash
+# Make script executable
+chmod +x one-click-install.sh
+
+# Run one-click installer
+./one-click-install.sh
+```
+
+This installs EVERYTHING automatically including:
+- ✅ NVIDIA drivers
+- ✅ Docker + NVIDIA toolkit
+- ✅ All 4 interfaces (vLLM, Open WebUI, AnythingLLM, JupyterLab)
+- ✅ Helper scripts
+- ✅ Starts all services
+
+**Option 2 - Step-by-step Installer**
+
 ```bash
 # Make script executable
 chmod +x install-ubuntu-rtx5090.sh
@@ -148,12 +180,30 @@ chmod +x install-ubuntu-rtx5090.sh
 
 ### Step 5: Access Your AI Server
 
+**All 4 interfaces available:**
+
 ```bash
-# Open browser
+# Open WebUI (ChatGPT-like)
+firefox http://localhost:3000
+
+# AnythingLLM (RAG)
 firefox http://localhost:3001
+
+# JupyterLab (Code execution)
+firefox http://localhost:8888
+# Token: lightninglily
+
+# vLLM API (Programmatic)
+curl http://localhost:8000/v1/models
 ```
 
-Create admin account and start using!
+**Best for:**
+- Quick chat → Open WebUI (:3000)
+- Document upload → AnythingLLM (:3001)
+- Data analysis → JupyterLab (:8888)
+- API integration → vLLM API (:8000)
+
+Create admin accounts and start using!
 
 ---
 

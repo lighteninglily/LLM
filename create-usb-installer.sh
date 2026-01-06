@@ -53,15 +53,22 @@ log_info "Copying deployment files..."
 
 # Scripts
 cp install-ubuntu-rtx5090.sh "$USB_DIR/"
+cp one-click-install.sh "$USB_DIR/"
+cp start-dual-model.sh "$USB_DIR/"
+cp stop-dual-model.sh "$USB_DIR/"
+cp check-vram-usage.sh "$USB_DIR/"
 cp deploy-web-facing.sh "$USB_DIR/"
 cp bootstrap.sh "$USB_DIR/"
 cp deploy.py "$USB_DIR/"
 cp models.py "$USB_DIR/"
 cp test_server.py "$USB_DIR/"
 cp example-data-analysis.py "$USB_DIR/"
+cp ai-data-analyst.py "$USB_DIR/"
 
 # Configuration files
 cp docker-compose.yml "$USB_DIR/"
+cp docker-compose.enhanced.yml "$USB_DIR/"
+cp docker-compose.enhanced-dual.yml "$USB_DIR/"
 cp docker-compose.single-gpu.yml "$USB_DIR/"
 cp docker-compose.ollama.yml "$USB_DIR/"
 cp .env.example "$USB_DIR/"
@@ -73,6 +80,13 @@ cp DEPLOYMENT-GUIDE-RTX5090.md "$USB_DIR/"
 cp WEB-DEPLOYMENT-GUIDE.md "$USB_DIR/"
 cp PRE-DEPLOYMENT-CHECKLIST.md "$USB_DIR/"
 cp USB-INSTALL-GUIDE.md "$USB_DIR/" 2>/dev/null || true
+cp ALTERNATIVES-COMPARISON.md "$USB_DIR/"
+cp ENHANCEMENTS-SUMMARY.md "$USB_DIR/"
+cp DUAL-MODEL-SETUP.md "$USB_DIR/"
+cp HOW-RAG-WORKS.md "$USB_DIR/" 2>/dev/null || true
+cp MODEL-CUSTOMIZATION-GUIDE.md "$USB_DIR/" 2>/dev/null || true
+cp EMAIL-MARKETING-OPTIMIZER.md "$USB_DIR/" 2>/dev/null || true
+cp PRODUCTION-DEPLOYMENT.md "$USB_DIR/" 2>/dev/null || true
 
 # Make scripts executable
 chmod +x "$USB_DIR"/*.sh
@@ -84,22 +98,34 @@ cat > "$USB_DIR/START-HERE.txt" << 'EOF'
   LLM Server USB Installer - Lightning Lily
 ================================================================
 
-QUICK START:
+QUICK START OPTIONS:
+
+Option 1 - ONE-CLICK INSTALL (RECOMMENDED):
 1. Copy this entire 'llm-installer' folder to your Ubuntu machine
 2. Open terminal and navigate to the folder
-3. Run: chmod +x install-ubuntu-rtx5090.sh
-4. Run: ./install-ubuntu-rtx5090.sh
+3. Run: chmod +x one-click-install.sh
+4. Run: ./one-click-install.sh
 5. Wait 60-90 minutes for installation
-6. Access: http://localhost:3001
+6. Access all 4 interfaces (see below)
+
+Option 2 - STEP-BY-STEP INSTALL:
+1. Copy folder to Ubuntu machine
+2. Run: chmod +x install-ubuntu-rtx5090.sh
+3. Run: ./install-ubuntu-rtx5090.sh
+4. Follow on-screen instructions
 
 WHAT'S INCLUDED:
 - Automated Ubuntu 24.04 setup script
 - NVIDIA RTX 5090 driver installation
 - Docker + NVIDIA Container Toolkit
-- vLLM inference engine
-- AnythingLLM web interface
-- Qwen3-32B model (downloads automatically)
-- Web deployment tools
+- vLLM inference engine (Qwen3-32B)
+- 4 powerful interfaces:
+  * Open WebUI (:3000) - ChatGPT-like interface
+  * AnythingLLM (:3001) - Document RAG
+  * JupyterLab (:8888) - Code execution
+  * vLLM API (:8000) - Direct API access
+- AI Data Analyst with code execution
+- Email marketing optimization tools
 - Complete documentation
 
 REQUIREMENTS:
@@ -110,10 +136,17 @@ REQUIREMENTS:
 - 100GB free disk space
 
 DOCUMENTATION:
-- READ ME FIRST: QUICKSTART-UBUNTU.md
+- READ ME FIRST: README.md
+- Quick start: QUICKSTART-UBUNTU.md
 - Detailed guide: DEPLOYMENT-GUIDE-RTX5090.md
-- Web setup: WEB-DEPLOYMENT-GUIDE.md
-- Issues checklist: PRE-DEPLOYMENT-CHECKLIST.md
+- Enhancements: ENHANCEMENTS-SUMMARY.md
+- Alternatives: ALTERNATIVES-COMPARISON.md
+
+AFTER INSTALLATION ACCESS:
+- http://localhost:3000 (Open WebUI - best for chat)
+- http://localhost:3001 (AnythingLLM - best for RAG)
+- http://localhost:8888 (JupyterLab - token: lightninglily)
+- http://localhost:8000 (vLLM API - for programmatic access)
 
 NEED HELP?
 See README.md for full documentation and troubleshooting.

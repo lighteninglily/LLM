@@ -13,7 +13,22 @@ A fully automated deployment tool for running a local AI server with RAG (Retrie
 **Plus:**
 - 🚀 One-click installer (`one-click-install.sh`)
 - 🤖 AI Data Analyst with code execution (`ai-data-analyst.py`)
+- 🎯 **NEW: Dual-Model Setup** - Run text + vision models simultaneously
 - 📋 Comparison of alternative solutions (`ALTERNATIVES-COMPARISON.md`)
+
+### 🆕 Dual-Model Configuration
+
+**Run BOTH models on your single RTX 5090:**
+- **Qwen3-32B** (text-only) - Faster, better reasoning for pure text
+- **Qwen2.5-VL-32B** (vision+text) - Image understanding + OCR
+
+**Benefits:**
+- User selects appropriate model per task in Open WebUI
+- Text model optimized for RAG and data analysis
+- Vision model for invoice OCR, chart reading, screenshots
+- Both fit in 32GB VRAM with smart memory management
+
+See `DUAL-MODEL-SETUP.md` for complete guide.
 
 ## Architecture
 
@@ -133,6 +148,7 @@ First startup takes 10-30 minutes to download the model (~35GB for 70B-AWQ).
   - ChatGPT-like interface for general chat
   - Built-in RAG for uploaded documents
   - Voice input/output support
+  - **Dual-model setup**: Select model from dropdown!
 
 - 📚 **AnythingLLM**: http://localhost:3001
   - Best for document management and RAG
@@ -143,12 +159,38 @@ First startup takes 10-30 minutes to download the model (~35GB for 70B-AWQ).
   - Token: `lightninglily` (change in .env)
   - Data analysis with Python code execution
   - Your documents available at `/home/jovyan/data/`
+  - **Dual-model**: Access both at :8000 and :8001
 
 - 🔌 **vLLM API**: http://localhost:8000/v1
   - Direct OpenAI-compatible API
   - Use with any OpenAI SDK or tool
+  - **Dual-model**: Text at :8000, Vision at :8001
 
 **Note**: Authentication is ENABLED by default. Create admin account on first visit.
+
+### Option 3: Dual-Model Setup (Text + Vision)
+
+**Run both Qwen3-32B and Qwen2.5-VL on your RTX 5090:**
+
+```bash
+cd ~/.local-ai-server
+
+# Start both models
+./start-dual-model.sh
+
+# Monitor VRAM usage
+./check-vram-usage.sh
+
+# Stop both models
+./stop-dual-model.sh
+```
+
+**Access:**
+- Open WebUI: http://localhost:3000 (select model from dropdown)
+- Text Model API: http://localhost:8000
+- Vision Model API: http://localhost:8001
+
+See `DUAL-MODEL-SETUP.md` for complete configuration guide.
 
 ## Management Commands
 
