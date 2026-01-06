@@ -1,0 +1,143 @@
+# docker-compose.yml
+# Default configuration for single RTX 5090 (32GB VRAM)
+# Optimized for 32B models with excellent performance
+#
+# Usage:
+#   docker compose up -d
+#
+# First startup will download the model (~18GB for Qwen3-32B) which takes 10-20 minutes
+
+version: '3.8'
+
+services:
+  # ==========================================================================
+  # vLLM - High-performance LLM Inference with Multi-GPU Tensor Parallelism
+  # ==========================================================================
+  vllm:
+    image: vllm/vllm-openai:latest
+    container_name: local-ai-vllm
+    runtime: nvidia
+
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
+      - HF_TOKEN=${HF_TOKEN:-}
+      - VLLM_API_KEY=${VLLM_API_KEY}
+      - VLLM_LOGGING_LEVEL=INFO
+
+    volumes:
+      # Model cache - persists downloaded models
+      - ${MODELS_DIR:-~/.local-ai-server/models}:/root/.cache/huggingface
+      # Shared memory for faster tensor operations
+      - /dev/shm:/dev/shm
+
+    ports:
+      - "${VLLM_PORT:-8000}:8000"
+
+    # vLLM server arguments
+    command: >
+      --model ${LLM_MODEL:-Qwen/Qwen3-32B-Instruct}
+      --tensor-parallel-size ${TENSOR_PARALLEL_SIZE:-1}
+      --max-model-len ${MAX_MODEL_LEN:-4096}
+      --gpu-memory-utilization ${GPU_MEMORY_UTIL:-0.85}
+      --dtype auto
+      --trust-remote-code
+
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [ gpu ]
+
+    # Health check - model loading can take several minutes
+    healthcheck:
+      test: [ "CMD-SHELL", "curl -f http://localhost:8000/health || exit 1" ]
+      interval: 30s
+      timeout: 10s
+      retries: 10
+      start_period: 600s # 10 minutes for model loading
+
+    restart: unless-stopped
+
+    # Logging configuration
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "100m"
+        max-file: "3"
+
+  # ==========================================================================
+  # AnythingLLM - RAG Pipeline, Document Ingestion, and Web UI
+  # ==========================================================================
+  anythingllm:
+    image: mintplexlabs/anythingllm:latest
+    container_name: local-ai-anythingllm
+
+    volumes:
+      # Main storage for workspaces, chats, settings
+      - ${DATA_DIR:-~/.local-ai-server/data}/anythingllm:/app/server/storage
+      # Document upload directory
+      - ${DATA_DIR:-~/.local-ai-server/data}/documents:/app/server/storage/documents
+
+    ports:
+      - "${ANYTHINGLLM_PORT:-3001}:3001"
+
+    environment:
+      # Storage
+      - STORAGE_DIR=/app/server/storage
+
+      # LLM Provider - connect to vLLM's OpenAI-compatible API
+      - LLM_PROVIDER=generic-openai
+      - GENERIC_OPEN_AI_BASE_PATH=http://vllm:8000/v1
+      - GENERIC_OPEN_AI_MODEL_PREF=${LLM_MODEL_NAME:-Qwen3-32B-Instruct}
+      - GENERIC_OPEN_AI_MODEL_TOKEN_LIMIT=${MAX_MODEL_LEN:-4096}
+      - GENERIC_OPEN_AI_API_KEY=${VLLM_API_KEY}
+
+      # Embedding - use native (runs on CPU, saves GPU memory)
+      - EMBEDDING_ENGINE=native
+      - EMBEDDING_MODEL_PREF=nomic-embed-text
+
+      # Vector Database - LanceDB is built-in, simple, fast
+      - VECTOR_DB=lancedb
+
+      # Authentication - disable for local/LAN use
+      - PASSWORDLESS_AUTH=${PASSWORDLESS_AUTH:-false}
+      - AUTH_TOKEN=${AUTH_TOKEN:-}
+
+      # Optional TTS
+      - TTS_PROVIDER=native
+
+    depends_on:
+      vllm:
+        condition: service_healthy
+
+    healthcheck:
+      test: [ "CMD", "curl", "-f", "http://localhost:3001/api/ping" ]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+    restart: unless-stopped
+
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "50m"
+        max-file: "3"
+
+# ==========================================================================
+# Networks
+# ==========================================================================
+networks:
+  default:
+    name: local-ai-network
+    driver: bridge
+
+# ==========================================================================
+# Volumes (optional - using bind mounts above for easier access)
+# ==========================================================================
+# volumes:
+#   vllm-models:
+#   anythingllm-storage:

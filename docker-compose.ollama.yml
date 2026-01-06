@@ -1,0 +1,89 @@
+# docker-compose.ollama.yml
+# Alternative configuration using Ollama instead of vLLM
+# Simpler setup but NO tensor parallelism (single GPU inference only)
+#
+# Good for:
+# - Smaller models (7B-13B)
+# - Simpler setup
+# - Easy model switching
+#
+# Not good for:
+# - 70B models on dual GPUs (won't use both GPUs efficiently)
+#
+# Usage:
+#   docker compose -f docker-compose.ollama.yml up -d
+#   
+# Then pull a model:
+#   docker exec -it local-ai-ollama ollama pull llama2:13b
+
+version: '3.8'
+
+services:
+  # Ollama - LLM Server
+  ollama:
+    image: ollama/ollama:latest
+    container_name: local-ai-ollama
+    volumes:
+      - ~/.local-ai-server/ollama:/root/.ollama
+    ports:
+      - "11434:11434"
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [ gpu ]
+    healthcheck:
+      test: [ "CMD", "curl", "-f", "http://localhost:11434/" ]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    restart: unless-stopped
+
+  # AnythingLLM - RAG + Web UI (configured for Ollama)
+  anythingllm:
+    image: mintplexlabs/anythingllm:latest
+    container_name: local-ai-anythingllm
+    volumes:
+      - ~/.local-ai-server/data/anythingllm:/app/server/storage
+      - ~/.local-ai-server/data/documents:/app/server/storage/documents
+    ports:
+      - "3001:3001"
+    environment:
+      - STORAGE_DIR=/app/server/storage
+      - LLM_PROVIDER=ollama
+      - OLLAMA_BASE_PATH=http://ollama:11434
+      - OLLAMA_MODEL_PREF=llama2:13b
+      - OLLAMA_MODEL_TOKEN_LIMIT=4096
+      - EMBEDDING_ENGINE=native
+      - VECTOR_DB=lancedb
+      - PASSWORDLESS_AUTH=false
+    depends_on:
+      ollama:
+        condition: service_healthy
+    healthcheck:
+      test: [ "CMD", "curl", "-f", "http://localhost:3001/api/ping" ]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    restart: unless-stopped
+  # Optional: Open WebUI as alternative frontend
+  # Uncomment if you prefer Open WebUI over AnythingLLM
+  #
+  # open-webui:
+  #   image: ghcr.io/open-webui/open-webui:main
+  #   container_name: local-ai-openwebui
+  #   volumes:
+  #     - ~/.local-ai-server/data/open-webui:/app/backend/data
+  #   ports:
+  #     - "3000:8080"
+  #   environment:
+  #     - OLLAMA_BASE_URL=http://ollama:11434
+  #   depends_on:
+  #     - ollama
+  #   restart: unless-stopped
+
+networks:
+  default:
+    name: local-ai-network

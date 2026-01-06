@@ -1,0 +1,75 @@
+# docker-compose.single-gpu.yml
+# Use this configuration for single GPU setups or smaller models
+#
+# Usage:
+#   docker compose -f docker-compose.single-gpu.yml up -d
+
+version: '3.8'
+
+services:
+  # vLLM - Single GPU configuration
+  vllm:
+    image: vllm/vllm-openai:latest
+    container_name: local-ai-vllm
+    runtime: nvidia
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=0
+      - HF_TOKEN=${HF_TOKEN:-}
+    volumes:
+      - ~/.local-ai-server/models:/root/.cache/huggingface
+      - /dev/shm:/dev/shm
+    ports:
+      - "8000:8000"
+    command: >
+      --model TheBloke/Mistral-7B-Instruct-v0.2-AWQ
+      --max-model-len 8192
+      --gpu-memory-utilization 0.90
+      --dtype auto
+      --quantization awq
+      --trust-remote-code
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              device_ids: ['0']
+              capabilities: [gpu]
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 120s
+    restart: unless-stopped
+
+  # AnythingLLM - RAG + Web UI
+  anythingllm:
+    image: mintplexlabs/anythingllm:latest
+    container_name: local-ai-anythingllm
+    volumes:
+      - ~/.local-ai-server/data/anythingllm:/app/server/storage
+      - ~/.local-ai-server/data/documents:/app/server/storage/documents
+    ports:
+      - "3001:3001"
+    environment:
+      - STORAGE_DIR=/app/server/storage
+      - LLM_PROVIDER=generic-openai
+      - GENERIC_OPEN_AI_BASE_PATH=http://vllm:8000/v1
+      - GENERIC_OPEN_AI_MODEL_PREF=TheBloke/Mistral-7B-Instruct-v0.2-AWQ
+      - GENERIC_OPEN_AI_MODEL_TOKEN_LIMIT=8192
+      - EMBEDDING_ENGINE=native
+      - VECTOR_DB=lancedb
+      - PASSWORDLESS_AUTH=true
+    depends_on:
+      vllm:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3001/api/ping"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    restart: unless-stopped
+
+networks:
+  default:
+    name: local-ai-network
