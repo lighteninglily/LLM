@@ -1,29 +1,51 @@
 # Local AI Server with RAG
 
-A fully automated deployment tool for running a local AI server with RAG (Retrieval-Augmented Generation) capabilities. Uses vLLM for multi-GPU LLM inference and AnythingLLM for the RAG pipeline and web interface.
+A fully automated deployment tool for running a local AI server with RAG (Retrieval-Augmented Generation) capabilities. Uses vLLM for multi-GPU LLM inference with **multiple interfaces**: AnythingLLM for RAG, Open WebUI for ChatGPT-like chat, and JupyterLab for code execution.
+
+## ✨ New: Enhanced Stack with Multiple Interfaces
+
+**Now includes 4 powerful interfaces:**
+- 🌐 **Open WebUI** - Polished ChatGPT-like interface (port 3000)
+- 📚 **AnythingLLM** - Best-in-class RAG and document management (port 3001)
+- 📊 **JupyterLab** - Code execution for data analysis (port 8888)
+- 🔌 **vLLM API** - Direct OpenAI-compatible API (port 8000)
+
+**Plus:**
+- 🚀 One-click installer (`one-click-install.sh`)
+- 🤖 AI Data Analyst with code execution (`ai-data-analyst.py`)
+- 📋 Comparison of alternative solutions (`ALTERNATIVES-COMPARISON.md`)
 
 ## Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                        Your Server                               │
-│  ┌─────────────────┐    ┌─────────────────────────────────────┐ │
-│  │   GPU 0 (4090)  │    │              vLLM                   │ │
-│  │     24GB VRAM   │◄──►│   Tensor Parallel Inference         │ │
-│  └─────────────────┘    │   OpenAI-compatible API (:8000)     │ │
-│  ┌─────────────────┐    └─────────────────────────────────────┘ │
-│  │   GPU 1 (4090)  │                    ▲                       │
-│  │     24GB VRAM   │                    │                       │
-│  └─────────────────┘                    ▼                       │
-│                         ┌─────────────────────────────────────┐ │
-│                         │          AnythingLLM               │ │
-│                         │   • Document Ingestion              │ │
-│                         │   • Vector Database (LanceDB)       │ │
-│                         │   • RAG Pipeline                    │ │
-│                         │   • Web UI (:3001)                  │ │
-│                         └─────────────────────────────────────┘ │
+│                     RTX 5090 Server (32GB)                       │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  ┌────────────────────────────────────────────────────────────┐ │
+│  │                        vLLM (:8000)                        │ │
+│  │              Qwen3-32B-Instruct (18GB)                     │ │
+│  │           OpenAI-compatible API endpoint                   │ │
+│  └──────────────────────────┬─────────────────────────────────┘ │
+│                             │                                    │
+│         ┌───────────────────┼───────────────────┐               │
+│         │                   │                   │               │
+│  ┌──────▼──────┐   ┌───────▼───────┐   ┌──────▼──────┐        │
+│  │ Open WebUI  │   │  AnythingLLM  │   │  JupyterLab │        │
+│  │   (:3000)   │   │    (:3001)    │   │   (:8888)   │        │
+│  │             │   │               │   │             │        │
+│  │ ChatGPT-    │   │ RAG +         │   │ Code        │        │
+│  │ like UI     │   │ Documents     │   │ Execution   │        │
+│  └─────────────┘   └───────────────┘   └─────────────┘        │
+│                                                                  │
 └─────────────────────────────────────────────────────────────────┘
 ```
+
+**Each interface serves a different purpose:**
+- Use **Open WebUI** for quick questions and general chat
+- Use **AnythingLLM** for uploading documents and RAG queries
+- Use **JupyterLab** for data analysis with code execution
+- Use **vLLM API** directly for programmatic access
 
 ## Requirements
 
@@ -35,7 +57,28 @@ A fully automated deployment tool for running a local AI server with RAG (Retrie
 
 ## Quick Start
 
-### 1. Get the deployment tool
+### Option 1: One-Click Install (Recommended)
+
+**Fastest way to get everything running:**
+
+```bash
+# Download and run the installer
+curl -fsSL https://raw.githubusercontent.com/lighteninglily/LLM/main/one-click-install.sh | bash
+
+# Or download first, then run
+wget https://raw.githubusercontent.com/lighteninglily/LLM/main/one-click-install.sh
+chmod +x one-click-install.sh
+./one-click-install.sh
+```
+
+This single script:
+- ✅ Installs NVIDIA drivers (if needed)
+- ✅ Installs Docker + NVIDIA Container Toolkit
+- ✅ Downloads all 4 interfaces (vLLM, Open WebUI, AnythingLLM, JupyterLab)
+- ✅ Starts everything automatically
+- ⏱️ Total time: 30-60 minutes (mostly downloading)
+
+### Option 2: Manual Install with deploy.py
 
 ```bash
 # Clone this repository
@@ -82,12 +125,30 @@ cd ~/.local-ai-server
 
 First startup takes 10-30 minutes to download the model (~35GB for 70B-AWQ).
 
-### 6. Access the UI
+### 6. Access Your AI Server
 
-- **AnythingLLM UI**: http://localhost:3001
-- **vLLM API**: http://localhost:8000/v1
+**Four interfaces available:**
 
-**Note**: Authentication is ENABLED by default. On first visit to AnythingLLM, you will be asked to create an admin account.
+- 🌐 **Open WebUI**: http://localhost:3000
+  - ChatGPT-like interface for general chat
+  - Built-in RAG for uploaded documents
+  - Voice input/output support
+
+- 📚 **AnythingLLM**: http://localhost:3001
+  - Best for document management and RAG
+  - Multiple workspace support
+  - Bulk document upload tools available
+
+- 📊 **JupyterLab**: http://localhost:8888
+  - Token: `lightninglily` (change in .env)
+  - Data analysis with Python code execution
+  - Your documents available at `/home/jovyan/data/`
+
+- 🔌 **vLLM API**: http://localhost:8000/v1
+  - Direct OpenAI-compatible API
+  - Use with any OpenAI SDK or tool
+
+**Note**: Authentication is ENABLED by default. Create admin account on first visit.
 
 ## Management Commands
 
