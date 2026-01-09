@@ -1,0 +1,236 @@
+version: '3.8'
+
+# TRI-MODEL CONFIGURATION
+# Runs THREE models simultaneously:
+# 1. Qwen3-32B - Fast text reasoning
+# 2. Qwen2.5-VL-32B - Vision + text
+# 3. Kimi/Moonshot - Long-context planning
+#
+# VRAM Requirements: Requires model quantization or larger GPU
+# For RTX 5090 32GB: Use smaller models or AWQ quantization
+
+services:
+  vllm-text:
+    container_name: vllm-text
+    image: vllm/vllm-openai:latest
+    ports:
+      - "8000:8000"
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              device_ids: ['0']
+              capabilities: [gpu]
+    environment:
+      - HF_TOKEN=${HF_TOKEN}
+      - VLLM_API_KEY=${VLLM_API_KEY:-dummy}
+    volumes:
+      - ~/.cache/huggingface:/root/.cache/huggingface
+      - ~/.local-ai-server/models:/models
+    command:
+      - --model
+      - Qwen/Qwen2.5-7B-Instruct  # Smaller model to fit 3 models
+      - --trust-remote-code
+      - --gpu-memory-utilization
+      - "0.25"  # 25% of GPU = ~8GB
+      - --max-model-len
+      - "4096"
+      - --port
+      - "8000"
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 300s
+    restart: unless-stopped
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+  vllm-vision:
+    container_name: vllm-vision
+    image: vllm/vllm-openai:latest
+    ports:
+      - "8001:8000"
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              device_ids: ['0']
+              capabilities: [gpu]
+    environment:
+      - HF_TOKEN=${HF_TOKEN}
+      - VLLM_API_KEY=${VLLM_API_KEY:-dummy}
+    volumes:
+      - ~/.cache/huggingface:/root/.cache/huggingface
+      - ~/.local-ai-server/models:/models
+    command:
+      - --model
+      - Qwen/Qwen2.5-VL-7B-Instruct  # Smaller VL model
+      - --trust-remote-code
+      - --gpu-memory-utilization
+      - "0.25"  # 25% of GPU = ~8GB
+      - --max-model-len
+      - "4096"
+      - --port
+      - "8000"
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 300s
+    restart: unless-stopped
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+    depends_on:
+      vllm-text:
+        condition: service_healthy
+
+  vllm-planning:
+    container_name: vllm-planning
+    image: vllm/vllm-openai:latest
+    ports:
+      - "8002:8000"
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              device_ids: ['0']
+              capabilities: [gpu]
+    environment:
+      - HF_TOKEN=${HF_TOKEN}
+      - VLLM_API_KEY=${VLLM_API_KEY:-dummy}
+    volumes:
+      - ~/.cache/huggingface:/root/.cache/huggingface
+      - ~/.local-ai-server/models:/models
+    command:
+      - --model
+      - Qwen/Qwen2.5-14B-Instruct  # Alternative: Use Qwen long-context model
+      # Note: True Kimi models may require API access
+      # Qwen 2.5 has excellent long-context and planning capabilities
+      - --trust-remote-code
+      - --gpu-memory-utilization
+      - "0.30"  # 30% of GPU = ~10GB
+      - --max-model-len
+      - "32768"  # Long context for planning
+      - --port
+      - "8000"
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 300s
+    restart: unless-stopped
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+    depends_on:
+      vllm-vision:
+        condition: service_healthy
+
+  open-webui:
+    container_name: open-webui
+    image: ghcr.io/open-webui/open-webui:main
+    ports:
+      - "3000:8080"
+    environment:
+      - OPENAI_API_BASE_URLS=http://vllm-text:8000/v1;http://vllm-vision:8000/v1;http://vllm-planning:8000/v1
+      - OPENAI_API_KEYS=${VLLM_API_KEY:-dummy};${VLLM_API_KEY:-dummy};${VLLM_API_KEY:-dummy}
+      - WEBUI_AUTH=true
+      - ENABLE_RAG_WEB_SEARCH=false
+      - ENABLE_RAG_LOCAL_WEB_FETCH=false
+      - ENABLE_IMAGE_GENERATION=false
+      - ENABLE_COMMUNITY_SHARING=false
+      - WEBUI_NAME=Local AI Server - Tri-Model
+    volumes:
+      - ~/.local-ai-server/data/open-webui:/app/backend/data
+    restart: unless-stopped
+    depends_on:
+      - vllm-text
+      - vllm-vision
+      - vllm-planning
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+  anythingllm:
+    container_name: anythingllm
+    image: mintplexlabs/anythingllm:latest
+    ports:
+      - "3001:3001"
+    environment:
+      - LLM_PROVIDER=openai
+      - OPEN_AI_KEY=${VLLM_API_KEY:-dummy}
+      - OPEN_AI_BASE_URL=http://vllm-text:8000/v1
+      - OPEN_AI_MODEL=Qwen/Qwen2.5-7B-Instruct
+      - EMBEDDING_ENGINE=native
+      - EMBEDDING_MODEL_PREF=nomic-embed-text
+      - VECTOR_DB=lancedb
+      - STORAGE_DIR=/app/server/storage
+      - AUTH_TOKEN=${ANYTHINGLLM_AUTH_TOKEN:-}
+    volumes:
+      - ~/.local-ai-server/data/anythingllm:/app/server/storage
+      - ~/.local-ai-server/data/documents:/app/server/storage/documents
+    cap_add:
+      - SYS_ADMIN
+    restart: unless-stopped
+    depends_on:
+      vllm-text:
+        condition: service_healthy
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+  jupyter:
+    container_name: jupyter
+    image: jupyter/datascience-notebook:latest
+    ports:
+      - "8888:8888"
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+      - JUPYTER_TOKEN=lightninglily
+      - GRANT_SUDO=yes
+    volumes:
+      - ~/.local-ai-server/data/notebooks:/home/jovyan/work
+      - ~/.local-ai-server/data/documents:/home/jovyan/data:ro
+      - ~/.local-ai-server/data/analysis:/home/jovyan/analysis
+    command: start-notebook.sh --NotebookApp.token='lightninglily' --NotebookApp.password=''
+    user: root
+    restart: unless-stopped
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+networks:
+  default:
+    name: local-ai-network
+    driver: bridge
+
+volumes:
+  huggingface-cache:
+    driver: local
+  open-webui-data:
+    driver: local
+  anythingllm-data:
+    driver: local
+  jupyter-data:
+    driver: local
