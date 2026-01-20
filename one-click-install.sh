@@ -140,7 +140,7 @@ install_nvidia_container_toolkit() {
     print_header "NVIDIA Container Toolkit"
     
     # Test if it works
-    if docker run --rm --gpus all nvidia/cuda:12.0-base nvidia-smi &> /dev/null; then
+    if docker run --rm --gpus all nvidia/cuda:12.4.1-base-ubuntu22.04 nvidia-smi &> /dev/null; then
         print_success "NVIDIA Container Toolkit already working"
         return 0
     fi
@@ -161,7 +161,7 @@ install_nvidia_container_toolkit() {
     
     # Test
     sleep 2
-    if docker run --rm --gpus all nvidia/cuda:12.0-base nvidia-smi &> /dev/null; then
+    if docker run --rm --gpus all nvidia/cuda:12.4.1-base-ubuntu22.04 nvidia-smi &> /dev/null; then
         print_success "NVIDIA Container Toolkit working"
     else
         print_error "Container toolkit test failed. Try logging out and back in."
