@@ -1,0 +1,62 @@
+2026-01-27 09:18:48,885 [INFO] Analyzing data in: /home/ryan/Documents/VSMS/ragflow_automation/test_data
+2026-01-27 09:18:48,885 [INFO] Sampling: ASW - DW - Open Sales Orders.csv
+2026-01-27 09:18:48,889 [INFO]   Schema: 20 columns, 0 likely FKs
+2026-01-27 09:18:48,889 [INFO] Sampling: ASW - Data Warehouse - Sales & Credit Detail.csv
+2026-01-27 09:18:48,895 [INFO]   Schema: 29 columns, 0 likely FKs
+2026-01-27 09:18:48,895 [INFO] Sampling: ASW - Live Ross - Inventory.csv
+2026-01-27 09:18:48,899 [INFO]   Schema: 17 columns, 0 likely FKs
+2026-01-27 09:18:48,899 [INFO] Sampling: ASW - Ross - Open POs.csv
+2026-01-27 09:18:48,902 [INFO]   Schema: 15 columns, 0 likely FKs
+2026-01-27 09:18:48,902 [INFO] Sampling: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-27 09:18:48,916 [INFO]   Schema: 77 columns, 0 likely FKs
+2026-01-27 09:18:48,916 [INFO] Sampling: Copy of AUS - L12M By Market Type.csv
+2026-01-27 09:18:48,929 [INFO]   Schema: 77 columns, 0 likely FKs
+2026-01-27 09:18:48,929 [INFO] Sampling: Daily Production Report v1.xlsm_Annld Wire.csv
+2026-01-27 09:18:48,932 [INFO]   Schema: 17 columns, 1 likely FKs
+2026-01-27 09:18:48,932 [INFO] Sampling: Daily Production Report v1.xlsm_Ausro.csv
+2026-01-27 09:18:48,935 [INFO]   Schema: 21 columns, 1 likely FKs
+2026-01-27 09:18:48,935 [INFO] Sampling: Daily Production Report v1.xlsm_Clifford CLW12-2.csv
+2026-01-27 09:18:48,938 [INFO]   Schema: 20 columns, 1 likely FKs
+2026-01-27 09:18:48,938 [INFO] Sampling: Daily Production Report v1.xlsm_Clifford CLW12.csv
+2026-01-27 09:18:48,940 [INFO]   Schema: 20 columns, 1 likely FKs
+2026-01-27 09:18:48,940 [INFO] Sampling: Daily Production Report v1.xlsm_Clifford MMW.csv
+2026-01-27 09:18:48,943 [INFO]   Schema: 20 columns, 1 likely FKs
+2026-01-27 09:18:48,943 [INFO] Sampling: Daily Production Report v1.xlsm_Clifford MWPA.csv
+2026-01-27 09:18:48,946 [INFO]   Schema: 20 columns, 1 likely FKs
+2026-01-27 09:18:48,946 [INFO] Sampling: Daily Production Report v1.xlsm_Drawing GZ1.csv
+2026-01-27 09:18:48,949 [INFO]   Schema: 20 columns, 1 likely FKs
+2026-01-27 09:18:48,949 [INFO] Sampling: Daily Production Report v1.xlsm_Drawing GZ2.csv
+2026-01-27 09:18:48,952 [INFO]   Schema: 20 columns, 1 likely FKs
+2026-01-27 09:18:48,952 [INFO] Sampling: Daily Production Report v1.xlsm_Drawing GZ3.csv
+2026-01-27 09:18:48,955 [INFO]   Schema: 20 columns, 1 likely FKs
+2026-01-27 09:18:48,955 [INFO] Sampling: Daily Production Report v1.xlsm_FLOK Weld.csv
+2026-01-27 09:18:48,960 [INFO]   Schema: 37 columns, 1 likely FKs
+2026-01-27 09:18:48,960 [INFO] Sampling: Daily Production Report v1.xlsm_Galv Line 1.csv
+2026-01-27 09:18:48,963 [INFO]   Schema: 17 columns, 1 likely FKs
+2026-01-27 09:18:48,963 [INFO] Sampling: Daily Production Report v1.xlsm_Galv Line 2.csv
+2026-01-27 09:18:48,965 [INFO]   Schema: 18 columns, 1 likely FKs
+2026-01-27 09:18:48,966 [INFO] Sampling: Daily Production Report v1.xlsm_Galv Line 3.csv
+2026-01-27 09:18:48,968 [INFO]   Schema: 18 columns, 1 likely FKs
+2026-01-27 09:18:48,968 [INFO] Sampling: Daily Production Report v1.xlsm_Mesh Trim.csv
+2026-01-27 09:18:48,971 [INFO]   Schema: 20 columns, 1 likely FKs
+2026-01-27 09:18:48,971 [INFO] Sampling: Daily Production Report v1.xlsm_Roll Form.csv
+2026-01-27 09:18:48,974 [INFO]   Schema: 18 columns, 1 likely FKs
+2026-01-27 09:18:48,974 [INFO] Sampling: Daily Production Report v1.xlsm_Schlatter PG12.csv
+2026-01-27 09:18:48,977 [INFO]   Schema: 20 columns, 1 likely FKs
+2026-01-27 09:18:48,977 [INFO] Sampling: Daily Production Report v1.xlsm_Schlatter PG28.csv
+2026-01-27 09:18:48,980 [INFO]   Schema: 20 columns, 1 likely FKs
+2026-01-27 09:18:48,980 [INFO] Sampling: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+2026-01-27 09:18:48,984 [INFO]   Schema: 23 columns, 1 likely FKs
+2026-01-27 09:18:48,984 [INFO] Sampling: Mine_Forecast.xlsx_Forecast_Data.csv
+2026-01-27 09:18:48,989 [INFO]   Schema: 38 columns, 1 likely FKs
+2026-01-27 09:18:48,990 [INFO] Sampling: Orders Booking Sheet v2.xlsm_DMW Orders.csv
+2026-01-27 09:18:48,994 [INFO]   Schema: 24 columns, 1 likely FKs
+2026-01-27 09:18:48,994 [INFO] Sampling: Production Sheet.xlsm_Production C2.csv
+2026-01-27 09:18:48,995 [INFO]   Schema: 5 columns, 1 likely FKs
+2026-01-27 09:18:48,995 [INFO] Sampling: Production Sheet.xlsm_Production Pittini.csv
+2026-01-27 09:18:48,996 [INFO]   Schema: 5 columns, 1 likely FKs
+2026-01-27 09:18:48,996 [INFO] Found 28 files
+2026-01-27 09:18:48,996 [INFO] Calling LLM: Qwen/Qwen2.5-7B-Instruct-AWQ at http://localhost:8000/v1
+2026-01-27 09:18:48,996 [DEBUG] Prompt length: 154694 chars
+2026-01-27 09:18:49,094 [ERROR] LLM API error: 400 Client Error: Bad Request for url: http://localhost:8000/v1/chat/completions
+2026-01-27 09:18:49,095 [ERROR] Analysis failed: 400 Client Error: Bad Request for url: http://localhost:8000/v1/chat/completions

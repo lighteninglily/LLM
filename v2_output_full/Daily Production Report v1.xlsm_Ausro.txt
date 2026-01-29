@@ -1,0 +1,401 @@
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+Ausros produced 60.0 units of OS106H-3003B on July 1, 2025. Job number JOS3003B was processed at the facility.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+Ausros produced 61.0 units of OS106H-3003B on July 2, 2025. Job number JOS3003B was processed at the facility.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+Ausros produced 62.0 units of OS106H-3003B on July 3, 2025. Job number JOS3003B was processed at the facility.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+Ausros produced 63.0 units of OS106H-3003B on July 4, 2025. Job number JOS3003B was processed at the facility.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+Ausros produced 64.0 units of OS106H-3003B on July 5, 2025. Job number JOS3003B was processed at the facility.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+Ausros produced 65.0 units of OS106H-3003B on July 6, 2025. Job number JOS3003B was processed at the facility.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+Ausros produced 66.0 units of OS106H-3003B on July 7, 2025. Job number JOS3003B was processed at the facility.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+Ausros produced 67.0 units of OS106H-3003B on July 8, 2025. Job number JOS3003B was processed at the facility.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+Ausros produced 68.0 units of OS106H-3003B on July 9, 2025. Job number JOS3003B was processed at the facility.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+Ausros produced 69.0 units of OS106H-3003B on July 10, 2025. Job number JOS3003B was processed at the facility.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+Ausros produced 70.0 units of OS106H-3003B on July 11, 2025. Job number JOS3003B was processed at the facility.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+Ausros produced 71.0 units of OS106H-3003B on July 12, 2025. Job number JOS3003B was processed at the facility.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+Ausros produced 72.0 units of OS106H-3003B on July 13, 2025. Job number JOS3003B was processed at the facility.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+Ausros produced 73.0 units of OS106H-3003B on July 14, 2025. Job number JOS3003B was processed at the facility.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+Ausros produced 74.0 units of OS106H-3003B on July 15, 2025. Job number JOS3003B was processed at the facility.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+Ausros produced 75.0 units of OS106H-3003B on July 16, 2025. Job number JOS3003B was processed at the facility.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+Ausros produced 76.0 units of OS106H-3003B on July 17, 2025. Job number JOS3003B was processed at the facility.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+Ausros produced 77.0 units of OS106H-3003B on July 18, 2025. Job number JOS3003B was processed at the facility.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+Ausros produced 78.0 units of OS106H-3003B on July 19, 2025. Job number JOS3003B was processed at the facility.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+Ausros produced 79.0 units of OS106H-3003B on July 20, 2025. Job number JOS3003B was processed at the facility.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 80.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 21, 2025. Job number JA001 was processed for SOUTH32 with 100.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 81.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 22, 2025. Job number JA001 was processed for SOUTH32 with 100.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 82.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 23, 2025. Job number JA001 was processed for SOUTH32 with 100.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 83.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 24, 2025. Job number JA001 was processed for SOUTH32 with 100.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 84.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 25, 2025. Job number JA001 was processed for SOUTH32 with 100.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 85.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 25, 2025. Job number JA001 was processed for SOUTH32 with 100.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 86.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 25, 2025. Job number JA001 was processed for SOUTH32 with 100.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 87.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 26, 2025. Job number JA001 was processed for SOUTH32 with 100.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 88.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 27, 2025. Job number JA001 was processed for SOUTH32 with 100.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 89.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 27, 2025. Job number JA001 was processed for SOUTH32 with 100.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 90.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 28, 2025. Job number JA001 was processed for SOUTH32 with 100.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 91.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 28, 2025. Job number JA001 was processed for SOUTH32 with 100.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 92.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 29, 2025. Job number JA001 was processed for SOUTH32 with 100.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 93.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 30, 2025. Job number JA001 was processed for SOUTH32 with 100.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 94.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 30, 2025. Job number JA001 was processed for SOUTH32 with 100.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 95.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 30, 2025. Job number JA001 was processed for SOUTH32 with 100.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 96.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 31, 2025. Job number JA001 was processed for SOUTH32 with 100.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 97.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 31, 2025. Job number JA001 was processed for SOUTH32 with 100.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 98.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 1, 2025. Job number JA001 was processed for SOUTH32 with 100.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 99.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 2, 2025. Job number JA001 was processed for SOUTH32 with 100.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 3, 2025. Job number JA001 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 101.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 3, 2025. Job number JA002 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 102.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 4, 2025. Job number JA003 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 103.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 4, 2025. Job number JA004 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 104.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 5, 2025. Job number JA005 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 105.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 5, 2025. Job number JA006 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 106.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 6, 2025. Job number JA007 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 7, 2025. Job number JA008 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 8, 2025. Job number JA009 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 9, 2025. Job number JA010 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 10, 2025. Job number JA011 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 11, 2025. Job number JA012 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 12, 2025. Job number JA013 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 13, 2025. Job number JA014 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 14, 2025. Job number JA015 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 15, 2025. Job number JA016 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 16, 2025. Job number JA017 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 17, 2025. Job number JA018 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 18, 2025. Job number JA019 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 19, 2025. Job number JA020 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 20, 2025. Job number JA021 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 21, 2025. Job number JA022 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 22, 2025. Job number JA023 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 23, 2025. Job number JA024 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 24, 2025. Job number JA025 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 25, 2025. Job number JA026 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 26, 2025. Job number JA027 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 27, 2025. Job number JA028 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 28, 2025. Job number JA029 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 29, 2025. Job number JA030 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 30, 2025. Job number JA031 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 31, 2025. Job number JA032 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 1, 2025. Job number JA033 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 2, 2025. Job number JA034 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 3, 2025. Job number JA035 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 4, 2025. Job number JA036 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 5, 2025. Job number JA037 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 6, 2025. Job number JA038 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 7, 2025. Job number JA039 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 8, 2025. Job number JA040 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 9, 2025. Job number JA041 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 10, 2025. Job number JA042 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 11, 2025. Job number JA043 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 12, 2025. Job number JA044 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 13, 2025. Job number JA045 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 14, 2025. Job number JA046 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 15, 2025. Job number JA047 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 16, 2025. Job number JA048 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 17, 2025. Job number JA049 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 18, 2025. Job number JA050 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 19, 2025. Job number JA051 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 20, 2025. Job number JA052 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 21, 2025. Job number JA053 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 22, 2025. Job number JA054 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 23, 2025. Job number JA055 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 24, 2025. Job number JA056 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 25, 2025. Job number JA057 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 26, 2025. Job number JA058 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 27, 2025. Job number JA059 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 28, 2025. Job number JA060 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 29, 2025. Job number JA061 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 30, 2025. Job number JA062 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 1, 2025. Job number JA063 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 2, 2025. Job number JA064 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 3, 2025. Job number JA065 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 4, 2025. Job number JA066 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 5, 2025. Job number JA067 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 6, 2025. Job number JA068 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 7, 2025. Job number JA069 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 8, 2025. Job number JA070 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 9, 2025. Job number JA071 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 10, 2025. Job number JA072 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 11, 2025. Job number JA073 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 12, 2025. Job number JA074 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 13, 2025. Job number JA075 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 14, 2025. Job number JA076 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 15, 2025. Job number JA077 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 16, 2025. Job number JA078 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 17, 2025. Job number JA079 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 18, 2025. Job number JA080 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 19, 2025. Job number JA081 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 20, 2025. Job number JA082 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 21, 2025. Job number JA083 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 22, 2025. Job number JA084 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 23, 2025. Job number JA085 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 100.0 units of R500L5.60Blk - Rebar 500L 5.6
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 20, 2025. Job number JA001 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 21, 2025. Job number JA002 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 22, 2025. Job number JA003 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 23, 2025. Job number JA004 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 24, 2025. Job number JA005 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 25, 2025. Job number JA006 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 26, 2025. Job number JA007 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 27, 2025. Job number JA008 was processed for SOUTH32 with 98.5% yield rate.

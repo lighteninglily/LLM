@@ -1,0 +1,5 @@
+2026-01-29 09:03:19,408 [INFO] Read 2009 records from Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+2026-01-29 09:03:19,437 [INFO]   Normalized entity names for 2009 records
+2026-01-29 09:03:19,437 [INFO]   Analyzing file schema...
+2026-01-29 09:03:25,028 [INFO]   File analysis: shipping - 5 entities
+2026-01-29 09:03:25,028 [INFO] Transforming Malaysian Shipping 2025 v0.xlsm_Schedule.csv: 2009 records in 101 batches

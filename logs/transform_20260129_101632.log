@@ -1,0 +1,17 @@
+2026-01-29 10:16:32,104 [INFO] Read 249 records from Daily Production Report v1.xlsm_Annld Wire.csv
+2026-01-29 10:16:32,105 [INFO]   Normalized entity names for 249 records
+2026-01-29 10:16:32,105 [INFO]   Analyzing file schema...
+2026-01-29 10:16:36,390 [INFO]   File analysis: production_record - 3 entities
+2026-01-29 10:16:36,391 [INFO] Transforming Daily Production Report v1.xlsm_Annld Wire.csv: 249 records in 13 batches
+2026-01-29 10:20:17,111 [INFO]   Wrote 283 paragraphs to Daily Production Report v1.xlsm_Annld Wire.txt
+2026-01-29 10:20:17,113 [INFO] Read 68 records from Daily Production Report v1.xlsm_Ausro.csv
+2026-01-29 10:20:17,113 [INFO]   Normalized entity names for 68 records
+2026-01-29 10:20:17,113 [INFO]   Analyzing file schema...
+2026-01-29 10:20:21,100 [INFO]   File analysis: production_record - 3 entities
+2026-01-29 10:20:21,100 [INFO] Transforming Daily Production Report v1.xlsm_Ausro.csv: 68 records in 4 batches
+2026-01-29 10:21:20,107 [INFO]   Wrote 68 paragraphs to Daily Production Report v1.xlsm_Ausro.txt
+2026-01-29 10:21:20,110 [INFO] Read 303 records from Daily Production Report v1.xlsm_Clifford CLW12-2.csv
+2026-01-29 10:21:20,114 [INFO]   Normalized entity names for 303 records
+2026-01-29 10:21:20,114 [INFO]   Analyzing file schema...
+2026-01-29 10:21:24,429 [INFO]   File analysis: production_record - 3 entities
+2026-01-29 10:21:24,429 [INFO] Transforming Daily Production Report v1.xlsm_Clifford CLW12-2.csv: 303 records in 16 batches

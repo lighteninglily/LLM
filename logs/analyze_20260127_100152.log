@@ -1,0 +1,19 @@
+2026-01-27 10:01:52,725 [INFO] Analyzing data in: /home/ryan/Documents/VSMS/ragflow_automation/batch_prod1
+2026-01-27 10:01:52,725 [INFO] Sampling: Daily Production Report v1.xlsm_Annld Wire.csv
+2026-01-27 10:01:52,729 [INFO]   Schema: 17 columns, 1 likely FKs
+2026-01-27 10:01:52,729 [INFO] Sampling: Daily Production Report v1.xlsm_Ausro.csv
+2026-01-27 10:01:52,733 [INFO]   Schema: 21 columns, 1 likely FKs
+2026-01-27 10:01:52,733 [INFO] Sampling: Daily Production Report v1.xlsm_Clifford CLW12-2.csv
+2026-01-27 10:01:52,736 [INFO]   Schema: 20 columns, 1 likely FKs
+2026-01-27 10:01:52,736 [INFO] Sampling: Daily Production Report v1.xlsm_Clifford CLW12.csv
+2026-01-27 10:01:52,738 [INFO]   Schema: 20 columns, 1 likely FKs
+2026-01-27 10:01:52,738 [INFO] Sampling: Daily Production Report v1.xlsm_Clifford MMW.csv
+2026-01-27 10:01:52,742 [INFO]   Schema: 20 columns, 1 likely FKs
+2026-01-27 10:01:52,742 [INFO] Sampling: Daily Production Report v1.xlsm_Clifford MWPA.csv
+2026-01-27 10:01:52,745 [INFO]   Schema: 20 columns, 1 likely FKs
+2026-01-27 10:01:52,745 [INFO] Found 6 files
+2026-01-27 10:01:52,745 [INFO] Calling LLM: Qwen/Qwen2.5-7B-Instruct-AWQ at http://localhost:8000/v1
+2026-01-27 10:01:52,745 [DEBUG] Prompt length: 30154 chars
+2026-01-27 10:02:02,537 [INFO] LLM response received: 2406 chars
+2026-01-27 10:02:02,537 [INFO] Parsed analysis: 6 entity types, 6 files
+2026-01-27 10:02:02,537 [INFO] Analysis saved to: /home/ryan/Documents/VSMS/ragflow_automation/config/analysis_output.json

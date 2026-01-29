@@ -1,0 +1,5 @@
+2026-01-29 10:11:58,030 [INFO] Read 249 records from Daily Production Report v1.xlsm_Annld Wire.csv
+2026-01-29 10:11:58,031 [INFO]   Normalized entity names for 249 records
+2026-01-29 10:11:58,032 [INFO]   Analyzing file schema...
+2026-01-29 10:12:58,094 [WARNING] File analysis failed: HTTPConnectionPool(host='localhost', port=8000): Read timed out. (read timeout=60), using defaults
+2026-01-29 10:12:58,094 [INFO] Transforming Daily Production Report v1.xlsm_Annld Wire.csv: 249 records in 13 batches

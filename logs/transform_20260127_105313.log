@@ -1,0 +1,4 @@
+2026-01-27 10:53:13,411 [INFO] Read 2246 records from ASW - Live Ross - Inventory.csv
+2026-01-27 10:53:13,411 [INFO] Transforming ASW - Live Ross - Inventory.csv: 2246 records in 113 batches
+2026-01-27 10:56:57,908 [ERROR] LLM API error: HTTPConnectionPool(host='localhost', port=8000): Read timed out. (read timeout=180)
+2026-01-27 10:56:57,909 [ERROR] Batch 2 failed: HTTPConnectionPool(host='localhost', port=8000): Read timed out. (read timeout=180)

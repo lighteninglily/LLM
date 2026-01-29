@@ -1,0 +1,18 @@
+2026-01-28 12:12:04,573 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 12:12:04,573 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 12:12:04,573 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 12:12:04,573 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+2026-01-28 12:12:04,760 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 12:12:04,760 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 12:12:04,761 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 12:12:04,776 [INFO] Read 2009 records from Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+2026-01-28 12:12:04,803 [INFO]   Normalized entity names for 2009 records
+2026-01-28 12:12:04,804 [INFO]   Analyzing file schema...
+2026-01-28 12:12:07,218 [INFO]   File analysis: shipping_manifest - 6 entities
+2026-01-28 12:12:07,218 [INFO] Transforming Malaysian Shipping 2025 v0.xlsm_Schedule.csv: 2009 records in 101 batches
+2026-01-28 12:40:30,439 [INFO]   Splitting into 5 files (max 500 records each)
+2026-01-28 12:40:30,440 [INFO]   Wrote 500 paragraphs to Malaysian Shipping 2025 v0.xlsm_Schedule_001.txt
+2026-01-28 12:40:30,440 [INFO]   Wrote 500 paragraphs to Malaysian Shipping 2025 v0.xlsm_Schedule_002.txt
+2026-01-28 12:40:30,440 [INFO]   Wrote 500 paragraphs to Malaysian Shipping 2025 v0.xlsm_Schedule_003.txt
+2026-01-28 12:40:30,440 [INFO]   Wrote 500 paragraphs to Malaysian Shipping 2025 v0.xlsm_Schedule_004.txt
+2026-01-28 12:40:30,440 [INFO]   Wrote 238 paragraphs to Malaysian Shipping 2025 v0.xlsm_Schedule_005.txt

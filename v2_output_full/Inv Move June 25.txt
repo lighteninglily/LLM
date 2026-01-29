@@ -1,0 +1,403 @@
+[Source: Inv Move June 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 2 units of 300002 - Luna & Milo CopperBody Classic #1 for $64 AUD on June 25, 2025.
+
+[Source: Inv Move June 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 5 units of 300003 - Luna & Milo CopperBody Classic #2 for $165 AUD on June 25, 2025.
+
+[Source: Inv Move June 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 7 units of 300004 - Luna & Milo CopperBody Classic #3 for $231 AUD on June 25, 2025.
+
+[Source: Inv Move June 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 10 units of 300005 - Luna & Milo CopperBody Classic #4 for $330 AUD on June 25, 2025.
+
+[Source: Inv Move June 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 12 units of 300006 - Luna & Milo CopperBody Classic #5 for $432 AUD on June 25, 2025.
+
+[Source: Inv Move June 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 4 units of 300007 - Luna & Milo CopperBody Classic #6 for $144 AUD on June 25, 2025.
+
+[Source: Inv Move June 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 4 units of 300008 - Luna & Milo CopperBody Classic #7 for $144 AUD on June 25, 2025.
+
+[Source: Inv Move June 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 9 units of 300009 - Luna & Milo CopperBody Classic #8 for $360 AUD on June 25, 2025.
+
+[Source: Inv Move June 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 8 units of 300010 - Luna & Milo CopperBody Classic #9 for $320 AUD on June 25, 2025.
+
+[Source: Inv Move June 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 4 units of 300011 - Luna & Milo CopperBody Classic #10 for $160 AUD on June 25, 2025.
+
+[Source: Inv Move June 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 6 units of 300012 - Luna & Milo CopperBody Classic #11 for $246 AUD on June 25, 2025.
+
+[Source: Inv Move June 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 1 unit of 300013 - Luna & Milo CopperBody Classic #12 for $41 AUD on June 25, 2025.
+
+[Source: Inv Move June 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 2 units of 300014 - Luna & Milo CopperBody Classic #13 for $82 AUD on June 25, 2025.
+
+[Source: Inv Move June 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 2 units of 300015 - Luna & Milo CopperBody Classic #15 for $45 AUD on June 25, 2025.
+
+[Source: Inv Move June 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 2 units of 300016 - Luna & Milo CopperBody Classic #16 for $45 AUD on June 25, 2025.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on June 25, 2023. Order contains 32 units of Luna & Milo CopperBody Castration #0 for delivery to [LOCATION].
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on June 25, 2023. Order contains 32 units of Luna & Milo CopperBody Castration #1 for delivery to [LOCATION].
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on June 25, 2023. Order contains 66 units of Luna & Milo CopperBody Castration #2 for delivery to [LOCATION].
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on June 25, 2023. Order contains 33 units of Luna & Milo CopperBody Castration #3 for delivery to [LOCATION].
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on June 25, 2023. Order contains 165 units of Luna & Milo CopperBody Castration #4 for delivery to [LOCATION].
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on June 25, 2023. Order contains 180 units of Luna & Milo CopperBody Castration #5 for delivery to [LOCATION].
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on June 25, 2023. Order contains 72 units of Luna & Milo CopperBody Castration #7 for delivery to [LOCATION].
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on June 25, 2023. Order contains 40 units of Luna & Milo CopperBody Castration #8 for delivery to [LOCATION].
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on June 25, 2023. Order contains 40 units of Luna & Milo CopperBody Castration #9 for delivery to [LOCATION].
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on June 25, 2023. Order contains 80 units of Luna & Milo CopperBody Castration #10 for delivery to [LOCATION].
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on June 25, 2023. Order contains 82 units of Luna & Milo CopperBody Castration #11 for delivery to [LOCATION].
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on June 25, 2023. Order contains 82 units of Luna & Milo CopperBody Castration #12 for delivery to [LOCATION].
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on June 25, 2023. Order contains 41 units of Luna & Milo CopperBody Castration #13 for delivery to [LOCATION].
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on June 25, 2023. Order contains 45 units of Luna & Milo CopperBody Castration #14 for delivery to [LOCATION].
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on June 25, 2023. Order contains 45 units of Luna & Milo CopperBody Castration #15 for delivery to [LOCATION].
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on June 25, 2023. Order contains 40 units of Luna & Milo CopperBody 4-Legs #0 for delivery to [LOCATION].
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on June 25, 2023. Order contains 176 units of Luna & Milo CopperBody 4-Legs #5 for delivery to [LOCATION].
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on June 25, 2023. Order contains 88 units of Luna & Milo CopperBody 4-Legs #7 for delivery to [LOCATION].
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on June 25, 2023. Order contains 96 units of Luna & Milo CopperBody 4-Legs #8 for delivery to [LOCATION].
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on June 25, 2023. Order contains 144 units of Luna & Milo CopperBody 4-Legs #9 for delivery to [LOCATION].
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order SO-2025-001 on June 25, 2025. Order contains 48 units of Luna & Milo CopperBody 4-Legs #10 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order SO-2025-002 on June 25, 225. Order contains 50 units of Luna & Milo CopperBody 4-Legs #11 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order SO-2025-003 on June 25, 225. Order contains 50 units of Luna & Milo CopperBody 4-Legs #12 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order SO-2025-004 on June 25, 225. Order contains 9450 units of EickView 150E for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order SO-2025-005 on June 25, 225. Order contains 180 units of Cup Inlay, UHMW-PE, 24, snap for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order SO-2025-006 on June 25, 225. Order contains 180 units of Cup Inlay, UHMW-PE, 26, snap for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order SO-2025-007 on June 25, 225. Order contains 180 units of Cup Inlay, UHMW-PE, 28, snap for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order SO-2025-008 on June 25, 225. Order contains 180 units of Cup Inlay, UHMW-PE, 30, snap for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order SO-2025-009 on June 25, 225. Order contains 15 units of CBLO Cortical Screw 2.0mm x 8mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order SO-2025-010 on June 25, 225. Order contains 60 units of CBLO Cortical Screw 2.0mm x 10mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order SO-2025-011 on June 25, 225. Order contains 30 units of CBLO Cortical Screw 2.0mm x 14mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order SO-2025-012 on June 25, 225. Order contains 15 units of CBLO Cortical Screw 2.0mm x 16mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order SO-2025-013 on June 25, 225. Order contains 30 units of CBLO Cortical Screw 2.0mm x 22mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order SO-2025-014 on June 25, 225. Order contains 30 units of CBLO Cortical Screw 2.0mm x 24mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order SO-2025-015 on June 25, 225. Order contains 30 units of CBLO Cortical Screw 2.4mm x 8mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order SO-2025-016 on June 25, 225. Order contains 30 units of CBLO Cortical Screw 2.4mm x 22mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order SO-2025-017 on June 25, 225. Order contains 60 units of CBLO Cortical Screw 2.7mm x 20mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order SO-2025-018 on June 25, 225. Order contains 30 units of CBLO Cortical Screw 2.7mm x 22mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order SO-2025-019 on June 25, 225. Order contains 218.5 units of Innoplant-Taper Head, TiAl6V4, TiN, 18-XXL for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order SO-2025-020 on June 25, 225. Order contains 218.5 units of Innoplant-Taper Head, TiAl6V4, TiN, 18-L for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-001 on January 10, 2025. Order contains 10,000 units of R500L5.60Blk - Rebar 500L 5.6m Black for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+GLENCORE placed order PO-2025-002 on January 11, 2025. Order contains 8,000 units of R500L5.60Blk - Rebar 500L 5.6m Black for delivery to DENDROBIUM MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+ANGLO AMERICAN placed order PO-2025-003 on January 12, 2025. Order contains 6,000 units of R500L5.60Blk - Rebar 500L 5.6m Black for delivery to WEST CLIFF MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+CENTENNIAL COAL placed order PO-2025-004 on January 13, 2025. Order contains 4,000 units of R500L5.60Blk - Rebar 500L 5.6m Black for delivery to SPRINGVALE MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+BHP placed order PO-2025-005 on January 14, 2025. Order contains 7,500 units of R500L5.60Blk - Rebar 500L 5.6m Black for delivery to METROPOLITAN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-006 on January 15, 2025. Order contains 5,000 units of HC2-T-24 - Screw Cup SL, Titan, 24 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-007 on January 15, 2025. Order contains 7,500 units of HC2-T-26 - Screw Cup SL, Titan, 26 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-008 on January 15, 2025. Order contains 10,000 units of HC2-T-28 - Screw Cup SL, Titan, 28 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-009 on January 15, 2025. Order contains 12,500 units of HC2-T-30 - Screw Cup SL, Titan, 30 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-010 on January 15, 2025. Order contains 9,000 units of HF3-T-18,5 - HELICA TPS Flange (incl. Locking Nut) for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-011 on January 15, 2025. Order contains 8,500 units of HF3-T-20,0 - HELICA TPS Flange (incl. Locking Nut) for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-012 on January 15, 2025. Order contains 7,000 units of HF3-T-21,5 - HELICA TPS Flange (incl. Locking Nut) for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-013 on January 15, 2025. Order contains 6,000 units of HS3-T-09x32 - HELICA TPS Stem, Titan, 09x32 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-014 on January 15, 2025. Order contains 5,500 units of HS3-T-10x35 - HELICA TPS Stem, Titan, 10x35 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-015 on January 15, 2025. Order contains 5,000 units of LSCBLO2410 - CBLO Locking Screw 2.4mm x 10mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-016 on January 15, 2025. Order contains 4,500 units of LSCBLO2412 - CBLO Locking Screw 2.4mm x 12mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-017 on January 15, 2025. Order contains 4,000 units of LSCBLO2414 - CBLO Locking Screw 2.4mm x 14mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-018 on January 15, 2025. Order contains 3,500 units of LSCBLO2416 - CBLO Locking Screw 2.4mm x 16mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-019 on January 15, 2025. Order contains 3,000 units of LSCBLO2418 - CBLO Locking Screw 2.4mm x 18mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-020 on January 15, 2025. Order contains 2,500 units of LSCBLO2426 - CBLO Locking Screw 2.4mm x 26mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-021 on January 15, 2025. Order contains 2,000 units of LSCBLO2428 - CBLO Locking Screw 2.4mm x 28mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-022 on January 15, 2025. Order contains 2,200 units of LSCBLO3514 - CBLO Locking Screw 3.5mm x 14mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Record type: order_record]
+SOUTH32 placed order PO-2025-001 on June 25, 2025. Order contains 29 units of CBLO Locking Screw 3.5mm x 16mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Record type: order_record]
+SOUTH32 placed order PO-2025-002 on June 25, 2025. Order contains 29 units of CBLO Locking Screw 3.5mm x 18mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Record type: order_record]
+SOUTH32 placed order PO-2025-003 on June 25, 2025. Order contains 29 units of CBLO Locking Screw 3.5mm x 20mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Record type: order_record]
+SOUTH32 placed order PO-2025-004 on June 25, 2025. Order contains 29 units of CBLO Locking Screw 3.5mm x 22mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Record type: order_record]
+SOUTH32 placed order PO-2025-005 on June 25, 2025. Order contains 29 units of CBLO Locking Screw 3.5mm x 24mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Record type: order_record]
+SOUTH32 placed order PO-2025-006 on June 25, 2025. Order contains 29 units of CBLO Locking Screw 3.5mm x 26mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Record type: order_record]
+SOUTH32 placed order PO-2025-007 on June 25, 2025. Order contains 29 units of CBLO Locking Screw 3.5mm x 28mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Record type: order_record]
+SOUTH32 placed order PO-2025-008 on June 25, 2025. Order contains 29 units of CBLO Locking Screw 3.5mm x 30mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Record type: order_record]
+SOUTH32 placed order PO-2025-009 on June 25, 2025. Order contains 29 units of CBLO Locking Screw 3.5mm x 32mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Record type: order_record]
+SOUTH32 placed order PO-2025-010 on June 25, 2025. Order contains 29 units of CBLO Locking Screw 3.5mm x 36mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Record type: order_record]
+SOUTH32 placed order PO-2025-011 on June 25, 2025. Order contains 29 units of CBLO Locking Screw 3.5mm x 38mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Record type: order_record]
+SOUTH32 placed order PO-2025-012 on June 25, 2025. Order contains 29 units of CBLO Locking Screw 3.5mm x 40mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Record type: order_record]
+SOUTH32 placed order PO-2025-013 on June 25, 2025. Order contains 29 units of CBLO Locking Screw 3.5mm x 46mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Record type: order_record]
+GLENCORE placed order PO-2025-014 on June 25, 2025. Order contains 245 units of Anatomical locking CBLO plate 2.0 | LEFT | L 35 | for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Record type: order_record]
+GLENCORE placed order PO-2025-015 on June 25, 2025. Order contains 245 units of Anatomical locking CBLO plate 2.4 | LEFT | L 38 | for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Record type: order_record]
+GLENCORE placed order PO-2025-016 on June 25, 2025. Order contains 245 units of Anatomical locking CBLO plate 35 | LEFT | L 56 | for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Record type: order_record]
+GLENCORE placed order PO-2025-017 on June 25, 2025. Order contains 255 units of Anatomical locking CBLO plate 35 | LEFT | L 80 | for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Record type: order_record]
+GLENCORE placed order PO-2025-018 on June 25, 2025. Order contains 265 units of Anatomical locking CBLO plate 35 | LEFT | L 100 | for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Record type: order_record]
+GLENCORE placed order PO-2025-019 on June 25, 2025. Order contains 275 units of Anatomical locking CBLO plate 35 broad | LEFT | L for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Record type: order_record]
+GLENCORE placed order PO-2025-020 on June 25, 2025. Order contains 245 units of Anatomical locking CBLO plate 2.0 | RIGHT | L 35 | for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-001 on January 10, 2025. Order contains 10,000 units of Zlig 48 fibers / 19mm, 25 - 45kg, 6000 Artificial C... for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-002 on January 10, 2025. Order contains 5,000 units of Zlig 48 fibers / 22mm, 25 - 45kg, 6000 Artificial C... for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-003 on January 10, 2025. Order contains 15,000 units of Zlig 48 fibers / 25mm, 25 - 45kg, 600 Artificial C... for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-004 on January 10, 2025. Order contains 7,000 units of Zlig K-Wire, blunt/blunt, 1.0 x 190mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-005 on January 10, 2025. Order contains 7,000 units of Zlig K-Wire, trocar/trocar trocar/trocar 1.8x190m... for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-006 on January 10, 2025. Order contains 705 units of 3Con Stem, CoCrMo, # 6 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-007 on January 10, 2025. Order contains 705 units of 3Con Stem, CoCrMo, # 7 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-008 on January 10, 2025. Order contains 705 units of 3Con Stem, CoCrMo, # 8 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-009 on January 10, 2025. Order contains 705 units of 3Con Stem, CoCrMo, # 9 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-010 on January 10, 2025. Order contains 705 units of 3Con Stem, TiAl6V4, # 7,5 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-011 on January 10, 2025. Order contains 245 units of Anatomical locking CBLO plate 2.4 RIGHT L 38 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-012 on January 10, 2025. Order contains 265 units of Anatomical locking CBLO plate 35 RIGHT L 100 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-013 on January 10, 2025. Order contains 275 units of Anatomical locking CBLO plate 35 broad RIGHT L... for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-014 on January 10, 2025. Order contains 7.5 units of Polyurethane Iodophor infused drape 20cm x 30cm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-015 on January 10, 2025. Order contains 17.5 units of Star Track FPP for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-016 on January 10, 2025. Order contains 705 units of 3Con Stem, CoCrMo, # 6 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-017 on January 10, 2025. Order contains 705 units of 3Con Stem, CoCrMo, # 7 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-018 on January 10, 2025. Order contains 705 units of 3Con Stem, CoCrMo, # 8 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-019 on January 10, 2025. Order contains 705 units of 3Con Stem, CoCrMo, # 9 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-020 on January 10, 2025. Order contains 705 units of 3Con Stem, TiAl6V4, # 7,5 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-021 on January 10, 2025. Order contains 495 units of Zlig 48 fibers / 19mm, 25 - 45kg, 6000 Artificial C... for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-022 on January 10, 2025. Order contains 495 units of Zlig 48 fibers / 22mm, 25 - 45kg, 6000 Artificial C... for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-023 on January 10, 2025. Order contains 1485 units of Zlig 48 fibers / 25mm, 25 - 45kg, 600 Artificial C... for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-024 on January 10, 2025. Order contains 32 units of Zlig Interference Screw cannulated 1.1/4.0/13.0mm... for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-025 on January 10, 2025. Order contains 32 units of Zlig Interference Screw cannulated 1.1/4.5/10.0mm... for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-026 on January 10, 2025. Order contains 64 units of Zlig Interference Screw cannulated 1.1/4.5/15.0mm... for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-027 on January 10, 2025. Order contains 64 units of Zlig Interference Screw cannulated 1.1/4.5/20.0mm... for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-028 on January 10, 2025. Order contains 64 units of Zlig Interference Screw cannulated 1.1/4.5/25.0mm... for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order ZL191568 on June 25, 2023. Order contains 32 units of ZL191568 - Zlig Interference Screw cannulated, 2.9/5.0/20.0mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order ZL191580 on June 25, 2023. Order contains 32 units of ZL191580 - Titanium Interference screw cannulated, 1.1/4.0/21... for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: order_record]
+SOUTH32 placed order ZL191926 on June 25, 2023. Order contains 10 units of ZL191926 - VetLig wireloop 0.5/600mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move June 25.xls | Type: sales_record]
+Total sales value: $38,227.50 AUD on June 25, 2023.
+
+[Source: Inv Move June 25.xls | Type: summary_record]
+Summary of sales by item shows total units sold: 37,841 on June 25, 2023.
+
+[Source: Inv Move June 25.xls | Type: other_sales_record]
+Other sales amount: $386.50 AUD on June 25, 2023.
+
+[Source: Inv Move June 25.xls | Type: cash_sales_record]
+Cash sales amount: $0.00 AUD on June 25, 2023.
+
+[Source: Inv Move June 25.xls | Type: credit_sales_record]
+Credits amount: $0.00 AUD on June 25, 2023.
+
+[Source: Inv Move June 25.xls | Type: sales_record]
+Total sales value: $38,227.50 AUD on June 25, 2023.
+
+Note: The records 6, 7, 8, 9, and 10 do not contain specific product details or quantities, so they are summarized as general sales and other transactions without detailed product information.

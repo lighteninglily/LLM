@@ -1,0 +1,4 @@
+county_id,county_name,region,primary_climate,notes
+AK-C01,Denali Borough,Interior,Subarctic,"Sparse population; long response distances"
+AK-C02,Gustavus Area,Panhandle,Maritime,"Coastal access; glacier tourism"
+AK-C03,Kenai Peninsula,Southcentral,Maritime-Subarctic,"Ports and backcountry access"

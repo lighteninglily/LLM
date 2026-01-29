@@ -1,0 +1,107 @@
+Analyze this data file for intelligent RAG transformation and Knowledge Graph extraction.
+
+FILE: {filename}
+SCHEMA (columns): {schema}
+SAMPLE RECORDS (first 5):
+{sample_records}
+
+You are an intelligent data analyst. Analyze this file and determine EVERYTHING needed to transform it optimally for retrieval and knowledge graph extraction.
+
+=== ANALYSIS TASKS ===
+
+1. **Record Type**: What kind of data is this? (production_record, sales_order, inventory, shipping, forecast, etc.)
+
+2. **Domain Context**: What business domain does this data represent? What terminology and relationships are typical?
+
+3. **Entity Types**: What entities exist in THIS file?
+   - Primary entity (main subject of each record)
+   - Secondary entities (referenced entities)
+
+4. **Relationships**: What relationships connect entities?
+   - Format: [Entity1] --[verb]--> [Entity2]
+
+5. **RETRIEVAL-SENSITIVE FIELDS** (CRITICAL):
+   Identify fields where semantic search will FAIL because embeddings treat similar values as identical.
+   
+   Ask yourself for each field:
+   - "If a user queries for a SPECIFIC value in this field, will embeddings distinguish it from similar values?"
+   - "Do values in this field differ by only 1-2 characters, digits, or small variations?"
+   
+   Common retrieval-sensitive field types:
+   - DATES: "December 3" vs "December 8" are ~99% similar to embeddings
+   - CODES/IDs: "IMB45-66-5111" vs "IMB45-66-5117" differ by 1 character
+   - ORDER NUMBERS: "254980" vs "254981" are semantically identical
+   - SEQUENTIAL NUMBERS: Any incrementing IDs, job numbers, batch numbers
+   - MACHINE NAMES: "CLIFFORD MMW" vs "CLIFFORD MWPA" are very similar
+   - LOCATIONS: Specific sites that must be distinguished
+
+6. **Canonical Naming**: What variations exist that should map to canonical names?
+
+7. **Suggested Phrases**: Domain-appropriate relationship phrases for the narrative.
+
+=== OUTPUT JSON ===
+
+```json
+{
+  "record_type": "production_record",
+  "domain": "manufacturing",
+  "primary_entity": "production_run",
+  "entities": ["machine", "product", "order"],
+  "relationships": [
+    {"from": "machine", "type": "PRODUCED", "to": "product"},
+    {"from": "production_run", "type": "FULFILLS", "to": "order"}
+  ],
+  "retrieval_sensitive_fields": [
+    {
+      "field": "production_date",
+      "column": "Date",
+      "type": "date",
+      "tag_key": "date",
+      "format": "YYYY-MM-DD",
+      "reason": "Users query specific dates; embeddings cannot distinguish Dec 3 from Dec 8"
+    },
+    {
+      "field": "product_code",
+      "column": "Product",
+      "type": "identifier",
+      "tag_key": "product",
+      "format": "raw",
+      "reason": "Codes differ by 1-2 characters; must be exact-matched"
+    },
+    {
+      "field": "machine_name",
+      "column": "Machine",
+      "type": "enum",
+      "tag_key": "machine",
+      "format": "UPPERCASE_UNDERSCORE",
+      "reason": "Similar machine names must be distinguished"
+    },
+    {
+      "field": "order_number",
+      "column": "Order No",
+      "type": "identifier",
+      "tag_key": "order",
+      "format": "raw",
+      "reason": "Sequential order numbers are semantically identical to embeddings"
+    }
+  ],
+  "canonical_mappings": {
+    "S32": "SOUTH32",
+    "Galv 1": "GALVANIZING_LINE_1"
+  },
+  "key_fields": {
+    "entity_columns": ["Machine", "Product", "Customer"],
+    "quantity_columns": ["Qty", "Units Produced"],
+    "date_columns": ["Date", "Production Date"],
+    "reference_columns": ["Order No", "Job No", "Batch"]
+  },
+  "suggested_phrases": [
+    "[Machine] produced [Quantity] units of [Product] on [Date]",
+    "Production run for order [Order No] achieved [Yield]% yield"
+  ]
+}
+```
+
+IMPORTANT: Be thorough with retrieval_sensitive_fields. Any field where users might query for SPECIFIC values needs a tag. When in doubt, include it.
+
+Return ONLY the JSON.

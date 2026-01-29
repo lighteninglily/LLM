@@ -1,0 +1,881 @@
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+4 STEEL SUPPLIES (MC0001) placed order 226675 on November 12, 2025. Order contains 50 units of SMF24120507504G - 50x75x2400x1200x4mm Ind Mesh IMG4-23-2412 for delivery to M1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+4 STEEL SUPPLIES (MC0001) placed order 226675 on November 12, 2025. Order contains 50 units of SMF30240505004G - 50x50x3000x2400x4mm Weld Mesh IMG4-22-3024 for delivery to M1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 225374 on October 5, 2025. Order contains 180 units of SMF3H51245050G - 50X50X5100X2400X3.15MM GAL IND MESH for delivery to M1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 227388 on December 3, 2025. Order contains 400 units of T120X100M126060 - TG120-12/60/60-10.0M for delivery to M1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 227388 on December 3, 2025. Order contains 62 units of T120X130M126060 - TG120-12/60/60-13.0M for delivery to M1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 227388 on December 3, 2025. Order contains 1 unit of 4ASWMISC - ASW MISCELLANEOUS SALES for delivery to M1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 227388 on December 3, 2025. Order contains 1 unit of 4FREIGHT - Freight Out Charge for delivery to M1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 227556 on December 8, 2025. Order contains 50 units of SMF3H30242525G - 25x25x3000x2400x3.15 Ind Mesh IMG3H-11-3024 for delivery to M1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 227556 on December 8, 2025. Order contains 12 units of SMF3H24122525G - 25x25x2400x1200x3.15mm Ind Mes IMG3H-11-2412 for delivery to M1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 227880 on December 19, 2025. Order contains 8 units of SYARD601110155G - 100x150x6000x1100x5 Sheepyard IMG5-46-6011 for delivery to M1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 227880 on December 19, 2025. Order contains 1 unit of 4FREIGHT - Freight Out Charge for delivery to M1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ATF SERVICES PTY LTD (MC0014) placed order 225978 on October 22, 2025. Order contains 3400 units of SMF2516757503G - MESH 2.5MX1.6M 75X75 APT 3.15MM WIRE - GAL IMG3H-33-2516 for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+BITS OF STEEL SUPPLIES PTY LTD (MC0024) placed order 226429 on November 4, 2025. Order contains 25 units of SMF2H241202525G - 25x25x2400x1200x2.5mm Ind Mesh IMG2H-11-2412 for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+BLUESCOPE ALBANY (MC0025) placed order 227645 on December 10, 2025. Order contains 200 units of SL41 - SL 41 Square Mesh 6X2.4 R500SL41 for delivery to M1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+BLUESCOPE ALBANY (MC0025) placed order 227645 on December 10, 2025. Order contains 25 units of CCP30241010056G - 100x100x3000x2400x5.6 Ind Mesh P IMG5H-44-3024_JEN for delivery to M1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+BLUESCOPE DISTRIBUTION (MC0026) placed order 225951 on October 22, 2025. Order contains 50 units of SMF29110102005G - 100x200x2.9x1.1x 5mm Weld mesh IMG5-48-2911 for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+BLUESCOPE DISTRIBUTION (MC0026) placed order 225951 on October 22, 2025. Order contains 1 unit of 4FREIGHT - Freight Out Charge for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+CIVILMART (NAVAL BASE CONCRETE) (MC0037) placed order 227748 on December 15, 2025. Order contains 24 units of CW500L5 - 5.0mm Bright Wire In Coils R500L5.0-Coils for delivery to M1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+DI CANDILO STEEL CITY (MC0042) placed order 227528 on December 8, 2025. Order contains 100 units of SMF30240505004G - 50x50x3000x2400x4mm Weld Mesh IMG4-22-3024 for delivery to M1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+DI CANDILO STEEL CITY (MC0042) placed order 227528 on December 8, 2025. Order contains 1 unit of 4FREIGHT - Freight Out Charge for delivery to M1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+DSI UNDERGROUND AUSTRALIA PTY LTD placed order 221365 on June 3, 2025. Order contains 900 units of SMF5716101005G - MESH MINE 5.7MX1.6M 100X100 APT 5MM WIRE - GAL for M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+DSI UNDERGROUND AUSTRALIA PTY LTD placed order 221368 on June 3, 2025. Order contains 7,290 units of SMF5716101005 - MESH MINE 5.7MX1.6M 100X100 APT 5MM WIRE - BLK for M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+DSI UNDERGROUND AUSTRALIA PTY LTD placed order 222836 on July 17, 2025. Order contains 3,000 units of SMF2516101031G - MESH RIB 2.5MX1.60M 100X100 APT 3.15MM WIRE GALV IMG3H-44-2516 for M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+DSI UNDERGROUND AUSTRALIA PTY LTD placed order 225262 on September 30, 2025. Order contains 3,000 units of SMF2420101003 - 100x100x2400x2000x3.15 Ind Mes IMB3H-44-2420-DCLA for M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+DSI UNDERGROUND AUSTRALIA PTY LTD placed order 225704 on October 15, 2025. Order contains 1,000 units of JOS4003B - Ausro Strap 4.0 x 0.3 OSH106H-4003 for M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+DSI UNDERGROUND AUSTRALIA PTY LTD placed order 225826 on October 19, 2025. Order contains 1,000 units of JOS5803B - Ausro Strap 5.8 x 0.3 OSH106H-5803 for M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+DSI UNDERGROUND AUSTRALIA PTY LTD placed order 226543 on November 9, 2025. Order contains 3,000 units of SMF2516101031G - MESH RIB 2.5MX1.60M 100X100 APT 3.15MM WIRE GALV IMG3H-44-2516 for M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+DSI UNDERGROUND AUSTRALIA PTY LTD placed order 227616 on December 9, 2025. Order contains 3,000 units of SMF2218101003G - RIB MESH 2.2MX1.8M 100X100MM APT & 3.15MM GAL WIRE for M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+DSI UNDERGROUND AUSTRALIA PTY LTD placed order 227660 on December 11, 2025. Order contains 500 units of CCP45241010056G - MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN for M1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+DSI UNDERGROUND AUSTRALIA PTY LTD placed order 227660 on December 11, 2025. Order contains 500 units of CCP45241010056G - MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN for M1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+DSI UNDERGROUND AUSTRALIA PTY LTD placed order 227660 on December 11, 2025. Order contains 500 units of CCP45241010056G - MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN for M1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+DSI UNDERGROUND AUSTRALIA PTY LTD placed order 227660 on December 11, 2025. Order contains 500 units of CCP45241010056G - MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN for M1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+DSI UNDERGROUND AUSTRALIA PTY LTD placed order 227660 on December 11, 2025. Order contains 500 units of CCP45241010056G - MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN for M1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+DSI UNDERGROUND AUSTRALIA PTY LTD placed order 227660 on December 11, 2025. Order contains 500 units of CCP45241010056G - MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN for M1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+DSI UNDERGROUND AUSTRALIA PTY LTD placed order 227660 on December 11, 2025. Order contains 500 units of CCP45241010056G - MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN for M1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+DSI UNDERGROUND AUSTRALIA PTY LTD placed order 227660 on December 11, 2025. Order contains 500 units of CCP45241010056G - MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN for M1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+DSI UNDERGROUND AUSTRALIA PTY LTD placed order 227660 on December 11, 2025. Order contains 500 units of CCP45241010056G - MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN for M1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+DSI UNDERGROUND AUSTRALIA PTY LTD placed order 227660 on December 11, 2025. Order contains 500 units of CCP45241010056G - MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN for M1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+DSI UNDERGROUND AUSTRALIA PTY LTD placed order 227660 on December 11, 2025. Order contains 500 units of CCP45241010056G - MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN for M1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+DSI UNDERGROUND AUSTRALIA PTY LTD placed order 227660 on December 11, 2025. Order contains 500 units of CCP45241010056G - MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN for M1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+DSI UNDERGROUND AUSTRALIA PTY LTD placed order 227660 on December 11, 2025. Order contains 500 units of CCP45241010056G - MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN for M1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+DSI UNDERGROUND AUSTRALIA PTY LTD placed order 227660 on December 11, 2025. Order contains 500 units of CCP45241010056G - MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN for M1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+DSI UNDERGROUND AUSTRALIA PTY LTD placed order 227660 on December 11, 2025. Order contains 500 units of CCP45241010056G - MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN for M1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+DSI UNDERGROUND AUSTRALIA PTY LTD placed order 227691 on December 11, 2025. Order contains 3,000 units of SMF2420101003 - 100x100x2400x2000x3.15 Ind Mes IMB3H-44-2420-DCLA for M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+DSI UNDERGROUND AUSTRALIA PTY LTD placed order 227825 on December 17, 2025. Order contains 5,000 units of SMF45171010056G - MESH MINE 4.5MX1.7M 100X100 APT 5.6MM WIRE - GAL IMG5H-44-4517_JEN for M1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+DSI UNDERGROUND AUSTRALIA PTY LTD (MC0043) placed order 227878 on December 18, 2025. Order contains 540 units of SMF5716101005 - MESH MINE 5.7MX1.6M 100X100 APT 5MM WIRE - BLK for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+DSI UNDERGROUND AUSTRALIA PTY LTD (MC0043) placed order 227878 on December 18, 2025. Order contains 540 units of SMF5716101005 - MESH MINE 5.7MX1.6M 100X100 APT 5MM WIRE - BLK for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+DSI UNDERGROUND AUSTRALIA PTY LTD (MC0043) placed order 227878 on December 18, 2025. Order contains 540 units of SMF5716101005 - MESH MINE 5.7MX1.6M 100X100 APT 5MM WIRE - BLK for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+HARTWAY GALVANIZERS - NAVAL BASE (MC0054) placed order 227526 on December 8, 2025. Order contains 7.4 units of TIE3.15X2.3MM - Tie Wire 3.15mmx2.3m Length Tie-3.15mm-2.3m for delivery to M1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+INFRABUILD STEEL CENTRE PERTH (MC0063) placed order 226692 on November 13, 2025. Order contains 150 units of SMF30240505004G - 50x50x3000x2400x4mm Weld Mesh IMG4-22-3024 for delivery to M1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+INFRABUILD STEEL CENTRE PERTH (MC0063) placed order 227606 on December 9, 2025. Order contains 350 units of SMF3H30242525G - 25x25x3000x2400x3.15 Ind Mesh IMG3H-11-3024 for delivery to M1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+INFRABUILD STEEL CENTRE PERTH (MC0063) placed order 227606 on December 9, 2025. Order contains 150 units of SMF24120505004G - 50x50x2400x1200x4mm Ind Mesh IMG4-22-2412 for delivery to M1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+INFRABUILD STEEL CENTRE PERTH (MC0063) placed order 227606 on December 9, 2025. Order contains 700 units of SMF30240505004G - 50x50x3000x2400x4mm Weld Mesh IMG4-22-3024 for delivery to M1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+INFRABUILD STEEL CENTRE PERTH (MC0063) placed order 227606 on December 9, 2025. Order contains 1 unit of 4FREIGHT - Freight Out Charge for delivery to M1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+INFRABUILD STEEL CENTRE PERTH (MC0063) placed order 227606 on December 9, 2025. Order contains 6 units of SCBW6.3X6M - S&C Brt Wire 6.3x6000mm 500kgs SCBW6.3-6000-500kgs for delivery to M1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+INFRABUILD YATALA (MC0065) placed order 227378 on December 2, 2025. Order contains 200 units of SMF2H241202525G - 25x25x2400x1200x2.5mm Ind Mesh IMG2H-11-2412 for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 222198 on June 30, 2025. Order contains 500 units of CCP4824101005 - Mine Mesh 4.8M x 2.4M 100 x 100 Apt 5mm Wire - Blk IMB5-44-4824 for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 222280 on July 1, 2025. Order contains 480 units of GXB501710154G - GX MESH ROOF 5.00M X 1.70M 100X150 APT 4.00MM WIRE - GAL for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 222330 on July 2, 2025. Order contains 550 units of CCP45241010056G - MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 222330 on July 2, 2025. Order contains 550 units of CCP45241010056G - MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 222334 on July 2, 2025. Order contains 147 units of GXB5614101004G - GX MESH ROOF 5.60M X 1.40M 100X100 APT 4.0MM WIRE - GAL for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 224525 on September 7, 2025. Order contains 25 units of GXB48121010VGDE - GX MESH - ROOF 4.8M X 1.2M GAL DENDROBIUM MAT # 10992135 for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 225199 on September 29, 2025. Order contains 1600 units of SMF1716101003G - RIB MESH 1.7M X 1.6M, 100X100 APT & 3.15MM GAL WIRE for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 225223 on September 30, 2025. Order contains 2000 units of SMF1711151504UW - MESH - RIB 1.7M X 1.1M 150X150MM APT GLENCORE COAL MAT # 400208837 - ULAN WEST for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 226573 on November 9, 2025. Order contains 720 units of SMB5112151504 - 150x150x5100x1150x4x5 - DEN2 IMB45-66-5111-DEN2 for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 226827 on November 17, 2025. Order contains 640 units of GXB50121010VGOC - GX MESH - ROOF 5.0M X 1.2M GAL GLENCORE COAL MAT # 400037854 - OAKY CREEK for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 226838 on November 17, 2025. Order contains 480 units of SMB5016151005S - MESH ROOF 5.00MX1.55M 100X100 APT 5.0MM WIRE SLG IMB5-46-5016-JNA for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 226838 on November 17, 2025. Order contains 480 units of SMB5016151005S - MESH ROOF 5.00MX1.55M 100X100 APT 5.0MM WIRE SLG IMB5-46-5016-JNA for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 226838 on November 17, 2025. Order contains 228 units of SMB5016151005S - MESH ROOF 5.00MX1.55M 100X100 APT 5.0MM WIRE SLG IMB5-46-5016-JNA for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 226840 on November 17, 2025. Order contains 2,000 units of CC2015101004G - Mesh Rib 2M x 1.5M 100 x 100 Apt 4.0mm wire Gal IMG4-44-2015-JNA for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 226842 on November 17, 2025. Order contains 66 units of SMB5113515105S - MESH ROOF 5.10MX1.35M 150X100 APT 5.0MM WIRE SLG IMB5-64-5113-JMOL for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227127 on November 25, 2025. Order contains 396 units of SMB5113515105S - MESH ROOF 5.10MX1.35M 150X100 APT 5.0MM WIRE SLG IMB5-64-5113-JMOL for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227128 on November 25, 2025. Order contains 640 units of GXB50121010VGOC - GX MESH - ROOF 5.0M X 1.2M GAL GLENCORE COAL MAT # 400037854 - OAKY CREEK for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227128 on November 25, 2025. Order contains 640 units of GXB50121010VGOC - GX MESH - ROOF 5.0M X 1.2M GAL GLENCORE COAL MAT # 400037854 - OAKY CREEK for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227260 on November 30, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 22
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227361 on December 2, 2025. Order contains 396 units of SMB5113515105S - MESH ROOF 5.10MX1.35M 150X100 APT 5.0MM WIRE SLG IMB5-64-5113-JMOL for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227361 on December 2, 2025. Order contains 396 units of SMB5113515105S - MESH ROOF 5.10MX1.35M 150X100 APT 5.0MM WIRE SLG IMB5-64-5113-JMOL for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227361 on December 2, 2025. Order contains 396 units of SMB5113515105S - MESH ROOF 5.10MX1.35M 150X100 APT 5.0MM WIRE SLG IMB5-64-5113-JMOL for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227361 on December 2, 2025. Order contains 396 units of SMB5113515105S - MESH ROOF 5.10MX1.35M 150X100 APT 5.0MM WIRE SLG IMB5-64-5113-JMOL for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227602 on December 9, 2025. Order contains 150 units of CCP42241010056G - MESH MINE 4.2MX2.4M 100X100 APT 5.6MM WIRE - GAL IMG5H-44-4224 for delivery to M1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227604 on December 9, 2025. Order contains 400 units of CCP50241010056G - Mine Mesh 5000mm long IMG5H-44-5024 for delivery to M1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227604 on December 9, 2025. Order contains 400 units of CCP50241010056G - Mine Mesh 5000mm long IMG5H-44-5024 for delivery to M1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227610 on December 9, 2025. Order contains 650 units of SMF4524101005 - MESH Mine 4.5M X 2.4M 100X100 APT 5.0MM WIRE for delivery to M3.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227612 on December 9, 2025. Order contains 500 units of CCP42241010056G - MESH MINE 4.2MX2.4M 100X100 APT 5.6MM WIRE - GAL IMG5H-44-4224 for delivery to M1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227618 on December 10, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227619 on December 10, 2025. Order contains 550 units of CCP42241010056G - MESH MINE 4.2MX2.4M 100X100 APT 5.6MM WIRE - GAL IMG5H-44-4224 for delivery to M1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227659 on December 11, 2025. Order contains 50 units of SMF24151010034G - MESH RIB 2.40MX1.50M 100X100 APT 3.0/4.0MM WIRE -G IMG34-44-2415-JAS for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227712 on December 14, 2025. Order contains 3000 units of SMF251803GCD - RIB MESH 2.5X1.8M 100X100MM APT & 3.15MM GAL WIRE for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227713 on December 14, 2025. Order contains 3000 units of SMF251803GCD - RIB MESH 2.5X1.8M 100X100MM APT & 3.15MM GAL WIRE for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227716 on December 14, 2025. Order contains 500 units of CCP48241010056G - Mine Mesh 4800X2400mm 100x100mm Apt 5.6mm wire Galv IMG5H-44-4824 for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227716 on December 14, 2025. Order contains 500 units of CCP4824101005 - Mine Mesh 4.8 M x 2.4M 100 x 100 Apt 5mm Wire -Blk IMB5-44-4824 for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227745 on December 15, 2025. Order contains 33 units of CC5014101005 - MESH ROOF 5.00MX1.35M 100X100 APT 5.0MM WIRE IMB5-44-5014-JNA for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227746 on December 15, 2025. Order contains 720 units of SMB5112151504 - 150x150x5100x1150x4x5 - DEN2 IMB45-66-5111-DEN2 for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227746 on December 15, 2025. Order contains 540 units of SMB5112151504 - 150x150x5100x1150x4x5 - DEN2 IMB45-66-5111-DEN2 for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227746 on December 15, 2025. Order contains 540 units of SMB5118151505 - 150x150x5100x1700x4x5 IMB45-66-5117-DEN for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227746 on December 15, 2025. Order contains 540 units of SMB51181505 - 150x150x5100x1700x4x5 IMB45-66-5117-DEN for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227818 on December 16, 2025. Order contains 2,000 units of SMB561604GCD - MESH ROOF 5.6MX1.6M 100X100 APT 4.0MM&5.0MM WIRE MM0207 for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 227820 on December 16, 2025. Order contains 2,000 units of SMB561604GCD - MESH ROOF 5.6MX1.6M 100X100 APT 4.0MM&5.0MM WIRE MM0207 for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+LEMPRET WIRE & SELANTS (MC0070) placed order 225607 on October 12, 2025. Order contains 50 units of SMF24120507504G - 50x75x2400x1200x4mm Ind Mesh IMG4-23-2412 for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+LOCKER GROUP PTY LTD (MC0072) placed order 227848 on December 17, 2025. Order contains 50 units of SMF30240505004G - 50x50x3000x2400x4mm Weld Mesh IMG4-22-3024 for delivery to M1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+MACKENZIES HOME TIMBER & HARDWARE (MC0074) placed order 226568 on November 9, 2025. Order contains 15 units of SMF24120507504G - 50x75x2400x1200x4mm Ind Mesh IMG4-23-2412 for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+MADDINGTON CONCRETE PRODUCTS (MC0075) placed order 222083 on June 26, 2025. Order contains 6 units of CW500L6.3 - 6.3mm Bright Wire In Coils R500L6.3-Coils for delivery to M1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+MADDINGTON CONCRETE PRODUCTS (MC0075) placed order 224949 on September 21, 2025. Order contains 8 units of CW500L5 - 5.0mm Bright Wire In Coils R500L5.0-Coils for delivery to M1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+MADDINGTON CONCRETE PRODUCTS (MC0075) placed order 227366 on December 2, 2025. Order contains 10 units of CW500L5 - 5.0mm Bright Wire In Coils R500L5.0-Coils for delivery to M1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+MGALV (MC0081) placed order 227850 on December 17, 2025. Order contains 5.5 units of TIE3.15X2.3MM - Tie Wire 3.15mmx2.3m Lenght Tie-3.15mm-2.3m for delivery to M1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+NORTHERN STAR placed order 222622 on July 11, 2025. Order contains 3,300 units of CCP45241010056G - MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN for delivery to MM.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+NORTHERN STAR placed order 222623 on July 11, 2025. Order contains 3,300 units of CCP45241010056G - MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN for delivery to MM.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+NORTHERN STAR placed order 222624 on July 11, 2025. Order contains 3,300 units of CCP45241010056G - MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN for delivery to MM.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+NORTHERN STAR placed order 222625 on July 11, 2025. Order contains 3,300 units of CCP45241010056G - MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN for delivery to MM.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+NORTHERN STAR placed order 222626 on July 11, 2025. Order contains 3,300 units of CCP45241010056G - MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN for delivery to MM.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+NORTHERN STAR placed order 222627 on July 11, 2025. Order contains 3,300 units of CCP45241010056G - MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN for delivery to MM.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+NORTHERN STAR placed order 226180 on October 29, 2025. Order contains 3,300 units of CCP45241010056G - MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN for delivery to MM.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+NORTHERN STAR placed order 226181 on October 29, 2025. Order contains 3,300 units of CCP45241010056G - MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN for delivery to MM.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+NORTHERN STAR placed order 226182 on October 29, 2025. Order contains 3,300 units of CCP45241010056G - MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN for delivery to MM.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+PADDINGTON GOLD PTY LTD (MC0097) placed order 227874 on December 18, 2025. Order contains 150 units of SM5H36241010FG - 100x100x3600x2400x5.6 Ind Mesh IMG5H-44-3624 for delivery to M5.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+PADDINGTON GOLD PTY LTD placed order 227874 on December 18, 2025. Order contains 75 units of CCP45241010056G - MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN for delivery to M5.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+PRIME SUPPLIES placed order 227448 on December 4, 2025. Order contains 5 units of SMF3H30242525G - 25x25x3000x2400x3.15 Ind Mesh IMG3H-11-3024 for delivery to M1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+RCPA (WA) PTY LTD placed order 227849 on December 17, 2025. Order contains 20 units of D500L06.0SP - 6.0mm Ribbed Wire in Spools D500L6.0-Spools for delivery to M1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+RCPA (WA) PTY LTD placed order 227849 on December 17, 2025. Order contains 20 units of CW500L6.3 - 6.3mm Bright Wire In Coils R500L6.3-Coils for delivery to M1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ROLLWELL ENGINEERINIG PTY LTD placed order 227647 on December 10, 2025. Order contains 75 units of SMF30240505004G - 50x50x3000x2400x4mm Weld Mesh IMG4-22-3024 for delivery to M1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ROLLWELL ENGINEERINIG PTY LTD placed order 227647 on December 10, 2025. Order contains 20 units of SMF3H30242525G - 25x25x3000x2400x3.15 Ind Mesh IMG3H-11-3024 for delivery to M1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ROLLWELL ENGINEERINIG PTY LTD placed order 227647 on December 10, 2025. Order contains 1 unit of 4FREIGHT - Freight Out Charge for delivery to M1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+SCOTT METALS (T&B FABRICATIONS) placed order 227365 on December 2, 2025. Order contains 100 units of SMF2H241202525G - 25x25x2400x1200x2.5mm Ind Mesh IMG2H-11-2412 for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+SOUTHERN QLD STEEL P/L placed order 227847 on December 17, 2025. Order contains 50 units of SMF30241001005G - 100x100x3000x2400x5 Ind Mesh IMG5-44-3024 for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+SOUTHERN QLD STEEL P/L placed order 227847 on December 17, 2025. Order contains 100 units of SMF2H241202525G - 25x25x2400x1200x2.5mm Ind Mesh IMG2H-11-2412 for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+SOUTHERN QLD STEEL P/L placed order 227847 on December 17, 2025. Order contains 75 units of SMF3H30242525G - 25x25x3000x2400x3.15 Ind Mesh IMG3H-11-3024 for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+SOUTHERN QLD STEEL P/L placed order 227847 on December 17, 2025. Order contains 250 units of SMF30240505004G - 50x50x3000x2400x4mm Weld Mesh IMG4-22-3024 for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+STEELFORCE BRISBANE placed order 227563 on December 8, 2025. Order contains 75 units of SMF2H241202525G - 25x25x2400x1200x2.5mm Ind Mesh IMG2H-11-2412 for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+SUPER STEEL AUSTRALIA placed order 227460 on December 5, 2025. Order contains 20 units of SMF29110102005G - 100x200x2.9x1.1x 5mm Weld mesh IMG5-48-2911 for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+TRUE METAL SOLUTIONS placed order 227877 on December 18, 2025. Order contains 50 units of SMF30240505004G - 50x50x3000x2400x4mm Weld Mesh IMG4-22-3024 for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+TRUE METAL SOLUTIONS placed order 227877 on December 18, 2025. Order contains 25 units of SMF30240507504G - 50x75x3000x2400x4mm Ind Mesh IMG4-23-3024 for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ATF SERVICES PTY LTD placed order 226678 on November 12, 2025. Order contains 3,400 units of SMF2516757503G - MESH 2.5MX1.6M 75X75 APT 3.15MM WIRE - GAL IMG3H-33-2516 for delivery to M2.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+BHP placed order 224004 on August 21, 2025. Order contains 600 units of SMB4H50241010 - 100x100x5000x2400x4.50 IMB4H-44-5024 for delivery to M3.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+BHP placed order 224004 on August 21, 2025. Order contains 600 units of SMB4H50241010 - 100x100x5000x2400x4.50 IMB4H-44-5024 for delivery to M3.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+BHP placed order 224004 on August 21, 2025. Order contains 600 units of SMB4H50241010 - 100x100x5000x2400x4.50 IMB4H-44-5024 for delivery to M3.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+BHP placed order 224005 on August 21, 2025. Order contains 600 units of SMB4H50241010 for delivery to ENERGY LOGISTIX (LARGS BAY).
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+BHP placed order 224005 on August 21, 2025. Order contains 600 units of SMB4H50241010 for delivery to ENERGY LOGISTIX (LARGS BAY).
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+BHP placed order 224005 on August 21, 2025. Order contains 600 units of SMB4H50241010 for delivery to ENERGY LOGISTIX (LARGS BAY).
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+HARTWAY GALVANIZERS - CANNING VALE placed order 227500 on December 7, 2025. Order contains 24 units of TIE3.15X1.2MM for delivery to HARTWAY GALVANIZERS - CANNING VALE.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+INDUSTRIAL GALVANIZERS placed order 226621 on November 11, 2025. Order contains 18 units of TIE3.15X2.4MM for delivery to INDUSTRIAL GALVANIZERS.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+INDUSTRIAL GALVANIZERS placed order 226621 on November 11, 2025. Order contains 6 units of TIE3.15X1.2MM for delivery to INDUSTRIAL GALVANIZERS.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+INFRABUILD DUBBO placed order 225031 on September 23, 2025. Order contains 1 unit of 4FREIGHT for delivery to INFRABUILD DUBBO.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+INFRABUILD DUBBO placed order 225031 on September 23, 2025. Order contains 60 units of SROL15005C305B for delivery to INFRABUILD DUBBO.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+INFRABUILD DUBBO placed order 225034 on September 23, 2025. Order contains 1 unit of 4FREIGHT for delivery to INFRABUILD DUBBO.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+INFRABUILD DUBBO placed order 225034 on September 23, 2025. Order contains 60 units of SROL11005C305B for delivery to INFRABUILD DUBBO.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+JENNMAR placed order 106082 on November 4, 2025. Order contains 45,900 units of JFLI3972G for delivery to JENNMAR OF UTAH.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106004 on October 31, 2025. Order contains 3,000 units of CCP4024101010056G for delivery to ASW Adelaide.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106008 on October 31, 2025. Order contains 5,500 units of CCP45241010056G for delivery to ASW Adelaide.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106084 on November 4, 2025. Order contains 3,300 units of CCP45241010056G for delivery to ASW Adelaide.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106088 on November 5, 2025. Order contains 1,800 units of CCP40241010056G for delivery to ASW Adelaide.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106101 on November 6, 2025. Order contains 700 units of CC402410105 for delivery to ASW Adelaide.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106113 on December 7, 2025. Order contains 500 units of SMF4524101005 for delivery to ASW Adelaide.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106114 on December 7, 2025. Order contains 700 units of CC402410105 for delivery to ASW Adelaide.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106115 on December 7, 2025. Order contains 2,200 units of CCP45241010056G for delivery to ASW Adelaide.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106136 on December 15, 2025. Order contains 3,600 units of SMB4H50241010 for delivery to ASW Adelaide.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106137 on December 15, 2025. Order contains 1,800 units of SMB4H50241010 for delivery to D1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106138 on December 15, 2025. Order contains 1,800 units of SMB4H50241010 for delivery to D1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106146 on December 18, 2025. Order contains 1,000 units of SMF4524101005 for delivery to D1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106001 on October 31, 2025. Order contains 6,000 units of CC2015101004G for delivery to D1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106002 on October 31, 2025. Order contains 6,000 units of CC2015101004G for delivery to D1. Order was placed by ASW BRISBANE (M2).
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106003 on October 31, 2025. Order contains 577 units of CC5014101005 for delivery to D1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106011 on October 31, 2025. Order contains 100 units of CCP48241010056G for delivery to D1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106012 on October 31, 2025. Order contains 1,200 units of GXB48111010VGU3 for delivery to D1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106013 on October 31, 2025. Order contains 3,200 units of GXB50121010VGOC for delivery to D1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106015 on October 31, 2025. Order contains 2,000 units of GXB50121010VGUW for delivery to D1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106016 on October 31, 2025. Order contains 3,720 units of GXB50121010VGUW for delivery to D1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106018 on October 31, 2025. Order contains 2,160 units of GXB5614101004G for delivery to D1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106021 on October 31, 2025. Order contains 1,000 units of JOS5803B for delivery to D1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106026 on October 31, 2025. Order contains 1,584 units of SMB5016151005S for delivery to D1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106027 on October 31, 2025. Order contains 110 units of SMB5016151005S for delivery to D1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106030 on October 31, 2025. Order contains 3,240 units of SMB5112151504 for delivery to D1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106032 on October 31, 2025. Order contains 2,376 units of SMB5113515105S for delivery to D1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106033 on October 31, 2025. Order contains 2,772 units of SMB5113515105S for delivery to D1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106035 on October 31, 2025. Order contains 1,080 units of SMB5118151505 for delivery to D1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106036 on October 31, 2025. Order contains 1,695 units of SMESH300011704 for delivery to D1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106050 on November 1, 2025. Order contains 2,550 units of SMESH300011704 - SHOTCRETE MESH 3.00MX1.17M 4MM WIRE - GAL IMG4D-66-3012 IMG4D-66-3012 for delivery to D1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106051 on November 1, 2025. Order contains 1,963 units of SMF1711151504UW - MESH - RIB 1.7M X 1.1M 150X150MM APT for delivery to D1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106066 on November 1, 2025. Order contains 2,600 units of SMF2420101003 - 100x100x2400x2000x3.15 Ind Mes IMB3H-44-2420-DCLA IMB3H-44-2420-DCLA for delivery to D1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106068 on November 1, 2025. Order contains 3,400 units of SMF2516757503G - MESH 2.5MX1.6M 75X75 APT 3.15MM WIRE - GAL IMG3H-33-2516 for delivery to D1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106086 on November 5, 2025. Order contains 3,300 units of CCP45241010056G - MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN IMG5H-44-4524 for delivery to D1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106087 on November 5, 2025. Order contains 2,000 units of CCP48241010056G - Mine Mesh 4800X2400mm 100x100mm Apt 5.6mm wire Galv IMG5H-44 for delivery to D1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106089 on November 5, 2025. Order contains 1,980 units of SMB5113515105S - MESH ROOF 5.10MX1.35M 150X100 APT 5.0MM WIRE SLG IMB5-64-511 IMB5-64-5113-JMOL for delivery to D1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106090 on November 5, 2025. Order contains 3,000 units of SMF2214101004 - MESH RIB 2.20MX1.40M 100X100 APT 4.0MM WIRE IMB4-44-2214-JMOL for delivery to D1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106091 on November 5, 2025. Order contains 1,620 units of GXB5614101004G - GX MESH ROOF 5.60MX1.40M 100X100 APT 4.0MM & 5.0MM WIRE-GAL for delivery to D1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106092 on November 5, 2025. Order contains 6,000 units of CC2015101004G - Mesh Rib 2M x 1.5M 100 x 100 Apt 4.0mm wire Gal IMG4-44-2015 IMG4-44-2015-JNA for delivery to D1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106093 on November 5, 2025. Order contains 1,188 units of CC5014101005 - MESH ROOF 5.00MX1.35M 100X100 APT 5.0MM WIRE IMB5-44-5014-JN IMB5-44-5014-JNA for delivery to D1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106094 on November 5, 2025. Order contains 1,200 units of GXB48111010VGU3 - GX MESH ROOF 4.8M x 1.1M 48 x 100 APT 4.0MM & 4.75MM Wire for delivery to D1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106095 on November 5, 2025. Order contains 2,000 units of SMF1711151504UW - MESH - RIB 1.7M X 1.1M 150X150MM APT for delivery to D1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106096 on November 5, 2025. Order contains 1,620 units of GXB50121010VGUW - GX MESH ROOF 5.00M x 1.2M 50 x 100 APT 4.0MM & 4.75MM Wire for delivery to D1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106098 on November 5, 2025. Order contains 3,240 units of SMB5112151504 - 150x150x5100x1150x4x5 - DEN2 IMB45-66-5111-DEN2 IMB55H-46-5111-DEN for delivery to D1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106099 on November 5, 2025. Order contains 1,800 units of SMF302410104GOC - MESH MINE 3.0MX2.4M 100X100 APT 4.0MM WIRE - GAL for delivery to D1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106100 on November 6, 2025. Order contains 2,000 units of SMF2118151504U3 - MESH Rib 2.1 M X 1.8M 150X150 APT 4.0MM for delivery to D1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106102 on November 10, 2025. Order contains 3,000 units of SMF2516101031G - MESH RIB 2.5MX1.60M 100X100 APT 3.15MM WIRE GALV IMG3H-44-2516 for delivery to D1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106103 on November 10, 2025. Order contains 1,080 units of SMF5716101005 - MESH MINE 5.7MX1.6M 100X100 APT 5MM WIRE - BLK IMB5-44-5716 for delivery to D1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106107 on November 11, 2025. Order contains 3,000 units of 6MBW6 - 6mm Wire 6m long (750 pcs) 6MBW6 6MBW6 for delivery to D1.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106107 on November 11, 2025. Order contains 13 units of TIE3.15X2.4MM for delivery to D1 warehouse.
+ASW placed order 106107 on November 11, 2025. Order contains 4 units of TIE3.15X1.2MM for delivery to D1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106116 on December 7, 2025. Order contains 960 units of GXB50121010VGOC for delivery to D1 warehouse.
+ASW placed order 106117 on December 7, 2025. Order contains 1620 units of SMB5118151505 for delivery to D1 warehouse.
+ASW placed order 106119 on December 7, 2025. Order contains 1188 units of CC5014101005 for delivery to D1 warehouse.
+ASW placed order 106120 on December 7, 2025. Order contains 1440 units of GXB5614101004G for delivery to D1 warehouse.
+ASW placed order 106121 on December 7, 2025. Order contains 3000 units of SMF2214101004 for delivery to D1 warehouse.
+ASW placed order 106122 on December 7, 2025. Order contains 2772 units of SMB5113515105S for delivery to D1 warehouse.
+ASW placed order 106123 on December 8, 2025. Order contains 1920 units of SMB5018101005 for delivery to D1 warehouse.
+ASW placed order 106126 on December 11, 2025. Order contains 4000 units of SMB561604GCD for delivery to D1 warehouse.
+ASW placed order 106134 on December 15, 2025. Order contains 6000 units of SMF251803GCD for delivery to D1 warehouse.
+ASW placed order 106135 on December 15, 2025. Order contains 2113 units of SMB5002101004 for delivery to D1 warehouse.
+ASW placed order 106139 on December 15, 2025. Order contains 3000 units of SMF2420101003 for delivery to D1 warehouse.
+ASW placed order 106140 on December 15, 2025. Order contains 3000 units of SMF2516101031G for delivery to D1 warehouse.
+ASW placed order 106141 on December 15, 2025. Order contains 3600 units of GXB50121010VGOC for delivery to D1 warehouse.
+ASW placed order 106142 on December 15, 2025. Order contains 3240 units of SMB5112151504 for delivery to D1 warehouse.
+ASW placed order 106143 on December 15, 2025. Order contains 1188 units of CC5014101005 for delivery to D1 warehouse.
+ASW placed order 106147 on December 18, 2025. Order contains 3000 units of SMF2218101003G for delivery to D1 warehouse.
+ASW placed order 106109 on November 25, 2025. Order contains 3400 units of SMF2516757503G for delivery to D1 warehouse.
+ASW placed order 106037 on October 31, 2025. Order contains 588.708 units of COILGW5.6 for delivery to D1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106109 on November 25, 2025. Order contains 3400 units of SMF2516757503G for delivery to D1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106037 on October 31, 2025. Order contains 588.708 units of COILGW5.6 for delivery to D1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106038 on October 31, 2025. Order contains 48 units of CW500L5 - 5.0mm Bright Wire In Coils for delivery to D1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106039 on October 31, 2025. Order contains 23.855 units of CW500L5 - 5.0mm Bright Wire In Coils for delivery to D1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106040 on October 31, 22025. Order contains 48 units of CW500L5.6 - 5.6mm Bright Wire In Coils for delivery to D1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106041 on October 31, 2025. Order contains 24 units of CW500L5.6 - 5.6mm Bright Wire In Coils for delivery to D1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106042 on October 31, 2025. Order contains 24 units of CW500L5.6 - 5.6mm Bright Wire In Coils for delivery to D1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106043 on October 31, 2025. Order contains 24 units of CW500L6.3 - 6.3mm Bright Wire In Coils for delivery to D1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106044 on October 31, 2025. Order contains 24 units of CW500L6.3 - 6.3mm Bright Wire In Coils for delivery to D1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106106 on November 10, 2025. Order contains 24 units of CW500L5.6 - 5.6mm Bright Wire In Coils for delivery to D1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106111 on November 27, 2025. Order contains 48 units of CW500L5.6 - 5.6mm Bright Wire In Coils for delivery to D1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106111 on November 27, 2025. Order contains 24 units of D500L07.6SP - 7.60mm Ribbed Wire in Spools for delivery to D1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106112 on December 4, 2025. Order contains 600 units of COILGW5.6 - 5.6mm Galve Wire in Coils for delivery to D1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106127 on December 11, 2025. Order contains 48 units of CW500L6 - 6.0mm Bright Wire in Coils for delivery to D1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106128 on December 14, 2025. Order contains 48 units of CW500L6.3 - 6.3mm Bright Wire In Coils for delivery to D1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106129 on December 14, 2025. Order contains 24 units of CW500L8 - 8.0mm Bright Wire In Coils for delivery to D1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106130 on December 14, 2025. Order contains 24 units of D500L06.0SP - 6.0mm Ribbed Wire in Spools for delivery to D1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106131 on December 14, 2025. Order contains 24 units of D500L07.6SP - 7.60mm Ribbed Wire in Spools for delivery to D1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106132 on December 14, 2025. Order contains 48 units of D500L08.6SP - 8.60mm Ribbed Wire in Spools for delivery to D1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106133 on December 14, 2025. Order contains 10 units of TIE3.15X2.3MM - Tie Wire 3.15mm x 2.3m Length for delivery to D1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106056 on November 1, 2025. Order contains 3300 units of CCP45241010056G - MESH MINE 4.5mx2.4m 100x100 AP IMG5H-44-4524_JEN IMG5H-44-4524 for delivery to D1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106059 on November 1, 2025. Order contains 3300 units of CCP45241010056G - MESH MINE 4.5mx2.4m 100x100 AP IMG5H-44-4524_JEN IMG5H-44-4524 for delivery to D1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106060 on November 1, 2025. Order contains 3,300 units of CCP45241010056G for delivery to D1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106061 on November 1, 2025. Order contains 3,300 units of CCP45241010056G for delivery to D1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106062 on November 1, 2025. Order contains 3,300 units of CCP45241010056G for delivery to D1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106097 on November 5, 2025. Order contains 1,440 units of SMF4814101004 for delivery to D1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106118 on December 7, 2025. Order contains 1,440 units of SMF4814101004 for delivery to D1 warehouse.
+
+[Source: ASW - DW - Open Sales Orders.csv | Type: order_record]
+ASW placed order 106144 on December 15, 2025. Order contains 1,440 units of SMF4814101004 for delivery to D1 warehouse.

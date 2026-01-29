@@ -1,0 +1,33 @@
+2026-01-27 16:32:50,191 [INFO] Read 2246 records from ASW - Live Ross - Inventory.csv
+2026-01-27 16:32:50,216 [INFO]   Normalized entity names for 2246 records
+2026-01-27 16:32:50,216 [INFO] Transforming ASW - Live Ross - Inventory.csv: 2246 records in 113 batches
+2026-01-27 16:54:01,675 [INFO]   Splitting into 5 files (max 500 records each)
+2026-01-27 16:54:01,675 [INFO]   Wrote 500 paragraphs to ASW - Live Ross - Inventory_001.txt
+2026-01-27 16:54:01,675 [INFO]   Wrote 500 paragraphs to ASW - Live Ross - Inventory_002.txt
+2026-01-27 16:54:01,676 [INFO]   Wrote 500 paragraphs to ASW - Live Ross - Inventory_003.txt
+2026-01-27 16:54:01,676 [INFO]   Wrote 500 paragraphs to ASW - Live Ross - Inventory_004.txt
+2026-01-27 16:54:01,676 [INFO]   Wrote 195 paragraphs to ASW - Live Ross - Inventory_005.txt
+2026-01-27 16:54:01,697 [INFO] Read 959 records from Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-27 16:54:01,708 [INFO]   Normalized entity names for 959 records
+2026-01-27 16:54:01,708 [INFO] Transforming Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv: 959 records in 48 batches
+2026-01-27 17:18:16,657 [INFO]   Splitting into 3 files (max 500 records each)
+2026-01-27 17:18:16,657 [INFO]   Wrote 500 paragraphs to Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer_001.txt
+2026-01-27 17:18:16,658 [INFO]   Wrote 500 paragraphs to Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer_002.txt
+2026-01-27 17:18:16,658 [INFO]   Wrote 197 paragraphs to Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer_003.txt
+2026-01-27 17:18:16,761 [INFO] Read 4988 records from Copy of AUS - L12M By Market Type.csv
+2026-01-27 17:18:16,813 [INFO]   Normalized entity names for 4988 records
+2026-01-27 17:18:16,814 [INFO] Transforming Copy of AUS - L12M By Market Type.csv: 4988 records in 250 batches
+2026-01-27 18:54:49,583 [INFO]   Splitting into 12 files (max 500 records each)
+2026-01-27 18:54:49,583 [INFO]   Wrote 500 paragraphs to Copy of AUS - L12M By Market Type_001.txt
+2026-01-27 18:54:49,583 [INFO]   Wrote 500 paragraphs to Copy of AUS - L12M By Market Type_002.txt
+2026-01-27 18:54:49,583 [INFO]   Wrote 500 paragraphs to Copy of AUS - L12M By Market Type_003.txt
+2026-01-27 18:54:49,583 [INFO]   Wrote 500 paragraphs to Copy of AUS - L12M By Market Type_004.txt
+2026-01-27 18:54:49,584 [INFO]   Wrote 500 paragraphs to Copy of AUS - L12M By Market Type_005.txt
+2026-01-27 18:54:49,584 [INFO]   Wrote 500 paragraphs to Copy of AUS - L12M By Market Type_006.txt
+2026-01-27 18:54:49,584 [INFO]   Wrote 500 paragraphs to Copy of AUS - L12M By Market Type_007.txt
+2026-01-27 18:54:49,584 [INFO]   Wrote 500 paragraphs to Copy of AUS - L12M By Market Type_008.txt
+2026-01-27 18:54:49,584 [INFO]   Wrote 500 paragraphs to Copy of AUS - L12M By Market Type_009.txt
+2026-01-27 18:54:49,584 [INFO]   Wrote 500 paragraphs to Copy of AUS - L12M By Market Type_010.txt
+2026-01-27 18:54:49,584 [INFO]   Wrote 500 paragraphs to Copy of AUS - L12M By Market Type_011.txt
+2026-01-27 18:54:49,584 [INFO]   Wrote 228 paragraphs to Copy of AUS - L12M By Market Type_012.txt
+2026-01-27 18:54:49,587 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv

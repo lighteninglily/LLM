@@ -1,0 +1,13 @@
+Starting production files transform at Thu Jan 29 10:11:57 AWST 2026
+Output: ./v3_output
+Log: ./logs/production_transform_20260129_101157.log
+----------------------------------------
+Copying production files...
+Files to process: 19
+2026-01-29 10:11:58,030 [INFO] Read 249 records from Daily Production Report v1.xlsm_Annld Wire.csv
+2026-01-29 10:11:58,031 [INFO]   Normalized entity names for 249 records
+2026-01-29 10:11:58,032 [INFO]   Analyzing file schema...
+2026-01-29 10:12:58,094 [WARNING] File analysis failed: HTTPConnectionPool(host='localhost', port=8000): Read timed out. (read timeout=60), using defaults
+2026-01-29 10:12:58,094 [INFO] Transforming Daily Production Report v1.xlsm_Annld Wire.csv: 249 records in 13 batches
+  Daily Production Report v1.xlsm_Annld Wire.csv:   0%|          | 0/13 [00:00<?, ?it/s]  Daily Production Report v1.xlsm_Annld Wire.csv:   8%|▊         | 1/13 [01:14<14:57, 74.78s/it]  Daily Production Report v1.xlsm_Annld Wire.csv:  15%|█▌        | 2/13 [01:35<07:49, 42.70s/it]  Daily Production Report v1.xlsm_Annld Wire.csv:  23%|██▎       | 3/13 [01:45<04:41, 28.13s/it]  Daily Production Report v1.xlsm_Annld Wire.csv:  31%|███       | 4/13 [01:58<03:17, 21.98s/it]  Daily Production Report v1.xlsm_Annld Wire.csv:  38%|███▊      | 5/13 [02:33<03:35, 26.89s/it]----------------------------------------
+Transform finished at Thu Jan 29 10:15:41 AWST 2026 with exit code 0

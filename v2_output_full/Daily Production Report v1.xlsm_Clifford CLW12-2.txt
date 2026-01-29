@@ -1,0 +1,718 @@
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on June 17, 2025. Achieved 80.0% with 22.2 kg/sheet. Sheets per hour: 85.71428571428572, SPM: 50, CWires: 35.
+
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on June 18, 2025. Achieved 45.0% with 22.2 kg/sheet. Sheets per hour: 85.71428571428572, SPM: 50, CWires: 35.
+
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on June 19, 2025. Achieved 20.0% with 22.2 kg/sheet. Sheets per hour: 85.71428571428572, SPM: 50, CWires: 35.
+
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on June 20, 2025. No production totals recorded.
+
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on June 21, 2025. No production totals recorded.
+
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on June 22, 2025. Moved to Week 26. No production totals recorded.
+
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on June 23, 2025. Moved to Week 26. No production totals recorded.
+
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on June 24, 2025. Moved to Week 26. No production totals recorded.
+
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on June 25, 2025. Moved to Week 26. No production totals recorded.
+
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on June 26, 2025. Moved to Week 26. No production totals recorded.
+
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on June 27, 2025. Moved to Week 26. No production totals recorded.
+
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on June 28, 2025. Moved to Week 26. No production totals recorded.
+
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on June 29, 2025. Moved to Week 27. No production totals recorded.
+
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on June 30, 2025. No production totals recorded.
+
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on July 1, 2025. Achieved 90.0% with 22.2 kg/sheet. Sheets per hour: 85.71428571428572, SPM: 50, CWires: 35.
+
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on July 2, 2025. Achieved 55.0% with 22.2 kg/sheet. Sheets per hour: 85.71428571428572, SPM: 50, CWires: 35.
+
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on July 3, 2025. Achieved 55.0% with 22.2 kg/sheet. Sheets per hour: 85.71428571428572, SPM: 50, CWires: 35.
+
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on July 4, 2025. No production totals recorded.
+
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on July 5, 2025. No production totals recorded.
+
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on July 6, 2025. Moved to Week 28. No production totals recorded.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on July 7, 2025. Achieved 57% with 22.2 kg/sheet. Planned totals were 2.22 kg/sheet, actual 1.2654 kg/sheet. Sheets per hour: 85.71428571428572, spm: 50, c-wires: 35.
+
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on July 8, 2025. No production day. Achieved 0% with 22.2 kg/sheet. Planned totals were 0 kg/sheet, actual 0 kg/sheet.
+
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on July 9, 2025. Achieved 93% with 22.2 kg/sheet. Planned totals were 2.22 kg/sheet, actual 2.0646 kg/sheet. Sheets per hour: 85.71428571428572, spm: 50, c-wires: 35.
+
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on July 10, 2025. No production day. Achieved 0% with 22.2 kg/sheet. Planned totals were 0 kg/sheet, actual 0 kg/sheet.
+
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on July 11, 2025. Achieved 100% with 22.2 kg/sheet. Planned totals were 2.22 kg/sheet, actual 2.22 kg/sheet. Sheets per hour: 85.71428571428572, spm: 50, c-wires: 35.
+
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on July 12, 2025. No production day. Achieved 0% with 22.2 kg/sheet. Planned totals were 0 kg/sheet, actual 0 kg/sheet.
+
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on July 13, 2025. No production day. Achieved 0% with 22.2 kg/sheet. Planned totals were 0 kg/sheet, actual 0 kg/sheet.
+
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on July 14, 2025. Achieved 85% with 22.2 kg/sheet. Planned totals were 2.22 kg/sheet, actual 1.887 kg/sheet. Sheets per hour: 85.71428571428572, spm: 50, c-wires: 35.
+
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on July 15, 2025. Achieved 90% with 22.2 kg/sheet. Planned totals were 2.22 kg/sheet, actual 1.998 kg/sheet. Sheets per hour: 85.71428571428572, spm: 50, c-wires: 35.
+
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on July 16, 2025. No production day. Achieved 0% with 22.2 kg/sheet. Planned totals were 0 kg/sheet, actual 0 kg/sheet.
+
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on July 17, 2025. No production day. Achieved 0% with 22.2 kg/sheet. Planned totals were 0 kg/sheet, actual 0 kg/sheet.
+
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on July 18, 2025. Achieved 0% with 22.2 kg/sheet. Planned totals were 2.22 kg/sheet, actual 0 kg/sheet. Sheets per hour: 85.71428571428572, spm: 50, c-wires: 35.
+
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on July 19, 2025. No production day. Achieved 0% with 22.2 kg/sheet. Planned totals were 0 kg/sheet, actual 0 kg/sheet.
+
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on July 20, 2025. No production day. Achieved 0% with 22.2 kg/sheet. Planned totals were 0 kg/sheet, actual 0 kg/sheet.
+
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on July 21, 2025. Achieved 80% with 22.2 kg/sheet. Planned totals were 2.22 kg/sheet, actual 1.776 kg/sheet. Sheets per hour: 85.71428571428572, spm: 50, c-wires: 35.
+
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on July 22, 2025. Achieved 100% with 22.2 kg/sheet. Planned totals were 2.22 kg/sheet, actual 2.22 kg/sheet. Sheets per hour: 85.71428571428572, spm: 50, c-wires: 35.
+
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on July 23, 2025. Achieved 115% with 22.2 kg/sheet. Planned totals were 2.22 kg/sheet, actual 2.553 kg/sheet. Sheets per hour: 85.71428571428572, spm: 50, c-wires: 35.
+
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on July 24, 2025. Achieved 100% with 22.2 kg/sheet. Planned totals were 2.22 kg/sheet, actual 2.22 kg/sheet. Sheets per hour: 85.71428571428572, spm: 50, c-wires: 35.
+
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on July 25, 2025. Achieved 100% with 22.2 kg/sheet. Planned totals were 2.22 kg/sheet, actual 2.22 kg/sheet. Sheets per hour: 85.71428571428572, spm: 50, c-wires: 35.
+
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on July 26, 2025. No production day. Achieved 0% with 22.2 kg/sheet. Planned totals were 0 kg/sheet, actual 0 kg/sheet. Sheets per hour: 85.71428571428572, spm: 50, c-wires: 35.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on July 27, 2025. Achieved 0 units with 85.71428571428572 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on July 28, 2025. Achieved 0 units with 165 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on July 29, 2025. Achieved 40 units with 165 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on July 30, 2025. Achieved 300 units with 165 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on July 31, 2025. Achieved 300 units with 165 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on August 1, 2025. Achieved 300 units with 165 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on August 2, 2025. Achieved 0 units with 165 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on August 3, 2025. Achieved 200 units with 165 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on August 4, 2025. Achieved 40 units with 165 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on August 5, 2025. Achieved 100 units with 165 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on August 6, 2025. Achieved 140 units with 165 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on August 7, 2025. Achieved 200 units with 165 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on August 8, 2025. Achieved 200 units with 165 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on August 9, 2025. Achieved 0 units with 165 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on August 10, 2025. Achieved 0 units with 165 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on August 11, 2025. Achieved 150 units with 165 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on August 12, 2025. Achieved 130 units with 165 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on August 13, 2025. Achieved 155 units with 165 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on August 14, 2025. Achieved 125 units with 165 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on August 15, 2025. Achieved 0 units with 165 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on August 16, 2025. Week 33.
+
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on August 17, 2025. Week 34.
+
+CLIFFORD CLW12 produced 200 units of IMG4D-66-3012 on August 18, 2025. Achieved 105 units, kg/sheet 7.94. Week 34.
+
+CLIFFORD CLW12 produced 200 units of IMG4D-66-3012 on August 19, 2025. Achieved 175 units, kg/sheet 7.94. Week 34.
+
+CLIFFORD CLW12 produced 200 units of IMG4D-66-3012 on August 20, 2025. Achieved 200 units, kg/sheet 7.94. Week 34.
+
+CLIFFORD CLW12 produced 200 units of IMG4D-66-3012 on August 21, 2025. Achieved 115 units, kg/sheet 7.94. Week 34.
+
+CLIFFORD CLW12 produced 200 units of IMG4D-66-3012 on August 22, 2025. Achieved 90 units, kg/sheet 7.94. Week 34.
+
+CLIFFORD CLW12 produced 0 units of IMG4D-66-3012 on August 23, 2025. Week 34.
+
+CLIFFORD CLW12 produced 0 units of IMG4D-66-3012 on August 24, 2025. Week 35.
+
+CLIFFORD CLW12 produced 200 units of IMG4D-66-3012 on August 25, 2025. Achieved 175 units, kg/sheet 7.94. Week 35.
+
+CLIFFORD CLW12 produced 200 units of IMG4D-66-3012 on August 26, 2025. Achieved 200 units, kg/sheet 7.94. Week 35.
+
+CLIFFORD CLW12 produced 200 units of IMG4D-66-3012 on August 27, 2025. Achieved 120 units, kg/sheet 7.94. Week 35.
+
+CLIFFORD CLW12 produced 200 units of IMG4D-66-3012 on August 28, 2025. Achieved 90 units, kg/sheet 7.94. Week 35.
+
+CLIFFORD CLW12 produced 200 units of IMG4D-66-3012 on August 29, 2025. Achieved 120 units, kg/sheet 7.94. Week 35.
+
+CLIFFORD CLW12 produced 200 units of IMG4D-66-3012 on August 30, 2025. Week 35.
+
+CLIFFORD CLW12 produced 0 units of IMG4D-66-3012 on August 31, 2025. Week 36.
+
+CLIFFORD CLW12 produced 0 units of IMG4D-66-3012 on September 1, 2025. Week 36.
+
+CLIFFORD CLW12 produced 0 units of IMG4D-66-3012 on September 2, 2025. Week 36.
+
+CLIFFORD CLW12 produced 200 units of IMG4D-66-3012 on September 3, 2025. Achieved 30 units, kg/sheet 7.94. Week 36.
+
+CLIFFORD CLW12 produced 200 units of IMG4D-66-3012 on September 4, 2025. Achieved 80 units, kg/sheet 7.94. Week 36.
+
+CLIFFORD CLW12 produced 0 units of IMG4D-66-3012 on September 5, 2025. Week 36.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on September 5, 2025. Ross code SMESH300011704 was used. Sheets per hour were 165.0.
+
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on September 6, 2025. Ross code SMESH300011704 was used. Sheets per hour were 165.0.
+
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on September 7, 2025. Ross code SMESH300011704 was used. Sheets per hour were 165.0.
+
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on September 8, 2025. Ross code SMESH300011704 was used. Sheets per hour were 165.0.
+
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on September 9, 2025. Ross code SMESH300011704 was used. Achieved 110 units. Sheets per hour were 165.0.
+
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on September 10, 2025. Ross code SMESH300011704 was used. Sheets per hour were 165.0.
+
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on September 11, 2025. Ross code SMESH300011704 was used. Achieved 140 units. Sheets per hour were 165.0.
+
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on September 12, 2025. Ross code SMESH300011704 was used. Achieved 120 units. Sheets per hour were 165.0.
+
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on September 13, 2025. Ross code SMESH300011704 was used. Sheets per hour were 165.0.
+
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on September 14, 2025. Ross code SMESH300011704 was used. Sheets per hour were 165.0.
+
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on September 15, 2025. Ross code SMESH300011704 was used. Sheets per hour were 165.0.
+
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on September 16, 2025. Ross code SMESH300011704 was used. Sheets per hour were 165.0.
+
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on September 17, 2025. Ross code SMESH300011704 was used. Sheets per hour were 165.0.
+
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on September 18, 2025. Ross code SMESH300011704 was used. Achieved 130 units. Sheets per hour were 165.0.
+
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on September 19, 2025. Ross code SMESH300011704 was used. Achieved 80 units. Sheets per hour were 165.0.
+
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on September 20, 2025. Ross code SMESH300011704 was used. Sheets per hour were 165.0.
+
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on September 21, 2025. Ross code SMESH300011704 was used. Sheets per hour were 165.0.
+
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on September 22, 2025. Ross code SMESH300011704 was used. Sheets per hour were 165.0.
+
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on September 23, 2025. Ross code SMESH300011704 was used. Sheets per hour were 165.0.
+
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on September 24, 2025. Ross code SMESH300011704 was used. Sheets per hour were 165.0.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on September 25, 2025. Week 39, kg/sheet 7.94, sheets/hour 165, spm 55, c-wires 20.
+
+CLIFFORD CLW12 produced 5,000 units of IMG4D-66-3012 on September 26, 2025. Week 39, kg/sheet 7.94, sheets/hour 165, spm 55, c-wires 20.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+No production on September 27, 2025. Week 39, kg/sheet 7.94, sheets/hour 165, spm 55, c-wires 20.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+No production on September 28, 2025. Week 40, kg/sheet 7.94, sheets/hour 165, spm 55, c-wires 20.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+No production on September 29, 2025. Week 40, kg/sheet 7.94, sheets/hour 165, spm 55, c-wires 20.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+No production on September 30, 2025. Week 40, kg/sheet 7.94, sheets/hour 165, spm 55, c-wires 20.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+No production on October 1, 2025. Week 40, kg/sheet 7.94, sheets/hour 165, spm 55, c-wires 20.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+No production on October 2, 2025. Week 40, kg/sheet 7.94, sheets/hour 165, spm 55, c-wires 20.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+No production on October 3, 2025. Week 40, kg/sheet 7.94, sheets/hour 165, spm 55, c-wires 20.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+No production on October 4, 2025. Week 40, kg/sheet 7.94, sheets/hour 165, spm 55, c-wires 20.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 0 units of IMG4D-66-3012 on October 5, 2025. Week 41, kg/sheet 22.2, sheets/hour 85.71, spm 50, c-wires 35.
+
+CLIFFORD CLW12 produced 0 units of IMG4D-66-3012 on October 6, 2025. Week 41, kg/sheet 22.2, sheets/hour 85.71, spm 50, c-wires 35.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 0 units of IMG4D-66-3012 on October 7, 2025. Week 41, kg/sheet 22.2, sheets/hour 85.71, spm 50, c-wires 35.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 0 units of IMG4D-66-3012 on October 8, 2025. Week 41, kg/sheet 22.2, sheets/hour 85.71, spm 50, c-wires 35.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 0 units of IMG4D-66-3012 on October 9, 2025. Week 41, kg/sheet 22.2, sheets/hour 85.71, spm 50, c-wires 35.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 0 units of IMG4D-66-3012 on October 10, 2025. Week 41, kg/sheet 22.2, sheets/hour 85.71, spm 50, c-wires 35.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 0 units of IMG4D-66-3012 on October 11, 2025. Week 41, kg/sheet 22.2, sheets/hour 85.71, spm 50, c-wires 35.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 0 units of IMG4D-66-3012 on October 12, 2025. Week 42, kg/sheet 22.2, sheets/hour 85.71, spm 50, c-wires 35.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on October 13, 2025. Week 42, kg/sheet 22.2, sheets/hour 85.71, spm 50, c-wires 35.
+
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on October 14, 2025. Week 42, kg/sheet 22.2, sheets/hour 85.71, spm 50, c-wires 35, 40 units shipped on day.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on October 15, 2025. Week 42 production achieved 320 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on October 16, 2025. Week 42 production achieved 320 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on October 17, 2025. Week 42 production achieved 320 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on October 18, 2025. Week 42 production achieved 320 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on October 19, 2025. Week 43 production achieved 320 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on October 20, 2025. Week 43 production achieved 320 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on October 21, 2025. Week 43 production achieved 320 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on October 22, 2025. Week 43 production achieved 320 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on October 23, 2025. Week 43 production achieved 320 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on October 24, 2025. Week 43 production achieved 80% yield with 1.776 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on October 25, 2025. Week 43 production achieved 320 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on October 26, 2025. Week 44 production achieved 320 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on October 27, 2025. Week 44 production achieved 320 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on October 28, 2025. Week 44 production achieved 150% yield with 3.33 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on October 29, 2025. Week 44 production achieved 200 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on October 30, 2025. Week 44 production achieved 200 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on October 31, 2025. Week 44 production achieved 200 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on November 1, 2025. Week 44 production achieved 320 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on November 2, 2025. Week 45 production achieved 320 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on November 3, 2025. Week 45 production achieved 125% yield with 2.775 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on November 4, 2025. Achieved 122 units with 22.2 kg/sheet efficiency. Planned totals were 4.44 units.
+
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on November 5, 2025. Achieved 140 units with 22.2 kg/sheet efficiency. Planned totals were 4.44 units.
+
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on November 6, 2025. Achieved 165 units with 22.2 kg/sheet efficiency. Planned totals were 4.44 units.
+
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on November 7, 2025. Achieved 150 units with 22.2 kg/sheet efficiency. Planned totals were 4.44 units.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 did not produce any units on November 8, 2025. Planned totals were 0 units.
+
+CLIFFORD CLW12 did not produce any units on November 9, 2025. Planned totals were 0 units.
+
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on November 10, 2025. Achieved 142 units with 22.2 kg/sheet efficiency. Planned totals were 4.44 units.
+
+CLIFFORD CLW12 did not produce any units on November 11, 2025. Planned totals were 0 units.
+
+CLIFFORD CLW12 did not produce any units on November 12, 2025. Planned totals were 0 units.
+
+CLIFFORD CLW12 did not produce any units on November 13, 2025. Planned totals were 0 units.
+
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on November 14, 2025. Achieved 142 units with 22.2 kg/sheet efficiency. Planned totals were 3.33 units.
+
+CLIFFORD CLW12 did not produce any units on November 15, 2025. Planned totals were 0 units.
+
+CLIFFORD CLW12 did not produce any units on November 16, 2025. Planned totals were 0 units.
+
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on November 17, 2025. Achieved 135 units with 22.2 kg/sheet efficiency. Planned totals were 4.44 units.
+
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on November 18, 2025. Achieved 135 units with 22.2 kg/sheet efficiency. Planned totals were 4.44 units.
+
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on November 19, 2025. Achieved 140 units with 22.2 kg/sheet efficiency. Planned totals were 4.44 units.
+
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on November 20, 2025. Achieved 25 units with 22.2 kg/sheet efficiency. Planned totals were 4.44 units.
+
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on November 21, 2025. Achieved 120 units with 22.2 kg/sheet efficiency. Planned totals were 3.33 units.
+
+CLIFFORD CLW12 did not produce any units on November 22, 2025. Planned totals were 0 units.
+
+CLIFFORD CLW12 did not produce any units on November 23, 2025. Planned totals were 0 units.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on November 24, 2025. Week 48.
+
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on November 25, 2025. Week 48.
+
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on November 26, 2025. Week 48.
+
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on November 27, 2025. Week 48.
+
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on November 28, 2025. Week 48.
+
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on November 29, 2025. Week 48.
+
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on November 30, 2025. Week 49.
+
+ST2186, ROSS_ORDER 252543, produced 2,772 units of IMB5-64-5113 JMOL (new) on December 1, 2025. Week 49. Achieved 100% with 250 units processed.
+
+ST2186, ROSS_ORDER 252543, produced 2,772 units of IMB5-64-5113 JMOL (new) on December 2, 2025. Week 49. Achieved 100% with 250 units processed.
+
+ST2186, ROSS_ORDER 252543, produced 2,772 units of IMB5-64-5113 JMOL (new) on December 3, 2025. Week 49. Achieved 100% with 250 units processed.
+
+ST2186, ROSS_ORDER 252543, produced 2,772 units of IMB5-64-5113 JMOL (new) on December 4, 2025. Week 49. Achieved 100% with 250 units processed.
+
+ST2186, ROSS_ORDER 252543, produced 2,772 units of IMB5-64-5113 JMOL (new) on December 5, 2025. Week 49. Achieved 100% with 250 units processed.
+
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on December 6, 2025. Week 49.
+
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on December 7, 2025. Week 50.
+
+ST2186, ROSS_ORDER 252543, produced 2,772 units of IMB5-64-5113 JMOL (new) on December 8, 2025. Week 50. Achieved 100% with 250 units processed.
+
+ST2186, ROSS_ORDER 252543, produced 2,772 units of IMB5-64-5113 JMOL (new) on December 9, 2025. Week 50. Achieved 100% with 250 units processed.
+
+ST2187, ROSS_ORDER 253627 / 254954, produced 2,376 units of IMB5-64-5113 JMOL (new) on December 10, 2025. Week 50. Achieved 140 units with 250 units processed.
+
+ST2187, ROSS_ORDER 253627 / 254954, produced 2,376 units of IMB5-64-5113 JMOL (new) on December 11, 2025. Week 50. Achieved 0 units with 0 units processed.
+
+ST2187, ROSS_ORDER 253627 / 254954, produced 2,376 units of IMB5-64-5113 JMOL (new) on December 12, 2025. Week 50. Achieved 60 units with 250 units processed.
+
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on December 13, 2025. Week 50.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,376 units of IMB5-64-5113 JMOL (new) on December 15, 2025. Sheets per hour were 85.71428571428572.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 250 units of IMB5-64-5113 JMOL (new) on December 16, 2025. Achieved 280 units with 22.2 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 250 units of IMB5-64-5113 JMOL (new) on December 17, 2025. Achieved 220 units with 22.2 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 250 units of IMB5-64-5113 JMOL (new) on December 18, 2025. Achieved 260 units with 22.2 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 250 units of IMB5-64-5113 JMOL (new) on December 19, 2025. Achieved 270 units with 22.2 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 270 units of IMB5-64-5113 JMOL (new) on December 22, 2025. Achieved 290 units with 22.2 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 270 units of IMB5-64-5113 JMOL (new) on December 23, 2025. Achieved 80 units with 22.2 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 270 units of IMB5-64-5113 JMOL (new) on December 24, 2025. Achieved 280 units with 22.2 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 270 units of IMB5-64-5113 JMOL (new) on December 26, 2025. Achieved 280 units with 22.2 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 220 units of IMB5-64-5113 JMOL (new) on December 29, 2025. Achieved 220 units with 22.2 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 270 units of IMB5-64-5113 JMOL (new) on December 29, 2025. Achieved 20 units with 22.2 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 270 units of IMB5-64-5113 JMOL (new) on December 30, 2025. Achieved 135 units with 22.2 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 270 units of IMB5-64-5113 JMOL (new) on December 31, 2025. Achieved 275 units with 22.2 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 270 units of IMB5-64-5113 JMOL (new) on January 1, 2026. Achieved 0 units with 22.2 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2772 units of IMB5-64-5113 JMOL (new) on December 29, 2025. Same next day shipment.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2772 units of IMB5-64-5113 JMOL (new) on December 30, 2025. Achieved 135 units with 22.2 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2772 units of IMB5-64-5113 JMOL (new) on December 31, 2025. Achieved 275 units with 22.2 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2772 units of IMB5-64-5113 JMOL (new) on January 1, 2026. Achieved 0 units with 22.2 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on January 2, 2026. Week 1 production achieved 120 units with 22.2 kg/sheet. Planned totals were 5.994 units.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on January 5, 2026. Week 2 production achieved 200 units with 22.2 kg/sheet. Planned totals were 5.994 units.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on January 7, 2026. Week 2 production achieved 270 units with 22.2 kg/sheet. Planned totals were 5.994 units.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on January 12, 2026. Week 3 production achieved 200 units with 22.2 kg/sheet. Planned totals were 5.994 units.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on January 14, 2026. Week 3 production achieved 32 units with 22.2 kg/sheet. Planned totals were 5.994 units.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 1,980 units of IMB5-64-5113 JMOL (new) on January 19, 2026. Week 4 production achieved 0 units with 22.2 kg/sheet. Planned totals were 0 units.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 1,980 units of IMB5-64-5113 JMOL (new) on January 21, 2026. Week 4 production achieved 50 units with 22.2 kg/sheet. Planned totals were 5.994 units.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on January 2, 2026. Week 1 production achieved 120 units with 22.2 kg/sheet. Planned totals were 5.994 units.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on January 5, 2026. Week 2 production achieved 200 units with 22.2 kg/sheet. Planned totals were 5.994 units.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on January 7, 2026. Week 2 production achieved 270 units with 22.2 kg/sheet. Planned totals were 5.994 units.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on January 12, 2026. Week 3 production achieved 200 units with 22.2 kg/sheet. Planned totals were 5.994 units.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on January 14, 2026. Week 3 production achieved 32 units with 22.2 kg/sheet. Planned totals were 5.994 units.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 1,980 units of IMB5-64-5113 JMOL (new) on January 19, 2026. Week 4 production achieved 0 units with 22.2 kg/sheet. Planned totals were 0 units.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 1,980 units of IMB5-64-5113 JMOL (new) on January 21, 2026. Week 4 production achieved 50 units with 22.2 kg/sheet. Planned totals were 5.994 units.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 1,980 units of IMB5-64-5113 JMOL (new) on January 22, 2026. Achieved 185 units with 22.2 kg/sheet efficiency.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 1,980 units of IMB5-64-5113 JMOL (new) on January 23, 2026. Achieved 202 units with 22.2 kg/sheet efficiency.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 1,980 units of IMB5-64-5113 JMOL (new) on January 24, 2026. No production activity recorded.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 1,980 units of IMB5-64-5113 JMOL (new) on January 25, 2026. No production activity recorded.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 1,980 units of IMB5-64-5113 JMOL (new) on January 26, 2026. Planned totals were 5.994 with no actual production.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 1,980 units of IMB5-64-5113 JMOL (new) on January 27, 2026. Planned totals were 5.994 with no actual production.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 1,980 units of IMB5-64-5113 JMOL (new) on January 28, 2026. Planned totals were 5.994 with no actual production.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 1,980 units of IMB5-64-5113 JMOL (new) on January 29, 2026. Planned totals were 5.994 with no actual production.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 1,980 units of IMB5-64-5113 JMOL (new) on January 30, 2026. Planned totals were 5.994 with no actual production.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 1,980 units of IMB5-64-5113 JMOL (new) on January 31, 2026. No production activity recorded.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 1,980 units of IMB5-64-5113 JMOL (new) on February 1, 2026. No production activity recorded.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 1,980 units of IMB5-64-5113 JMOL (new) on February 2, 2026. Planned totals were 5.994 with no actual production.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on February 3, 2026. Planned totals were 5.994 with no actual production.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on February 4, 2026. Planned totals were 5.994 with no actual production.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on February 5, 2026. Planned totals were 5.994 with no actual production.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on February 6, 2026. Planned totals were 5.994 with no actual production.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on February 7, 2026. No production activity recorded.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on February 8, 2026. No production activity recorded.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on February 9, 2026. Planned totals were 5.994 with no actual production.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on February 10, 2026. Planned totals were 5.994 with no actual production.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on February 11, 2026. Week 7, kg/sheet 22.2, sheets/hour 85.71428571428572, c-wires 35.
+
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on February 12, 2026. Week 7, kg/sheet 22.2, sheets/hour 85.71428571428572, c-wires 35.
+
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on February 13, 2026. Week 7, kg/sheet 22.2, sheets/hour 85.71428571428572, c-wires 35.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,772 units of IMB5-64-5113 JMOL (new) on February 16, 2026. Week 8, kg/sheet 22.2, sheets/hour 85.71428571428572, c-wires 35.
+
+CLIFFORD CLW12 produced 80 units of IMB5-64-5113 JMOL (new) on February 17, 2026. Week 8, kg/sheet 22.2, sheets/hour 85.71428571428572, c-wires 35.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 6,000 units of IMB5-64-5113 JMOL (new) on February 23, 2026. Week 9, kg/sheet 22.2, sheets/hour 85.71428571428572, c-wires 35.
+
+CLIFFORD CLW12 produced 6,000 units of IMB5-64-5113 JMOL (new) on February 24, 2026. Week 9, kg/sheet 22.2, sheets/hour 85.71428571428572, c-wires 35.
+
+CLIFFORD CLW12 produced 6,000 units of IMB5-64-5113 JMOL (new) on February 25, 2026. Week 9, kg/sheet 22.2, sheets/hour 85.71428571428572, c-wires 35.
+
+CLIFFORD CLW12 produced 6,000 units of IMB5-64-5113 JMOL (new) on February 26, 2026. Week 9, kg/sheet 22.2, sheets/hour 85.71428571428572, c-wires 35.
+
+CLIFFORD CLW12 produced 6,000 units of IMB5-64-5113 JMOL (new) on February 27, 2026. Week 9, kg/sheet 22.2, sheets/hour 85.71428571428572, c-wires 35.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 6,000 units of IMB5-64-5113 JMOL (new) on March 2, 2026. Week 10, kg/sheet 22.2, sheets/hour 85.71428571428572, c-wires 35.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 6,000 units of IMB5-64-5113 JMOL (new) on March 3, 2026. Week 10, kg/sheet: 22.2, planned totals: 5.994, actual totals: 0.0, sheets/hour: 85.71428571428572, spm: 50, c-wires: 35.
+
+CLIFFORD CLW12 produced 6,000 units of IMB5-64-5113 JMOL (new) on March 4, 2026. Week 10, kg/sheet: 22.2, planned totals: 5.994, actual totals: 0.0, sheets/hour: 85.71428571428572, spm: 50, c-wires: 35.
+
+CLIFFORD CLW12 produced 6,000 units of IMB5-64-5113 JMOL (new) on March 5, 2026. Week 10, kg/sheet: 22.2, planned totals: 5.994, actual totals: 0.0, sheets/hour: 85.71428571428572, spm: 50, c-wires: 35.
+
+CLIFFORD CLW12 produced 6,000 units of IMB5-64-5113 JMOL (new) on March 6, 2026. Week 10, kg/sheet: 22.2, planned totals: 5.994, actual totals: 0.0, sheets/hour: 85.71428571428572, spm: 50, c-wires: 35.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 6,000 units of IMB5-64-5113 JMOL (new) on March 9, 2026. Week 11, kg/sheet: 22.2, planned totals: 5.994, actual totals: 0.0, sheets/hour: 85.71428571428572, spm: 50, c-wires: 35.
+
+CLIFFORD CLW12 produced 6,000 units of IMB5-64-5113 JMOL (new) on March 10, 2026. Week 11, kg/sheet: 22.2, planned totals: 5.994, actual totals: 0.0, sheets/hour: 85.71428571428572, spm: 50, c-wires: 35.
+
+CLIFFORD CLW12 produced 6,000 units of IMB5-64-5113 JMOL (new) on March 11, 2026. Week 11, kg/sheet: 22.2, planned totals: 5.994, actual totals: 0.0, sheets/hour: 85.71428571428572, spm: 50, c-wires: 35.
+
+CLIFFORD CLW12 produced 6,000 units of IMB5-64-5113 JMOL (new) on March 12, 2026. Week 11, kg/sheet: 22.2, planned totals: 5.994, actual totals: 0.0, sheets/hour: 85.71428571428572, spm: 50, c-wires: 35.
+
+CLIFFORD CLW12 produced 6,000 units of IMB5-64-5113 JMOL (new) on March 13, 2026. Week 11, kg/sheet: 22.2, planned totals: 5.994, actual totals: 0.0, sheets/hour: 85.71428571428572, spm: 50, c-wires: 35.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 6,000 units of IMB5-64-5113 JMOL (new) on March 16, 2026. Week 12, kg/sheet: 22.2, planned totals: 5.994, actual totals: 0.0, sheets/hour: 85.71428571428572, spm: 50, c-wires: 35.
+
+CLIFFORD CLW12 produced 6,000 units of IMB5-64-5113 JMOL (new) on March 17, 2026. Week 12, kg/sheet: 22.2, planned totals: 5.994, actual totals: 0.0, sheets/hour: 85.71428571428572, spm: 50, c-wires: 35.
+
+CLIFFORD CLW12 produced 6,000 units of IMB5-64-5113 JMOL (new) on March 18, 2026. Week 12, kg/sheet: 22.2, planned totals: 5.994, actual totals: 0.0, sheets/hour: 85.71428571428572, spm: 50, c-wires: 35.
+
+CLIFFORD CLW12 produced 6,000 units of IMB5-64-5113 JMOL (new) on March 19, 2026. Week 12, kg/sheet: 22.2, planned totals: 5.994, actual totals: 0.0, sheets/hour: 85.71428571428572, spm: 50, c-wires: 35.
+
+CLIFFORD CLW12 produced 6,000 units of IMB5-64-5113 JMOL (new) on March 20, 2026. Week 12, kg/sheet: 22.2, planned totals: 5.994, actual totals: 0.0, sheets/hour: 85.71428571428572, spm: 50, c-wires: 35.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 6,000 units of IMB5-64-5113 JMOL (new) on March 23, 2026. Week 12, kg/sheet: 22.2, planned totals: 5.994, actual totals: 0.0, sheets/hour: 85.71428571428572, spm: 50, c-wires: 35.
+
+CLIFFORD CLW12 produced 6,000 units of IMB5-64-5113 JMOL (new) on March 24, 2026. Week 12, kg/sheet: 22.2, planned totals: 5.994, actual totals: 0.0, sheets/hour: 85.71428571428572, spm: 50, c-wires: 35.
+
+CLIFFORD CLW12 produced 6,000 units of IMB5-64-5113 JMOL (new) on March 25, 2026. Week 12, kg/sheet: 22.2, planned totals: 5.994, actual totals: 0.0, sheets/hour: 85.71428571428572, spm: 50, c-wires: 35.
+
+CLIFFORD CLW12 produced 6,000 units of IMB5-64-5113 JMOL (new) on March 26, 2026. Week 12, kg/sheet: 22.2, planned totals: 5.994, actual totals: 0.0, sheets/hour: 85.71428571428572, spm: 50, c-wires: 35.
+
+CLIFFORD CLW12 produced 6,000 units of IMB5-64-5113 JMOL (new) on March 27, 2026. Week 12, kg/sheet: 22.2, planned totals: 5.994, actual totals: 0.0, sheets/hour: 85.71428571428572, spm: 50, c-wires: 35.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 6,000 units of IMB5-64-5113 JMOL (new) on March 23, 2026. Week 13 production achieved 270 sheets per hour with 50 spm and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 6,000 units of IMB5-64-5113 JMOL (new) on March 24, 2026. Week 13 production achieved 270 sheets per hour with 50 spm and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 6,000 units of IMB5-64-5113 JMOL (new) on March 25, 2026. Week 13 production achieved 60 sheets per hour with 50 spm and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+No production on March 26, 2026. Week 13 production achieved 0 sheets per hour with 50 spm and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+No production on March 27, 2026. Week 13 production achieved 0 sheets per hour with 50 spm and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+No production on March 28, 2026. Week 13 production achieved 0 sheets per hour with 50 spm and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+No production on March 29, 2026. Week 14 production achieved 0 sheets per hour with 50 spm and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,400 units of IMG45-44-5012 on March 30, 2026. Week 14 production achieved 0 sheets per hour with 50 spm and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+No production on March 31, 2026. Week 14 production achieved 40 sheets per hour with 50 spm and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+No production on April 1, 2026. Week 14 production achieved 250 sheets per hour with 50 spm and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+No production on April 2, 2026. Week 14 production achieved 250 sheets per hour with 50 spm and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+No production on April 3, 2026. Week 14 production achieved 250 sheets per hour with 50 spm and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+No production on April 4, 2026. Week 14 production achieved 0 sheets per hour with 50 spm and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+No production on April 5, 2026. Week 15 production achieved 0 sheets per hour with 50 spm and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,500 units of IMB5-64-5113 JMOL (new) on April 6, 2026. Week 15 production achieved 5.55 units with 0 sheets per hour, 50 spm, and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,500 units of IMB5-64-5113 JMOL (new) on April 7, 2026. Week 15 production achieved 5.55 units with 0 sheets per hour, 50 spm, and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,500 units of IMB5-64-5113 JMOL (new) on April 8, 2026. Week 15 production achieved 5.55 units with 0 sheets per hour, 50 spm, and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,500 units of IMB5-64-5113 JMOL (new) on April 9, 2026. Week 15 production achieved 5.55 units with 0 sheets per hour, 50 spm, and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 2,500 units of IMB5-64-5113 JMOL (new) on April 10, 2026. Week 15 production achieved 5.55 units with 0 sheets per hour, 50 spm, and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+No production on April 11, 2026. Week 15 production achieved 0 sheets per hour with 50 spm and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 250.0 kg_sht of Mesh-50x50x2400x1200x4mm - Industrial Mesh Panel on April 13, 2026. Week 16.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 110.0 kg_sht of Mesh-50x50x2400x1200x4mm - Industrial Mesh Panel on April 14, 2026. Week 16.
+
+[Source: Daily Production Report v1.xlsm_Clifford CLW12-2.csv | Type: production_record]
+CLIFFORD CLW12 produced 22.2 kg_sht of Mesh-50x50x2400x1200x4mm - Industrial Mesh Panel on April 12, 2026. Week 16.

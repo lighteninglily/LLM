@@ -1,0 +1,21 @@
+2026-01-27 09:19:07,346 [INFO] Analyzing data in: /home/ryan/Documents/VSMS/ragflow_automation/batch1
+2026-01-27 09:19:07,346 [INFO] Sampling: ASW - DW - Open Sales Orders.csv
+2026-01-27 09:19:07,350 [INFO]   Schema: 20 columns, 0 likely FKs
+2026-01-27 09:19:07,350 [INFO] Sampling: ASW - Live Ross - Inventory.csv
+2026-01-27 09:19:07,355 [INFO]   Schema: 17 columns, 0 likely FKs
+2026-01-27 09:19:07,355 [INFO] Sampling: ASW - Ross - Open POs.csv
+2026-01-27 09:19:07,358 [INFO]   Schema: 15 columns, 0 likely FKs
+2026-01-27 09:19:07,358 [INFO] Sampling: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+2026-01-27 09:19:07,363 [INFO]   Schema: 23 columns, 1 likely FKs
+2026-01-27 09:19:07,363 [INFO] Sampling: Mine_Forecast.xlsx_Forecast_Data.csv
+2026-01-27 09:19:07,368 [INFO]   Schema: 38 columns, 1 likely FKs
+2026-01-27 09:19:07,368 [INFO] Sampling: Orders Booking Sheet v2.xlsm_DMW Orders.csv
+2026-01-27 09:19:07,372 [INFO]   Schema: 24 columns, 1 likely FKs
+2026-01-27 09:19:07,372 [INFO] Found 6 files
+2026-01-27 09:19:07,372 [INFO] Calling LLM: Qwen/Qwen2.5-7B-Instruct-AWQ at http://localhost:8000/v1
+2026-01-27 09:19:07,372 [DEBUG] Prompt length: 37055 chars
+2026-01-27 09:19:20,510 [INFO] LLM response received: 3657 chars
+2026-01-27 09:19:20,511 [INFO] Parsed analysis: 5 entity types, 6 files
+2026-01-27 09:19:20,511 [WARNING] ⚠️  Estimated KG time: 12.0 hours for 480 chunks
+2026-01-27 09:19:20,511 [WARNING] Consider splitting large files or processing in batches
+2026-01-27 09:19:20,511 [INFO] Analysis saved to: /home/ryan/Documents/VSMS/ragflow_automation/config/analysis_output.json

@@ -1,0 +1,746 @@
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 1,000 units of IMG4-22-2412 on July 1, 2025. Week 27 production achieved 85.71428571428572 sheets per hour with 50 spm and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units on July 2, 2025. Week 27 production achieved 85.71428571428572 sheets per hour with 50 spm and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units on July 3, 2025. Week 27 production achieved 85.71428571428572 sheets per hour with 50 spm and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units on July 4, 2025. Week 27 production achieved 85.71428571428572 sheets per hour with 50 spm and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units on July 5, 2025. Week 27 production achieved 85.71428571428572 sheets per hour with 50 spm and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units on July 6, 2025. Week 28 production achieved 85.71428571428572 sheets per hour with 50 spm and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units on July 7, 2025. Week 28 production achieved 85.71428571428572 sheets per hour with 50 spm and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units on July 8, 2025. Week 28 production achieved 85.71428571428572 sheets per hour with 50 spm and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units on July 9, 2025. Week 28 production achieved 85.71428571428572 sheets per hour with 50 spm and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units on July 10, 2025. Week 28 production achieved 85.71428571428572 sheets per hour with 50 spm and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units on July 11, 2025. Week 28 production achieved 85.71428571428572 sheets per hour with 50 spm and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units on July 12, 2025. Week 28 production achieved 85.71428571428572 sheets per hour with 50 spm and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units on July 13, 2025. Week 29 production achieved 85.71428571428572 sheets per hour with 50 spm and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units on July 14, 2025. Week 29 production achieved 85.71428571428572 sheets per hour with 50 spm and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units on July 15, 2025. Week 29 production achieved 85.71428571428572 sheets per hour with 50 spm and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units on July 16, 2025. Week 29 production achieved 85.71428571428572 sheets per hour with 50 spm and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units on July 17, 2025. Week 29 production achieved 85.71428571428572 sheets per hour with 50 spm and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units on July 18, 2025. Week 29 production achieved 85.71428571428572 sheets per hour with 50 spm and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units on July 19, 2025. Week 29 production achieved 85.71428571428572 sheets per hour with 50 spm and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units on July 20, 2025. Week 30 production achieved 85.71428571428572 sheets per hour with 50 spm and 35 c-wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on July 21, 2025. Planned totals were 0.0 units, actual totals were 0.0 units, and sheets per hour were 85.71428571428572.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on July 22, 2025. Planned totals were 0.0 units, actual totals were 0.0 units, and sheets per hour were 85.71428571428572.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on July 23, 2025. Planned totals were 0.0 units, actual totals were 0.0 units, and sheets per hour were 85.71428571428572.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on July 24, 2025. Planned totals were 0.0 units, actual totals were 0.0 units, and sheets per hour were 85.71428571428572.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on July 25, 2025. Planned totals were 0.0 units, actual totals were 0.0 units, and sheets per hour were 85.71428571428572.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on July 26, 2025. Planned totals were 0.0 units, actual totals were 0.0 units, and sheets per hour were 85.71428571428572.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on July 27, 2025. Planned totals were 0.0 units, actual totals were 0.0 units, and sheets per hour were 85.71428571428572.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on July 28, 2025. Planned totals were 0.0 units, actual totals were 0.0 units, and sheets per hour were 85.71428571428572.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on July 29, 2025. Planned totals were 0.0 units, actual totals were 0.0 units, and sheets per hour were 85.71428571428572.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on July 30, 2025. Planned totals were 0.0 units, actual totals were 0.0 units, and sheets per hour were 85.71428571428572.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on July 31, 2025. Planned totals were 0.0 units, actual totals were 0.0 units, and sheets per hour were 85.71428571428572.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on August 1, 2025. Planned totals were 0.0 units, actual totals were 0.0 units, and sheets per hour were 85.71428571428572.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on August 2, 2025. Planned totals were 0.0 units, actual totals were 0.0 units, and sheets per hour were 85.71428571428572.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on August 3, 2025. Planned totals were 0.0 units, actual totals were 0.0 units, and sheets per hour were 85.71428571428572.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on August 4, 2025. Planned totals were 0.0 units, actual totals were 0.0 units, and sheets per hour were 85.71428571428572.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on August 5, 2025. Planned totals were 0.0 units, actual totals were 0.0 units, and sheets per hour were 85.71428571428572.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on August 6, 2025. Planned totals were 0.0 units, actual totals were 0.0 units, and sheets per hour were 85.71428571428572.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on August 7, 2025. Planned totals were 0.0 units, actual totals were 0.0 units, and sheets per hour were 85.71428571428572.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on August 8, 2025. Planned totals were 0.0 units, actual totals were 0.0 units, and sheets per hour were 85.71428571428572.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on August 9, 2025. Planned totals were 0.0 units, actual totals were 0.0 units, and sheets per hour were 85.71428571428572.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 27.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on August 10, 2025. Sheets per hour was 85.71428571428572 with 50 spm and 35 c_wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 28.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on August 11, 2025. Sheets per hour was 85.71428571428572 with 50 spm and 35 c_wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 29.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on August 12, 2025. Sheets per hour was 85.71428571428572 with 50 spm and 35 c_wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 30.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on August 13, 2025. Sheets per hour was 85.71428571428572 with 50 spm and 35 c_wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 31.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on August 14, 2025. Sheets per hour was 85.71428571428572 with 50 spm and 35 c_wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 32.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on August 15, 2025. Sheets per hour was 85.71428571428572 with 50 spm and 35 c_wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 33.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on August 16, 2025. Sheets per hour was 85.71428571428572 with 50 spm and 35 c_wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 34.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on August 17, 2025. Sheets per hour was 85.71428571428572 with 50 spm and 35 c_wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 35.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on August 18, 2025. Sheets per hour was 85.71428571428572 with 50 spm and 35 c_wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 36.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on August 19, 2025. Sheets per hour was 85.71428571428572 with 50 spm and 35 c_wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 37.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on August 20, 2025. Sheets per hour was 85.71428571428572 with 50 spm and 35 c_wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 38.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on August 21, 2025. Sheets per hour was 85.71428571428572 with 50 spm and 35 c_wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 39.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on August 22, 2025. Sheets per hour was 85.71428571428572 with 50 spm and 35 c_wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 40.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on August 23, 2025. Sheets per hour was 85.71428571428572 with 50 spm and 35 c_wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 41.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on August 24, 2025. Sheets per hour was 85.71428571428572 with 50 spm and 35 c_wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 42.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on August 25, 2025. Sheets per hour was 85.71428571428572 with 50 spm and 35 c_wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 43.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on August 26, 2025. Sheets per hour was 85.71428571428572 with 50 spm and 35 c_wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 44.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on August 27, 2025. Sheets per hour was 85.71428571428572 with 50 spm and 35 c_wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 45.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on August 28, 2025. Sheets per hour was 85.71428571428572 with 50 spm and 35 c_wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 46.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on August 29, 2025. Sheets per hour was 85.71428571428572 with 50 spm and 35 c_wires.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 47.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on August 30, 2025. Sheets per hour was 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 48.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on August 31, 2025. Sheets per hour was 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 49.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 1, 2025. Sheets per hour was 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 50.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 2, 2025. Sheets per hour was 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 51.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 3, 2025. Sheets per hour was 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 52.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 4, 2025. Sheets per hour was 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 53.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 5, 2025. Sheets per hour was 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 54.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 6, 2025. Sheets per hour was 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 55.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 7, 2025. Sheets per hour was 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 56.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 8, 2025. Sheets per hour was 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 57.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 9, 2025. Sheets per hour was 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 58.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 10, 2025. Sheets per hour was 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 59.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 11, 2025. Sheets per hour was 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 60.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 12, 2025. Sheets per hour was 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 61.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 13, 2025. Sheets per hour was 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 62.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 14, 2025. Sheets per hour was 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 63.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 15, 2025. Sheets per hour was 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 64.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 16, 2025. Sheets per hour was 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 65.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 17, 2025. Sheets per hour was 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 66.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 18, 2025. Sheets per hour was 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 67.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 19, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 68.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 20, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 69.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 21, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 70.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 22, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 71.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 23, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 72.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 24, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 73.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 25, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 74.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 26, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 75.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 27, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 76.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 28, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 77.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 29, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 78.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 30, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 79.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 1, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 80.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 2, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 81.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 3, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 82.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 4, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 83.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 5, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 84.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 6, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 85.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 7, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 86.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 8, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 87.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 9, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 88.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 10, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 89.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 11, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 90.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 12, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 91.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 13, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 92.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 14, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 93.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 15, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 94.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 16, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 95.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 17, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 96.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 18, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 97.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 19, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 98.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 20, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 99.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 21, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 100.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 22, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 101.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 23, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 102.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 24, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 103.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 25, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 104.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 26, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 105.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 27, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 106.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 28, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 107.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 29, 2025. Sheets per hour was 85.71428571428572 and yield was 50%.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 108.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 30, 2025. Sheets per hour was 85.71428571428572 and yield was 50%.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 109.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 31, 2025. Sheets per hour was 85.71428571428572 and yield was 50%.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 110.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on November 1, 2025. Sheets per hour was 85.71428571428572 and yield was 50%.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 111.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on November 2, 2025. Sheets per hour was 85.71428571428572 and yield was 50%.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 112.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on November 3, 2025. Sheets per hour was 85.71428571428572 and yield was 50%.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 113.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on November 4, 2025. Sheets per hour was 85.71428571428572 and yield was 50%.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 114.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on November 5, 2025. Sheets per hour was 85.71428571428572 and yield was 50%.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 115.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on November 6, 2025. Sheets per hour was 85.71428571428572 and yield was 50%.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 116.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on November 7, 2025. Sheets per hour was 85.71428571428572 and yield was 50%.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 117.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on November 8, 2025. Sheets per hour was 85.71428571428572 and yield was 50%.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 118.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on November 9, 2025. Sheets per hour was 85.71428571428572 and yield was 50%.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 119.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on November 10, 2025. Sheets per hour was 85.71428571428572 and yield was 50%.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 120.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on November 11, 2025. Sheets per hour was 85.71428571428572 and yield was 50%.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 121.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on November 12, 2025. Sheets per hour was 85.71428571428572 and yield was 50%.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 122.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on November 13, 2025. Sheets per hour was 85.71428571428572 and yield was 50%.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 123.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on November 14, 2025. Sheets per hour was 85.71428571428572 and yield was 50%.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 124.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on November 15, 2025. Sheets per hour was 85.71428571428572 and yield was 50%.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 125.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on November 16, 2025. Sheets per hour was 85.71428571428572 and yield was 50%.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 126.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on November 17, 2025. Sheets per hour was 85.71428571428572 and yield was 50%.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 127.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on November 18, 2025. Sheets per hour was 85.71428571428572 and yield was 50%.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 127.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on November 18, 2025.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 128.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on November 19, 2025.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 129.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on November 20, 2025.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 130.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on November 21, 2025.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 131.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on November 22, 2025.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 132.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on November 23, 2025.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 133.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on November 24, 2025.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 134.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on November 25, 2025.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 135.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on November 26, 2025.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 136.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on November 27, 2025.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 137.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on November 28, 2025.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 138.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on November 29, 2025.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 139.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on November 30, 2025.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 140.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on December 1, 2025.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 141.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on December 2, 2025.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 142.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on December 3, 2025.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 143.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on December 4, 2025.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 144.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on December 5, 2025.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 145.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on December 6, 2025.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 146.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on December 7, 2025.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 147.2 kg of R500L5.60Blk - Rebar 500L 5.6m Black on December 8, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 148.2 kg of R500L5.60Blk - Rebar 500L 5.6m Black on December 9, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 149.2 kg of R500L5.60Blk - Rebar 500L 5.6m Black on December 10, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 150.2 kg of R500L5.60Blk - Rebar 500L 5.6m Black on December 11, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 151.2 kg of R500L5.60Blk - Rebar 500L 5.6m Black on December 12, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 152.2 kg of R500L5.60Blk - Rebar 500L 5.6m Black on December 13, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 153.2 kg of R500L5.60Blk - Rebar 500L 5.6m Black on December 14, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 154.2 kg of R500L5.60Blk - Rebar 500L 5.6m Black on December 15, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 155.2 kg of R500L5.60Blk - Rebar 500L 5.6m Black on December 16, 2025. Sheets per hour were 85.71428571428572, spm was 50, and c_wires was 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 7.02 kg of R500L5.60Blk - Rebar 500L 5.6m Black on December 17, 2025. Sheets per hour were 80.4878048780488, spm was 55, and c_wires was 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 7.02 kg of R500L5.60Blk - Rebar 500L 5.6m Black on December 18, 2025. Sheets per hour were 80.4878048780488, spm was 55, and c_wires was 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 7.02 kg of R500L5.60Blk - Rebar 500L 5.6m Black on December 19, 2025. Sheets per hour were 80.4878048780488, spm was 55, and c_wires was 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 7.02 kg of R500L5.60Blk - Rebar 500L 5.6m Black on December 20, 2025. Sheets per hour were 80.4878048780488, spm was 55, and c_wires was 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 7.02 kg of R500L5.60Blk - Rebar 500L 5.6m Black on December 21, 2025. Sheets per hour were 80.4878048780488, spm was 55, and c_wires was 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 7.02 kg of R500L5.60Blk - Rebar 500L 5.6m Black on December 22, 2025. Sheets per hour were 80.4878048780488, spm was 55, and c_wires was 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 7.02 kg of R500L5.60Blk - Rebar 500L 5.6m Black on December 23, 2025. Sheets per hour were 80.4878048780488, spm was 55, and c_wires was 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 7.02 kg of R500L5.60Blk - Rebar 500L 5.6m Black on December 24, 2025. Sheets per hour were 80.4878048780488, spm was 55, and c_wires was 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 7.02 kg of R500L5.60Blk - Rebar 500L 5.6m Black on December 25, 2025. Sheets per hour were 80.4878048780488, spm was 55, and c_wires was 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 7.02 kg of R500L5.60Blk - Rebar 500L 5.6m Black on December 26, 2025. Sheets per hour were 80.4878048780488, spm was 55, and c_wires was 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 7.02 kg of R500L5.60Blk - Rebar 500L 5.6m Black on December 27, 2025. Sheets per hour were 80.4878048780488, spm was 55, and c_wires was 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on December 28, 2025. Week 53, kg_sht: 7.02, sheets_per_hour: 80.49, spm: 55, c_wires: 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on December 29, 2025. Week 53, kg_sht: 7.02, sheets_per_hour: 80.49, spm: 55, c_wires: 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on December 30, 2025. Week 53, kg_sht: 7.02, sheets_per_hour: 80.49, spm: 55, c_wires: 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on December 31, 2025. Week 53, kg_sht: 7.02, sheets_per_hour: 80.49, spm: 55, c_wires: 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on January 1, 2026. Week 1, kg_sht: 7.02, sheets_per_hour: 80.49, spm: 55, c_wires: 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on January 2, 2026. Week 1, kg_sht: 7.02, sheets_per_hour: 80.49, spm: 55, c_wires: 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on January 3, 2026. Week 1, kg_sht: 7.02, sheets_per_hour: 80.49, spm: 55, c_wires: 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on January 4, 2026. Week 2, kg_sht: 7.02, sheets_per_hour: 80.49, spm: 55, c_wires: 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on January 5, 2026. Week 2, kg_sht: 7.02, sheets_per_hour: 80.49, spm: 55, c_wires: 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on January 6, 2026. Week 2, kg_sht: 7.02, sheets_per_hour: 80.49, spm: 55, c_wires: 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on January 7, 2026. Week 2, kg_sht: 7.02, sheets_per_hour: 80.49, spm: 55, c_wires: 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on January 8, 2026. Week 2, kg_sht: 7.02, sheets_per_hour: 80.49, spm: 55, c_wires: 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on January 9, 2026. Week 2, kg_sht: 7.02, sheets_per_hour: 80.49, spm: 55, c_wires: 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on January 10, 2026. Week 2, kg_sht: 7.02, sheets_per_hour: 80.49, spm: 55, c_wires: 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on January 11, 2026. Week 3, kg_sht: 7.02, sheets_per_hour: 80.49, spm: 55, c_wires: 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on January 2, 2026. Week 1, kg_sht: 7.02, sheets_per_hour: 80.49, spm: 55, c_wires: 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on January 3, 2026. Week 1, kg_sht: 7.02, sheets_per_hour: 80.49, spm: 55, c_wires: 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on January 4, 2026. Week 2, kg_sht: 7.02, sheets_per_hour: 80.49, spm: 55, c_wires: 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on January 5, 2026. Week 2, kg_sht: 7.02, sheets_per_hour: 80.49, spm: 55, c_wires: 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of any product on January 6, 2026. Week 2, kg_sht: 7.02, sheets_per_hour: 80.49, spm: 55, c_wires: 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of any product on January 7, 2026. Planned totals were 0.0, actual totals were 0.0, sheets per hour was 80.4878048780488, spm was 55, and c_wires was 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of any product on January 8, 2026. Planned totals were 0.0, actual totals were 0.0, sheets per hour was 80.4878048780488, spm was 55, and c_wires was 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of any product on January 9, 2026. Planned totals were 0.0, actual totals were 0.0, sheets per hour was 80.4878048780488, spm was 55, and c_wires was 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of any product on January 10, 2026. Planned totals were 0.0, actual totals were 0.0, sheets per hour was 80.4878048780488, spm was 55, and c_wires was 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of any product on January 11, 2026. Planned totals were 0.0, actual totals were 0.0, sheets per hour was 80.4878048780488, spm was 55, and c_wires was 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of any product on January 12, 2026. Planned totals were 0.0, actual totals were 0.0, sheets per hour was 80.4878048780488, spm was 55, and c_wires was 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of any product on January 13, 2026. Planned totals were 0.0, actual totals were 0.0, sheets per hour was 80.4878048780488, spm was 55, and c_wires was 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of any product on January 14, 2026. Planned totals were 0.0, actual totals were 0.0, sheets per hour was 80.4878048780488, spm was 55, and c_wires was 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of any product on January 15, 2026. Planned totals were 0.0, actual totals were 0.0, sheets per hour was 80.4878048780488, spm was 55, and c_wires was 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of any product on January 16, 2026. Planned totals were 0.0, actual totals were 0.0, sheets per hour was 80.4878048780488, spm was 55, and c_wires was 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of any product on January 17, 2026. Planned totals were 0.0, actual totals were 0.0, sheets per hour was 80.4878048780488, spm was 55, and c_wires was 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of any product on January 18, 2026. Planned totals were 0.0, actual totals were 0.0, sheets per hour was 80.4878048780488, spm was 55, and c_wires was 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of any product on January 2, 2026. Planned totals were 0.0, actual totals were 0.0, sheets per hour was 80.4878048780488, spm was 55, and c_wires was 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of any product on January 3, 2026. Planned totals were 0.0, actual totals were 0.0, sheets per hour was 80.4878048780488, spm was 55, and c_wires was 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of any product on January 4, 2026. Planned totals were 0.0, actual totals were 0.0, sheets per hour was 80.4878048780488, spm was 55, and c_wires was 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of any product on January 5, 2026. Planned totals were 0.0, actual totals were 0.0, sheets per hour was 80.4878048780488, spm was 55, and c_wires was 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of any product on January 6, 2026. Planned totals were 0.0, actual totals were 0.0, sheets per hour was 80.4878048780488, spm was 55, and c_wires was 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of any product on January 7, 2026. Planned totals were 0.0, actual totals were 0.0, sheets per hour was 80.4878048780488, spm was 55, and c_wires was 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of any product on January 8, 2026. Planned totals were 0.0, actual totals were 0.0, sheets per hour was 80.4878048780488, spm was 55, and c_wires was 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of any product on January 9, 2026. Planned totals were 0.0, actual totals were 0.0, sheets per hour was 80.4878048780488, spm was 55, and c_wires was 51.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of IMB45-421-5002-DEN on January 10, 2026. Machine processed job 254987 - ENSHAM with 0 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of IMB45-421-5002-DEN on January 11, 2026. Machine processed job 254987 - ENSHAM with 0 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of IMB45-421-5002-DEN on January 12, 2026. Machine processed job 254987 - ENSHAM with 0 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of IMB45-421-5002-DEN on January 13, 2026. Machine processed job 254987 - ENSHAM with 0 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of IMB45-421-5002-DEN on January 14, 2026. Machine processed job 254987 - ENSHAM with 0 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of IMB45-421-5002-DEN on January 15, 2026. Machine processed job 254987 - ENSHAM with 0 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of IMB45-421-5002-DEN on January 16, 2026. Machine processed job 254987 - ENSHAM with 0 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of IMB45-421-5002-DEN on January 17, 2026. Machine processed job 254987 - ENSHAM with 0 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 2,113 units of IMB45-421-5002-DEN on January 19, 2026. Machine processed job 254987 - ENSHAM with 50 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 2,113 units of IMB45-421-5002-DEN on January 20, 2026. Machine processed job 254987 - ENSHAM with 140 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 2,113 units of IMB45-421-5002-DEN on January 21, 2026. Machine processed job 254987 - ENSHAM with 28 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 2,113 units of IMB45-421-5002-DEN on January 22, 2026. Machine processed job 254987 - ENSHAM with 87 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 2,113 units of IMB45-421-5002-DEN on January 23, 2026. Machine processed job 254987 - ENSHAM with 90 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 2,113 units of IMB45-421-5002-DEN on January 24, 2026. Machine processed job 254987 - ENSHAM with 66 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of IMB45-421-5002-DEN on January 25, 2026. Machine processed job 254987 - ENSHAM with 0 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of IMB45-421-5002-DEN on January 26, 2026. Machine processed job 254987 - ENSHAM with 0 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of IMB45-421-5002-DEN on January 27, 2026. Machine processed job 254987 - ENSHAM with 0 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of IMB45-421-5002-DEN on January 28, 2026. Machine processed job 254987 - ENSHAM with 0 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of IMB45-421-5002-DEN on January 29, 2026. Machine processed job 254987 - ENSHAM with 0 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 2,113 units of IMB45-421-5002-DEN on January 30, 2026. Job number 254987 - ENSHAM was processed with 80.49 sheets per hour and 55 spm.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 2,113 units of IMB45-421-5002-DEN on January 31, 2026. Job number 254987 - ENSHAM was processed with 80.49 sheets per hour and 55 spm.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 120 units of IMB45-421-5002-DEN on February 1, 2026. Job number 254987 - ENSHAM was processed with 80.49 sheets per hour and 55 spm.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 2,113 units of IMB45-421-5002-DEN on February 2, 2026. Job number 254987 - ENSHAM was processed with 80.49 sheets per hour and 55 spm.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 2,113 units of IMB45-421-5002-DEN on February 3, 2026. Job number 254987 - ENSHAM was processed with 80.49 sheets per hour and 55 spm.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 2,113 units of IMB45-421-5002-DEN on February 4, 2026. Job number 254987 - ENSHAM was processed with 80.49 sheets per hour and 55 spm.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 2,113 units of IMB45-421-5002-DEN on February 5, 2026. Job number 254987 - ENSHAM was processed with 80.49 sheets per hour and 55 spm.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 2,113 units of IMB45-421-5002-DEN on February 6, 2026. Job number 254987 - ENSHAM was processed with 80.49 sheets per hour and 55 spm.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 2,113 units of IMB45-421-5002-DEN on February 7, 2026. Job number 254987 - ENSHAM was processed with 80.49 sheets per hour and 55 spm.

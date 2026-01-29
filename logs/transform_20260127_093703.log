@@ -1,0 +1,13 @@
+2026-01-27 09:37:03,434 [INFO] Read 896 records from ASW - Ross - Open POs.csv
+2026-01-27 09:37:03,434 [INFO] Transforming ASW - Ross - Open POs.csv: 896 records in 45 batches
+2026-01-27 09:45:32,936 [INFO]   Splitting into 2 files (max 500 records each)
+2026-01-27 09:45:32,937 [INFO]   Wrote 500 paragraphs to ASW - Ross - Open POs_001.txt
+2026-01-27 09:45:32,937 [INFO]   Wrote 328 paragraphs to ASW - Ross - Open POs_002.txt
+2026-01-27 09:45:32,950 [INFO] Read 838 records from Mine_Forecast.xlsx_Forecast_Data.csv
+2026-01-27 09:45:32,950 [INFO] Transforming Mine_Forecast.xlsx_Forecast_Data.csv: 838 records in 42 batches
+2026-01-27 09:53:44,212 [INFO]   Splitting into 2 files (max 500 records each)
+2026-01-27 09:53:44,213 [INFO]   Wrote 500 paragraphs to Mine_Forecast.xlsx_Forecast_Data_001.txt
+2026-01-27 09:53:44,213 [INFO]   Wrote 180 paragraphs to Mine_Forecast.xlsx_Forecast_Data_002.txt
+2026-01-27 09:53:44,218 [INFO] Read 391 records from Orders Booking Sheet v2.xlsm_DMW Orders.csv
+2026-01-27 09:53:44,218 [INFO] Transforming Orders Booking Sheet v2.xlsm_DMW Orders.csv: 391 records in 20 batches
+2026-01-27 10:00:08,735 [INFO]   Wrote 383 paragraphs to Orders Booking Sheet v2.xlsm_DMW Orders.txt

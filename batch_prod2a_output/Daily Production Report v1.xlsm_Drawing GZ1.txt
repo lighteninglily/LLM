@@ -1,0 +1,637 @@
+8.0mm C12D coils production is ongoing with the WIP ross_order. On May 31, 2025, the achieved quantity was 13,010 kg. The next day, June 1, 2025, no production was reported. Production resumed on June 2, 2025, but still no production was recorded. On June 3, 2025, 7,015 kg were achieved. The same day, an additional 6,015 kg were achieved, bringing the total to 15,078 kg.
+
+8.0mm C12D coils production continues with the WIP ross_order. On June 3, 2025, 9,050 kg were achieved. The following day, June 4, 2025, 5,020 kg of 6.5mm C12D coils were achieved, contributing to the overall production. On June 4, 2025, another 9,050 kg of 6.5mm C12D coils were produced. On June 5, 2025, 10,990 kg of 6.5mm C12D coils were achieved, followed by 10,065 kg of 6.5mm C12D coils on June 6, 2025. On June 7, 2025, 5,050 kg of 6.5mm C12D coils were achieved, and on June 7, 2025, 7,706 kg of 6.5mm C12D coils were produced.
+
+On June 8, 2025, 1,995 kg of 5.5mm SAE1008 coils were achieved, and on June 8, 2025, 3,995 kg of 5.5mm SAE1008 coils were produced. On June 9, 2025, 3,025 kg of 5.5mm SAE1008 coils were achieved, and on June 10, 2025, 3,025 kg of 5.5mm SAE1008 coils were produced. On June 11, 2025, 6,110 kg of 5.5mm SAE1008 coils were achieved, and on June 11, 2025, 9,010 kg of 5.5mm SAE1008 coils were produced.
+
+WIP is working on the production of R500L5.6-Coils, with the ross_code CW500L5.6. On June 12, 2025, they started with an initial achieved quantity of 12,205.0, which increased to 24,445.0 by the end of the day. The same_next_day flag is set to 'S', indicating a next-day status.
+
+On June 13, 2025, the achieved quantity was 6,240.0, followed by an increase to 16,150.0 on June 14, 2025, with the achieved_1 value reaching 11,090.0. The same_next_day flag remains 'S'.
+
+On June 15, 2025, the achieved quantity was 20,410.0, and it reached 24,546.0 by June 16, 2025. The same_next_day flag is still 'S'. On June 17, 2025, the achieved quantity was 8,131.0, and it increased to 24,506.0 by June 18, 2025. The achieved_1 value was 20,301.0.
+
+On June 19, 2025, the achieved quantity for 5.5mm SAE1008 was 5,980.0, increasing to 8,030.0 by the end of the day. The same_next_day flag is 'S'. On June 20, 2025, the achieved quantity was 1,005.0.
+
+On June 21, 2025, the achieved quantity for 5.5mm SAE1008 was 5,010.0, increasing to 8,055.0 by the end of the day. The same_next_day flag is 'N'. On June 22, 2025, no production was recorded for R500L4.0-Coils.
+
+The comment for 7.0mm C12D on June 12, 2025, indicates the start of production for R500L5.6-Coils with the ross_code CW500L5.6. The achieved quantity was 12,205.0, and it increased to 24,445.0 by the end of the day. The same_next_day flag is 'S'.
+
+The comment for 6.5mm C12D on June 13, 2025, indicates the start of production for R500L5.6-Coils with the ross_code CW500L5.6. The achieved quantity was 5,060.0, increasing to 16,150.0 by the end of the day. The same_next_day flag is 'S'.
+
+The comment for 6.5mm C12D on June 14, 2025, indicates the start of production for R500L5.6-Coils with the ross_code CW500L5.6. The achieved quantity was 7,960.0, increasing to 14,970.0 by the end of the day. The same_next_day flag is 'S'.
+
+The comment for 7.0mm C12D on June 14, 2025, indicates the start of production for R500L5.6-Coils with the ross_code CW500L5.6. The achieved quantity was 12,065.0 by the end of the day. The same_next_day flag is 'S'.
+
+The comment for 7.0mm C12D on June 16, 2025, indicates the start of production for R500L5.6-Coils with the ross_code CW500L5.6. The achieved quantity was 22,240.0 by the end of the day. The same_next_day flag is 'S'.
+
+The comment for 6.5mm C12D on June 17, 2025, indicates the start of production for R500L5.6-Coils with the ross_code CW500L5.6. The achieved quantity was 8,131.0 by the end of the day. The same_next_day flag is 'N'.
+
+The comment for 6.5mm C12D on June 17, 2025, indicates the start of production for R500L5.6-Coils with the ross_code CW500L5.6. The achieved quantity was 10,265.0 by the end of the day. The same_next_day flag is 'S'.
+
+The comment for 5.5mm SAE1008 on June 19, 2025, indicates the start of production for R500L4.0-Coils with the ross_code CW500L4. The achieved quantity was 5,980.0, increasing to 8,030.0 by the end of the day. The same_next_day flag is 'S'.
+
+The comment for 5.5mm SAE1008 on June 19, 2025, indicates the start of production for R500L4.0-Coils with the ross_code CW500L4. The achieved quantity was 3,015.0 by the end of the day. The same_next_day flag is 'S'.
+
+The comment for 5.5mm SAE1008 on June 20, 2025, indicates the start of production for R500L4.0-Coils with the ross_code CW500L4. The achieved quantity was 1,005.0 by the end of the day. The same_next_day flag is 'N'.
+
+The comment for 5.5mm SAE1008 on June 20, 2025, indicates the start of production for R500L4.5-Coils with the ross_code CW500L4.5. The achieved quantity was 8,080.0, increasing to 12,170.0 by the end of the day. The same_next_day flag is 'S'.
+
+The comment for 5.5mm SAE1008 on June 21, 2025, indicates the start of production for R500L4.0-Coils with the ross_code CW500L4. The achieved quantity was 5,010.0, increasing to 8,055.0 by the end of the day. The same_next_day flag is 'N'.
+
+WIP is working on the production of R500L4.0-Coils with the ross_code CW500L4. The order is marked as WIP, and no same-day shipping is requested. The date is June 23, 2025, which falls within week 26. The achieved quantity is 3035.0 kg, while the planned totals are 0.0 kg. The actual total weight is 9295.0 kg.
+
+The comment notes that the product is 7.0mm C12D. WIP is also producing R500L5.6-Coils with the ross_code CW500L5.6. The order is marked as WIP, and same-day shipping is requested. The date is June 23, 2025, which falls within week 26. The achieved quantity is 7065.0 kg, while the planned totals are 0.0 kg. The actual total weight is 7065.0 kg.
+
+WIP continues to work on R500L5.6-Coils with the ross_code CW500L5.6. The order is marked as WIP, and no same-day shipping is requested. The date is June 24, 2025, which falls within week 26. The achieved quantity is 15035.0 kg, while the planned totals are 0.0 kg. The actual total weight is 17050.0 kg.
+
+The comment again notes that the product is 7.0mm C12D. WIP is still producing R500L5.6-Coils with the ross_code CW500L5.6. The order is marked as WIP, and same-day shipping is requested. The date is June 24, 2025, which falls within week 26. The achieved quantity is 15020.0 kg, while the planned totals are 0.0 kg. The actual total weight is 15020.0 kg.
+
+WIP is producing R500L5.6-Coils with the ross_code CW500L5.6. The order is marked as WIP, and no same-day shipping is requested. The date is June 25, 2025, which falls within week 26. The achieved quantity is 3165.0 kg, while the planned totals are 0.0 kg. The actual total weight is 15165.0 kg.
+
+The comment mentions that the product is R500L8.0mm Engtex. WIP is producing CW500L6-Coils with the ross_code CW500L6. The order is marked as WIP, and same-day shipping is requested. The date is June 25, 2025, which falls within week 26. The achieved quantity is 3980.0 kg, while the planned totals are 0.0 kg. The actual total weight is 3980.0 kg.
+
+The comment notes that the product is 7.0mm C12D. WIP is continuing to produce R500L5.6-Coils with the ross_code CW500L5.6. The order is marked as WIP, and no same-day shipping is requested. The date is June 26, 2025, which falls within week 26. The achieved quantity is 17986.0 kg, while the planned totals are 0.0 kg. The actual total weight is 17986.0 kg.
+
+The comment again notes that the product is 7.0mm C12D. WIP is producing R500L5.6-Coils with the ross_code CW500L5.6. The order is marked as WIP, and no same-day shipping is requested. The date is June 27, 2025, which falls within week 26. The achieved quantity is 30000.0 kg, while the planned totals are 0.0 kg. The actual total weight is 20498.0 kg.
+
+The comment notes that the product is 7.0mm C12D. WIP is producing R500L5.6-Coils with the ross_code CW500L5.6. The order is marked as WIP, and no same-day shipping is requested. The date is June 27, 2025, which falls within week 26. The achieved quantity is 18585.0 kg, while the planned totals are 0.0 kg. The actual total weight is 49600.0 kg.
+
+The comment notes that the product is 7.0mm C12D. WIP is producing R500L5.6-Coils with the ross_code CW500L5.6. The order is marked as WIP, and no same-day shipping is requested. The date is June 28, 2025, which falls within week 26. The achieved quantity is 12164.0 kg, while the planned totals are 0.0 kg. The actual total weight is 26254.0 kg.
+
+The comment notes that the product is R500L8.0Blk. WIP is producing R500L6.3-Coils with the ross_code CW500L6.3. The order is marked as WIP, and no same-day shipping is requested. The date is June 29, 2025, which falls within week 27. The achieved quantity is 5005.0 kg, while the planned totals are 0.0 kg. The actual total weight is 10000.0 kg.
+
+The comment notes that the product is 7.0mm C12D. WIP is producing R500L5.6-Coils with the ross_code CW500L5.6. The order is marked as WIP, and no same-day shipping is requested. The date is June 30, 2025, which falls within week 27. The achieved quantity is 10985.0 kg, while the planned totals are 0.0 kg. The actual total weight is 10985.0 kg.
+
+The comment notes that the product is 7.0mm C12D. WIP is producing R500L5.6-Coils with the ross_code CW500L5.6. The order is marked as WIP, and no same-day shipping is requested. The date is July 1, 2025, which falls within week 27. The achieved quantity is 2985.0 kg, while the planned totals are 0.0 kg. The actual total weight is 2985.0 kg.
+
+The comment notes that the product is 6.5mm C12D. WIP is producing R500L5.0-Coils with the ross_code CW500L5. The order is marked as WIP, and same-day shipping is requested. The date is July 1, 2025, which falls within week 27. The achieved quantity is 16110.0 kg, while the planned totals are 0.0 kg. The actual total weight is 16110.0 kg.
+
+The comment notes that the product is 7.0mm C12D. WIP is producing R500L5.6-Coils with the ross_code CW500L5.6. The order is marked as WIP, and same-day shipping is requested. The date is July 2, 2025, which falls within week 27. The achieved quantity is 14383.0 kg, while the planned totals are 0.0 kg. The actual total weight is 14383.0 kg.
+
+The comment notes that the product is 6.5mm C12D. WIP is producing R500L5.0-Coils with the ross_code CW500L5. The order is marked as WIP, and no same-day shipping is requested. The date is July 3, 2025, which falls within week 27. The achieved quantity is 12436.0 kg, while the planned totals are 0.0 kg. The actual total weight is 29929.0 kg.
+
+The comment notes that the product is 7.0mm C12D. WIP is producing R500L5.6-Coils with the ross_code CW500L5.6. The order is marked as WIP, and same-day shipping is requested. The date is July 3, 2025, which falls within week 27. The achieved quantity is 6095.0 kg, while the planned totals are 0.0 kg. The actual total weight is 6095.0 kg.
+
+The comment notes that the product is 7.0mm C12D. WIP is producing R500L5.6-Coils with the ross_code CW500L5.6. The order is marked as WIP, and no same-day shipping is requested. The date is July 4, 2025, which falls within week 27. The achieved quantity is 20662.0 kg, while the planned totals are 0.0 kg. The actual total weight is 26931.0 kg.
+
+The comment notes that the product is 7.0mm C12D. WIP is producing R500L5.6-Coils with the ross_code CW500L5.6. The order is marked as WIP, and no same-day shipping is requested. The date is July 5, 2025, which falls within week 27. The achieved quantity is 30670.0 kg, while the planned totals are 0.0 kg. The actual total weight is 20695.0 kg.
+
+R500L8.0mm Engtex was ordered with Ross Order number 251464. The DMW product is R500L7.1-Coils, with Ross Code CW500L7.1. A quantity of 12000.0 units were ordered. Achievements were recorded as 11026.0, with an additional 1100.0 units achieved on the same day.
+
+7.0mm C12D was noted in the comments. The Ross Order status is WIP. The DMW product is R500L5.6-Coils, with Ross Code CW500L5.6. A quantity of 60000.0 units were ordered. Achievements were recorded as 12055.0, with an additional 950.0 units achieved on the same day.
+
+7.0mm C12D was again noted in the comments. The Ross Order status is WIP. The DMW product is R500L5.6-Coils, with Ross Code CW500L5.6. A quantity of 60000.0 units were ordered. Achievements were recorded as 12055.0, with an additional 12055.0 units achieved on the same day.
+
+Achievements were recorded as 26546.0, with an additional 26125.0 units achieved on July 7, 2025.
+
+6.5mm C12D rework on hold coils was noted in the comments. The DMW product is R500L5.0-Coils, with Ross Code CW500L5. A quantity of 36000.0 units were ordered. Achievements were recorded as 2873.0, with an additional 17461.0 units achieved on July 8, 2025.
+
+Achievements were recorded as 955.0 on July 9, 2025.
+
+R500L8.0Blk/7.10blk/WR8mm SAE1008 was noted in the comments. The Ross Order number is 252009. The DMW product is R500L6.3-Coils, with Ross Code CW500L6.3. A quantity of 24000.0 units were ordered. Achievements were recorded as 8050.0, with an additional 13098.0 units achieved on July 10, 2025.
+
+Achievements were recorded as 7005.0 on July 10, 2025.
+
+6.5/7.0mm C12D was noted in the comments. The Ross Order status is WIP. The DMW product is R500L5.6-Coils, with Ross Code CW500L5.6. A quantity of 6165.0 units were achieved, with an additional 13810.0 units achieved on July 10, 2025.
+
+6.5/7.0mm C12D was noted in the comments. The Ross Order status is WIP. The DMW product is R500L5.6-Coils, with Ross Code CW500L5.6. A quantity of 60000.0 units were ordered. Achievements were recorded as 5010.0 on July 11, 2025.
+
+6.0mm SAE1022 ICDAS Turkey was noted in the comments. The Ross Order status is WIP. The DMW product is R500L4.0-Coils, with Ross Code CW500L4. A quantity of 2000.0 units were ordered. Achievements were recorded as 1980.0 on July 11, 2025.
+
+6.5/7.0mm C12D was noted in the comments. The Ross Order status is WIP. The DMW product is R500L5.6-Coils, with Ross Code CW500L5.6. Achievements were recorded as 12390.0, with an additional 13895.0 units achieved on July 12, 2025.
+
+Achievements were recorded as 7385.0 on July 13, 2025.
+
+Rework on hold dia5.6Galv was noted in the comments. The Ross Order status is WIP. The DMW product is COILGW5.0, with Ross Code COILGW5. A quantity of 20000.0 units were ordered. Achievements were recorded as 1580.0 on July 14, 2025.
+
+6.5mm C12D rework on hold coils was noted in the comments. The DMW product is R500L5.0-Coils, with Ross Code CW500L5. Achievements were recorded as 20241.0 on July 14, 2025.
+
+Achievements were recorded as 3210.0 on July 15, 2025.
+
+6.5mm C12D was noted in the comments. The Ross Order number is 252088. The DMW product is R500L5.0-Coils, with Ross Code CW500L5. A quantity of 24000.0 units were ordered. Achievements were recorded as 12017.0, with an additional 9075.0 units achieved on July 15, 2025.
+
+Achievements were recorded as 3050.0 on July 16, 2025.
+
+6.5/7.0mm C12D was noted in the comments. The Ross Order status is WIP. The DMW product is R500L5.6-Coils, with Ross Code CW500L5.6. A quantity of 60000.0 units were ordered. Achievements were recorded as 4200.0, with an additional 24215.0 units achieved on July 16, 2025.
+
+Rework on hold coils is pending for the R500L5.0-Coils product, with the Ross code CW500L5. The task was scheduled for July 17, 2025, and no same-day delivery was required. The achieved quantity was 3248.0.
+
+The R500L5.6-Coils product is in work-in-progress status with the Ross code CW500L5.6. A comment mentions 6.5/7.0mm C12D specifications. The task was scheduled for July 17, 2025, and same-day delivery was requested. The achieved quantity was 26470.0.
+
+A large order of 24000.0 units of R500L5.0-Coils with the Ross code CW500L5 was placed on July 18, 2025. The task was marked for next-day delivery but no same-day delivery was required. The achieved quantity was 9060.0, and the first achieved quantity was 15110.0.
+
+Another order of 24000.0 units of R500L5.0-Coils with the Ross code CW500L5 was placed on July 18, 2025. Same-day delivery was requested. The achieved quantity was 1010.0.
+
+On July 19, 2025, the achieved quantity was 18105.0, and the first achieved quantity was 9060.0. No same-day delivery was required.
+
+The same order of 24000.0 units of R500L5.0-Coils with the Ross code CW500L5 was placed on July 19, 2025. Same-day delivery was requested. The achieved quantity was 4030.0.
+
+On July 20, 2025, the achieved quantity was 11070.0, and the first achieved quantity was 10080.0. No same-day delivery was required.
+
+A large order of 45000.0 units of R500L5.0-Coils with the Ross code CW500L5 was placed on July 20, 2025. Same-day delivery was requested. The achieved quantity was 7882.0.
+
+On July 21, 2025, the achieved quantity was 7955.0, and the first achieved quantity was 18657.0. No same-day delivery was required.
+
+On July 22, 2025, the achieved quantity was 12625.0. No same-day delivery was required.
+
+The same large order of 45000.0 units of R500L5.0-Coils with the Ross code CW500L5 was placed on July 22, 2025. Same-day delivery was requested. The achieved quantity was 4745.0, and the first achieved quantity was 25388.0.
+
+On July 23, 2025, the achieved quantity was 17310.0. No same-day delivery was required.
+
+The same large order of 45000.0 units of R500L5.0-Coils with the Ross code CW500L5 was placed on July 23, 2025. Same-day delivery was requested. The first achieved quantity was 23770.0.
+
+On July 24, 2025, the achieved quantity was 25625.0. No same-day delivery was required.
+
+A large order of 24000.0 units of R500L4.0-Coils with the Ross code CW500L4 was placed on July 24, 2025. Same-day delivery was requested. The first achieved quantity was 7045.0.
+
+On July 25, 2025, the achieved quantity was 6045.0, and the first achieved quantity was 12035.0. No same-day delivery was required.
+
+The same large order of 45000.0 units of R500L5.0-Coils with the Ross code CW500L5 was placed on July 26, 2025. No same-day delivery was required. The achieved quantity was 14305.0, and the first achieved quantity was 23540.0.
+
+On July 27, 2025, the achieved quantity was 8810.0, and the first achieved quantity was 12760.0. The order of 45000.0 units of R500L5.6-Coils with the Ross code CW500L5.6 was placed. No same-day delivery was required.
+
+On July 27, 2025, the achieved quantity was 2005.0 for the order of 24000.0 units of R500L4.0-Coils with the Ross code CW500L4. No same-day delivery was required.
+
+On July 28, 2025, the achieved quantity was 3020.0, and the first achieved quantity was 5025.0. No same-day delivery was required.
+
+On July 28, 2025, 2600 units of 5.5mm C12D coils were achieved, with a total order quantity of 4500 units. The order is marked as WIP, and the product is R500L4.0-Coils with the code CW500L4. The next day, 2035 units were achieved, but the order was not completed the same day.
+
+On July 29, 2025, 9500 units of 6.5/7.0mm C12D coils were achieved, with a total order quantity of 45000 units. The order is marked as WIP, and the product is R500L5.0-Coils with the code CW500L5. The next day, 12685 units were achieved, but the order was not completed the same day.
+
+On July 30, 2025, 4655 units of 6.5/7.0mm C12D coils were achieved, with a total order quantity of 45000 units. The order is marked as WIP, and the product is R500L5.0-Coils with the code CW500L5. The next day, 16851 units were achieved, but the order was not completed the same day.
+
+On July 31, 2025, 10865 units of 6.5/7.0mm C12D coils were achieved, with a total order quantity of 45000 units. The order is marked as WIP, and the product is R500L5.0-Coils with the code CW500L5. The next day, 1756 units were achieved, but the order was not completed the same day.
+
+On August 2, 2025, 9474 units of 6.5/7.0mm C12D coils were achieved, with a total order quantity of 45000 units. The order is marked as WIP, and the product is R500L5.0-Coils with the code CW500L5. The next day, 17445 units were achieved, but the order was not completed the same day.
+
+On August 3, 2025, 6965 units of 5.5mm C12D coils were achieved, with a total order quantity of 45000 units. The order is marked as WIP, and the product is R500L4.0-Coils with the code CW500L4. The next day, 8055 units were achieved, but the order was not completed the same day.
+
+On August 4, 2025, 3170 units of 6.0mm SAE1022 ICDAS Turkey coils were achieved, with a total order quantity of 40000 units. The order is marked as WIP, and the product is R500L4.0-Coils with the code CW500L4. The next day, 3270 units were achieved, but the order was not completed the same day.
+
+On August 5, 2025, 5444 units of 6.0mm SAE1022 ICDAS Turkey coils were achieved, with a total order quantity of 40000 units. The order is marked as WIP, and the product is R500L4.0-Coils with the code CW500L4. The next day, 4250 units were achieved, but the order was not completed the same day.
+
+On August 6, 2025, 1515 units of 6.0mm SAE1022 ICDAS Turkey coils were achieved, with a total order quantity of 40000 units. The order is marked as WIP, and the product is R500L4.0-Coils with the code CW500L4. The next day, 8020 units were achieved, but the order was not completed the same day.
+
+On August 7, 2025, 7761 units of 6.0mm SAE1022 ICDAS Turkey coils were achieved, with a total order quantity of 40000 units. The order is marked as WIP, and the product is R500L4.0-Coils with the code CW500L4. The next day, 3090 units were achieved, but the order was not completed the same day.
+
+On August 8, 2025, 13685 units of 6.0mm SAE1022 ICDAS Turkey coils were achieved, with a total order quantity of 50000 units. The order is marked as WIP, and the product is Unknown with the code CW500L4.75. The next day, 12490 units were achieved, but the order was not completed the same day.
+
+On August 10, 2025, no production was achieved for the week 33.
+
+On August 11, 2025, production achieved was 3670 units for the week 33. A comment noted the product size as 6.5/7.0mm C12D. The order status is Work in Progress (WIP), and the product is R500L5.0-Coils with Ross code CW500L5. The quantity ordered was 38000 units, and production achieved was 6240 units for the same day.
+
+On August 12, 2025, production achieved was 23658 units for the week 33. An additional achievement of 7965 units was recorded for the previous day.
+
+On August 12, 2025, another production run achieved 9075 units for the week 33. The product size was 7.0mm C12D, with Ross order number 252548, and the product is R500L5.6-Coils with Ross code CW500L5.6. The quantity ordered was 24000 units.
+
+On August 13, 2025, production achieved was 15101 units for the week 33.
+
+On August 13, 2025, production achieved was 2025 units for the week 33. An additional achievement of 21045 units was recorded for the previous day. The product size was 8.0mm SAE1008, with Ross order number 581529, and the product is Unknown with Ross code 1RM0600-1st draw to dia5.60. The quantity ordered was 22000 units.
+
+On August 14, 2025, production achieved was 14645 units for the week 33. An additional achievement of 8380 units was recorded for the previous day. The product size was 7.0mm C12D, with Ross order number WIP, and the product is R500L5.6-Coils with Ross code CW500L5.6. The quantity ordered was 60000 units, and an additional achievement of 12450 units was recorded for the previous day.
+
+On August 15, 2025, production achieved was 2110 units for the week 33. A comment noted the product size as 6.0mm SAE1022 ICDAS Turkey. The order status is Work in Progress (WIP), and the product is Unknown with Ross code CW500L4.75. The quantity ordered was 64000 units, and an additional achievement of 8085 units was recorded for the previous day.
+
+On August 15, 2025, production achieved was 6155 units for the week 33. A comment noted the product size as 6.0mm SAE1022 ICDAS Turkey. The order status is Work in Progress (WIP), and the product is Unknown with Ross code CW500L4.75. The quantity ordered was 64000 units.
+
+On August 16, 2025, no production was achieved for the week 33.
+
+On August 17, 2025, no production was achieved for the week 34. An additional achievement of 14095 units was recorded for the previous day.
+
+On August 18, 2025, production achieved was 8090 units for the week 34. An additional achievement of 14093 units was recorded for the previous day.
+
+On August 19, 2025, production achieved was 11860 units for the week 34. An additional achievement of 4010 units was recorded for the previous day.
+
+On August 20, 2025, no production was achieved for the week 34. An additional achievement of 8115 units was recorded for the previous day.
+
+On August 21, 2025, production achieved was 4085 units for the week 34. An additional achievement of 10310 units was recorded for the previous day. A comment noted the product size as 6.0mm SAE1022 ICDAS Turkey. The order status is Work in Progress (WIP), and the product is Unknown with Ross code CW500L4.75. The quantity ordered was 50000 units.
+
+On August 22, 2025, production achieved was 8595 units for the week 34. An additional achievement of 6140 units was recorded for the previous day.
+
+On August 23, 2025, no same-day production was achieved, with an overall achievement of 8,985 units.
+
+On August 24, 2025, the comment refers to dia7.05 from Dwg2. The Ross order is 252454, and the DMW product is unknown. The Ross code is CW500L6.30, with a quantity of 24,000 units. No same-day production was achieved.
+
+On August 25, 2025, the comment mentions 7.0mm C12D. The Ross order is WIP, and the DMW product is R500L5.6-Coils. The Ross code is CW500L5.6, with a quantity of 60,000 units. Same-day production was achieved, with an achievement of 4,170 units.
+
+On August 25, 2025, another entry notes the comment dia7.05 from Dwg2. The Ross order is WIP, and the DMW product is unknown. The Ross code is CW500L6.30, with a quantity of 6,000 units. Same-day production was achieved, with an achievement of 18,105 units.
+
+On August 25, 2025, the comment states 7.0mm C12D. The Ross order is 252548, and the DMW product is R500L5.6-Coils. The Ross code is CW500L5.6, with an achievement of 2,015 units. Same-day production was achieved.
+
+On August 26, 2025, no same-day production was achieved, with an overall achievement of 14,108 units.
+
+On August 26, 2025, the comment refers to 7.0mm C12D. The Ross order is WIP, and the DMW product is R500L5.6-Coils. The Ross code is CW500L5.6, with a quantity of 60,000 units. Same-day production was achieved, with an achievement of 3,010 units.
+
+On August 27, 2025, no same-day production was achieved, with an overall achievement of 2,650 units.
+
+On August 28, 2025, no same-day production was achieved.
+
+On August 29, 2025, no same-day production was achieved.
+
+On August 30, 2025, no same-day production was achieved.
+
+On August 31, 2025, no same-day production was achieved, with an overall achievement of 14,108 units.
+
+On September 1, 2025, no same-day production was achieved.
+
+On September 2, 2025, no same-day production was achieved.
+
+On September 3, 2025, no same-day production was achieved.
+
+On September 4, 2025, no same-day production was achieved.
+
+On September 5, 2025, no same-day production was achieved.
+
+On September 6, 2025, no same-day production was achieved.
+
+On September 7, 2025, no same-day production was achieved.
+
+On September 8, 2025, no same-day production was achieved.
+
+On September 9, 2025, no same-day production occurred. The week was numbered 37.
+
+On September 10, 2025, no same-day production took place. Week 37 continued.
+
+On September 11, 2025, no same-day production happened. Week 37 persisted.
+
+On September 12, 2025, no same-day production was recorded. Week 37 continued.
+
+On September 13, 2025, no same-day production occurred. Week 37 remained unchanged.
+
+On September 14, 2025, no same-day production was noted. The week transitioned to 38.
+
+On September 15, 2025, no same-day production took place. Week 38 started.
+
+On September 16, 2025, no same-day production was recorded. Week 38 continued.
+
+On September 17, 2025, the order used dia5.60Galv. The ross_order status was WIP. The dmw_product was Dia5.0Galv. The ross_code was CW500L5.0. A quantity of 40,000 units was ordered. No same-day production was recorded. Week 38 was ongoing. The achieved quantity was 2,031 units.
+
+On September 18, 2025, no same-day production was noted. Week 38 continued. The achieved quantity was 4,129 units.
+
+On September 19, 2025, no same-day production was recorded. The achieved quantity was 1,005 units. The achieved quantity for the previous day was 5,109 units. Week 38 was still active.
+
+On September 20, 2025, no same-day production was recorded. The achieved quantity was 3,041 units. Week 38 continued.
+
+On September 20, 2025, the order used 5.5mm C12D. The ross_order status was WIP. The dmw_product was R500L4.5-Coils. The ross_code was CW500L4.5. A quantity of 60,000 units was ordered. Same-day production was scheduled. Week 38 was ongoing. The achieved quantity was 2,772 units.
+
+On September 21, 2025, no same-day production was recorded. The achieved quantity was 4,871 units. The achieved quantity for the previous day was 9,270 units. Week 39 began.
+
+On September 22, 2025, no same-day production was recorded. The achieved quantity was 7,209 units. The achieved quantity for the previous day was 4,309 units. Week 39 was ongoing.
+
+On September 23, 2025, no same-day production was recorded. The achieved quantity was 12,699 units. The achieved quantity for the previous day was 9,206 units. Week 39 continued.
+
+On September 24, 2025, no same-day production was recorded. The achieved quantity was 2,035 units. Week 39 was still active.
+
+On September 24, 2025, the order used 6.5mm C12D. The ross_order status was WIP. The dmw_product was R500L5.0-Coils. The ross_code was CW500L5. A quantity of 30,000 units was ordered. Same-day production was scheduled. Week 39 began. The achieved quantity was 13,826 units. The achieved quantity for the previous day was 17,132 units.
+
+On September 24, 2025, the order used 6.5mm C12D. The ross_order status was WIP. The dmw_product was R500L5.0-Coils. The ross_code was CW500L5. A quantity of 30,000 units was ordered. Same-day production was scheduled. Week 39 began. The achieved quantity for the previous day was 1,575 units.
+
+On September 25, 2025, no same-day production was recorded. The achieved quantity was 1,000 units. Week 39 concluded.
+
+On September 25, 2025, a production run of 24,000 units of R500L5.0-Coils was initiated, with the Ross order number 252812. The production was marked as completed the same day, achieving 12,072 units. The next day, another run of 4,000 units of R500L6.3-Coils was started, but it was not completed the same day, achieving only 515 units. On September 26, 2025, a run of 51,000 units of R500L4.5-Coils was started, also marked as incomplete, achieving 1,780 units. On September 27, 2025, no production runs were recorded, but an achievement of 7,810 units was noted. On September 28, 2025, no production runs were recorded, marking the start of week 40. On September 29, 2025, two production runs were initiated: 24,000 units of R500L5.0-Coils and 12,000 units of R500L4.0-Coils, both marked as completed the same day, achieving 11,032 and 4,175 units respectively. On September 30, 2025, three production runs were initiated: 24,000 units of R500L5.0-Coils, 15,000 units of R500L4.0-Coils, and 24,000 units of R500L5.0-Coils again, all marked as completed the same day, achieving 10,026, 7,355, and 4,175 units respectively. On October 1, 2025, two production runs were initiated: 24,000 units of R500L5.0-Coils and 12,000 units of R500L4.0-Coils, both marked as completed the same day, achieving 10,026 and 7,355 units respectively. On October 2, 2025, two production runs were initiated: 24,000 units of R500L5.0-Coils and 15,000 units of R500L4.0-Coils, both marked as completed the same day, achieving 12,053 and 7,355 units respectively. On October 3, 2025, no production runs were recorded, but an achievement of 1,160 units was noted. On October 4, 2025, a production run of 24,000 units of R500L5.6-Coils was initiated, but it was not completed the same day, achieving 12,053 units. On October 5, 2025, no production runs were recorded, but an achievement of 5,004 units was noted.
+
+On October 5, 2025, 30,000 units of an unknown product were ordered for the first draw to diameter 5.0GX. The comment noted that the material was 6.5mm SAE1022 Viet Thep. The order was marked as same day shipping, and the achievement was 8,358 units.
+
+On October 6, 2025, the second draw to diameter 4.0GX order was placed for an unknown product. Same day shipping was not requested, and the achievement was 8,341 units.
+
+On October 7, 2025, the first draw to diameter 5.0GX order was placed again, with the same day shipping confirmed. The achievement was 8,517 units.
+
+On October 8, 2025, an order for 12,000 units of R500L8.0 Engtex was placed under reference 253044. The dmw_product was R500L7.1-Coils, and the ross_code was CW500L7.1. The achievement was 4,026 units.
+
+On October 9, 2025, 21,000 units of 5.5mm C12D/Rusty R500L5.0blk were ordered. The ross_code was CW500L4, and same day shipping was confirmed. The achievement was 9,076 units.
+
+On October 10, 2025, an order for 6,336 units was placed, with the same day shipping not requested. The achievement was 6,354 units.
+
+On October 10, 2025, another order for 1,580 units of 6.5mm C12D was placed. The ross_code was CW500L5, and same day shipping was confirmed.
+
+On October 11, 2025, 9,000 units of Rusty R500L5.0blk were ordered. The ross_code was CW500L4.5, and same day shipping was confirmed. The achievement was 9,582 units.
+
+On October 13, 2025, an order for 8,356 units of 6.5mm C12D was placed. The ross_code was CW500L4.0 GX, and same day shipping was not requested. The achievement was 14,965 units.
+
+On October 14, 2025, an order for 24,000 units of 6.5mm C12D was placed. The ross_code was CW500L5, and same day shipping was confirmed. The achievement was 1,009 units.
+
+On October 15, 2025, another order for 24,000 units of 6.5mm C12D was placed. The ross_code was CW500L5, and same day shipping was confirmed. The achievement was 1,006 units.
+
+On October 16, 2025, an order for 9,076 units of 6.5mm C12D was placed. The ross_code was CW500L5, and same day shipping was not requested.
+
+On October 16, 2025, an order for 9,076 units of Rework on hold R500L4.0/4.5blk was placed. The dmw_product was R500L3.15-Coils, and the ross_code was CW500L3.15. The achievement was 3,021 units.
+
+On October 17, 2025, an order for 1,531 units of Rework on hold R500L4.0blk was placed. The dmw_product was R500L3.15-Coils, and the ross_code was CW500L3.15. The achievement was 3,181 units.
+
+On October 18, 2025, 24,000 units of R500L5.0-Coils were processed with the Ross order number 253610. The Ross code is CW500L5, and the comment notes 6.5mm C12D. The processing was completed on the same day, achieving 9,050 units.
+
+On October 19, 2025, no additional units were processed, and the same day status remains unchanged.
+
+On October 20, 2025, 24,000 units of R500L5.0-Coils were processed again with the Ross order number 253610. The Ross code is CW500L5, and the comment notes 6.5mm C12D. The processing was completed on the same day, achieving 10,037 units.
+
+On October 21, 2025, no additional units were processed, and the same day status remains unchanged.
+
+On October 22, 2025, 12,000 units of R500L4.5-Coils were reworked due to rust. The Ross order number is 253610, and the Ross code is CW500L4.5. The processing was completed on the same day, achieving 8,036 units.
+
+On October 22, 2025, 34,500 units of R500L5.0-Coils were processed with the Ross order status as WIP. The Ross code is CW500L5, and the comment notes rework of rusty coils. The processing was completed on the same day, achieving 6,512 units.
+
+On October 23, 2025, no additional units were processed, and the same day status remains unchanged.
+
+On October 23, 2025, no additional units were processed, and the same day status remains unchanged.
+
+On October 24, 2025, no additional units were processed, and the same day status remains unchanged.
+
+On October 25, 2025, no additional units were processed, and the same day status remains unchanged.
+
+On October 26, 2025, no additional units were processed, and the same day status remains unchanged.
+
+On October 27, 2025, 1,000 units of R500L5.0-Coils GX were processed. The Ross order number is WIP, and the Ross code is CW500L5.0 GX. The comment notes 7.0mm SAE1022 Viet Thep. The processing was completed on the same day, achieving 1,115 units.
+
+On October 27, 2025, 24,000 units of R500L5.6-Coils were processed with the Ross order number 256318. The Ross code is CW500L5.6, and the comment notes 7.0mm C12D. The processing was completed on the same day, achieving 11,075 units.
+
+On October 28, 2025, no additional units were processed, and the same day status remains unchanged.
+
+On October 28, 2025, no additional units were processed, and the same day status remains unchanged.
+
+On October 29, 2025, 15,000 units of R500L3.15-Coils were processed. The Ross order number is WIP, and the Ross code is CW500L3.15. The comment notes R500L3.15Blk Rusty. The processing was completed on the same day, achieving 3,383 units.
+
+On October 29, 2025, no additional units were processed, and the same day status remains unchanged.
+
+On October 30, 2025, no additional units were processed, and the same day status remains unchanged.
+
+On October 31, 2025, no additional units were processed, and the same day status remains unchanged.
+
+On November 1, 2025, no additional units were processed, and the same day status remains unchanged.
+
+On November 2, 2025, work did not continue on the same day. The project involved processing 5.5mm C12D material, with the Ross order status marked as Work In Progress (WIP). The DMW product was R500L4.0-Coils, and the Ross code was CW500L4. A total of 60,000 units were ordered, but only 10,670 units were completed by the end of the day.
+
+On November 3, 2025, no work continued on the same day. The project involved processing 5.5mm C12D material, with the Ross order status still marked as Work In Progress (WIP). The DMW product was R500L4.0-Coils, and the Ross code was CW500L4. A total of 60,000 units were ordered, but only 2,699 units were completed by the end of the day.
+
+On November 4, 2025, no work continued on the same day. The project involved processing 5.5mm C12D material, with the Ross order status still marked as Work In Progress (WIP). The DMW product was R500L4.0-Coils, and the Ross code was CW500L4. A total of 5,000 units were ordered, but only 820 units were completed by the end of the day. An additional 4,301 units were completed later in the day.
+
+On November 4, 2025, work did continue on the same day. The project involved reworking rusty dia4.12blk material. The Ross order status was still marked as Work In Progress (WIP). The DMW product was R500L4.0-Coils, and the Ross code was CW500L4. A total of 5,000 units were ordered, and 356 units were completed by the end of the day.
+
+On November 5, 2025, no work continued on the same day. The project involved processing 7.0mm C12D material. The Ross order status was marked as 253599. The DMW product was R500L5.6-Coils, and the Ross code was CW500L5.6. A total of 24,000 units were ordered, and 12,093 units were completed by the end of the day. An additional 12,105 units were completed later in the day.
+
+On November 6, 2025, no work continued on the same day. The project involved reworking CW500L5.0 GX material. The Ross order status was marked as 253599. The DMW product was R500L5.0-Coils GX, and the Ross code was CW500L5.0 GX. A total of 2,000 units were ordered, and 2,036 units were completed by the end of the day.
+
+On November 6, 2025, work did continue on the same day. The project involved reworking dia5.60Galv material. The Ross order status was marked as Not Available (na). The DMW product was COILGW5.0, and the Ross code was COILGW5.0. A total of 5,000 units were ordered, and 3,025 units were completed by the end of the day. An additional 1,673 units were completed later in the day.
+
+On November 6, 2025, work did continue on the same day. The project involved processing 6.5mm SAE1022 Viet Thep material. The Ross order status was marked as Second Draw to Dia4.0GX. The DMW product was Unknown, and the Ross code was CW500L4.0 GX. A total of 5,000 units were ordered, and 3,070 units were completed by the end of the day.
+
+On November 7, 2025, no work continued on the same day. The project involved processing 5.5mm C12D material. The Ross order status was marked as Work In Progress (WIP). The DMW product was R500L4.0-Coils, and the Ross code was CW500L4. A total of 4,256 units were completed by the end of the day.
+
+On November 7, 2025, no work continued on the same day. The project involved processing 6.5mm SAE1022 Viet Thep material. The Ross order status was marked as Second Draw to Dia4.0GX. The DMW product was Unknown, and the Ross code was CW500L4.0 GX. A total of 4,077 units were completed by the end of the day.
+
+On November 8, 2025, work did continue on the same day. The project involved reworking rusty dia3.15blk material. The Ross order status was marked as Not Available (na). The DMW product was R500L3.15-Coils, and the Ross code was CW500L3.15. A total of 2,213 units were completed by the end of the day.
+
+On November 9, 2025, no work continued on the same day. The project involved processing 8.0mm C12D material. The Ross order status was marked as 256318. The DMW product was R500L6.3-Coils, and the Ross code was CW500L6.3. A total of 24,000 units were ordered, and 12,053 units were completed by the end of the day. An additional 2,009 units were completed later in the day.
+
+On November 10, 2025, no work continued on the same day. The project involved processing 8.0mm C12D material. The Ross order status was marked as 253871. The DMW product was R500L6.3-Coils, and the Ross code was CW500L6.3. A total of 24,000 units were ordered, and 12,053 units were completed by the end of the day. An additional 2,009 units were completed later in the day.
+
+On November 11, 2025, work did continue on the same day. The project involved processing 8.0mm C12D material. The Ross order status was marked as 253871. The DMW product was R500L6.3-Coils, and the Ross code was CW500L6.3. A total of 5,000 units were ordered, and 5,053 units were completed by the end of the day. An additional 5053 units were completed later in the day.
+
+On November 12, 2025, no work continued on the same day. The project involved processing 8.0mm C12D material. The Ross order status was marked as 253871. The DMW product was R500L6.3-Coils, and the Ross code was CW500L6.3. A total of 10,074 units were completed by the end of the day. An additional 3,020 units were completed later in the day.
+
+On November 12, 2025, work did continue on the same day. The project involved processing 8.0mm C12D material. The Ross order status was marked as 253871. The DMW product was R500L6.3-Coils, and the Ross code was CW500L6.3. A total of 5,000 units were ordered, and 5,053 units were completed by the end of the day. An additional 5053 units were completed later in the day.
+
+On November 12, 2025, a total of 24,000 units of R500L5.0-Coils were ordered, with the order number 253869. The Ross code for this product is CW500L5. The order was marked as Same Next Day. The quantity achieved was 4,995 units.
+
+On November 13, 2025, the Same Next Day status changed to No. The total quantity achieved was 10,026 units, with an additional 10,016 units achieved the previous day.
+
+On November 13, 2025, another batch of 24,000 units of R500L5.0-Coils, order number 253869, was ordered. The Ross code for this product is CW500L5. The order was marked as Same Next Day. The quantity achieved was 1,995 units.
+
+On November 14, 2025, the Same Next Day status changed to No. The total quantity achieved was 11,061 units, with an additional 9,009 units achieved the previous day.
+
+On November 15, 2025, the Same Next Day status changed to No. A total of 6,000 units of R500L4.0-Coils, with the Ross code CW500L4, were ordered. The quantity achieved was 2,217 units.
+
+On November 16, 2025, the Same Next Day status changed to No. No specific quantity was achieved.
+
+On November 17, 2025, the Same Next Day status changed to No. A total of 14,000 units of R500L4.0-Coils, with the Ross code CW500L4, were ordered. The quantity achieved was 3,000 units, with an additional 2,342 units achieved the previous day.
+
+On November 17, 2025, another batch of 14,000 units of R500L4.0-Coils, with the Ross code CW500L4, were ordered. The quantity achieved was 1,995 units.
+
+On November 18, 2025, the Same Next Day status changed to No. A total of 2,999 units of R500L4.0-Coils, with the Ross code CW500L4, were ordered. The quantity achieved was 4,050 units.
+
+On November 19, 2025, the Same Next Day status changed to No. A total of 1,170 units of R500L4.0-Coils, with the Ross code CW500L4, were ordered. The quantity achieved was 1,073 units.
+
+On November 20, 2025, the Same Next Day status changed to No. A total of 987 units of R500L4.0-Coils, with the Ross code CW500L4, were ordered. The quantity achieved was 975 units.
+
+On November 21, 2025, the Same Next Day status changed to No. A total of 12,000 units of R500L4.5-Coils, with the Ross code CW500L4.5, were ordered. The quantity achieved was 3,065 units, with an additional 5,430 units achieved the previous day.
+
+On November 22, 2025, the Same Next Day status changed to No. A total of 3,516 units of R500L4.5-Coils, with the Ross code CW500L4.5, were ordered.
+
+On November 22, 2025, a total of 24,000 units of R500L5.6-Coils, with the Ross code CW500L5.6, were ordered, order number 253870. The quantity achieved was 3,023 units, with an additional 10,020 units achieved the previous day.
+
+On November 23, 2025, the Same Next Day status changed to No. A total of 10,013 units of R500L5.6-Coils, with the Ross code CW500L5.6, were ordered.
+
+On November 24, 2025, the Same Next Day status changed to No. A total of 1,010 units of R500L5.6-Coils, with the Ross code CW500L5.6, were ordered.
+
+On November 24, 2025, another batch of 24,000 units of R500L5.6-Coils, with the Ross code CW500L5.6, were ordered. The quantity achieved was 12,038 units, with an additional 12,064 units achieved the previous day.
+
+On November 25, 2025, the Same Next Day status changed to No. A total of 24,000 units of R500L5.6-Coils, with the Ross code CW500L5.6, were ordered. The quantity achieved was 8,032 units, with an additional 11,036 units achieved the previous day.
+
+On November 26, 2025, the Same Next Day status changed to No. A total of 7,007 units of R500L5.6-Coils, with the Ross code CW500L5.6, were ordered.
+
+On November 26, 2025, a total of 24,000 units of R500L5.6-Coils were ordered, with the Ross code CW500L5.6. The order was marked as "same next day" and achieved 3,005 units. The week was 48.
+
+On November 27, 2025, no orders were placed, but the week remained 48. Achievements were recorded as 6,012 units.
+
+WR1008BW8.0 was the comment for the order placed on November 27, 2025. A total of 24,000 units of R500L6.0Blk were ordered, with the Ross code CW500L6.0. The order was marked as "same next day" and achieved 8,030 units. The week was 48.
+
+On November 28, 2025, no orders were placed, but the week remained 48. Achievements were recorded as 10,009 units.
+
+On November 29, 2025, no orders were placed, and the week was still 48.
+
+On November 30, 2025, no orders were placed, and the week was 49.
+
+WR1008BW8.0 was the comment for the order placed on December 1, 2025. A total of 3,000 units of R500L6.3-Coils were ordered, with the Ross code CW500L6.3. The order was marked as "not same next day" and achieved 2,781 units. The week was 49.
+
+Rework R500L5.0blk was the comment for the order placed on December 1, 2025. A total of 20,000 units of R500L5.0-Coils were ordered, with the Ross code CW500L5. The order was marked as "same next day" and achieved 2,002 units. The week was 49.
+
+On December 2, 2025, no orders were placed, but the week remained 49. Achievements were recorded as 8,160 units.
+
+7.0mm C12D was the comment for the order placed on December 2, 2025. A total of 24,000 units of R500L5.6-Coils were ordered, with the Ross code CW500L5.6. The order was marked as "same next day" and achieved 7,056 units. The week was 49.
+
+On December 3, 2025, no orders were placed, but the week remained 49. Achievements were recorded as 9,030 units.
+
+7.0mm C12D was the comment for the order placed on December 3, 2025. A total of 24,000 units of R500L5.6-Coils were ordered, with the Ross code CW500L5.6. The order was marked as "same next day" and achieved 4,032 units. The week was 49.
+
+On December 4, 2025, no orders were placed, but the week was 49. Achievements were recorded as 12,033 units.
+
+6.5mm C12D was the comment for the order placed on December 5, 2025. A total of 20,000 units of R500L5.0-Coils were ordered, with the Ross code CW500L5. The order was marked as "not same next day" and achieved 9,897 units. The week was 49.
+
+On December 6, 2025, no orders were placed, and the week was 49.
+
+On December 7, 2025, no orders were placed, and the week was 50.
+
+6.5mm C12D was the comment for the order placed on December 8, 2025. A total of 10,000 units of R500L5.0-Coils were ordered, with the Ross code CW500L5. The order was marked as "not same next day" and achieved 4,453 units. The week was 50.
+
+On December 9, 2025, no orders were placed, but the week remained 50. Achievements were recorded as 5,484 units.
+
+On December 10, 2025, no orders were placed, but the week was 50. Achievements were recorded as 13,236 units.
+
+6.5mm C12D was the comment for the order placed on December 10, 2025. A total of 30,000 units of R500L5.0-Coils were ordered, with the Ross code CW500L5. The order was marked as "same next day" and achieved 10,055 units. The week was 50.
+
+On December 11, 2025, no production was recorded for the CW500L6-Coils product, which is part of the CW500L6 series. The week number was 50.
+
+On December 12, 2025, no production was recorded for the CW500L6-Coils product, which is part of the CW500L6 series. The week number was 50, and the achieved quantity was 13,634 units.
+
+On December 13, 2025, no production was recorded for the CW500L6-Coils product, which is part of the CW500L6 series. The week number was 50.
+
+On December 14, 2025, no production was recorded for the CW500L6-Coils product, which is part of the CW500L6 series. The week number was 51.
+
+On December 15, 2025, no production was recorded for the CW500L6-Coils product, which is part of the CW500L6 series. The week number was 51, and the achieved quantity was 1,501 units.
+
+On December 15, 2025, the comment noted that 7.0mm C12D coils were produced, with the dmw_product being CW500L6-Coils, ross_code being CW500L6, and a quantity of 24,000 units. The same_next_day status was set to 'S', and the achieved quantity was 7,040 units.
+
+On December 16, 2025, no production was recorded for the CW500L6-Coils product, which is part of the CW500L6 series. The week number was 51, and the achieved quantity was 12,085 units.
+
+On December 17, 2025, no production was recorded for the CW500L6-Coils product, which is part of the CW500L6 series. The week number was 51, and the achieved quantity was 5,044 units.
+
+On December 18, 2025, no production was recorded for the CW500L6-Coils product, which is part of the CW500L6 series. The week number was 51.
+
+On December 19, 2025, no production was recorded for the CW500L6-Coils product, which is part of the CW500L6 series. The week number was 51.
+
+On December 20, 2025, the comment noted that 7.0mm C12D coils were produced, with the dmw_product being CW500L6-Coils, ross_code being CW500L6, and a quantity of 24,000 units. The same_next_day status was set to 'N', and the achieved quantity was 13,106 units.
+
+On December 21, 2025, no production was recorded for the CW500L6-Coils product, which is part of the CW500L6 series. The week number was 52, and the achieved quantity was 11,118 units.
+
+On December 22, 2025, the comment noted that Rework COILGW5.6 Blk Dots was produced, with the dmw_product being COILGW5.0, ross_code being COILGW5, and a quantity of 2,481 units. The same_next_day status was set to 'N', and the achieved quantity was 2,103 units.
+
+On December 22, 2025, the comment noted that 8.0mm C12D coils were produced, with the dmw_product being R500L8.0-Coils, ross_code being CW500L8, and a quantity of 5,000 units. The same_next_day status was set to 'S', and the achieved quantity was 5,248 units.
+
+On December 23, 2025, no production was recorded for the CW500L6-Coils product, which is part of the CW500L6 series. The week number was 52.
+
+On December 24, 2025, the comment noted that Rework COILGW5 Blk Dots etc was produced, with the dmw_product being R500L3.15-Coils, ross_code being CW500L3.15, and a quantity of 5,000 units. The same_next_day status was set to 'N', and the achieved quantity was 2,997 units.
+
+On December 25, 2025, no production was recorded for the CW500L6-Coils product, which is part of the CW500L6 series. The week number was 52.
+
+On December 26, 2025, no production was recorded for the CW500L6-Coils product, which is part of the CW500L6 series. The week number was 52, and the achieved quantity was 2,387 units.
+
+On December 26, 2025, the comment noted that 5.5mm C12D coils were produced, with the dmw_product being R500L4.5-Coils, ross_code being CW500L4.5, and a quantity of 30,000 units. The same_next_day status was set to 'S', and the achieved quantity was 1,534 units.
+
+On December 27, 2025, no production was recorded for the CW500L6-Coils product, which is part of the CW500L6 series. The week number was 52, and the achieved quantity was 16,938 units.
+
+Rework R500L4.0blk involves the production of R500L3.15-Coils with a Ross code of CW500L3.15. The quantity produced is 947.0 units on December 29, 2025, which falls within week 53.
+
+Rework COILGWX4 involves the production of R500L3.15-Coils with a Ross code of CW500L3.15. The quantity produced is 182.0 units on December 29, 2025, which falls within week 53. This production was completed on the same day as the previous rework.
+
+Rework R500L5.0blk involves the production of R500L4.0-Coils with a Ross code of CW500L4. The quantity produced is 104.0 units on December 29, 2025, which falls within week 53. This production was completed on the same day as the previous rework.
+
+No rework activity is recorded for December 30, 2025, which falls within week 53.
+
+Rework dia4.24GX involves the production of R750L4.0-Coils GX with a Ross code of CW750L4.0 GX. The quantity produced is 1000.0 units on December 30, 2025, which falls within week 53. This production was completed on the next day.
+
+6.5mm C12D involves the production of R500L5.0-Coils with a Ross code of CW500L5. The quantity produced is 30000.0 units on December 31, 2025, which falls within week 53. The achieved output is 13889.0 units, while the total achieved is 16052.0 units.
+
+No rework activity is recorded for January 1, 2026, which falls within week 1.
+
+The quantity produced for 6.5mm C12D is 30000.0 units on January 2, 2026, which falls within week 1. The achieved output is 1246.0 units, while the total achieved is 14710.0 units.
+
+No rework activity is recorded for January 3, 2026, which falls within week 1.
+
+No rework activity is recorded for January 4, 2026, which falls within week 2.
+
+No rework activity is recorded for January 5, 2026, which falls within week 2. The achieved output is 1439.0 units.
+
+Rework 5.5mm C12D involves the production of R500L4.5-Coils with a Ross code of CW500L4.5. The quantity produced is 30000.0 units on January 5, 2026, which falls within week 2. The achieved output is 3061.0 units, while the total achieved is 9130.0 units.
+
+The quantity produced for 6.5mm C12D is 30000.0 units on January 5, 2026, which falls within week 2. The achieved output is 4702.0 units.
+
+No rework activity is recorded for January 6, 2026, which falls within week 2. The achieved output is 11373.0 units, while the total achieved is 15778.0 units.
+
+No rework activity is recorded for January 7, 2026, which falls within week 2. The achieved output is 1035.0 units.
+
+Rework 6.5mm C12D involves the production of R500L5.0-Coils with a Ross code of CW500L5. The quantity produced is 30000.0 units on January 7, 2026, which falls within week 2. The achieved output is 15204.0 units, while the total achieved is 14710.0 units.
+
+Rework 8.0mm C12D involves the production of R500L6.3-Coils with a Ross code of CW500L6.3. The quantity produced is 24000.0 units on January 7, 2026, which falls within week 2. The achieved output is 3035.0 units.
+
+No rework activity is recorded for January 8, 2026, which falls within week 2. The achieved output is 14041.0 units, while the total achieved is 7051.0 units.
+
+On January 8, 2026, 24,000 units of R500L6.3-Coils were ordered with the Ross code CW500L6.3. The order was marked as 'same next day' and the achievement was recorded as 9,097 units.
+
+On January 9, 2026, no 'same next day' orders were placed. The achievement was recorded as 14,075 units, with an additional 1,054 units reported.
+
+On January 9, 2026, 4,000 units of R500L6.3-Coils were ordered with the Ross code CW500L6.3. The order was marked as 'same next day' and the achievement was recorded as 4,219 units.
+
+On January 9, 2026, 30,000 units of R500L4.5-Coils were ordered with the Ross code CW500L4.5. The order was marked as 'same next day' and the achievement was recorded as 11,036 units.
+
+On January 10, 2026, no 'same next day' orders were placed. The achievement was recorded as 6,331 units, with an additional 14,076 units reported.
+
+On January 11, 2026, no 'same next day' orders were placed. The achievement was recorded as 1,357 units.
+
+On January 11, 2026, 10,000 units of R500L5.0-Coils were ordered with the Ross code CW500L5. The order was marked as 'same next day'. The achievement was recorded as 8,346 units, with an additional 2,054 units reported.
+
+On January 11, 2026, 2,060 units of R500L4.0-Coils were ordered with the Ross code CW500L4. The order was marked as 'same next day' and the achievement was recorded as 2,147 units.
+
+On January 12, 2026, 1,198 units of R500L4.0-Coils were ordered with the Ross code CW500L4. No 'same next day' orders were placed. The achievement was recorded as 1,814 units.
+
+On January 12, 2026, 1,600 units of R500L5.0-Coils were ordered with the Ross code CW500L5. The order was marked as 'same next day' and the achievement was recorded as 1,072 units.
+
+On January 13, 2026, no 'same next day' orders were placed.
+
+On January 14, 2026, no 'same next day' orders were placed. The achievement was recorded as 6,189 units, with an additional 5,263 units reported.
+
+On January 15, 2026, no 'same next day' orders were placed. 20,000 units of R500L5.0-Coils were ordered with the Ross code CW500L5. The achievement was recorded as 19,411 units.
+
+On January 16, 2026, no 'same next day' orders were placed. The achievement was recorded as 8,066 units.
+
+On January 17, 2026, no 'same next day' orders were placed. The achievement was recorded as 7,055 units, with an additional 4,045 units reported.
+
+On January 17, 2026, 24,000 units of R500L4.0-Coils were ordered with the Ross code CW500L4. The order was marked as 'same next day' and the achievement was recorded as 5,011 units.
+
+On January 18, 2026, no 'same next day' orders were placed. The achievement was recorded as 8,066 units.
+
+On January 19, 2026, no 'same next day' orders were placed. The achievement was recorded as 7,055 units, with an additional 4,045 units reported.
+
+On January 19, 2026, 24,000 units of R500L4.0-Coils were ordered with the Ross code CW500L4. The order was marked as 'same next day' and the achievement was recorded as 5,953 units.
+
+On January 20, 2026, no 'same next day' orders were placed. The achievement was recorded as 6,071 units, with an additional 12,312 units reported.
+
+On January 21, 2026, 30,000 units of the R500L5.0-Coils product were produced. The comment noted that the production involved a 6.5mm C12D specification. The production was completed but not shipped the same day. The week was marked as week 4, and the production achieved 13,323 units.
+
+On January 22, 2026, another 30,000 units of the R500L5.0-Coils product were produced. The comment again noted a 6.5mm C12D specification. The production was completed but not shipped the same day. The week was marked as week 4, and the production achieved 15,110 units.
+
+On January 23, 2026, 24,000 units of the R500L4.0-Coils product were produced. The comment noted a 5.5mm C12D specification. The production was completed but not shipped the same day. The week was marked as week 4, and the production achieved 4,035 units.
+
+On January 24, 2026, the production of the R500L4.0-Coils product was completed but not shipped the same day. The week was marked as week 4, and the production achieved 7,049 units.
+
+On January 25, 2026, the production of the R500L4.0-Coils product was completed but not shipped the same day. The week was marked as week 5, and the production achieved 1,010 units.
+
+On January 26, 2026, the production of the R500L4.0-Coils product was completed but not shipped the same day. The week was marked as week 5.
+
+On January 27, 2026, the production of the R500L4.0-Coils product was completed but not shipped the same day. The week was marked as week 5.
+
+On January 28, 2026, the production of the R500L4.0-Coils product was completed but not shipped the same day. The week was marked as week 5.
+
+On January 29, 2026, the production of the R500L4.0-Coils product was completed but not shipped the same day. The week was marked as week 5.
+
+On January 30, 2026, the production of the R500L4.0-Coils product was completed but not shipped the same day. The week was marked as week 5.
+
+On January 31, 2026, the production of the R500L4.0-Coils product was completed but not shipped the same day. The week was marked as week 5.
+
+On February 1, 2026, the production of the R500L4.0-Coils product was completed but not shipped the same day. The week was marked as week 6.
+
+On February 2, 2026, the production of the R500L4.0-Coils product was completed but not shipped the same day. The week was marked as week 6.
+
+On February 3, 2026, the production of the R500L4.0-Coils product was completed but not shipped the same day. The week was marked as week 6.
+
+On February 4, 2026, the production of the R500L4.0-Coils product was completed but not shipped the same day. The week was marked as week 6.
+
+On February 5, 2026, the production of the R500L4.0-Coils product was completed but not shipped the same day. The week was marked as week 6.
+
+On February 6, 2026, the production of the R500L4.0-Coils product was completed but not shipped the same day. The week was marked as week 6.
+
+On February 7, 2026, the production of the R500L4.0-Coils product was completed but not shipped the same day. The week was marked as week 7.
+
+On February 8, 2026, the production of the R500L4.0-Coils product was completed but not shipped the same day. The week was marked as week 7.
+
+On February 9, 2026, the production of the R500L4.0-Coils product was completed but not shipped the same day. The week was marked as week 7.
+
+On February 10, 2026, an event occurred on day 7 of the week, with no repetition to the following day.
+
+On February 11, 2026, an event took place on day 7 of the week, continuing the sequence without repetition.
+
+On February 12, 2026, an event was recorded on day 7 of the week, maintaining the pattern without repetition.
+
+On February 13, 2026, an event was noted on day 7 of the week, still without any repetition.
+
+On February 14, 2026, an event happened on day 7 of the week, continuing without any repetition.
+
+On February 15, 2026, an event was documented on day 8 of the week, marking a change from the previous days.

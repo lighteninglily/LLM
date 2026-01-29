@@ -1,0 +1,503 @@
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 1850 units of Oxygen Demand Valve at $1850 on August 24, 2024.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 32 units of Luna & Milo CopperBody Classic #0 at $32 on August 24, 2024.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 64 units of Luna & Milo CopperBody Classic #1 at $32 on August 24, 2024.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 198 units of Luna & Milo CopperBody Classic #2 at $33 on August 24, 2024.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 165 units of Luna & Milo CopperBody Classic #3 at $33 on August 24, 2024.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 216 units of Luna & Milo CopperBody Classic #5 at $36 on August 24, 2024.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 180 units of Luna & Milo CopperBody Classic #6 at $36 on August 24, 2024.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 246 units of Luna & Milo CopperBody Classic #11 at $41 on August 24, 2024.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 41 units of Luna & Milo CopperBody Classic #12 at $41 on August 24, 2024.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 123 units of Luna & Milo CopperBody Classic #13 at $41 on August 24, 2024.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 360 units of Luna & Milo CopperBody Classic #10 at $40 on August 24, 2024.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 200 units of Luna & Milo CopperBody Classic #9 at $40 on August 24, 2024.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 360 units of Luna & Milo CopperBody Classic #10 at $40 on August 24, 2024.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 360 units of Luna & Milo CopperBody Classic #10 at $40 on August 24, 2024.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 120 units of Luna & Milo CopperBody Classic #8 at $40 on August 24, 2024.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 200 units of Luna & Milo CopperBody Classic #9 at $40 on August 24, 2024.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 360 units of Luna & Milo CopperBody Classic #10 at $40 on August 24, 2024.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 246 units of Luna & Milo CopperBody Classic #11 at $41 on August 24, 2024.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 41 units of Luna & Milo CopperBody Classic #12 at $41 on August 24, 2024.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 123 units of Luna & Milo CopperBody Classic #13 at $41 on August 24, 2024.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 300015 - Luna & Milo CopperBody Classic #14 for a total of $90 on August 24, 2024. Average price was $45.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 300016 - Luna & Milo CopperBody Classic #15 for a total of $45 on August 24, 2024. Average price was $45.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 300023 - Luna & Milo CopperBody Castration #2 for a total of $66 on August 24, 2024. Average price was $33.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 300024 - Luna & Milo CopperBody Castration #3 for a total of $66 on August 24, 2024. Average price was $33.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 300025 - Luna & Milo CopperBody Castration #4 for a total of $66 on August 24, 2024. Average price was $33.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 300026 - Luna & Milo CopperBody Castration #5 for a total of $36 on August 24, 2024. Average price was $36.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 300044 - Luna & Milo CopperBody 4-Legs #3 for a total of $41 on August 24, 2024. Average price was $41.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 300045 - Luna & Milo CopperBody 4-Legs #4 for a total of $41 on August 24, 2024. Average price was $41.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 300046 - Luna & Milo CopperBody 4-Legs #5 for a total of $132 on August 24, 2024. Average price was $44.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 300047 - Luna & Milo CopperBody 4-Legs #6 for a total of $88 on August 24, 2024. Average price was $44.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 300048 - Luna & Milo CopperBody 4-Legs #7 for a total of $44 on August 24, 2024. Average price was $44.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 300049 - Luna & Milo CopperBody 4-Legs #8 for a total of $48 on August 24, 2024. Average price was $48.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 300050 - Luna & Milo CopperBody 4-Legs #9 for a total of $48 on August 24, 2024. Average price was $48.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 300052 - Luna & Milo CopperBody 4-Legs #11 for a total of $50 on August 24, 2024. Average price was $50.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 300-PI-22 - Screw Cup Trial-inlay. #22 mm for a total of $105 on August 24, 2024. Average price was $105.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold AL1-P-22-NC - Cup Inlay, UHMW-PE, 22, non-constrained for a total of $180 on August 24, 2024. Average price was $180.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold CBLO2035L - CBLO plate 2.0mm x 35mm Left for a total of $270 on August 24, 2024. Average price was $270.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold CBLO2035R - CBLO plate 2.0mm x 35mm Right for a total of $270 on August 24, 2024. Average price was $270.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold CBLO2440L - CBLO plate 2.4mm x 40mm Left for a total of $810 on August 24, 2024. Average price was $270.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold CBLO2440R - CBLO plate 2.4mm x 40mm Right for a total of $270 on August 24, 2023. Average price was $270.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold CBLO2755L - CBLO plate 2.7mm x 55mm Left for a total of $270 on August 24, 2023. Average price was $270.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold CBLO2755R - CBLO plate 2.7mm x 55mm Right for a total of $270 on August 24, 2023. Average price was $270.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold CSCBLO2412 - CBLO Cortical Screw 2.4mm x 12mm for a total of $75 on August 24, 2023. Average price was $15.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold CSCBLO2414 - CBLO Cortical Screw 2.4mm x 14mm for a total of $30 on August 24, 2023. Average price was $15.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold CSCBLO2712 - CBLO Cortical Screw 2.7mm x 12mm for a total of $30 on August 24, 2023. Average price was $15.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold CSCBLO2714 - CBLO Cortical Screw 2.7mm x 14mm for a total of $60 on August 24, 2023. Average price was $15.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold CSCBLO2716 - CBLO Cortical Screw 2.7mm x 16mm for a total of $270 on August 24, 2023. Average price was $15.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold CSCBLO2718 - CBLO Cortical Screw 2.7mm x 18mm for a total of $120 on August 24, 2023. Average price was $15.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold CSCBLO2720 - CBLO Cortical Screw 2.7mm x 20mm for a total of $60 on August 24, 2023. Average price was $15.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold CSCBLO2724 - CBLO Cortical Screw 2.7mm x 24mm for a total of $90 on August 24, 2023. Average price was $15.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold CSCBLO2728 - CBLO Cortical Screw 2.7mm x 28mm for a total of $90 on August 24, 2023. Average price was $15.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold CSCBLO3516 - CBLO Cortical Screw 3.5mm x 16mm for a total of $90 on August 24, 2023. Average price was $15.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold CSCBLO3518 - CBLO Cortical Screw 3.5mm x 18mm for a total of $90 on August 24, 2023. Average price was $15.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold CSCBLO3520 - CBLO Cortical Screw 3.5mm x 20mm for a total of $165 on August 24, 2023. Average price was $15.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold CSCBLO3522 - CBLO Cortical Screw 3.5mm x 22mm for a total of $165 on August 24, 2023. Average price was $15.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold CSCBLO3524 - CBLO Cortical Screw 3.5mm x 24mm for a total of $90 on August 24, 2023. Average price was $15.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold FH1-T-12-S - INNOPLANT Taper Head 12 S, TiAl6V4, TiN for a total of $181 on August 24, 2023. Average price was $181.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold FH1-T-15-L - Innoplant-Taper Head, TiAl6V4,TiN, 15-L for a total of $218.5 on August 24, 2023. Average price was $218.5.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold FH1-T-18-L - Innoplant-Taper Head, TiAl6V4,TiN,18-L for a total of $218.5 on August 24, 2023. Average price was $218.5.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold FH1-T-18-M - Innoplant-Taper Head, TiAl6V4, TiN, 18-M for a total of $218.50 on August 24, 2024. The average price was $218.50.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold HC2-T-22 - Screw Cup SL, Titan, 22 for a total of $695.00 on August 24, 2024. The average price was $695.00.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold IN01100037 - Castroviejo Caliper (IWet) for a total of $95.00 on August 24, 2024. The average price was $95.00.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold IN011029TX15 - AO quick coupling shaft TORX TX15 | for sys 35 for a total of $400.00 on August 24, 2024. The average price was $100.00.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold IWLS3518 - Locking TORX self-tapping screw 35 | L 18 | Ti for a total of $81.00 on August 24, 2024. The average price was $27.00.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold IWLS3524 - Locking TORX self-tapping screw 35 | L 24 | Ti for a total of $28.00 on August 24, 2024. The average price was $28.00.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold IWLS3526 - Locking TORX self-tapping screw 35 | L 26 | Ti for a total of $57.00 on August 24, 2024. The average price was $28.50.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold IWLS3528 - Locking TORX self-tapping screw 35 | L 28 | Ti for a total of $57.00 on August 24, 2024. The average price was $28.50.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold IWLS3530 - Locking TORX self-tapping screw 35 | L 30 | Ti for a total of $57.00 on August 24, 2024. The average price was $28.50.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold IWLS3534 - Locking TORX self-tapping screw 35 | L 34 | Ti for a total of $116.00 on August 24, 2024. The average price was $29.00.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold IWLS3536 - Locking TORX self-tapping screw 35 | L 36 | Ti for a total of $116.00 on August 24, 2024. The average price was $29.00.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold KS0110001 - Sterilization case for 2.0/2.4/2.7/3.5 screws for a total of $350.00 on August 24, 2024. The average price was $350.00.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold LGPF75 - Size 7.5 Powder free Single-Use Sterile Latex Surgery Gloves for a total of $127.00 on August 24, 2024. The average price was $42.33.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold LGPF80 - Size 8.0 Powder free Single-Use Sterile Latex Surgery Gloves for a total of $245.00 on August 24, 2024. The average price was $49.00.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold LSCBLO2024 - CBLO Locking Screw 2.0mm x 24mm for a total of $162.00 on August 24, 2024. The average price was $27.00.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold LSCBLO2410 - CBLO Locking Screw 2.4mm x 10mm for a total of $27.00 on August 24, 2024. The average price was $27.00.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold LSCBLO2412 - CBLO Locking Screw 2.4mm x 12mm for a total of $189.00 on August 24, 2024. The average price was $27.00.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold LSCBLO2414 - CBLO Locking Screw 2.4mm x 14mm for a total of $81.00 on August 24, 2024. The average price was $27.00.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold LSCBLO2416 - CBLO Locking Screw 2.4mm x 16mm for a total of $108.00 on August 24, 2024. The average price was $27.00.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold LSCBLO2418 - CBLO Locking Screw 2.4mm x 18mm for a total of $27.00 on August 24, 2024. The average price was $27.00.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold LSCBLO2716 - CBLO Locking Screw 2.7mm x 16mm for a total of $27,000 AUD on August 24, 2023.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold LSCBLO2722 - CBLO Locking Screw 2.7mm x 22mm for a total of $81,000 AUD on August 24, 2023.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold LSCBLO2724 - CBLO Locking Screw 2.7mm x 24mm for a total of $108,000 AUD on August 24, 2023.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold LSCBLO2726 - CBLO Locking Screw 2.7mm x 26mm for a total of $54,000 AUD on August 24, 2023.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold LSCBLO2734 - CBLO Locking Screw 2.7mm x 34mm for a total of $108,000 AUD on August 24, 2023.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold LSCBLO2736 - CBLO Locking Screw 2.7mm x 36mm for a total of $81,000 AUD on August 24, 2023.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold LSCBLO2738 - CBLO Locking Screw 2.7mm x 38mm for a total of $81,000 AUD on August 24, 2023.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold LSCBLO3516 - CBLO Locking Screw 3.5mm x 16mm for a total of $116,000 AUD on August 24, 2023.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold LSCBLO3518 - CBLO Locking Screw 3.5mm x 18mm for a total of $145,000 AUD on August 24, 2023.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold LSCBLO3520 - CBLO Locking Screw 3.5mm x 20mm for a total of $464,000 AUD on August 24, 2023.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold LSCBLO3522 - CBLO Locking Screw 3.5mm x 22mm for a total of $319,000 AUD on August 24, 2023.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold LSCBLO3524 - CBLO Locking Screw 3.5mm x 24mm for a total of $145,000 AUD on August 24, 2023.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold LSCBLO3526 - CBLO Locking Screw 3.5mm x 26mm for a total of $290,000 AUD on August 24, 2023.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold LSCBLO3528 - CBLO Locking Screw 3.5mm x 28mm for a total of $58,000 AUD on August 24, 2023.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold LSCBLO3530 - CBLO Locking Screw 3.5mm x 30mm for a total of $58,000 AUD on August 24, 2023.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold LSCBLO3532 - CBLO Locking Screw 3.5mm x 32mm for a total of $145,000 AUD on August 24, 2023.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold LSCBLO3534 - CBLO Locking Screw 3.5mm x 34mm for a total of $116,000 AUD on August 24, 2023.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold LSCBLO3538 - CBLO Locking Screw 3.5mm x 38mm for a total of $116,000 AUD on August 24, 2023.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold LSCBLO3540 - CBLO Locking Screw 3.5mm x 40mm for a total of $174,000 AUD on August 24, 2023.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold LSCBLO3544 - CBLO Locking Screw 3.5mm x 44mm for a total of $29,000 AUD on August 24, 2023.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold LSCBLO3546 - CBLO Locking Screw 3.5mm x 46mm for a total of $116 on August 24, 2024. The unit price was $4.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold LSCBLO3548 - CBLO Locking Screw 3.5mm x 48mm for a total of $145 on August 24, 2024. The unit price was $5.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold LSCBLO3550 - CBLO Locking Screw 3.5mm x 50mm for a total of $58 on August 24, 2024. The unit price was $2.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold LSCBLO3552 - CBLO Locking Screw 3.5mm x 52mm for a total of $29 on August 24, 2024. The unit price was $1.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold LSCBLO3558 - CBLO Locking Screw 3.5mm x 58mm for a total of $29 on August 24, 2024. The unit price was $1.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold PB.62L.35080.2 - Anatomical locking CBLO plate 3.5 | LEFT | L 80 | ... for a total of $255 on August 24, 2024. The unit price was $1.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold PB.62L.35100B.2 - Anatomical locking CBLO plate 3.5 broad | LEFT | L ... for a total of $275 on August 24, 2024. The unit price was $1.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold PB.62R.35080.2 - Anatomical locking CBLO plate 3.5 | RIGHT | L 80 | ... for a total of $255 on August 24, 2024. The unit price was $1.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold PB.62R.35100B.2 - Anatomical locking CBLO plate 3.5 broad | RIGHT | ... for a total of $275 on August 24, 2024. The unit price was $1.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold PB54L27411 - Locking anatomical TPLO plate 2.7 Left for a total of $92 on August 24, 2024. The unit price was $1.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold PB54L27461 - Locking anatomical TPLO plate 2.7 Left for a total of $92 on August 24, 2024. The unit price was $1.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold PB54L35551 - Locking anatomical TPLO plate 3.5 Left for a total of $105 on August 24, 2024. The unit price was $1.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold PB54L35641 - Locking anatomical TPLO plate 3.5 Left for a total of $105 on August 24, 2024. The unit price was $1.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold PB54L35801 - Locking anatomical TPLO plate 3.5 Left for a total of $210 on August 24, 2024. The unit price was $2.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold PB54R27411 - Locking anatomical TPLO plate 2.7 Right for a total of $92 on August 24, 2024. The unit price was $1.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold PB54R27461 - Locking anatomical TPLO plate 2.7 Right for a total of $92 on August 24, 2024. The unit price was $1.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold PB54R35551 - Locking anatomical TPLO plate 3.5 Right for a total of $105 on August 24, 2024. The unit price was $1.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold PB54R35641 - Locking anatomical TPLO plate 3.5 Right for a total of $105 on August 24, 2024. The unit price was $1.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold PB54R35801 - Locking anatomical TPLO plate 3.5 Right for a total of $210 on August 24, 2024. The unit price was $2.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold PB62L200352 - Anatomical locking CBLO plate 2.0 | LEFT | L 35 | for a total of $145 on August 24, 2024. The unit price was $1.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold PB62L240382 - Anatomical locking CBLO plate 2.4 | LEFT | L 38 | for a total of $390 on August 24, 2024. The unit price was $195.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold PB62L270452 - Anatomical locking CBLO plate 27 | LEFT | L 45 | T... for a total of $485 on August 24, 2024. The unit price was $242.5.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold PB62L350562 - Anatomical locking CBLO plate 35 | LEFT | L 56 | T... for a total of $490 on August 24, 2024. The unit price was $245.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold PB62L350802 - Anatomical locking CBLO plate 35 | LEFT | L 80 | T... for a total of $510 on August 24, 2024. The unit price was $255.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold PB62L351002 - Anatomical locking CBLO plate 35 | LEFT | L 100 | ... for a total of $1060 on August 24, 2024. The unit price was $265.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold PB62L35100B2 - Anatomical locking CBLO plate 35 broad | LEFT | L ... for a total of $550 on August 24, 2024. The unit price was $275.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold PB62R200352 - Anatomical locking CBLO plate 2.0 | RIGHT | L 35 | for a total of $145 on August 24, 2024. The unit price was $145.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold PB62R240382 - Anatomical locking CBLO plate 2.4 | RIGHT | L 38 | for a total of $390 on August 24, 2024. The unit price was $195.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold PB62R270452 - Anatomical locking CBLO plate 27 | RIGHT | L 45 | ... for a total of $240 on August 24, 2024. The unit price was $240.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold PB62R350562 - Anatomical locking CBLO plate 35 | RIGHT | L 56 | ... for a total of $490 on August 24, 2024. The unit price was $245.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold PB62R350802 - Anatomical locking CBLO plate 35 | RIGHT | L 80 | ... for a total of $510 on August 24, 2024. The unit price was $255.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold PB62R351002 - Anatomical locking CBLO plate 35 | RIGHT | L 100 | ... for a total of $1060 on August 24, 2024. The unit price was $265.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold PB62R35100B2 - Anatomical locking CBLO plate 35 broad | RIGHT | L ... for a total of $825 on August 24, 2024. The unit price was $275.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold PUDI4566 - Polyurethane Iodophor infused drape 45cm x 66cm for a total of $240 on August 24, 2024. The unit price was $12.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold SD7070 - Disposable surgical drape, 45gsm SMS,70*70cm,with ... for a total of $448.2 on August 24, 2024. The unit price was $1.3499999999999999.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold SD7090 - Disposable surgical drape, 45gsm SMS,70*90cm,with ... for a total of $870 on August 24, 2024. The unit price was $1.45.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold SGSLL - Disposable surgical gown,68gsm spunlace, with 1 ha... for a total of $1230 on August 24, 2024. The unit price was $8.2.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold SGSLM - Disposable surgical gown, 68gsm spunlace, with 1 h... for a total of $1230 on August 24, 2024. The unit price was $8.2.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold sp135280 - Autoclave Sterilization Pouch - Self Sealing 135mm... for a total of $50 on August 24, 2024. The unit price was $25.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold SP190360 - Autoclave Sterilization Pouch - Self Sealing 190mm... for a total of $50 on August 24, 2024. The unit price was $25.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 10 units of Autoclave Sterilization Pouch - Self Sealing 57mm for a total of $200 on August 24, 2024. Average price was $20 per unit.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 15 units of Autoclave Sterilization Pouch - Self Sealing 90mm for a total of $450 on August 24, 2024. Average price was $30 per unit.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 99 units of Staple 5 x 8 mm for a total of $9,801 on August 24, 2024. Average price was $99 per unit.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 99 units of Staple 6 x 13mm for a total of $7,821 on August 24, 2024. Average price was $79 per unit.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 99 units of Staple 7 x 20 mm for a total of $3,960 on August 24, 2024. Average price was $39 per unit.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 49.5 units of Polydioxinone (Absorbable) Surgical Suture USP0 75... for a total of $321.75 on August 24, 2024. Average price was $6.50 per unit.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 49.5 units of Polydioxinone (Absorbable) Surgical Suture USP 1 for a total of $143.55 on August 24, 2024. Average price was $2.90 per unit.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 49.5 units of Polydioxinone (Absorbable) Surgical Suture USP2/0 ... for a total of $881.10 on August 24, 2024. Average price was $17.80 per unit.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 48.5 units of Polydioxinone (Absorbable) Surgical Suture USP3/0 ... for a total of $717.80 on August 24, 2024. Average price was $14.70 per unit.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 47.5 units of Polydioxinone (Absorbable) Surgical Suture USP4/0 ... for a total of $332.50 on August 24, 2024. Average price was $6.90 per unit.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 39.5 units of Polypropylene (Non-absorbable) Surgical Suture USP... for a total of $237 on August 24, 2024. Average price was $6.00 per unit.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 39.5 units of Polypropylene (Non-absorbable) Surgical Suture USP... for a total of $395 on August 24, 2024. Average price was $10.00 per unit.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 17.5 units of Star Track FPP for a total of $903 on August 24, 2024. Average price was $51.80 per unit.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 315 units of SWM3 Wedge Size 12mm for a total of $1,260 on August 24, 2024. Average price was $315 per unit.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 315 units of SWM3 Wedge Size 13.5mm for a total of $945 on August 24, 2024. Average price was $315 per unit.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 705 units of 3Con Stem, CoCrMo, # 6 for a total of $1,330 on August 24, 2024. Average price was $665 per unit.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 495 units of Zlig 32 fibers / 17mm, 12 - 25kg,4000N Artificial ... for a total of $495 on August 24, 2024. Average price was $1.00 per unit.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 32 units of Zlig Interference Screw cannulated 1.1/4.0/13.0mm,... for a total of $32 on August 24, 2024. Average price was $1.00 per unit.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 32 units of Zlig Interference Screw cannulated 2.9/5.0/10.0mm/... for a total of $96 on August 24, 2024. Average price was $3.00 per unit.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold 32 units of Zlig Interference Screw cannulated 1.1/4.5/10.0mm,... for a total of $128 on August 24, 2024. Average price was $4.00 per unit.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold Zlig Interference Screw cannulated 1.1/4.5/15.0mm for a total of $64 on August 24, 2024. Average price was $2 per unit.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold an average price of $21.73 for Zlig Interference Screw cannulated 1.1/4.5/15.0mm with a total sale of $39,312.4 on August 24, 2024.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold a total of $59,312.5 on August 24, 2024, including other sales of $20,000.1 and cash sales of $0.
+
+[Source: Inv Move Aug 24.xls | Type: summary_record]
+Summary of sales for Vet Surgical & Medical Supplies Pty Ltd on August 24, 2024, shows total sales of $59,312.5.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold Zlig Interference Screw cannulated 1.1/4.5/15.0mm for a total of $64 on August 24, 2024.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold a total of $39,312.4 on August 24, 2024, including other sales of $20,000.1 and cash sales of $0.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold Zlig Interference Screw cannulated 1.1/4.5/15.0mm for a total of $64 on August 24, 2024.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold a total of $39,312.4 on August 24, 2024, including other sales of $20,000.1 and cash sales of $0.
+
+[Source: Inv Move Aug 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd sold a total of $59,312.5 on August 24, 2024, including other sales of $20,000.1 and cash sales of $0.

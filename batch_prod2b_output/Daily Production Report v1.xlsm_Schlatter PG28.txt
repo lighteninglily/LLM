@@ -1,0 +1,567 @@
+On April 28, 2025, Ross placed an order for 1200 units of the dmw_product IMB45-46-4814-JCR, with the ross_code SMB48141015045. The order was marked for same-day delivery. No sheets were processed that day, and no achievements were recorded.
+
+On April 29, 2025, Ross ordered another 1200 units of the same product. The order was not for same-day delivery. By the end of the day, 40 sheets were processed, achieving 20% of the daily target. 400 sheets remained unprocessed, with an additional 160 sheets achieved the following day. The kg/sheet ratio was 24.76, and the sheets per hour rate was 67.347.
+
+On April 30, 2025, Ross ordered 1200 more units of the same product. The order was not for same-day delivery. By the end of the day, 400 sheets were processed, achieving 340 sheets the previous day. The kg/sheet ratio was 25.25, and the sheets per hour rate was 80.488.
+
+On May 1, 2025, Ross ordered 1200 units of the same product. The order was not for same-day delivery. No sheets were processed that day, and no achievements were recorded. The kg/sheet ratio was 25.25, and the sheets per hour rate was 80.488.
+
+On May 2, 2025, Ross ordered 1400 units of the dmw_product IMB5-44-5014-JNA, with the ross_code CC5014101005. The order was marked for same-day delivery. By the end of the day, 40 sheets were processed, achieving 40 sheets the previous day. The kg/sheet ratio was 25.25, and the sheets per hour rate was 80.488.
+
+On May 3, 2025, Ross ordered 1400 units of the same product. The order was not for same-day delivery. By the end of the day, 380 sheets were processed, achieving 220 sheets the previous day. The kg/sheet ratio was 25.25, and the sheets per hour rate was 80.488.
+
+On May 4, 2025, Ross ordered 1400 units of the same product. The order was not for same-day delivery. By the end of the day, 380 sheets were processed, achieving 250 sheets the previous day. The kg/sheet ratio was 25.25, and the sheets per hour rate was 80.488.
+
+On May 5, 2025, Ross ordered 1400 units of the same product. The order was not for same-day delivery. By the end of the day, 380 sheets were processed, achieving 375 sheets the previous day. The kg/sheet ratio was 25.25, and the sheets per hour rate was 80.488.
+
+On May 6, 2025, Ross ordered 1000 units of the dmw_product IMB5-44-4524, with the ross_code SMF4524101005. The order was not for same-day delivery. By the end of the day, 200 sheets were processed, achieving 160 sheets the previous day. The kg/sheet ratio was 30.55, and the sheets per hour rate was 80.488.
+
+On May 7, 2025, Ross ordered 1000 units of the same product. The order was not for same-day delivery. By the end of the day, 400 sheets were processed, achieving 420 sheets the previous day. The kg/sheet ratio was 30.55, and the sheets per hour rate was 80.488.
+
+On May 8, 2025, Ross ordered 1200 units of the dmw_product IMB4H-44-5024, with the ross_code SMB4H50241010. The order was not for same-day delivery. By the end of the day, 100 sheets were processed, achieving 240 sheets the previous day. The kg/sheet ratio was 30.93, and the sheets per hour rate was 80.488.
+
+On May 9, 2025, Ross ordered 1200 units of the same product. The order was not for same-day delivery. By the end of the day, 420 sheets were processed, achieving 320 sheets the previous day. The kg/sheet ratio was 30.93, and the sheets per hour rate was 80.488.
+
+On May 10, 2025, Ross ordered 1200 units of the same product. The order was not for same-day delivery. By the end of the day, 80 sheets were processed, achieving 0 sheets the previous day. The kg/sheet ratio was 30.93, and the sheets per hour rate was 80.488.
+
+On May 11, 2025, Ross ordered 1200 units of the same product. The order was not for same-day delivery. No sheets were processed that day, and no achievements were recorded. The kg/sheet ratio was 30.93, and the sheets per hour rate was 80.488.
+
+On May 12, 2025, Ross ordered 1200 units of the same product. The order was not for same-day delivery. No sheets were processed that day, and no achievements were recorded. The kg/sheet ratio was 30.93, and the sheets per hour rate was 80.488.
+
+On May 13, 2025, Ross ordered 1200 units of the same product. The order was not for same-day delivery. No sheets were processed that day, and no achievements were recorded. The kg/sheet ratio was 30.93, and the sheets per hour rate was 80.488.
+
+On May 14, 2025, Ross ordered 2464 units of the dmw_product IMB5-64-5113 JMOL (new), with the ross_code SMB5113515105S. The order was not for same-day delivery. By the end of the day, 40 sheets were processed, achieving 0 sheets the previous day. The kg/sheet ratio was 22.2, and the sheets per hour rate was 85.714.
+
+On May 15, 2025, Ross ordered 2464 units of the same product. The order was not for same-day delivery. By the end of the day, 400 sheets were processed, achieving 180 sheets the previous day. The kg/sheet ratio was 22.2, and the sheets per hour rate was 85.714.
+
+On May 16, 2025, Ross ordered 2464 units of the same product. The order was not for same-day delivery. By the end of the day, 400 sheets were processed, achieving 460 sheets the previous day. The kg/sheet ratio was 22.2, and the sheets per hour rate was 85.714.
+
+Ross order 251087 involves the production of IMB5-64-5113 JMOL (new) with a quantity of 2464.0 units. The production was scheduled for May 17, 2025, and the actual production achieved 400.0 units, matching the daily target of 400.0 units. The total planned production was 8.88 units, which was also achieved. The production rate was 85.71428571428572 sheets per hour, with a spm of 50.0 and c-wires count of 35.0.
+
+Ross order 251088 continues the production of IMB5-64-5113 JMOL (new) with a quantity of 2464.0 units. The production was scheduled for May 18, 2025, achieving 320.0 units out of the daily target of 400.0 units. The total planned production was 8.88 units, which was slightly underachieved at 7.104 units. The production rate remained at 85.71428571428572 sheets per hour, with a spm of 50.0 and c-wires count of 35.0.
+
+Ross order 251089 produces IMB5-64-5113 JMOL (new) with a quantity of 2464.0 units. The production was scheduled for May 19, 2025, achieving 132.0 units out of the daily target of 150.0 units. The total planned production was 3.33 units, which was also slightly underachieved at 2.9304 units. The production rate was 85.71428571428572 sheets per hour, with a spm of 50.0 and c-wires count of 35.0.
+
+Ross order 250165 involves the production of IMG6GA-44-2715 with a quantity of 3200.0 units. The production was scheduled for May 20, 2025, but no units were achieved. The remaining quantity after the day was 750.0 units, with an initial achieved quantity of 0.0 units. The daily target was 100.0 units, and the total planned production was 10.8035 units, which was achieved at 2.542 units. The production rate was 117.85714285714288 sheets per hour, with a spm of 55.0 and c-wires count of 28.0.
+
+Ross order 250166 continues the production of IMG6GA-44-2715 with a quantity of 3200.0 units. The production was scheduled for May 21, 2025, achieving 260.0 units out of the daily target of 750.0 units. The remaining quantity after the day was 750.0 units, with an initial achieved quantity of 750.0 units. The total planned production was 19.065 units, which was achieved at 12.8371 units. The production rate was 117.85714285714288 sheets per hour, with a spm of 55.0 and c-wires count of 28.0.
+
+Ross order 250167 produces IMG6GA-44-2715 with a quantity of 3200.0 units. The production was scheduled for May 22, 2025, achieving 750.0 units out of the daily target of 750.0 units. The remaining quantity after the day was 520.0 units, with an initial achieved quantity of 540.0 units. The total planned production was 16.1417 units, which was achieved at 16.3959 units. The production rate was 117.85714285714288 sheets per hour, with a spm of 55.0 and c-wires count of 28.0.
+
+Ross order 250672 involves the production of IMB45-66-5117-DEN with a quantity of 2160.0 units. The production was scheduled for May 23, 2025, achieving 0.0 units out of the daily target of 40.0 units. The remaining quantity after the day was 390.0 units, with an initial achieved quantity of 100.0 units. The total planned production was 12.1561 units, which was achieved at 2.827 units. The production rate was 100.0 sheets per hour, with a spm of 55.0 and c-wires count of 33.0.
+
+Ross order 250673 continues the production of IMB45-66-5117-DEN with a quantity of 2160.0 units. The production was scheduled for May 24, 2025, achieving 420.0 units out of the daily target of 390.0 units. The remaining quantity after the day was 390.0 units, with an initial achieved quantity of 150.0 units. The total planned production was 22.0506 units, which was achieved at 16.1139 units. The production rate was 100.0 sheets per hour, with a spm of 55.0 and c-wires count of 33.0.
+
+Ross order 250674 produces IMB45-66-5117-DEN with a quantity of 2160.0 units. The production was scheduled for May 25, 2025, but no units were achieved. The total planned production was 0.0 units, which was achieved at 0.0 units. The production rate was 100.0 sheets per hour, with a spm of 55.0 and c-wires count of 33.0.
+
+Ross order 250675 continues the production of IMB45-66-5117-DEN with a quantity of 2160.0 units. The production was scheduled for May 26, 2025, achieving 350.0 units out of the daily target of 390.0 units. The remaining quantity after the day was 390.0 units, with an initial achieved quantity of 420.0 units. The total planned production was 22.0506 units, which was achieved at 21.7679 units. The production rate was 100.0 sheets per hour, with a spm of 55.0 and c-wires count of 33.0.
+
+Ross order 250676 produces IMB45-66-5117-DEN with a quantity of 2160.0 units. The production was scheduled for May 27, 2025, achieving 350.0 units out of the daily target of 390.0 units. The remaining quantity after the day was 320.0 units, with an initial achieved quantity of 380.0 units. The total planned production was 20.0717 units, which was achieved at 20.6371 units. The production rate was 100.0 sheets per hour, with a spm of 55.0 and c-wires count of 33.0.
+
+Ross order 250356 involves the production of IMG5-44-5716 with a quantity of 4320.0 units. The production was scheduled for May 28, 2025, achieving 0.0 units out of the daily target of 40.0 units. The remaining quantity after the day was 40.0 units, with an initial achieved quantity of 40.0 units. The total planned production was 1.4228 units, which was achieved at 1.4228 units. The production rate was 50.0 sheets per hour, with a spm of 55.0 and c-wires count of 66.0.
+
+Ross order 250356 continues the production of IMG5-44-5716 with a quantity of 4320.0 units. The production was scheduled for May 29, 2025, achieving 150.0 units out of the daily target of 320.0 units. The remaining quantity after the day was 320.0 units, with an initial achieved quantity of 320.0 units. The total planned production was 22.7648 units, which was achieved at 16.7179 units. The production rate was 50.0 sheets per hour, with a spm of 55.0 and c-wires count of 66.0.
+
+Ross order 250356 produces IMG5-44-5716 with a quantity of 4320.0 units. The production was scheduled for May 30, 2025, achieving 320.0 units out of the daily target of 320.0 units. The remaining quantity after the day was 320.0 units, with an initial achieved quantity of 260.0 units. The total planned production was 22.7648 units, which was achieved at 20.6306 units. The production rate was 50.0 sheets per hour, with a spm of 55.0 and c-wires count of 66.0.
+
+Ross order 250356 continues the production of IMG5-44-5716 with a quantity of 4320.0 units. The production was scheduled for May 31, 2025, achieving 320.0 units out of the daily target of 320.0 units. The remaining quantity after the day was 320.0 units, with an initial achieved quantity of 320.0 units. The total planned production was 22.7648 units, which was achieved at 22.7648 units. The production rate was 50.0 sheets per hour, with a spm of 55.0 and c-wires count of 66.0.
+
+Ross order 250356 produces IMG5-44-5716 with a quantity of 4320.0 units. The production was scheduled for June 1, 2025, achieving 320.0 units out of the daily target of 0.0 units. The remaining quantity after the day was 0.0 units, with an initial achieved quantity of 320.0 units. The total planned production was 0.0 units, which was achieved at 11.3824 units. The production rate was 50.0 sheets per hour, with a spm of 55.0 and c-wires count of 66.0.
+
+Ross order 250356 continues the production of IMG5-44-5716 with a quantity of 4320.0 units. The production was scheduled for June 2, 2025, achieving 280.0 units out of the daily target of 0.0 units. The remaining quantity after the day was 0.0 units, with an initial achieved quantity of 320.0 units. The total planned production was 0.0 units, which was achieved at 21.342 units. The production rate was 50.0 sheets per hour, with a spm of 55.0 and c-wires count of 66.0.
+
+Ross order 250356 produces IMG5-44-5716 with a quantity of 4320.0 units. The production was scheduled for June 3, 2025, achieving 320.0 units out of the daily target of 320.0 units. The remaining quantity after the day was 0.0 units, with an initial achieved quantity of 320.0 units. The total planned production was 11.3824 units, which was achieved at 11.3824 units. The production rate was 50.0 sheets per hour, with a spm of 55.0 and c-wires count of 66.0.
+
+Ross order 250356 continues the production of IMG5-44-5716 with a quantity of 4320.0 units. The production was scheduled for June 4, 2025, achieving 300.0 units out of the daily target of 320.0 units. The remaining quantity after the day was 0.0 units, with an initial achieved quantity of 320.0 units. The total planned production was 11.3824 units, which was achieved at 10.671 units. The production rate was 50.0 sheets per hour, with a spm of 55.0 and c-wires count of 66.0.
+
+Ross order 250356 produces IMG5-44-5716 with a quantity of 4320.0 units. The production was scheduled for June 5, 2025, achieving 0.0 units out of the daily target of 0.0 units. The remaining quantity after the day was 0.0 units, with an initial achieved quantity of 340.0 units. The total planned production was 0.0 units, which was achieved at 12.0938 units. The production rate was 50.0 sheets per hour, with a spm of 55.0 and c-wires count of 66.0.
+
+Ross order 250356 for product IMG5-44-5716, with Ross code SMF5716101005G, involved a quantity of 4320.0 units. The first day of production was June 6, 2025, with an achieved quantity of 320.0 units and a planned total of 11.3824 units. The sheets per hour were recorded at 50.0, with spm at 55.0 and c-wires at 66.0.
+
+On June 7, 2025, the second day of production for the same order and product, no additional information was recorded beyond the date.
+
+For the third day, June 8, 2025, the production continued with no new information recorded.
+
+On June 9, 2025, the fourth day of production, the achieved quantity was 280.0 units, with a planned total of 9.9596 units and actual totals of 11.3824 units. The sheets per hour were 50.0, with spm at 55.0 and c-wires at 66.0.
+
+The fifth day, June 10, 2025, saw a different Ross order 251330 for product IMB5-44-5716, with Ross code SMF5716101005. The quantity was 1080.0 units, with a same next day status of 'S'. The achieved quantity was 120.0 units, with a planned total of 18.4964 units and actual totals of 14.228 units. The sheets per hour were 50.0, with spm at 55.0 and c-wires at 66.0.
+
+On June 11, 2025, the sixth day, another Ross order 251330 for product IMB5-44-5716, with Ross code SMF5716101005, involved a quantity of 1081.0 units. The achieved quantity was 200.0 units, with a planned total of 19.9192 units and actual totals of 17.0736 units. The sheets per hour were 50.0, with spm at 55.0 and c-wires at 66.0.
+
+For the seventh day, June 12, 2025, the seventh Ross order 251330 for product IMB5-44-5716, with Ross code SMF5716101005, involved a quantity of 1082.0 units. The achieved quantity was 200.0 units, with a planned total of 7.114 units and actual totals of 0.0 units. The sheets per hour were 50.0, with spm at 55.0 and c-wires at 66.0.
+
+On June 12, 2025, the eighth Ross order 250356 for product IMB5-44-5716, with Ross code SMF5716101005, involved a quantity of 5400.0 units. The achieved quantity was 40.0 units, with a planned total of 12.8052 units and actual totals of 7.8254 units. The sheets per hour were 50.0, with spm at 55.0 and c-wires at 66.0.
+
+For the ninth Ross order 251128 for product IMB5-44-5716, with Ross code SMF5716101005, involving a quantity of 5400.0 units, the achieved quantity was 320.0 units on June 13, 2025, with a planned total of 22.7648 units and actual totals of 22.7648 units. The sheets per hour were 50.0, with spm at 55.0 and c-wires at 66.0.
+
+On June 14, 2025, the tenth Ross order 251128 for product IMB5-44-5716, with Ross code SMF5716101005, involved a quantity of 5400.0 units. The achieved quantity was 280.0 units, with a planned total of 19.9192 units and actual totals of 18.4964 units. The sheets per hour were 50.0, with spm at 55.0 and c-wires at 66.0.
+
+For the eleventh Ross order 251128 for product IMB5-44-5716, with Ross code SMF5716101005, involving a quantity of 5400.0 units, the achieved quantity was 280.0 units on June 15, 2025, with a planned total of 9.9596 units and actual totals of 9.9596 units. The sheets per hour were 50.0, with spm at 55.0 and c-wires at 66.0.
+
+On June 16, 2025, the twelfth Ross order 251128 for product IMB5-44-5716, with Ross code SMF5716101005, involved a quantity of 5400.0 units. The achieved quantity was 280.0 units, with a planned total of 11.3824 units and actual totals of 8.5368 units. The sheets per hour were 50.0, with spm at 55.0 and c-wires at 66.0.
+
+For the thirteenth Ross order 251128 for product IMB5-44-5716, with Ross code SMF5716101005, involving a quantity of 5400.0 units, the achieved quantity was 240.0 units on June 17, 2025, with a planned total of 22.7648 units and actual totals of 8.5368 units. The sheets per hour were 50.0, with spm at 55.0 and c-wires at 66.0.
+
+On June 18, 2025, the fourteenth Ross order 250399 for product IMB4H-44-5024, with Ross code SMB4H50241010, involved a quantity of 3000.0 units. The achieved quantity was 380.0 units, with a planned total of 14.2278 units and actual totals of 23.5068 units. The sheets per hour were 80.4878, with spm at 55.0 and c-wires at 51.0.
+
+For the fifteenth Ross order 250399 for product IMB4H-44-5024, with Ross code SMB4H50241010, involving a quantity of 3000.0 units, the achieved quantity was 300.0 units on June 19, 2025, with a planned total of 25.9812 units and actual totals of 21.0324 units. The sheets per hour were 80.4878, with spm at 55.0 and c-wires at 51.0.
+
+On June 20, 2025, the sixteenth Ross order 250399 for product IMB4H-44-5024, with Ross code SMB4H50241010, involved a quantity of 3000.0 units. The achieved quantity was 380.0 units, with a planned total of 25.9812 units and actual totals of 23.5068 units. The sheets per hour were 80.4878, with spm at 55.0 and c-wires at 51.0.
+
+For the seventeenth Ross order 250399 for product IMB4H-44-5024, with Ross code SMB4H50241010, involving a quantity of 3000.0 units, the achieved quantity was 380.0 units on June 21, 2025, with a planned total of 19.7952 units and actual totals of 0.0 units. The sheets per hour were 80.4878, with spm at 55.0 and c-wires at 51.0.
+
+On June 22, 2025, the eighteenth Ross order 250399 for product IMB4H-44-5024, with Ross code SMB4H50241010, involved a quantity of 3000.0 units. The achieved quantity was 130.0 units, with a planned total of 0.0 units and actual totals of 4.0209 units. The sheets per hour were 80.4878, with spm at 55.0 and c-wires at 51.0.
+
+For the nineteenth Ross order 250356 for product IMB5-44-5716, with Ross code SMF5716101005, involving a quantity of 3260.0 units, the achieved quantity was 100.0 units on June 23, 2025, with a planned total of 1.4228 units and actual totals of 3.557 units. The sheets per hour were 50.0, with spm at 55.0 and c-wires at 66.0.
+
+ST2024 -Batch 2 involves the production of IMB5-44-5716, with the Ross code SMF5716101005. The total quantity is 3260.0 units. Production was recorded on June 24, 2025, with an achieved quantity of 320.0 units, matching the daily quantity of 320.0 units. The actual totals match the planned totals at 22.7648. The production rate is 50.0 sheets per hour, with spm at 55.0 and c-wires at 66.0.
+
+ST2024 -Batch 2 continues with the same product and Ross code on June 25, 2025. The achieved quantity remains at 320.0 units, aligning with the daily quantity of 320.0 units. The actual totals again match the planned totals at 22.7648. The production rate is consistent at 50.0 sheets per hour, with spm at 55.0 and c-wires at 66.0.
+
+ST2024 -Batch 2 shows a slight variation on June 26, 2025, where the achieved quantity drops to 280.0 units, while the daily quantity remains at 320.0 units. The actual totals are 21.342, slightly below the planned totals of 22.7648. The production rate is still 50.0 sheets per hour, with spm at 55.0 and c-wires at 66.0.
+
+ST2024 -Batch 2 has no production on June 27, 2025, with both achieved and daily quantities at 0.0 units. The actual totals are also 0.0, matching the planned totals of 0.0. The production rate is 50.0 sheets per hour, with spm at 55.0 and c-wires at 66.0.
+
+ST2024 -Batch 2 resumes on June 28, 2025, with the achieved quantity reaching 320.0 units, matching the daily quantity of 320.0 units. The actual totals are 22.7648, matching the planned totals. The production rate is 50.0 sheets per hour, with spm at 55.0 and c-wires at 66.0.
+
+ST2024 -Batch 2 continues on June 29, 2025, with the achieved quantity reaching 320.0 units, matching the daily quantity of 320.0 units. The actual totals are 22.7648, matching the planned totals. The production rate is 50.0 sheets per hour, with spm at 55.0 and c-wires at 66.0.
+
+ST2024 -Batch 2 sees a significant drop in production on June 30, 2025, with only 40.0 units produced. The achieved quantity is 110.0 units, while the daily quantity is 40.0 units. The actual totals are 3.9127, significantly below the planned totals of 1.4228. The production rate is 50.0 sheets per hour, with spm at 55.0 and c-wires at 66.0.
+
+ST2064 involves the production of IMB5-64-5113 JMOL (new), with the Ross code SMB5113515105S. The total quantity is 3696.0 units. Production was recorded on June 30, 2025, with an achieved quantity of 40.0 units, matching the daily quantity of 40.0 units. The actual totals are 0.888, matching the planned totals. The production rate is 85.71428571428572 sheets per hour, with spm at 50.0 and c-wires at 35.0.
+
+ST2064 continues on July 1, 2025, with the achieved quantity reaching 200.0 units, matching the daily quantity of 400.0 units. The actual totals are 12.432, below the planned totals of 17.76. The production rate is 85.71428571428572 sheets per hour, with spm at 50.0 and c-wires at 35.0.
+
+ST2064 continues on July 2, 2025, with the achieved quantity reaching 400.0 units, matching the daily quantity of 400.0 units. The actual totals are 7.992, below the planned totals of 8.88. The production rate is 85.71428571428572 sheets per hour, with spm at 50.0 and c-wires at 35.0.
+
+ST2064 continues on July 3, 2025, with the achieved quantity reaching 420.0 units, matching the daily quantity of 400.0 units. The actual totals are 18.648, above the planned totals of 17.76. The production rate is 85.71428571428572 sheets per hour, with spm at 50.0 and c-wires at 35.0.
+
+ST2064 continues on July 4, 2025, with the achieved quantity reaching 400.0 units, matching the daily quantity of 400.0 units. The actual totals are 18.204, above the planned totals of 18.204. The production rate is 85.71428571428572 sheets per hour, with spm at 50.0 and c-wires at 35.0.
+
+ST2064 continues on July 5, 2025, with the achieved quantity reaching 420.0 units, matching the daily quantity of 400.0 units. The actual totals are 18.648, above the planned totals of 18.648. The production rate is 85.71428571428572 sheets per hour, with spm at 50.0 and c-wires at 35.0.
+
+ST2064 continues on July 6, 2025, with the achieved quantity reaching 250.0 units, while the daily quantity is 300.0 units. The achieved quantity of 0.0 units matches the daily quantity of 0.0 units. The actual totals are 5.55, below the planned totals of 6.66. The production rate is 85.71428571428572 sheets per hour, with spm at 50.0 and c-wires at 35.0.
+
+ST2048 involves the production of IMB5-44-5014-JNA, with the Ross code CC5014101005. The total quantity is 1848.0 units. Production was recorded on July 7, 2025, with an achieved quantity of 80.0 units, matching the daily quantity of 0.0 units. The actual totals are 11.11, below the planned totals of 1.2625. The production rate is 80.4878048780488 sheets per hour, with spm at 55.0 and c-wires at 51.0.
+
+ST2048 continues on July 8, 2025, with the achieved quantity reaching 320.0 units, matching the daily quantity of 360.0 units. The actual totals are 17.675, below the planned totals of 18.18. The production rate is 80.4878048780488 sheets per hour, with spm at 55.0 and c-wires at 51.0.
+
+ST2048 continues on July 9, 2025, with the achieved quantity reaching 280.0 units, matching the daily quantity of 360.0 units. The actual totals are 7.07, below the planned totals of 9.09. The production rate is 80.4878048780488 sheets per hour, with spm at 55.0 and c-wires at 51.0.
+
+ST2048 continues on July 10, 2025, with the achieved quantity reaching 357.0 units, matching the daily quantity of 350.0 units. The actual totals are 9.01425, below the planned totals of 8.8375. The production rate is 80.4878048780488 sheets per hour, with spm at 55.0 and c-wires at 51.0.
+
+ST2019 involves the production of IMB5-46-5016-JNA, with the Ross code SMB5016151005S. The total quantity is 1200.0 units. Production was recorded on July 11, 2025, with an achieved quantity of 220.0 units, matching the daily quantity of 40.0 units. The actual totals are 15.2148, below the planned totals of 10.7976. The production rate is 80.4878048780488 sheets per hour, with spm at 55.0 and c-wires at 35.0.
+
+ST2019 continues on July 12, 2025, with the achieved quantity reaching 440.0 units, matching the daily quantity of 400.0 units. The actual totals are 14.4786, below the planned totals of 19.632. The production rate is 80.4878048780488 sheets per hour, with spm at 55.0 and c-wires at 35.0.
+
+ST2047 order 251084 for product IMB5-46-5016-JNA, with Ross code SMB5016151005S, involved a quantity of 1200 units. On July 12, 2025, 400 units were produced, falling short of the planned 9.816 kg per sheet. The actual total weight was 6.6258 kg. The sheets were processed at a rate of 80.49 per hour, with 55 spm and 35 c-wires. On July 13, 2025, production continued with 440 units achieved, surpassing the planned totals. The next day, July 14, saw another 440 units produced, with 60 additional units achieved.
+
+ST2071 order 251084 for product IMB45-66-5117-DEN, with Ross code SMB5118151505, involved a quantity of 2160 units. On July 15, 2025, 80 units were produced, with 400 units remaining. By July 16, 400 units were achieved, matching the planned totals. On July 17, another 400 units were achieved, maintaining the same totals. On July 18, only 90 units were produced, with 400 units remaining.
+
+ST2072 order 251337 for product IMB4-44-4814-CCC, with Ross code SMF4814101004, involved a quantity of 1440 units. On July 18, 2025, 40 units were produced, with 360 units remaining. By July 19, 400 units were achieved, matching the planned totals. On July 20, another 400 units were achieved, with 360 units remaining. On July 21, 100 units were produced, with 60 additional units achieved.
+
+ST2074 order 251084 for product IMB5-44-5414-JEN, with Ross code SMB5414101005C, involved a quantity of 2400 units. On July 22, 2025, 120 units were produced, with 360 units remaining. By July 23, 320 units were achieved, matching the planned totals. On July 24, another 360 units were achieved, maintaining the same totals. On July 25, 360 units were achieved, with 80 units remaining.
+
+ST2075 order 251330 for product IMB5-44-5716, with Ross code SMF5716101005, involved a quantity of 8100 units. On July 26, 2025, 320 units were produced, with 320 units remaining. By July 27, 360 units were achieved, with 320 units remaining. On July 28, another 320 units were achieved, maintaining the same totals. On July 29, 320 units were achieved, with 320 units remaining.
+
+ST2076 order 251330 for product IMB5-44-5716, with Ross code SMF5716101005, involved a quantity of 8100 units. On July 29, 2025, 320 units were produced, with 320 units remaining. By July 30, another 320 units were achieved, maintaining the same totals.
+
+ST2076 is associated with Ross Order 251330 and DMW Product IMB5-44-5716, with Ross Code SMF5716101005. The quantity is 8100.0 units, and the date is July 31, 2025. The achieved quantity is 320.0 units, and the planned totals are 22.7648. The sheets per hour are 50.0, and the specific machine performance metrics (spm) are 55.0, while the number of c-wires is 66.0.
+
+ST2076 continues with Ross Order 251330 and DMW Product IMB5-44-5716, Ross Code SMF5716101005, and a quantity of 8100.0 units. The date is August 1, 2025. The achieved quantity is 320.0 units, and the planned totals are 22.7648. The sheets per hour are 50.0, and the specific machine performance metrics (spm) are 55.0, while the number of c-wires is 66.0.
+
+ST2076 further includes Ross Order 251330 and DMW Product IMB5-44-5716, Ross Code SMF5716101005, with a quantity of 8100.0 units. The date is August 2, 2025. The achieved quantity is 320.0 units, and the planned totals are 22.7648. The sheets per hour are 50.0, and the specific machine performance metrics (spm) are 55.0, while the number of c-wires is 66.0.
+
+ST2077 is linked to Ross Order 251330 and DMW Product IMB5-44-5716, Ross Code SMF5716101005, with a quantity of 8100.0 units. The date is August 3, 2025. The achieved quantity is 320.0 units, and the planned totals are 11.3824. The sheets per hour are 50.0, and the specific machine performance metrics (spm) are 55.0, while the number of c-wires is 66.0.
+
+ST2077 continues with Ross Order 251330 and DMW Product IMB5-44-5716, Ross Code SMF5716101005, and a quantity of 8100.0 units. The date is August 4, 2025. The achieved quantity is 320.0 units, and the planned totals are 22.7648. The sheets per hour are 50.0, and the specific machine performance metrics (spm) are 55.0, while the number of c-wires is 66.0.
+
+ST2077 further includes Ross Order 251330 and DMW Product IMB5-44-5716, Ross Code SMF5716101005, with a quantity of 8100.0 units. The date is August 5, 2025. The achieved quantity is 320.0 units, and the planned totals are 22.7648. The sheets per hour are 50.0, and the specific machine performance metrics (spm) are 55.0, while the number of c-wires is 66.0.
+
+ST2077 continues with Ross Order 251330 and DMW Product IMB5-44-5716, Ross Code SMF5716101005, and a quantity of 8100.0 units. The date is August 6, 2025. The achieved quantity is 320.0 units, and the planned totals are 22.7648. The sheets per hour are 50.0, and the specific machine performance metrics (spm) are 55.0, while the number of c-wires is 66.0.
+
+ST2078 is connected to Ross Order 251330 and DMW Product IMB5-44-5716, Ross Code SMF5716101005, with a quantity of 8100.0 units. The date is August 7, 2025. The achieved quantity is 320.0 units, and the planned totals are 22.7648. The sheets per hour are 50.0, and the specific machine performance metrics (spm) are 55.0, while the number of c-wires is 66.0.
+
+ST2078 continues with Ross Order 251330 and DMW Product IMB5-44-5716, Ross Code SMF5716101005, and a quantity of 8100.0 units. The date is August 8, 2025. The achieved quantity is 320.0 units, and the planned totals are 22.7648. The sheets per hour are 50.0, and the specific machine performance metrics (spm) are 55.0, while the number of c-wires is 66.0.
+
+ST2078 further includes Ross Order 251330 and DMW Product IMB5-44-5716, Ross Code SMF5716101005, with a quantity of 8100.0 units. The date is August 9, 2025. The achieved quantity is 320.0 units, but the quantity day is only 100.0, with an achieved amount of 60.0 units, and the remaining quantity after is 0.0 units. The planned totals are 3.557, and the actual totals are 2.1342. The sheets per hour are 50.0, and the specific machine performance metrics (spm) are 55.0, while the number of c-wires is 66.0.
+
+ST2089 is related to Ross Order 252091 and DMW Product IMB4H-44-5024, Ross Code SMB4H50241010, with a quantity of 1200.0 units. The date is August 9, 2025. The achieved quantity is 420.0 units, and the quantity day is 420.0, with the same next day status marked as 'S'. The planned totals are 25.9812, and the actual totals are 3.4023. The sheets per hour are 80.4878, and the specific machine performance metrics (spm) are 55.0, while the number of c-wires is 51.0.
+
+ST2089 continues with Ross Order 252091 and DMW Product IMB4H-44-5024, Ross Code SMB4H50241010, and a quantity of 1200.0 units. The date is August 10, 2025. The achieved quantity is 420.0 units, and the quantity day is 360.0. The planned totals are 24.1254, and the actual totals are 25.9812. The sheets per hour are 80.4878, and the specific machine performance metrics (spm) are 55.0, while the number of c-wires is 51.0.
+
+ST2089 further includes Ross Order 252091 and DMW Product IMB4H-44-5024, Ross Code SMB4H50241010, with a quantity of 1200.0 units. The date is August 11, 2025. The achieved quantity is 250.0 units, and the quantity day is 250.0. The planned totals are 7.7325, and the actual totals are 7.7325. The sheets per hour are 80.4878, and the specific machine performance metrics (spm) are 55.0, while the number of c-wires is 51.0.
+
+ST2089 is also connected to Ross Order 252388 and DMW Product IMB4H-44-5024, Ross Code SMB4H50241010, with a quantity of 1800.0 units. The date is August 11, 2025. The achieved quantity is 170.0 units, and the quantity day is 150.0. The achieved amount is 420.0 units, and the quantity after is 420.0. The planned totals are 17.6301, and the actual totals are 18.2487. The sheets per hour are 80.4878, and the specific machine performance metrics (spm) are 55.0, while the number of c-wires is 51.0.
+
+ST2089 continues with Ross Order 252388 and DMW Product IMB4H-44-5024, Ross Code SMB4H50241010, and a quantity of 1800.0 units. The date is August 12, 2025. The achieved quantity is 420.0 units, and the quantity day is 420.0. The planned totals are 25.9812, and the actual totals are 25.9812. The sheets per hour are 80.4878, and the specific machine performance metrics (spm) are 55.0, while the number of c-wires is 51.0.
+
+ST2089 further includes Ross Order 252388 and DMW Product IMB4H-44-5024, Ross Code SMB4H50241010, with a quantity of 1800.0 units. The date is August 13, 2025. The achieved quantity is 420.0 units, but the quantity day is 390.0, with the remaining quantity after being 0.0 units. The planned totals are 12.0627, and the actual totals are 12.9906. The sheets per hour are 80.4878, and the specific machine performance metrics (spm) are 55.0, while the number of c-wires is 51.0.
+
+ST2100 is associated with Ross Order 252134 and DMW Product IMB5-44-4824, Ross Code CCP4824101005, with a quantity of 1000.0 units. The date is August 13, 2025. The achieved quantity is 0.0 units, and the quantity day is 0.0. The achieved amount is 200.0 units, and the quantity after is 200.0. The planned totals are 7.32, and the actual totals are 7.32. The sheets per hour are 80.4878, and the specific machine performance metrics (spm) are 55.0, while the number of c-wires is 49.0.
+
+ST2100 continues with Ross Order 252134 and DMW Product IMB5-44-4824, Ross Code CCP4824101005, and a quantity of 1000.0 units. The date is August 14, 2025. The achieved quantity is 440.0 units, and the quantity day is 400.0. The achieved amount is 420.0 units, and the quantity after is 400.0. The planned totals are 29.28, and the actual totals are 29.646. The sheets per hour are 80.4878, and the specific machine performance metrics (spm) are 55.0, while the number of c-wires is 49.0.
+
+The date is August 15, 2025, with no achieved quantity, and the quantity day is 0.0. The achieved amount is 200.0 units, and the quantity after is 200.0. The planned totals are 7.32, and the actual totals are 7.32. The sheets per hour are 80.4878, and the specific machine performance metrics (spm) are 55.0, while the number of c-wires is 49.0.
+
+The date is August 16, 2025, with no achieved quantity, and the quantity day is 0.0. The planned totals are 0.0, and the actual totals are 0.0. The sheets per hour are 50.0, and the specific machine performance metrics (spm) are 55.0, while the number of c-wires is 66.0.
+
+On August 17, 2025, no production activities were recorded for the week 34. The weight of the sheets was 35.57 kg, and the sheets per hour rate was 50.0. The specific wire count was 66.0.
+
+On August 18, 2025, similar to the previous day, no production activities were logged for the week 34. The weight of the sheets remained at 35.57 kg, and the sheets per hour rate was still 50.0. The specific wire count was 66.0.
+
+On August 19, 2025, no production activities were noted for the week 34. The weight of the sheets was 35.57 kg, and the sheets per hour rate was 50.0. The specific wire count was 66.0.
+
+On August 20, 2025, no production activities were recorded for the week 34. The weight of the sheets was 35.57 kg, and the sheets per hour rate was 50.0. The specific wire count was 66.0.
+
+On August 21, 2025, no production activities were logged for the week 34. The weight of the sheets was 35.57 kg, and the sheets per hour rate was 50.0. The specific wire count was 66.0.
+
+On August 22, 2025, no production activities were recorded for the week 34. The weight of the sheets was 35.57 kg, and the sheets per hour rate was 50.0. The specific wire count was 66.0.
+
+On August 23, 2025, the weight of the sheets dropped to 22.2 kg, and the sheets per hour rate increased to 85.71428571428572. The specific wire count was 35.0.
+
+On August 24, 2025, the week transitioned to 35. The weight of the sheets was 30.93 kg, and the sheets per hour rate was 80.4878048780488. The specific wire count was 51.0.
+
+On August 25, 2025, the week continued as 35. The weight of the sheets was 30.93 kg, and the sheets per hour rate was 80.4878048780488. The specific wire count was 51.0.
+
+On August 26, 2025, the week remained as 35. The weight of the sheets was 30.93 kg, and the sheets per hour rate was 80.4878048780488. The specific wire count was 51.0.
+
+On August 27, 2025, the week continued as 35. The weight of the sheets was 30.93 kg, and the sheets per hour rate was 80.4878048780488. The specific wire count was 51.0.
+
+On August 28, 2025, the week remained as 35. The weight of the sheets was 30.93 kg, and the sheets per hour rate was 80.4878048780488. The specific wire count was 51.0.
+
+On August 29, 2025, the week continued as 35. The weight of the sheets was 30.93 kg, and the sheets per hour rate was 80.4878048780488. The specific wire count was 51.0.
+
+On August 30, 2025, the week transitioned to 36. The weight of the sheets was 22.73 kg, and the sheets per hour rate was 57.89473684210526. The specific wire count was 57.0.
+
+On August 31, 2025, the week continued as 36. The weight of the sheets was 22.73 kg, and the sheets per hour rate was 57.89473684210526. The specific wire count was 57.0.
+
+On September 1, 2025, the week continued as 36. The weight of the sheets was 22.73 kg, and the sheets per hour rate was 57.89473684210526. The specific wire count was 57.0.
+
+On September 2, 2025, the week transitioned to 36. The comment was ST2099, and the Ross order was 251956. The DMW product was IMGX4H4-44-5614-JMA, and the Ross code was GXB5614101004G. The quantity was 2160.0. The sheets per hour rate was 57.89473684210526, and the specific wire count was 57.0. The planned totals were 0.9092, and the actual totals were 8.1828.
+
+On September 3, 2025, the week continued as 36. The comment was ST2099, and the Ross order was 251956. The DMW product was IMGX4H4-44-5614-JMA, and the Ross code was GXB5614101004G. The quantity was 2160.0. The sheets per hour rate was 57.89473684210526, and the specific wire count was 57.0. The planned totals were 12.7288, and the actual totals were 11.365.
+
+On September 4, 2025, the week continued as 36. The comment was ST2099, and the Ross order was 251956. The DMW product was IMGX4H4-44-5614-JMA, and the Ross code was GXB5614101004G. The quantity was 2160.0. The sheets per hour rate was 57.89473684210526, and the specific wire count was 57.0. The planned totals were 12.7288, and the actual totals were 10.2285.
+
+On September 5, 2025, the week continued as 36. The comment was ST2099, and the Ross order was 251956. The DMW product was IMGX4H4-44-5614-JMA, and the Ross code was GXB5614101004G. The quantity was 2160.0. The sheets per hour rate was 57.89473684210526, and the specific wire count was 57.0. The planned totals were 12.7288, and the actual totals were 0.0.
+
+On September 6, 2025, Ross Order 251956 processed the DMW product IMGX4H4-44-5614-JMA, with Ross Code GXB5614101004G. The quantity was 2160.0 units, with an achieved production of 250.0 units, leaving 160.0 units unprocessed. The day's production rate was 280.0 sheets, with a planned total of 10.0012 and an actual total of 11.365. The sheets per hour were recorded at 57.89473684210526, with spm at 55.0 and c-wires at 57.0.
+
+On September 7, 2025, Ross Order 251956 continued processing the same DMW product IMGX4H4-44-5614-JMA, with Ross Code GXB5614101004G. The quantity remained at 2160.0 units, with an achieved production of 200.0 units, leaving 160.0 units unprocessed. The day's production rate was 280.0 sheets, with a planned total of 6.3644 and an actual total of 4.546. The sheets per hour were recorded at 57.89473684210526, with spm at 55.0 and c-wires at 57.0.
+
+On September 8, 2025, Ross Order 251956 processed the DMW product IMGX4H4-44-5614-JMA, with Ross Code GXB5614101004G. The quantity was 2160.0 units, with an achieved production of 200.0 units, leaving 160.0 units unprocessed. The day's production rate was 280.0 sheets, with a planned total of 6.3644 and an actual total of 4.546. The sheets per hour were recorded at 57.89473684210526, with spm at 55.0 and c-wires at 57.0.
+
+On September 8, 2025, Ross Order 252378 started processing the DMW product IMGX4H4-44-5614-JMA, with Ross Code GXB5614101004G. The quantity was 2400.0 units, with no production the next day. The achieved production was 0.0 units, leaving 280.0 units unprocessed. The day's production rate was 280.0 sheets, with a planned total of 12.7288 and an actual total of 1.1365. The sheets per hour were recorded at 57.89473684210526, with spm at 55.0 and c-wires at 57.0.
+
+On September 9, 2025, Ross Order 252378 continued processing the DMW product IMGX4H4-44-5614-JMA, with Ross Code GXB5614101004G. The quantity was 2400.0 units, with an achieved production of 50.0 units, leaving 280.0 units unprocessed. The day's production rate was 280.0 sheets, with a planned total of 12.7288 and an actual total of 6.3644. The sheets per hour were recorded at 57.89473684210526, with spm at 55.0 and c-wires at 57.0.
+
+On September 10, 2025, Ross Order 252378 continued processing the DMW product IMGX4H4-44-5614-JMA, with Ross Code GXB5614101004G. The quantity was 2400.0 units, with an achieved production of 200.0 units, leaving 280.0 units unprocessed. The day's production rate was 280.0 sheets, with a planned total of 12.7288 and an actual total of 10.2285. The sheets per hour were recorded at 57.89473684210526, with spm at 55.0 and c-wires at 57.0.
+
+On September 11, 2025, Ross Order 252378 continued processing the DMW product IMGX4H4-44-5614-JMA, with Ross Code GXB5614101004G. The quantity was 2400.0 units, with an achieved production of 250.0 units, leaving 300.0 units unprocessed. The day's production rate was 300.0 sheets, with a planned total of 13.1834 and an actual total of 11.365. The sheets per hour were recorded at 57.89473684210526, with spm at 55.0 and c-wires at 57.0.
+
+On September 12, 2025, Ross Order 252378 continued processing the DMW product IMGX4H4-44-5614-JMA, with Ross Code GXB5614101004G. The quantity was 2400.0 units, with an achieved production of 300.0 units, leaving 300.0 units unprocessed. The day's production rate was 300.0 sheets, with a planned total of 13.638 and an actual total of 13.638. The sheets per hour were recorded at 57.89473684210526, with spm at 55.0 and c-wires at 57.0.
+
+On September 13, 2025, Ross Order 252378 had no production for the day, with a planned total of 0.0 and an actual total of 0.0. The sheets per hour were recorded at 57.89473684210526, with spm at 55.0 and c-wires at 57.0.
+
+On September 14, 2025, Ross Order 252378 had no production for the day, with a planned total of 0.0 and an actual total of 0.0. The sheets per hour were recorded at 57.89473684210526, with spm at 55.0 and c-wires at 57.0.
+
+On September 15, 2025, Ross Order 252378 had no production for the day, with a planned total of 0.0 and an actual total of 0.0. The sheets per hour were recorded at 57.89473684210526, with spm at 55.0 and c-wires at 57.0.
+
+On September 16, 2025, Ross Order 252378 had no production for the day, with a planned total of 0.0 and an actual total of 0.0. The sheets per hour were recorded at 57.89473684210526, with spm at 55.0 and c-wires at 57.0.
+
+On September 17, 2025, Ross Order 252378 processed the DMW product IMGX4H4-44-5614-JMA, with Ross Code GXB5614101004G. The quantity was 2400.0 units, with an achieved production of 250.0 units, leaving 220.0 units unprocessed. The day's production rate was 300.0 sheets, with a planned total of 11.8196 and an actual total of 9.092. The sheets per hour were recorded at 57.89473684210526, with spm at 55.0 and c-wires at 57.0.
+
+On September 18, 2025, Ross Order 252378 processed the DMW product IMGX4H4-44-5614-JMA, with Ross Code GXB5614101004G. The quantity was 2400.0 units, with an achieved production of 140.0 units, leaving 0.0 units unprocessed. The day's production rate was 120.0 sheets, with a planned total of 2.7276 and an actual total of 3.1822. The sheets per hour were recorded at 57.89473684210526, with spm at 55.0 and c-wires at 57.0.
+
+On September 19, 2025, Ross Order 251956 processed the DMW product IMGX4H4-46-5017-JAS, with Ross Code GXB501710154G. The quantity was 960.0 units, with an achieved production of 0.0 units, leaving 320.0 units unprocessed. The day's production rate was 40.0 sheets, with a planned total of 7.0992 and an actual total of 1.972. The sheets per hour were recorded at 94.28571428571428, with spm at 55.0 and c-wires at 35.0.
+
+On September 20, 2025, Ross Order 251956 continued processing the DMW product IMGX4H4-46-5017-JAS, with Ross Code GXB501710154G. The quantity was 960.0 units, with an achieved production of 300.0 units, leaving 320.0 units unprocessed. The day's production rate was 320.0 sheets, with a planned total of 12.6208 and an actual total of 6.5076. The sheets per hour were recorded at 94.28571428571428, with spm at 55.0 and c-wires at 35.0.
+
+On September 21, 2025, Ross Order 251956 had no production for the day, with a planned total of 0.0 and an actual total of 0.0. The sheets per hour were recorded at 94.28571428571428, with spm at 55.0 and c-wires at 35.0.
+
+On September 22, 2025, Ross Order 251956 processed the DMW product IMGX4H4-46-5017-JAS, with Ross Code GXB501710154G. The quantity was 960.0 units, with an achieved production of 0.0 units, leaving 210.0 units unprocessed. The day's production rate was 320.0 sheets, with a planned total of 10.4516 and an actual total of 0.986. The sheets per hour were recorded at 94.28571428571428, with spm at 55.0 and c-wires at 35.0.
+
+On September 23, 2025, Ross Order 251956 processed the DMW product IMGX4H4-46-5017-JAS, with Ross Code GXB501710154G. The quantity was 960.0 units, with an achieved production of 0.0 units, leaving 320.0 units unprocessed. The day's production rate was 0.0 sheets, with a planned total of 6.3104 and an actual total of 3.944. The sheets per hour were recorded at 94.28571428571428, with spm at 55.0 and c-wires at 35.0.
+
+On September 24, 2025, Ross Order 251956 processed the DMW product IMGX4H4-46-5017-JAS, with Ross Code GXB501710154G. The quantity was 960.0 units, with an achieved production of 200.0 units, leaving 0.0 units unprocessed. The day's production rate was 280.0 sheets, with a planned total of 5.5216 and an actual total of 5.916. The sheets per hour were recorded at 94.28571428571428, with spm at 55.0 and c-wires at 35.0.
+
+Ross order 252348 for product IMGX4H4-44-4811-JUL started on September 25, 2025, with an initial quantity of 2000. The first day's production was 80 sheets per hour, achieving 80 kg of material. By September 26, 2025, the production had increased to 320 sheets, with an achieved weight of 250 kg, reaching 320 kg after the day. On September 27, 2025, the production was 320 sheets, achieving 220 kg, with 320 kg remaining after the day. On September 28, 2025, no production occurred. On September 29, 2025, the production resumed with 320 sheets, achieving 230 kg, with 320 kg remaining after the day. On September 30, 2025, the production was 320 sheets, achieving 220 kg, but only 20 kg remained after the day.
+
+Ross order 252742 for product IMGX44H-44-5012-VGUW began on October 1, 2025, with an initial quantity of 3000. On October 2, 2025, the production was 320 sheets, achieving 320 kg, with 320 kg remaining after the day. On October 3, 2025, no production occurred. On October 4, 2025, no production occurred. On October 5, 2025, the production was 320 sheets, achieving 320 kg, with 320 kg remaining after the day. On October 6, 2025, the production was 320 sheets, achieving 320 kg, with 320 kg remaining after the day. On October 7, 2025, the production was 320 sheets, achieving 320 kg, with 320 kg remaining after the day. On October 8, 2025, the production was 20 sheets, achieving 100 kg, with 0 kg remaining after the day.
+
+Ross order 252563 for product IMGX4H4-46-5012-JKE started on October 8, 2025, with an initial quantity of 50. On October 8, 2025, the production was 50 sheets, achieving 0 kg, with 0 kg remaining after the day. The achieved weight was 80 kg, with 0 kg remaining after the day.
+
+Ross order 251786 for product IMB5-44-5014-JNA began on October 9, 2025, with an initial quantity of 1584. On October 9, 2025, the production was 360 sheets, achieving 360 kg, with 40 kg remaining after the day. On October 10, 2025, the production was 360 sheets, achieving 360 kg, with 360 kg remaining after the day. On October 11, 2025, the production was 360 sheets, achieving 0 kg, with 360 kg remaining after the day. On October 12, 2025, the production was 100 sheets, achieving 0 kg, with 0 kg remaining after the day.
+
+Ross order 252349 for product IMGX44H-44-5012-JOA started on October 13, 2025, with an initial quantity of 3200. On October 13, 2025, no production occurred, with 40 kg remaining after the day. The achieved weight was 150 kg, with 150 kg remaining after the day.
+
+On October 14, 2025, Ross Order 252349 for DMW Product IMGX44H-44-5012-JOA, with Ross Code GXB50121010VGOC, involved a quantity of 3200 units. The day's production achieved 250 units, with a total of 320 units produced after adjustments. The production rate was 80.49 sheets per hour, and the actual totals were 7.843 kg. The planned totals were 9.1264 kg.
+
+On October 15, 2025, Ross Order 252349 for DMW Product IMGX44H-44-5012-JOA, with Ross Code GXB50121010VGOC, involved a quantity of 3200 units. The day's production achieved only 40 units, with a total of 320 units produced after adjustments. The production rate was 80.49 sheets per hour, and the actual totals were 4.278 kg. The planned totals were 9.1264 kg.
+
+On October 16, 2025, Ross Order 252349 for DMW Product IMGX44H-44-5012-JOA, with Ross Code GXB50121010VGOC, involved a quantity of 3200 units. The day's production achieved 250 units, with a total of 320 units produced after adjustments. The production rate was 80.49 sheets per hour, and the actual totals were 7.558 kg. The planned totals were 9.1264 kg.
+
+On October 17, 2025, Ross Order 252349 for DMW Product IMGX44H-44-5012-JOA, with Ross Code GXB50121010VGOC, involved a quantity of 3200 units. The day's production achieved 280 units, with a total of 0 units produced after adjustments. The production rate was 80.49 sheets per hour, and the actual totals were 3.993 kg. The planned totals were 4.5632 kg.
+
+On October 18, 2025, Ross Order 252349 for DMW Product IMGX44H-44-5012-JOA, with Ross Code GXB50121010VGOC, involved a quantity of 3200 units. The day's production achieved 280 units, with a total of 0 units produced after adjustments. The production rate was 80.49 sheets per hour, and the actual totals were 3.993 kg. The planned totals were 4.5632 kg.
+
+On October 19, 2025, Ross Order 252349 for DMW Product IMGX44H-44-5012-JOA, with Ross Code GXB50121010VGOC, involved a quantity of 3200 units. The day's production achieved 280 units, with a total of 0 units produced after adjustments. The production rate was 80.49 sheets per hour, and the actual totals were 3.993 kg. The planned totals were 4.5632 kg.
+
+On October 20, 2025, Ross Order 252349 for DMW Product IMGX44H-44-5012-JOA, with Ross Code GXB50121010VGOC, involved a quantity of 3200 units. No production occurred on this day, with a total of 0 units produced after adjustments. The production rate was 80.49 sheets per hour, and the actual totals were 0 kg. The planned totals were 0 kg.
+
+On October 21, 2025, Ross Order 252349 for DMW Product IMGX44H-44-5012-JOA, with Ross Code GXB50121010VGOC, involved a quantity of 3200 units. No production occurred on this day, with a total of 280 units produced after adjustments. The production rate was 80.49 sheets per hour, and the actual totals were 3.993 kg. The planned totals were 3.993 kg.
+
+On October 22, 2025, Ross Order 252349 for DMW Product IMGX44H-44-5012-JOA, with Ross Code GXB50121010VGOC, involved a quantity of 3200 units. The day's production achieved 280 units, with a total of 70 units produced after adjustments. The production rate was 80.49 sheets per hour, and the actual totals were 5.276 kg. The planned totals were 4.991 kg.
+
+On October 23, 2025, Ross Order 252809 for DMW Product IMB4H-44-5024, with Ross Code SMB4H50241010, involved a quantity of 1800 units. No production occurred on this day, with a total of 40 units produced after adjustments. The production rate was 64.71 sheets per hour, and the actual totals were 10.826 kg. The planned totals were 1.237 kg.
+
+On October 24, 2025, Ross Order 252809 for DMW Product IMB4H-44-5024, with Ross Code SMB4H50241010, involved a quantity of 1800 units. The day's production achieved 420 units, with a total of 420 units produced after adjustments. The production rate was 64.71 sheets per hour, and the actual totals were 25.981 kg. The planned totals were 24.744 kg.
+
+On October 25, 2025, Ross Order 252809 for DMW Product IMB4H-44-5024, with Ross Code SMB4H50241010, involved a quantity of 1800 units. The day's production achieved 420 units, with a total of 0 units produced after adjustments. The production rate was 64.71 sheets per hour, and the actual totals were 15.465 kg. The planned totals were 12.372 kg.
+
+On October 26, 2025, no production occurred, with a total of 0 units produced after adjustments. The production rate was 64.71 sheets per hour, and the actual totals were 0 kg. The planned totals were 0 kg.
+
+On October 27, 2025, Ross Order 252742 for DMW Product IMGX44H-44-5012-VGUW, with Ross Code GXB50121010VGUW, involved a quantity of 3000 units. The day's production achieved 40 units, with a total of 0 units produced after adjustments. The production rate was 80.49 sheets per hour, and the actual totals were 0 kg. The planned totals were 0.6312 kg.
+
+On October 28, 2025, Ross Order 252742 for DMW Product IMGX44H-44-5012-VGUW, with Ross Code GXB50121010VGUW, involved a quantity of 3000 units. The day's production achieved 150 units, with a total of 320 units produced after adjustments. The production rate was 80.49 sheets per hour, and the actual totals were 2.367 kg. The planned totals were 10.099 kg.
+
+On October 29, 2025, Ross Order 252742 for DMW Product IMGX44H-44-5012-VGUW, with Ross Code GXB50121010VGUW, involved a quantity of 3000 units. The day's production achieved 280 units, with a total of 320 units produced after adjustments. The production rate was 80.49 sheets per hour, and the actual totals were 7.89 kg. The planned totals were 10.099 kg.
+
+On October 30, 2025, Ross Order 252742 for DMW Product IMGX44H-44-5012-VGUW, with Ross Code GXB50121010VGUW, involved a quantity of 3000 units. The day's production achieved 280 units, with a total of 320 units produced after adjustments. The production rate was 80.49 sheets per hour, and the actual totals were 7.89 kg. The planned totals were 10.099 kg.
+
+On October 31, 2025, Ross Order 252742 for DMW Product IMGX44H-44-5012-VGUW, with Ross Code GXB50121010VGUW, involved a quantity of 3000 units. No production occurred on this day, with a total of 0 units produced after adjustments. The production rate was 80.49 sheets per hour, and the actual totals were 0 kg. The planned totals were 0 kg.
+
+On November 1, 2025, no production occurred, with a total of 0 units produced after adjustments. The production rate was 80.49 sheets per hour, and the actual totals were 0 kg. The planned totals were 0 kg.
+
+On November 2, 2025, no production occurred, with a total of 0 units produced after adjustments. The production rate was 100 sheets per hour, and the actual totals were 0 kg. The planned totals were 0 kg. The location was reported by a facility with a capacity of 33 wires.
+
+ST2147 order 252742 involves the production of IMGX44H-44-5012-VGUW with Ross code GXB50121010VGUW. The total quantity is 3000 units, with production continuing across multiple days. On November 3, 2025, 300 sheets were produced, achieving 280 sheets, with the actual production rate being 80.4878 sheets per hour. The planned totals were 9.468, while the actual totals were 8.837. The same process repeated on November 4, 2025, with 300 sheets produced, achieving 280 sheets, maintaining the same production rate and totals.
+
+On November 5, 2025, the production continued with 280 sheets produced, achieving 280 sheets, with the same production rate and totals. However, on November 6, 2025, only 45 sheets were produced, achieving 180 sheets, with no additional sheets produced after that day.
+
+ST2164 order 252562 concerns the production of IMB4-44-4814-CCC with Ross code SMF4814101004. A total of 1440 units were scheduled, with production starting on November 6, 2025. On November 7, 2025, 380 sheets were produced, achieving 250 sheets, with an actual production rate of 67.347 sheets per hour. The planned totals were 10.9364, while the actual totals were 9.6413.
+
+On November 8, 2025, no production was recorded, and similar activity was observed on November 9, 2025. Order 252562 resumed on November 10, 2025, with 380 sheets produced, achieving 360 sheets, with the same production rate and totals.
+
+ST2143 order 253296 involves the production of IMGX45-44-4812 with Ross code GXB48121010VGDE. A total of 50 units were scheduled, with production starting on November 11, 2025. No production was recorded on November 11 and 12, 2025, with the same production rate and totals.
+
+ST2159 order 253128 pertains to the production of IMGX4H4-44-5614-JMA with Ross code GXB5614101004G. A total of 2160 units were scheduled, with production starting on November 13, 2025. On November 14, 2025, 280 sheets were produced, achieving 200 sheets, with an actual production rate of 57.895 sheets per hour. The planned totals were 6.3644, while the actual totals were 4.546.
+
+On November 15, 2025, 280 sheets were produced, achieving 150 sheets, with the same production rate and totals. No production was recorded on November 16 through November 21, 2025, with the same production rate and totals.
+
+On November 22, 2025, the production facility recorded 22.73 kilograms of sheet material processed with no planned or actual totals reported. The facility produced at a rate of 57.89473684210526 sheets per hour and had 55 spm (standard parts manufactured).
+
+On November 23, 2025, similar conditions prevailed with 22.73 kilograms of sheet material processed again showing no planned or actual totals. The production rate was consistent at 57.89473684210526 sheets per hour and maintained 55 spm.
+
+For ST2143, Ross order 253296, involving DMW product IMGX45-44-4812 with Ross code GXB48121010VGDE, a quantity of 50.0 was ordered. On November 24, 2025, 18.07 kilograms of sheet material were processed with planned totals at 0.9035. The production rate was 67.34693877551021 sheets per hour and maintained 55 spm.
+
+On November 25, 2025, the same order continued with 18.07 kilograms of sheet material processed, showing no planned totals but achieving 50.0 with an actual total of 0.9035. The production rate remained at 67.34693877551021 sheets per hour and maintained 55 spm.
+
+On November 26, 2025, the order reached 50.0 achieved with 18.07 kilograms of sheet material processed, with an actual total of 0.9035. The production rate was 67.34693877551021 sheets per hour and maintained 55 spm.
+
+On November 27, 2025, the order completed with 50.0 achieved, 18.07 kilograms of sheet material processed, and an actual total of 0.9035. The production rate was 67.34693877551021 sheets per hour and maintained 55 spm.
+
+For ST2159, Ross order 253128, involving DMW product IMGX45-44-5614 JMA with Ross code GXB5614101004G, a quantity of 2160.0 was ordered. On November 28, 2025, 40.0 kilograms of sheet material were processed, with 280.0 remaining after processing. Planned totals were at 7.7504, and the production rate was 57.89473684210526 sheets per hour with 55 spm.
+
+On November 29, 2025, 280.0 kilograms of sheet material were processed, with 280.0 remaining after processing. Planned totals increased to 13.563199999999998, and the production rate remained at 57.89473684210526 sheets per hour with 55 spm.
+
+On November 30, 2025, no sheet material was processed, with 24.22 kilograms recorded. No planned or actual totals were reported, and the production rate was 57.89473684210526 sheets per hour with 55 spm.
+
+For ST2168, Ross order 253626, involving DMW product IMGX44H-44-5012-JOA with Ross code GXB50121010VGOC, a quantity of 3200.0 was ordered. On December 1, 2025, 40.0 kilograms of sheet material were processed, with 40.0 achieved and 280.0 remaining after processing. Planned totals were at 0.5704, and the production rate was 80.4878048780488 sheets per hour with 55 spm.
+
+On December 2, 2025, 280.0 kilograms of sheet material were processed, with 280.0 achieved and 280.0 remaining after processing. Planned totals increased to 7.9856, and the production rate remained at 80.4878048780488 sheets per hour with 55 spm.
+
+On December 3, 2025, 280.0 kilograms of sheet material were processed, with 270.0 achieved and 280.0 remaining after processing. Planned totals were at 7.9856, and the production rate was 80.4878048780488 sheets per hour with 55 spm.
+
+On December 4, 2025, 280.0 kilograms of sheet material were processed, with 280.0 achieved and 280.0 remaining after processing. Planned totals were at 7.9856, and the production rate was 80.4878048780488 sheets per hour with 55 spm.
+
+On December 5, 2025, 280.0 kilograms of sheet material were processed, with 230.0 achieved and 0.0 remaining after processing. Planned totals were at 3.9928, and the production rate was 80.4878048780488 sheets per hour with 55 spm.
+
+On December 6, 2025, no sheet material was processed, with 14.26 kilograms recorded. No planned or actual totals were reported, and the production rate was 80.4878048780488 sheets per hour with 55 spm.
+
+On December 7, 2025, no sheet material was processed, with 14.26 kilograms recorded. No planned or actual totals were reported, and the production rate was 80.4878048780488 sheets per hour with 55 spm.
+
+On December 8, 2025, 280.0 kilograms of sheet material were processed, with 280.0 achieved and 280.0 remaining after processing. Planned totals were at 7.9856, and the production rate was 80.4878048780488 sheets per hour with 55 spm.
+
+On December 9, 2025, 280.0 kilograms of sheet material were processed, with 280.0 achieved and 280.0 remaining after processing. Planned totals were at 7.9856, and the production rate was 80.4878048780488 sheets per hour with 55 spm.
+
+On December 10, 2025, 140.0 kilograms of sheet material were processed, with 151.0 achieved and 0.0 remaining after processing. Planned totals were at 1.9964, and the production rate was 80.4878048780488 sheets per hour with 55 spm.
+
+For ST2159, Ross order 253128, involving DMW product IMGX45-44-5614 JMA with Ross code GXB5614101004G, a quantity of 2160.0 was ordered. On December 11, 2025, no sheet material was processed, with 24.22 kilograms recorded. No planned or actual totals were reported, and the production rate was 57.89473684210526 sheets per hour with 55 spm.
+
+On December 12, 2025, Ross Order 253128 was processed for DMW Product IMGX45-44-5614 JMA, with Ross Code GXB5614101004G. The quantity ordered was 2160 units, and no same-day order was placed. The sheet weight was 24.22 kg, and the sheets per hour were 57.89. The actual totals were zero, while the planned totals were 0.9688.
+
+On December 13, 2025, Ross Order 253128 continued with no same-day order. The sheet weight remained at 24.22 kg, and the sheets per hour were still 57.89. The actual totals were zero, matching the planned totals of zero.
+
+On December 14, 2025, Ross Order 253128 proceeded with no same-day order. The sheet weight was 24.22 kg, and the sheets per hour were 57.89. The actual totals were zero, aligning with the planned totals of zero.
+
+On December 15, 2025, Ross Order 253128 was processed for DMW Product IMGX45-44-5614 JMA, with Ross Code GXB5614101004G. The quantity ordered was 2160 units, and no same-day order was placed. The quantity achieved was 160 units, with 280 units remaining. The sheet weight was 24.22 kg, and the sheets per hour were 57.89. The actual totals were 9.9302, while the planned totals were 13.5632.
+
+On December 16, 2025, Ross Order 253128 continued for DMW Product IMGX45-44-5614 JMA, with Ross Code GXB5614101004G. The quantity ordered was 2161 units, and no same-day order was placed. The quantity achieved was 250 units, with 280 units remaining. The sheet weight was 24.22 kg, and the sheets per hour were 57.89. The actual totals were 12.11, while the planned totals were 13.5632.
+
+On December 17, 2025, Ross Order 253128 was processed for DMW Product IMGX45-44-5614 JMA, with Ross Code GXB5614101004G. The quantity ordered was 2160 units, and no same-day order was placed. The quantity achieved was 200 units, with 250 units remaining. The sheet weight was 24.22 kg, and the sheets per hour were 57.89. The actual totals were 10.899, while the planned totals were 12.11.
+
+On December 18, 2025, Ross Order 253128 was processed for DMW Product IMGX45-44-5614 JMA, with Ross Code GXB5614101004G. The quantity ordered was 2160 units, and no same-day order was placed. The quantity achieved was 220 units, with 155 units remaining. The sheet weight was 24.22 kg, and the sheets per hour were 57.89. The actual totals were 5.3284, while the planned totals were 3.7542.
+
+On December 19, 2025, Ross Order 253631 was processed for DMW Product IMGX4H4-44-4811-JUL, with Ross Code GXB48111010VGU3. The quantity ordered was 1200 units, and no same-day order was placed. The quantity achieved was 51 units, with 300 units remaining. The sheet weight was 14.98 kg, and the sheets per hour were 80.49. The actual totals were 2.262, while the planned totals were 5.0932.
+
+On December 20, 2025, Ross Order 253631 continued for DMW Product IMGX4H4-44-4811-JUL, with Ross Code GXB48111010VGU3. The quantity ordered was 1200 units, and no same-day order was placed. The quantity achieved was 38 units, with 300 units remaining. The sheet weight was 14.98 kg, and the sheets per hour were 80.49. The actual totals were 0.5692, while the planned totals were 8.988.
+
+On December 20, 2025, Ross Order 253629 was processed for DMW Product IMB5-44-5014-JNA, with Ross Code CC5014101005. The quantity ordered was 1188 units, and a same-day order was scheduled. The quantity achieved was 31 units, with 170 units remaining. The sheet weight was 25.25 kg, and the sheets per hour were 80.49. The actual totals were 0.78275, while the planned totals were 1.01.
+
+On December 21, 2025, Ross Order 253629 continued for DMW Product IMB5-44-5014-JNA, with Ross Code CC5014101005. The quantity ordered was 1188 units, and no same-day order was placed. The quantity achieved was 320 units, with 320 units remaining. The sheet weight was 25.25 kg, and the sheets per hour were 80.49. The actual totals were 8.08, while the planned totals were 8.08.
+
+On December 22, 2025, Ross Order 253629 continued for DMW Product IMB5-44-5014-JNA, with Ross Code CC5014101005. The quantity ordered was 1188 units, and no same-day order was placed. The quantity achieved was 160 units, with 320 units remaining. The sheet weight was 25.25 kg, and the sheets per hour were 80.49. The actual totals were 9.09, while the planned totals were 16.16.
+
+On December 23, 2025, Ross Order 253629 continued for DMW Product IMB5-44-5014-JNA, with Ross Code CC5014101005. The quantity ordered was 1188 units, and no same-day order was placed. The quantity achieved was 350 units, with 130 units remaining. The sheet weight was 25.25 kg, and the sheets per hour were 80.49. The actual totals were 12.04425, while the planned totals were 11.3625.
+
+On December 24, 2025, Ross Order 253629 continued for DMW Product IMB5-44-5014-JNA, with Ross Code CC5014101005. The quantity ordered was 1188 units, and no same-day order was placed. The quantity achieved was 173 units, with 170 units remaining. The sheet weight was 25.25 kg, and the sheets per hour were 80.49. The actual totals were 4.36825, while the planned totals were 4.2925.
+
+On December 24, 2025, Ross Order 254068-Narrabri was processed for DMW Product IMB5-44-5014-JNA, with Ross Code CC5014101005. The quantity ordered was 1188 units, and a same-day order was scheduled. The quantity achieved was 173 units, with 170 units remaining. The sheet weight was 25.25 kg, and the sheets per hour were 80.49. The actual totals were 4.36825, while the planned totals were 4.2925.
+
+On December 25, 2025, Ross Order 254068-Narrabri continued for DMW Product IMB5-44-5014-JNA, with Ross Code CC5014101005. The quantity ordered was 1188 units, and no same-day order was placed. The quantity achieved was 0 units, with 0 units remaining. The sheet weight was 25.25 kg, and the sheets per hour were 80.49. The actual totals were 0, while the planned totals were 0.
+
+On December 26, 2025, Ross Order 254068-Narrabri continued for DMW Product IMB5-44-5014-JNA, with Ross Code CC5014101005. The quantity ordered was 1188 units, and no same-day order was placed. The quantity achieved was 320 units, with 350 units remaining. The sheet weight was 25.25 kg, and the sheets per hour were 80.49. The actual totals were 14.645, while the planned totals were 16.9175.
+
+On December 27, 2025, Ross Order 254068-Narrabri continued for DMW Product IMB5-44-5014-JNA, with Ross Code CC5014101005. The quantity ordered was 1188 units, and no same-day order was placed. The quantity achieved was 205 units, with 320 units remaining. The sheet weight was 25.25 kg, and the sheets per hour were 80.49. The actual totals were 5.17625, while the planned totals were 8.08.
+
+On December 28, 2025, no same-day order was placed. The quantity achieved was 260 units, with 230 units remaining. The sheet weight was 24.22 kg, and the sheets per hour were 57.89. The actual totals were 6.2972, while the planned totals were 5.5706.
+
+On December 29, 2025, Ross Order 253631 continued for DMW Product IMGX4H4-44-4811-JUL, with Ross Code GXB48111010VGU3. The quantity ordered was 1200 units, and no same-day order was placed. The quantity achieved was 20 units, with 40 units remaining. The sheet weight was 14.98 kg, and the sheets per hour were 80.49. The actual totals were 0.2996, while the planned totals were 0.2996.
+
+On December 30, 2025, the order ST2169 was processed with a quantity of 1200 sheets. The dmw_product is IMGX4H4-44-4811-JUL, and the ross_code is GXB48111010VGU3. The production achieved 200 sheets, with 300 sheets remaining after the day. The kg_sht is 14.98, and the sheets per hour is 80.488. The planned totals are 8.988, while the actual totals are 7.49. The spm is 55, and the c_wires count is 49.
+
+On December 31, 2025, the order ST2169 continued with a quantity of 1200 sheets. The production achieved 300 sheets, with 260 sheets remaining after the day. The kg_sht is 14.98, and the sheets per hour is 80.488. The planned totals are 8.3888, while the actual totals are 8.988. The spm is 55, and the c_wires count is 49.
+
+On January 1, 2026, the order ST2169 started with a quantity of 1200 sheets. No production occurred on this day, with all quantities and achievements set to zero. The kg_sht is 14.98, and the sheets per hour is 80.488. The spm is 55, and the c_wires count is 49.
+
+On January 2, 2026, the order ST2169 continued with a quantity of 1200 sheets. The production achieved 90 sheets, with 100 sheets remaining after the day. The kg_sht is 14.98, and the sheets per hour is 80.488. The planned totals are 1.498, while the actual totals are 1.3482. The spm is 55, and the c_wires count is 49.
+
+On January 3, 2026, no production occurred, with all quantities and achievements set to zero. The kg_sht is 35.57, and the sheets per hour is 80.488. The spm is 55, and the c_wires count is 66.
+
+On January 4, 2026, no production occurred, with all quantities and achievements set to zero. The kg_sht is 35.57, and the sheets per hour is 80.488. The spm is 55, and the c_wires count is 66.
+
+On January 5, 2026, the order ST2208 was processed with a quantity of 1080 sheets. The dmw_product is IMB5-44-5716, and the ross_code is SMF5716101005. The production achieved 80 sheets, with 300 sheets remaining after the day. The kg_sht is 35.57, and the sheets per hour is 80.488. The planned totals are 10.671, while the actual totals are 13.5166. The spm is 55, and the c_wires count is 66.
+
+On January 6, 2026, the order ST2208 continued with a quantity of 1080 sheets. The production achieved 300 sheets, with 300 sheets remaining after the day. The kg_sht is 35.57, and the sheets per hour is 80.488. The planned totals are 21.342, while the actual totals are 21.342. The spm is 55, and the c_wires count is 66.
+
+On January 7, 2026, the order ST2208 continued with a quantity of 1080 sheets. The production achieved 101 sheets, with 0 sheets remaining after the day. The kg_sht is 35.57, and the sheets per hour is 80.488. The planned totals are 3.557, while the actual totals are 3.59257. The spm is 55, and the c_wires count is 66.
+
+On January 8, 2026, the order 254592 was processed with a quantity of 1584 sheets. The dmw_product is IMB5-46-5016-JNA, and the ross_code is SMB5016151005S. The production achieved 60 sheets, with 420 sheets remaining after the day. The kg_sht is 24.54, and the sheets per hour is 80.488. The planned totals are 11.2884, while the actual totals are 11.7792. The spm is 55, and the c_wires count is 35.
+
+On January 9, 2026, the order 254592 continued with a quantity of 1584 sheets. The production achieved 360 sheets, with 420 sheets remaining after the day. The kg_sht is 24.54, and the sheets per hour is 80.488. The planned totals are 20.6136, while the actual totals are 8.8344. The spm is 55, and the c_wires count is 35.
+
+On January 10, 2026, no production occurred, with all quantities and achievements set to zero. The kg_sht is 24.54, and the sheets per hour is 80.488. The spm is 55, and the c_wires count is 35.
+
+On January 11, 2026, no production occurred, with all quantities and achievements set to zero. The kg_sht is 24.54, and the sheets per hour is 80.488. The spm is 55, and the c_wires count is 35.
+
+On January 12, 2026, the order 254592 continued with a quantity of 1584 sheets. The production achieved 400 sheets, with 290 sheets remaining after the day. The kg_sht is 24.54, and the sheets per hour is 80.488. The planned totals are 17.4234, while the actual totals are 18.405. The spm is 55, and the c_wires count is 35.
+
+On January 13, 2026, the order 254979 - OAKEY was processed with a quantity of 960 sheets. The dmw_product is IMGX44H-44-5012-JOA, and the ross_code is GXB50121010VGOC. The production achieved 0 sheets, with 40 sheets remaining after the day. The kg_sht is 14.26, and the sheets per hour is 80.488. The planned totals are 0.5704, while the actual totals are 0.5704. The spm is 55, and the c_wires count is 51.
+
+On January 14, 2026, the order 254979 - OAKEY continued with a quantity of 960 sheets. The production achieved 80 sheets, with 280 sheets remaining after the day. The kg_sht is 14.26, and the sheets per hour is 80.488. The planned totals are 7.9856, while the actual totals are 5.1336. The spm is 55, and the c_wires count is 51.
+
+On January 15, 2026, the order 254979 - OAKEY continued with a quantity of 960 sheets. The production achieved 280 sheets, with 280 sheets remaining after the day. The kg_sht is 14.26, and the sheets per hour is 80.488. The planned totals are 7.9856, while the actual totals are 7.9856. The spm is 55, and the c_wires count is 51.
+
+On January 16, 2026, the order 254988 - oakey creek was processed with a quantity of 3600 sheets. The dmw_product is IMGX44H-44-5012-JOA, and the ross_code is GXB50121010VGOC. The production achieved 280 sheets, with 280 sheets remaining after the day. The kg_sht is 14.26, and the sheets per hour is 80.488. The planned totals are 7.9856, while the actual totals are 7.9856. The spm is 55, and the c_wires count is 51.
+
+On January 17, 2026, no production occurred, with 280 sheets remaining after the day. The kg_sht is 14.26, and the sheets per hour is 80.488. The planned totals are 3.9928, while the actual totals are 3.9928. The spm is 55, and the c_wires count is 51.
+
+On January 18, 2026, no production occurred, with all quantities and achievements set to zero. The kg_sht is 14.26, and the sheets per hour is 80.488. The spm is 55, and the c_wires count is 51.
+
+Ross order 254988 for Oakey Creek involves the DMW product IMGX44H-44-5012-JOA with Ross code GXB50121010VGOC. The total quantity is 3600.0 units, with no same-day shipping requested. On January 19, 2026, 280.0 units were achieved, and the actual totals were 5.989199999999999. The sheets per hour rate was 80.4878048780488, and the planned totals were 7.9856. On subsequent days from January 20 to January 23, 2026, the achieved quantity consistently matched the daily quantity of 280.0 units, with actual totals ranging from 7.4152 to 7.9856.
+
+On January 24, 2026, the achieved quantity was 170.0 units, with actual totals of 2.4242. For January 25, 2026, there were no production activities recorded.
+
+Ross order 255294 for Mandalong involves the DMW product IMGX45-44-5614 JMA with Ross code GXB5614101004G. The total quantity is 600.0 units, with no same-day shipping requested. On January 26, 2026, 40.0 units were produced, with an actual total of 0.0. On January 27, 2026, 280.0 units were produced, also with an actual total of 0.0.
+
+Ross order 254988 for Ensham involves the DMW product imb45-66-5111 with Ross code SMB5112151504. The total quantity is 3240.0 units, with no same-day shipping requested. On January 28, 2026, 40.0 units were produced, with an actual total of 0.0. On January 29 and January 30, 2026, 380.0 units were produced each day, with actual totals of 0.0. On January 31, 2026, there were no production activities recorded.
+
+For February 1, 2026, there were no production activities recorded. On February 2, 2026, 380.0 units were produced, with an actual total of 0.0. On February 3, 2026, 380.0 units were produced, with an actual total of 0.0. On February 4, 2026, 40.0 units were produced, with an actual total of 0.0. On February 5, 2026, 320.0 units were produced, with an actual total of 0.0. On February 6, 2026, 320.0 units were produced, with an actual total of 0.0. On February 7, 2026, there were no production activities recorded.
+
+Ross order 254981 for Narrabri involves the DMW product IMB5-44-5014-JNA with Ross code CC5014101005. The total quantity is 1188.0 units, with no same-day shipping requested. On February 4, 2026, 40.0 units were produced, with an actual total of 0.0. On February 5, 2026, 320.0 units were produced, with an actual total of 0.0. On February 6, 2026, 320.0 units were produced, with an actual total of 0.0.
+
+NARRABRI processes orders on February 9, 2026, for the product IMB5-44-5014-JNA, with a quantity of 1188.0. The order is associated with the Ross code CC5014101005. The day's production is reported to be 320.0 units, with an additional 320.0 units produced after. The weight per sheet is 25.25 kg, and the planned totals are 16.16. The actual totals remain at 0.0. The sheets per hour rate is 80.49, and the spm value is 55.0. The c-wires count is 51.0.
+
+NARRABRI continues processing orders on February 10, 2026, for the same product IMB5-44-5014-JNA, with a quantity of 1188.0. The day's production is reported to be 320.0 units, with an additional 228.0 units produced after. The weight per sheet remains at 25.25 kg, and the planned totals are 13.84. The actual totals remain at 0.0. The sheets per hour rate is 80.49, and the spm value is 55.0. The c-wires count is 51.0.
+
+Carbourough Downs receives orders on February 11, 2026, for the product IMG45-44-5016, with a quantity of 4000.0. The day's production is reported to be 40.0 units, with an additional 40.0 units produced after. The weight per sheet is 12.26 kg, and the planned totals are 0.49. The actual totals remain at 0.0. The sheets per hour rate is 80.49, and the spm value is 55.0. The c-wires count is 35.0.
+
+Carbourough Downs continues receiving orders on February 12, 2026, for the same product IMG45-44-5016, with a quantity of 4000.0. The day's production is reported to be 320.0 units, with an additional 320.0 units produced after. The weight per sheet remains at 12.26 kg, and the planned totals are 7.85. The actual totals remain at 0.0. The sheets per hour rate is 80.49, and the spm value is 55.0. The c-wires count is 35.0.
+
+Carbourough Downs further processes orders on February 13, 2026, for the same product IMG45-44-5016, with a quantity of 4000.0. The day's production is reported to be 320.0 units, with an additional 320.0 units produced after. The weight per sheet remains at 12.26 kg, and the planned totals are 7.85. The actual totals remain at 0.0. The sheets per hour rate is 80.49, and the spm value is 55.0. The c-wires count is 35.0.
+
+On February 14, 2026, no production is reported for Carbourough Downs, with the sheets per hour rate being 80.49 and the spm value remaining at 55.0. The c-wires count is 35.0.
+
+February 15, 2026, sees no production reported for Carbourough Downs, with the sheets per hour rate being 80.49 and the spm value remaining at 55.0. The c-wires count is 35.0.
+
+Carbourough Downs processes orders on February 16, 2026, for the product IMG45-44-5016, with a quantity of 4000.0. The day's production is reported to be 320.0 units, with an additional 320.0 units produced after. The weight per sheet remains at 12.26 kg, and the planned totals are 7.85. The actual totals remain at 0.0. The sheets per hour rate is 80.49, and the spm value is 55.0. The c-wires count is 35.0.
+
+Carbourough Downs continues processing orders on February 17, 2026, for the same product IMG45-44-5016, with a quantity of 4000.0. The day's production is reported to be 320.0 units, with an additional 320.0 units produced after. The weight per sheet remains at 12.26 kg, and the planned totals are 7.85. The actual totals remain at 0.0. The sheets per hour rate is 80.48, and the spm value is 55.0. The c-wires count is 35.0.
+
+Carbourough Downs further processes orders on February 18, 2026, for the same product IMG45-44-5016, with a quantity of 4000.0. The day's production is reported to be 320.0 units, with an additional 320.0 units produced after. The weight per sheet remains at 12.26 kg, and the planned totals are 7.85. The actual totals remain at 0.0. The sheets per hour rate is 80.48, and the spm value is 55.0. The c-wires count is 35.0.
+
+Carbourough Downs continues processing orders on February 19, 2026, for the same product IMG45-44-5016, with a quantity of 4000.0. The day's production is reported to be 320.0 units, with an additional 320.0 units produced after. The weight per sheet remains at 12.26 kg, and the planned totals are 7.85. The actual totals remain at 0.0. The sheets per hour rate is 80.48, and the spm value is 55.0. The c-wires count is 35.0.
+
+Carbourough Downs further processes orders on February 20, 2026, for the same product IMG45-44-5016, with a quantity of 4000.0. The day's production is reported to be 120.0 units, with an additional 0.0 units produced after. The weight per sheet remains at 12.26 kg, and the planned totals are 1.47. The actual totals remain at 0.0. The sheets per hour rate is 80.48, and the spm value is 55.0. The c-wires count is 35.0.
+
+On February 21, 2026, no production is reported for Carbourough Downs, with the sheets per hour rate being 80.48 and the spm value remaining at 55.0. The c-wires count is 35.0.
+
+February 22, 2026, sees no production reported for Carbourough Downs, with the sheets per hour rate being 80.48 and the spm value remaining at 55.0. The c-wires count is 35.0.
+
+DSI processes orders on February 23, 2026, for the product IMB5-44-5716, with a quantity of 1620.0. The day's production is reported to be 300.0 units, with an additional 300.0 units produced after. The weight per sheet is 35.57 kg, and the planned totals are 21.34. The actual totals remain at 0.0. The sheets per hour rate is 80.49, and the spm value is 55.0. The c-wires count is 66.0.
+
+DSI continues processing orders on February 24, 2026, for the same product IMB5-44-5716, with a quantity of 1620.0. The day's production is reported to be 300.0 units, with an additional 300.0 units produced after. The weight per sheet remains at 35.57 kg, and the planned totals are 21.34. The actual totals remain at 0.0. The sheets per hour rate is 80.49, and the spm value is 55.0. The c-wires count is 66.0.
+
+DSI further processes orders on February 25, 2026, for the same product IMB5-44-5716, with a quantity of 1620.0. The day's production is reported to be 300.0 units, with an additional 120.0 units produced after. The weight per sheet remains at 35.57 kg, and the planned totals are 14.94. The actual totals remain at 0.0. The sheets per hour rate is 80.49, and the spm value is 55.0. The c-wires count is 66.0.
+
+Ulan #3 receives orders on February 26, 2026, for the product IMGX4H4-44-4811-JUL, with a quantity of 1800.0. The day's production is reported to be 0.0 units, with an additional 40.0 units produced after. The weight per sheet is 14.98 kg, and the planned totals are 0.599. The actual totals remain at 0.0. The sheets per hour rate is 80.49, and the spm value is 55.0. The c-wires count is 49.0.
+
+Ulan #3 continues receiving orders on February 27, 2026, for the same product IMGX4H4-44-4811-JUL, with a quantity of 1800.0. The day's production is reported to be 280.0 units, with an additional 280.0 units produced after. The weight per sheet remains at 14.98 kg, and the planned totals are 8.39. The actual totals remain at 0.0. The sheets per hour rate is 80.49, and the spm value is 55.0. The c-wires count is 49.0.
+
+On February 28, 2026, no sheets were processed, and the weight per sheet was 14.98 kilograms. The planned totals were 0.0, and the actual totals were also 0.0. The sheets were processed at a rate of 80.49 sheets per hour, with a standard production of 55.0 sheets per minute and 49.0 wires used.
+
+On March 1, 2026, no sheets were processed, and the weight per sheet remained at 14.98 kilograms. The planned totals were 0.0, and the actual totals were also 0.0. The sheets were processed at a rate of 80.49 sheets per hour, with a standard production of 55.0 sheets per minute and 49.0 wires used.
+
+For the Ross order 255298 - Ulan # 3, the DMW product is IMGX4H4-44-4811-JUL, with the Ross code GXB48111010VGU3. A total of 1800.0 sheets were ordered. On March 2, 2026, 280.0 sheets were processed, leaving 280.0 sheets for the next day. The weight per sheet was 14.98 kilograms, with planned totals of 8.39 and actual totals of 0.0. The sheets were processed at a rate of 80.49 sheets per hour, with a standard production of 55.0 sheets per minute and 49.0 wires used.
+
+On March 3, 2026, another 280.0 sheets were processed for the Ross order 255298 - Ulan # 3, leaving 280.0 sheets for the next day. The weight per sheet was still 14.98 kilograms, with planned totals of 8.39 and actual totals of 0.0. The sheets were processed at a rate of 80.49 sheets per hour, with a standard production of 55.0 sheets per minute and 49.0 wires used.
+
+On March 4, 2026, only 80.0 sheets were processed for the Ross order 255298 - Ulan # 3, leaving 0.0 sheets for the next day. The weight per sheet was 14.98 kilograms, with planned totals of 1.198 and actual totals of 0.0. The sheets were processed at a rate of 80.49 sheets per hour, with a standard production of 55.0 sheets per minute and 49.0 wires used.
+
+For the Ross order 255292 - Ashton, the DMW product is IMB55H-46-5017 JASH, with the Ross code SMB5018101005. A total of 1920.0 sheets were ordered. On March 5, 2026, 40.0 sheets were processed, leaving 380.0 sheets for the next day. The weight per sheet was 28.27 kilograms, with planned totals of 11.87 and actual totals of 0.0. The sheets were processed at a rate of 80.49 sheets per hour, with a standard production of 55.0 sheets per minute and 34.0 wires used.
+
+On March 6, 2026, 380.0 sheets were processed for the Ross order 255292 - Ashton, leaving 380.0 sheets for the next day. The weight per sheet was still 28.27 kilograms, with planned totals of 21.48 and actual totals of 0.0. The sheets were processed at a rate of 80.49 sheets per hour, with a standard production of 55.0 sheets per minute and 34.0 wires used.
+
+On March 7, 2026, no sheets were processed, and the weight per sheet was 28.27 kilograms. The planned totals were 0.0, and the actual totals were also 0.0. The sheets were processed at a rate of 80.49 sheets per hour, with a standard production of 55.0 sheets per minute and 34.0 wires used.
+
+On March 8, 2026, no sheets were processed, and the weight per sheet was 28.27 kilograms. The planned totals were 0.0, and the actual totals were also 0.0. The sheets were processed at a rate of 80.49 sheets per hour, with a standard production of 55.0 sheets per minute and 34.0 wires used.
+
+For the Ross order 255292 - Ashton, the DMW product is IMB55H-46-5017 JASH, with the Ross code SMB5018101005. On March 9, 2026, 380.0 sheets were processed, leaving 360.0 sheets for the next day. The weight per sheet was 28.27 kilograms, with planned totals of 20.92 and actual totals of 0.0. The sheets were processed at a rate of 80.49 sheets per hour, with a standard production of 55.0 sheets per minute and 34.0 wires used.
+
+For the Ross order 255295 - Narrabri, the DMW product is IMB5-44-5014-JNA, with the Ross code CC5014101005. A total of 1188.0 sheets were ordered. On March 10, 2026, 40.0 sheets were processed, leaving 40.0 sheets for the next day. The weight per sheet was 25.25 kilograms, with planned totals of 1.01 and actual totals of 0.0. The sheets were processed at a rate of 80.49 sheets per hour, with a standard production of 55.0 sheets per minute and 61.0 wires used.
+
+On March 11, 2026, 320.0 sheets were processed for the Ross order 255295 - Narrabri, leaving 320.0 sheets for the next day. The weight per sheet was still 25.25 kilograms, with planned totals of 16.16 and actual totals of 0.0. The sheets were processed at a rate of 80.49 sheets per hour, with a standard production of 55.0 sheets per minute and 61.0 wires used.
+
+On March 12, 2026, 320.0 sheets were processed for the Ross order 255295 - Narrabri, leaving 190.0 sheets for the next day. The weight per sheet was still 25.25 kilograms, with planned totals of 12.88 and actual totals of 0.0. The sheets were processed at a rate of 80.49 sheets per hour, with a standard production of 55.0 sheets per minute and 61.0 wires used.
+
+For the Ross order 255296 - Narrabri, the DMW product is IMB5-46-5016-JNA, with the Ross code SMB5016151005S. A total of 1188.0 sheets were ordered. On March 13, 2026, 0.0 sheets were processed, leaving 50.0 sheets for the next day. The weight per sheet was 24.54 kilograms, with planned totals of 1.23 and actual totals of 0.0. The sheets were processed at a rate of 80.49 sheets per hour, with a standard production of 55.0 sheets per minute and 35.0 wires used.
+
+On March 14, 2026, no sheets were processed, and the weight per sheet was 25.25 kilograms. The planned totals were 0.0, and the actual totals were also 0.0. The sheets were processed at a rate of 80.49 sheets per hour, with a standard production of 55.0 sheets per minute and 61.0 wires used.
+
+On March 15, 2026, no sheets were processed, and the weight per sheet was 24.54 kilograms. The planned totals were 0.0, and the actual totals were also 0.0. The sheets were processed at a rate of 80.49 sheets per hour, with a standard production of 55.0 sheets per minute and 35.0 wires used.
+
+For the Ross order 255296 - Narrabri, the DMW product is IMB5-46-5016-JNA, with the Ross code SMB5016151005S. On March 16, 2026, 380.0 sheets were processed, leaving 380.0 sheets for the next day. The weight per sheet was 24.54 kilograms, with planned totals of 18.65 and actual totals of 0.0. The sheets were processed at a rate of 80.49 sheets per hour, with a standard production of 55.0 sheets per minute and 35.0 wires used.
+
+On March 17, 2026, 380.0 sheets were processed for the Ross order 255296 - Narrabri, leaving 0.0 sheets for the next day. The weight per sheet was still 24.54 kilograms, with planned totals of 9.33 and actual totals of 0.0. The sheets were processed at a rate of 80.49 sheets per hour, with a standard production of 55.0 sheets per minute and 35.0 wires used.
+
+For the Ross order 255303 - Oakey, the DMW product is IMGX44H-44-5012-JOA, with the Ross code GXB50121010VGOC. A total of 2400.0 sheets were ordered. On March 18, 2026, 40.0 sheets were processed, leaving 280.0 sheets for the next day. The weight per sheet was 14.26 kilograms, with planned totals of 4.56 and actual totals of 0.0. The sheets were processed at a rate of 80.49 sheets per hour, with a standard production of 55.0 sheets per minute and 51.0 wires used.
+
+On March 19, 2026, 280.0 sheets were processed for the Ross order 255303 - Oakey, leaving 280.0 sheets for the next day. The weight per sheet was still 14.26 kilograms, with planned totals of 7.99 and actual totals of 0.0. The sheets were processed at a rate of 80.49 sheets per hour, with a standard production of 55.0 sheets per minute and 51.0 wires used.
+
+Oakey placed an order for 2400 units of the dmw_product IMGX44H-44-5012-JOA, with a ross_code of GXB50121010VGOC. The order was placed on March 20, 2026, which falls within week 12. The daily production was estimated at 280 units, with the same production rate continuing through subsequent days. The weight per sheet was 14.26 kg, and the planned production totals were set at 7.9856 units. Production continued on March 21, 2026, with no changes in the parameters. On March 22, 2026, the production week shifted to 13, but there were no updates in the production metrics. Oakey's order resumed on March 23, 2026, with the same parameters, and by March 24, 2026, the remaining quantity was reduced to 120 units.
+
+Ensham placed an order for 3240 units of the dmw_product IMB45-66-5111-JEN2, with a ross_code of SMB5112151504. The order was placed on March 25, 2026, which falls within week 13. By March 26, 2026, the production had increased to 380 units, with the same parameters continuing until March 27, 2026. On March 28, 2026, there were no updates in the production metrics. The production week shifted to 14 on March 29, 2026, with no changes in the parameters. Ensham's order continued on March 30, 2026, with the same parameters, and by March 31, 2026, the production had reached 380 units. On April 1, 2026, the production decreased to 160 units, with the remaining quantity being 0 units.
+
+Cornwall placed an order for 1440 units of the dmw_product IMB4-44-4814-CCC, with a ross_code of SMF4814101004. The order was placed on April 2, 2026, which falls within week 14. The daily production was estimated at 40 units, with the same production rate continuing through subsequent days. By April 3, 2026, the production had increased to 320 units, with the same parameters continuing until April 4, 2026. On April 5, 2026, there were no updates in the production metrics. The production week shifted to 15 on April 6, 2026, with the same parameters continuing. Cornwall's order continued on April 6, 2026, with the same parameters, and by April 7, 2026, the production had reached 320 units.

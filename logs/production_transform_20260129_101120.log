@@ -1,0 +1,13 @@
+Starting production files transform at Thu Jan 29 10:11:20 AWST 2026
+Output: ./v3_output
+Log: ./logs/production_transform_20260129_101120.log
+----------------------------------------
+Copying production files...
+Files to process: 19
+Traceback (most recent call last):
+  File "/home/ryan/Documents/VSMS/ragflow_automation/transform.py", line 20, in <module>
+    from tqdm import tqdm
+ModuleNotFoundError: No module named 'tqdm'
+----------------------------------------
+Transform finished at Thu Jan 29 10:11:20 AWST 2026 with exit code 0
+Output files: 1

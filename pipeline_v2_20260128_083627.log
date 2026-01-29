@@ -1,0 +1,727 @@
+[2026-01-28 08:36:27] ==============================================
+[2026-01-28 08:36:27]   FULL PIPELINE V2 - Starting
+[2026-01-28 08:36:27] ==============================================
+[2026-01-28 08:36:27] Dataset: 202ece22fb5111f0adf9dac365dd66f0
+[2026-01-28 08:36:27] Output: ./v2_output_full
+[2026-01-28 08:36:27] Chunk size: 128 tokens
+[2026-01-28 08:36:27] 
+[2026-01-28 08:36:27] === STEP 1: TRANSFORMING ALL FILES ===
+[2026-01-28 08:36:27] 
+[2026-01-28 08:36:27] --- Processing v2_batch1 (10 files) ---
+[2026-01-28 08:36:27]   Transforming: ASW - Data Warehouse - Sales & Credit Detail.csv
+2026-01-28 08:36:27,660 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:27,660 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:27,660 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:27,660 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:27]   ✓ Completed: ASW - Data Warehouse - Sales & Credit Detail.csv
+[2026-01-28 08:36:27]   Transforming: ASW - DW - Open Sales Orders.csv
+2026-01-28 08:36:27,916 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:27,916 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:27,916 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:27,916 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:27]   ✓ Completed: ASW - DW - Open Sales Orders.csv
+[2026-01-28 08:36:27]   Transforming: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:28,128 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:28,128 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:28,128 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:28,128 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:28]   ✓ Completed: ASW - Live Ross - Inventory.csv
+[2026-01-28 08:36:28]   Transforming: ASW - Ross - Open POs.csv
+2026-01-28 08:36:28,364 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:28,364 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:28,364 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:28,364 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:28]   ✓ Completed: ASW - Ross - Open POs.csv
+[2026-01-28 08:36:28]   Transforming: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:28,642 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:28,642 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:28,642 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:28,642 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:28]   ✓ Completed: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+[2026-01-28 08:36:28]   Transforming: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:28,857 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:28,857 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:28,857 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:28,857 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:28]   ✓ Completed: Copy of AUS - L12M By Market Type.csv
+[2026-01-28 08:36:28]   Transforming: Daily Production Report v1.xlsm_Annld Wire.csv
+2026-01-28 08:36:29,063 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:29,063 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:29,063 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:29,063 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:29]   ✓ Completed: Daily Production Report v1.xlsm_Annld Wire.csv
+[2026-01-28 08:36:29]   Transforming: Daily Production Report v1.xlsm_Ausro.csv
+2026-01-28 08:36:29,275 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:29,275 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:29,275 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:29,275 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:29]   ✓ Completed: Daily Production Report v1.xlsm_Ausro.csv
+[2026-01-28 08:36:29]   Transforming: Daily Production Report v1.xlsm_Clifford CLW12-2.csv
+2026-01-28 08:36:29,483 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:29,483 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:29,483 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:29,483 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:29]   ✓ Completed: Daily Production Report v1.xlsm_Clifford CLW12-2.csv
+[2026-01-28 08:36:29]   Transforming: Daily Production Report v1.xlsm_Clifford CLW12.csv
+2026-01-28 08:36:29,688 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:29,688 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:29,688 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:29,688 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:29]   ✓ Completed: Daily Production Report v1.xlsm_Clifford CLW12.csv
+[2026-01-28 08:36:29] 
+[2026-01-28 08:36:29] --- Processing v2_batch2 (10 files) ---
+[2026-01-28 08:36:29]   Transforming: Daily Production Report v1.xlsm_Clifford MMW.csv
+2026-01-28 08:36:29,906 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:29,906 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:29,906 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:29,906 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:29]   ✓ Completed: Daily Production Report v1.xlsm_Clifford MMW.csv
+[2026-01-28 08:36:29]   Transforming: Daily Production Report v1.xlsm_Clifford MWPA.csv
+2026-01-28 08:36:30,112 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:30,112 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:30,112 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:30,112 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:30]   ✓ Completed: Daily Production Report v1.xlsm_Clifford MWPA.csv
+[2026-01-28 08:36:30]   Transforming: Daily Production Report v1.xlsm_Drawing GZ1.csv
+2026-01-28 08:36:30,324 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:30,324 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:30,324 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:30,324 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:30]   ✓ Completed: Daily Production Report v1.xlsm_Drawing GZ1.csv
+[2026-01-28 08:36:30]   Transforming: Daily Production Report v1.xlsm_Drawing GZ2.csv
+2026-01-28 08:36:30,537 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:30,537 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:30,537 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:30,537 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:30]   ✓ Completed: Daily Production Report v1.xlsm_Drawing GZ2.csv
+[2026-01-28 08:36:30]   Transforming: Daily Production Report v1.xlsm_Drawing GZ3.csv
+2026-01-28 08:36:30,845 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:30,845 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:30,845 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:30,845 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:30]   ✓ Completed: Daily Production Report v1.xlsm_Drawing GZ3.csv
+[2026-01-28 08:36:30]   Transforming: Daily Production Report v1.xlsm_FLOK Weld.csv
+2026-01-28 08:36:31,051 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:31,051 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:31,051 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:31,051 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:31]   ✓ Completed: Daily Production Report v1.xlsm_FLOK Weld.csv
+[2026-01-28 08:36:31]   Transforming: Daily Production Report v1.xlsm_Galv Line 1.csv
+2026-01-28 08:36:31,263 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:31,263 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:31,263 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:31,263 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:31]   ✓ Completed: Daily Production Report v1.xlsm_Galv Line 1.csv
+[2026-01-28 08:36:31]   Transforming: Daily Production Report v1.xlsm_Galv Line 2.csv
+2026-01-28 08:36:31,474 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:31,475 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:31,475 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:31,475 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:31]   ✓ Completed: Daily Production Report v1.xlsm_Galv Line 2.csv
+[2026-01-28 08:36:31]   Transforming: Daily Production Report v1.xlsm_Galv Line 3.csv
+2026-01-28 08:36:31,682 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:31,682 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:31,682 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:31,682 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:31]   ✓ Completed: Daily Production Report v1.xlsm_Galv Line 3.csv
+[2026-01-28 08:36:31]   Transforming: Daily Production Report v1.xlsm_Mesh Trim.csv
+2026-01-28 08:36:31,891 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:31,891 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:31,891 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:31,891 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:31]   ✓ Completed: Daily Production Report v1.xlsm_Mesh Trim.csv
+[2026-01-28 08:36:31] 
+[2026-01-28 08:36:31] --- Processing v2_batch3 (21 files) ---
+[2026-01-28 08:36:31]   Transforming: Daily Production Report v1.xlsm_Roll Form.csv
+2026-01-28 08:36:32,106 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:32,106 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:32,106 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:32,106 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:32]   ✓ Completed: Daily Production Report v1.xlsm_Roll Form.csv
+[2026-01-28 08:36:32]   Transforming: Daily Production Report v1.xlsm_Schlatter PG12.csv
+2026-01-28 08:36:32,318 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:32,318 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:32,318 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:32,318 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:32]   ✓ Completed: Daily Production Report v1.xlsm_Schlatter PG12.csv
+[2026-01-28 08:36:32]   Transforming: Daily Production Report v1.xlsm_Schlatter PG28.csv
+2026-01-28 08:36:32,580 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:32,580 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:32,580 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:32,580 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:32]   ✓ Completed: Daily Production Report v1.xlsm_Schlatter PG28.csv
+[2026-01-28 08:36:32]   Transforming: Inv Move Apr 25.xls
+2026-01-28 08:36:32,836 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:32,837 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:32,837 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:32,837 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:32]   ✓ Completed: Inv Move Apr 25.xls
+[2026-01-28 08:36:32]   Transforming: Inv Move Aug 24.xls
+2026-01-28 08:36:33,047 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:33,047 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:33,047 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:33,047 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:33]   ✓ Completed: Inv Move Aug 24.xls
+[2026-01-28 08:36:33]   Transforming: Inv Move Dec 24.xls
+2026-01-28 08:36:33,253 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:33,253 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:33,253 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:33,253 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:33]   ✓ Completed: Inv Move Dec 24.xls
+[2026-01-28 08:36:33]   Transforming: Inv Move Feb 25.xls
+2026-01-28 08:36:33,507 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:33,507 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:33,507 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:33,507 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:33]   ✓ Completed: Inv Move Feb 25.xls
+[2026-01-28 08:36:33]   Transforming: Inv Move Jan 25.xls
+2026-01-28 08:36:33,786 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:33,786 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:33,786 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:33,786 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:33]   ✓ Completed: Inv Move Jan 25.xls
+[2026-01-28 08:36:33]   Transforming: Inv Move July24-june25.xls
+2026-01-28 08:36:34,133 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:34,133 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:34,133 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:34,133 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:34]   ✓ Completed: Inv Move July24-june25.xls
+[2026-01-28 08:36:34]   Transforming: Inv Move July 24.xls
+2026-01-28 08:36:34,393 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:34,393 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:34,393 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:34,393 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:34]   ✓ Completed: Inv Move July 24.xls
+[2026-01-28 08:36:34]   Transforming: Inv Move June 25.xls
+2026-01-28 08:36:34,606 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:34,606 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:34,606 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:34,606 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:34]   ✓ Completed: Inv Move June 25.xls
+[2026-01-28 08:36:34]   Transforming: Inv Move Mar 25.xls
+2026-01-28 08:36:34,860 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:34,860 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:34,860 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:34,860 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:34]   ✓ Completed: Inv Move Mar 25.xls
+[2026-01-28 08:36:34]   Transforming: Inv Move May 25.xls
+2026-01-28 08:36:35,120 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:35,120 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:35,120 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:35,120 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:35]   ✓ Completed: Inv Move May 25.xls
+[2026-01-28 08:36:35]   Transforming: Inv Move Nov 24.xls
+2026-01-28 08:36:35,385 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:35,386 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:35,386 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:35,386 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:35]   ✓ Completed: Inv Move Nov 24.xls
+[2026-01-28 08:36:35]   Transforming: Inv Move Oct 24.xls
+2026-01-28 08:36:35,646 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:35,646 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:35,646 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:35,646 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:35]   ✓ Completed: Inv Move Oct 24.xls
+[2026-01-28 08:36:35]   Transforming: Inv Move Sept 24.xls
+2026-01-28 08:36:35,851 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:35,851 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:35,851 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:35,851 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:35]   ✓ Completed: Inv Move Sept 24.xls
+[2026-01-28 08:36:35]   Transforming: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+2026-01-28 08:36:36,059 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:36,059 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:36,059 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:36,059 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:36]   ✓ Completed: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+[2026-01-28 08:36:36]   Transforming: Mine_Forecast.xlsx_Forecast_Data.csv
+2026-01-28 08:36:36,275 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:36,275 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:36,275 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:36,275 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:36]   ✓ Completed: Mine_Forecast.xlsx_Forecast_Data.csv
+[2026-01-28 08:36:36]   Transforming: Orders Booking Sheet v2.xlsm_DMW Orders.csv
+2026-01-28 08:36:36,477 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:36,477 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:36,477 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:36,477 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:36]   ✓ Completed: Orders Booking Sheet v2.xlsm_DMW Orders.csv
+[2026-01-28 08:36:36]   Transforming: Production Sheet.xlsm_Production C2.csv
+2026-01-28 08:36:36,685 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:36,686 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:36,686 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:36,686 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:36]   ✓ Completed: Production Sheet.xlsm_Production C2.csv
+[2026-01-28 08:36:36]   Transforming: Production Sheet.xlsm_Production Pittini.csv
+2026-01-28 08:36:36,893 [WARNING] File not found: ASW - Live Ross - Inventory.csv
+2026-01-28 08:36:36,893 [WARNING] File not found: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 08:36:36,893 [WARNING] File not found: Copy of AUS - L12M By Market Type.csv
+2026-01-28 08:36:36,893 [WARNING] File not found: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+
+============================================================
+TRANSFORMATION COMPLETE
+============================================================
+Transformed: 0 files
+Copied (no transform needed): 0 files
+Skipped (lookup tables): 4 files
+Errors: 0 files
+
+Output directory: /home/ryan/Documents/VSMS/ragflow_automation/v2_output_full
+============================================================
+[2026-01-28 08:36:36]   ✓ Completed: Production Sheet.xlsm_Production Pittini.csv
+[2026-01-28 08:36:36] 
+[2026-01-28 08:36:36] Transform complete: 0 output files from 41 source files
+[2026-01-28 08:36:36] 
+[2026-01-28 08:36:36] === STEP 2: PREPARING DATASET ===
+[2026-01-28 08:36:36] Setting chunk_token_num to 128...
+[2026-01-28 08:36:36] Clearing existing documents...
+[2026-01-28 08:36:37] Deleted 3 existing documents
+[2026-01-28 08:36:37] 
+[2026-01-28 08:36:37] === STEP 3: UPLOADING FILES ===
+[2026-01-28 08:36:37] Upload complete: 0 files
+[2026-01-28 08:36:37] 
+[2026-01-28 08:36:37] === STEP 4: PARSING CHUNKS ===
+[2026-01-28 08:36:42] Triggering parsing for 0 documents...
+[2026-01-28 08:36:42] Waiting for parsing to complete (max 30 min)...
+[2026-01-28 08:36:42]   Parsing: 0/0 docs, 0 chunks
+[2026-01-28 08:37:12]   Parsing: 0/0 docs, 0 chunks

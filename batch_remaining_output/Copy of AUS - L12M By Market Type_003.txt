@@ -1,0 +1,999 @@
+Jennpur CF Part A 1000L IBC was sold as 1185.6 units in 2024, and another 1185.6 units were reported in No.37.
+
+Suprasec 5005 (packaged 1250kg IBC) was sold as 1200.8 units in 2024, and another 1200.8 units were reported in No.37.
+
+TD80 Trial Grout for USQ 20kg was sold as 20 units in July 2025, and another 20 units were reported in No.28.
+
+Customer freight was recorded as 1 unit in November 2025, and another 1 unit was reported in MTD.2.
+
+914mm Dia x 3.66m Height Std Performance Cuttable Crib was sold as 150 units in 2024, 200 units in September 2025, 40 units in June 2025, 49 units in August 2025, 80 units in October 2025, and 70 units in November 2025, with additional 200 units reported in No.9, 40 units in No.23, 70 units in No.34, 49 units in MTD-3, 10 units in MTD-2.1, 70 units in MTD-2.2, and 150 units in MTD CY-1.1.
+
+914mm Dia x 4.27m Height Std Performance Cuttable Crib was sold as 10 units in June 2025, and another 10 units were reported in No.23.
+
+N-Grade Sodium Silicate 1000L was sold as 24 units in March 2025, 28 units in May 2025, 24 units in June 2025, 29 units in July 2025, 29 units in August 2025, 36 units in October 2025, 36 units in November 2025, 24 units in No.6, 28 units in No.18, 18 units in No.20, 6 units in No.24, 29 units in No.27, 14 units in No.29, 18 units in No.32, 18 units in No.34, 15 units in MTD-3.1, 18 units in MTD-1, and 18 units in MTD-2.1.
+
+J-Crib Pre Mix 7kg was sold as 150 units in February 2025, 600 units in March 2025, 150 units in June 2025, 300 units in August 2025, 450 units in October 2025, 150 units in No.5, 600 units in No.9, 150 units in No.23, 300 units in MTD-3, and 450 units in MTD-2.2.
+
+40mm 500psi PE112 poly pipe - Per Metre was sold as 2000 units in 2024, 3000 units in 2025, 1000 units in November 2025, and 4000 units in April 2025, with additional 3000 units reported in No.35 and 1000 units in No.41.
+
+40mm 500psi Poly Pipe adaptor was sold as 4 units in 2024, 6 units in February 2025, 10 units in October 2025, and 6 units in No.2, with additional 10 units reported in MTD-2.3 and 4 units in MTD CY-1.
+
+SOUTH32's Appin West Mine sold various products in 2024 and 2025. In 2024, they sold 4 units of 40MMPOLY500PSIB and 3 units of 40MMPOLY500PSIJ. In 2025, they increased sales to 10 units of 40MMPOLY500PSIB, 14 units of 40MMPOLY500PSIJ, and 14 units of 4211.526.5DCHC. Additionally, they hired 5 Tonne Ducksbill for 70 days in 2024, increasing to 56 days in 2025. They also provided labor services, including crew supervisors and operators, both inside and outside rostered hours, with varying quantities throughout the year.
+
+SOUTH32's Appin West Mine continued to sell various products in 2025. They sold 8 units of 40MMPOLY500PSIJ and 10 units of 4211.526.5DCHC. They also hired a 5 Tonne Ducksbill for 56 days, increased to 70 days in 2024. The mine provided labor services, including crew supervisors and operators, both inside and outside rostered hours, with varying quantities throughout the year.
+
+SOUTH32's Appin West Mine sold 5TDUCKSBILLHIRE, a 5 Tonne Ducksbill hire per day, in 2024 and 2025. Sales peaked at 70 days in 2024 and decreased to 56 days in 2025, with fluctuations throughout the year.
+
+SOUTH32's Appin West Mine sold BLKTORDERCRIBS, a blanket order for cribs, in 2025, with an open quantity of 2.
+
+SOUTH32's Appin West Mine sold DIVERSVALVE40MM, a 3 Way T Port Ball Valve 40mm PSP 316SS, in 2025. Sales were recorded at 6 units in 2025.4, 2 units in 2025.9, and 8 units in 2025.11.
+
+SOUTH32's Appin West Mine sold FAB20/80, Builders Cement 1200kg 20/80 FA/GP, in 2025.1, with 4 units sold. They also sold FAB20/80/1000KG, Builders Cement 1000kg 20/80 FA/GP, in 2025, with significant increases in sales, reaching 44 units in 2025.8 and 88 units in 2025.6.
+
+SOUTH32's Appin West Mine conducted GROUTUCSTEST, Grout UCS Testing - Per Sample, in 2025.9, with 48 units sold, decreasing to 42 units in 2025.10 and 24 units in 2025.11.
+
+SOUTH32's Appin West Mine sold 1000L IBCs in 2025, with 9 units sold in 2025.5, increasing to 29 units in 2025.7 and 36 units in 2025.9. They also had an open quantity of 6.
+
+SOUTH32's Appin West Mine provided LABOURCREWSUPER, Crew Supervisor labour during rostered hours, in 2024 and 2025. Sales peaked at 310 units in 2024 and decreased to 150.5 units in 2025, with fluctuations throughout the year.
+
+SOUTH32's Appin West Mine provided LABOUROOSO, Operator labour outside roster, in 2025, with 48 units sold, decreasing to 12 units in 2025.1 and 2025.2, and increasing again to 24 units in 2025.3.
+
+SOUTH32's Appin West Mine provided LABOUROOSS, Supervisor Labour outside roster, in 2025, with 12 units sold, decreasing to 10 units in 2025.5 and 2025.10, and increasing again to 24 units in 2025.8.
+
+SOUTH32's Appin West Mine provided LABOUROPERATOR, Operator Hourly Rate Work, in 2024 and 2025. Sales peaked at 380 units in 2024 and decreased to 296.5 units in 2025, with fluctuations throughout the year.
+
+SOUTH32's Appin West Mine provided LABOURPHCS, Crew Supervisor labour during public holiday, in 2025, with 13 units sold.
+
+SOUTH32's Appin West Mine provided LABOURPHO, Operator labour during public holiday, in 2025, with 10 units sold in 2025.1 and 42 units in 2025.3.
+
+SOUTH32's Appin West Mine provided LABOURPHS, Supervisor labour during public holiday, in 2025, with 21 units sold in 2025.3 and 12.5 units in 2025.5.
+
+SOUTH32's Appin West Mine provided LABOURPM, Project Manager Flat rate, in 2024 and 2025. Sales peaked at 241.5 units in 2024 and decreased to 155 units in 2025, with fluctuations throughout the year.
+
+SOUTH32's Appin West Mine provided LABOURSUPERVISE, Supervisor/Fitter Labour, in 2024 and 2025. Sales peaked at 376 units in 2024 and decreased to 181.5 units in 2025, with fluctuations throughout the year.
+
+SOUTH32's Appin West Mine provided UGSYSTEMHIRE, Underground Ops Equip Hire/Day, in 2024 and 2025. Sales peaked at 35 units in 2024 and decreased to 21 units in 2025, with fluctuations throughout the year.
+
+B & K Mining sells polyurethane washers under the brand name Polywastex. The sales quantities for these products are as follows: in 2025.8, 30 units; in 2025.9, 31 units; in 2025.10, 30 units; and in No.32, 31 units. Month-to-date (MTD) figures for January 1st and March 1st show 30 units each.
+
+Centennial Coal, operating through Centennial Airly P/L, sells J-lok H-Twin 2200x25.5mm fast/slow 30:70 C/tube resin in 10 capsules per box, 360 per pallet (36 boxes). In 2024, they sold 360 units; in 2025, the sales were 1080 units across various months including February, March, April, May, June, July, August, September, October, November, and December. Specific sales include 720 units in No.1, No.7, No.10, No.16, No.17, No.20, No.21, No.27, and No.28. MTD figures for January 1st and March 1st show 720 and 360 units respectively.
+
+Centennial Coal also sells plastic plates 230mm diameter round, 1000 units per pallet. In 2024, they sold 6000 units; in 2025, the sales were 4000 units across various months including February, March, June, August, October, and November. Specific sales include 5000 units in No.1, No.7, and No.20, and 3000 units in No.30 and No.37. MTD figures for January 1st and March 1st show 4000 and 2000 units respectively.
+
+Centennial Coal sells JBS M24x1.2m dome ball teflon red pin nut black. In 2025, the sales were 1000 units in January, 5000 units in April, 4300 units in May, 5600 units in June, 5550 units in July, 4100 units in August, 2000 units in October, and 3350 units in November. Specific sales include 3550 units in No.12, 1450 units in No.13, 4300 units in No.15, 5600 units in No.20, 5550 units in No.25, 900 units in No.34, and 700 units in No.38. MTD figures for January 1st and March 1st show 1800 and 2300 units respectively.
+
+Centennial Coal sells cable superstrand 21.8mm x 3.8m tota. In 2025, the sales were 300 units in January, 300 units in February, 400 units in March, 600 units in April, 750 units in May, 925 units in June, 350 units in August, 350 units in October, and 25 units in November. Specific sales include 250 units in No.1, 50 units in No.2, 400 units in No.5, 275 units in No.9, 75 units in No.12, 250 units in No.13, 425 units in No.15, 25 units in No.16, 300 units in No.17, 400 units in No.19, 275 units in No.20, 250 units in No.21, and 300 units in No.22. MTD figures for January 1st and March 1st show 25 and 300 units respectively.
+
+Centennial Coal sells cable superstrand 21.8mm x 6.0m tota. In 2025, the sales were 150 units in February, 200 units in June, 325 units in July, 750 units in August, 425 units in September, 475 units in October, and 325 units in November. Specific sales include 150 units in No.1 and 200 units in No.24. MTD figures for January 1st and March 1st show 300 and 325 units respectively.
+
+Centennial Coal sells dollie 25sq drive 165mm long to suit s/strand tot with through water hole. In 2024, they sold 7 units; in 2025, the sales were 2 units in January, 3 units in February, March, and April, and 5 units in July. Specific sales include 3 units in No.3, No.7, No.9, No.11, No.15, No.24, and No.26, and 2 units in No.37. MTD figures for January 1st and March 1st show 3 and 2 units respectively.
+
+Centennial Coal sells dollie tiger to suit tot d0072 rev 0. In 2024, they sold 5 units; in 2025, the sales were 4 units in January, 5 units in May, and 6 units in July. Specific sales include 5 units in No.15, 6 units in No.27, 4 units in No.33, and 4 units in No.38. MTD figures for January 1st and March 1st show 4 and 1 unit respectively.
+
+Centennial Coal sells f/g bolt 22mmx1150mm black o/moulded thrust head. In 2024, they sold 8000 units; in 2025, the sales were 5000 units across various months including January, February, March, and June. Specific sales include 5000 units in No.1, No.7, No.11, No.23, No.24, No.30, and No.37, and 4000 units in No.30 and No.37. MTD figures for January 1st and March 1st show 1000 and 1500 units respectively.
+
+Centennial Coal sells f/g bolt 22mmx1750mm black o/moulded thrust head. In 2025, the sales were 200 units in April. Specific sales include 200 units in No.13.
+
+Centennial Coal sells f/g bolt 22mmx1750mm red o/moulded thrust head. In 2025, the sales were 500 units in June. Specific sales include 500 units in No.21.
+
+Centennial Coal sells f/g bolt 25 x 1200 mm blue o/moulded. In 2025, the sales were 500 units in September. Specific sales include 500 units in MTD-2.2.
+
+Centennial Coal sells kangaroo plate 150x150x5mm 38mm hole tied 980 plates per pallet. In 2024, they sold 5880 units; in 2025, the sales were 4900 units across various months including January, February, March, April, May, June, July, August, September, October, and November. Specific sales include 4900 units in No.1, No.5, No.9, No.12, No.15, No.16, No.17, No.19, No.23, No.24, No.26, No.30, No.34, and No.37, and 11760 units in November. MTD figures for January 1st and March 1st show 1960 and 9800 units respectively.
+
+Centennial Coal sells kangaroo plate 200x200x5mm 38mm hole 1 hanger tied 500 plates per pallet. In 2025, the sales were 510 units in June. Specific sales include 10 units in No.21 and 500 units in No.23.
+
+Centennial Coal sells j-lok 5* dual 880x25mm x-fast/slow 50:50 ratio resin. In 2024, they sold 5400 units; in 2025, the sales were 4500 units across various months including January, February, March, April, May, June, July, August, September, October, and November. Specific sales include 5400 units in No.1, No.5, No.10, No.12, No.16, No.17, No.19, No.20, No.25, No.27, No.28, No.30, No.31, No.33, No.34, and No.37, and 2700 units in October. MTD figures for January 1st and March 1st show 5400 and 5400 units respectively.
+
+Centennial Coal sells j-lok 5* pg cable 1000x36mm med + retainer resin. In 2025, the sales were 2100 units in August. Specific sales include 1260 units in No.29.
+
+Centennial Coal sells j-lok single 600x25mm slow part pallet resin. In 2025, the sales were 140 units in April. Specific sales include 140 units in No.12.
+
+Centennial Coal sells jennchem underground roadway repair. In 2025, the sales were 10 units in September and 12 units in November. Specific sales include 10 units in No.33.
+
+Centennial Coal sells volcano plate 200x200x12mm 42mm hole black. In 2025, the sales were 600 units in January, 1000 units in March, 400 units in April, 600 units in May, 1200 units in June, 1000 units in July, 1200 units in August, 1000 units in October, and 200 units in November. Specific sales include 400 units in No.5, 600 units in No.7, 400 units in No.12, 600 units in No.16, 600 units in No.19, 600 units in No.22, 400 units in No.23, 400 units in No.24, 600 units in No.25, 400 units in No.27, 400 units in No.34, and 400 units in No.37. MTD figures for January 1st and March 1st show 600 and 600 units respectively.
+
+Centennial Coal sells butterfly plate 280x300mm - black. In 2024, they sold 2880 units; in 2025, the sales were 1920 units in March, 3840 units in April, 3840 units in May, 10560 units in June, 9600 units in July, 4800 units in October, and 5760 units in November. Specific sales include 1920 units in No.5, 3840 units in No.12, 3840 units in No.15, 1920 units in No.19, 3840 units in No.20, 3840 units in No.23, 960 units in No.24, 4800 units in No.26, 4800 units in No.27, and 1920 units in No.37. MTD figures for January 1st and March 1st show 4800 and 1920 units respectively.
+
+Centennial Coal sells various products to Centennial Airly P/L (JA202) under the product code JX2409TH, including Bolt TT M24x0.9JX THREADED. In 2024, they sold 50 units; in 2025, they sold 50 units in January, 50 units in February, 100 units in March, and 50 units in November. The total sales for the month-to-date (MTD) were 50 units.
+
+Centennial Coal sells another product to Centennial Airly P/L (JA202) under the product code JX2418BTPS, which is JX M24X1.8M DOME BALL TEFLON S PIN NUT. They sold 5000 units in 2024, 4750 units in 2025, 4150 units in January, 2025, 4100 units in February, 2025, 4000 units in March, 2025, 9350 units in April, 2025, 4350 units in May, 2025, 9350 units in June, 2025, 5550 units in July, 2025, 4750 units in August, 2025, 9750 units in September, 2025, and 3550 units in November, 2025. The total sales for the month-to-date (MTD) were 2800 units in January, 2025, 1300 units in February, 2025, 4000 units in May, 2025, 4350 units in June, 2025, 9750 units in September, 2025, and 3550 units in November, 2025.
+
+Centennial Coal sells Sentinel mine mesh 4800 x 1260 mm Varied Apt Dual Wires under the product code SMMB4813AIR to Centennial Airly P/L (JA202). They sold 1440 units in 2024, 1080 units in 2025, 720 units in January, 2025, 1080 units in February, 2025, 1080 units in March, 2025, 1080 units in April, 2025, 1413 units in May, 2025, 1440 units in June, 2025, 1440 units in July, 2025, 720 units in August, 2025, 720 units in September, 2025, 720 units in October, 2025, 1080 units in November, 2025, and 720 units in December, 2025. The total sales for the month-to-date (MTD) were 720 units in January, 2025, 360 units in February, 2025, 360 units in March, 2025, 360 units in April, 2025, 360 units in May, 2025, 360 units in June, 2025, 360 units in July, 2025, 360 units in August, 2025, 360 units in September, 2025, 360 units in October, 2025, 360 units in November, 2025, and 360 units in December, 2025.
+
+Centennial Coal sells J-LOK SPIN2STALL 1400MM X 25MM TYPE A 50:50 RATIO RESIN - 20 CAPSULES/BOX, 840/PALLET (42 BOXES) under the product code STSA14002555 to Centennial Airly P/L (JA202). They sold 5040 units in 2024, 5880 units in 2025, 4200 units in January, 2025, 5040 units in February, 2025, 5880 units in March, 2025, 7560 units in April, 2025, 5040 units in May, 2025, 12600 units in June, 2025, 4200 units in July, 2025, 5880 units in August, 2025, 5880 units in September, 2025, 5040 units in October, 2025, and 4200 units in November, 2025. The total sales for the month-to-date (MTD) were 5040 units in January, 2025, 840 units in February, 2025, 3360 units in May, 2025, 3360 units in June, 2025, 1680 units in July, 2025, 1680 units in August, 2025, 1680 units in September, 2025, 1680 units in October, 2025, and 1680 units in November, 2025.
+
+Centennial Coal sells an unknown product to Centennial Fassifern P/L (JA592). In 2025, they sold 1 unit in June, and 1 unit in November.
+
+Centennial Coal sells products to Centennial Mandalong P/L (JA144). They sell BW218MMD, which is BARREL & WEDGE TO SUIT 21.8MM CABLE - DOMED CA0106, and sold 200 units in July, 2025, and 200 units in November, 2025.
+
+Centennial Coal sells GXB48121010040G, which is GX MESH ROOF 4.80X1.21M 100X100 APT 4.0MM WIRE - GALV, and sold 480 units in April, 2025, and 480 units in November, 2025.
+
+Centennial Coal sells GXB5614101004G, which is GX MESH ROOF 5.60M X 1.40M 100X100 APT 4.0MM WIRE - GAL, and sold 520 units in April, 2025, 153 units in June, 2025, 480 units in September, 2025, 1440 units in October, 2025, and 2400 units in November, 2025.
+
+Centennial Coal sells JCB22028, which is SUPERSTRAND C/BOLT 21.8MM 2.80M PLAIN, and sold 200 units in July, 2025, and 200 units in November, 2025.
+
+Centennial Coal sells JK15150538RW, which is KANGA PLATE 150X150X5MM 38MM HOLE TIED 980 PLATES PER PALLET, and sold 19600 units in 2024, 13720 units in 2025, 3920 units in January, 2025, 4900 units in February, 2025, 9800 units in March, 2025, 11760 units in April, 2025, 11760 units in May, 2025, 22540 units in June, 2025, 12740 units in July, 2025, 22540 units in August, 2025, 17640 units in September, 2025, 18620 units in October, 2025, and 16660 units in November, 2025.
+
+Centennial Coal sells JLLPG120036MR, which is J-LOK LIF PG CABLE 1200X36MM MED + RETAINER RESIN - 9 CAPSULES/BOX, 378/PALLET (42 BOXES), and sold 1134 units in 2024, 756 units in January, 2025, 378 units in February, 2025, 1512 units in March, 2025, 1134 units in April, 2025, 1134 units in May, 2025, 756 units in June, 2025, 1134 units in July, 2025, 756 units in August, 2025, 1134 units in September, 2025, 1134 units in October, 2025, and 756 units in November, 2025.
+
+Centennial Coal sells JLS65025F, which is J-LOK SINGLE 650X25MM FAST RESIN - 35 CAPSULES/BOX, 1,680/PALLET (48 BOXES), and sold 16800 units in 2024, 13440 units in January, 2025, 5040 units in February, 2025, 11760 units in April, 2025, 5040 units in May, 2025, 10080 units in June, 2025, 10080 units in July, 2025, 11760 units in August, 2025, 6720 units in September, 2025, 15120 units in October, 2025, and 5040 units in November, 2025.
+
+Centennial Coal sells JLT120025S, which is J-LOK TENDON CABLE 1200X25MM SLOW RESIN - 20 CAPSULES/BOX, 840/PALLET (42 BOXES), and sold 300 units in April, 2025, and 300 units in September, 2025.
+
+Centennial Coal sells JV20201242R, which is VOLCANO PLATE 200X200X12MM 42MM HOLE BLACK 200 PLATES PER PALLET, and sold 200 units in July, 2025, and 200 units in November, 2025.
+
+Centennial Coal sells JX2406BPR, which is JX M24X0.6M DOME BALL RED PIN NUT, and sold 300 units in September, 2025, and 300 units in November, 2025.
+
+Centennial Coal sells JX2417BTPS, which is JX M24X1.7M DOME BALL TEFLON S PIN NUT, and sold 14400 units in 2024, 4800 units in 2025, 14400 units in January, 2025, 4800 units in March, 2025, 13700 units in April, 2025, 10300 units in May, 2025, 9600 units in June, 2025, 14400 units in July, 2025, 9600 units in August, 2025, 13100 units in September, 2025, 15700 units in October, 2025, and 11800 units in November, 2025.
+
+Centennial Coal sells JX2424BTP3, which is JX M24X2.4M DOME BALL TEFLON GREEN PIN NUT, and sold 200 units in April, 2025, and 200 units in November, 2025.
+
+Centennial Coal sells M42BIMBSB, which is M24 BI Metal Bandsaw blade, and sold 20 units in January, 2025, and 30 units in October, 2025.
+
+Centennial Coal sells SMB5612101005, which is MESH ROOF 5.60MX1.2M 100X100 APT 5.0MM WIRE IMB5-44-5612-JMA, and sold 1440 units in 2024, 960 units in 2025, 480 units in February, 2025, 1440 units in April, 2025, 480 units in May, 2025, 1320 units in June, 2025, 1440 units in July, 2025, 960 units in August, 2025, 960 units in September, 2025, 480 units in October, 2025, and 480 units in November, 2025.
+
+Centennial Coal sells SMMB4812101004, which is Sentinel mine mesh 4800 x 1210 mm 100 x100 mm 4mm Wire, and sold 450 units in February, 2025, June, 2025, July, 2025, August, 2025, September, 2025, and October, 2025, and 450 units in November, 2025.
+
+Centennial Coal, operating under Centennial Mandalong P/L (JA144), sold various products in NSW, Australia. In 2024, they sold 11,700 units of J-Lok Spin2stall 1000mm x 25mm Type A 50:50 ratio resin - 25 capsules/box, 2240/pallet, and in 2025, they sold 36,000 units across multiple months, with peaks in November 2025 reaching 18,900 units.
+
+Centennial Coal, operating under Centennial Mandalong P/L (JA144), also sold grout tubes in 2025, specifically 1 tube of GROUT TUBE 16mm dia x 300m long PN16 red.
+
+Centennial Coal, operating under Centennial Myuna P/L (JA164), sold geocells in 2025, including 19 units of GEOCELL256835, with sales increasing through the year, peaking in November 2025 at 360 units.
+
+Centennial Coal, operating under Centennial Myuna P/L (JA164), sold JBS M24x1.2m dome ball teflon red pin nut black in 2024 and 2025, with consistent sales throughout, reaching a total of 10,000 units by the end of 2025.
+
+Centennial Coal, operating under Centennial Myuna P/L (JA164), sold SUPERSTRAND C/BOLT 21.8mm 3mtr c/w TOTO device in 2024 and 2025, with a total of 25 units sold in 2024 and 25 units in 2025.
+
+Centennial Coal, operating under Centennial Myuna P/L (JA164), sold CABLE SUPERSTRAND 21.8mm x 4.0m TOTO in 2024 and 2025, with sales increasing over time, reaching a total of 900 units by the end of 2025.
+
+Centennial Coal, operating under Centennial Myuna P/L (JA164), sold CABLE SUPERSTRAND 21.8mm x 6.0m TOTO in 2024 and 2025, with sales increasing over time, reaching a total of 100 units by the end of 2025.
+
+Centennial Coal, operating under Centennial Myuna P/L (JA164), sold DOLLIE 25sq drive 165mm long to suit s/strand TOTO with through water hole in 2024 and 2025, with sales increasing over time, reaching a total of 6 units by the end of 2025.
+
+Centennial Coal, operating under Centennial Myuna P/L (JA164), sold DOLLIE TIGER to suit TOTO D0072 rev 0 in 2024 and 2025, with sales increasing over time, reaching a total of 6 units by the end of 2025.
+
+Centennial Coal, operating under Centennial Myuna P/L (JA164), sold F/G bolt 25 x 1200 mm blue O/moulded in 2024 and 2025, with sales increasing over time, reaching a total of 5,000 units by the end of 2025.
+
+Centennial Coal, operating under Centennial Myuna P/L (JA164), sold KANGA plate 150x150x6mm 38mm hole tied 980 plates per pallet in 2024 and 2025, with sales increasing over time, reaching a total of 11,760 units by the end of 2025.
+
+Centennial Coal, operating under Centennial Myuna P/L (JA164), sold J-LOK single 440x25mm fast resin - 40 capsules/box, 2240/pallet in 2024 and 2025, with sales increasing over time, reaching a total of 44,800 units by the end of 2025.
+
+Centennial Coal, operating under Centennial Myuna P/L (JA164), sold Rolled edge plate 450x450x1.0 w/50mm hole in 2025, with sales increasing over time, reaching a total of 200 units by the end of 2025.
+
+Centennial Coal, operating under Centennial Myuna P/L (JA164), sold VOLCANO plate 200x200x12mm 42mm hole black 200 plates per pallet in 2024 and 2025, with sales increasing over time, reaching a total of 1,200 units by the end of 2025.
+
+Centennial Coal, operating under Centennial Myuna P/L (JA164), sold JX M24x1.8m dome ball s pin nut in 2024 and 2025, with sales increasing over time, reaching a total of 16,400 units by the end of 2025.
+
+Centennial Coal, operating under Centennial Myuna P/L (JA164), sold JX M24x2.4m dome ball teflon s pin bundle 59 bolts + 1 bolt with indicator washer per pack in 2025, with sales increasing over time, reaching a total of 1 unit by the end of 2025.
+
+Centennial Coal, operating under Centennial Myuna P/L (JA164), sold Deumo mech tachometer in 2025, with sales increasing over time, reaching a total of 2 units by the end of 2025.
+
+Centennial Coal, operating under Centennial Myuna P/L (JA164), sold Mastatex non-woven handy roll 4m x 100m in 2025, with sales increasing over time, reaching a total of 4 units by the end of 2025.
+
+Centennial Coal, operating under Centennial Myuna P/L (JA164), sold manufacture screed rail including 3 timber stakes in 2025, with sales increasing over time, reaching a total of 20 units by the end of 2025.
+
+Centennial Coal, operating under Centennial Myuna P/L (JA164), sold 100x100x5000x1600x5.6 4mm galv img5h4-44-5016-wlc in 2025, with sales increasing over time, reaching a total of 1,440 units by the end of 2025.
+
+Centennial Coal sells Sentinel Mine mesh 5000 x 1610 mm 100x100 Apt 4l Wire to customers in various quantities from 2025 to 2025.9, including No.18, No.20, No.32, MTD-2, and MTD-2.1, all totaling 150 units each.
+
+Centennial Coal sells J-LOK SPIN2STALL 1000MM X 25MM TYPE A 50:50 RATIO RESIN - 25 CAPSULES/BOX, 900/PALLET (36 BOXES) to customers in various quantities from 2024 to 2025.11, including No.1, No.2, No.3, No.4, No.5, No.6, No.8, No.10, No.13, No.15, No.16, No.17, No.18, No.19, No.20, No.21, No.22, No.23, No.25, No.26, No.27, No.28, No.29, No.30, No.31, No.32, No.34, No.38, No.39, No.40, MTD-3, MTD-3.2, MTD-1, MTD-1.1, MTD-1.2, MTD-2, MTD-2.1, MTD-2.2, MTD, MTD.2, MTD CY-1.1, MTD CY-1.2, all totaling 7200 to 12600 units each.
+
+Centennial Coal sells JBS M24X1.2M DOME BALL TEFLON RED PIN NUT BLACK to customers in various quantities from 2024 to 2025.2, including No.3, all totaling 200 units each.
+
+Centennial Coal sells KANGA PLATE 150X150X5MM 38MM HOLE TIED to customers in various quantities from 2025.1 to 2025.1, including No.41, all totaling 980 units each.
+
+Centennial Coal sells J-LOK DUAL 1200X25MM X-FAST/SLOW 50:50 RATIO RESIN - 20 CAPSULES/BOX, 840/PALLET (42 BOXES) to customers in various quantities from 2024 to 2025.1, including No.41, all totaling 840 units each.
+
+Centennial Coal sells J-LOK LIF PG CABLE 1200X36MM MED + RETAINER RESIN - 9 CAPSULES/BOX, 378/PALLET (42 BOXES) to customers in various quantities from 2025 to 2025.3, including No.35, all totaling 378 units each.
+
+Centennial Coal sells JX M24X1.8M DOME BALL S PIN NUT to customers in various quantities from 2024 to 2025.3, including No.9, No.16, No.41, MTD CY-1, all totaling 600 to 250 units each.
+
+Centennial Coal sells Sentinel mine mesh 4800 x 1210 mm 100 x100 mm 4mm Wire to customers in various quantities from 2025.4 to 2025.4, including No.13, all totaling 75 units each.
+
+Centennial Coal sells Top Down 80MPA Cable Grout 20kg Bag 56 BAGS X 20KG PER PALLET to customers in various quantities from 2024 to 2025.11, including No.9, No.16, No.40, MTD CY-1, all totaling 112 to 56 units each.
+
+Centennial Coal sells RESIN CAPSULE BASKET RETAINER - 24MM to customers in various quantities from 2025.6 to 2025.11, including No.24, all totaling 1200 units each.
+
+Centennial Coal sells J-LOK 5* DUAL 1000X25MM S-FAST/SLOW 50:50 RATIO RESIN - 25 CAPSULES/BOX, 900/PALLET (36 BOXES) to customers in various quantities from 2024 to 2025.11, including No.2, No.3, No.5, No.8, No.9, No.14, No.15, No.16, No.17, No.18, No.20, No.21, No.24, No.25, No.27, No.28, No.31, No.33, No.35, No.36, No.38, No.39, No.41, MTD-3, MTD-3.1, MTD-1.1, MTD-2.2, MTD, MTD CY-1, MTD CY-1.1, all totaling 400 to 16200 units each.
+
+Centennial Coal sells J-LOK TENDON CABLE 1200X25MM SLOW RESIN - 20 CAPSULES/BOX, 840/PALLET (42 BOXES) to customers in various quantities from 2024 to 2025.8, including No.2, No.5, No.8, No.15, No.16, No.18, No.21, MTD-3.1, MTD CY-1, all totaling 400 to 400 units each.
+
+Centennial Coal sells J-LOK SINGLE 650X25MM FAST RESIN - 35 CAPSULES/BOX, 1,680/PALLET (48 BOXES) to customers in various quantities from 2024 to 2025.11, including No.14, No.16, No.18, No.31, No.33, No.34, MTD-3, MTD-1.1, MTD-2.2, MTD.2, MTD CY-1.1, all totaling 3360 to 3360 units each.
+
+Centennial Coal sells Plate VOLCANO 100X08MM 36MM HOLE to customers in various quantities from 2025.6 to 2025.6, including No.24, all totaling 200 units each.
+
+Centennial Coal sells BARREL & WEDGE TO SUIT 15.2MM CABLE CA0147 to customers in various quantities from 2025.2 to 2025.11, including No.5, No.9, No.17, MTD-3, MTD-3.1, MTD-1, Open, all totaling 1000 to 1500 units each.
+
+Centennial Coal sells 20MM GROUT GUN to customers in various quantities from 2025.3 to 2025.10, including No.7, No.25, MTD-3.1, MTD-1.2, all totaling 4 units each.
+
+Centennial Coal sells PLASTIC PLATE 300MM SQUARE 51MM HOLE STEEL INSERT 500 UNITS PER PALLET to customers in various quantities from 2024 to 2025.11, including No.5, No.13, No.14, No.18, No.33, No.38, No.40, MTD-3.1, MTD-2.3, MTD CY-1.2, all totaling 2000 to 2000 units each.
+
+Centennial Coal sells CABLE BOLT TWIN 15.2MM X 8.0M, PLAIN 300MM TAIL 50 UNITS PER PALLET to customers in various quantities from 2024 to 2025.11, including No.20, No.27, No.33, MTD-3, MTD-1.2, MTD-2.1, MTD-2.2, MTD, MTD.1, MTD.2, MTD CY-1.1, MTD CY-1.2, all totaling 500 to 900 units each.
+
+Centennial Coal sells CABLE TRUSS 15.2MM X 11.0M, 8M BULBED 2X3M TAILS to customers in various quantities from 2025.1 to 2025.10, including No.17, No.20, No.21, No.25, No.33, No.38, No.40, MTD-1, MTD-1.2, all totaling 250 to 500 units each.
+
+Centennial Coal sells 1500 x 32 mm Solid FG Dwl High break out nut Drg CU0043& 80 to customers in various quantities from 2024 to 2025.11, including No.2, No.3, No.5, No.10, No.13, No.14, No.17, No.33, No.35, No.39, MTD-1, MTD-2.3, MTD CY-1.1, MTD CY-1.2, all totaling 2000 to 2500 units each.
+
+Centennial Coal sells various products to Springvale Coal P/L (JA001). In 2024, they sold 8400 units of J-LOK G DUAL 1400X25MM S-FAST/SLOW 40:60 RATIO RESIN - 20 CAPSULES/BOX, 840/PALLET (42 BOXES). For 2025, sales were distributed across multiple months, with peaks in August and September, totaling 8400, 7560, 5040, 10080, 6720, 8400, 8400, 8400, 10080, 6720, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560, 8400, 8400, 4200, 7560, 8400, 10080, 6720, 7560,
+
+Delta Coal sells Poly Plate Holder Chain Valley to Delta Coal (JA357) with a quantity of 5 units in 2025.2, 5 units in 2025.8, 5 units in 2025.9, 5 units in No.3, 3 units in No.29, 5 units in No.32, and 2 units in MTD-3.2.
+
+Delta Coal sells Coal 30T Test Kit to Delta Coal (JA357) with a quantity of 1 unit in 2025.2 and 1 unit in No.1.
+
+Delta Coal sells Plastic Mesh 28.00m x 2.00m Roll to Delta Coal (JA357) with a quantity of 14 units in 2024, 14 units in 2025, 10 units in 2025.1, 20 units in 2025.3, 24 units in 2025.4, 10 units in 2025.6, 14 units in 2025.8, 10 units in 2025.9, 20 units in 2025.11, 10 units in No.6, 10 units in No.9, 14 units in No.12, 10 units in No.14, 10 units in No.21, 14 units in No.22, 10 units in No.32, 10 units in No.41, 14 units in MTD-3, 10 units in MTD, and 10 units in MTD.1.
+
+Delta Coal sells Grout Lance 1800mm to Delta Coal (JA357) with a quantity of 2 units in 2024 and 2 units in MTD CY-1.1.
+
+Delta Coal sells 200 x 200mm Squ Plastic Plate with 42mm Hole Steel Insert to Delta Coal (JA357) with a quantity of 2000 units in 2024, 1500 units in 2025, 2500 units in 2025.1, 3000 units in 2025.2, 2000 units in 2025.3, 2000 units in 2025.4, 1000 units in 2025.5, 2000 units in 2025.6, 1000 units in 2025.7, 1000 units in 2025.9, 1500 units in 2025.10, 1000 units in 2025.11, 3000 units in No.1, 1500 units in No.7, 500 units in No.9, 1000 units in No.10, 1000 units in No.14, 1000 units in No.17, 1000 units in No.20, 1000 units in No.22, 1000 units in No.24, 1000 units in No.26, 500 units in No.30, 1000 units in No.38, 1500 units in No.41, 1000 units in MTD-1, 500 units in MTD-1.2, 1000 units in MTD-2, 1000 units in MTD, 1000 units in MTD CY-1, 1000 units in MTD CY-1.2, and 1000 units in Open.
+
+Delta Coal sells JBS M24x1.2m Dome Ball Blue Pin Nut 300mm Thread to Delta Coal (JA357) with a quantity of 300 units in 2024 and 52 units in No.39, 300 units in MTD CY-1.2.
+
+Delta Coal sells JBS M24x1.2m Dome Ball Red Pin Nut Black to Delta Coal (JA357) with a quantity of 450 units in 2025, 700 units in 2025.4, 350 units in 2025.9, 450 units in 2025.10, 350 units in 2025.11, 350 units in No.10, 450 units in No.11, 350 units in No.13, 450 units in MTD-1.1, 350 units in MTD-2.1, 350 units in MTD.1.
+
+Delta Coal sells JBS M24x1.5m Dome Ball Green Pin Nut 40mm Thread to Delta Coal (JA357) with a quantity of 250 units in 2025.1, 250 units in 2025.4, 250 units in 2025.8, 240 units in 2025.9, 260 units in 2025.10, 250 units in 2025.11, 250 units in No.14, 240 units in No.33, 250 units in No.39, 250 units in MTD-3.2, 260 units in MTD-1, 250 units in MTD.
+
+Delta Coal sells Cable Superstrand 21.8mm x 4.0m Total to Delta Coal (JA357) with a quantity of 375 units in 2025, 300 units in 2025.1, 325 units in 2025.2, 300 units in 2025.3, 400 units in 2025.5, 400 units in 2025.6, 325 units in 2025.8, 400 units in 2025.10, 325 units in No.4, 300 units in No.7, 375 units in No.11, 400 units in No.17, 400 units in No.24, 325 units in No.31, 175 units in No.39, 125 units in No.40, 375 units in MTD-1.1, 25 units in MTD-1.2.
+
+Delta Coal sells Cable Superstrand 21.8mm x 6.0m Plain to Delta Coal (JA357) with a quantity of 50 units in 2025.1 and 50 units in 2025.9, 50 units in No.32, 50 units in No.41.
+
+Delta Coal sells Cable Superstrand 21.8mm x 6.0m Total to Delta Coal (JA357) with a quantity of 125 units in 2025, 125 units in 2025.2, 50 units in 2025.3, 75 units in 2025.4, 125 units in 2025.6, 125 units in 2025.9, 150 units in 2025.10, 125 units in No.3, 50 units in No.9, 125 units in No.11, 75 units in No.13, 125 units in No.24, 150 units in MTD-1.1, 125 units in MTD-2.2.
+
+Delta Coal sells Combi Plate 280x400 + KangA150x5mm Top Plate 250 Plates Per Pallet to Delta Coal (JA357) with a quantity of 10 units in 2025.6 and 10 units in No.23.
+
+Delta Coal sells Dolly 25sq Drive 165mm Long To Suit S/Strand Toto With Through Water Hole to Delta Coal (JA357) with a quantity of 6 units in 2025, 1 unit in 2025.1, 3 units in 2025.2, 4 units in 2025.3, 8 units in 2025.4, 4 units in 2025.5, 7 units in 2025.6, 4 units in 2025.7, 5 units in 2025.8, 9 units in 2025.10, 3 units in 2025.11, 3 units in No.4, 4 units in No.6, 4 units in No.10, 3 units in No.11, 4 units in No.14, 4 units in No.17, 4 units in No.21, 3 units in No.22, 3 units in No.23, 4 units in No.26, 5 units in No.29, 1 unit in No.41, 4 units in MTD-1, 5 units in MTD-1.2, 3 units in MTD.1.
+
+Delta Coal sells Dollie 25sq - 24 Hex F 290mm 70t Hollow Cable to Delta Coal (JA357) with a quantity of 2 units in 2025.3, 2 units in 2025.6, 2 units in 2025.8, 6 units in 2025.9, 2 units in No.7, 2 units in No.24, 2 units in No.33, 2 units in MTD-3.1, 4 units in MTD-2.1.
+
+Delta Coal sells Torqometer Dollie 300mm Long 25sq Male - 3/4 Sq Female to Delta Coal (JA357) with a quantity of 1 unit in 2025.8 and 1 unit in MTD-3.2.
+
+Delta Coal sells Dollie Tiger To Suit Toto D0072 Rev 0 to Delta Coal (JA357) with a quantity of 3 units in 2025, 3 units in 2025.1, 7 units in 2025.2, 5 units in 2025.4, 6 units in 2025.6, 3 units in 2025.7, 3 units in 2025.8, 6 units in 2025.10, 3 units in 2025.11, 4 units in No.2, 3 units in No.4, 5 units in No.10, 3 units in No.21, 3 units in No.22, 3 units in No.23, 3 units in No.27, 3 units in No.29, 3 units in No.41, 3 units in MTD-1, 3 units in MTD-1.2, 3 units in MTD.1.
+
+Delta Coal sells F/G Bolt 25 X 1500 MM Orange O/Moulded to Delta Coal (JA357) with a quantity of 2000 units in 2024, 2000 units in 2025, 3000 units in 2025.1, 3000 units in 2025.2, 2000 units in 2025.3, 3000 units in 2025.4, 1000 units in 2025.5, 2000 units in 2025.6, 1000 units in 2025.7, 1500 units in 2025.8, 2000 units in 2025.9, 500 units in 2025.10, 1000 units in 2025.11, 3000 units in No.1, 1000 units in No.5, 1000 units in No.9, 1500 units in No.10, 500 units in No.11, 1500 units in No.14, 1000 units in No.17, 1000 units in No.20, 1000 units in No.22, 1000 units in No.23, 1000 units in No.26, 500 units in No.30, 1000 units in No.33, 1000 units in No.38, 500 units in No.39, 1500 units in No.41, 1500 units in MTD-3.2, 500 units in MTD-1.2, 1000 units in MTD-2.2, 500 units in MTD, 500 units in MTD.1, 500 units in MTD CY-1, 1000 units in MTD CY-1.2.
+
+Delta Coal sells Plastic Plate Square 230mmx230mm 33mm Hole Magnet 500 Plates Per Pallet to Delta Coal (JA357) with a quantity of 1 unit in 2025.4 and 1 unit in No.14.
+
+Delta Coal sells Kanga Plate 150x150x5mm 38mm Hole Gal 980 Plates Per Pallet to Delta Coal (JA357) with a quantity of 100 units in 2025.8 and 100 units in No.29.
+
+Delta Coal sells Kanga Plate 150x150x5mm 38mm Hole Tied 980 Plates Per Pallet to Delta Coal (JA357) with a quantity of 980 units in 2024, 1960 units in 2025.1, 1960 units in 2025.3, 1960 units in 2025.10, 1960 units in No.7, 1960 units in No.41, 1960 units in MTD-1, 980 units in MTD CY-1.
+
+Delta Coal supplies various products to customers in New South Wales, Australia. In 2025, they sold 500 units of Kanga Plate 200x200x5mm 38mm hole 1 hanger tied 500 plates per pallet across multiple months, with consistent sales throughout the year. Additionally, they sold 500 units of J-Lok 5* PG cable 1000x36mm med + retainer resin - 10 capsules/box, 420/pallet (42 boxes) in 2025.3 and 2025.7, and 520 units in 2025.8 and 2025.11.
+
+Delta Coal also distributed J-Lok 5* single 650x25mm fast resin - 35 capsules/box, 1,680/pallet (48 boxes) in significant quantities, with sales peaking in 2025.4 and 2025.7. They sold 8,400 units in 2024 and continued with a steady supply through 2025, reaching a total of 50,400 units by the end of 2025.
+
+Delta Coal offered J-Lok dual 1200x25mm x-fast/slow 50:50 ratio resin - 20 capsules/box, 840/pallet (42 boxes) and sold 100 units in 2025.8. They also provided J-Lok lif pg cable 1200x36mm med + retainer resin - 9 capsules/box, 378/pallet (42 boxes) and sold 9 units in 2025.3.
+
+Delta Coal's J-Lok single 440x25mm slow resin - 40 capsules/box, 2,240/pallet (56 boxes) saw sales in 2024 and continued into 2025, with varying quantities throughout the year. They sold 460 units in open periods.
+
+Delta Coal supplied plastic mesh sheet 2.1m x 1.7m - 65mm aperture 300 sheets per pallet and sold 293 units in 2024, increasing to 300 units in 2025.4 and continuing through 2025.7 and 2025.10.
+
+Delta Coal distributed volcano plate 200x200x12mm 42mm hole round corners and sold 400 units in 2024, increasing to 600 units in 2025. They maintained consistent sales through 2025.1, 2025.2, 2025.3, 2025.4, 2025.5, 2025.6, 2025.8, 2025.9, and 2025.10.
+
+Delta Coal sold volcano plate 300x300x12mm w/56mm hole & 2x14 grt indicator hol and sold 100 units in 2025.9.
+
+Delta Coal packaged JW12 x 8.0m sumo c/w b&w + jv30301256gi 50 cables with b&w & 50 plates per pack (slings) and sold 1 unit in 2025, increasing to 3 units in 2025.7, 1 unit in 2025.8, and 1 unit in 2025.9. They also sold 1 unit in 2025.10, 1 unit in 2025.22, 2 units in 2025.25, 1 unit in 2025.28, 1 unit in 2025.29, and 1 unit in 2025.33.
+
+Delta Coal provided resiner inserter 2m x 1.86m orange and sold 2 units in 2025, increasing to 3 units in 2025.4, 2 units in 2025.7, and 2 units in 2025.9. They also sold 2 units in 2025.10, 3 units in 2025.14, 2 units in 2025.26, 2 units in 2025.33, and 2 units in 2025.35.
+
+Delta Coal distributed washer w/square 280x400mm w/90mm hole & slot and sold 10 units in 2025.6.
+
+Delta Coal supplied butterfly plate 280x300mm - black 960 per pallet and sold 960 units in 2025.
+
+Delta Coal offered butterfly plate 280x300 - gal and sold 100 units in 2025.8.
+
+Delta Coal provided bolt m24 x2.1m dbw pin ga nut p3 galv ball washer and sold 100 units in 2025.8.
+
+Delta Coal distributed jx m24x2.1m dome ball washer s pin nut black and sold 300 units in 2024, increasing to 400 units in 2025, 300 units in 2025.1, 400 units in 2025.2, 800 units in 2025.3, 650 units in 2025.4, 300 units in 2025.6, 400 units in 2025.7, 900 units in 2025.8, 300 units in 2025.9, and 700 units in 2025.10.
+
+Delta Coal sold 70t grout lance 1000mm long, swivel minsup a claw and sold 2 units in 2025.9, increasing to 1 unit in 2025.10 and 2 units in 2025.11.
+
+Delta Coal distributed 70t grout lance 1800mm long, swivel minsup a claw and sold 3 units in 2025.6, increasing to 4 units in 2025.7 and 2 units in 2025.10.
+
+Delta Coal provided safety lanyard to tensioner and sold 2 units in 2025, increasing to 2 units in 2025.1, 4 units in 2025.2, 2 units in 2025.7, 4 units in 2025.9, and 8 units in 2025.10.
+
+Delta Coal sells Mineral Sponge 1000kg Bulk Bags, with sales of 11 units in 2025.1 and 13 units in 2025.6 and No.21.
+
+Delta Coal also sells NUT M24 X 125D Molycoated, with sales of 200 units in 2025, 150 units in 2025.1, 150 units in 2025.2, 100 units in 2025.4, 300 units in 2025.5, 450 units in 2025.6, 250 units in 2025.7, 200 units in 2025.8, 200 units in 2025.9, 100 units in 2025.10, 150 units in No.2, 100 units in No.12, 150 units in No.17, 150 units in No.18, 150 units in No.20, 200 units in No.21, 100 units in No.22, 100 units in No.24, 100 units in No.25, 150 units in No.27, 100 units in No.30, 200 units in No.31, 100 units in No.32, 100 units in No.33, 150 units in No.39, and 100 units in MTD-1.
+
+Delta Coal offers RIB STRAP HDPE 4500MM X 190MM WIDE WITH 5 HOLES, with sales of 100 units in 2024, 100 units in 2025.1, 110 units in 2025.2, 100 units in 2025.6, 150 units in 2025.7, 150 units in 2025.8, 110 units in No.4, 100 units in No.19, 150 units in No.26, 150 units in No.29, 100 units in No.38, and 100 units in MTD CY-1.
+
+Delta Coal provides 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC, with sales of 480 units in 2025.9 and 480 units in 2025.11, and 480 units in MTD.1.
+
+Delta Coal sells MESH RIB 2.10M X 1.7M 100X100 APT 4.0MM WIRE, with sales of 600 units in 2025.9 and 600 units in 2025.11, and 600 units in MTD-2.1 and MTD.2.
+
+Delta Coal offers MESH RIB 2.40MX1.50M 100X100 APT 3.0/4.0MM WIRE -G IMG34-44-2415-JAS, with sales of 100 units in 2025.11 and 100 units in MTD.
+
+Delta Coal provides MESH RIB 3.10MX2.10M 100X100 APT 4.0MM WIRE - GAL, with sales of 10 units in 2025.10 and 10 units in MTD-1.2.
+
+Delta Coal sells 100x200x3.5x1.1x 5mm Weld Mesh IMG5-48-3511, with sales of 50 units in 2025.8 and 50 units in MTD-3.2.
+
+Delta Coal offers Sentinel Mine mesh 5000 x 1610 mm 100x100 Apt 4l Wire, with sales of 900 units in 2024, 1350 units in 2025, 1350 units in 2025.1, 900 units in 2025.2, 1350 units in 2025.3, 900 units in 2025.4, 1575 units in 2025.5, 1575 units in 2025.6, 1350 units in 2025.7, 820 units in 2025.8, 1350 units in 2025.9, 1350 units in 2025.10, 900 units in 2025.11, 450 units in No.2, 450 units in No.3, 450 units in No.4, 450 units in No.6, 450 units in No.8, 450 units in No.10, 450 units in No.12, 450 units in No.14, 450 units in No.16, 450 units in No.17, 450 units in No.19, 450 units in No.21, 450 units in No.23, 225 units in No.24, 675 units in No.25, 450 units in No.27, 450 units in No.28, 450 units in No.29, 450 units in No.30, 420 units in No.33, 450 units in No.34, 450 units in No.35, 900 units in No.39, 450 units in No.41, 450 units in MTD-3.1, 450 units in MTD-3.2, 450 units in MTD-1.1, 450 units in MTD-1.2, 400 units in MTD-2.1, 550 units in MTD.1, 350 units in MTD.2, 900 units in MTD CY-1.2, and 130 units in Open.
+
+Delta Coal sells Sentinel 5200 x 1610 mm 100 x 100mm 4mm + 4.77mm Wire, with sales of 20 units in 2025.9 and 20 units in MTD-2.1.
+
+Delta Coal provides J-LOK SPIN2STALL 1200MM X 25MM TYPE Z 50:50 RATIO RESIN - 20 CAPSULES/BOX, 840/PALLET (42 BOXES), with sales of 6720 units in 2024, 8400 units in 2025, 3360 units in 2025.1, 11760 units in 2025.2, 3360 units in 2025.3, 10080 units in 2025.4, 6720 units in 2025.5, 7560 units in 2025.6, 9240 units in 2025.7, 9240 units in 2025.8, 8400 units in 2025.9, 8400 units in 2025.10, 6720 units in 2025.11, 3360 units in No.1, 1680 units in No.3, 6720 units in No.4, 3360 units in No.6, 3360 units in No.10, 3360 units in No.12, 3360 units in No.14, 3360 units in No.16, 3360 units in No.17, 3360 units in No.19, 3360 units in No.22, 4200 units in No.23, 5040 units in No.26, 4200 units in No.27, 3360 units in No.29, 3360 units in No.32, 5040 units in No.35, 1680 units in No.36, 3360 units in No.40, 5040 units in MTD-3.1, 840 units in MTD-3.2, 3360 units in MTD-1.1, 5040 units in MTD-1.2, 5040 units in MTD-2.1, 3360 units in MTD, 3360 units in MTD.1, 5040 units in MTD CY-1.2, and 130 units in Open.
+
+Delta Coal sells Top Down 80MPA Cable Grout 20kg Bag 56 BAGS X 20KG PER PALLET, with sales of 56 units in 2025.3, 224 units in 2025.7, 112 units in 2025.8, 112 units in 2025.9, 112 units in 2025.10, 112 units in 2025.11, 56 units in No.9, 56 units in No.25, 56 units in No.27, 112 units in No.28, 56 units in MTD-3, 56 units in MTD-3.1, 112 units in MTD-1, 112 units in MTD-2.1, 112 units in MTD, and 112 units in MTD.1.
+
+Delta Coal provides Air/Hydraulic Footpump, with sales of 2 units in 2025.8 and 2 units in MTD-3.1.
+
+Delta Coal sells DSI Tensioner Hose, with sales of 2 units in 2025.8 and 2 units in MTD-3.1.
+
+Delta Coal offers 10mm Stainless Steel Load Rated Spring Hook, with sales of 20 units in 2024, 30 units in 2025.2, 20 units in 2025.4, 50 units in 2025.6, 30 units in 2025.7, 30 units in 2025.8, 20 units in 2025.9, 30 units in 2025.10, 30 units in No.2, 20 units in No.13, 30 units in No.19, 20 units in No.21, 21 units in No.25, 9 units in No.27, 30 units in No.29, 20 units in No.33, 30 units in MTD-1.2, 20 units in MTD CY-1.2, and 20 units in Open.
+
+Delta Coal supplies Washer Dome Ball M24, with sales of 70 units in 2025.1, 100 units in 2025.2, 100 units in 2025.8, 100 units in 2025.9, 100 units in 2025.10, 100 units in 2025.11, 100 units in No.2, 100 units in No.31, 50 units in No.32, 50 units in No.33, and 70 units in No.39.
+
+Donaldson Coal Pty Ltd sells Barrel & Wedge 31mm OD70 31mm 70T Hollow Cable, with sales of 100 units in 2024 and 100 units in No.36.
+
+Donaldson Coal Pty Ltd provides C/BOLT HOLLOW 31MM x 6.0M 70T SUMO CABLE, with sales of 100 units in 2024 and 100 units in No.36.
+
+Donaldson Coal Pty Ltd offers KANGA PLATE 150X150X5MM 38MM HOLE GAL 980 PLATES PER PALLET, with sales of 980 units in 2024 and 980 units in No.36.
+
+Donaldson Coal Pty Ltd sells J-LOK DUAL 1200X25MM FAST/SLOW 50:50 RATIO RESIN - 20 CAPSULES/BOX, 840/PALLET (42 BOXES), with sales of 420 units in 2024 and 420 units in No.36.
+
+Donaldson Coal Pty Ltd sells JLLPG120036MR cable, 9 capsules per box, 42 boxes per pallet, totaling 378 pallets in 2024 and 99 units in No.36 in 2024.
+
+Donaldson Coal Pty Ltd sells Volc plate 300x300x12mm with 56mm hole and two 14-grit indicators, totaling 100 units in 2024 and 100 units in No.36 in 2024.
+
+Donaldson Coal Pty Ltd sells Bolt M24 x2.1m DBW pin ga nut p3 galv ball washer, totaling 500 units in 2024 and 500 units in No.36 in 2024.
+
+Donaldson Coal Pty Ltd sells 70T grout lance 1000mm long with swivel minsup claw, totaling 1 unit in 2024 and 1 unit in No.36 in 2024.
+
+Donaldson Coal Pty Ltd sells Top Down 80MPa cable grout 20kg bag, 56 bags per pallet, totaling 56 units in 2024 and 56 units in No.36 in 2024.
+
+Glencore (Xstrata) sells Top Down 80MPa cable grout 20kg bag, 56 bags per pallet, totaling 504 units in 2025.6 and 504 units in No.19 in 2025.6.
+
+Glencore (Xstrata) sells Cover drive drill steel 1950mm long 25mm sq drive, totaling 6 units in 2025.4 and 6 units in No.12 in 2025.4.
+
+Glencore (Xstrata) sells Cover drive PVC sleeve 600mm long including reamer, totaling 100 units in 2025.4 and 100 units in No.10 in 2025.4.
+
+Glencore (Xstrata) sells 16mm grout gun, totaling 6 units in 2025.1, 3 units in 2025.7, 3 units in No.26, 3 units in No.38, and 3 units in No.41 in 2025.7.
+
+Glencore (Xstrata) sells GX mesh 4.80mx1.125m 100x100 apt 4.0mm wire - galvanized, totaling 40 units in 2025.4 and 40 units in No.14 in 2025.4.
+
+Glencore (Xstrata) sells 200x200mm plastic inserted plate 51mm height to suit 32mm drill core, totaling 1000 units in 2024, 1000 units in 2025, 1000 units in 2025.1, 1000 units in 2025.7, 1000 units in 2025.8, 1000 units in 2025.9, 1000 units in 2025.10, 1000 units in 2025.11, 1000 units in MTD CY-1.2, and 1000 units in Open in 2025.4.
+
+Glencore (Xstrata) sells JBS M24x1.2m dome ball teflon red pin nut black, totaling 800 units in 2025.4, 1000 units in 2025.5, 400 units in 2025.6, 800 units in 2025.10, 300 units in No.10, 500 units in No.12, 1000 units in No.16, 400 units in No.24, 800 units in MTD-1.2, and 400 units in Open in 2025.4.
+
+Glencore (Xstrata) sells JBS M24x1.8m dome ball teflon green pin nut, totaling 1000 units in 2025.2 and 1000 units in No.3 in 2025.2.
+
+Glencore (Xstrata) sells combi 300 roll edge + k 150 x 5mm top plate 38mm high, totaling 2500 units in 2025.2 and 2500 units in No.3 in 2025.2.
+
+Glencore (Xstrata) sells dollie 25sq drive 300mm long with 46mm socket to suit 32mm fibreglass dowels, totaling 2 units in 2024, 10 units in 2025.2, 2 units in No.1, 8 units in No.2, and 2 units in MTD CY-1.2 in 2025.2.
+
+Glencore (Xstrata) sells f/g bolt 22mmx1750mm black o/moulded thrust head 500 units per pallet, totaling 2500 units in 2024, 2500 units in 2025.1, 2000 units in 2025.2, 2000 units in 2025.3, 3000 units in 2025.6, 2000 units in 2025.7, 2000 units in 2025.8, 4000 units in 2025.9, 2000 units in 2025.11, 1000 units in No.2, 1000 units in No.4, 2000 units in No.9, 3000 units in No.20, 2000 units in No.26, 2000 units in No.29, 4000 units in No.33, 2500 units in No.37, 2500 units in No.38, 2000 units in MTD.2, and 800 units in Open in 2025.4.
+
+Glencore (Xstrata) sells f/g bolt 32mmx1800mm solid high breakout t/t nut, totaling 100 units in 2024 and 100 units in No.4 in 2025.2.
+
+Glencore (Xstrata) sells plastic plate square 230mm x 230mm 33mm hole black, totaling 3000 units in 2025.1, 2000 units in 2025.2, 2000 units in 2025.3, 5000 units in 2025.6, 2000 units in 2025.8, 5000 units in 2025.9, 3000 units in 2025.11, 2000 units in No.2, 2000 units in No.9, 3000 units in No.20, 2000 units in No.23, 2000 units in No.29, 2000 units in No.33, 1000 units in No.38, 2000 units in No.39, 2000 units in MTD-2.1, and 2000 units in MTD.1 in 2025.2.
+
+Glencore (Xstrata) sells kangga plate 150x150x5mm 8 ribs with 38mm hole tied 980 plates per pallet, totaling 5880 units in 2025, 4900 units in 2025.1, 4900 units in 2025.2, 11760 units in 2025.3, 4900 units in 2025.4, 10780 units in 2025.5, 5880 units in 2025.6, 4900 units in 2025.7, 4900 units in 2025.8, 9800 units in 2025.9, 9800 units in 2025.10, 3920 units in 2025.11, 4900 units in No.1, 4900 units in No.5, 6860 units in No.8, 4900 units in No.12, 5880 units in No.15, 4900 units in No.18, 5880 units in No.23, 4900 units in No.28, 4900 units in No.29, 4900 units in No.30, 4900 units in No.34, 4900 units in No.39, 4900 units in MTD-1.1, 4900 units in MTD-2.2, 3920 units in MTD.2, and 3920 units in Open in 2025.2.
+
+Glencore (Xstrata) sells kangga plate 150x150x5mm 38mm hole tied 980 plates per pallet, totaling 5880 units in 2024 and 5880 units in MTD CY-1.2 in 2024.
+
+GLENCORE (XSTRATA) sells various products to ULAN COAL MINES P/L (JA011). In 2025, they sold 1000 units of Resin Anchor 1200x25mm Dual Speed 40/60 Fst Slw, No.3. The same year, they also sold 2646 units of J-LOK LIF PG CABLE 1200X36MM MED + RETAINER RESIN - 9 CAPSULES/BOX, 378/PALLET (42 BOXES).
+
+In 2025, GLENCORE (XSTRATA) sold 1400 units of J-LOK SINGLE 440X25MM FAST SET + CARDBOARD SLEEVE RESIN - 25 CAPSULES/BOX, 1,400/PALLET (56 BOXES).
+
+GLENCORE (XSTRATA) distributed JPMM2418 300 p/pallet in 2024, selling 600 units. In 2025, they increased sales to 810 units, followed by 1700 units in 2025.1, 900 units in 2025.3, and 1200 units in 2025.10.
+
+In 2025, GLENCORE (XSTRATA) sold 33 units of Jennchem Underground Roadway Repair, increasing to 38 units in 2025.2, 37 units in 2025.5, and 20 units in 2025.8.
+
+GLENCORE (XSTRATA) sold 3840 units of BUTTERFLY PLATE 280X300MM - BLACK 960 PER PALLET in 2024. In 2025, they sold 1920 units, increasing to 5760 units in 2025.1, 2880 units in 2025.2, 6720 units in 2025.3, 3840 units in 2025.4, 4800 units in 2025.5, 3840 units in 2025.6, 1920 units in 2025.7, 1920 units in 2025.8, 4800 units in 2025.9, 3840 units in 2025.10, and 4800 units in 2025.11.
+
+In 2025, GLENCORE (XSTRATA) sold 1050 units of JX M24X1.2M DOME BALL TEFLON S PIN NUT, with 350 units in No.22 and 700 units in No.30.
+
+GLENCORE (XSTRATA) distributed JX M24X1.8M DOME BALL TEFLON S PIN NUT BD 60 Bolts, selling 220 units in 2024 and 20 units in 2025. They increased sales to 120 units in 2025.1, 128 units in 2025.2, 136 units in 2025.3, 116 units in 2025.4, 132 units in 2025.5, 160 units in 2025.6, and 164 units in 2025.8.
+
+In 2025, GLENCORE (XSTRATA) sold 168 units of CHARPY TESTED JX M24X1.8M DOME BALL TEFLON S PINNUT (BUNDLE OF 60), with 132 units in 2025.10 and 100 units in 2025.11.
+
+GLENCORE (XSTRATA) sold 360 units of MESH CUSP 1150MM X 1000MM BENT 90 DEGREE ANGLE to ULAN COAL MINES P/L (JA011) in 2025.
+
+In 2024, GLENCORE (XSTRATA) sold 6720 units of J-LOK SPIN2STALL 1100MM X 25MM TYPE A 50:50 RATIO RESIN - 20 CAPSULES/BOX, 840/PALLET (42 BOXES) to ULAN COAL MINES P/L (JA011). In 2025, they increased sales to 8400 units, followed by 13440 units in 2025.1, 10080 units in 2025.2, 9240 units in 2025.3, 8400 units in 2025.4, 6720 units in 2025.5, 8400 units in 2025.6, 6720 units in 2025.7, 10920 units in 2025.8, 10920 units in 2025.9, 11760 units in 2025.10, and 11760 units in 2025.11.
+
+In 2025, GLENCORE (XSTRATA) sold 100 units of WASHER DOME BALL M24, with 100 units in No.23 and 100 units in MTD-2.2.
+
+In 2024, GLENCORE (XSTRATA) sold 11 units of CABLE PACK 15.2MM X 8.0M - PLAIN + GROUT TUBE 50 CABLES AND 50 GROUT TUBES PER PACK to ULAN WEST UNDERGROUND (JA168). In 2025.1, they sold 9 units, followed by 5 units in 2025.2, 6 units in 2025.3, 5 units in 2025.4, 9 units in 2025.5, 10 units in 2025.7, with 5 units in No.1, 6 units in No.9, 5 units in No.10, 5 units in No.18, 4 units in No.19, 7 units in No.26, 3 units in No.27, 5 units in No.36, 9 units in No.39, and 6 units in MTD CY-1.1.
+
+In 2024, GLENCORE (XSTRATA) sold 300 units of MESH RIB 2.00MX0.80M 100X100 APT 4.0MM WIRE to ULAN WEST UNDERGROUND (JA168). In 2025.1, they sold 500 units, followed by 500 units in 2025.4, 500 units in 2025.5, and 500 units in 2025.8, with 500 units in No.12, 500 units in No.19, 500 units in No.39, 500 units in MTD-3.2, and 300 units in MTD CY-1.1.
+
+In 2025, GLENCORE (XSTRATA) sold 30 units of PLASTIC MESH 28.00M X 2.00M ROLL to ULAN WEST UNDERGROUND (JA168), with 30 units in No.12.
+
+In 2025, GLENCORE (XSTRATA) sold 18 units of Geocell High Density Polyethylene 2.5 X 8.35 M to ULAN WEST UNDERGROUND (JA168), with 18 units in No.19 and 18 units in MTD.1.
+
+In 2024, GLENCORE (XSTRATA) sold 3 units of 3 GANG GROUT CUBE MOULD to ULAN WEST UNDERGROUND (JA168), with 3 units in 2024 and 3 units in No.22, and 3 units in MTD CY-1.1.
+
+In 2024, GLENCORE (XSTRATA) sold 20 units of 16MM GROUT GUN to ULAN WEST UNDERGROUND (JA168), with 7 units in 2025.1, 10 units in 2025.2, 5 units in 2025.3, 10 units in 2025.4, 10 units in 2025.5, 5 units in 2025.6, 5 units in 2025.7, 10 units in 2025.8, 10 units in 2025.10, with 10 units in No.3, 5 units in No.8, 10 units in No.14, 10 units in No.16, 5 units in No.23, 5 units in No.28, 7 units in No.40, 8 units in MTD-3.1, 2 units in MTD-3.2, 10 units in MTD-1.2, 10 units in MTD CY-1.1, and 10 units in MTD CY-1.2.
+
+In 2024, GLENCORE (XSTRATA) sold 50 units of GX MESH 5.0M X 1.16M 100X100 APT 4.00MM WIRE - GAL to ULAN WEST UNDERGROUND (JA168), with 50 units in 2025.5 and 50 units in No.17, and 50 units in MTD CY-1.
+
+In 2024, GLENCORE (XSTRATA) sold 200 units of PLASTIC PLATE 300MM SQUARE 51MM HOLE STEEL INSERT 500 UNITS PER PALLET to ULAN WEST UNDERGROUND (JA168), with 200 units in 2025.10 and 200 units in MTD-1.2, and 200 units in Open.
+
+GLENCORE (XSTRATA) sells various products to ULAN WEST UNDERGROUND (JA168) in NSW, Australia. In 2024, they sold 1550 units of JBS M24X1.1M DOME BALL HEADED BOLT. For 2025, sales increased significantly, reaching up to 5450 units in Q4. Other notable sales include 1300 units in No.2, 500 units in No.3, and 1000 units in No.5. The company also sold 1700 units in No.9, 2350 units in No.10, and 825 units in No.13. MTD-3.1 saw 125 units sold, while MTD CY-1 recorded 1300 units.
+
+GLENCORE (XSTRATA) continues to sell JBS M24X1.2M DOME BALL TEFLON GREEN PIN NUT BLACK to ULAN WEST UNDERGROUND (JA168). In 2025, they sold 1950 units in Q1, 1050 units in Q2, and 1950 units in Q4. Notable sales include 1050 units in No.2, 700 units in No.8, and 350 units in No.9. The company also sold 1950 units in No.10 and 1050 units in No.11. MTD CY-1 recorded 1100 units sold.
+
+GLENCORE (XSTRATA) sells JBS M24X1.2M DOME BALL TEFLON RED PIN NUT BLACK to ULAN WEST UNDERGROUND (JA168). In 2025, they sold 1050 units in Q1. Notable sales include 1050 units in No.16 and 1000 units in No.23. The company also sold 50 units in No.24.
+
+GLENCORE (XSTRATA) sells DOLLIE 25SQ DRIVE 300MM LONG W/ 46MM SOCKET TO SUIT 32MM FIBREGLASS DOWELS to ULAN WEST UNDERGROUND (JA168). In 2025, they sold 10 units in Q1 and Q2. Notable sales include 10 units in MTD-1.1 and MTD.1.
+
+GLENCORE (XSTRATA) sells DOLLIE TIGER TO SUIT TOTO D0072 Rev 0 to ULAN WEST UNDERGROUND (JA168). In 2025, they sold 8 units in Q1. Notable sales include 8 units in No.41.
+
+GLENCORE (XSTRATA) sells F/G BOLT 22MMX1150MM BLACK O/MOULDED THRUST HEAD 500 UNITS PER PALLET to ULAN WEST UNDERGROUND (JA168). In 2025, they sold 2000 units in Q1, Q2, Q3, and Q4. Notable sales include 2000 units in No.1, No.8, No.10, No.12, No.15, No.16, No.18, No.20, No.23, No.25, No.28, No.29, No.32, No.38, and MTD-1, MTD-2.2, and MTD.1.
+
+GLENCORE (XSTRATA) sells F/G BOLT 22MMX1750MM BLACK O/MOULDED THRUST HEAD 500 UNITS PER PALLET to ULAN WEST UNDERGROUND (JA168). In 2025, they sold 1000 units. Notable sales include 500 units in No.11 and 500 units in No.22.
+
+GLENCORE (XSTRATA) sells F/G BOLT 32MMX1800MM SOLID HIGH BREAKOUT T/T NUT to ULAN WEST UNDERGROUND (JA168). In 2024, they sold 100 units. In 2025, they sold 200 units in Q4. Notable sales include 200 units in No.33 and 100 units in MTD CY-1.1.
+
+GLENCORE (XSTRATA) sells FIBREGLASS MESH SHEET 1.7M X 1.2M 100MM AP - 4MM 300 UNITS PER PALLET to ULAN WEST UNDERGROUND (JA168). In 2025, they sold 600 units. Notable sales include 300 units in Q1, Q2, and Q3, 1835 units in Q4, 400 units in Q5, 300 units in No.1, 500 units in No.6, 1335 units in No.12, 500 units in No.14, 400 units in No.15, 600 units in No.35, and 300 units in No.38.
+
+GLENCORE (XSTRATA) sells FIBREGLASS MESH SHEET 1.7M X 1.2M 100MM AP - 4MM 300 UNITS PER PALLET to ULAN WEST UNDERGROUND (JA168). In 2025, they sold 3000 units in Q5, 1200 units in Q6, Q7, and Q8, 600 units in Q9, and 1200 units in Q10. Notable sales include 300 units in No.16, 300 units in No.17, 2400 units in No.18, 600 units in No.20, 600 units in No.24, 600 units in No.27, 600 units in No.28, 1200 units in No.29, 1200 units in MTD-1, 600 units in MTD-2.2, 900 units in MTD.1, and 300 units in MTD.2.
+
+GLENCORE (XSTRATA) sells J-LOK G DUAL 880X25MM X-FAST/SLOW 50:50 RATIO RESIN - 25 CAPSULES/BOX, 900/PALLET (36 BOXES) to ULAN WEST UNDERGROUND (JA168). In 2024, they sold 900 units. In 2025, they sold 900 units. Notable sales include 900 units in No.32 and 900 units in MTD CY-1.
+
+GLENCORE (XSTRATA) sells J-LOK G DUAL 880X25MM X-FAST/SLOW 50:50 HALF PLT RESIN - 25 CAPSULES/BOX, 450/PALLET (18 BOXES) to ULAN WEST UNDERGROUND (JA168). In 2024, they sold 5400 units. In 2025, they sold 8550 units in Q1, 5400 units in Q2, 9900 units in Q3, 13500 units in Q4, 12600 units in Q5, 8100 units in Q6, 5400 units in Q7, 8100 units in Q8, 8100 units in Q9, 5400 units in Q10, and 5400 units in Q11. Notable sales include 2700 units in No.1, 1800 units in No.3, 900 units in No.4, 3600 units in No.5, 1800 units in No.6, 4500 units in No.8, 5400 units in No.10, 3150 units in No.11, 2700 units in No.12, 5400 units in No.14, 2700 units in No.15, 2700 units in No.16, 2700 units in No.17, 4500 units in No.18, 2700 units in No.20, 2700 units in No.21, 2700 units in No.22, 2700 units in No.24, 2700 units in No.25, 2700 units in No.28, 5400 units in No.32, 2700 units in No.35, 2700 units in No.38, 3150 units in No.40, 2700 units in No.41, 2700 units in MTD-3, 5400 units in MTD-1, 2700 units in MTD-1.2, 2700 units in MTD-2.2, 5400 units in MTD.1, 2700 units in MTD CY-1, 450 units in MTD CY-1.1, and 2250 units in MTD CY-1.2.
+
+GLENCORE (XSTRATA) sells PLASTIC PLATE SQUARE 230MM X 230MM 33MM HOLE BLACK 1000 PLATES PER PALLET to ULAN WEST UNDERGROUND (JA168). In 2025, they sold 1000 units. Notable sales include 3000 units in Q1, Q2, and Q3, 4000 units in Q4, 8000 units in Q5, 3000 units in Q6, 2000 units in Q7, 3000 units in Q8, 3000 units in Q9, 3000 units in Q10, 3000 units in Q11, 1000 units in No.1, 1000 units in No.2, 1000 units in No.4, 3000 units in No.9, 1000 units in No.10, 2000 units in No.12, 1000 units in No.14, 2000 units in No.15, 1000 units in No.16, 1000 units in No.17, 4000 units in No.18, 1000 units in No.20, 1000 units in No.22, 1000 units in No.23, 1000 units in No.24, 2000 units in No.25, 1000 units in No.29, 1000 units in No.32, 1000 units in No.34, 1000 units in No.38, 1000 units in No.39, 1000 units in No.40, 2000 units in MTD-3, 2000 units in MTD-1, 2000 units in MTD-2.2, 2000 units in MTD: 2000, 2000 units in MTD.1, 2000 units in MTD CY-1, 2000 units in MTD CY-1.1.
+
+GLENCORE (XSTRATA) sells KANGA PLATE 150X150X5MM 8 RIBS W/38MM HOLE TIED 980 PLATES PER PALLET to ULAN WEST UNDERGROUND (JA168). In 2025, they sold 1960 units in Q4, 22540 units in Q5, 11760 units in Q6, 11760 units in Q7, 5880 units in Q8, 12740 units in Q9, and 9800 units in Q10. Notable sales include 1960 units in No.18, 10780 units in No.20, 5880 units in No.23, 5880 units in No.24, 11760 units in No.28, 5880 units in No.29, 5880 units in MTD-3.1, 5880 units in MTD-1, 3920 units in MTD-1.1, 2940 units in MTD-1.2, 5880 units in MTD-2.2, 9800 units in MTD.1.
+
+GLENCORE (XSTRATA) sells KANGA PLATE 150X150X5MM 38MM HOLE TIED 980 PLATES PER PALLET to ULAN WEST UNDERGROUND (JA168). In 2024, they sold 5880 units. In 2025, they sold 11760 units in Q1, 15680 units in Q2, 11760 units in Q3, 20580 units in Q4, and 16660 units in Q5. Notable sales include 5880 units in No., 5880 units in No.2, 5880 units in No.3, 5880 units in No.6, 9800 units in No.9, 8820 units in No.10, 5880 units in No.12, 3920 units in No.13, 1960 units in No.14, 7840 units in No.16, 8820 units in No.18, 5880 units in No.35, 3920 units in No.38, 5880 units in No.39, and 5880 units in No.40, 5880 units in MTD CY-1.1.
+
+GLENCORE (XSTRATA) sells J-LOK 5* PG CABLE 1000X36MM MED + RETAINER RESIN - 10 CAPSULES/BOX, 420/PALLET (42 BOXES) to ULAN WEST UNDERGROUND (JA168). In 2024, they sold 1680 units. In 2025, they sold 840 units in Q1, 1260 units in Q2, 1260 units in Q3, 2100 units in Q4, and 2940 units in Q5. Notable sales include 840 units in No.1, 420 units in No.2, 840 units in No.5, 420 units in No.6, 420 units in No.10, 840 units in No.13, 840 units in No.14, 840 units in No.15, 420 units in No.16, 420 units in No.17, 1260 units in No.18, 840 units in No.22, 420 units in No.24, 1260 units in No.27, 840 units in No.28, 1260 units in No.31, 420 units in No.33, 420 units in No.34, 1260 units in No.37, 420 units in No.38, 420 units in No.39, 420 units in No.41, 420 units in MTD-1, 420 units in MTD-1.2, 420 units in MTD-2.1, 840 units in MTD-2.2, 420 units in MTD: 420, 420 units in MTD.1, 420 units in MTD CY-1.1.
+
+GLENCORE (XSTRATA) sells J-LOK 5* TENDON CABLE 1200X25MM SLOW RESIN - 20 CAPSULES/BOX, 840/PALLET (42 BOXES) to ULAN WEST UNDERGROUND (JA168). In 2025, they sold 420 units in Q1 and Q4. Notable sales include 420 units in No.11 and 420 units in No.14.
+
+GLENCORE (XSTRATA) sells J-LOK DUAL 1200X25MM FAST/SLOW 50:50 RATIO RESIN - 20 CAPSULES/BOX, 840/PALLET (42 BOXES) to ULAN WEST UNDERGROUND (JA168). In 2024, they sold 840 units. In 2025, they sold 840 units. Notable sales include 2000 units in No.32 and 840 units in No.37.
+
+GLENCORE (XSTRATA) sells J Mesh Plate C/W M24 Nut to ULAN WEST UNDERGROUND (JA168).
+
+GLENCORE (XSTRATA) sells PLASTIC MESH SHEET 2.0M X 1.4M - 65MM APERTURE 300 SHEETS PER PALLET to ULAN WEST UNDERGROUND (JA168). In 2025, they sold 600 units in Q2, 250 units in Q3, and 750 units in Q4. Notable sales include 600 units in No.4, 250 units in No.8, 250 units in No.9, 250 units in No.10, 250 units in No.14.
+
+GLENCORE (XSTRATA) sells COAL - NSW to ULAN WEST UNDERGROUND (JA168). The sales include various items such as JURRGROUT1T, Jennchem Underground Roadway Repair, with quantities recorded from 2024 to 2025.11, including monthly totals and cumulative monthly sales.
+
+GLENCORE (XSTRATA) also sells BUTTERFLY PLATE 280X300MM - BLACK 960 PER PALLET to ULAN WEST UNDERGROUND (JA168). The sales quantity is high, reaching up to 10560 units in 2025.5, with monthly totals and cumulative monthly sales recorded.
+
+GLENCORE (XSTRATA) sells JX M24X1.8M DOME BALL TEFLON S PIN NUT to ULAN WEST UNDERGROUND (JA168). The sales quantity ranges from 5600 to 19200 units, with monthly totals and cumulative monthly sales recorded from 2024 to 2025.6.
+
+GLENCORE (XSTRATA) sells CHARPY TESTED JX M24X1.8M DOME BALL TEFLON S PINNUT to ULAN WEST UNDERGROUND (JA168). The sales quantity is significant, reaching up to 10000 units in 2025.10, with monthly totals and cumulative monthly sales recorded.
+
+GLENCORE (XSTRATA) sells ULAN WEST LONG WALL ROWS 10 & 11 to ULAN WEST UNDERGROUND (JA168). The sales quantity is low, with only 2 units sold in 2024 and 2025.9, with monthly totals and cumulative monthly sales recorded.
+
+GLENCORE (XSTRATA) sells ULAN WEST LONG WALL ROWS 1 & 2 to ULAN WEST UNDERGROUND (JA168). The sales quantity is also low, with only 1 unit sold in 2024 and 2025.9, with monthly totals and cumulative monthly sales recorded.
+
+GLENCORE (XSTRATA) sells ULAN WEST LONG WALL ROWS 3 - 8 to ULAN WEST UNDERGROUND (JA168). The sales quantity is moderate, with 6 units sold in 2024 and 2025.9, with monthly totals and cumulative monthly sales recorded.
+
+GLENCORE (XSTRATA) sells ULAN WEST LONG WALL ROW 9 to ULAN WEST UNDERGROUND (JA168). The sales quantity is low, with only 1 unit sold in 2024 and 2025.9, with monthly totals and cumulative monthly sales recorded.
+
+GLENCORE (XSTRATA) sells ULAN WEST LONG WALL ROW FACE to ULAN WEST UNDERGROUND (JA168). The sales quantity is low, with only 1 unit sold in 2024 and 2025.9, with monthly totals and cumulative monthly sales recorded.
+
+GLENCORE (XSTRATA) sells ULAN WEST LONG WALL COMBI PLATES to ULAN WEST UNDERGROUND (JA168). The sales quantity is low, with only 1 unit sold in 2024 and 2025.9, with monthly totals and cumulative monthly sales recorded.
+
+GLENCORE (XSTRATA) sells NUT M24 X 125D MOLYCOATED to ULAN WEST UNDERGROUND (JA168). The sales quantity is consistent, with 400 units sold in 2025.1 and 2025.4, with monthly totals and cumulative monthly sales recorded.
+
+GLENCORE (XSTRATA) sells MESH CUSP 1150MM X 1000MM BENT 90 DEGREE ANGLE to ULAN WEST UNDERGROUND (JA168). The sales quantity is moderate, with 550 units sold in 2024 and 350 units in 2025.8, with monthly totals and cumulative monthly sales recorded.
+
+GLENCORE (XSTRATA) sells MESH - RIB 1.7M X 1.1M 150X150MM APT GLENCORE COAL MAT # 400208837 - ULAN WEST to ULAN WEST UNDERGROUND (JA168). The sales quantity is high, with 4000 units sold in 2025.11, with monthly totals and cumulative monthly sales recorded.
+
+GLENCORE (XSTRATA) sells J-LOK SPIN2STALL 1100MM X 25MM A SPEED PART PALLET RESIN - 20 CAPSULES/BOX, 480/PALLET (24 BOXES) to ULAN WEST UNDERGROUND (JA168). The sales quantity is significant, with 9120 units sold in 2025, with monthly totals and cumulative monthly sales recorded.
+
+GM3 sells F/G HOL BOLT 32X4000MM W/NUT & JHIPP250R45 - BOX 100 BOLTS, NUTS AND PLATES PER WOODEN BOX to GM3 - APPIN EAST (JA034). The sales quantity is low, with 4 units sold in 2025.7 and 3 units in 2025.8 and 2025.9, with monthly totals and cumulative monthly sales recorded.
+
+GM3 sells COUPLER TO SUIT 32MM HOLLOW DOWEL to GM3 - APPIN EAST (JA034). The sales quantity is moderate, with 13 units sold in 2025.9, with monthly totals and cumulative monthly sales recorded.
+
+GM3 sells PLASTIC MESH 28.00M X 2.00M ROLL to GM3 - APPIN EAST (JA034). The sales quantity is low, with 1 unit sold in 2025.3, with monthly totals and cumulative monthly sales recorded.
+
+GM3 sells 16MM GROUT GUN to GM3 - APPIN EAST (JA034). The sales quantity is moderate, with 5 units sold in 2025, with monthly totals and cumulative monthly sales recorded.
+
+GM3 sells 200x200 mm Plastic inserted plate 51mm Hle to suit 32mm Dwl Drg CU0082 to GM3 - APPIN EAST (JA034). The sales quantity is moderate, with 500 units sold in 2025.2 and 2025.4, and 1500 units in 2025.6, with monthly totals and cumulative monthly sales recorded.
+
+GM3 sells JBS M24X1.8M DOME BALL TEFLON GREEN PIN NUT to GM3 - APPIN EAST (JA034). The sales quantity is moderate, with 120 units sold in 2025.8, with monthly totals and cumulative monthly sales recorded.
+
+GM3 sells various products under the COAL - NSW category. In 2025, they sold 200 units of JBS M24X1.8M DOME BALL TEFLON GREEN PIN NUT GAL for No.2 and 200 units for 2025.2.
+
+GM3 also sold 50 units of CABLE BOLT TWIN 15.2MM X 8.0M, PLAIN 300MM TAIL for No.31, No.35, MTD-1.1, and Open status in 2025. Additionally, they sold 50 units for 2025, 2025.8, 2025.10, and No.35 in 2025.
+
+GM3 distributed 10 units of DOLLIE 25SQ DRIVE 300MM LONG W/ 46MM SOCKET TO SUIT 32MM FIBREGLASS DOWELS for No.21 in 2025.6.
+
+F/G BOLT 32MMX3000MM HOLLOW was sold 26 units for MTD-2.1 in 2025.9.
+
+F/G BOLT 32MMX1800MM SOLID HIGH BREAKOUT T/T NUT was sold 2000 units for 2025.3, 2025.6, 2025.10, No.6, No.7, No.21, and No.34 for MTD-1.1 in 2025.
+
+FIBREGLASS MESH SHEET 1.7M X 1.2M 100MM AP - 4MM was sold 600 units for No.12 in 2025.4.
+
+J Mesh Plate C/W M24 Nut Gal was sold 1 unit for No.24 in 2025.6.
+
+PP Biaxial Geogrid43/46KN Flame retardant & Antistatic Mesh of 2.4m (W) X 50m (L) was sold 2 units for MTD-2.1 in 2025.9.
+
+PLASTIC MESH SHEET 2.5M X 1.4M - 65MM APERTURE was sold 500 units for No.21 in 2025.6.
+
+VOLCANO PLATE 150X150X10MM 36MM HOLE BLACK TIED was sold 1960 units for No.1, No.6, No.15, No.23, No.29, and MTD in 2025.2, 2025.3, 2025.5, 2025.6, 2025.8, 2025.11.
+
+CABLE PACK - JW12 X 10.0M SUMO 50 W/B&W + 50 PLATES 3 DOLLIES & 2 LANCES PER PACK (SLING) was sold 2 units for MTD-3.1 in 2025.8.
+
+BUTTERFLY PLATE 280X300MM - BLACK was sold 1920 units for No.11, No.15, No.23, No.29, No.34, No.41, MTD-3.1, and MTD.2 in 2025.5, 2025.6, 2025.8, 2025.10, 2025.11.
+
+JX M24X2.1M DOME BALL TEFLON GREEN PIN BNDL 39+1IW 40 BOLTS PER BUNDLE was sold 50 units for 2025.1, 43 units for 2025.2, 31 units for 2025.5, 55 units for 2025.6, 59 units for 2025.8, 38 units for 2025.10, 43 units for No.4, 17 units for No.15, 14 units for No.16, 12 units for No.19, 43 units for No.20, 23 units for No.34, and 50 units for No.38 for MTD-3.1 and MTD-1.1.
+
+JX M24X2.1M DOME BALL TEFLON GREEN PIN NUT GAL was sold 320 units for No.23 in 2025.6.
+
+NUT M36 BOOT BOLT DRIVE NUT was sold 27 units for 2025.2 and 6 units for 2025.6 for No.2 and No.19.
+
+J-LOK SPIN2STALL 1200MM X 25MM TYPE A 50:50 RATIO RESIN - 20 CAPSULES/BOX, 840/PALLET (42 BOXES) was sold 840 units for 2025.1, 2520 units for 2025.4, 1680 units for 2025.5, 840 units for 2025.6, 1680 units for 2025.10, 1680 units for No.9, 840 units for No.13, 1680 units for No.18, 840 units for No.23, and 840 units for No.38 for MTD-1.1.
+
+TL-40 Part A - 20 Kg was sold 150 units for No.28 in 2025.7.
+
+TL-40 Part B 20 Litre Pails was sold 96 units for No.28 in 2025.7.
+
+BREATHER TUBE 5.0MM DIA X 200M LONG YELLOW was sold 20 units for No.35 in 2025.
+
+GROUT TUBE 16MM DIA X 300M LONG PN16 RED was sold 10 units for No.35 in 2025.
+
+GM3, located in Appin West (JA035), sells a replacement cable bolt sling frame under the product code 4CABLESLING. The quantity sold is 2025.5 units, with one unit reported in No.15.
+
+GM3, located in Appin West (JA035), sells labour charges under the product code 4LABOUR. The quantity sold is open-ended, with 12 units reported.
+
+GM3, located in Appin West (JA035), sells civil 25mm thread bar couplers black under the product code CTB25COUP. The quantity sold is 30 units in 2025.7, with 30 units reported in No.28.
+
+GM3, located in Appin West (JA035), sells civil 25mm thread bar domed nuts black under the product code CTB25NUTD. The quantity sold is 50 units in 2025.7, with 50 units reported in No.28.
+
+GM3, located in Appin West (JA035), sells plastic mesh rolls under the product code FRASP2802. The quantity sold is 4 units in 2025.2, 1 unit in 2025.5, 4 units in 2025.6, 1 unit in 2025.7, 1 unit in 2025.9, 3 units in 2025.10, 4 units in No.4, 1 unit in No.16, 4 units in No.23, 1 unit in No.27, 2 units in MTD-1, 1 unit in MTD-1.2, 1 unit in MTD-2.2.
+
+GM3, located in Appin West (JA035), sells an 16mm grout gun under the product code GROUTGUN16. The quantity sold is 3 units in 2025, with 3 units reported in No.22.
+
+GM3, located in Appin West (JA035), sells a grout gun suit with a 20mm tube and Surelok under the product code GROUTGUN20S. The quantity sold is 13 units in 2024, 3 units in 2025.3, with 3 units reported in No.7, 6 units in No.36.
+
+GM3, located in Appin West (JA035), sells plastic plates 230mm diameter round steel inserts under the product code HIPPSTEEL230. The quantity sold is 500 units in 2024, 3500 units in 2025.11, with 3500 units reported in No.36, 3500 units in MTD.
+
+GM3, located in Appin West (JA035), sells 200x200mm plastic inserted plates 51mm high to suit 32mm drill cu0082 under the product code HIPSTEELSPP2051. The quantity sold is 9000 units in 2024, 14000 units in 2025.1, 4500 units in 2025.2, 2000 units in 2025.3, 3000 units in 2025.4, 2500 units in 2025.5, 3500 units in 2025.7, 3500 units in 2025.9, 6000 units in 2025.10, 1500 units in 2025.11, 1500 units in No.2, 3000 units in No.4, 2000 units in No.7, 1000 units in No.13, 2000 units in No.14, 2000 units in No.15, 500 units in No.16, 1000 units in No.25, 2500 units in No.27, 1500 units in No.33, 2000 units in No.34, 4000 units in No.37, 3000 units in No.38, 6000 units in No.39, 2000 units in No.40, 3000 units in No.41, 1500 units in MTD-1, 2500 units in MTD-1.1, 2000 units in MTD-2.2, 1500 units in MTD.1, 1000 units in MTD CY-1, 4000 units in MTD CY-1.1.
+
+GM3, located in Appin West (JA035), sells hydraulic load cells 150mm outer diameter 45mm inner diameter with a 500kN capacity under the product code HYDLC15045500. The quantity sold is 10 units in 2025.1, with 10 units reported in No.40.
+
+GM3, located in Appin West (JA035), sells JBS M24x1.2m dome ball teflon green pin nut black under the product code JBS2412BTP3. The quantity sold is 160 units, open-ended.
+
+GM3, located in Appin West (JA035), sells JBS M24x1.5m dome ball teflon green pin nut under the product code JBS2415BTP3. The quantity sold is 3520 units in 2024, 6920 units in 2025, 5320 units in 2025.1, 4360 units in 2025.2, 7000 units in 2025.3, 4160 units in 2025.4, 1840 units in 2025.5, 4650 units in 2025.7, 5550 units in 2025.8, 7560 units in 2025.9, 7920 units in 2025.10, 6000 units in 2025.11, 800 units in No.2, 3560 units in No.3, 5400 units in No.6, 1600 units in No.7, 1760 units in No.13, 2400 units in No.14, 1240 units in No.15, 600 units in No.17, 1560 units in No.22, 2000 units in No.25, 2050 units in No.27, 600 units in No.28, 2000 units in No.29, 2000 units in No.30, 1200 units in No.33, 1480 units in No.34, 3360 units in No.35, 2520 units in No.38, 840 units in No.39, 1960 units in No.41, 1700 units in MTD-3, 1850 units in MTD-3.2, 3960 units in MTD-1, 2480 units in MTD-1.1, 2400 units in MTD-2, 3960 units in MTD-2.2, 1480 units in MTD, 4520 units in MTD.2, 400 units in MTD CY-1.1, 3120 units in MTD CY-1.2, 440 units, open-ended.
+
+GM3, located in Appin West (JA035), sells JBS M24x1.8m dome ball teflon green pin nut under the product code JBS2418BTP3. The quantity sold is 1520 units in 2025.2, 1720 units in 2025.3, 1520 units in 2025.11, 1520 units in No.3, 200 units in No.6, 1520 units in No.7, 880 units in MTD, 640 units in MTD.2.
+
+GM3, located in Appin West (JA035), sells JBS M24x1.8m dome ball teflon green pin nut 300mm thd under the product code JBS2418BTP3TH30. The quantity sold is 960 units in 2025.1, 1200 units in 2025.3, 960 units in 2025.4, 280 units in 2025.10, 520 units in No.6, 680 units in No.7, 520 units in No.13, 440 units in No.14, 240 units in No.38, 720 units in No.39, 280 units in MTD-1.2, 160 units, open-ended.
+
+GM3, located in Appin West (JA035), sells JBS M24x2.1m teflon green pin nut under the product code JBS2421BTP3. The quantity sold is 1194 units, open-ended.
+
+GM3, located in Appin West (JA035), sells stackable cable tray c sections under the product code JCABTRAYCSECT. The quantity sold is 12 units in 2025.11, 12 units in MTD.
+
+GM3, located in Appin West (JA035), sells cable superstrand 21.8mm x 6m 4 x 30mm bulb b & w 4m debond under the product code JCB2206B430DBBW. The quantity sold is 1100 units in 2024, 1050 units in 2025, 1600 units in 2025.1, 1500 units in 2025.2, 400 units in 2025.3, 1200 units in 2025.4, 100 units in 2025.5, 800 units in 2025.6, 700 units in 2025.7, 900 units in 2025.8, 900 units in 2025.9, 400 units in 2025.10, 500 units in 2025.11, 150 units in No.150, 200 units in No.1, 500 units in No.2, 400 units in No.3, 400 units in No.4, 100 units in No.6, 300 units in No.9, 700 units in No.10, 300 units in No.13, 200 units in No.14, 100 units in No.16, 400 units in No.21, 300 units in No.22, 400 units in No.23, 200 units in No.25, 200 units in No.27, 300 units in No.28, 200 units in No.29, 350 units in No.30, 100 units in No.31, 200 units in No.32, 300 units in No.33, 200 units in No.34, 250 units in No.35, 200 units in No.38, 800 units in No.39, 200 units in No.40, 400 units in No.41, 100 units in MTD-3, 300 units in MTD-3.1, 200 units in MTD-3.2, 200 units in MTD-1, 200 units in MTD-2.1, 100 units in MTD-2.2, 100 units in MTD-2.3, 300 units in MTD, 200 units in MTD.1, 700 units in MTD CY-1, 400 units in MTD CY-1.2, 650 units, open-ended.
+
+GM3, located in Appin West (JA035), sells superstrand 21.8mm x 6.0m, 4x30mm bulbs tex cable with 4m debonding (supplied in u sling 100/sling) under the product code JCB2206B430DBTX. The quantity sold is 200 units, open-ended.
+
+GM3, located in Appin West (JA035), sells cable superstrand 21.8mm x 8m 4 x 30mm bulb b & w 4m debond under the product code JCB2208B430DBBW. The quantity sold is 300 units in 2025, 300 units in 2025.2, 100 units in 2025.8, 200 units in 2025.9, 500 units in 2025.10, 400 units in 2025.11, 300 units in No.1, 100 units in No.11, 100 units in No.22, 100 units in No.30, 200 units in No.34, 100 units in MTD-3.1, 100 units in MTD-1.1, 200 units in MTD-1.2, 200 units in MTD-2, 200 units in MTD, 100 units in MTD.1, 100 units in MTD.2, 400 units, open-ended.
+
+GM3, located in Appin West (JA035), sells dollie 25sq drive 260mm long to suit superstrand with through water hole under the product code JDO6200260TWH. The quantity sold is 29 units in 2025, 15 units in 2025.2, 147 units in 2025.4, 41 units in 2025.10, 20 units in 2025.11, 15 units in No.4, 41 units in No.10, 56 units in No.13, 50 units in No.14, 29 units in No.35, 41 units in MTD-1.1, 20 units in MTD.2, 50 units, open-ended.
+
+GM3 and GM3 - APPIN WEST (JA035) sell various products in NSW, Australia. In 2025, they sold 26 units of DOLLIE 25SQ DRIVE 300MM LONG W/ 46MM SOCKET TO SUIT 32MM FIBREGLASS DOWELS in January, 40 units in February, 10 units in March, 45 units in April, 18 units in July, 27 units in September, 16 units in November, 13 units in No.1, 17 units in No.4, 10 units in No.5, 10 units in No.6, 30 units in No.13, 15 units in No.14, and 18 units in No.28. The total sales for the month-to-date (MTD) in 2025 were 16 units, while the year-to-date (MTD.1) was also 16 units.
+
+GM3 and GM3 - APPIN WEST (JA035) sold 12 units of M42 Dolly 500mm Long for M42 TEX system 70mm OD in 2024, 19 units in January, 2025, 18 units in February, 10 units in March, 47 units in April, 7 units in September, 7 units in October, 22 units in November, 13 units in No.4, 5 units in No.5, 10 units in No.6, 35 units in No.13, 12 units in No.14, 7 units in No.32, 7 units in No.34, 12 units in No.37, 11 units in No.40, 8 units in No.41, and 22 units for the month-to-date (MTD.1).
+
+GM3 and GM3 - APPIN WEST (JA035) sold 75 units of FLAT PLATE 100X100X25MM 60MM HOLE BLACK 100 PLATES PER PALLET in April, 2025, 55 units in June, 55 units in July, 72 units in October, 75 units in No.13, 55 units in No.23, 55 units in No.28, 55 units for MTD-1, and 17 units for MTD-1.2.
+
+GM3 and GM3 - APPIN WEST (JA035) sold 20 units of FLAT PLATE 190RDX16MM 45MM H BLACK - LOAD CELL in January, 2025, and 20 units in No.38.
+
+GM3 and GM3 - APPIN WEST (JA035) sold 4400 units of 1500 x 32 mm Solid FG Dwl High break out nut Drg CU0043 in 2024, 2600 units in 2025, 7700 units in January, 2025, 2700 units in February, 2700 units in March, 3900 units in April, 2000 units in May, 2100 units in June, 2100 units in October, 2600 units in November, 600 units in No, 1300 units in No.1, 1100 units in No.2, 300 units in No.5, 2400 units in No.6, 300 units in No.7, 1000 units in No.13, 2900 units in No.14, 1200 units in No.15, 800 units in No.16, 300 units in No.22, 400 units in No.23, 1700 units in No.24, 1300 units in No.30, 400 units in No.35, 1000 units in No.36, 2800 units in No.37, 1300 units in No.38, 3100 units in No.39, 1700 units in No.40, 1600 units in No.41, 2100 units for MTD-1.1, 1900 units for MTD, 500 units for MTD.1, 200 units for MTD.2, and 600 units for MTD CY-1.2.
+
+GM3 and GM3 - APPIN WEST (JA035) sold 1500 units of F/G BOLT 32MMX1800MM SOLID HIGH BREAKOUT T/T NUT in April, 2025, 500 units in May, 2025, 200 units in August, 2025, 1000 units in September, 2400 units in October, 1500 units in No.14, 500 units in No.15, 200 units in No.29, 1300 units in No.34, 400 units for MTD-1.1, 700 units for MTD-1.2, 1000 units for MTD-2.
+
+GM3 and GM3 - APPIN WEST (JA035) sold 500 units of F/G BOLT 32MMX1800MM SOLID 55mm HIGH BREAKOUT T/T NUT in January, 2025, and 500 units in No.41.
+
+GM3 and GM3 - APPIN WEST (JA035) sold 8 units of F/G GROUTING CONNECTOR FOR 32MM DIA BOLTS in February, 2025, and 12 units in April, 2025, 8 units in No.1, and 12 units in No.13.
+
+GM3 and GM3 - APPIN WEST (JA035) sold 600 units of FRICTION LOK BOLT 33MMX1800MM - GAL 300 BOLTS PER PACK in 2025, 900 units in January, 2025, 900 units in June, 2025, 1200 units in October, 2025, 900 units in No.23, 600 units in No.35, 900 units in No.41, 1200 units for MTD-1, 300 units for Open.
+
+GM3 and GM3 - APPIN WEST (JA035) sold 1200 units of FIBREGLASS MESH SHEET 1.7M X 1.2M 100MM AP - 4MM 300 UNITS PER PALLET in 2024, 600 units in 2025, 1600 units in January, 2025, 700 units in February, 2025, 500 units in March, 2025, 600 units in April, 2025, 800 units in May, 2025, 700 units in September, 2025, 700 units in October, 2025, 500 units in November, 2025, 700 units in No.1, 500 units in No.6, 4000 units in No.2, 500 units in No.4, 1000 units in No.5, 3000 units in No.6, 5500 units in No.7, 1500 units in No.13, 1500 units in No.17, 1000 units in No.19, 2000 units in No.22, 2500 units in No.23, 1500 units in No.24, 500 units in No.25, 1000 units in No.26, 1500 units in No.27, 2500 units in No.29, 1000 units in No.30, 3500 units in No.33, 2000 units in No.34, 3000 units in No.36, 1500 units in No.38, 1500 units in No.39, 1500 units in No.40, 1000 units in No.41, 500 units for MTD-3, 2500 units for MTD-3.1, 2000 units for MTD-3.2, 500 units for MTD-1, 4000 units for MTD-1.1, 2000 units for MTD-2, 1000 units for MTD-2.2, 1000 units for MTD-2.3, 1000 units for MTD, 4000 units for MTD.1, 2000 units for MTD.2, 1000 units for MTD CY-1, 1500 units for MTD CY-1.2, and 500 units for Open.
+
+GM3 and GM3 - APPIN WEST (JA035) sold 900 units of J-LOK 5* DUAL 880X25MM X-FAST/SLOW 50:50 RATIO RESIN - 25 CAPSULES/BOX, 900/PALLET (36 BOXES) in 2024, and 900 units for MTD CY-1.2.
+
+GM3 and GM3 - APPIN WEST (JA035) sold 1260 units of J-LOK 5* PG CABLE 800X36MM MED + RETAINER RESIN - 10 CAPSULES/BOX, 420/PALLET (42 BOXES) in 2025, 840 units in January, 2025, 1680 units in March, 2025, 1260 units in April, 2025, 420 units in June, 2025, 420 units in July, 2025, 1260 units in August, 2025, 1260 units in September, 2025, 1260 units in October, 2025, 2100 units in November, 2025, 840 units in No.5, 840 units in No.7, 840 units in No.12, 420 units in No.13, 420 units in No.22, 420 units in No.24, 420 units in No.25, 420 units in No.29, 420 units in No.33, 420 units in No.34, 840 units in No.35, 840 units in No.39, 840 units for MTD-3.1, 420 units for MTD-1, 420 units for MTD-1.2, 840 units for MTD-2.2, 840 units for MTD.1, 1260 units for MTD.2.
+
+GM3 and GM3 - APPIN WEST (JA035) sold 840 units of J-LOK DUAL 1200X25MM X-FAST/SLOW 50:50 RATIO RESIN - 20 CAPSULES/BOX, 840/PALLET (42 BOXES) in 2025, 840 units in February, 2025, 2520 units in March, 2025, 840 units in April, 2025, 1680 units in May, 2025, 840 units in October, 2025, 1680 units in November, 2025, 840 units in No.1, 840 units in No.5, 840 units in No.6, 840 units in No.7, 840 units in No.14, 840 units in No.16, 840 units in No.18, 840 units in No.23, 840 units in No.34, 1680 units for MTD.1, and 1680 units for Open.
+
+GM3 and GM3 - APPIN WEST (JA035) sold 13920 units of J-LOK LIF DUAL 1200 X 32MM MED/SLOW 50:50 RATIO RESIN - 10 CAPSULES/BOX, 480/PALLET (48 BOXES) in 2024, 2880 units in 2025, 10080 units in January, 2025, 7680 units in February, 2025, 7200 units in March, 2025, 4800 units in April, 2025, 1440 units in May, 2025, 1440 units in June, 2025, 2880 units in July, 2025, 5280 units in August, 2025, 5760 units in September, 2025, 5280 units in October, 2025, 4320 units in November, 2025, 2400 units in No.1, 960 units in No.2, 2400 units in No.3, 1920 units in No.4, 4800 units in No.6, 2400 units in No.7, 4800 units in No.14, 1440 units in No.15, 1440 units in No.24, 1440 units in No.25, 1440 units in No.28, 2880 units in No.29, 1920 units in No.30, 2880 units in No.33, 960 units in No.36, 4800 units in No.37, 2880 units in No.38, 960 units in No.39, 1920 units in No.40, 2400 units in No.41, 2400 units for MTD-3.1, 2400 units for MTD-1.1, 2880 units for MTD-1.2, 1440 units for MTD-2, 1440 units for MTD-2.1, 1920 units for MTD.1, 2400 units for MTD.2, 1440 units for MTD CY-1, 2400 units for MTD CY-1.1, 2400 units for MTD CY-1.2, and 2400 units for Open.
+
+GM3 and GM3 - APPIN WEST (JA035) sold 500 units of PLASTIC MESH SHEET 2.5M X 1.4M - 65MM APERTURE 500 SHEETS PER PALLET in July, 2025, and 250 units in No.26, 250 units in No.28.
+
+GM3 and GM3 - APPIN WEST (JA035) sold 60 units of BOOT BOLT 36MM X 1800MM - PADDLES DOME BALL & NUT in 2024, 24 units in January, 2025, 24 units in February, 2025, 48 units in March, 2025, 24 units in April, 2025, 36 units in July, 2025, 12 units in August, 2025, 24 units in No.2, 48 units in No.6, 24 units in No.13, 24 units in No.25, 12 units in No.28, 60 units in No.36, 24 units in No.38, and 12 units for MTD-3.
+
+GM3 and GM3 - APPIN WEST (JA035) sold 980 units of VOLCANO PLATE 150X150X6MM 36MM HOLE HANGER GAL 980 PLATES PER PALLET in August, 2025, and 1960 units in October, 2025, 980 units in No.29, 980 units for MTD-1, and 980 units for MTD-1.1.
+
+GM3 and GM3 - APPIN WEST (JA035) sold 14700 units of VOLCANO PLATE 150X150X10MM 36MM HOLE BLACK TIED 980 PLATES PER PALLET in 2024, 9800 units in 2025, 11760 units in January, 2025, 16660 units in February, 2025, 18620 units in March, 2025, 4900 units in April, 2025, 2940 units in June, 2025, 4900 units in July, 2025, 13720 units in August, 2025, 8820 units in September, 2025, 14700 units in October, 2025, 15680 units in November, 2025, 1960 units in No, 4900 units in No.1, 5880 units in No.2, 5880 units in No.4, 980 units in No.5, 6860 units in No.6, 10780 units in No.7, 1960 units in No.10, 980 units in No.13, 1960 units in No.14, 980 units in No.22, 2940 units in No.23, 2940 units in No.26, 1960 units in No.28, 4900 units in No.29, 4900 units in No.30, 980 units in No.31, 3920 units in No.33, 5880 units in No.34, 1960 units in No.35, 4900 units in No.36, 980 units in No.37, 3920 units in No.38, 2940 units in No.39, 980 units in No.40, 3920 units in No.41, 3920 units for MTD-3.1, 3920 units for MTD-3.2, 1960 units for MTD-1, 3920 units for MTD-1.1, 2940 units for MTD-1.2, 1960 units for MTD-2.1, 2940 units for MTD-2.2, 3920 units for MTD, 7840 units for MTD.1, 3920 units for MTD.2, 980 units for MTD CY-1, 980 units for MTD CY-1.1, 6860 units for MTD CY-1.2, and 2000 units for Open.
+
+GM3 and GM3 - APPIN WEST (JA035) sold 1000 units of VOLCANO PLATE 200X200X12MM 42MM HOLE Round Corners in 2025, 1000 units in June, 2025, 200 units in No.23, 800 units in No.24, and 1000 units for No.35.
+
+GM3, located in GM3 - Appin West (JA035), sold various products including VOLCANO PLATE 300X300X12MM 42MM HOLE ROUND CORNERS HIGH TENSILE STEEL, with significant sales in 2025.1, 2025.2, 2025.3, 2025.4, 2025.6, 2025.7, 2025.8, 2025.9, 2025.10, and No.1, No.6, No.10, No.19, No.23, No.24, No.26, No.29, No.31, No.33, No.34, No.35, MTD-3.1, MTD-1, MTD-1.1, MTD-1.2.
+
+GM3, located in GM3 - Appin West (JA035), also sold VOLC plate 300x300x12mm w/56mm Hole & 2X14 Grt Indicator hol, with notable sales in 2025, 2025.1, 2025.3, 2025.7, 2025.8, No.6, No.7, No.28, No.35, No.40.
+
+GM3, located in GM3 - Appin West (JA035), sold BUTTERFLY PLATE 280X300MM - BLACK 960 PER PALLET, with substantial sales in 2024, 2025.1, 2025.2, 2025.3, 2025.4, 2025.6, 2025.10, 2025.11, No.2, No.6, No.7, No.13, No.24, No.34, No.40, No.41, MTD-1.1, MTD-1.2, MTD.2, MTD CY-1, Open.
+
+GM3, located in GM3 - Appin West (JA035), sold BUTTERFLY PLATE 280X300 - GAL, with sales in 2025.1, 2025.6, 2025.7, 2025.10, 2025.11, No.23, No.26, No.40, MTD-1, MTD-1.1, MTD-1.2, MTD, Open.
+
+GM3, located in GM3 - Appin West (JA035), sold JX M24X2.1M DOME BALL TEFLON GREEN PIN BNDL 39+1IW 40 BOLTS PER BUNDLE, with sales in 2024, 2025, 2025.1, 2025.2, 2025.3, 2025.4, 2025.5, 2025.6, 2025.7, 2025.8, 2025.9, 2025.10, 2025.11, No.1, No.2, No.3, No.6, No.7, No.13, No.14, No.15, No.19, No.22, No.27, No.28, No.29, No.30, No.33, No.34, No.35, No.36, No.38, No.39, MTD-3, MTD-3.2, MTD-1.1, MTD-1.2, MTD-2.1, MTD-2.2, MTD-2.3, MTD, MTD.1, MTD.2, MTD CY-1, Open.
+
+GM3, located in GM3 - Appin West (JA035), sold JX M24X2.1M DOME BALL TEFLON GREEN PIN NUT BLACK, with an open order of 3000.
+
+GM3, located in GM3 - Appin West (JA035), sold Grout Lance suit M42 TEX  Relief Tap & Surelok 200mm Long, with sales in 2025, No.30.
+
+GM3, located in GM3 - Appin West (JA035), sold Grout Lance suit M42 TEX SUMO Cable 1800mm Long, with sales in 2025.8, MTD-3.1.
+
+GM3, located in GM3 - Appin West (JA035), sold NUT M36 BOOT BOLT DRIVE NUT, with sales in 2024, 2025, 2025.1, 2025.4, 2025.7, No: 12, No.11, No.13, No.22, No.28, No.41, MTD CY-1.2.
+
+GM3, located in GM3 - Appin West (JA035), sold RESIN RETAINER SPIDER - 32MM, with sales in 2025, 2025.1, 2025.4, 2025.6, 2025.8, 2025.9, 2025.11, No.14, No.24, No.32, No.35, No.39, MTD-3.2, MTD.1.
+
+GM3, located in GM3 - Appin West (JA035), sold J-LOK SPIN2STALL 1200MM X 25MM TYPE A 50:50 RATIO RESIN - 20 CAPSULES/BOX, 840/PALLET (42 BOXES), with sales in 2024, 2025, 2025.1, 2025.2, 2025.3, 2025.4, 2025.6, 2025.7, 2025.8, 2025.9, 2025.10, 2025.11, No: 1680, No.1, No.2, No.3, No.4, No.5, No.6, No.7, No.9, No.14, No.19, No.21, No.22, No.23, No.24, No.26, No.27, No.28, No.29, No.30, No.33, No.34, No.35, No.36, No.37, No.38, No.39, MTD-3.1, MTD-3.2, MTD-1, MTD-1.1, MTD-1.2, MTD-2, MTD-2.1, MTD-2.2, MTD-2.3, MTD, MTD.1, MTD.2, MTD CY-1, MTD CY-1.1, MTD CY-1.2, Open.
+
+GM3, located in GM3 - Appin West (JA035), sold 1.0M THREAD BAR 500N 25MM LEFT HAND, with sales in 2025.7, No.28.
+
+GM3, located in GM3 - Appin West (JA035), sold 3.0M THREAD BAR 500N 25MM LEFT HAND, with sales in 2025.7, No.28.
+
+GM3, located in GM3 - Appin West (JA035), sold CABLE PACK (50 P/PACK) 31MM X 6M TEX SUMO + JV30301256GI 50 X CABLE & 50 PLATES PER PACK (SLING), with sales in 2025.8, 2025.9, 2025.10, 2025.11, No.32, MTD-3.2, MTD-1, MTD.2, Open.
+
+GM3, located in GM3 - Appin West (JA035), sold CABLE PACK (50 P/PACK) 31MM X 8M TEX SUMO + JV30301256GI, with sales in 2024, 2025, 2025.2, 2025.8, 2025.9, 2025.10, No.4, No.5, No.11, No.31, No.32, MTD-3.1, MTD-1, MTD-2, MTD CY-1.1, Open.
+
+GM3, located in GM3 - Appin West (JA035), sold CABLE PACK (50 P/PACK) 31MM X 10M TEX SUMO + JV30301256GI, with sales in 2025.6, 2025.7, 2025.9, 2025.10, No.23, No.24, No.25, No.33, MTD-1, MTD-1.1, MTD-1.2, MTD-2.2, Open.
+
+GM3, located in GM3 - Appin West (JA035), sold GROUT TUBE 20MM DIA X 200M LONG PN16 YELLOW, with sales in 2025, 2025.2, 2025.3, 2025.5, 2025.6, 2025.7, 2025.8, 2025.10, No.2, No.6, No.15, No.22, No.23, No.28, No.31, MTD-1.1, Open.
+
+GM3, located in GM3 - Dendrobium (JA094), sold PLASTIC MESH 28.00M X 2.00M ROLL, with sales in 2025.2, 2025.6, No.2, No.19.
+
+GM3, located in GM3 - Dendrobium (JA094), sold 16MM GROUT GUN, with sales in 2025.2, 2025.7, No.2, No.27.
+
+GM3 and GM3 - DENDROBIUM (JA094) products are sold in quantities of 500MM Grout Gun suit 70T Cable for the period 2024 to 2025.1, with a total of 1 units sold in 2024 and 3 units sold in 2025.1.
+
+GM3 and GM3 - DENDROBIUM (JA094) products are sold in quantities of GX MESH - ROOF 4.8M X 1.2M GAL DENDROBIUM MAT # 10992135 for the period 2024 to 2025, with a total of 1 unit sold in 2024 and 3 units sold in 2025.
+
+GM3 and GM3 - DENDROBIUM (JA094) products are sold in quantities of 200x200 mm Plastic inserted plate 51mm Hle to suit 32mm Dwl Drg CU0082 for the period 2024 to 2025.10, with a total of 3500 units sold in 2024, 2000 units sold in 2025.1, and 4000 units sold in 2025.8.
+
+GM3 and GM3 - DENDROBIUM (JA094) products are sold in quantities of JBS M24X1.2M DOME BALL TEFLON GREEN PIN NUT BLACK for the period 2024 to 2025.8, with a total of 100 units sold in 2025.2, 200 units sold in 2025.7, and 200 units sold in 2025.8.
+
+GM3 and GM3 - DENDROBIUM (JA094) products are sold in quantities of JBS M24X1.8M DOME BALL TEFLON GREEN PIN NUT BUNDLE 40 BOLTS PER BUNDLE for the period 2024 to 2025.11, with a total of 60 units sold in 2024, 197 units sold in 2025, and 120 units sold in 2025.3.
+
+GM3 and GM3 - DENDROBIUM (JA094) products are sold in quantities of JBS M24X1.8M DOME BALL TEFLON GREEN PIN 300MM THD for the period 2024 to 2025.8, with a total of 200 units sold in 2024, 80 units sold in 2025.2, and 280 units sold in 2025.3.
+
+GM3 and GM3 - DENDROBIUM (JA094) products are sold in quantities of CABLE BOLT TWIN 15.2MM X 6.0M, PLAIN 300MM TAIL 50 UNITS PER PALLET for the period 2025.2 to 2025.10, with a total of 150 units sold in 2025.2, 30 units sold in 2025.3, and 155 units sold in 2025.10.
+
+GM3 and GM3 - DENDROBIUM (JA094) products are sold in quantities of CABLE BOLT TWIN 15.2MM X 8.0M, PLAIN 300MM TAIL 50 UNITS PER PALLET for the period 2025.7, with a total of 50 units sold.
+
+GM3 and GM3 - DENDROBIUM (JA094) products are sold in quantities of Combi plate 280 x 300 + K150 x 5mm Top plate - Black for the period 2025.2 to 2025.3, with a total of 500 units sold in 2025.2.
+
+GM3 and GM3 - DENDROBIUM (JA094) products are sold in quantities of DOLLY 425MM LONG SUIT 55MM HEX NUT TEX CABLES AND 32MM DOWEL SYSTEM for the period 2025.1 to 2025.8, with a total of 13 units sold in 2025.1, 10 units sold in 2025.4, and 9 units sold in 2025.8.
+
+GM3 and GM3 - DENDROBIUM (JA094) products are sold in quantities of M42 Dolly 500mm Long for M42 TEX system 70mm OD for the period 2024 to 2025.11, with a total of 10 units sold in 2024, 9 units sold in 2025.2, and 12 units sold in 2025.10.
+
+GM3 and GM3 - DENDROBIUM (JA094) products are sold in quantities of FLAT PLATE 100X100X25MM 60MM HOLE BLACK for the period 2025.7, with a total of 20 units sold.
+
+GM3 and GM3 - DENDROBIUM (JA094) products are sold in quantities of Solid Fiberglass Dowel 32mmx1.5m for the period 2025.2, with a total of 200 units sold.
+
+GM3 and GM3 - DENDROBIUM (JA094) products are sold in quantities of F/G BOLT 32MMX1800MM SOLID 55mm HIGH BREAKOUT T/T NUT for the period 2024 to 2025.11, with a total of 1300 units sold in 2024, 1600 units sold in 2025, and 3700 units sold in 2025.8.
+
+GM3 and GM3 - DENDROBIUM (JA094) products are sold in quantities of F/G BOLT 32MMX3000MM SOLID HIGH BREAKOUT T/T NUT for the period 2025.10, with a total of 200 units sold.
+
+GM3 and GM3 - DENDROBIUM (JA094) products are sold in quantities of FRICTION LOK BOLT 33MMX1800MM - GAL 300 BOLTS PER PACK for the period 2025.4, with a total of 300 units sold.
+
+GM3 and GM3 - DENDROBIUM (JA094) products are sold in quantities of J-LOK G DUAL 1200X25.5MM X-FAST/SLOW 50:50 RATIO RESIN - 15 CAPSULES/BOX, 630/PALLET (42 BOXES) for the period 2024 to 2025.11, with a total of 11970 units sold in 2024, 14490 units sold in 2025, and 20160 units sold in 2025.9.
+
+GM3 and GM3 - DENDROBIUM (JA094) products are sold in quantities of KANGA PLATE 150X150X5MM 38MM HOLE TIED 980 PLATES PER PALLET for the period 2024 to 2025.11, with a total of 9800 units sold in 2024, 3920 units sold in 2025, and 4900 units sold in 2025.11.
+
+GM3 and GM3 - DENDROBIUM (JA094) products are sold in quantities of KANGA PLATE 200X200X5MM 38MM HOLE 1 HANGER TIED 500 PLATES PER PALLET for the period 2024 to 2025.11, with a total of 5000 units sold in 2024, 7500 units sold in 2025, and 3000 units sold in 2025.11.
+
+GM3 and GM3 - DENDROBIUM (JA094) products are sold in quantities of J-Lok 5* PG Cable 1200 X 36MM Slow set & Retainer for the period 2025.11, with a total of 108 units sold.
+
+GM3 and GM3 - DENDROBIUM are selling COAL - NSW. The product JLLD120032FS55 - J-LOK DUAL LIF 1200X32MM FAST/SLOW 50:50 RATIO RESIN - 10 CAPSULES/BOX, 480/PALLET (48 BOXES) has a sales quantity of 480 in 2024 and 480 in MTD CY-1. It also has 480 open units.
+
+GM3 and GM3 - DENDROBIUM are selling COAL - NSW. The product JLLD120032MS55 - J-LOK LIF DUAL 1200 X 32MM MED/SLOW 50:50 RATIO RESIN - 10 CAPSULES/BOX, 480/PALLET (48 BOXES) has a sales quantity of 960 in 2024, increasing to 3840 in 2025.1, 5760 in 2025.2, 480 in 2025.3, 1920 in 2025.4, 6240 in 2025.5, 5760 in 2025.6, 3840 in 2025.7, 7200 in 2025.8, 5760 in 2025.9, 2880 in 2025.10, 2880 in 2025.11, 1920 in No.2, 1440 in No.3, 2400 in No.4, 480 in No.7, 1440 in No.11, 1920 in No.14, 480 in No.16, 2880 in No.17, 2880 in No.18, 960 in No.19, 1440 in No.23, 3360 in No.24, 1440 in No.26, 960 in No.27, 1440 in No.28, 2400 in No.29, 2400 in No.31, 1920 in No.32, 2400 in No.33, 2400 in No.35, 960 in No.39, 480 in MTD-3.1, 1920 in MTD-3.2, 2880 in MTD-1.1, 480 in MTD-2.1, 960 in MTD-2.2, 1920 in MTD, 960 in MTD.1, 960 in MTD CY-1, and 960 open units.
+
+GM3 and GM3 - DENDROBIUM are selling COAL - NSW. The product JPMM2514 - PLASTIC MESH SHEET 2.5M X 1.4M - 65MM APERTURE 500 SHEETS PER PALLET has sales quantities of 500 in 2025.1, 250 in 2025.2, 1500 in 2025.3, 250 in 2025.4, 500 in 2025.7, 500 in 2025.8, 250 in 2025.10, 250 in No.1, 500 in No.6, 500 in No.7, 500 in No.9, 250 in No.14, 250 in No.26, 250 in No.28, 500 in No.29, 250 in No.34, 500 in No.38.
+
+GM3 and GM3 - DENDROBIUM are selling COAL - NSW. The product JSS3618P9BN - BOOT BOLT 36MM X 1800MM - PADDLES DOME BALL & NUT has sales quantities of 24 in 2025, 12 in 2025.2, 36 in 2025.6, 24 in 2025.8, 36 in 2025.9, 12 in 2025.10, 12 in 2025.11, 12 in No.4, 24 in No.11, 12 in No.20, 12 in No.23, 12 in No.24, 12 in No.29, 12 in No.33, 12 in No.34, 12 in MTD-3.2, 24 in MTD-2, 12 in MTD.1.
+
+GM3 and GM3 - DENDROBIUM are selling COAL - NSW. The product JV15150636HG - VOLCANO PLATE 150X150X6MM 36MM HOLE HANGER GAL has sales quantities of 980 per pallet, with 300 in 2025.4 and 300 in No.14.
+
+GM3 and GM3 - DENDROBIUM are selling COAL - NSW. The product JW1204P2530B - CABLE PACK JW12 X 4.0M SUMO W/STRESSED B&W + JV30301256GI 25 CABLES WITH B&W & 25 PLATES PER PACK (TRAY) has sales quantities of 8 in 2025.3 and 8 in No.9.
+
+GM3 and GM3 - DENDROBIUM are selling COAL - NSW. The product JW12080DENDPK - CABLE PACK - JW12 X 8.0M SUMO 50 W/B&W + 50 PLATES 3 DOLLIES & 2 LANCES PER PACK (SLING) has sales quantities of 2 in 2025.1, 4 in 2025.2, 2 in 2025.3, 2 in 2025.6, 1 in 2025.7, 7 in 2025.9, 2 in No.1, 2 in No.2, 2 in No.5, 2 in No.21, 1 in No.28, 2 in No.39, 2 in MTD-2, 5 in MTD-2.2, 2 in MTD, 2 in MTD.1.
+
+GM3 and GM3 - DENDROBIUM are selling COAL - NSW. The product JW12100DENDPK - CABLE PACK - JW12 X 10.0M SUMO 50 W/B&W + 50 PLATES 3 DOLLIES & 2 LANCES PER PACK (SLING) has sales quantities of 2 in 2025.1 and 1 in 2025.8, with 1 in No.28 and 2 in No.41.
+
+GM3 and GM3 - DENDROBIUM are selling COAL - NSW. The product JWW280300 - BUTTERFLY PLATE 280X300MM - BLACK has sales quantities of 960 per pallet in 2025.2 and 1920 in 2025.11, with 1920 in No.1, 960 in No.2, 2880 in No.3, 1920 in No.4, and 1920 in MTD.1.
+
+GM3 and GM3 - DENDROBIUM are selling COAL - NSW. The product JWW280300G - BUTTERFLY PLATE 280X300 - GAL has sales quantities of 300 in 2025.4 and 300 in No.14.
+
+GM3 and GM3 - DENDROBIUM are selling COAL - NSW. The product JX2406BPR - JX M24X0.6M DOME BALL RED PIN NUT has sales quantities of 250 in 2025.2 and 250 in 2025.7, with 250 in No.4 and 250 in No.28.
+
+GM3 and GM3 - DENDROBIUM are selling COAL - NSW. The product JX24BTPS59IWH1B - JX M24X2.4M DOME BALL TEFLON S PIN BUNDLE 59 BOLTS + 1 BOLT WITH INDICATOR WASHER PER PACK has sales quantities of 195 in 2024, 206 in 2025, 167 in 2025.1, 250 in 2025.2, 92 in 2025.3, 56 in 2025.4, 309 in 2025.5, 119 in 2025.6, 92 in 2025.7, 180 in 2025.8, 200 in 2025.9, 90 in 2025.10, 102 in 2025.11, 42 in No.1, 40 in No.2, 50 in No.3, 118 in No.4, 32 in No.5, 10 in No.6, 50 in No.9, 9 in No.10, 20 in No.11, 47 in No.13, 42 in No.16, 158 in No.17, 109 in No.18, 11 in No.19, 101 in No.22, 108 in No.24, 92 in No.25, 36 in No.29, 17 in No.30, 28 in No.31, 28 in No.32, 62 in No.33, 45 in No.34, 68 in No.35, 23 in No.38, 64 in No.40, 80 in No.41, 50 in MTD-3.1, 66 in MTD-3.2, 15 in MTD-1, 30 in MTD-1.1, 47 in MTD-2, 43 in MTD-2.2, 20 in MTD-2.3, 70 in MTD, 16 in MTD.1, 16 in MTD.2, 60 in MTD CY-1, 47 in MTD CY-1.1, 88 in MTD CY-1.2, and 26 open units.
+
+GM3 and GM3 - DENDROBIUM are selling COAL - NSW. The product LANCE70T0200SLS - 70T GROUT LANCE 200MM LONG, SWIVEL MINSUP SURELOCK has sales quantities of 19 in 2025.11 and 19 in MTD.2.
+
+GM3 and GM3 - DENDROBIUM are selling COAL - NSW. The product LANCE70T1500SLS - 70T Grout Lance 1500MM Long, Swivel Minsup Surelock has 26 open units.
+
+GM3 and GM3 - DENDROBIUM are selling COAL - NSW. The product LANCE70T1800SLS - 70T GROUT LANCE 1800MM LONG, SWIVEL MINSUP SURELOCK has sales quantities of 20 in 2025.10 and 20 in No.34.
+
+GM3 and GM3 - DENDROBIUM are selling COAL - NSW. The product LANCETEXSUMO18 - Grout Lance suit M42 TEX SUMO Cable 1800mm Long has sales quantities of 14 in 2025.3, 6 in 2025.4, 6 in 2025.7, 17 in 2025.8, 11 in 2025.9, 10 in 2025.10, 5 in 2025.11, 14 in No.8, 6 in No.14, 6 in No.25, 4 in No.32, 9 in No.34, 8 in MTD-3, 9 in MTD-3.2, 1 in MTD-1, 7 in MTD-2.2, 5 in MTD.1, and 6 open units.
+
+GM3 and GM3 - DENDROBIUM are selling COAL - NSW. The product N32GT32CFFH - N32 REID BAR 3.0M LONG W/FEMALE COUPLER & FISHHOOK WELDED has sales quantities of 90 in 2025.2, 90 in 2025.3, 310 in 2025.11, 90 in No.4, and 90 in No.5, with 310 in MTD.
+
+GM3 and GM3 - DENDROBIUM are selling COAL - NSW. The product N32GT32CMCOUP - N32 REID BAR 3.0M LONG W/MALE COUPLER & 32MM COUPLER has sales quantities of 90 in 2025.2, 90 in 2025.3, 310 in 2025.11, 90 in No.4, and 90 in No.5, with 310 in MTD.
+
+GM3 and GM3 - DENDROBIUM are selling COAL - NSW. The product NUTM36DRIVE - NUT M36 BOOT BOLT DRIVE NUT has sales quantities of 4 in 2025, 5 in 2025.6, 5 in 2025.8, 5 in No.19, and 4 in No.35, with 5 in MTD-3.2.
+
+GM3 and GM3 - DENDROBIUM are selling COAL - NSW. The product SPIDER32Y - 32MM Spider to suit 45MM Hole - Yellow has sales quantities of 50000 in 2024 and 50000 in 2025.11, with 50000 in MTD.1 and 50000 in MTD CY-1.2.
+
+GM3 and GM3 - DENDROBIUM have sold various products in NSW, Australia. In 2024, they sold 1 unit of Dendrob Cblpk 25xJCD3104B436BG 25xJV30301256GI. In 2025, they sold 4 units in July and 6 units in September. Additionally, they sold 4 units in No.28, 3 units in No.32, and 3 units in No.33.
+
+GM3 and GM3 - DENDROBIUM also sold different products in NSW, Australia. In 2025, they sold 4 units in May and 6 units in July. They also sold 4 units in No.28, 3 units in No.32, and 3 units in No.33. In 2025.5, they sold 1 unit.
+
+GM3 and GM3 - DENDROBIUM sold a cable pack in NSW, Australia. In 2025, they sold 1 unit in May. They also sold 1 unit in No.17.
+
+GM3 and GM3 - DENDROBIUM sold Top Down 80MPa Cable Grout 20kg Bag 56 BAGS X 20KG PER PALLET in NSW, Australia. In 2025, they sold 56 units. In March 2025, they sold 56 units.
+
+GM3 and GM3 - DENDROBIUM sold a cable pack in NSW, Australia. In 2024, they sold 10 units. In 2025, they sold 22 units across multiple months including January, February, March, April, May, June, July, and August. They also sold 24 units in May, 22 units in February, 14 units in April, 16 units in May, June, and July, 30 units in July, 18 units in August, and 20 units in September. They sold 4 units in No.4, 12 units in No.1, 4 units in No.2, 2 units in No.3, 4 units in No.4, 2 units in No.5, 4 units in No.6, 2 units in No.7, 4 units in No.8, 4 units in No.9, 10 units in No.10, 4 units in No.11, 4 units in No.12, 2 units in No.13, 2 units in No.14, 6 units in No.16, 4 units in No.17, 4 units in No.18, 6 units in No.19, 6 units in No.20, 2 units in No.21, 4 units in No.22, 2 units in No.24, 12 units in No.25, 6 units in No.26, 6 units in No.27, 6 units in No.28, 4 units in No.29, 10 units in No.30, 4 units in No.37, 4 units in No.38, 6 units in No.39, 8 units in No.40, 6 units in No.41, 2 units in MTD-3, 4 units in MTD-3.1, 8 units in MTD-3.2, 8 units in MTD-2, 8 units in MTD-2.1, 4 units in MTD-2.2, and 6 units in MTD CY-1.1.
+
+GM3 and GM3 - DENDROBIUM sold another cable pack in NSW, Australia. In 2024, they sold 3 units. In 2025, they sold 9 units across multiple months including January, February, March, April, May, June, July, and October. They also sold 2 units in No.2, 4 units in No.5, 6 units in No.8, 4 units in No.11, 2 units in No.12, 2 units in No.13, 2 units in No.14, 4 units in No.17, 4 units in No.19, 2 units in No.24, 6 units in No.26, 2 units in No.27, 2 units in No.29, 4 units in No.30, 1 unit in No.35, 2 units in No.37, 2 units in MTD-1.1, 1 unit in MTD CY-1.1, and 1 open unit.
+
+GM3 and GM3 - DENDROBIUM sold breather tubes in NSW, Australia. In 2025, they sold 19 units in February and 4 units in July. They also sold 15 units in No.2, 4 units in No.5, and 4 units in No.27.
+
+GM3 and GM3 - DENDROBIUM sold grout tubes in NSW, Australia. In 2025, they sold 8 units in February and 4 units in July. They also sold 4 units in No.2, 4 units in No.5, and 4 units in No.27. In March 2025, they sold 4 units.
+
+GM3 and GM3 - DENDROBIUM sold a cable pack in NSW, Australia. In 2025, they sold 18 units in September and 22 units in October. They also sold 10 units in No.32, 10 units in No.33, and 4 units in No.34. In January 2025, they sold 4 units. In February 2025, they sold 8 units. In March 2025, they sold 4 units. In April 2025, they sold 6 units. In May 2025, they sold 4 units. In June 2025, they sold 6 units. In July 2025, they sold 8 units. In August 2025, they sold 2 units. In November 2025, they sold 2 units. In December 2025, they sold 2 units. In No.32, they sold 8 units. In No.33, they sold 10 units. In No.34, they sold 4 units. In MTD-1, they sold 4 units. In MTD-1.1, they sold 8 units. In MTD-1.2, they sold 6 units. In MTD, they sold 4 units. In MTD.1, they sold 4 units. In MTD.2, they sold 2 units. In Open, they sold 2 units.
+
+GM3 and GM3 - DENDROBIUM sold another cable pack in NSW, Australia. In 2025, they sold 2 units in November. In MTD.2, they sold 2 units. In Open, they sold 16 units.
+
+Maxwell Ventures (Management) P/L sold GeoCell256835 in NSW, Australia. In 2025, they sold 12 units. In MTD-2.1, they sold 12 units.
+
+Maxwell Ventures (Management) P/L sold a 20mm Grout Gun in NSW, Australia. In 2025, they sold 2 units in March, 2 units in April, and 2 units in September. In No.6, they sold 2 units. In No.14, they sold 2 units. In MTD-2.1, they sold 2 units.
+
+Mine Site Testing Equipment - Coal NSW sold a Coupler M24 to M36 in NSW, Australia. In 2024, they sold 1 unit. In MTD CY-1.1, they sold 1 unit.
+
+Peabody sold a Mesh Roof 5.00m x 1.35m 100x100 apt 5.0mm wire Imb5-44-5014-JNA in NSW, Australia. In 2025, they sold 396 units. In MTD.1, they sold 396 units.
+
+Peabody sold Top Down 80MPa Cable Grout 20kg Bag 56 BAGS X 20KG PER PALLET in NSW, Australia. In 2025, they sold 336 units. In MTD-3.1, they sold 336 units.
+
+RockTech Pty Ltd sold a 10t Mono Jack Flat Nose in NSW, Australia. In 2025, they sold 1 unit in March. In No.5, they sold 1 unit.
+
+SCT Operations Pty Ltd sold Bolt TT M24x2.4 JX Threadded in NSW, Australia. In 2025, they sold 5 units. In No.26, they sold 5 units.
+
+SCT Operations Pty Ltd sold Nut M24 x 125d Molycoated in NSW, Australia. In 2025, they sold 5 units. In No.26, they sold 5 units.
+
+SCT Operations Pty Ltd sold Washer Dome Ball M24 in NSW, Australia. In 2025, they sold 5 units. In No.26, they sold 5 units.
+
+SCT Operations Pty Ltd sold Teflon Washer M24 in NSW, Australia. In 2025, they sold 5 units. In No.26, they sold 5 units.
+
+Simec Mining Tahmoor sells various products including steel plates and roof materials. In March 2024, they sold 3 units of Pod Cutable 2.1m Steel and 1.2m Xht FG, plus plates 122xs2.1m, 60xfg1.2m, 120xv1510, 160xbd24, 60xhipp, and 2024. In March 2025, they reported 9 units of similar products.
+
+Simec Mining Tahmoor also sells steel products. In March 2024, they sold 9 units of Pod Steel 2.1m Roof 1.5m Rib, 10mm Volca D24 B/Fly 122xs2.1m, 60xjsd1.2m, 160xv1510, 180xbd24. In March 2025, they reported 9 units of similar products.
+
+Whitehaven Coal's Narrabri operations sell resin capsule baskets. In March 2025, they sold 500 units of Resin Capsule Basket Retainer - 24mm, and 500 units of No.33.
+
+Whitehaven Coal's Narrabri operations also sell cable packs. In March 2025, they sold 4 units of Cable Pack 15.2mm X 8.0m - Plain + Grout Tube 50 cables and 50 grout tubes per pack. In March 2025, they reported 4 units of similar products.
+
+Whitehaven Coal's Narrabri operations sell mesh rib products. In March 2024, they sold 2000 units, and in March 2025, they reported 5500 units, 6500 units, 6000 units, 3500 units, 4000 units, 6000 units, 2000 units, 2000 units, 2000 units, 1500 units, 2500 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 1500 units, 2500 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2000 units, 2
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold F/G Bolt 32mm x 1800mm Solid High Breakout T/T Nut with part numbers JFG321800H, achieving sales of 2000 units in 2025 and 1500 units in 2025.7, No.15, and No.26.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold F/G Bolt 32mm x 3000mm Solid High Breakout T/T Nut with part number JFG323000H, achieving sales of 100 units in 2025.2 and 500 units in 2025.3, No.3, and No.7.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Fiberglass Mesh Sheet 2.4m x 1.5m 100mm Ap - 4mm with part number JFM2415101004, achieving sales of 740 units in 2025.5 and 240 units in 2025.11, No.18, and MTD 240.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Kangaroo Plate 150x150x5mm 38mm Hole Tied with part number JK15150538RW, achieving sales of 18620 units in 2024, 28420 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold J-Lok 5* Dual 1000x25mm S-Fast/S-Slow 50:50 Ratio Resin with part number JL5D100025SFS55, achieving sales of 18000 units in 2024, 29700 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold J-Lok 5* Dual 880x25mm X-Fast/S-Slow 50:50 Ratio Resin with part number JL5D88025XFS55, achieving sales of 3600 units in 2024, 9000 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold J-Lok 5* PG Cable 1200x36mm Med + Retainer Resin with part number JL5PG120036MR, achieving sales of 2646 units in 2024 and 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Rolled Edge Plate 450x450x1.0 W/50 mm Hole with part number JRE45450150, achieving sales of 600 units in 2025 and No.22.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Blt M17x1.2 Paddled Dbw Pin Nut Teflon with part number JSD3412PBTPC3M, achieving sales of 500 units in 2025.5 and No.17.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Anchor Coupler R32 x L190 with part number JSDHBCR32190, achieving sales of 1500 units in 2025.4 and No.10.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Anchor Bar R32S x 3000mm Self Drilling with part number JSDHBR3230S, achieving sales of 1500 units in 2025.4 and No.10.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold M24 Tension Indicator Washers Red/Yellow Bucket of 50 Indictor Washers & 50 Steel Washers with part number JTWIM2407TYRS, achieving sales of 2 units in 2025.3, 2025.5, 2025.9, 2025.10, No.5, and No.18.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Butterfly Plate 280x300mm Black with part number JWW280300, achieving sales of 8640 units in 2024, 17280 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold JX M24x1.8m Dome Ball Pin Nut with part number JX2418BPS, achieving sales of 10600 units in 2024, 25600 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold JX M24x2.1m Dome Ball Washer Pin Nut Black with part number JX2421BPS, achieving sales of 500 units in 2025.10.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Nut M24 x 125d Molycoated with part number NUTRM24H125DM, achieving sales of 6 units in 2025.11.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC with part number SM5H501610104G, achieving sales of 30 units in 2025.10.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 792 units in 2024, 1188 units in 2025, and various other units across different months and years.
+
+Whitehaven Coal's Narrabri Coal Operations P/L sold Mesh Roof 5.00mx1.55m 100x100 Apt 5.0mm Wire Slg Imb5-46-5016-Jna with part number SMB5016151005S, achieving sales of 79
+
+Whitehaven Coal operates the Narrabri Coal Operations P/L (JA013) and sells various products including Top Down 80MPA Cable Grout 20kg Bags. In 2024, they sold 10 units of this product. In 2025, sales increased significantly, with 1,176 units sold in January, 1,680 in February, 1,848 in March, 1,008 in April, 1,736 in May, 1,680 in June, 112 in July, 1,680 in August, 1,792 in September, 896 in October, 1,288 in November, and 560 in December. Notable sales were also recorded in the months of March, June, and October.
+
+Yancoal Australia operates the Ashton Coal Operations P/L (JA062) and sells 4Repair products. In 2025, they sold 2 units in May, 1 unit in June, 2 units in July, 6 units in August, 2 units in September, 2 units in October, 2 units in November, and 2 units in December. Additionally, they opened 5 units in December.
+
+Yancoal Australia continues to operate the Ashton Coal Operations P/L (JA062) and sells Ashpod products. In 2024, they sold 10 units. In 2025, sales increased to 22 units in January, 32 units in February, 32 units in March, 26 units in April, 23 units in May, 27 units in June, 31 units in July, 30 units in August, 21 units in September, 27 units in October, and 30 units in November. Notable sales were also recorded in the months of January, March, June, and October.
+
+Yancoal Australia operates the Ashton Coal Operations P/L (JA062) and sells Bracket1 products. In 2025, they sold 600 units in January, 600 units in February, 600 units in March, 600 units in May, and 600 units in September. Additionally, they sold 600 units in November and 600 units in December.
+
+Yancoal Australia continues to operate the Ashton Coal Operations P/L (JA062) and sells Bracket1C products. In 2025, they sold 200 units in January, 300 units in February, 300 units in April, 300 units in May, and 1,000 units in June. Additionally, they sold 300 units in October, 500 units in November, and 200 units in December.
+
+Yancoal Australia operates the Ashton Coal Operations P/L (JA062) and sells Bracket24Pipe products. In 2025, they sold 200 units in January, 600 units in February, 300 units in April, and 200 units in August. Additionally, they sold 50 units in May, 200 units in October, 100 units in November, 200 units in December, and 100 units in December.
+
+Yancoal Australia operates the Ashton Coal Operations P/L (JA062) and sells Bracket3C products. In 2024, they sold 450 units. In 2025, they sold 450 units in February, 150 units in March, 150 units in April, 150 units in July, 500 units in August, 750 units in September, 150 units in October, and 150 units in November. Additionally, they sold 150 units in December.
+
+Yancoal Australia operates the Ashton Coal Operations P/L (JA062) and sells BW218MMD products. In 2025, they sold 110 units in January, 130 units in April, 160 units in June, and 310 units in September. Additionally, they sold 130 units in November and 160 units in December.
+
+Yancoal Australia operates the Ashton Coal Operations P/L (JA062) and sells CB311206BWG products. In 2025, they sold 125 units in March. Additionally, they sold 125 units in July.
+
+Yancoal Australia operates the Ashton Coal Operations P/L (JA062) and sells Frasp2802 products. In 2025, they sold 7 units in January, 5 units in March, 9 units in April, 11 units in June, 31 units in July, 11 units in August, 32 units in September, 10 units in October, and 10 units in November. Additionally, they sold 9 units in December.
+
+Yancoal Australia operates the Ashton Coal Operations P/L (JA062) and sells GeoCell256835 products. In 2024, they sold 3 units. In 2025, they sold 18 units in January. Additionally, they sold 18 units in July.
+
+Yancoal Australia operates the Ashton Coal Operations P/L (JA062) and sells GXB501710154G products. In 2025, they sold 480 units in October. Additionally, they sold 480 units in December.
+
+Yancoal Australia operates the Ashton Coal Operations P/L (JA062) and sells GXB5018101504G products. In 2025, they sold 39 units in April. Additionally, they sold 39 units in October.
+
+Yancoal Australia operates the Ashton Coal Operations P/L (JA062) and sells Hipp230R products. In 2025, they sold 1,000 units in January, 1,000 units in February, 2,000 units in March, 2,000 units in April, 1,000 units in May, 1,000 units in June, 1,000 units in July, 1,000 units in August, 1,000 units in October, and 1,000 units in December. Additionally, they sold 1,000 units in November.
+
+Yancoal Australia operates the Ashton Coal Operations P/L (JA062) and sells HipSteelSpp products. In 2025, they sold 500 units in June. Additionally, they sold 500 units in December.
+
+Yancoal Australia operates the Ashton Coal Operations P/L (JA062) and sells HipSteelSpp2051 products. In 2025, they have 700 open units.
+
+Yancoal Australia operates the Ashton Coal Operations P/L (JA062) and sells Jbs2412Bpr products. In 2024, they sold 700 units. In 2025, they sold 1,500 units in January, 2,300 units in February, 2,550 units in March, 2,650 units in April, 1,950 units in May, 3,250 units in June, 3,100 units in July, 2,000 units in August, 1,900 units in September, 3,100 units in October, 1,150 units in November. Additionally, they sold 1,000 units in December.
+
+Yancoal Australia operates the Ashton Coal Operations P/L (JA062) and sells Jbs2418bp3 products. In 2025, they sold 340 units in October.
+
+Yancoal Australia operates the Ashton Coal Operations P/L (JA062) and sells Jcb22041 products. In 2025, they sold 150 units in April, 100 units in July, and 100 units in September. Additionally, they sold 150 units in November and 100 units in December.
+
+Yancoal Australia operates the Ashton Coal Operations P/L (JA062) and sells Jcb22041tex products. In 2025, they sold 150 units in March, 100 units in April, 25 units in May, 125 units in June, 275 units in November, and 200 units in December. Additionally, they sold 150 units in September and 75 units in December.
+
+Yancoal Australia sells various products through Ashton Coal Operations P/L (JA062). In 2025, they sold 425 units of Superstand 21.8mm x 6.1m Tex Cable to No.12 and No.14, and 175 units to No.12. Additionally, they sold 600 units of Combi Plate 280x300 + K150x5mm Top Plate Reversed to No.10. In 2024, they sold 4 units of Dollie 25sq - 24 hex f 290mm 70t hollow cable to No.1 and No.4, and 5 units to No.16. They also reported 4 units to MTD.1 and MTD CY-1.1.
+
+Yancoal Australia sells various products through Ashton Coal Operations P/L (JA062). In 2025, they sold 600 units of Combi Plate 280x300 + K150x5mm Top Plate Reversed to No.10. They also sold 6 units of Dolly 25sq drive 300mm long w/ 46mm socket to No.25.
+
+Yancoal Australia sells various products through Ashton Coal Operations P/L (JA062). In 2025, they sold 5 units of Dolly 425mm long suit 55mm hex nut tex cables and 32mm dowel system to No.9, No.10, No.12, No.19, No.20, and No.34. They also reported 5 units to MTD-3.1.
+
+Yancoal Australia sells various products through Ashton Coal Operations P/L (JA062). In 2025, they sold 1000 units of F/g bolt 22mmx1200mm xht high breakout t/t nut to No.1, No.5, No.10, No.11, No.12, No.13, No.14, No.16, No.24, No.27, No.33, No.39, MTD-3.2, and MTD.1.
+
+Yancoal Australia sells various products through Ashton Coal Operations P/L (JA062). In 2025, they sold 250 units of F/g bolt 22mmx1800mm xht high breakout t/t nut to No.10 and No.28. They also reported 250 units to Open.
+
+Yancoal Australia sells various products through Ashton Coal Operations P/L (JA062). In 2025, they sold 300 units of F/g bolt 32mmx1800mm solid high breakout t/t nut to No.24 and No.25. They also reported 200 units to Open.
+
+Yancoal Australia sells various products through Ashton Coal Operations P/L (JA062). In 2025, they sold 700 units of F/g bolt 32mmx1800mm solid 55mm high breakout t/t nut to Open.
+
+Yancoal Australia sells various products through Ashton Coal Operations P/L (JA062). In 2025, they sold 200 units of Fibreglass mesh sheet 5.0m x 1.2m 100mm ap - 4mm to Open.
+
+Yancoal Australia sells various products through Ashton Coal Operations P/L (JA062). In 2025, they sold 1960 units of Kanga plate 150x150x5mm 38mm hole tied to No.1, No.13, No.25, and MTD-2.3. They also reported 3920 units to Open.
+
+Yancoal Australia sells various products through Ashton Coal Operations P/L (JA062). In 2025, they sold 420 units of J-lok 5* pg cable 800x36mm med + retainer resin - 10 capsules/box, 420/pallet (42 boxes) to No.24 and No.25. They also reported 700 units to Open.
+
+Yancoal Australia sells various products through Ashton Coal Operations P/L (JA062). In 2024, they sold 2240 units of J-lok 5* single 440x25mm fast resin - 40 capsules/box, 1920/pallet (48 boxes) to No.1, No.4, No.7, No.9, No.10, No.14, No.16, No.19, No.21, No.22, No.23, No.24, No.25, No.26, No.28, No.33, No.34, No.39, MTD-3, MTD-3.2, MTD-1, MTD-1.1, MTD-2.2, MTD.1, MTD.2, and MTD CY-1.2.
+
+Yancoal Australia sells various products through Ashton Coal Operations P/L (JA062). In 2025, they sold 140 units of J-lok 5* tendon cable 1200x25mm slow resin - 20 capsules/box, 840/pallet (42 boxes) to No.4, No.14, No.20, No.24, No.27, No.30, No.34, and MTD-2.2.

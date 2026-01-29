@@ -1,0 +1,6 @@
+2026-01-29 09:47:28,343 [INFO] Read 249 records from Daily Production Report v1.xlsm_Schlatter PG12.csv
+2026-01-29 09:47:28,345 [INFO]   Normalized entity names for 249 records
+2026-01-29 09:47:28,345 [INFO]   Analyzing file schema...
+2026-01-29 09:47:32,707 [INFO]   File analysis: production_record - 3 entities
+2026-01-29 09:47:32,707 [INFO] Transforming Daily Production Report v1.xlsm_Schlatter PG12.csv: 249 records in 13 batches
+2026-01-29 09:52:23,624 [INFO]   Wrote 251 paragraphs to Daily Production Report v1.xlsm_Schlatter PG12.txt

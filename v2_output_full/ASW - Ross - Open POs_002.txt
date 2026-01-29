@@ -1,0 +1,1193 @@
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254102 on November 5, 2025. Order contains 1 unit of 7R&D - RESEARCH & DEVELOPMENT for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254110 on November 5, 2025. Order contains 2,592 units of JTOTO218MMD - TOTO TENSIONING DEVICE FOR 21.8MM CA0087 Rev 3 for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254110 on November 5, 2025. Order contains 2,000 units of SSJLPGROUTBELL - SS Low profile DCP Grout Bell for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254110 on November 5, 2025. Order contains 5,000 units of SSSR24GROUTBELL - SS SR 30T Grout Bell Straight for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254110 on November 5, 2025. Order contains 20,000 units of EXCLIP70T36 - ExClip 36mm 70T 12W 31mm Sumo Cable Bolt CA0141 for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254123 on November 6, 2025. Order contains 6,000 units of FBR32DBW66 - Falcon Bolt Domeball Washer R32 X 66mm OD for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254123 on November 6, 2025. Order contains 6,000 units of FBR32SWAGE45 - Falcon Bolt Swage R32 x 45mm OD for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254123 on November 6, 2025. Order contains 1,000 units of FBR32TDDHEXCOUP - Falcon Bolt Hex Coupler 38AF x 190mm for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254123 on November 6, 2025. Order contains 6,000 units of JFBNUTR3246TH65 - Falcon Bolt Nut 46AF Externally threaded R32XL65MM for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254123 on November 6, 2025. Order contains 6,000 units of FBR32SDDHEX28AF - Falcon Bolt Single Dolly Drive Hex R32 x 28AF for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254123 on November 6, 2025. Order contains 6,000 units of FBR32TDDHEX38AF - Falcon Bolt R32 38AF Drive Hex SDA0009 for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254125 on November 6, 2025. Order contains 200 units of 7CONSMANUF - Consumables Manufacturing for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254186 on November 10, 2025. Order contains 2,000 units of JHBNUT24LHB - LOW PROFILE BOLT NUT LEAF HAND BLACK for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254217 on November 11, 2025. Order contains 25 units of NUTPLATEM24LH - PULL TEST NUT PLATE LEFT HAND M24 for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254470 on November 26, 2025. Order contains 10,000 units of SSSR24GROUTBELL - SS SR 30T Grout Bell Straight for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254594 on December 3, 2025. Order contains 500 units of M20NUT125DHANGG - J-TECH NUT HANGER 20MM M20 X 1.25D - GAL 50 UNITS PER PACK for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254620 on December 4, 2025. Order contains 20 units of 7R&D - RESEARCH & DEVELOPMENT for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254620 on December 4, 2025. Order contains 20 units of 7R&D - RESEARCH & DEVELOPMENT for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254620 on December 4, 2025. Order contains 10 units of 7R&D - RESEARCH & DEVELOPMENT for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254620 on December 4, 2025. Order contains 10 units of 7R&D - RESEARCH & DEVELOPMENT for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254620 on December 4, 2025. Order contains 20 units of 7R&D - RESEARCH & DEVELOPMENT for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254620 on December 4, 2025. Order contains 20 units of 7R&D - RESEARCH & DEVELOPMENT for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254620 on December 4, 2025. Order contains 10 units of 7R&D - RESEARCH & DEVELOPMENT for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254620 on December 4, 2025. Order contains 10 units of 7R&D - RESEARCH & DEVELOPMENT for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1958 issued purchase order 254667 on December 7, 2025. Order contains 10,000 units of SSSR24GROUTBELL - SS SR 30T Grout Bell Straight for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1958 issued purchase order 254667 on December 7, 2025. Order contains 100 units of BLKPOLYPIPE - BLACK POLY PIPE 25MM (1EA=200M ROLL) for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1958 issued purchase order 254667 on December 7, 2025. Order contains 2,000 units of JHBNUT24LHB - LOW PROFILE BOLT NUT LEAF HAND BLACK for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1958 issued purchase order 254667 on December 7, 2025. Order contains 20 units of JDO616520TWH - DOLLIE 25SQ DRIVE 165MM LONG TO SUIT S/STRAND TOTO WITH THROUGH WATER HOLE for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1958 issued purchase order 254667 on December 7, 2025. Order contains 2,000 units of SSJLPGROUTBELL - SS Low profile DCP Grout Bell for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1958 issued purchase order 254667 on December 7, 2025. Order contains 40,000 units of JFG22INSERT - JFG 22mm Fiberglass insert (Steel) CU0059 for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1958 issued purchase order 254667 on December 7, 2025. Order contains 2,592 units of JTOTO218MMD - TOTO TENSIONING DEVICE FOR 21.8MM CA0087 Rev 3 for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1958 issued purchase order 254667 on December 7, 2025. Order contains 14,000 units of NUTBM24H125DF - M24 Blind Flanged Nut N0065 Rev 0 for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1958 issued purchase order 254667 on December 7, 2025. Order contains 6,000 units of TEX42NUT - Flanged nut M42 Thread M36 Hex pin hole Phosphated for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1958 issued purchase order 254667 on December 7, 2025. Order contains 6,000 units of TEX42WSH - Ridged Domecup Washer for M42 w Flats for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1958 issued purchase order 254667 on December 7, 2025. Order contains 5,000 units of FBR32DBW66 - Falcon Bolt Domeball Washer R32 X 66mm OD for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1958 issued purchase order 254669 on December 7, 2025. Order contains 5,000 units of SSSR24GROUTBELL - SS SR 30T Grout Bell Straight for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1958 issued purchase order 254669 on December 7, 2025. Order contains 6,000 units of TEX42NUT - Flanged nut M42 Thread M36 Hex pin hole Phosphated for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1958 issued purchase order 254669 on December 7, 2025. Order contains 6,000 units of TEX42WSH - Ridged Domecup Washer for M42 w Flats for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1958 issued purchase order 254671 on December 7, 2025. Order contains 40,000 units of JFG22INSERT - JFG 22mm Fiberglass insert (Steel) CU0059 for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1958 issued purchase order 254671 on December 7, 2025. Order contains 2,592 units of JTOTO218MMD - TOTO TENSIONING DEVICE FOR 21.8MM CA0087 Rev 3 for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1958 issued purchase order 254821 on December 14, 2025. Order contains 162,000 units of WASHM24DB - WASHER DOME BALL M24 for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1958 issued purchase order 254822 on December 14, 2025. Order contains 162,000 units of WASHM24DB - WASHER DOME BALL M24 for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1958 issued purchase order 254823 on December 14, 2025. Order contains 126,000 units of NUTRM24H125D - Nut M24 Hex 125xD for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1958 issued purchase order 254825 on December 14, 2025. Order contains 10 units of LANCE70T1000SWV - Grout Lance 70T 1/2" BSP 1000mm Long Swivel for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1958 issued purchase order 254825 on December 14, 2025. Order contains 300 units of JHBGROUTNOZ24LH - LOW PROFILE BOLT GROUT NOZZLE for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1993 issued purchase order 252798 on August 25, 2025. Order contains 1,000 units of 7PROMOGOODS - PROMOTIONAL GOODS for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1993 issued purchase order 254529 on December 1, 2025. Order contains 1 unit of 7UNIFORMS - Uniforms for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2049 issued purchase order 254859 on December 15, 2025. Order contains 150 units of OPDNW4500 - RIB STRAP HDPE 4500MM X 190MM WIDE WITH 5 HOLES for delivery to NF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2089 issued purchase order 246656 on August 6, 2024. Order contains 1 unit of 7CIP2470RD060 - Hydraulic 2:1 J Lok P Pump RD060 for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2145 issued purchase order 254518 on November 30, 2025. Order contains 1 unit of 7QACONSUME - Quality Assure Consumable for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2145 issued purchase order 254518 on November 30, 2025. Order contains 1 unit of 7QACONSUME - Quality Assure Consumable for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2163 issued purchase order 251671 on June 19, 2025. Order contains 11,000 units of WASHM24WT - TEFLON WASHER M24 for delivery to NF. 10,200 units have been accepted.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2163 issued purchase order 253104 on September 10, 2025. Order contains 250,000 units of WASHM24WT - TEFLON WASHER M24 for delivery to NF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2163 issued purchase order 253106 on September 10, 2025. Order contains 250,000 units of WASHM24WT - TEFLON WASHER M24 for delivery to NF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2163 issued purchase order 253107 on September 10, 2025. Order contains 250,000 units of WASHM24WT - TEFLON WASHER M24 for delivery to NF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2163 issued purchase order 253921 on October 27, 2025. Order contains 720 units of 7PACKAGING - PACKAGING for delivery to NF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2163 issued purchase order 254441 on November 25, 2025. Order contains 52 units of 719MMPSTRAPBLK - SP15090B 19MM PLASTIC STRAP BLACK for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2163 issued purchase order 254613 on December 4, 2025. Order contains 600 units of 7CONSQA - Consumables Quality for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2163 issued purchase order 254750 on December 10, 2025. Order contains 150 units of 7CONSQA - Consumables Quality for delivery to . Order also contains 350 units of 7CONSQA for delivery to . Additionally, 350 units of 7CONSQA for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2190 issued purchase order 252981 on September 3, 2025. Order contains 2,000 units of JFG3218 - F/G BOLT 32MMX1800MM SOLID for delivery to NT. All units have been accepted.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2190 issued purchase order 253672 on October 14, 2025. Order contains 10,000 units of JFG2515 - FRP Dowel Orange, 25*1450 for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2190 issued purchase order 253673 on October 14, 2025. Order contains 10,000 units of JFG2515 - FRP Dowel Orange, 25*1450 for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2190 issued purchase order 254109 on November 5, 2025. Order 5,000 units of JFG2215XHT - 22*1500 Extra High torque Dowel, Gray RAL7011 Drg CU0070 Rev 0 for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2190 issued purchase order 254109 on November 5, 2025. Order 5,000 units of JFG2512 - Fibreglass Dowel 25*1150 mm for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2190 issued purchase order 254680 on December 7, 2025. Order 5,000 units of JFG2218XHT - F/G BOLT 22MMX1800MM XHT HIGH BREAKOUT T/T NUT for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2190 issued purchase order 254680 on December 7, 2025. Order 15,000 units of JFG2515 - FRP Dowel Orange, 25*1450 for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2190 issued purchase order 254680 on December 7, 2025. Order 10,000 units of JFG3218 - F/G BOLT 32MMX1800MM SOLID for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2190 issued purchase order 254680 on December 7, 2025. Order 2,500 units of JFGNUT32HOL - F/G NUT FOR 32MM DIA HOLLOW BOLT for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2190 issued purchase order 254681 on December 7, 2025. Order 5,000 units of JFG3218 - F/G BOLT 32MMX1800MM SOLID for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2197 issued purchase order 254384 on November 23, 2025. Order 1 unit of 7OFFICESUP - Office Supplies for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2198 issued purchase order 254325 on November 18, 2025. Order 1 unit of 7COST2INV - Cost To Be Invoiced for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2198 issued purchase order 254325 on November 18, 2025. Order 4 units of 7COST2INV - Cost To Be Invoiced for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2198 issued purchase order 254325 on November 18, 2025. Order 1 unit of 7COST2INV - Cost To Be Invoiced for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2198 issued purchase order 254865 on December 15, 2025. Order 6 units of 7RPRMTCEPEEL - Repair & Maint PEELER for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2205 issued purchase order 254818 on December 14, 2025. Order 112 units of JPM50016 - PP Biaxial Geogrid43/46KN Flame retardant & Antistatic Mesh of 1.6m (W) X 50m (L) for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2205 issued purchase order 254818 on December 14, 2025. Order 112 units of JPM50024 - PP Biaxial Geogrid43/46KN Flame retardant & Antistatic Mesh of 2.4m (W) X 50m (L) for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2205 issued purchase order 254819 on December 14, 2025. Order 112 units of JPM50016 - PP Biaxial Geogrid43/46KN Flame retardant & Antistatic Mesh of 1.6m (W) X 50m (L) for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2205 issued purchase order 254819 on December 14, 2025. Order 112 units of JPM50024 - PP Biaxial Geogrid43/46KN Flame retardant & Antistatic Mesh of 2.4m (W) X 50m (L) for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2206 issued purchase order 250955 on May 9, 2025. Order 16 units of CB3112PULLTEST - 1.4M 31MM 12-WIRE 70T HOLLOW PULL TEST CABLE for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2206 issued purchase order 253352 on September 24, 2025. Order 600 units of CB311204G125H - Cable 70T 12W 31mm X 4M+Bulbed+1250mm Grout +Hex Drv for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2206 issued purchase order 253352 on September 24, 2025. Order 600 units of CB311206G125H - Cable 70T 12W 31mm X 6M+Bulbed+1250mm Grout +Hex Drv for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2206 issued purchase order 253352 on September 24, 2025. Order 12 units of CB3112PULLTEST - 1.4M 31MM 12-WIRE 70T HOLLOW PULL TEST CABLE for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254732 on December 9, 2025. Order contains 600 units of CB311204G125H - Cable 70T 12W 31mm X 4M+Bulbed+1250mm Grout +Hex Drv for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254732 on December 9, 2025. Order contains 600 units of CB311208G125H - Cable 70T 12W 31mm X 8M+Bulbed+1250mm Grout +Hex Drv for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254732 on December 9, 2025. Order contains 12 units of CB3112PULLTEST - 1.4M 31MM 12-WIRE 70T HOLLOW PULL TEST CABLE for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-252111 on July 14, 2025. Order contains 1 unit of 7TENHYDRPR - Tensioner / Hydraulic Rpr for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-253652 on October 13, 2025. Order contains 60.394 TONN of CS218RHL - Coil 21.8mm RHL Sup Stran for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254120 on November 5, 2025. Order contains 30.4 TONN of CS218RHL - Coil 21.8mm RHL Sup Stran for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254121 on November 5, 2025. Order contains 60 TONN of CS218RHL - Coil 21.8mm RHL Sup Stran for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-252572 on August 11, 2025. Order contains 1 unit of 7RPRMTCEPLATEPR - Repair & Maintenance Plate Press for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-249170 on January 23, 2025. Order contains 1 unit of 7PREPAIDEXP - Prepaid general expenses for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-251787 on June 26, 2025. Order contains 1 unit of 7RPRMTCECRAN - Repair & Maint Cranes for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254616 on December 4, 2025. Order contains 1 unit of 7RPRMTCECRAN - Repair & Maint Cranes for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254617 on December 4, 2025. Order contains 1 unit of 7RPRMTCECRAN - Repair & Maint Cranes for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254347 on November 19, 2025. Order contains 59 units of 7PROMOGOODS - PROMOTIONAL GOODS for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254347 on November 19, 2025. Order contains 59 units of 7PROMOGOODS - PROMOTIONAL GOODS for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254347 on November 19, 2025. Order contains 56 units of 7PROMOGOODS - PROMOTIONAL GOODS for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254484 on November 27, 2025. Order contains 4,000 units of SMF251803GCD - RIB MESH 2.5X1.8M 100X100MM APT & 3.15MM GAL WIRE for delivery to NF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254485 on November 27, 2025. Order contains 4,000 units of SMF251803GCD - RIB MESH 2.5X1.8M 100X100MM APT & 3.15MM GAL WIRE for delivery to NF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254807 on December 14, 2025. Order contains 2,000 units of SMESH300011704 - SHOTCRETE MESH 3.00MX1.17M 4MM WIRE - GAL IMG4D-66-3012 for delivery to NF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254876 on December 16, 2025. Order contains 2,400 units of SMESH300011704 - SHOTCRETE MESH 3.00MX1.17M 4MM WIRE - GAL IMG4D-66-3012 for delivery to NF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+CENTENNIAL COAL placed order PO-253803 on October 21, 2025. Order contains 84 TONN of CSH31LHL - Coil 31mm Hollow Sup Strand Left Hand Lay for delivery to N5.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-253804 on October 21, 2025. Order contains 84 TONN of CSH31LHL - Coil 31mm Hollow Sup Strand Left Hand Lay for delivery to N5.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-253805 on October 21, 22025. Order contains 84 TONN of CSH31LHL - Coil 31mm Hollow Sup Strand Left Hand Lay for delivery to N5.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-253082 on September 9, 2025. Order contains 3 EA of 7PODREPAIR - REPAIR POD for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254759 on December 10, 2025. Order contains 2 EA of 7PODREPAIR - REPAIR POD for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+CENTENNIAL COAL placed order PO-253588 on October 8, 2025. Order contains 1 EA of 7TENSREPAIR - REPAIR TENSIONER / FOOTPUMP for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+CENTENNIAL COAL placed order PO-253588 on October 8, 2025. Order contains 1 EA of 7TENSREPAIR - REPAIR TENSIONER / FOOTPUMP for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+CENTENNIAL COAL placed order PO-254660 on December 7, 2025. Order contains 2 EA of N121 - Jaw Spring DSI Tensioner for delivery to NF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2573 placed order PO-254676 on December 7, 2025. Order contains 5000 EA of JFG2218BLK - FRP Dowel Black, 22*1750 Drg CU0028 Rev 1 for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2573 placed order PO-254677 on December 7, 2025. Order contains 10000 EA of JFG2212BLK - FRP Dowel Black, 22*1150 Drg CU0028 Rev 0 for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2573 placed order PO-254677 on December 7, 2025. Order contains 5000 EA of JFG2215BLK - FRP Dowel Black, 22*1450 Drg CU0028 Rev 0 for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2573 placed order PO-254677 on December 7, 2025. Order contains 10000 EA of JFG2218BLK - FRP Dowel Black, 22*1750 Drg CU0028 Rev 1 for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2573 placed order PO-254677 on December 7, 2025. Order contains 2000 EA of JFM1712101004 - FIBREGLASS MESH SHEET 1.7M X 1.2M 100MM AP - 4MM 300 UNITS PER PALLET for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2573 placed order PO-254843 on December 15, 2025. Order contains 200 EA of JFM5012101004 - FIBREGLASS MESH SHEET 5.0M X 1.2M 100MM AP - 4MM for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-253682 on October 14, 2025. Order contains 5000 EA of FBSHELLR3254120 - FB Shell R32 54OD 120 Length DWG # SDA0049 for delivery to N6.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-253683 on October 14, 2025. Order contains 10000 EA of BW152MM - BARREL & WEDGE TO SUIT 15.2MM CABLE CA0147 for delivery to N6.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254085 on November 4, 2025. Order contains 5000 EA of WEDGE218MM - 21.8MM WEDGE for delivery to N6.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254085 on November 4, 2025. Order contains 15000 EA of BW152MM - BARREL & WEDGE TO SUIT 15.2MM CABLE CA0147 for delivery to N6.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254124 on November 6, 2025. Order contains 6000 EA of FBSHELLR3254120 - FB Shell R32 54OD 120 Length DWG # SDA0049 for delivery to N6.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254183 on November 10, 2025. Order contains 2000 EA of ES2451LHT - EXPANSION SHELL M24 LEFT HAND THREAD - 51MM for delivery to N5.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254445 on November 25, 2025. Order contains 10000 EA of BW152MM - BARREL & WEDGE TO SUIT 15.2MM CABLE CA0147 for delivery to N6.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254446 on November 25, 2025. Order contains 10,000 units of BARREL & WEDGE TO SUIT 15.2MM CABLE CA0147 for delivery to N6.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254662 on December 7, 2025. Order contains 2,000 units of EXPANSION SHELL M24 LEFT HAND THREAD - 51MM for delivery to N5.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254662 on December 7, 2025. Order contains 5,000 units of BARREL & WEDGE TO SUIT 21.8MM CABLE - DOMED CA0106 for delivery to N5.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254662 on December 7, 2025. Order contains 4,000 units of 1mm TaperFerrule for M42 TEX 35ID w/Spring for delivery to N5.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254662 on December 7, 2025. Order contains 5,000 units of 21.8MM WEDGE for delivery to N5.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254662 on December 7, 2025. Order contains 100,000 units of Friction Lok Ring. 47 Dia Drg FL0005 Rev 2 for delivery to N5.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254663 on December 7, 2025. Order contains 4,000 units of 1mm TaperFerrule for M42 TEX 35ID w/Spring for delivery to N6.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254836 on December 15, 2025. Order contains 500 units of Expansion Shell M24 L/H Galvanised for delivery to N6.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2642 placed order PO-254803 on December 14, 2025. Order contains 36 units of Cut sheet SHEET2415AB4501 for delivery to unspecified warehouse.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2675 placed order PO-253669 on October 14, 2025. Order contains 2 units of Rep & Mtce - Forklift for delivery to unspecified warehouse.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2749 placed order PO-254723 on December 9, 2025. Order contains 13,500 units of FRICTION LOK BOLT 39MMX900MM + 10MM RING - GAL 150 BOLTS PER PACK for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2801 placed order PO-251678 on June 20, 2025. Order contains 1,680 units of DYNAMIC MECH-LOK 47MM X 2400MM, 20MM BAR, GALV for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2801 placed order PO-252987 on September 3, 2025. Order contains 27,000 units of COMBI PLATE 280X300 + R150X4MM ROLL TOP 50MM H GAL 250 PLATES PER PALLET for delivery to NT. 18,000 units have been accepted, leaving 9,000 outstanding.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2801 placed order PO-253386 on September 26, 2025. Order contains 100 units of RESEARCH & DEVELOPMENT for delivery to unspecified warehouse.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2801 placed order PO-253744 on October 17, 2025. Order contains 360 units of MECH LOK BOLT 47MM X 1500MM - GAL - China Supply for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2801 placed order PO-253744 on October 17, 2025. Order contains 600 units of MECH LOK BOLT 47MM X 1800MM - GAL - China Supply for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2801 placed order PO-253744 on October 17, 2025. Order contains 960 units of MECH LOK BOLT 47MM X 2100MM - GAL - China Supply for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2801 placed order PO-254087 on November 4, 2025. Order contains 1,560 units of MECH LOK BOLT 47MM X 1500MM - GAL - China Supply for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2801 placed order PO-254087 on November 4, 2025. Order contains 600 units of MECH LOK BOLT 47MM X 1800MM - GAL - China Supply for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2801 placed order PO-254087 on November 4, 2025. Order contains 360 units of MECH LOK BOLT 47MM X 2100MM - GAL - China Supply for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254314 on November 17, 2025. Order contains 720 units of JML4724G - MECH LOK BOLT 47MM X 2400MM - GAL 120 UNITS PER PACK for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254314 on November 17, 2025. Order contains 720 units of JML4730G - MECH LOK BOLT 47MM X 3000MM - GAL 100 UNITS PER PACK for delivery to NF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254721 on December 9, 2025. Order contains 1800 units of JML4715G - MECH LOK BOLT 47MM X 1500MM - GAL 105 UNITS PER PACK for delivery to NF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254721 on December 9, 2025. Order contains 1440 units of JML4718G - MECH LOK BOLT 47MM X 1800MM - GAL 105 UNITS PER PACK for delivery to NF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254721 on December 9, 2025. Order contains 720 units of JML4721G - MECH LOK BOLT 47MM X 2100MM - GAL 105 UNITS PER PACK for delivery to NF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254721 on December 9, 2025. Order contains 9360 units of JML4724G - MECH LOK BOLT 47MM X 2400MM - GAL 120 UNITS PER PACK for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2811 placed order PO-254714 on December 9, 2025. Order contains 1 unit of 7OFFICESUP - Office Supplies for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2817 placed order PO-254406 on November 24, 2025. Order contains 1 unit of 7CIP2570GAL061 - Robotic FL Crimp GAL061 for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2847 placed order PO-241245 on July 24, 2023. Order contains 1 unit of 7CIP2370ANZ091 - 1.5" National Threader ANZ091 for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2882 placed order PO-254540 on December 1, 2025. Order contains 800 units of JSR24SHEATH54 - 5.4M DCP - STRAIGHT NODULAR SHEATH, 420D,30ID 5050MM for delivery to NF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2882 placed order PO-254540 on December 1, 2025. Order contains 800 units of JSR24SHEATH91 - 9.1M DCP - STRAIGHT NODULAR SHEATH, 42OD, 30ID 9100MM LENGTH for delivery to NF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2885 placed order PO-251158 on May 20, 2025. Order contains 1 unit of 7FRTIN - Freight In for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2899 placed order PO-254710 on December 9, 2025. Order contains 1 unit of 7CONSPINNUT - Consumables - Pinnut for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2899 placed order PO-254710 on December 9, 2025. Order contains 2 units of 7CONSPINNUT - Consumables - Pinnut for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2902 placed order PO-253474 on October 1, 2025. Order contains 13 units of 7CLEANINGMFG - CLEANING MANUFACTURING for delivery to . 12 units have been accepted.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2906 placed order PO-254499 on November 30, 2025. Order contains 1 unit of 7SAFETY EXPENSE - Clothing safety expense for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2906 placed order PO-254751 on December 10, 2025. Order contains 240 units of 7SAFETY - Misc Safety Supplies for delivery to . 0 units have been accepted.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2906 placed order PO-254751 on December 10, 2025. Order contains 720 units of 7SAFETY - Misc Safety Supplies for delivery to . 0 units have been accepted.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2906 placed order PO-254814 on December 14, 2025. Order contains 1 unit of 7UNIFORMS - Uniforms for delivery to . 0 units have been accepted.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2932 placed order PO-254107 on November 5, 2025. Order contains 102 units of GEOCELL256835 - Geocell High Density Polyethylene 2.5 X 8.35 M for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2932 issued purchase order PO-254706 on December 8, 2025. Order contains 102 units of GEOCELL256835 - Geocell High Density Polyethylene 2.5 X 8.35 M for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2943 issued purchase order PO-248720 on December 15, 2024. Order contains 4,000 units of 7DRILL - Pinnut Drills for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2943 issued purchase order PO-253229 on September 17, 2025. Order contains 1,620 units of 7CONSWELD - Consumables - Welding for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2943 issued purchase order PO-253758 on October 19, 2025. Order contains 5 units of 7CONWELDCOMBIPL - CONSUMABLE WELDING COMBI PLATES for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2943 issued purchase order PO-253772 on October 20, 2025. Order contains 10,000 units of 7DRILL - Pinnut Drills for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2943 issued purchase order PO-253772 on October 20, 2025. Order contains 10,000 units of 7DRILL - Pinnut Drills for delivery to . Shipment will include 70 units already accepted.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2943 issued purchase order PO-253794 on October 21, 2025. Order contains 48 units of 7CONWELDFRICLOK - CONSUMABLE WELDING FRICTION LOK for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2943 issued purchase order PO-253794 on October 21, 2025. Order contains 80 units of 7CONWELDFRICLOK - CONSUMABLE WELDING FRICTION LOK for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2943 issued purchase order PO-253831 on October 22, 2025. Order contains 6 units of 7CONWELDCABLBOL - CONSUMABLE WELDING CABLE BOLTS for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2943 issued purchase order PO-254171 on November 10, 2025. Order contains 5 units of 7CONSRAGS - Consumables Rags for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2943 issued purchase order PO-254603 on December 4, 2025. Order contains 100 units of 7CONWELDFRICLOK - CONSUMABLE WELDING FRICTION LOK for delivery to . Shipment will include 60 units already accepted.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2943 issued purchase order PO-254603 on December 4, 2025. Order contains 100 units of 7CONWELDFRICLOK - CONSUMABLE WELDING FRICTION LOK for delivery to . Shipment will include 40 units already accepted.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2943 issued purchase order PO-254703 on December 8, 2025. Order contains 3 units of 7CONSFLWELD - Consumables Weld Fric Loks for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2943 issued purchase order PO-254703 on December 8, 2025. Order contains 2 units of 7CONSFLWELD - Consumables Weld Fric Loks for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2943 issued purchase order PO-254794 on December 11, 2025. Order contains 1,000 units of 7DRILL - Pinnut Drills for delivery to . Shipment will include 500 units already accepted.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2943 issued purchase order PO-254905 on December 18, 2025. Order contains 4 units of 7CONWELDFRICLOK - CONSUMABLE WELDING FRICTION LOK for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2943 issued purchase order PO-254905 on December 18, 2025. Order contains 4 units of 7CONWELDFRICLOK - CONSUMABLE WELDING FRICTION LOK for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2943 issued purchase order PO-254905 on December 18, 2025. Order contains 80 units of 7CONWELDFRICLOK - CONSUMABLE WELDING FRICTION LOK for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2943 issued purchase order PO-254905 on December 18, 2025. Order contains 20 units of 7CONWELDFRICLOK - CONSUMABLE WELDING FRICTION LOK for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2952 issued purchase order PO-253706 on October 15, 2025. Order contains 1 unit of 7CONSTOOL - Consumables - Tooling for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2952 issued purchase order 254203 on November 10, 2025. Order contains 1 unit of 7CONSTOOL - Consumables - Tooling for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2988 issued purchase order 249717 on February 26, 2025. Order contains 1 unit of 7PARTS4ASW - Parts for ASW for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2988 issued purchase order 250288 on April 1, 2025. Order contains 1 unit of 7CIP2570ANZ164 - Maintenance iPads x3 ANZ164 for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2988 issued purchase order 252884 on August 28, 2025. Order contains 1 unit of 7COMPHARDWARE - Computer Hardware for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2993 issued purchase order 254487 on November 27, 2025. Order contains 8 units of 7CONSTOOL - Consumables - Tooling for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2997 issued purchase order 253567 on October 8, 2025. Order contains 1 unit of 7R&D - RESEARCH & DEVELOPMENT for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2997 issued purchase order 254395 on November 24, 2025. Order contains 1 unit of 7R&D - RESEARCH & DEVELOPMENT for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2997 issued purchase order 254396 on November 24, 2025. Order contains 1 unit of 7R&D - RESEARCH & DEVELOPMENT for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN3031 issued purchase order 253688 on October 14, 2025. Order contains 3 units of 7QAGAUGES - Gauges for Quality Assurance for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN3031 issued purchase order 253860 on October 23, 2025. Order contains 1 unit of 7R&D - RESEARCH & DEVELOPMENT for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN3037 issued purchase order 254890 on December 17, 2025. Order contains 5 units of JLP10802004 - 4 ELEMENT MIXER CARTRIDGE for delivery to N7.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN3037 issued purchase order 254895 on December 17, 2025. Order contains 1 unit of 7R&D - RESEARCH & DEVELOPMENT for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN3051 issued purchase order 254885 on December 17, 2025. Order contains 500 units of SCTB25COUPG - GALVANISE CTB25COUPG for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN3051 issued purchase order 254885 on December 17, 2025. Order contains 1500 units of SCTB25NUTDG - GALVANISE CTB25NUTDG for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN3051 issued purchase order 254885 on December 17, 2025. Order contains 500 units of SCTB32COUPG - GALVANISE CTB32COUPG for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN3051 issued purchase order 254885 on December 17, 2025. Order contains 500 units of SCTB28COUPG - GALVANISE CTB28COUP for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN3051 issued purchase order 254885 on December 17, 2025. Order contains 10000 units of SJTNUTDOMEDG - DOMED NUT M6 JTech for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN3070 issued purchase order 254872 on December 16, 2025. Order contains 1 unit of 7RPRMTCEELECT - Repair & Maint Electrical for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN3070 issued purchase order 254873 on December 16, 2025. Order contains 1 unit of 7RPRMTCEELECT - Repair & Maint Electrical for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN3070 issued purchase order 254874 on December 16, 2025. Order contains 1 unit of 7RPRMTCEPROP - Repair & Maint Property for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN3074 issued purchase order 253422 on September 29, 2025. Order contains 1 unit of 7CONSMAINT - Consumables - Maint Dept for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN3078 issued purchase order 254192 on November 10, 2025. Order contains 4000 units of CENT25150 - CENTRALISER T/S 25MM & 28MM BAR & 140MM OD SUIT 150MM HOLE for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN3078 issued purchase order 254192 on November 10, 22025. Order contains 3000 units of CENT7040 - INTERNAL SPACER SUIT 40MM BAR & 80MM ID SHEATH for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN3078 issued purchase order 254192 on November 10, 22025. Order contains 2000 units of CENT901212 - Extern Spacer suit 80mm Sheath and 140mm Hole for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN3078 issued purchase order 254661 on December 7, 22025. Order contains 3000 units of CENT6025 - INTERNAL SPACER SUIT 25MM BAR & 65MM ID SHEATH for delivery to NT.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN3090 issued purchase order 253115 on September 11, 22025. Order contains 1 unit of 7RPRMTCEFORK - Rep & Mtce - Forklift for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN3090 issued purchase order 253304 on September 22, 22025. Order contains 1 unit of 7RPRMTCEPROP - Repair & Maint Property for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN3090 issued purchase order 253304 on September 22, 22025. Order contains 1 unit of 7RPRMTCEPROP - Repair & Maint Property for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN3090 issued purchase order 253402 on September 28, 22025. Order contains 1 unit of 7RPRMTCEPROP - Repair & Maint Property for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN3091 issued purchase order 253820 on October 22, 22025. Order contains 1 unit of 7COMPHARDWARE - Computer Hardware for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN3098 issued purchase order 252235 on July 21, 22025. Order contains 1 unit of 7RPRMTCEPROP - Repair & Maint Property for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN3119 issued purchase order 252629 on August 13, 22025. Order contains 160 units of 7PROMCOAL - Promotional Goods Coal for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN3119 issued purchase order 252629 on August 13, 22025. Order contains 160 units of 7PROMHR - Promotional Goods Hardrock for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN3119 issued purchase order 252629 on August 13, 22025. Order contains 30 units of 7PROMCT - Promotional Goods C&T for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN3119 issued purchase order 252629 on August 13, 22025. Order contains 50 units of HPA for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN3119 issued purchase order 252629 on August 13, 22025. Order contains 100 units of JENNCHEM for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN3127 issued purchase order 253059 on September 8, 22025. Order contains 40 units of HOURS for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN3127 issued purchase order 253059 on September 8, 22025. Order contains 40 units of HOURS for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN3127 issued purchase order 254553 on December 2, 22025. Order contains 40 units of HOURS for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN3142 issued purchase order 253952 on October 28, 22025. Order contains 1 unit of 7RPRMTCETHREAD - Repair & Mtce Threading for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN3142 issued purchase order 253952 on October 28, 22025. Order contains 1 unit of 7RPRMTCETHREAD - Repair & Mtce Threading for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254858 on December 15, 2025. Order contains 8 units of 7PREPAIDEXP - Prepaid general expenses for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254858 on December 15, 2025. Order contains 12 units of 7PREPAIDEXP - Prepaid general expenses for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254858 on December 15, 2025. Order contains 24 units of 7PREPAIDEXP - Prepaid general expenses for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254858 on December 15, 2025. Order contains 180 units of 7PREPAIDEXP - Prepaid general expenses for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+MV0060 placed order PO-250333 on April 2, 2025. Order contains 3 units of 7COMPSOFT - Computer Software for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: production_record]
+JAVN0054 produced 154 tons of HSAC840219DRBR - JBar 21.9MM HSAC840 JX on December 2, 2025. Job number 254551 was processed for CC72 with 43.145 tons accepted.
+
+[Source: ASW - Ross - Open POs.csv | Type: production_record]
+JAVN0054 produced 44 tons of HSAC840217DRBR - JBar 21.7MM HSAC840 JBX on December 2, 2025. Job number 254551 was processed for CC72.
+
+[Source: ASW - Ross - Open POs.csv | Type: production_record]
+JAVN0054 produced 22 tons of HSAC840217DRBR - JBar 21.7MM HSAC840 JBX on December 2, 2025. Job number 254551 was processed for CC72.
+
+[Source: ASW - Ross - Open POs.csv | Type: production_record]
+JAVN0054 produced 66 tons of HSAC840219DRBGL - CHARPY TESTED JBAR 21.9MM HSAC840 JXGL on December 2, 2025. Job number 254551 was processed for CC72.
+
+[Source: ASW - Ross - Open POs.csv | Type: production_record]
+JAVN0054 produced 22 tons of HSAC840219DRBR - JBar 21.9MM HSAC840 JX on December 8, 2025. Job number 254695 was processed for CC72.
+
+[Source: ASW - Ross - Open POs.csv | Type: production_record]
+JAVN0054 produced 154 tons of HSAC840219DRBR - JBar 21.9MM HSAC840 JX on December 8, 2025. Job number 254695 was processed for CC72.
+
+[Source: ASW - Ross - Open POs.csv | Type: production_record]
+JAVN0054 produced 22 tons of HSAC840217DRBR - JBar 21.7MM HSAC840 JBX on December 8, 2025. Job number 254695 was processed for CC72.
+
+[Source: ASW - Ross - Open POs.csv | Type: production_record]
+JAVN0054 produced 22 tons of HSAC840217DRBR - JBar 21.7MM HSAC840 JBX on December 8, 2025. Job number 254695 was processed for CC72.
+
+[Source: ASW - Ross - Open POs.csv | Type: production_record]
+JAVN0054 produced 22 tons of HSAC840219DRBR - JBar 21.9MM HSAC840 JX on December 15, 2025. Job number 254841 was processed for CC72.
+
+[Source: ASW - Ross - Open POs.csv | Type: production_record]
+JAVN0054 produced 132 tons of HSAC840219DRBR - JBar 21.9MM HSAC840 JX on December 15, 2025. Job number 254841 was processed for CC72.
+
+[Source: ASW - Ross - Open POs.csv | Type: production_record]
+JAVN0054 produced 22 tons of HSAC840217DRBR - JBar 21.7MM HSAC840 JBX on December 15, 2025. Job number 254841 was processed for CC72.
+
+[Source: ASW - Ross - Open POs.csv | Type: production_record]
+JAVN0054 produced 22 tons of HSAC840217DRBR - JBar 21.7MM HSAC840 JBX on December 15, 2025. Job number 254841 was processed for CC72.
+
+[Source: ASW - Ross - Open POs.csv | Type: production_record]
+JAVN0054 produced 44 tons of HSAC840219DRBGL - CHARPY TESTED JBAR 21.9MM HSAC840 JXGL on December 15, 2025. Job number 254841 was processed for CC72.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN0072 placed order PO-254100 on November 4, 2025. Order contains 60 units of 7RPRMTCECRAN - Repair & Maint Cranes for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN0176 placed order PO-249718 on February 26, 2025. Order contains 1 unit of 7RPRMTCEPROP - Repair & Maint Property for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN0176 issued purchase order 249718 on February 26, 2025. Order contains 1 unit of 7RPRMTCEPROP - Repair & Maint Property for delivery to Q2.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN0176 issued purchase order 249733 on February 26, 2025. Order contains 1 unit of 7RPRMTCEPROP - Repair & Maint Property for delivery to Q2.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN0238 issued purchase order 253850 on October 23, 2025. Order contains 80 units of 7CONSPEELER - Consumables Peeler for delivery to Q2.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN0238 issued purchase order 253850 on October 23, 2025. Order contains 80 units of 7CONSPEELER - Consumables Peeler for delivery to Q2.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN0238 issued purchase order 253850 on October 23, 2025. Order contains 80 units of 7CONSPEELER - Consumables Peeler for delivery to Q2.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN0238 issued purchase order 253850 on October 23, 2025. Order contains 1 unit of 7FRTIN - Freight In for delivery to Q2.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN0327 issued purchase order 254158 on November 9, 2025. Order contains 2000 units of AFP2413101004G - MESH RIB 2.40MX1.30M 100X100 APT 4.0MM WIRE GAL for delivery to Q2.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN0327 issued purchase order 254300 on November 17, 2025. Order contains 400 units of AF52121510056GL - MESH ROOF 5.25MX1.20M 150X100 APT 5.6MM WIRE GAL for delivery to Q2.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN0327 issued purchase order 254300 on November 17, 2025. Order contains 400 units of AF52121510056RC - MESH ROOF 5.25MX1.20M 150X100 APT 5.6MM RESIN COATED for delivery to Q2.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN0327 issued purchase order 254524 on December 1, 2025. Order contains 400 units of AF52121510056RC - MESH ROOF 5.25MX1.20M 150X100 APT 5.6MM RESIN COATED for delivery to Q2.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN0327 issued purchase order 254688 on December 8, 2025. Order contains 2000 units of AFP2413101004G - MESH RIB 2.40MX1.30M 100X100 APT 4.0MM WIRE GAL for delivery to Q2.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN0643 issued purchase order 252849 on August 27, 2025. Order contains 8.465 tons of CS290X18MMG - Coil 290x1.8mm Galvanised for delivery to QF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN0643 issued purchase order 253975 on October 29, 2025. Order contains 6.222 tons of CS290X18MMG - Coil 290x1.8mm Galvanised for delivery to QF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1157 issued purchase order 250848 on May 5, 2025. Order contains 540 units of SMB5414101005C - MESH ROOF 5.40M X 1.40M 100X100 APT 5.0MM WIRE IMB5-44-5414-JEN for delivery to QZ.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1157 issued purchase order 250874 on May 6, 2025. Order contains 60 units of SMB5414101005C - MESH ROOF 5.40M X 1.40M 100X100 APT 5.0MM WIRE IMB5-44-5414-JEN for delivery to QZ.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1157 issued purchase order 250874 on May 6, 2025. Order contains 480 units of SMB5414101005C - MESH ROOF 5.40M X 1.40M 100X100 APT 5.0MM WIRE IMB5-44-5414-JEN for delivery to QZ.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1157 issued purchase order 250874 on May 6, 2025. Order contains 480 units of SMB5414101005C - MESH ROOF 5.40M X 1.40M 100X100 APT 5.0MM WIRE IMB5-44-5414-JEN for delivery to QZ.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1157 issued purchase order 251239 on May 23, 2025. Order contains 2400 units of CCP45241010056G - MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN for delivery to QZ.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1157 issued purchase order 251832 on June 30, 2025. Order contains 500 units of CCP4824101005 - Mine Mesh 4.8 M x 2.4M 100 x 100 Apt 5mm Wire -Blk IMB5-44-4824 for delivery to QZ.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1157 issued purchase order 251871 on July 1, 2025. Order contains 960 units of GXB501710154G - GX MESH ROOF 5.00M X 1.70M 100X150 APT 4.00MM WIRE - GAL for delivery to QZ.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1157 placed order PO-251892 on July 1, 2025. Order contains 4,400 units of CCP45241010056G - MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN for delivery to QZ.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1157 placed order PO-251912 on July 2, 2025. Order contains 2,160 units of GXB5614101004G - GX MESH ROOF 5.60M X 1.40M 100X100 APT 4.0MM WIRE - GAL for delivery to QZ.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1157 placed order PO-253023 on September 7, 2025. Order contains 25 units of GXB48121010VGDE - GX MESH - ROOF 4.8M X 1.2M GAL DENDROBIUM MAT # 10992135 for delivery to QZ.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1157 placed order PO-253407 on September 28, 2025. Order contains 1,600 units of SMF1716101003G - RIB MESH 1.7M X 1.6M, 100X100 APT & 3.15MM GAL WIRE for delivery to QZ.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1157 placed order PO-253443 on September 30, 2025. Order contains 2,000 units of SMF1711151504UW - MESH - RIB 1.7M X 1.1M 150X150MM APT GLENCORE COAL MAT # 400208837 - ULAN WEST for delivery to QZ.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1157 placed order PO-253895 on October 26, 2025. Order contains 500 units of SMF4524101005 - MESH Mine 4.5M X 2.4M 100X100 APT 5.0MM WIRE for delivery to QZ.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1157 placed order PO-254157 on November 9, 2025. Order contains 1,440 units of SMB5112151504 - 150x150x5100x1150x4x5 - DEN2 IMB45-66-5111-DEN2 for delivery to QZ. Order also contains 540 units of SMB5118151505 - 150x150x5100x1700x4x5 IMB45-66-5117-DEN for delivery to QZ.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1157 placed order PO-254301 on November 17, 2025. Order contains 1,280 units of GXB50121010VGOC - GX MESH - ROOF 5.0M X 1.2M GAL GLENCORE COAL MAT # 400037854 - OAKY CREEK for delivery to QZ. Order also contains 640 units accepted.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1157 placed order PO-254308 on November 17, 2025. Order contains 1,584 units of SMB5113515105S - MESH ROOF 5.10MX1.35M 150X100 APT 5.0MM WIRE SLG IMB5-64-5113-JMOL for delivery to QZ. Order also contains 1,518 units accepted.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1157 placed order PO-254310 on November 17, 2025. Order contains 6,000 units of CC2015101004G - Mesh Rib 2M x 1.5M 100 x 100 Apt 4.0mm wire Gal IMG4-44-2015-JNA for delivery to QZ. Order also contains 4,000 units accepted.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1157 placed order PO-254311 on November 17, 2025. Order contains 1,188 units of SMB5016151005S - MESH ROOF 5.00MX1.55M 100X100 APT 5.0MM WIRE SLG IMB5-46-5016-JNA for delivery to QZ.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1157 placed order PO-254442 on November 25, 2025. Order contains 1,280 units of GXB50121010VGOC - GX MESH - ROOF 5.0M X 1.2M GAL GLENCORE COAL MAT # 400037854 - OAKY CREEK for delivery to QZ.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1157 placed order PO-254443 on November 25, 2025. Order contains 1,584 units of SMB5113515105S - MESH ROOF 5.10MX1.35M 150X100 APT 5.0MM WIRE SLG IMB5-64-5113-JMOL for delivery to QZ. Order also contains 1,188 units accepted.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1157 placed order PO-254507 on November 30, 2025. Order contains 5,360 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to QZ. Order also contains 1,280 units accepted.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1157 placed order PO-254522 on December 1, 2025. Order contains 500 units of CCP48241010056G - Mine Mesh 4800X2400mm 100x100mm Apt 5.6mm wire Galv IMG5H-44-4824 for delivery to QZ.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1157 placed order PO-254558 on December 2, 2025. Order contains 1,584 units of SMB5113515105S - MESH ROOF 5.10MX1.35M 150X100 APT 5.0MM WIRE SLG IMB5-64-5113-JMOL for delivery to QZ.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1157 placed order PO-254736 on December 9, 2025. Order contains 480 units of SM5H501610104G - 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC for delivery to QZ.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1157 placed order PO-254763 on December 10, 2025. Order contains 150 units of SMF24151010034G - MESH RIB 2.40MX1.50M 100X100 APT 3.0/4.0MM WIRE -G IMG34-44-2415-JAS for delivery to QZ. Order also contains 100 units accepted.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1157 placed order PO-254799 on December 11, 2025. Order contains 3,000 units of SMF251803GCD - RIB MESH 2.5X1.8M 100X100MM APT & 3.15MM GAL WIRE for delivery to QZ.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1157 issued purchase order 254800 on December 11, 2025. Order contains 3,000 units of SMF251803GCD - RIB MESH 2.5X1.8M 100X100MM APT & 3.15MM GAL WIRE for delivery to QZ.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1157 issued purchase order 254809 on December 14, 2025. Order contains 500 units of CCP48241010056G - Mine Mesh 4800X2400mm 100x100mm Apt 5.6mm wire Galv IMG5H-44-4824 for delivery to QZ.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1157 issued purchase order 254809 on December 14, 2025. Order contains 500 units of CCP4824101005 - Mine Mesh 4.8 M x 2.4M 100 x 100 Apt 5mm Wire -Blk IMB5-44-4824 for delivery to QZ.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1157 issued purchase order 254813 on December 14, 2025. Order contains 1,260 units of SMB5112151504 - 150x150x5100x1150x4x5 - DEN2 IMB45-66-5111-DEN2 for delivery to QZ.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1157 issued purchase order 254813 on December 14, 2025. Order contains 1,080 units of SMB5118151505 - 150x150x5100x1700x4x5 IMB45-66-5117-DEN for delivery to QZ.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1157 issued purchase order 254834 on December 14, 2025. Order contains 396 units of CC5014101005 - MESH ROOF 5.00MX1.35M 100X100 APT 5.0MM WIRE IMB5-44-5014-JNA for delivery to QZ. 363 units have been accepted, leaving 33 outstanding.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1157 issued purchase order 254853 on December 15, 2025. Order contains 2,000 units of SMB561604GCD - MESH ROOF 5.6MX1.6M 100X100 APT 4.0MM&5.0MM WIRE MM0207 for delivery to QZ.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1157 issued purchase order 254854 on December 15, 2025. Order contains 2,000 units of SMB561604GCD - MESH ROOF 5.6MX1.6M 100X100 APT 4.0MM&5.0MM WIRE MM0207 for delivery to QZ.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1241 issued purchase order 253773 on October 20, 2025. Order contains 52 units of 719MMPSTRAPBLK - SP15090B 19MM PLASTIC STRAP BLACK for delivery to unspecified location. 40 units have been accepted, leaving 12 outstanding.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1330 issued purchase order 252848 on August 27, 2025. Order line 1 contains 172.688 tons of CS150X5MMX - Coil 5x150mm XTRAFORM 400SF for delivery to QF. 57.706 tons have been accepted, leaving 114.982 tons outstanding.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1330 issued purchase order 252848 on August 27, 2025. Order line 3 contains 147.53 tons of CS200X6MMX - Coil 200x6 XTRAFORM SF PO for delivery to QF. 130.65 tons have been accepted, leaving 16.88 tons outstanding.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1395 issued purchase order 254678 on December 7, 2025. Order line 1 contains 1,000 units of SJCP2830K38LG - Galvanise Combi plate JCP2830K38L for delivery to unspecified location.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1395 issued purchase order 254678 on December 7, 2025. Order line 2 contains 2,940 units of SJK15150538RG - Galvanize Kanga Plate 150*150*5.38 for delivery to unspecified location.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2081 issued purchase order 252153 on July 16, 2025. Order line 2 contains 1 unit of 7CIP2572MKY103 - Cable Line Machinery Production Dr MKY103 for delivery to unspecified location.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2348 issued purchase order 253327 on September 23, 2025. Order line 1 contains 1 unit of 7RPRMTCECRAN - Repair & Maint Cranes for delivery to unspecified location.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2348 issued purchase order 253375 on September 25, 2025. Order line 1 contains 1 unit of 7RPRMTCECRAN - Repair & Maint Cranes for delivery to unspecified location.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2348 issued purchase order 253784 on October 21, 2025. Order line 1 contains 1 unit of 7RPRMTCECRAN - Repair & Maint Cranes for delivery to unspecified location.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2353 issued purchase order 254348 on November 19, 2025. Order line 1 contains 57 units of 7PROMOGOODS - PROMOTIONAL GOODS for delivery to unspecified location.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2356 issued purchase order 254199 on November 10, 2025. Order contains 3,000 units of SMF251803GCD - RIB MESH 2.5X1.8M 100X100MM APT & 3.15MM GAL WIRE for delivery to QF. 2,100 units have been accepted, leaving 900 outstanding.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2496 issued purchase order 252167 on July 17, 2025. Order line 1 contains 1 unit of 7CIP2572MKY099 - Cable threader - Tex cables Production Dr MKY099 for delivery to unspecified location.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-250529 on April 16, 2025. Order contains 2 units of Training Expense - EA for delivery to unspecified location.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2847 placed order PO-241247 on July 24, 2023. Order contains 1 unit of 1.5" National Threader MKY066 - EA for delivery to unspecified location.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2959 placed order PO-254465 on November 26, 2025. Order contains 60 units of FIXED ASSETS - TOOLS & DIES - EA for delivery to unspecified location.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2988 placed order PO-251382 on June 3, 2025. Order contains 1 unit of Computer Support Exp - EA for delivery to unspecified location.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN3097 placed order PO-251894 on July 1, 2025. Order contains 1 unit of Repair & Maint Property - EA for delivery to unspecified location.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN3104 placed order PO-252022 on July 9, 2025. Order contains 1 unit of Training - Sales - EA for delivery to unspecified location.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN3143 placed order PO-254502 on November 30, 2025. Order contains 1 unit of HST Tensile Testing Machine MKY113 - EA for delivery to unspecified location.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN0087 placed order PO-254804 on December 14, 2025. Order contains 1 unit of FLAMMABLE GOODS STORAGE CAB HEN001 - EA for delivery to unspecified location.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN0087 placed order PO-254804 on December 14, 2025. Order contains 1 unit of FLAMMABLE GOODS STORAGE CAB HEN001 - EA for delivery to unspecified location.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN0863 placed order PO-252276 on July 23, 2025. Order contains 1 unit of Cold Saw LAN093 - EA for delivery to unspecified location.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1026 placed order PO-253552 on October 7, 2025. Order contains 16 units of Repair & Maint Property - EA for delivery to unspecified location.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1026 placed order PO-253552 on October 7, 2025. Order contains 1 unit of Freight In - EA for delivery to unspecified location.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1157 placed order PO-254532 on December 1, 2025. Order contains 800 units of MESH SEISMIC 4.5MX2.4M, 100X100MM APT 5.6MM GAL IMG5H-44-4524-SM - EA for delivery to WZ.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1157 placed order PO-254718 on December 9, 2025. Order contains 1300 units of MESH MINE 4.2MX2.4M 100X100 APT 5.6MM WIRE - GAL IMG5H-44-4224 - EA for delivery to WZ.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1157 placed order PO-254720 on December 9, 2025. Order contains 800 units of Mine Mesh 5000mm long IMG5H-44-5024 - EA for delivery to WZ.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1157 placed order PO-254735 on December 9, 2025. Order contains 1000 units of MESH MINE 4.2MX2.4M 100X100 APT 5.6MM WIRE - GAL IMG5H-44-4224 - EA for delivery to WZ.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1157 placed order PO-254738 on December 10, 2025. Order contains 1100 units of MESH MINE 4.2MX2.4M 100X100 APT 5.6MM WIRE - GAL IMG5H-44-4224 - EA for delivery to WZ.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1259 placed order PO-254407 on November 24, 2025. Order contains 1 unit of Robotic FL Crimp Multi Cell LAN096 - EA for delivery to unspecified location.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1259 placed order PO-254407 on November 24, 2025. Order contains 1 unit of Robotic FL Crimp Multi Cell LAN096 - EA for delivery to unspecified location.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1595 placed order PO-254404 on November 24, 2025. Order contains 2 units of Repair & Mtce Rollformer - EA for delivery to unspecified location.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-252443 on August 4, 2025. Order contains 1 unit of 7RMPULLTESTKIT - REPAIR & MTCE PULL TEST KIT for delivery to NEWCASTLE WAREHOUSE, NSW.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-253504 on October 2, 2025. Order contains 1 unit of 7RPRFRICLOKWELD - R&M - Friction Lok Welder for delivery to NEWCASTLE WAREHOUSE, NSW.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254588 on December 3, 2025. Order contains 500 units of PCT30*3000 - RESIN INSERTER TUBE ONLY PVC 30MM X 3.0M for delivery to WF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254893 on December 17, 2025. Order contains 1,800 units of SJFL4724G - Galvanise Fric Lok M47x2.4M for delivery to WF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254893 on December 17, 2025. Order contains 3,450 units of SJFL4709G - Galvanise Fric Lok M47x.9M for delivery to WF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254897 on December 17, 2025. Order contains 3,150 units of SJFL4724G - Galvanise Fric Lok M47x2.4M for delivery to WF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254583 on December 3, 2025. Order contains 40 units of 4HOOKHANGER - 4 HOOK SERVICE HANGER for delivery to WF. 20 units have been accepted, leaving 20 outstanding.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254349 on November 19, 2025. Order contains 57 units of 7PROMOGOODS - PROMOTIONAL GOODS for delivery to NEWCASTLE WAREHOUSE, NSW.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-253839 on October 22, 2025. Order contains 3 units of 7CONSROLLFORM - Consumables - Rollformer for delivery to NEWCASTLE WAREHOUSE, NSW.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-253839 on October 22, 2025. Order contains 1 unit of 7CONSROLLFORM - Consumables - Rollformer for delivery to NEWCASTLE WAREHOUSE, NSW.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-253839 on October 22, 2025. Order contains 1 unit of 7FRTIN - Freight In for delivery to NEWCASTLE WAREHOUSE, NSW.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254664 on December 7, 2025. Order contains 15,000 units of BW152MM - BARREL & WEDGE TO SUIT 15.2MM CABLE CA0147 for delivery to WF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254664 on December 7, 2025. Order contains 200,000 units of FBRING47 - Friction Lok Ring. 47 Dia Drg FL0005 Rev 2 for delivery to WF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-251709 on June 23, 2025. Order contains 1 unit of 7RPRFRICLOKWELD - R&M - Friction Lok Welder for delivery to NEWCASTLE WAREHOUSE, NSW.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254304 on November 17, 2025. Order contains 650 tons of CS107.5X3.2MM - Coil 107.5X3.2MM HA350 for delivery to WF. 587 tons have been accepted, leaving 63 tons outstanding.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254812 on December 14, 2025. Order contains 650 tons of CS107.5X3.2MM - Coil 107.5X3.2MM HA350 for delivery to WF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-252173 on July 17, 2025. Order contains 4 units of CS152750PL - 15.2mm x 750 M cable reel Plain Continuous for delivery to WF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-253605 on October 12, 2025. Order contains 240 units of 7RPRMTCEROLFOR - Repair & Mtce Rollformer for delivery to NEWCASTLE WAREHOUSE, NSW. 180.25 units have been accepted, leaving 59.75 outstanding.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-253605 on October 12, 2025. Order contains 20 units of 7RPRMTCEROLFOR - Repair & Mtce Rollformer for delivery to NEWCASTLE WAREHOUSE, NSW. 14 units have been accepted, leaving 6 outstanding.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-251679 on June 20, 2025. Order contains 1,680 units of JDML472024G - DYNAMIC MECH-LOK 47MM X 2400MM, 20MM BAR, GALV for delivery to WF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-251876 on July 1, 2025. Order contains 30 units of JDML472024G - DYNAMIC MECH-LOK 47MM X 2400MM, 20MM BAR, GALV for delivery to WF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-252988 on September 3, 2025. Order contains 58,500 units of JCP28390150450G - COMBI PLATE 280X300 + R150X4MM ROLL TOP 50MM H GAL for delivery to WF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-252988 on September 3, 2025. Order contains 27,000 units of JFL390910G - FRICTION LOK BOLT 39MMX900MM + 10MM RING - GAL for delivery to WF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-253745 on October 17, 2025. Order contains 27,440 units of JR15150450G - ROLL TOP PLATE 150X150X4MM 50MM HOLE GAL for delivery to WF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-253745 on October 17, 2025. Order contains 18,000 units of JR20200450G - ROLL TOP PLATE 200X200X4MM 50MM HOLE GAL for delivery to WF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-253746 on October 17, 2025. Order contains 27,440 units of JR15150450G - ROLL TOP PLATE 150X150X4MM 50MM HOLE GAL for delivery to WF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-253746 on October 17, 2025. Order contains 18,000 units of JR20200450G - ROLL TOP PLATE 200X200X4MM 50MM HOLE GAL for delivery to WF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254088 on November 4, 2025. Order contains 58,500 units of JCP28390150450G - COMBI PLATE 280X300 + R150X4MM ROLL TOP 50MM H GAL for delivery to WF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254088 on November 4, 2025. Order contains 4,500 units of JCP2839R150436G - COMBI PLATE 280X300 + R150X4MM ROLL TOP 36MM for delivery to WF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254088 on November 4, 2025. Order contains 27,000 units of JFL390910G - FRICTION LOK BOLT 39MMX900MM + 10MM RING - GAL for delivery to WF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254088 on November 4, 2025. Order contains 27,440 units of JR15150450G - ROLL TOP PLATE 150X150X4MM 50MM HOLE GAL for delivery to WF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254088 on November 4, 2025. Order contains 36,000 units of JR20200450G - ROLL TOP PLATE 200X200X4MM 50MM HOLE GAL for delivery to WF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254456 on November 26, 2025. Order contains 27,440 units of JR15150450G - ROLL TOP PLATE 150X150X4MM 50MM HOLE GAL for delivery to WF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254456 on November 26, 2025. Order contains 18,000 units of JR20200450G - ROLL TOP PLATE 200X200X4MM 50MM HOLE GAL for delivery to WF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254458 on November 26, 2025. Order contains 27,440 units of JR15150450G - ROLL TOP PLATE 150X150X4MM 50MM HOLE GAL for delivery to WF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254458 on November 26, 2025. Order contains 18,000 units of JR20200450G - ROLL TOP PLATE 200X200X4MM 50MM HOLE GAL for delivery to WF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254722 on December 9, 2025. Order contains 85,500 units of JCP28390150450G - COMBI PLATE 280X300 + R150X4MM ROLL TOP 50MM H GAL for delivery to WF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254722 on December 9, 2025. Order contains 4,500 units of JCP2839R150436G - COMBI PLATE 280X300 + R150X4MM ROLL TOP 36MM for delivery to WF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254722 on December 9, 2025. Order contains 27,000 units of JFL390910G - FRICTION LOK BOLT 39MMX900MM + 10MM RING - GAL for delivery to WF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+SOUTH32 placed order PO-254722 on December 9, 2025. Order contains 54,880 units of JR15150450G - ROLL TOP PLATE 150X150X4MM 50MM HOLE GAL for delivery to WF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2801 issued purchase order PO-254722 on December 9, 2025. Order contains 36,000 units of JR20200450G - ROLL TOP PLATE 200X200X4MM 50MM HOLE GAL 500 PLATES PER PALLET for delivery to WF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2817 issued purchase order PO-254408 on November 24, 2025. Order contains 1 unit of 7CIP2573LAN096 - Robotic FL Crimp Multi Cell LAN096 for delivery.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN3030 issued purchase order PO-254753 on December 10, 2025. Order contains 1 unit of 7R&DEXPG - R&D Expense G&A for delivery.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN3152 issued purchase order PO-254255 on November 13, 2025. Order contains 20 units of HP353525 - STEEL HANGER PLATE 350MMX350MMX25MM - 10 TONNE SWL for delivery to WF.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+MV0087 issued purchase order PO-254832 on December 14, 2025. Order contains 12 units of 7RPRFRICLOKWELD - R&M - Friction Lok Welder for delivery.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+MV0087 issued purchase order PO-254832 on December 14, 2025. Order contains 12 units of 7RPRFRICLOKWELD - R&M - Friction Lok Welder for delivery.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+MV0087 issued purchase order PO-254832 on December 14, 2025. Order contains 10 units of 7RPRFRICLOKWELD - R&M - Friction Lok Welder for delivery.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+MV0087 issued purchase order PO-254832 on December 14, 2025. Order contains 2 units of 7RPRFRICLOKWELD - R&M - Friction Lok Welder for delivery.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+MV0087 issued purchase order PO-254832 on December 14, 2025. Order contains 1 unit of 7FRTIN - Freight In for delivery.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1993 issued purchase order PO-249457 on February 11, 2025. Order contains 1 unit of 7UNIFORMS - Uniforms for delivery.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2142 issued purchase order PO-253526 on October 6, 2025. Order contains 26,800 meters of HPVN4000SBK - 1.02mm Harness Yarn Black TKVN4000SBK for delivery to HP.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2142 issued purchase order PO-253526 on October 6, 2025. Order contains 27,350 meters of HPVN4000SBL - 1.02mm Harness Yarn Blue TKVN4000SBL for delivery to HP.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2173 issued purchase order PO-246367 on July 21, 2024. Order contains 5,000 meters of HP26699BKSX - 1.0mm safeX125 BLACK NO MARKING 26699BKSX for delivery to HP.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2173 issued purchase order PO-246367 on July 21, 2024. Order contains 3,000 meters of HP26699BNSX - 1.0mm safeX125 BROWN NO MARKING 26699BNSX for delivery to HP.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2173 issued purchase order PO-246367 on July 21, 2024. Order contains 5,000 meters of HP26699GNSX - 1.0mm safeX125 GREEN NO MARKING 26699GNSX for delivery to HP.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2173 issued purchase order PO-246367 on July 21, 2024. Order contains 4,000 meters of HP26699OESX - 1.0mm safeX125 ORANGE NO MARKING 26699OESX for delivery to HP.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2173 issued purchase order PO-246367 on July 21, 2024. Order contains 3,000 meters of HP26699PESX - 1.0mm safeX125 PURPLE NO MARKING 26699PESX for delivery to HP.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2173 issued purchase order PO-249136 on January 21, 2025. Order contains 6,000 meters of HP26700BKSX - 1.5mm safeX125 BLACK No Marking 26700BKSX for delivery to HP.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2173 issued purchase order PO-249136 on January 21, 2025. Order contains 4,100 meters of HP26700GYSX - 1.5mm safeX125 GREY No Marking 26700GYSX for delivery to HP.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2173 issued purchase order PO-249136 on January 21, 2025. Order contains 2,000 meters of HP26700RDSX - 1.5mm safeX125 RED No Marking 26700RDSX for delivery to HP.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2319 issued purchase order 254012 on November 2, 2025. Order contains 3 units of HP3106E3610PWBF - 46 PIN MILSPEC CANNON PLUG W KEY CA3106E-10PWBF80 for delivery to HP.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2319 issued purchase order 254012 on November 2, 2025. Order contains 3 units of HP3106E3610PXBF - 46 PIN MILSPEC CANNON PLUG X KEY CA3106E-10PXBF80 for delivery to HP.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2319 issued purchase order 254012 on November 2, 2025. Order contains 1 unit of HP3106E3610PYBF - 46 PIN MILSPEC CANNON PLUG Y KEY CA3106E-10PYBF80 for delivery to HP.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2319 issued purchase order 254012 on November 2, 2025. Order contains 1 unit of HP3106E3610PZBF - 46 PIN MILSPEC CANNON PLUG Z KEY CA3106E-10PZBF80 for delivery to HP.
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2923 issued purchase order 251060 on May 15, 2025. Order contains 1 unit of 7MFGCONSUME - Manufacturing Consumables for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2923 issued purchase order 251147 on May 19, 2025. Order contains 3 units of 7MFGCONSUME - Manufacturing Consumables for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2923 issued purchase order 251446 on June 9, 2025. Order contains 20 units of 7CONSMANUF - Consumables Manufacturing for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2923 issued purchase order 251446 on June 9, 2025. Order contains 0.55 units of 7CONSMANUF - Consumables Manufacturing for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2923 issued purchase order 251446 on June 9, 2025. Order contains 18 units of 7CONSMANUF - Consumables Manufacturing for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2923 issued purchase order 251532 on June 11, 2025. Order contains 20 units of 7CONSMANUF - Consumables Manufacturing for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2923 issued purchase order 251532 on June 11, 2025. Order contains 0.55 units of 7CONSMANUF - Consumables Manufacturing for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2923 issued purchase order 251532 on June 11, 2025. Order contains 18 units of 7CONSMANUF - Consumables Manufacturing for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN2923 issued purchase order 251706 on June 23, 2025. Order contains 10 units of 7CONSMANUF - Consumables Manufacturing for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN0362 issued purchase order 193821 on March 4, 2014. Order contains 1 unit of 7RPRMTCEPROP - Repair & Maint Property for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN0977 issued purchase order 193232 on January 21, 2014. Order contains 1 unit of 7RPRMTCEELECT - Repair & Maint Electrical for delivery to .
+
+[Source: ASW - Ross - Open POs.csv | Type: order_record]
+JAVN1276 issued purchase order 193231 on January 21, 2014. Order contains 1 unit of 7RPRMTCEELECT - Repair & Maint Electrical for delivery to .

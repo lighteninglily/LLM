@@ -1,0 +1,339 @@
+**Record 1**
+[META: date=2025-07-01 | machine=CLIFFORD_MMW | product=OS106H-3003B | order=ROSS_CODE_JOS3003B]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 60.0 kg of OS106H-3003B on July 1, 2025.
+
+**Record 2**
+[META: date=2025-07-02 | machine=CLIFFORD_MMW | product=OS106H-3003B | order=ROSS_CODE_JOS3003B]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 61.0 kg of OS106H-3003B on July 2, 2025.
+
+**Record 3**
+[META: date=2025-07-03 | machine=CLIFFORD_MMW | product=OS106H-3003B | order=ROSS_CODE_JOS3003B]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 62.0 kg of OS106H-3003B on July 3, 2025.
+
+**Record 4**
+[META: date=2025-07-04 | machine=CLIFFORD_MMW | product=OS106H-3003B | order=ROSS_CODE_JOS3003B]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 63.0 kg of OS106H-3003B on July 4, 2025.
+
+**Record 5**
+[META: date=2025-07-05 | machine=CLIFFORD_MMW | product=OS106H-3003B | order=ROSS_CODE_JOS3003B]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 64.0 kg of OS106H-3003B on July 5, 2025.
+
+**Record 6**
+[META: date=2025-07-06 | machine=CLIFFORD_MMW | product=OS106H-3003B | order=ROSS_CODE_JOS3003B | week=28]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 65.0 kg of OS106H-3003B on July 6, 2025.
+
+**Record 7**
+[META: date=2025-07-07 | machine=CLIFFORD_MMW | product=OS106H-3003B | order=ROSS_CODE_JOS3003B | week=28]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 66.0 kg of OS106H-3003B on July 7, 2025.
+
+**Record 8**
+[META: date=2025-07-08 | machine=CLIFFORD_MMW | product=OS106H-3003B | order=ROSS_CODE_JOS3003B | week=28]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 67.0 kg of OS106H-3003B on July 8, 2025.
+
+**Record 9**
+[META: date=2025-07-09 | machine=CLIFFORD_MMW | product=OS106H-3003B | order=ROSS_CODE_JOS3003B | week=28]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 68.0 kg of OS106H-3003B on July 9, 2025.
+
+**Record 10**
+[META: date=2025-07-10 | machine=CLIFFORD_MMW | product=OS106H-3003B | order=ROSS_CODE_JOS3003B | week=28]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 69.0 kg of OS106H-3003B on July 10, 2025.
+
+**Record 11**
+[META: date=2025-07-11 | machine=CLIFFORD_MMW | product=OS106H-3003B | order=ROSS_CODE_JOS3003B | week=28]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 70.0 kg of OS106H-3003B on July 11, 2025.
+
+**Record 12**
+[META: date=2025-07-12 | machine=CLIFFORD_MMW | product=OS106H-3003B | order=ROSS_CODE_JOS3003B | week=28]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 71.0 kg of OS106H-3003B on July 12, 2025.
+
+**Record 13**
+[META: date=2025-07-13 | machine=CLIFFORD_MMW | product=OS106H-3003B | order=ROSS_CODE_JOS3003B | week=29]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 72.0 kg of OS106H-3003B on July 13, 2025.
+
+**Record 14**
+[META: date=2025-07-14 | machine=CLIFFORD_MMW | product=OS106H-3003B | order=ROSS_CODE_JOS3003B | week=29]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 73.0 kg of OS106H-3003B on July 14, 2025.
+
+**Record 15**
+[META: date=2025-07-15 | machine=CLIFFORD_MMW | product=OS106H-3003B | order=ROSS_CODE_JOS3003B | week=29]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 74.0 kg of OS106H-3003B on July 15, 2025.
+
+**Record 16**
+[META: date=2025-07-16 | machine=CLIFFORD_MMW | product=OS106H-3003B | order=ROSS_CODE_JOS3003B | week=29]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 75.0 kg of OS106H-3003B on July 16, 2025.
+
+**Record 17**
+[META: date=2025-07-17 | machine=CLIFFORD_MMW | product=OS106H-3003B | order=ROSS_CODE_JOS3003B | week=29]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 76.0 kg of OS106H-3003B on July 17, 2025.
+
+**Record 18**
+[META: date=2025-07-18 | machine=CLIFFORD_MMW | product=OS106H-3003B | order=ROSS_CODE_JOS3003B | week=29]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 77.0 kg of OS106H-3003B on July 18, 2025.
+
+**Record 19**
+[META: date=2025-07-19 | machine=CLIFFORD_MMW | product=OS106H-3003B | order=ROSS_CODE_JOS3003B | week=29]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 78.0 kg of OS106H-3003B on July 19, 2025.
+
+**Record 20**
+[META: date=2025-07-20 | machine=CLIFFORD_MMW | product=OS106H-3003B | order=ROSS_CODE_JOS3003B | week=30]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 79.0 kg of OS106H-3003B on July 20, 2025.
+
+**Record 1**
+[META: date=2025-07-21 | machine=CLIFFORD_MMW | product=VALUE | order=VALUE]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of VALUE on July 21, 2025.
+
+**Record 2**
+[META: date=2025-07-22 | machine=CLIFFORD_MMW | product=VALUE | order=VALUE]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of VALUE on July 22, 2025.
+
+**Record 3**
+[META: date=2025-07-23 | machine=CLIFFORD_MMW | product=VALUE | order=VALUE]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of VALUE on July 23, 2025.
+
+**Record 4**
+[META: date=2025-07-24 | machine=CLIFFORD_MMW | product=VALUE | order=VALUE]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of VALUE on July 24, 2025.
+
+**Record 5**
+[META: date=2025-07-25 | machine=CLIFFORD_MMW | product=VALUE | order=VALUE]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of VALUE on July 25, 2025.
+
+**Record 6**
+[META: date=2025-07-25 | machine=CLIFFORD_MMW | product=VALUE | order=VALUE]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of VALUE on July 25, 2025.
+
+**Record 7**
+[META: date=2025-07-26 | machine=CLIFFORD_MMW | product=VALUE | order=VALUE]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of VALUE on July 26, 2025.
+
+**Record 8**
+[META: date=2025-07-27 | machine=CLIFFORD_MMW | product=VALUE | order=VALUE]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of VALUE on July 27, 2025.
+
+**Record 9**
+[META: date=2025-07-28 | machine=CLIFFORD_MMW | product=VALUE | order=VALUE]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of VALUE on July 28, 2025.
+
+**Record 10**
+[META: date=2025-07-28 | machine=CLIFFORD_MMW | product=VALUE | order=VALUE]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of VALUE on July 28, 2025.
+
+**Record 11**
+[META: date=2025-07-29 | machine=CLIFFORD_MMW | product=VALUE | order=VALUE]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of VALUE on July 29, 2025.
+
+**Record 12**
+[META: date=2025-07-30 | machine=CLIFFORD_MMW | product=VALUE | order=VALUE]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of VALUE on July 30, 2025.
+
+**Record 13**
+[META: date=2025-07-30 | machine=CLIFFORD_MMW | product=VALUE | order=VALUE]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of VALUE on July 30, 2025.
+
+**Record 14**
+[META: date=2025-07-31 | machine=CLIFFORD_MMW | product=VALUE | order=VALUE]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of VALUE on July 31, 2025.
+
+**Record 15**
+[META: date=2025-07-31 | machine=CLIFFORD_MMW | product=VALUE | order=VALUE]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of VALUE on July 31, 2025.
+
+**Record 16**
+[META: date=2025-08-01 | machine=CLIFFORD_MMW | product=VALUE | order=VALUE]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of VALUE on August 1, 2025.
+
+**Record 17**
+[META: date=2025-08-02 | machine=CLIFFORD_MMW | product=VALUE | order=VALUE]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of VALUE on August 2, 2025.
+
+**Record 18**
+[META: date=2025-08-03 | machine=CLIFFORD_MMW | product=VALUE | order=VALUE]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of VALUE on August 3, 2025.
+
+**Record 19**
+[META: date=2025-08-04 | machine=CLIFFORD_MMW | product=VALUE | order=VALUE]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of VALUE on August 4, 2025.
+
+**Record 20**
+[META: date=2025-08-05 | machine=CLIFFORD_MMW | product=VALUE | order=VALUE]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of VALUE on August 5, 2025.
+
+**Record 1**
+[META: date=2025-08-03 | machine=CLIFFORD_MMW | product=IMG4-44-2015 | order=254980]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of IMG4-44-2015 on August 3, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 2**
+[META: date=2025-08-03 | machine=CLIFFORD_MMW | product=IMG4-44-2015 | order=254980]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of IMG4-44-2015 on August 3, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 3**
+[META: date=2025-08-04 | machine=CLIFFORD_MMW | product=IMG4-44-2015 | order=254980]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of IMG4-44-2015 on August 4, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 4**
+[META: date=2025-08-04 | machine=CLIFFORD_MMW | product=IMG4-44-2015 | order=254980]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of IMG4-44-2015 on August 4, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 5**
+[META: date=2025-08-05 | machine=CLIFFORD_MMW | product=IMG4-44-2015 | order=254980]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of IMG4-44-2015 on August 5, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 6**
+[META: date=2025-08-05 | machine=CLIFFORD_MMW | product=IMG4-44-2015 | order=254980]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of IMG4-44-2015 on August 5, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 7**
+[META: date=2025-08-06 | machine=CLIFFORD_MMW | product=IMG4-44-2015 | order=254980]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of IMG4-44-2015 on August 6, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 8**
+[META: date=2025-08-07 | machine=CLIFFORD_MMW | product=IMG4-44-2015 | order=254980]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of IMG4-44-2015 on August 7, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 9**
+[META: date=2025-08-08 | machine=CLIFFORD_MMW | product=IMG4-44-2015 | order=254980]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of IMG4-44-2015 on August 8, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 10**
+[META: date=2025-08-09 | machine=CLIFFORD_MMW | product=IMG4-44-2015 | order=254980]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of IMG4-44-2015 on August 9, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 11**
+[META: date=2025-08-10 | machine=CLIFFORD_MMW | product=IMG4-44-2015 | order=254980]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of IMG4-44-2015 on August 10, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 12**
+[META: date=2025-08-11 | machine=CLIFFORD_MMW | product=IMG4-44-2015 | order=254980]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of IMG4-44-2015 on August 11, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 13**
+[META: date=2025-08-12 | machine=CLIFFORD_MMW | product=IMG4-44-2015 | order=254980]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of IMG4-44-2015 on August 12, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 14**
+[META: date=2025-08-13 | machine=CLIFFORD_MMW | product=IMG4-44-2015 | order=254980]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of IMG4-44-2015 on August 13, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 15**
+[META: date=2025-08-14 | machine=CLIFFORD_MMW | product=IMG4-44-2015 | order=254980]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of IMG4-44-2015 on August 14, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 16**
+[META: date=2025-08-15 | machine=CLIFFORD_MMW | product=IMG4-44-2015 | order=254980]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of IMG4-44-2015 on August 15, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 17**
+[META: date=2025-08-16 | machine=CLIFFORD_MMW | product=IMG4-44-2015 | order=254980]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of IMG4-44-2015 on August 16, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 18**
+[META: date=2025-08-17 | machine=CLIFFORD_MMW | product=IMG4-44-2015 | order=254980]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of IMG4-44-2015 on August 17, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 19**
+[META: date=2025-08-18 | machine=CLIFFORD_MMW | product=IMG4-44-2015 | order=254980]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of IMG4-44-2015 on August 18, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 20**
+[META: date=2025-08-19 | machine=CLIFFORD_MMW | product=IMG4-44-2015 | order=254980]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 kg of IMG4-44-2015 on August 19, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 1**
+[META: date=2025-08-20 | machine=CLIFFORD_MMW | product=IMG4-44-2015 | order=254980]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of IMG4-44-2015 on August 20, 2025. Order 254980 achieved 124.25% yield rate.
+
+**Record 2**
+[META: date=2025-08-21 | machine=CLIFFORD_MMW | product=IMG4-44-2015 | order=254980]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of IMG4-44-2015 on August 21, 2025. Order 254980 achieved 124.25% yield rate.
+
+**Record 3**
+[META: date=2025-08-22 | machine=CLIFFORD_MMW | product=IMG4-44-2015 | order=254980]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of IMG4-44-2015 on August 22, 2025. Order 254980 achieved 124.25% yield rate.
+
+**Record 4**
+[META: date=2025-08-23 | machine=CLIFFORD_MMW | product=IMG4-44-2015 | order=254980]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of IMG4-44-2015 on August 23, 2025. Order 254980 achieved 124.25% yield rate.
+
+**Record 5**
+[META: date=2025-08-24 | machine=CLIFFORD_MWPA | product=IMG4-44-2015 | order=254981]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MWPA produced 800 units of IMG4-44-2015 on August 24, 2025. Order 254981 achieved 124.25% yield rate.
+
+**Record 6**
+[META: date=2025-08-25 | machine=CLIFFORD_MWPA | product=IMG4-44-2015 | order=254981]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MWPA produced 800 units of IMG4-44-2015 on August 25, 2025. Order 254981 achieved 124.25% yield rate.
+
+**Record 7**
+[META: date=2025-08-26 | machine=CLIFFORD_MWPA | product=IMG4-44-2015 | order=254981]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MWPA produced 800 units of IMG4-44-2015 on August 26, 2025. Order 254981 achieved 124.25% yield rate.
+
+**Record 8**
+[META: date=2025-08-27 | machine=CLIFFORD_MWPA | product=IMG4-44-2015 | order=254981]
+[Source: Daily Production Report v1.xlsm_Ausro.csv | Type: production_record]
+CLIFFORD MWPA produced 800 units of IMG4-44-2015 on August 27, 2025. Order 254981 achieved 124.25% yield rate.

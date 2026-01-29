@@ -1,0 +1,471 @@
+On July 1, 2025, the product with a weight of 22.2 kg per sheet is scheduled for production. The quantity is set at 1000 units, and no next-day shipping is requested. The production rate is 85.71 sheets per hour, and the current wire count is 35.
+
+From July 2 to July 6, 2025, the product with a weight of 22.2 kg per sheet continues to be scheduled for production. No next-day shipping is requested, and the production rate remains at 85.71 sheets per hour with a wire count of 35. The week progresses from 27 to 28.
+
+On July 7, 2025, the product with a weight of 22.2 kg per sheet is scheduled for production. No next-day shipping is requested, and the production rate is 85.71 sheets per hour with a wire count of 35. The week is still at 28.
+
+From July 8 to July 11, 2025, the product with a weight of 22.2 kg per sheet continues to be scheduled for production. No next-day shipping is requested, and the production rate remains at 85.71 sheets per hour with a wire count of 35. The week progresses from 28 to 29.
+
+On July 12, 2025, the product with a weight of 22.2 kg per sheet is scheduled for production. No next-day shipping is requested, and the production rate is 85.71 sheets per hour with a wire count of 35. The week is at 29.
+
+From July 13 to July 16, 2025, the product with a weight of 22.2 kg per sheet continues to be scheduled for production. No next-day shipping is requested, and the production rate remains at 85.71 sheets per hour with a wire count of 35. The week progresses from 29 to 29.
+
+On July 17, 2025, the product with a weight of 22.2 kg per sheet is scheduled for production. No next-day shipping is requested, and the production rate is 85.71 sheets per hour with a wire count of 35. The week is at 29.
+
+From July 18 to July 20, 2025, the product with a weight of 22.2 kg per sheet continues to be scheduled for production. No next-day shipping is requested, and the production rate remains at 85.71 sheets per hour with a wire count of 35. The week progresses from 29 to 30.
+
+On July 21, 2025, the product with a weight of 22.2 kg per sheet is scheduled for production. No next-day shipping is requested, and the production rate is 85.71 sheets per hour with a wire count of 35. The week is at 30.
+
+On July 21, 2025, the facility recorded 22.2 kilograms of sheet material processed, with no planned or actual totals reported. The production rate was 85.71428571428572 sheets per hour, and the shift productivity metric (SPM) was 50. The number of control wires used was 35.
+
+On July 22, 2025, the process continued with identical metrics to the previous day: 22.2 kilograms of sheet material, no planned or actual totals, an hourly production rate of 85.71428571428572 sheets, an SPM of 50, and 35 control wires.
+
+On July 23, 2025, the facility maintained consistent operations with 22.2 kilograms of sheet material, no planned or actual totals, an hourly production rate of 85.71428571428572 sheets, an SPM of 50, and 35 control wires.
+
+On July 24, 2025, the process remained unchanged with 22.2 kilograms of sheet material, no planned or actual totals, an hourly production rate of 85.71428571428572 sheets, an SPM of 50, and 35 control wires.
+
+On July 25, 2025, the facility recorded 22.2 kilograms of sheet material, no planned or actual totals, an hourly production rate of 85.71428571428572 sheets, an SPM of 50, and 35 control wires.
+
+On July 26, 2025, the process continued with 22.2 kilograms of sheet material, no planned or actual totals, an hourly production rate of 85.71428571428572 sheets, an SPM of 50, and 35 control wires.
+
+On July 27, 2025, the facility entered Week 31 with 22.2 kilograms of sheet material, no planned or actual totals, an hourly production rate of 85.71428571428572 sheets, an SPM of 50, and 35 control wires.
+
+On July 28, 2025, the process continued in Week 31 with 22.2 kilograms of sheet material, no planned or actual totals, an hourly production rate of 85.71428571428572 sheets, an SPM of 50, and 35 control wires.
+
+On July 29, 2025, the facility maintained Week 31 operations with 22.2 kilograms of sheet material, no planned or actual totals, an hourly production rate of 85.71428571428572 sheets, an SPM of 50, and 35 control wires.
+
+On July 30, 2025, the process continued in Week 31 with 22.2 kilograms of sheet material, no planned or actual totals, an hourly production rate of 85.71428571428572 sheets, an SPM of 50, and 35 control wires.
+
+On July 31, 2025, the facility entered Week 31 with 22.2 kilograms of sheet material, no planned or actual totals, an hourly production rate of 85.71428571428572 sheets, an SPM of 50, and 35 control wires.
+
+On August 1, 2025, the process continued in Week 31 with 22.2 kilograms of sheet material, no planned or actual totals, an hourly production rate of 85.71428571428572 sheets, an SPM of 50, and 35 control wires.
+
+On August 2, 2025, the facility maintained Week 31 operations with 22.2 kilograms of sheet material, no planned or actual totals, an hourly production rate of 85.71428571428572 sheets, an SPM of 50, and 35 control wires.
+
+On August 3, 2025, the process entered Week 32 with 22.2 kilograms of sheet material, no planned or actual totals, an hourly production rate of 85.71428571428572 sheets, an SPM of 50, and 35 control wires.
+
+On August 4, 2025, the facility continued in Week 32 with 22.2 kilograms of sheet material, no planned or actual totals, an hourly production rate of 85.71428571428572 sheets, an SPM of 50, and 35 control wires.
+
+On August 5, 2025, the process continued in Week 32 with 22.2 kilograms of sheet material, no planned or actual totals, an hourly production rate of 85.71428571428572 sheets, an SPM of 50, and 35 control wires.
+
+On August 6, 2025, the facility entered Week 32 with 23.2 kilograms of sheet material, no planned or actual totals, an hourly production rate of 85.71428571428572 sheets, an SPM of 50, and 35 control wires.
+
+On August 7, 2025, the process continued in Week 32 with 24.2 kilograms of sheet material, no planned or actual totals, an hourly production rate of 85.71428571428572 sheets, an SPM of 50, and 35 control wires.
+
+On August 8, 2025, the facility maintained Week 32 operations with 25.2 kilograms of sheet material, no planned or actual totals, an hourly production rate of 85.71428571428572 sheets, an SPM of 50, and 35 control wires.
+
+On August 9, 2025, the process continued in Week 32 with 26.2 kilograms of sheet material, no planned or actual totals, an hourly production rate of 85.71428571428572 sheets, an SPM of 50, and 35 control wires.
+
+On August 10, 2025, the system recorded a sheet weight of 27.2 kg, with no planned or actual totals reported. The production rate was 85.71428571428572 sheets per hour, and the speed was set to 50 spm with 35 control wires engaged.
+
+On August 11, 2025, the sheet weight increased to 28.2 kg, maintaining the same production parameters as the previous day. No planned or actual totals were recorded.
+
+On August 12, 2025, the sheet weight reached 29.2 kg, continuing the consistent production settings. Again, no planned or actual totals were reported.
+
+On August 13, 2025, the sheet weight was 30.2 kg, with the production rate unchanged at 85.71428571428572 sheets per hour. No planned or actual totals were recorded.
+
+On August 14, 2025, the sheet weight increased to 31.2 kg, with the same production settings. No planned or actual totals were reported.
+
+On August 15, 2025, the sheet weight was 32.2 kg, maintaining the consistent production parameters. No planned or actual totals were recorded.
+
+On August 16, 2025, the sheet weight reached 33.2 kg, with the production rate unchanged at 85.71428571428572 sheets per hour. No planned or actual totals were reported.
+
+On August 17, 2025, the system transitioned to week 34, recording a sheet weight of 34.2 kg. The production rate remained at 85.71428571428572 sheets per hour, and no planned or actual totals were reported.
+
+On August 18, 2025, the sheet weight increased to 35.2 kg, with the production settings unchanged. No planned or actual totals were recorded.
+
+On August 19, 2025, the sheet weight was 36.2 kg, maintaining the consistent production parameters. No planned or actual totals were reported.
+
+On August 20, 2025, the sheet weight reached 37.2 kg, with the production rate unchanged at 85.71428571428572 sheets per hour. No planned or actual totals were reported.
+
+On August 21, 2025, the sheet weight was 38.2 kg, continuing the consistent production settings. No planned or actual totals were recorded.
+
+On August 22, 2025, the sheet weight increased to 39.2 kg, with the production rate unchanged at 85.71428571428572 sheets per hour. No planned or actual totals were reported.
+
+On August 23, 2025, the sheet weight was 40.2 kg, maintaining the consistent production parameters. No planned or actual totals were recorded.
+
+On August 24, 2025, the system transitioned to week 35, recording a sheet weight of 41.2 kg. The production rate remained at 85.71428571428572 sheets per hour, and no planned or actual totals were reported.
+
+On August 25, 2025, the sheet weight increased to 42.2 kg, with the production settings unchanged. No planned or actual totals were recorded.
+
+On August 26, 2025, the sheet weight was 43.2 kg, maintaining the consistent production parameters. No planned or actual totals were reported.
+
+On August 27, 2025, the sheet weight reached 44.2 kg, with the production rate unchanged at 85.71428571428572 sheets per hour. No planned or actual totals were reported.
+
+On August 28, 2025, the sheet weight was 45.2 kg, continuing the consistent production settings. No planned or actual totals were recorded.
+
+On August 29, 2025, the sheet weight increased to 46.2 kg, with the production rate unchanged at 85.71428571428572 sheets per hour. No planned or actual totals were reported.
+
+On August 30, 2025, the weight of sheet production was recorded at 47.2 kilograms. The day was part of week 35, with no planned totals and actual totals reported as zero. The production rate was consistent at 85.71428571428572 sheets per hour, and the speed per minute (spm) was 50. The number of control wires used was 35.
+
+On August 31, 2025, the weight of sheet production increased to 48.2 kilograms. This day also belonged to week 36, with no planned or actual totals. The production rate remained at 85.71428571428572 sheets per hour, spm was 50, and the number of control wires was 35.
+
+On September 1, 2025, the weight of sheet production was 49.2 kilograms. This day was part of week 36, with no planned or actual totals. The production rate was consistent at 85.71428571428572 sheets per hour, spm was 50, and the number of control wires was 35.
+
+On September 2, 2025, the weight of sheet production was 50.2 kilograms. This day was part of week 36, with no planned or actual totals. The production rate was consistent at 85.71428571428572 sheets per hour, spm was 50, and the number of control wires was 35.
+
+On September 3, 2025, the weight of sheet production was 51.2 kilograms. This day was part of week 36, with no planned or actual totals. The production rate was consistent at 85.71428571428572 sheets per hour, spm was 50, and the number of control wires was 35.
+
+On September 4, 2025, the weight of sheet production was 52.2 kilograms. This day was part of week 36, with no planned or actual totals. The production rate was consistent at 85.71428571428572 sheets per hour, spm was 50, and the number of control wires was 35.
+
+On September 5, 2025, the weight of sheet production was 53.2 kilograms. This day was part of week 36, with no planned or actual totals. The production rate was consistent at 85.71428571428572 sheets per hour, spm was 50, and the number of control wires was 35.
+
+On September 6, 2025, the weight of sheet production was 54.2 kilograms. This day was part of week 36, with no planned or actual totals. The production rate was consistent at 85.71428571428572 sheets per hour, spm was 50, and the number of control wires was 35.
+
+On September 7, 2025, the weight of sheet production was 55.2 kilograms. This day marked the beginning of week 37, with no planned or actual totals. The production rate was consistent at 85.71428571428572 sheets per hour, spm was 50, and the number of control wires was 35.
+
+On September 8, 2025, the weight of sheet production was 56.2 kilograms. This day continued week 37, with no planned or actual totals. The production rate was consistent at 85.71428571428572 sheets per hour, spm was 50, and the number of control wires was 35.
+
+On September 9, 2025, the weight of sheet production was 57.2 kilograms. This day continued week 37, with no planned or actual totals. The production rate was consistent at 85.71428571428572 sheets per hour, spm was 50, and the number of control wires was 35.
+
+On September 10, 2025, the weight of sheet production was 58.2 kilograms. This day continued week 37, with no planned or actual totals. The production rate was consistent at 85.71428571428572 sheets per hour, spm was 50, and the number of control wires was 35.
+
+On September 11, 2025, the weight of sheet production was 59.2 kilograms. This day continued week 37, with no planned or actual totals. The production rate was consistent at 85.71428571428572 sheets per hour, spm was 50, and the number of control wires was 35.
+
+On September 12, 2025, the weight of sheet production was 60.2 kilograms. This day continued week 37, with no planned or actual totals. The production rate was consistent at 85.71428571428572 sheets per hour, spm was 50, and the number of control wires was 35.
+
+On September 13, 2025, the weight of sheet production was 61.2 kilograms. This day marked the end of week 37 and the start of week 38, with no planned or actual totals. The production rate was consistent at 85.71428571428572 sheets per hour, spm was 50, and the number of control wires was 35.
+
+On September 14, 2025, the weight of sheet production was 62.2 kilograms. This day continued week 38, with no planned or actual totals. The production rate was consistent at 85.71428571428572 sheets per hour, spm was 50, and the number of control wires was 35.
+
+On September 15, 2025, the weight of sheet production was 63.2 kilograms. This day continued week 38, with no planned or actual totals. The production rate was consistent at 85.71428571428572 sheets per hour, spm was 50, and the number of control wires was 35.
+
+On September 16, 2025, the weight of sheet production was 64.2 kilograms. This day continued week 38, with no planned or actual totals. The production rate was consistent at 85.71428571428572 sheets per hour, spm was 50, and the number of control wires was 35.
+
+On September 17, 2025, the weight of sheet production was 65.2 kilograms. This day continued week 38, with no planned or actual totals. The production rate was consistent at 85.71428571428572 sheets per hour, spm was 50, and the number of control wires was 35.
+
+On September 18, 2025, the weight of sheet production was 66.2 kilograms. This day concluded week 38, with no planned or actual totals. The production rate was consistent at 85.71428571428572 sheets per hour, spm was 50, and the number of control wires was 35.
+
+On September 19, 2025, the system recorded a day with a sheet weight of 67.2 kg, operating at a rate of 85.71428571428572 sheets per hour, with 50 spm and 35 c-wires. No planned or actual totals were reported.
+
+On September 20, 2025, the system noted a similar day with a sheet weight of 68.2 kg, maintaining the same operational parameters as the previous day.
+
+On September 21, 2025, the system logged a day with a sheet weight of 69.2 kg, continuing the consistent operation with 85.71428571428572 sheets per hour, 50 spm, and 35 c-wires.
+
+On September 22, 2025, the system recorded a day with a sheet weight of 70.2 kg, with no changes in the operational parameters.
+
+On September 23, 2025, the system noted a day with a sheet weight of 71.2 kg, still operating at 85.71428571428572 sheets per hour, 50 spm, and 35 c-wires.
+
+On September 24, 2025, the system logged a day with a sheet weight of 72.2 kg, continuing the consistent operation with 85.71428571428572 sheets per hour, 50 spm, and 35 c-wires.
+
+On September 25, 2025, the system recorded a day with a sheet weight of 73.2 kg, maintaining the same operational parameters.
+
+On September 26, 2025, the system noted a day with a sheet weight of 74.2 kg, with no changes in the operational parameters.
+
+On September 27, 2025, the system logged a day with a sheet weight of 75.2 kg, continuing the consistent operation with 85.71428571428572 sheets per hour, 50 spm, and 35 c-wires.
+
+On September 28, 2025, the system recorded a day with a sheet weight of 76.2 kg, still operating at 85.71428571428572 sheets per hour, 50 spm, and 35 c-wires.
+
+On September 29, 2025, the system noted a day with a sheet weight of 77.2 kg, continuing the consistent operation with 85.71428571428572 sheets per hour, 50 spm, and 35 c-wires.
+
+On September 30, 2025, the system logged a day with a sheet weight of 78.2 kg, maintaining the same operational parameters.
+
+On October 1, 2025, the system recorded a day with a sheet weight of 79.2 kg, continuing the consistent operation with 85.71428571428572 sheets per hour, 50 spm, and 35 c-wires.
+
+On October 2, 2025, the system noted a day with a sheet weight of 80.2 kg, still operating at 85.71428571428572 sheets per hour, 50 spm, and 35 c-wires.
+
+On October 3, 2025, the system logged a day with a sheet weight of 81.2 kg, continuing the consistent operation with 85.71428571428572 sheets per hour, 50 spm, and 35 c-wires.
+
+On October 4, 2025, the system recorded a day with a sheet weight of 82.2 kg, still operating at 85.71428571428572 sheets per hour, 50 spm, and 35 c-wires.
+
+On October 5, 2025, the system noted a day with a sheet weight of 83.2 kg, starting a new week with the same operational parameters.
+
+On October 6, 2025, the system logged a day with a sheet weight of 84.2 kg, continuing the consistent operation with 85.71428571428572 sheets per hour, 50 spm, and 35 c-wires.
+
+On October 7, 2025, the system recorded a day with a sheet weight of 85.2 kg, still operating at 85.71428571428572 sheets per hour, 50 spm, and 35 c-wires.
+
+On October 8, 2025, the system noted a day with a sheet weight of 86.2 kg, concluding the week with the same operational parameters.
+
+On October 9, 2025, the system recorded 87.2 kilograms of sheet material processed with no planned or actual totals reported. The sheets were processed at a rate of 85.71428571428572 per hour, with 50 spm and 35 c-wires used.
+
+On October 10, 2025, the system recorded 88.2 kilograms of sheet material processed under similar conditions. No planned or actual totals were reported, and the processing rate remained consistent at 85.71428571428572 sheets per hour, with 50 spm and 35 c-wires used.
+
+On October 11, 2025, the system recorded 89.2 kilograms of sheet material processed. Again, no planned or actual totals were reported, and the processing rate was 85.71428571428572 sheets per hour, with 50 spm and 35 c-wires used.
+
+On October 12, 2025, the system recorded 90.2 kilograms of sheet material processed. No planned or actual totals were reported, and the processing rate was 85.71428571428572 sheets per hour, with 50 spm and 35 c-wires used.
+
+On October 13, 2025, the system recorded 91.2 kilograms of sheet material processed. No planned or actual totals were reported, and the processing rate was 85.71428571428572 sheets per hour, with 50 spm and 35 c-wires used.
+
+On October 14, 2025, the system recorded 92.2 kilograms of sheet material processed. No planned or actual totals were reported, and the processing rate was 85.71428571428572 sheets per hour, with 50 spm and 35 c-wires used.
+
+On October 15, 2025, the system recorded 93.2 kilograms of sheet material processed. No planned or actual totals were reported, and the processing rate was 85.71428571428572 sheets per hour, with 50 spm and 35 c-wires used.
+
+On October 16, 2025, the system recorded 94.2 kilograms of sheet material processed. No planned or actual totals were reported, and the processing rate was 85.71428571428572 sheets per hour, with 50 spm and 35 c-wires used.
+
+On October 17, 2025, the system recorded 95.2 kilograms of sheet material processed. No planned or actual totals were reported, and the processing rate was 85.71428571428572 sheets per hour, with 50 spm and 35 c-wires used.
+
+On October 18, 2025, the system recorded 96.2 kilograms of sheet material processed. No planned or actual totals were reported, and the processing rate was 85.71428571428572 sheets per hour, with 50 spm and 35 c-wires used.
+
+On October 19, 2025, the system recorded 97.2 kilograms of sheet material processed. No planned or actual totals were reported, and the processing rate was 85.71428571428572 sheets per hour, with 50 spm and 35 c-wires used.
+
+On October 20, 2025, the system recorded 98.2 kilograms of sheet material processed. No planned or actual totals were reported, and the processing rate was 85.71428571428572 sheets per hour, with 50 spm and 35 c-wires used.
+
+On October 21, 2025, the system recorded 99.2 kilograms of sheet material processed. No planned or actual totals were reported, and the processing rate was 85.71428571428572 sheets per hour, with 50 spm and 35 c-wires used.
+
+On October 22, 2025, the system recorded 100.2 kilograms of sheet material processed. No planned or actual totals were reported, and the processing rate was 85.71428571428572 sheets per hour, with 50 spm and 35 c-wires used.
+
+On October 23, 2025, the system recorded 101.2 kilograms of sheet material processed. No planned or actual totals were reported, and the processing rate was 85.71428571428572 sheets per hour, with 50 spm and 35 c-wires used.
+
+On October 24, 2025, the system recorded 102.2 kilograms of sheet material processed. No planned or actual totals were reported, and the processing rate was 85.71428571428572 sheets per hour, with 50 spm and 35 c-wires used.
+
+On October 25, 2025, the system recorded 103.2 kilograms of sheet material processed. No planned or actual totals were reported, and the processing rate was 85.71428571428572 sheets per hour, with 50 spm and 35 c-wires used.
+
+On October 26, 2025, the system recorded 104.2 kilograms of sheet material processed. No planned or actual totals were reported, and the processing rate was 85.71428571428572 sheets per hour, with 50 spm and 35 c-wires used.
+
+On October 27, 2025, the system recorded 105.2 kilograms of sheet material processed. No planned or actual totals were reported, and the processing rate was 85.71428571428572 sheets per hour, with 50 spm and 35 c-wires used.
+
+On October 28, 2025, the system recorded 106.2 kilograms of sheet material processed. No planned or actual totals were reported, and the processing rate was 85.71428571428572 sheets per hour, with 50 spm and 35 c-wires used.
+
+On October 29, 2025, the weight of sheet material was recorded as 107.2 kg. No planned or actual totals were reported, and the production rate was 85.71428571428572 sheets per hour. The speed per minute (spm) was 50, and there were 35 control wires used.
+
+On October 30, 2025, the weight of sheet material increased to 108.2 kg. Similar to the previous day, no planned or actual totals were reported, and the production rate remained at 85.71428571428572 sheets per hour. The spm was still 50, and the number of control wires was unchanged at 35.
+
+On October 31, 2025, the weight of sheet material was recorded as 109.2 kg. Again, no planned or actual totals were reported, and the production rate was consistent at 85.71428571428572 sheets per hour. The spm was 50, and the number of control wires was 35.
+
+On November 1, 2025, the weight of sheet material was 110.2 kg. No planned or actual totals were reported, and the production rate was 85.71428571428572 sheets per hour. The spm was 50, and the number of control wires was 35.
+
+On November 2, 2025, the weight of sheet material increased to 111.2 kg. No planned or actual totals were reported, and the production rate was 85.71428571428572 sheets per hour. The spm was 50, and the number of control wires was 35.
+
+On November 3, 2025, the weight of sheet material was recorded as 112.2 kg. No planned or actual totals were reported, and the production rate was 85.71428571428572 sheets per hour. The spm was 50, and the number of control wires was 35.
+
+On November 4, 2025, the weight of sheet material was 113.2 kg. No planned or actual totals were reported, and the production rate was 85.71428571428572 sheets per hour. The spm was 50, and the number of control wires was 35.
+
+On November 5, 2025, the weight of sheet material was recorded as 114.2 kg. No planned or actual totals were reported, and the production rate was 85.71428571428572 sheets per hour. The spm was 50, and the number of control wires was 35.
+
+On November 6, 2025, the weight of sheet material was 115.2 kg. No planned or actual totals were reported, and the production rate was 85.71428571428572 sheets per hour. The spm was 50, and the number of control wires was 35.
+
+On November 7, 2025, the weight of sheet material was recorded as 116.2 kg. No planned or actual totals were reported, and the production rate was 85.71428571428572 sheets per hour. The spm was 50, and the number of control wires was 35.
+
+On November 8, 2025, the weight of sheet material was 117.2 kg. No planned or actual totals were reported, and the production rate was 85.71428571428572 sheets per hour. The spm was 50, and the number of control wires was 35.
+
+On November 9, 2025, the weight of sheet material increased to 118.2 kg. No planned or actual totals were reported, and the production rate was 85.71428571428572 sheets per hour. The spm was 50, and the number of control wires was 35.
+
+On November 10, 2025, the weight of sheet material was recorded as 119.2 kg. No planned or actual totals were reported, and the production rate was 85.71428571428572 sheets per hour. The spm was 50, and the number of control wires was 35.
+
+On November 11, 2025, the weight of sheet material was 120.2 kg. No planned or actual totals were reported, and the production rate was 85.71428571428572 sheets per hour. The spm was 50, and the number of control wires was 35.
+
+On November 12, 2025, the weight of sheet material was recorded as 121.2 kg. No planned or actual totals were reported, and the production rate was 85.71428571428572 sheets per hour. The spm was 50, and the number of control wires was 35.
+
+On November 13, 2025, the weight of sheet material was 122.2 kg. No planned or actual totals were reported, and the production rate was 85.71428571428572 sheets per hour. The spm was 50, and the number of control wires was 35.
+
+On November 14, 2025, the weight of sheet material was recorded as 123.2 kg. No planned or actual totals were reported, and the production rate was 85.71428571428572 sheets per hour. The spm was 50, and the number of control wires was 35.
+
+On November 15, 2025, the weight of sheet material was 124.2 kg. No planned or actual totals were reported, and the production rate was 85.71428571428572 sheets per hour. The spm was 50, and the number of control wires was 35.
+
+On November 16, 2025, the weight of sheet material increased to 125.2 kg. No planned or actual totals were reported, and the production rate was 85.71428571428572 sheets per hour. The spm was 50, and the number of control wires was 35.
+
+On November 17, 2025, the weight of sheet material was recorded as 126.2 kg. No planned or actual totals were reported, and the production rate was 85.71428571428572 sheets per hour. The spm was 50, and the number of control wires was 35.
+
+On November 18, 2025, the system recorded a weight of 127.2 kg per sheet. No planned or actual totals were reported, and the sheets were processed at a rate of 85.71428571428572 sheets per hour. The speed per minute (spm) was 50, and there were 35 control wires used.
+
+On November 19, 2025, the recorded weight was 128.2 kg per sheet. Similar to the previous day, no planned or actual totals were reported, and the processing rate remained at 85.71428571428572 sheets per hour. The spm was 50, and the number of control wires was 35.
+
+On November 20, 2025, the system logged a weight of 129.2 kg per sheet. Again, no planned or actual totals were reported, and the sheets were processed at a rate of 85.71428571428572 sheets per hour. The spm was 50, and the number of control wires was 35.
+
+On November 21, 2025, the recorded weight was 130.2 kg per sheet. No planned or actual totals were reported, and the sheets were processed at a rate of 85.71428571428572 sheets per hour. The spm was 50, and the number of control wires was 35.
+
+On November 22, 2025, the system recorded a weight of 131.2 kg per sheet. No planned or actual totals were reported, and the sheets were processed at a rate of 85.71428571428572 sheets per hour. The spm was 50, and the number of control wires was 35.
+
+On November 23, 2025, the recorded weight was 132.2 kg per sheet. No planned or actual totals were reported, and the sheets were processed at a rate of 85.71428571428572 sheets per hour. The spm was 50, and the number of control wires was 35.
+
+On November 24, 2025, the system logged a weight of 133.2 kg per sheet. No planned or actual totals were reported, and the sheets were processed at a rate of 85.71428571428572 sheets per hour. The spm was 50, and the number of control wires was 35.
+
+On November 25, 2025, the recorded weight was 134.2 kg per sheet. No planned or actual totals were reported, and the sheets were processed at a rate of 85.71428571428572 sheets per hour. The spm was 50, and the number of control wires was 35.
+
+On November 26, 2025, the system recorded a weight of 135.2 kg per sheet. No planned or actual totals were reported, and the sheets were processed at a rate of 85.71428571428572 sheets per hour. The spm was 50, and the number of control wires was 35.
+
+On November 27, 2025, the recorded weight was 136.2 kg per sheet. No planned or actual totals were reported, and the sheets were processed at a rate of 85.71428571428572 sheets per hour. The spm was 50, and the number of control wires was 35.
+
+On November 28, 2025, the system logged a weight of 137.2 kg per sheet. No planned or actual totals were reported, and the sheets were processed at a rate of 85.71428571428572 sheets per hour. The spm was 50, and the number of control wires was 35.
+
+On November 29, 2025, the recorded weight was 138.2 kg per sheet. No planned or actual totals were reported, and the sheets were processed at a rate of 85.71428571428572 sheets per hour. The spm was 50, and the number of control wires was 35.
+
+On November 30, 2025, the system recorded a weight of 139.2 kg per sheet. No planned or actual totals were reported, and the sheets were processed at a rate of 85.71428571428572 sheets per hour. The spm was 50, and the number of control wires was 35.
+
+On December 1, 2025, the recorded weight was 140.2 kg per sheet. No planned or actual totals were reported, and the sheets were processed at a rate of 85.71428571428572 sheets per hour. The spm was 50, and the number of control wires was 35.
+
+On December 2, 2025, the system logged a weight of 141.2 kg per sheet. No planned or actual totals were reported, and the sheets were processed at a rate of 85.71428571428572 sheets per hour. The spm was 50, and the number of control wires was 35.
+
+On December 3, 2025, the recorded weight was 142.2 kg per sheet. No planned or actual totals were reported, and the sheets were processed at a rate of 85.71428571428572 sheets per hour. The spm was 50, and the number of control wires was 35.
+
+On December 4, 2025, the system recorded a weight of 143.2 kg per sheet. No planned or actual totals were reported, and the sheets were processed at a rate of 85.71428571428572 sheets per hour. The spm was 50, and the number of control wires was 35.
+
+On December 5, 2025, the recorded weight was 144.2 kg per sheet. No planned or actual totals were reported, and the sheets were processed at a rate of 85.71428571428572 sheets per hour. The spm was 50, and the number of control wires was 35.
+
+On December 6, 2025, the system logged a weight of 145.2 kg per sheet. No planned or actual totals were reported, and the sheets were processed at a rate of 85.71428571428572 sheets per hour. The spm was 50, and the number of control wires was 35.
+
+On December 7, 2025, the recorded weight was 146.2 kg per sheet. No planned or actual totals were reported, and the sheets were processed at a rate of 85.71428571428572 sheets per hour. The spm was 50, and the number of control wires was 35.
+
+On December 8, 2025, the system recorded 147.2 kilograms of sheet material processed, with no planned or actual totals reported. The production rate was 85.71428571428572 sheets per hour, and the shift productivity metric (SPM) was 50. The number of continuous wires used was 35.
+
+On December 9, 2025, the system recorded 148.2 kilograms of sheet material processed, with no planned or actual totals reported. The production rate remained at 85.71428571428572 sheets per hour, and the SPM was still 50. The number of continuous wires used was 35.
+
+On December 10, 2025, the system recorded 149.2 kilograms of sheet material processed, with no planned or actual totals reported. The production rate was 85.71428571428572 sheets per hour, and the SPM was 50. The number of continuous wires used was 35.
+
+On December 11, 2025, the system recorded 150.2 kilograms of sheet material processed, with no planned or actual totals reported. The production rate was 85.71428571428572 sheets per hour, and the SPM was 50. The number of continuous wires used was 35.
+
+On December 12, 2025, the system recorded 151.2 kilograms of sheet material processed, with no planned or actual totals reported. The production rate was 85.71428571428572 sheets per hour, and the SPM was 50. The number of continuous wires used was 35.
+
+On December 13, 2025, the system recorded 152.2 kilograms of sheet material processed, with no planned or actual totals reported. The production rate was 85.71428571428572 sheets per hour, and the SPM was 50. The number of continuous wires used was 35.
+
+On December 14, 2025, the system moved to week 51 and recorded 153.2 kilograms of sheet material processed, with no planned or actual totals reported. The production rate was 85.71428571428572 sheets per hour, and the SPM was 50. The number of continuous wires used was 35.
+
+On December 15, 2025, the system continued in week 51 and recorded 154.2 kilograms of sheet material processed, with no planned or actual totals reported. The production rate was 85.71428571428572 sheets per hour, and the SPM was 50. The number of continuous wires used was 35.
+
+On December 16, 2025, the system stayed in week 51 and recorded 155.2 kilograms of sheet material processed, with no planned or actual totals reported. The production rate was 85.71428571428572 sheets per hour, and the SPM was 50. The number of continuous wires used was 35.
+
+On December 17, 2025, the system entered week 51 and recorded 7.02 kilograms of sheet material processed, with no planned or actual totals reported. The production rate was 80.4878048780488 sheets per hour, and the SPM was 55. The number of continuous wires used was 51.
+
+On December 18, 2025, the system continued in week 51 and recorded 7.02 kilograms of sheet material processed, with no planned or actual totals reported. The production rate was 80.4878048780488 sheets per hour, and the SPM was 55. The number of continuous wires used was 51.
+
+On December 19, 2025, the system stayed in week 51 and recorded 7.02 kilograms of sheet material processed, with no planned or actual totals reported. The production rate was 80.4878048780488 sheets per hour, and the SPM was 55. The number of continuous wires used was 51.
+
+On December 20, 2025, the system entered week 51 and recorded 7.02 kilograms of sheet material processed, with no planned or actual totals reported. The production rate was 80.4878048780488 sheets per hour, and the SPM was 55. The number of continuous wires used was 51.
+
+On December 21, 2025, the system moved to week 52 and recorded 7.02 kilograms of sheet material processed, with no planned or actual totals reported. The production rate was 80.4878048780488 sheets per hour, and the SPM was 55. The number of continuous wires used was 51.
+
+On December 22, 2025, the system continued in week 52 and recorded 7.02 kilograms of sheet material processed, with no planned or actual totals reported. The production rate was 80.4878048780488 sheets per hour, and the SPM was 55. The number of continuous wires used was 51.
+
+On December 23, 2025, the system stayed in week 52 and recorded 7.02 kilograms of sheet material processed, with no planned or actual totals reported. The production rate was 80.4878048780488 sheets per hour, and the SPM was 55. The number of continuous wires used was 51.
+
+On December 24, 2025, the system entered week 52 and recorded 7.02 kilograms of sheet material processed, with no planned or actual totals reported. The production rate was 80.4878048780488 sheets per hour, and the SPM was 55. The number of continuous wires used was 51.
+
+On December 25, 2025, the system continued in week 52 and recorded 7.02 kilograms of sheet material processed, with no planned or actual totals reported. The production rate was 80.4878048780488 sheets per hour, and the SPM was 55. The number of continuous wires used was 51.
+
+On December 26, 2025, the system stayed in week 52 and recorded 7.02 kilograms of sheet material processed, with no planned or actual totals reported. The production rate was 80.4878048780488 sheets per hour, and the SPM was 55. The number of continuous wires used was 51.
+
+On December 27, 2025, the system entered week 52 and recorded 7.02 kilograms of sheet material processed, with no planned or actual totals reported. The production rate was 80.4878048780488 sheets per hour, and the SPM was 55. The number of continuous wires used was 51.
+
+On December 28, 2025, the production facility recorded a sheet weight of 7.02 kg per sheet, operating at 80.49 sheets per hour with 55 spm and 51 control wires. No planned or actual totals were reported for the day.
+
+On December 29, 2025, similar to the previous day, the facility recorded a sheet weight of 7.02 kg per sheet, operating at 80.49 sheets per hour with 55 spm and 51 control wires. No planned or actual totals were reported for the day.
+
+On December 30, 2025, the production facility continued with a sheet weight of 7.02 kg per sheet, operating at 80.49 sheets per hour with 55 spm and 51 control wires. No planned or actual totals were reported for the day.
+
+On December 31, 2025, the facility recorded a sheet weight of 7.02 kg per sheet, operating at 80.49 sheets per hour with 55 spm and 51 control wires. No planned or actual totals were reported for the day.
+
+On January 1, 2026, the production facility started a new week with a sheet weight of 7.02 kg per sheet, operating at 80.49 sheets per hour with 55 spm and 51 control wires. No planned or actual totals were reported for the day.
+
+On January 2, 2026, the facility continued with a sheet weight of 7.02 kg per sheet, operating at 80.49 sheets per hour with 55 spm and 51 control wires. No planned or actual totals were reported for the day.
+
+On January 3, 2026, the production facility recorded a sheet weight of 7.02 kg per sheet, operating at 80.49 sheets per hour with 55 spm and 51 control wires. No planned or actual totals were reported for the day.
+
+On January 4, 2026, the facility entered the second week with a sheet weight of 7.02 kg per sheet, operating at 80.49 sheets per hour with 55 spm and 51 control wires. No planned or actual totals were reported for the day.
+
+On January 5, 2026, the production facility continued with a sheet weight of 7.02 kg per sheet, operating at 80.49 sheets per hour with 55 spm and 51 control wires. No planned or actual totals were reported for the day.
+
+On January 6, 2026, the facility recorded a sheet weight of 7.02 kg per sheet, operating at 80.49 sheets per hour with 55 spm and 51 control wires. No planned or actual totals were reported for the day.
+
+On January 7, 2026, the production facility maintained a sheet weight of 7.02 kg per sheet, operating at 80.49 sheets per hour with 55 spm and 51 control wires. No planned or actual totals were reported for the day.
+
+On January 8, 2026, the facility continued with a sheet weight of 7.02 kg per sheet, operating at 80.49 sheets per hour with 55 spm and 51 control wires. No planned or actual totals were reported for the day.
+
+On January 9, 2026, the production facility recorded a sheet weight of 7.02 kg per sheet, operating at 80.49 sheets per hour with 55 spm and 51 control wires. No planned or actual totals were reported for the day.
+
+On January 10, 2026, the facility entered the third week with a sheet weight of 7.02 kg per sheet, operating at 80.49 sheets per hour with 55 spm and 51 control wires. No planned or actual totals were reported for the day.
+
+On January 2, 2026, the production facility started the first week with a sheet weight of 7.02 kg per sheet, operating at 80.49 sheets per hour with 55 spm and 51 control wires. No planned or actual totals were reported for the day.
+
+On January 3, 2026, the facility continued with a sheet weight of 7.02 kg per sheet, operating at 80.49 sheets per hour with 55 spm and 51 control wires. No planned or actual totals were reported for the day.
+
+On January 4, 2026, the production facility entered the second week with a sheet weight of 7.02 kg per sheet, operating at 80.49 sheets per hour with 55 spm and 51 control wires. No planned or actual totals were reported for the day.
+
+On January 5, 2026, the facility continued with a sheet weight of 7.02 kg per sheet, operating at 80.49 sheets per hour with 55 spm and 51 control wires. No planned or actual totals were reported for the day.
+
+On January 6, 2026, the production facility maintained a sheet weight of 7.02 kg per sheet, operating at 80.49 sheets per hour with 55 spm and 51 control wires. No planned or actual totals were reported for the day.
+
+On January 7, 2026, the facility recorded 7.02 kilograms of sheet material processed with no planned or actual totals reported. The production rate was 80.49 sheets per hour, and the shift worked 55 standard hours. The number of completed wires was 51.
+
+On January 8, 2026, the process continued with identical metrics: 7.02 kilograms of sheet material, no planned or actual totals, an hourly production rate of 80.49 sheets, 55 standard hours worked, and 51 completed wires.
+
+On January 9, 2026, the day's data matched the previous two days: 7.02 kilograms of sheet material, no planned or actual totals, an hourly production rate of 80.49 sheets, 55 standard hours worked, and 51 completed wires.
+
+On January 10, 2026, the facility maintained consistent operations: 7.02 kilograms of sheet material, no planned or actual totals, an hourly production rate of 80.49 sheets, 55 standard hours worked, and 51 completed wires.
+
+On January 11, 2026, entering Week 3, the process continued with 7.02 kilograms of sheet material, no planned or actual totals, an hourly production rate of 80.49 sheets, 55 standard hours worked, and 51 completed wires.
+
+On January 12, 2026, Week 3 continued with 7.02 kilograms of sheet material, no planned or actual totals, an hourly production rate of 80.49 sheets, 55 standard hours worked, and 51 completed wires.
+
+On January 13, 2026, Week 3 continued with 7.02 kilograms of sheet material, no planned or actual totals, an hourly production rate of 80.49 sheets, 55 standard hours worked, and 51 completed wires.
+
+On January 14, 2026, Week 3 continued with 7.02 kilograms of sheet material, no planned or actual totals, an hourly production rate of 80.49 sheets, 55 standard hours worked, and 51 completed wires.
+
+On January 15, 2026, Week 3 continued with 7.02 kilograms of sheet material, no planned or actual totals, an hourly production rate of 80.49 sheets, 55 standard hours worked, and 51 completed wires.
+
+On January 16, 2026, Week 3 continued with 7.02 kilograms of sheet material, no planned or actual totals, an hourly production rate of 80.49 sheets, 55 standard hours worked, and 51 completed wires.
+
+On January 17, 2026, Week 3 continued with 7.02 kilograms of sheet material, no planned or actual totals, an hourly production rate of 80.49 sheets, 55 standard hours worked, and 51 completed wires.
+
+On January 18, 2026, entering Week 4, the process continued with 7.02 kilograms of sheet material, no planned or actual totals, an hourly production rate of 80.49 sheets, 55 standard hours worked, and 51 completed wires.
+
+On January 2, 2026, Week 1 started with 7.02 kilograms of sheet material, no planned or actual totals, an hourly production rate of 80.49 sheets, 55 standard hours worked, and 51 completed wires.
+
+On January 3, 2026, Week 1 continued with 7.02 kilograms of sheet material, no planned or actual totals, an hourly production rate of 80.49 sheets, 55 standard hours worked, and 51 completed wires.
+
+On January 4, 2026, Week 2 started with 7.02 kilograms of sheet material, no planned or actual totals, an hourly production rate of 80.49 sheets, 55 standard hours worked, and 51 completed wires.
+
+On January 5, 2026, Week 2 continued with 7.02 kilograms of sheet material, no planned or actual totals, an hourly production rate of 80.49 sheets, 55 standard hours worked, and 51 completed wires.
+
+On January 6, 2026, Week 2 continued with 7.02 kilograms of sheet material, no planned or actual totals, an hourly production rate of 80.49 sheets, 55 standard hours worked, and 51 completed wires.
+
+On January 7, 2026, Week 2 continued with 7.02 kilograms of sheet material, no planned or actual totals, an hourly production rate of 80.49 sheets, 55 standard hours worked, and 51 completed wires.
+
+On January 8, 2026, Week 2 continued with 7.02 kilograms of sheet material, no planned or actual totals, an hourly production rate of 80.49 sheets, 55 standard hours worked, and 51 completed wires.
+
+On January 9, 2026, Week 2 continued with 7.02 kilograms of sheet material, no planned or actual totals, an hourly production rate of 80.49 sheets, 55 standard hours worked, and 51 completed wires.
+
+On January 10, 2026, no sheets were processed, and the production was not scheduled for the next day. The sheets per hour rate was 80.49, and the cycle time was 55 seconds. There were 51 control wires used.
+
+On January 11, 2026, similar to the previous day, no sheets were processed, and the production was not scheduled for the next day. The sheets per hour rate was 80.49, and the cycle time was 55 seconds. There were 51 control wires used.
+
+On January 12, 2026, no sheets were processed, and the production was not scheduled for the next day. The sheets per hour rate was 80.49, and the cycle time was 55 seconds. There were 51 control wires used.
+
+On January 13, 2026, no sheets were processed, and the production was not scheduled for the next day. The sheets per hour rate was 80.49, and the cycle time was 55 seconds. There were 51 control wires used.
+
+On January 14, 2026, no sheets were processed, and the production was not scheduled for the next day. The sheets per hour rate was 80.49, and the cycle time was 55 seconds. There were 51 control wires used.
+
+On January 15, 2026, no sheets were processed, and the production was not scheduled for the next day. The sheets per hour rate was 80.49, and the cycle time was 55 seconds. There were 51 control wires used.
+
+On January 16, 2026, no sheets were processed, and the production was not scheduled for the next day. The sheets per hour rate was 80.49, and the cycle time was 55 seconds. There were 51 control wires used.
+
+On January 17, 2026, no sheets were processed, and the production was not scheduled for the next day. The sheets per hour rate was 80.49, and the cycle time was 55 seconds. There were 51 control wires used.
+
+The comment for January 19, 2026, refers to order ST2219/2220/2221, Ross order 254987 - ENSHAM, DMW product IMB45-421-5002-DEN, with Ross code SMB5002101004. A total of 2113 sheets were planned, with 50 sheets processed on that day. The actual totals were 0.2246399999999999, and the planned totals were 0.351. The sheets per hour rate was 80.49, and the cycle time was 55 seconds. There were 51 control wires used.
+
+On January 20, 2026, no sheets were processed, and the production was not scheduled for the next day. The sheets per hour rate was 80.49, and the cycle time was 55 seconds. There were 51 control wires used.
+
+On January 21, 2026, no sheets were processed, and the production was not scheduled for the next day. The sheets per hour rate was 80.49, and the cycle time was 55 seconds. There were 51 control wires used.
+
+On January 22, 2026, no sheets were processed, and the production was not scheduled for the next day. The sheets per hour rate was 80.49, and the cycle time was 55 seconds. There were 51 control wires used.
+
+On January 23, 2026, no sheets were processed, and the production was not scheduled for the next day. The sheets per hour rate was 80.49, and the cycle time was 55 seconds. There were 51 control wires used.
+
+On January 24, 2026, no sheets were processed, and the production was not scheduled for the next day. The sheets per hour rate was 80.49, and the cycle time was 55 seconds. There were 51 control wires used.
+
+On January 25, 2026, no sheets were processed, and the production was not scheduled for the next day. The sheets per hour rate was 80.49, and the cycle time was 55 seconds. There were 51 control wires used.
+
+On January 26, 2026, no sheets were processed, and the production was not scheduled for the next day. The sheets per hour rate was 80.49, and the cycle time was 55 seconds. There were 51 control wires used.
+
+On January 27, 2026, no sheets were processed, and the production was not scheduled for the next day. The sheets per hour rate was 80.49, and the cycle time was 55 seconds. There were 51 control wires used.
+
+On January 28, 2026, no sheets were processed, and the production was not scheduled for the next day. The sheets per hour rate was 80.49, and the cycle time was 55 seconds. There were 51 control wires used.
+
+On January 29, 2026, no sheets were processed, and the production was not scheduled for the next day. The sheets per hour rate was 80.49, and the cycle time was 55 seconds. There were 51 control wires used.
+
+Ross order 254987 - ENSHAM involves the product IMB45-421-5002-DEN, with the associated Ross code SMB5002101004. On January 30, 2026, 2113 sheets were processed, with a daily quantity of 120 sheets. The kilograms per sheet is 7.02, and the sheets per hour rate is 80.49. The cycle wires count is 51, and the planned totals are 0.8424. No actual totals have been recorded yet.
+
+On January 31, 2026, the same Ross order continued with 2113 sheets, but the daily quantity dropped to 110 sheets. The kilograms per sheet remains at 7.02, and the sheets per hour rate is still 80.49. The cycle wires count is 51, and the planned totals are 0.7722.
+
+On February 1, 2026, no additional sheets were processed, and the kilograms per sheet and sheets per hour rate remain unchanged at 7.02 and 80.49 respectively. The cycle wires count is 51, and no actual totals have been recorded.
+
+On February 2, 2026, the Ross order continued with 2113 sheets, and the daily quantity was 120 sheets. The kilograms per sheet is 7.02, and the sheets per hour rate is 80.49. The cycle wires count is 51, and the planned totals are 0.8424.
+
+On February 3, 2026, the Ross order continued with 2113 sheets, and the daily quantity was 120 sheets. The kilograms per sheet is 7.02, and the sheets per hour rate is 80.49. The cycle wires count is 51, and the planned totals are 0.8424.
+
+On February 4, 2026, the Ross order continued with 2113 sheets, and the daily quantity was 120 sheets. The kilograms per sheet is 7.02, and the sheets per hour rate is 80.49. The cycle wires count is 51, and the planned totals are 0.8424.
+
+On February 5, 2026, the Ross order continued with 2113 sheets, and the daily quantity was 120 sheets. The kilograms per sheet is 7.02, and the sheets per hour rate is 80.49. The cycle wires count is 51, and the planned totals are 0.8424.
+
+On February 6, 2026, the Ross order continued with 2113 sheets, and the daily quantity was 120 sheets. The kilograms per sheet is 7.02, and the sheets per hour rate is 80.49. The cycle wires count is 51, and the planned totals are 0.8424.
+
+On February 7, 2026, the Ross order continued with 2113 sheets, and the daily quantity was 100 sheets. The kilograms per sheet is 7.02, and the sheets per hour rate is 80.49. The cycle wires count is 51, and the planned totals are 0.702.

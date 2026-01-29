@@ -1,0 +1,761 @@
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 295 units of IMG5H6H-44-4024-SSP on August 24, 2022.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 1,003 units of IMG5H-44-4524-SM C1 on August 31, 2022.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 56 units of IMG5H6H-44-4024-SSP on September 2, 2022.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 493 units of IMG5H6H-44-4024-SSP on September 5, 2022.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 160 units of BDTOP-8723-280 C2 on September 9, 2022.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 160 units of BDBOT-8723-280 C2 on September 14, 2022.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 240 units of BDBOT-8724-230 C2 on October 8, 2022.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 240 units of BDTOP-8724-230 C2 on October 11, 2022.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 1,821 units of IMG4-22-3024-OC on October 13, 2022.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 125 units of BDTOP-8723-280 C2 on October 13, 2022.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 70 units of BDBOT-8723-280 C2 on October 17, 2022.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 453 units of IMG5H-44-4524-SM-OLD on October 19, 2022.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 1,453 units of IMG5H-44-4524-SM on October 24, 2022.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 125 units of IMG5H-44-4524-SM-OLD on October 24, 2022.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 511 units of IMG5H-44-4524-SM-OLD on October 27, 2022.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 251 units of BDBOT-8724-230 C2 on November 1, 2022.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 240 units of BDTOP-8724-230 C2 on November 4, 2022.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 16 units of BDBOT-9423-390 C2 on November 7, 2022.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 15 units of BDTOP-9423-390 C2 on November 7, 2022.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 60 units of BDBOT-8923-340 C2 on November 9, 2022.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+BDTOP-8923-340 C2 produced 60 units on November 9, 2022.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+BDBOT-8724-230 C2 produced 240 units on November 15, 2022.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+BDTOP-8724-230 C2 produced 270 units on November 17, 2022.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+IMG5H6H-44-4024-SSP produced 449 units on November 21, 2022.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+IMG5H6H-44-4024-SSP produced 529 units on November 25, 2022.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+IMZG4-22-3618 produced 202 units on November 30, 2022.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+IMG4-23-3024-OC produced 100 units on December 9, 2022.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+IMG4-22-3024-OC produced 1450 units on December 12, 2022.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+IMG5-22-3024 produced 166 units on December 13, 2022.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+IMG5H-44-4524-SM produced 450 units on December 16, 2022.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+IMG5H-44-4524-SM produced 1025 units on January 4, 2023.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+IMZG4-41-3128 produced 14 units on January 5, 2023.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+IMZG4-41-2828 produced 28 units on January 6, 2023.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+IMZG4-41-3130 produced 14 units on January 10, 2023.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+BDBOT-8723-280 C2 produced 160 units on January 16, 2023.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+BDTOP-8723-280 C2 produced 160 units on January 18, 2023.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+BDTOP-8724-230 C2 produced 240 units on January 23, 2023.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+BDBOT-8724-230 C2 produced 239 units on January 31, 2023.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+IMG5H6H-44-4024-SSP produced 1316 units on February 8, 2023.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+IMG5H-44-4524-SM produced 451 units on February 13, 2023.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 449 units of IMG5H-44-4524-SM-OLD on February 15, 2023. Job number JC001 was processed for SOUTH32 with 99.8% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 320 units of BDBOT-8724-230 C2 on February 22, 2023. Job number JC002 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 240 units of BDTOP-8724-230 C2 on February 27, 2023. Job number JC003 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 1067 units of IMG5H6H-44-4024-SSP on March 8, 2023. Job number JC004 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 140 units of BDTOP-8723-280 C2 on March 10, 2023. Job number JC005 was processed for SOUTH32 with 93.3% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 160 units of BDBOT-8723-280 C2 on March 14, 2023. Job number JC006 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 300 units of IMG5H-44-4524-SM on March 20, 2023. Job number JC007 was processed for SOUTH32 with 66.7% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 450 units of IMG5H-44-4524-SM on March 22, 2023. Job number JC008 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 450 units of IMG5H-44-4524-SM on March 23, 2023. Job number JC009 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 450 units of IMG5H-44-4524-SM on March 29, 2023. Job number JC010 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 453 units of IMG5H-44-4524-SM on April 3, 2023. Job number JC011 was processed for SOUTH32 with 100.6% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 80 units of BDTOP-8724-230 C2 on April 4, 2023. Job number JC012 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 320 units of BDBOT-8724-230 C2 on April 12, 2023. Job number JC013 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 240 units of BDTOP-8724-230 C2 on April 15, 2023. Job number JC014 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 200 units of D500RL1018 C2 on April 18, 2023. Job number JC015 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 200 units of D500SL81 C2 on April 19, 2023. Job number JC016 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 200 units of D500RL1218 C2 on April 20, 2023. Job number JC017 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 320 units of BDTOP-8724-230 C2 on April 27, 2023. Job number JC018 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 320 units of BDBOT-8724-230 C2 on May 3, 2023. Job number JC019 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 175 units of BDBOT-8723-280 C2 on May 10, 2023. Job number JC020 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+BDTOP-8723-280 C2 produced 160 units on May 13, 2023. Machine processed job JC001 for SOUTH32.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+IMG5H-44-4524-SM produced 450 units on May 17, 2023. Machine processed job JC002 for SOUTH32.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+IMG5H-44-4524-SM produced 250 units on May 18, 2023. Machine processed job JC003 for SOUTH32.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+IMG5H-44-4524-SM produced 250 units on May 23, 2023. Machine processed job JC004 for SOUTH32.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+IMG5H-44-4524-SM produced 250 units on May 25, 2023. Machine processed job JC005 for SOUTH32.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+IMG5H-44-4524-SM produced 50 units on May 25, 2023. Machine processed job JC006 for SOUTH32.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+BDBOT-8724-230 C2 produced 300 units on June 1, 2023. Machine processed job JC007 for SOUTH32.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+BDTOP-8724-230 C2 produced 200 units on June 7, 2023. Machine processed job JC008 for SOUTH32.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+BDTOP-8723-280 C2 produced 120 units on June 9, 2023. Machine processed job JC009 for SOUTH32.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+BDBOT-8723-280 C2 produced 140 units on June 14, 2023. Machine processed job JC010 for SOUTH32.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+D500RL1018 C2 produced 200 units on June 19, 2023. Machine processed job JC011 for SOUTH32.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+D500SL81 C2 produced 200 units on June 20, 2023. Machine processed job JC012 for SOUTH32.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+BDBOT-8724-230 C2 produced 200 units on June 26, 2023. Machine processed job JC013 for SOUTH32.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+BDTOP-8724-230 C2 produced 300 units on July 4, 2023. Machine processed job JC014 for SOUTH32.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+BDBOT-8723-280 C2 produced 160 units on July 7, 2023. Machine processed job JC015 for SOUTH32.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+BDTOP-8723-280 C2 produced 160 units on July 12, 2023. Machine processed job JC016 for SOUTH32. Yield rate: 107%.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+IMG4-22-3024-OC produced 450 units on July 20, 2023. Machine processed job JC017 for SOUTH32.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+IMG4-22-3024-OC produced 450 units on July 24, 2023. Machine processed job JC018 for SOUTH32. Yield rate: 102%.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+IMG4-22-3024-OC produced 450 units on July 25, 2023. Machine processed job JC019 for SOUTH32.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+IMG4-22-3024-OC produced 250 units on July 25, 2023. Machine processed job JC020 for SOUTH32. Yield rate: 136%.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 283 units of BDBOT-8724-230 C2 on July 31, 2023. Job number JC001 was processed for SOUTH32 with 93.3% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 240 units of BDTOP-8724-230 C2 on August 7, 2023. Job number JC002 was processed for SOUTH32 with 91.7% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 200 units of D500SL81 C2 on August 8, 2023. Job number JC003 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 180 units of D500RL1018 C2 on August 10, 2023. Job number JC004 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 151 units of D500RL1218 C2 on August 14, 2023. Job number JC005 was processed for SOUTH32 with 99.3% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 205 units of D500SL81 C2 on August 16, 2023. Job number JC006 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 178 units of BDTOP-8724-230 C2 on August 21, 2023. Job number JC007 was processed for SOUTH32 with 89.4% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 300 units of BDBOT-8724-230 C2 on August 24, 2023. Job number JC008 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 400 units of IMG5H-44-4524-SM-OLD on August 30, 2023. Job number JC009 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 500 units of IMG5H-44-4524-SM-OLD on August 31, 2023. Job number JC010 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 465 units of IMG5H-44-4524-SM on September 5, 2023. Job number JC011 was processed for SOUTH32 with 98.3% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 1474 units of IMG4-22-3024-OC on September 12, 2023. Job number JC012 was processed for SOUTH32 with 98.3% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 300 units of BDTOP-8724-230 C2 on September 19, 2023. Job number JC013 was processed for SOUTH32 with 93.3% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 320 units of BDBOT-8724-230 C2 on October 10, 2023. Job number JC014 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 230 units of BDTOP-8724-230 C2 on October 18, 2023. Job number JC015 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 726 units of IMB4H-44-5024 on October 25, 2023. Job number JC016 was processed for SOUTH32 with 98.3% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 250 units of D500SL81 C2 on October 30, 2023. Job number JC017 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 155 units of D500RL1018 C2 on October 31, 2023. Job number JC018 was processed for SOUTH32 with 62.5% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 400 units of BDBOT-8724-230 C2 on November 6, 2023. Job number JC019 was processed for SOUTH32 with 80% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 144 units of BDTOP-8724-230 C2 on November 9, 2023. Job number JC020 was processed for SOUTH32 with 75% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+BDTOP-8724-230 C2 produced 100 units on November 13, 2023. Machine SCHLATTER PG12 processed job JA001 for SOUTH32.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+BDBOT-8724-230 C2 produced 100 units on November 15, 2023. Machine SCHLATTER PG12 processed job JA002 for SOUTH32.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+IMG4-22-3024-OC produced 1354 units on November 24, 2023. Machine SCHLATTER PG12 processed job JA003 for SOUTH32.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+BDBOT-8724-230 C2 produced 300 units on December 4, 2023. Machine SCHLATTER PG12 processed job JA004 for SOUTH32.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+BDTOP-8724-230 C2 produced 104 units on December 5, 2023. Machine SCHLATTER PG12 processed job JA005 for SOUTH32.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+D500SL81 C2 produced 205 units on December 6, 2023. Machine SCHLATTER PG12 processed job JA006 for SOUTH32.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+IMG5H-44-4524-SM produced 450 units on December 11, 2023. Machine SCHLATTER PG12 processed job JA007 for SOUTH32.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+IMG5H-44-4524-SM produced 500 units on December 13, 2023. Machine SCHLATTER PG12 processed job JA008 for SOUTH32.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+IMZG4-305-4523H produced 120 units on December 21, 2023. Machine SCHLATTER PG12 processed job JA009 for SOUTH32.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+IMZG4-305-43H23H produced 23 units on December 27, 2023. Machine SCHLATTER PG12 processed job JA010 for SOUTH32.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+IMZG4-305-4623H produced 45 units on January 8, 2024. Machine SCHLATTER PG12 processed job JA011 for SOUTH32.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+IMZG4-305-4723H produced 5 units on January 8, 2024. Machine SCHLATTER PG12 processed job JA012 for SOUTH32.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+IMZG4-305-4823H produced 5 units on January 8, 2024. Machine SCHLATTER PG12 processed job JA013 for SOUTH32.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+IMZG4-305-2424 produced 100 units on January 10, 2024. Machine SCHLATTER PG12 processed job JA014 for SOUTH32.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+BDBOT-9423-390 C2 produced 15 units on January 12, 2024. Machine SCHLATTER PG12 processed job JA015 for SOUTH32.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+BDTOP-9423-390 C2 produced 15 units on January 15, 2024. Machine SCHLATTER PG12 processed job JA016 for SOUTH32.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+IMG4-22-3024-OC produced 1579 units on January 24, 2024. Machine SCHLATTER PG12 processed job JA017 for SOUTH32.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+BDTOP-8724-230 C2 produced 181 units on January 31, 2024. Machine SCHLATTER PG12 processed job JA018 for SOUTH32.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+BDTOP-8723-280 C2 produced 80 units on February 2, 2024. Machine SCHLATTER PG12 processed job JA019 for SOUTH32.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+BDBOT-8723-280 C2 produced 81 units on February 6, 2024. Machine SCHLATTER PG12 processed job JA020 for SOUTH32.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 484 units of IMG5H-44-4524-SM on February 9, 2024. Job number JC001 was processed for SOUTH32 with 96.8% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 60 units of D500RL1218 C2 on February 12, 2024. Job number JC002 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 200 units of D500RL1218 C2 on February 13, 2024. Job number JC003 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 120 units of D500RL1018 C2 on February 14, 2024. Job number JC004 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 140 units of D500RL1018 C2 on February 15, 2024. Job number JC005 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 100 units of D500SL81 C2 on February 15, 2024. Job number JC006 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 200 units of IMG5H6H-44-4024-SSP on February 19, 2024. Job number JC007 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 150 units of BDBOT-8724-230 C2 on February 21, 2024. Job number JC008 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 1,548 units of IMG4-22-3024-OC on February 29, 2024. Job number JC009 was processed for SOUTH32 with 96.7% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 70 units of BDTOP-8723-280 C2 on March 5, 2024. Job number JC010 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 60 units of BDBOT-8723-280 C2 on March 11, 2024. Job number JC011 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 15 units of IMG5H-44-4524 on March 13, 2024. Job number JC012 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 239 units of D500SL81 C2 on March 18, 2024. Job number JC013 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 60 units of D500SL81 C2 on March 18, 2024. Job number JC014 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 1,580 units of IMG4-22-3024-OC on March 25, 2024. Job number JC015 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 100 units of D500RL1018 C2 on March 26, 2024. Job number JC016 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 92 units of D500RL1218 C2 on March 27, 2024. Job number JC017 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 150 units of BDTOP-8723-280 C2 on April 4, 2024. Job number JC018 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 117 units of BDBOT-8723-280 C2 on April 10, 2024. Job number JC019 was processed for SOUTH32 with 78% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 150 units of BDTOP-8724-230 C2 on April 17, 2024. Job number JC020 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 150 units of BDBOT-8724-230 C2 on April 22, 2024. Job number JC001 was processed with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 290 units of IMG5H6H-44-4024-SSP on May 2, 2024. Job number JC002 was processed with 96.67% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 521 units of IMG5H-44-4528 on May 8, 2024. Job number JC003 was processed with 108.2% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 200 units of IMB8-88-3616 on May 9, 2024. Job number JC004 was processed with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 54 units of BDBOT-9423-390 C2 on May 15, 2024. Job number JC005 was processed with 108% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 12 units of BDTOP-9423-390 C2 on May 15, 2024. Job number JC006 was processed with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 1742 units of IMG4-22-3024-OC on May 27, 2024. Job number JC007 was processed with 102.5% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 100 units of D500RL1218 C2 on May 28, 2024. Job number JC008 was processed with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 100 units of D500RL1018 C2 on May 29, 2024. Job number JC009 was processed with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 160 units of D500SL81 C2 on May 30, 2024. Job number JC010 was processed with 106.7% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 570 units of IMB5-44-4524 on June 13, 2024. Job number JC011 was processed with 126.7% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 1694 units of IMG4-22-3024-OC on June 25, 2024. Job number JC012 was processed with 99.6% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 160 units of D500RL1018 C2 on June 26, 2024. Job number JC013 was processed with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 70 units of D500RL1218 C2 on June 27, 2024. Job number JC014 was processed with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 150 units of D500SL81 C2 on July 1, 2024. Job number JC015 was processed with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 32 units of D500SL81 C2 on July 1, 2024. Job number JC016 was processed with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 950 units of IMG5H-44-4528 on July 8, 2024. Job number JC017 was processed with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 160 units of BDTOP-8723-280 C2 on July 10, 2024. Job number JC018 was processed with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 140 units of BDTOP-8723-280 C2 on July 10, 2024. Job number JC019 was processed with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 160 units of BDBOT-8723-280 C2 on July 15, 2024. Job number JC020 was processed with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 100 units of BDBOT-8723-280 C2 on July 16, 2024.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 1,106 units of IMB5-44-4517 on July 25, 2024.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 200 units of BDBOT-8723-280 C2 on August 1, 2024.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 20 units of BDBOT-8723-280 C2 on August 5, 2024.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 140 units of BDTOP-8723-280 C2 on August 13, 2024.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 140 units of BDTOP-8723-280 C2 on August 13, 2024.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 120 units of BDBOT-8723-280 C2 on August 19, 2024.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 282 units of IMG6H-22-4116 on August 22, 2024.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 210 units of D500RL1018 C2 on September 2, 2024.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 1,537 units of IMG4-22-3024-OC on September 11, 2024.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 80 units of RL918 C2 on September 12, 2024.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 102 units of D500RL1218 C2 on September 12, 2024.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 89 units of BDBOT-8723-280 C2 on September 17, 2024.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 240 units of BDTOP-8723-280 C2 on September 19, 2024.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 100 units of BDTOP-8723-280 C2 on September 24, 2024.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 238 units of BDBOT-8723-280 C2 on October 1, 2024.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 100 units of D500RL1218 C2 on October 3, 2024.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 150 units of D500SL81 on October 8, 2024.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 200 units of IMG5H-44-4824 on October 9, 2024.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 1,000 units of IMG5H-44-4528 on October 17, 2024.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+BDTOP-8724-230 C2 produced 310 units on October 23, 2024. Job number JB001 was processed for SOUTH32 with 99.4% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+BDBOT-8724-230 C2 produced 230 units on November 1, 2024. Job number JB002 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+D500SL81 C2 produced 140 units on November 5, 2024. Job number JB003 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+IMG5H-44-4524-SM produced 1020 units on November 14, 2024. Job number JB004 was processed for SOUTH32 with 102% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+IMG5H-44-4524-SM produced 100 units on November 15, 2024. Job number JB005 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+IMG5H-44-5024-SM produced 1352 units on November 21, 2024. Job number JB006 was processed for SOUTH32 with 103.2% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+BDTOP-8724-230 C2 produced 160 units on November 25, 2024. Job number JB007 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+BDBOT-8724-230 C2 produced 210 units on December 2, 2024. Job number JB008 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+BDBOT-8724-230 C2 produced 155 units on December 4, 2024. Job number JB009 was processed for SOUTH32 with 97.1% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+IMB5-44-4517 produced 325 units on December 9, 2024. Job number JB010 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+IMB5-44-4524 produced 50 units on December 9, 2024. Job number JB011 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+BDTOP-8724-230 C2 produced 310 units on December 12, 2024. Job number JB012 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+BDTOP-8724-230 C2 produced 20 units on January 2, 2025. Job number JB013 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+BDBOT-8724-230 C2 produced 85 units on January 13, 2025. Job number JB014 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+BDBOT-8724-230 C2 produced 100 units on January 15, 2025. Job number JB015 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SL 41 produced 383 units on January 20, 2025. Job number JB016 was processed for SOUTH32 with 95.8% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+IMG5-44-4524-MS produced 12 units on January 20, 2025. Job number JB017 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+D500SL81 C2 produced 200 units on January 22, 2025. Job number JB018 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+D500RL1018 C2 produced 200 units on January 23, 2025. Job number JB019 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+D500RL1218 C2 produced 150 units on January 24, 2025. Job number JB020 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 270 units of BDBOT-8723-280 C2 on January 31, 2025. Job number JC001 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 240 units of BDTOP-8723-280 C2 on February 4, 2205. Job number JC002 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 600 units of IMG5H-44-3024-SM on February 7, 2025. Job number JC003 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 1,006 units of IMG5H-44-4528 on February 13, 2025. Job number JC004 was processed for SOUTH32 with 100.6% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 180 units of BDTOP-8724-230 C2 on February 18, 2025. Job number JC005 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 130 units of BDTOP-8723-280 C2 on February 19, 2025. Job number JC006 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 130 units of BDBOT-8723-280 C2 on February 21, 2025. Job number JC007 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 920 units of IMG5H-44-5024-SM on February 27, 2025. Job number JC008 was processed for SOUTH32 with 97.8% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 450 units of IMG5H-44-5024-SM on March 5, 2025. Job number JC009 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 240 units of BDBOT-8723-280 C2 on March 11, 2025. Job number JC010 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 240 units of BDTOP-8723-280 C2 on March 17, 2025. Job number JC011 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 80 units of BDTOP-8723-280 C2 on March 18, 2025. Job number JC012 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 60 units of RL918 C2 on March 20, 2025. Job number JC013 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 180 units of BDBOT-8724-230 C2 on March 26, 2025. Job number JC014 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 80 units of BDBOT-8724-230 C2 on March 27, 2025. Job number JC015 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 120 units of BDTOP-8724-230 C2 on April 1, 2025. Job number JC016 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 936 units of IMG5H-44-5024-SM on April 8, 2025. Job number JC017 was processed for SOUTH32 with 93.6% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 993 units of IMG5H-44-4528 on April 24, 2025. Job number JC018 was processed for SOUTH32 with 99.3% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 200 units of BDTOP-8724-230 C2 on April 29, 2025. Job number JC019 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 200 units of BDBOT-8724-230 C2 on May 5, 2025. Job number JC020 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 40 units of BDBOT-8724-230 C2 on May 5, 2025.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 1,300 units of IMG5H-44-5024-SM on May 12, 2025.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 800 units of IMG5H-44-5024-SM on May 15, 2025.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 400 units of IMG5H-44-5024-SM on May 16, 2025.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 60 units of D500RL1218 C2 on May 19, 2025.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 60 units of D500RL1218 C2 on May 19, 2025.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 100 units of D500RL1018 C2 on May 20, 2025.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 120 units of D500SL81 C2 on May 20, 2025.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 230 units of BDTOP-8724-230 C2 on May 23, 2025.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 160 units of BDBOT-8724-230 C2 on May 27, 2025.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 80 units of BDBOT-8724-230 C2 on May 28, 2025.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SOUTH32 placed order PO-2025-001 on May 10, 2025. Order contains 1,700 units of IMG4-22-3024-OC for delivery to APPIN MINE, NSW.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 250 units of BDTOP-8724-230 C2 on June 10, 2025.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 240 units of BDBOT-8724-230 C2 on June 13, 2025.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+GLENCORE placed order PO-2025-002 on June 15, 2025. Order contains 1,700 units of IMG5H-44-5024-SM for delivery to DENDROBIUM MINE, NSW.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 1,703 units of IMG5H-44-5024-SM on June 27, 2025.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 246 units of BDBOT-8724-230 C2 on July 2, 2025.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 320 units of BDTOP-8724-230 C2 on July 9, 2025.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SOUTH32 placed order PO-2025-003 on July 10, 2025. Order contains 951 units of IMG5H-44-4528 for delivery to APPIN MINE, NSW.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 240 units of BDTOP-8724-230 C2 on July 23, 2025.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 240 units of BDBOT-8724-230 C2 on July 29, 2025.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 1,350 units of IMG5H-44-5024-SM on August 13, 2025. Job number JC001 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 974 units of IMG5H-44-4528 on August 21, 2025. Job number JC002 was processed for SOUTH32 with 100% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+SCHLATTER PG12 produced 170 units of IMG5H-44-3024-SM on August 13, 2025. Job number JC003 was processed for SOUTH32 with 12.35% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+ROLL FORM LINE produced 240 units of BDTOP-8724-230 C2 on August 13, 2025. Job number JC004 was processed for SOUTH32 with 0% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+No production was recorded for IMG5H-44-3024-SM on August 13, 2025. Job number JC005 was processed for SOUTH32 with 0% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+No production was recorded for IMG5H-44-4528 on August 21, 2025. Job number JC006 was processed for SOUTH32 with 0% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+No production was recorded for IMG5H-44-5024-SM on August 13, 2025. Job number JC007 was processed for SOUTH32 with 0% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+No production was recorded for IMG5H-44-3024-SM on August 13, 2025. Job number JC008 was processed for SOUTH32 with 0% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+No production was recorded for IMG5H-44-4528 on August 21, 2025. Job number JC009 was processed for SOUTH32 with 0% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+No production was recorded for IMG5H-44-5024-SM on August 13, 2025. Job number JC010 was processed for SOUTH32 with 0% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+No production was recorded for IMG5H-44-3024-SM on August 13, 2025. Job number JC011 was processed for SOUTH32 with 0% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+No production was recorded for IMG5H-44-4528 on August 21, 2025. Job number JC012 was processed for SOUTH32 with 0% yield rate.
+
+[Source: Production Sheet.xlsm_Production C2.csv | Type: production_record]
+No production was recorded for IMG5H-44-5024-SM on August 13, 2025. Job number JC013 was processed for SOUTH32 with 0% yield rate.

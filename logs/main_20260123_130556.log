@@ -1,0 +1,30 @@
+2026-01-23 13:05:56,492 [INFO] ✓ Input directory: 2 files found
+2026-01-23 13:05:56,495 [INFO] ✓ vLLM reachable at http://localhost:8000/v1
+2026-01-23 13:05:56,495 [INFO]   Note: Ensure vLLM has VLLM_ALLOW_LONG_MAX_MODEL_LEN=1 and MAX_MODEL_LEN=65536
+2026-01-23 13:05:56,501 [INFO] ✓ RAGFlow API reachable and authenticated
+2026-01-23 13:05:56,502 [INFO] ✓ Ollama reachable for embeddings
+2026-01-23 13:05:56,502 [INFO] Analyzing data in: /home/ryan/Documents/VSMS/ragflow_automation/sample_data
+2026-01-23 13:05:56,502 [INFO] Sampling: counties.csv
+2026-01-23 13:05:56,502 [INFO] Sampling: stations.csv
+2026-01-23 13:05:56,502 [INFO] Found 2 files
+2026-01-23 13:05:56,502 [INFO] Calling LLM: Qwen/Qwen2.5-7B-Instruct-AWQ at http://localhost:8000/v1
+2026-01-23 13:06:18,674 [INFO] LLM response received: 657 chars
+2026-01-23 13:06:18,674 [INFO] Parsed analysis: 3 entity types, 2 files
+2026-01-23 13:06:18,674 [INFO] Analysis saved to: /home/ryan/Documents/VSMS/ragflow_automation/config/analysis_output.json
+2026-01-23 13:06:18,678 [INFO] Loading lookup table: counties.csv (county_id -> county_name)
+2026-01-23 13:06:18,679 [INFO]   Loaded 3 entries
+2026-01-23 13:06:18,680 [INFO] Skipping lookup table: counties.csv
+2026-01-23 13:06:18,680 [INFO] Read 3 records from stations.csv
+2026-01-23 13:06:18,680 [INFO] Transforming stations.csv: 3 records in 1 batches
+2026-01-23 13:09:18,786 [ERROR] LLM API error: HTTPConnectionPool(host='localhost', port=8000): Read timed out. (read timeout=180)
+2026-01-23 13:09:18,787 [ERROR] Batch 1 failed: HTTPConnectionPool(host='localhost', port=8000): Read timed out. (read timeout=180)
+2026-01-23 13:09:18,787 [INFO]   Wrote 0 paragraphs to stations.txt
+2026-01-23 13:09:18,795 [INFO] Connected to RAGFlow API
+2026-01-23 13:09:18,795 [INFO] Creating dataset: Alaska Fire Stations
+2026-01-23 13:09:18,806 [INFO] Created dataset with ID: abc21aeef81911f0b5329ed2f6b2ee3a
+2026-01-23 13:09:18,806 [INFO] Found 1 files to upload
+2026-01-23 13:09:18,851 [INFO] Uploaded: stations.txt
+2026-01-23 13:09:18,852 [INFO] Uploaded 1 files
+2026-01-23 13:09:18,858 [INFO] Starting document parsing...
+2026-01-23 14:09:22,359 [ERROR] Parsing timed out
+2026-01-23 14:09:22,359 [ERROR] RAGFlow setup failed: Document parsing failed or timed out

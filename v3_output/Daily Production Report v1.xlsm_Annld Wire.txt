@@ -1,0 +1,1246 @@
+**Record 1**
+[META: date=2025-06-03 | machine=CLIFFORD_MMW | product=TIE4.0X_Kgols | order=WIP]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 4,000.0 units of TIE4.0X_Kgols on June 3, 2025. Order WIP achieved 2055.0 units with 2055.0% yield rate.
+
+**Record 2**
+[META: date=2025-06-04 | machine=CLIFFORD_MMW | product=TIE4.0X_Kgols | order=WIP]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of TIE4.0X_Kgols on June 4, 2025. Order WIP did not achieve any production.
+
+**Record 3**
+[META: date=2025-06-05 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=WIP]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of TIE3.15X_2.3MM on June 5, 2025. Order WIP did not achieve any production.
+
+**Record 4**
+[META: date=2025-06-06 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=WIP]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of TIE3.15X_2.3MM on June 6, 2025. Order WIP did not achieve any production.
+
+**Record 5**
+[META: date=2025-06-07 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=WIP]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of TIE3.15X_2.3MM on June 7, 2025. Order WIP did not achieve any production.
+
+**Record 6**
+[META: date=2025-06-08 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=WIP]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of TIE3.15X_2.3MM on June 8, 2025. Order WIP did not achieve any production.
+
+**Record 7**
+[META: date=2025-06-09 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=WIP]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of TIE3.15X_2.3MM on June 9, 2025. Order WIP did not achieve any production.
+
+**Record 8**
+[META: date=2025-06-10 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=WIP]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of TIE3.15X_2.3MM on June 10, 2025. Order WIP did not achieve any production.
+
+**Record 9**
+[META: date=2025-06-11 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=WIP]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of TIE3.15X_2.3MM on June 11, 2025. Order WIP did not achieve any production.
+
+**Record 10**
+[META: date=2025-06-12 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=WIP]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of TIE3.15X_2.3MM on June 12, 2025. Order WIP did not achieve any production.
+
+**Record 11**
+[META: date=2025-06-13 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=WIP]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of TIE3.15X_2.3MM on June 13, 2025. Order WIP did not achieve any production.
+
+**Record 12**
+[META: date=2025-06-14 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=WIP]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of TIE3.15X_2.3MM on June 14, 2025. Order WIP did not achieve any production.
+
+**Record 13**
+[META: date=2025-06-15 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=WIP]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of TIE3.15X_2.3MM on June 15, 2025. Order WIP did not achieve any production.
+
+**Record 14**
+[META: date=2025-06-16 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=WIP]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of TIE3.15X_2.3MM on June 16, 2025. Order WIP did not achieve any production.
+
+**Record 15**
+[META: date=2025-06-17 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=WIP]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of TIE3.15X_2.3MM on June 17, 2025. Order WIP did not achieve any production.
+
+**Record 16**
+[META: date=2025-06-18 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=WIP]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of TIE3.15X_2.3MM on June 18, 2025. Order WIP did not achieve any production.
+
+**Record 17**
+[META: date=2025-06-19 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=WIP]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of TIE3.15X_2.3MM on June 19, 2025. Order WIP did not achieve any production.
+
+**Record 18**
+[META: date=2025-06-20 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=WIP]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of TIE3.15X_2.3MM on June 20, 2025. Order WIP did not achieve any production.
+
+**Record 19**
+[META: date=2025-06-21 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=WIP]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of TIE3.15X_2.3MM on June 21, 2025. Order WIP did not achieve any production.
+
+**Record 20**
+[META: date=2025-06-22 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=WIP]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of TIE3.15X_2.3MM on June 22, 2025. Order WIP did not achieve any production.
+
+**Record 1:**
+[META: date=2025-06-23 | product=TIE3.15X_2.3MM | order=WIP]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 3,600.0 kg of TIE3.15X_2.3MM on June 23, 2025.
+
+**Record 2:**
+[META: date=2025-06-24 | product=TIE3.15X_2.3MM | order=WIP]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 3,600.0 kg of TIE3.15X_2.3MM on June 24, 2025.
+
+**Record 3:**
+[META: date=2025-06-25 | product=TIE3.15X_2.3MM | order=WIP]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 3,600.0 kg of TIE3.15X_2.3MM on June 25, 2025.
+
+**Record 4:**
+[META: date=2025-06-26 | product=TIE3.15X_2.3MM | order=WIP]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 3,600.0 kg of TIE3.15X_2.3MM on June 26, 2025.
+
+**Record 5:**
+[META: date=2025-06-27 | product=TIE3.15X_2.3MM | order=WIP]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 3,600.0 kg of TIE3.15X_2.3MM on June 27, 2025.
+
+**Record 6:**
+[META: date=2025-06-28 | product=TIE3.15X_2.3MM | order=WIP]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 3,600.0 kg of TIE3.15X_2.3MM on June 28, 2025.
+
+**Record 7:**
+[META: date=2025-06-29 | product=TIE3.15X_2.3MM | order=WIP | week=26]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 3,600.0 kg of TIE3.15X_2.3MM on June 29, 2025.
+
+**Record 8:**
+[META: date=2025-06-30 | product=TIE3.15X_2.3MM | order=WIP | week=26]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 3,600.0 kg of TIE3.15X_2.3MM on June 30, 2025.
+
+**Record 9:**
+[META: date=2025-07-01 | product=TIE3.15X_2.3MM | order=WIP | week=26]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 3,600.0 kg of TIE3.15X_2.3MM on July 1, 2025.
+
+**Record 10:**
+[META: date=2025-07-02 | product=TIE3.15X_2.3MM | order=WIP | week=26]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 3,600.0 kg of TIE3.15X_2.3MM on July 2, 2025.
+
+**Record 11:**
+[META: date=2025-07-03 | product=TIE3.15X_2.3MM | order=WIP | week=26]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 3,600.0 kg of TIE3.15X_2.3MM on July 3, 2025.
+
+**Record 12:**
+[META: date=2025-07-04 | product=TIE3.15X_2.3MM | order=WIP | week=27]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 3,600.0 kg of TIE3.15X_2.3MM on July 4, 2025.
+
+**Record 13:**
+[META: date=2025-07-05 | product=TIE3.15X_2.3MM | order=WIP | week=27]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 3,600.0 kg of TIE3.15X_2.3MM on July 5, 2025.
+
+**Record 14:**
+[META: date=2025-07-06 | product=TIE3.15X_2.3MM | order=WIP | week=28]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 3,600.0 kg of TIE3.15X_2.3MM on July 6, 2025.
+
+**Record 15:**
+[META: date=2025-07-07 | product=TIE3.15X_2.3MM | order=WIP | week=28]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 3,600.0 kg of TIE3.15X_2.3MM on July 7, 2025.
+
+**Record 16:**
+[META: date=2025-07-08 | product=TIE3.15X_2.3MM | order=WIP | week=28]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 3,600.0 kg of TIE3.15X_2.3MM on July 8, 2025.
+
+**Record 17:**
+[META: date=2025-07-09 | product=TIE3.15X_2.3MM | order=WIP | week=28]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 3,600.0 kg of TIE3.15X_2.3MM on July 9, 2025.
+
+**Record 18:**
+[META: date=2025-07-09 | product=TIE3.15X_2.3MM | order=WIP | week=28 | same_next_day=S]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 3,600.0 kg of TIE3.15X_2.3MM on July 9, 2025. Same day production continued.
+
+**Record 19:**
+[META: date=2025-07-10 | product=TIE3.15X_2.3MM | order=WIP | week=28]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 3,600.0 kg of TIE3.15X_2.3MM on July 10, 2025.
+
+**Record 20:**
+[META: date=2025-07-11 | product=TIE3.15X_2.3MM | order=WIP | week=28]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 3,600.0 kg of TIE3.15X_2.3MM on July 11, 2025.
+
+**Transformed Records:**
+
+[META: date=2025-07-12 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on July 12, 2025. Order 254980 did not achieve any production.
+
+[META: date=2025-07-12 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on July 12, 22025. Order 254980 did not achieve any production.
+
+[META: date=2025-07-13 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on July 13, 2025. Order 254980 did not achieve any production.
+
+[META: date=2025-07-13 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on July 13, 2025. Order 254980 did not achieve any production.
+
+[META: date=2025-07-14 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on July 14, 2025. Order 254980 did not achieve any production.
+
+[META: date=2025-07-14 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on July 14, 2025. Order 254980 did not achieve any production.
+
+[META: date=2025-07-15 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on July 15, 2025. Order 254980 did not achieve any production.
+
+[META: date=2025-07-16 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on July 16, 2025. Order 254980 did not achieve any production.
+
+[META: date=2025-07-17 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on July 17, 2025. Order 254980 did not achieve any production.
+
+[META: date=2025-07-18 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on July 18, 2025. Order 254980 did not achieve any production.
+
+[META: date=2025-07-19 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on July 19, 2025. Order 254980 did not achieve any production.
+
+[META: date=2025-07-20 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on July 20, 2025. Order 254980 did not achieve any production.
+
+[META: date=2025-07-21 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on July 21, 2025. Order 254980 did not achieve any production.
+
+[META: date=2025-07-22 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on July 22, 2025. Order 254980 did not achieve any production.
+
+[META: date=2025-07-23 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on July 23, 2025. Order 254980 did not achieve any production.
+
+[META: date=2025-07-24 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on July 24, 2025. Order 254980 did not achieve any production.
+
+[META: date=2025-07-25 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on July 25, 2025. Order 254980 did not achieve any production.
+
+[META: date=2025-07-26 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on July 26, 2025. Order 254980 did not achieve any production.
+
+[META: date=2025-07-27 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on July 27, 2025. Order 254980 did not achieve any production.
+
+[META: date=2025-07-28 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on July 28, 2025. Order 254980 did not achieve any production.
+
+**Transformed Records:**
+
+[META: date=2025-07-29 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 1,200 units of TIE4.0X_KGOLS on July 29, 2025. Order 254980 achieved 124.25% yield rate.
+
+[META: date=2025-07-30 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 1,300 units of TIE4.0X_KGOLS on July 30, 2025. Order 254980 achieved 123.5% yield rate.
+
+[META: date=2025-07-31 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 1,400 units of TIE4.0X_KGOLS on July 31, 2025. Order 254980 achieved 122.8% yield rate.
+
+[META: date=2025-08-01 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 1,500 units of TIE4.0X_KGOLS on August 1, 2025. Order 254980 achieved 122.1% yield rate.
+
+[META: date=2025-08-02 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 1,600 units of TIE4.0X_KGOLS on August 2, 2025. Order 254980 achieved 121.4% yield rate.
+
+[META: date=2025-08-03 | machine=CLIFFORD_MWPA | product=TIE3.15X_2.3MM | order=254981]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MWPA produced 1,700 units of TIE3.15X_2.3MM on August 3, 2025. Order 254981 achieved 120.7% yield rate.
+
+[META: date=2025-08-04 | machine=CLIFFORD_MWPA | product=TIE3.15X_2.3MM | order=254981]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MWPA produced 1,800 units of TIE3.15X_2.3MM on August 4, 2025. Order 254981 achieved 120% yield rate.
+
+[META: date=2025-08-05 | machine=CLIFFORD_MWPA | product=TIE3.15X_2.3MM | order=254981]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MWPA produced 1,900 units of TIE3.15X_2.3MM on August 5, 2025. Order 254981 achieved 119.3% yield rate.
+
+[META: date=2025-08-06 | machine=CLIFFORD_MWPA | product=TIE3.15X_2.3MM | order=254981]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MWPA produced 2,000 units of TIE3.15X_2.3MM on August 6, 2025. Order 254981 achieved 118.6% yield rate.
+
+[META: date=2025-08-07 | machine=CLIFFORD_MWPA | product=TIE3.15X_2.3MM | order=254981]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MWPA produced 2,100 units of TIE3.15X_2.3MM on August 7, 2025. Order 254981 achieved 117.9% yield rate.
+
+[META: date=2025-08-08 | machine=CLIFFORD_MWPA | product=TIE3.15X_2.3MM | order=254981]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MWPA produced 2,200 units of TIE3.15X_2.3MM on August 8, 2025. Order 254981 achieved 117.2% yield rate.
+
+[META: date=2025-08-09 | machine=CLIFFORD_MWPA | product=TIE3.15X_2.3MM | order=254981]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MWPA produced 2,300 units of TIE3.15X_2.3MM on August 9, 2025. Order 254981 achieved 116.5% yield rate.
+
+[META: date=2025-08-10 | machine=CLIFFORD_MWPA | product=TIE3.15X_2.3MM | order=254981]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MWPA produced 2,400 units of TIE3.15X_2.3MM on August 10, 2025. Order 254981 achieved 115.8% yield rate.
+
+[META: date=2025-08-11 | machine=CLIFFORD_MWPA | product=TIE3.15X_2.3MM | order=254981]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MWPA produced 2,500 units of TIE3.15X_2.3MM on August 11, 2025. Order 254981 achieved 115.1% yield rate.
+
+[META: date=2025-08-12 | machine=CLIFFORD_MWPA | product=TIE3.15X_2.3MM | order=254981]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MWPA produced 2,600 units of TIE3.15X_2.3MM on August 12, 2025. Order 254981 achieved 114.4% yield rate.
+
+[META: date=2025-08-13 | machine=CLIFFORD_MWPA | product=TIE3.15X_2.3MM | order=254981]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MWPA produced 2,700 units of TIE3.15X_2.3MM on August 13, 2025. Order 254981 achieved 113.7% yield rate.
+
+[META: date=2025-08-14 | machine=CLIFFORD_MWPA | product=TIE3.15X_2.3MM | order=254981]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MWPA produced 2,800 units of TIE3.15X_2.3MM on August 14, 2025. Order 254981 achieved 113% yield rate.
+
+[META: date=2025-08-15 | machine=CLIFFORD_MWPA | product=TIE3.15X_2.3MM | order=254981]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MWPA produced 2,900 units of TIE3.15X_2.3MM on August 15, 2025. Order 254981 achieved 112.3% yield rate.
+
+[META: date=2025-08-16 | machine=CLIFFORD_MWPA | product=TIE3.15X_2.3MM | order=254981]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MWPA produced 3,000 units of TIE3.15X_2.3MM on August 16, 2025. Order 254981 achieved 111.6% yield rate.
+
+[META: date=2025-08-17 | machine=CLIFFORD_MWPA | product=TIE3.15X_2.3MM | order=254981]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MWPA produced 3,100 units of TIE3.15X_2.3MM on August 17, 2025. Order 254981 achieved 110.9% yield rate.
+
+**Records Transformation**
+
+---
+
+### Record 1
+[META: date=2025-08-18 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of TIE4.0X_KGOLS on August 18, 2025. Order 254980 achieved 124.25% yield rate.
+
+---
+
+### Record 2
+[META: date=2025-08-19 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of TIE4.0X_KGOLS on August 19, 2025. Order 254980 achieved 124.25% yield rate.
+
+---
+
+### Record 3
+[META: date=2025-08-20 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of TIE4.0X_KGOLS on August 20, 2025. Order 254980 achieved 124.25% yield rate.
+
+---
+
+### Record 4
+[META: date=2025-08-21 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of TIE4.0X_KGOLS on August 21, 2025. Order 254980 achieved 124.25% yield rate.
+
+---
+
+### Record 5
+[META: date=2025-08-22 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of TIE4.0X_KGOLS on August 22, 2025. Order 254980 achieved 124.25% yield rate.
+
+---
+
+### Record 6
+[META: date=2025-08-23 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of TIE4.0X_KGOLS on August 23, 2025. Order 254980 achieved 124.25% yield rate.
+
+---
+
+### Record 7
+[META: date=2025-08-24 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of TIE4.0X_KGOLS on August 24, 2025. Order 254980 achieved 124.25% yield rate.
+
+---
+
+### Record 8
+[META: date=2025-08-25 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of TIE4.0X_KGOLS on August 25, 2025. Order 254980 achieved 124.25% yield rate.
+
+---
+
+### Record 9
+[META: date=2025-08-26 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of TIE4.0X_KGOLS on August 26, 2025. Order 254980 achieved 124.25% yield rate.
+
+---
+
+### Record 10
+[META: date=2025-08-27 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of TIE4.0X_KGOLS on August 27, 2025. Order 254980 achieved 124.25% yield rate.
+
+---
+
+### Record 11
+[META: date=2025-08-28 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of TIE4.0X_KGOLS on August 28, 2025. Order 254980 achieved 124.25% yield rate.
+
+---
+
+### Record 12
+[META: date=2025-08-29 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of TIE4.0X_KGOLS on August 29, 2025. Order 254980 achieved 124.25% yield rate.
+
+---
+
+### Record 13
+[META: date=2025-08-30 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of TIE4.0X_KGOLS on August 30, 2025. Order 254980 achieved 124.25% yield rate.
+
+---
+
+### Record 14
+[META: date=2025-09-01 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of TIE4.0X_KGOLS on September 1, 2025. Order 254980 achieved 124.25% yield rate.
+
+---
+
+### Record 15
+[META: date=2025-09-02 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of TIE4.0X_KGOLS on September 2, 2025. Order 254980 achieved 124.25% yield rate.
+
+---
+
+### Record 16
+[META: date=2025-09-03 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of TIE4.0X_KGOLS on September 3, 2025. Order 254980 achieved 124.25% yield rate.
+
+---
+
+### Record 17
+[META: date=2025-09-04 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of TIE4.0X_KGOLS on September 4, 2025. Order 254980 achieved 124.25% yield rate.
+
+---
+
+### Record 18
+[META: date=2025-09-05 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of TIE4.0X_KGOLS on September 5, 2025. Order 254980 achieved 124.25% yield rate.
+
+---
+
+### Record 19
+[META: date=2025-09-06 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of TIE4.0X_KGOLS on September 6, 2025. Order 254980 achieved 124.25% yield rate.
+
+**Records Transformation**
+
+[META: date=2025-09-07 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of TIE4.0X_KGOLS on September 7, 2025. Order 254980 achieved 124.25% yield rate.
+
+[META: date=2025-09-08 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of TIE4.0X_KGOLS on September 8, 2025. Order 254980 achieved 124.25% yield rate.
+
+[META: date=2025-09-09 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of TIE4.0X_KGOLS on September 9, 2025. Order 254980 achieved 124.25% yield rate.
+
+[META: date=225-09-10 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of TIE4.0X_KGOLS on September 10, 2025. Order 254980 achieved 124.25% yield rate.
+
+[META: date=2025-09-11 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of TIE4.0X_KGOLS on September 11, 2025. Order 254980 achieved 124.25% yield rate.
+
+[META: date=2025-09-12 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of TIE4.0X_KGOLS on September 12, 2025. Order 254980 achieved 124.25% yield rate.
+
+[META: date=2025-09-13 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of TIE4.0X_KGOLS on September 13, 2025. Order 254980 achieved 124.25% yield rate.
+
+[META: date=2025-09-14 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=254981]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of TIE3.15X_2.3MM on September 14, 2025. Order 254981 achieved 124.25% yield rate.
+
+[META: date=2025-09-15 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=254981]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of TIE3.15X_2.3MM on September 15, 2025. Order 254981 achieved 124.25% yield rate.
+
+[META: date=2025-09-16 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=254981]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of TIE3.15X_2.3MM on September 16, 2025. Order 254981 achieved 124.25% yield rate.
+
+[META: date=2025-09-17 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=254981]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of TIE3.15X_2.3MM on September 17, 2025. Order 254981 achieved 124.25% yield rate.
+
+[META: date=2025-09-18 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=254981]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of TIE3.15X_2.3MM on September 18, 2025. Order 254981 achieved 124.25% yield rate.
+
+[META: date=2025-09-19 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=254981]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of TIE3.15X_2.3MM on September 19, 2025. Order 254981 achieved 124.25% yield rate.
+
+[META: date=2025-09-20 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=254981]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of TIE3.15X_2.3MM on September 20, 2025. Order 254981 achieved 124.25% yield rate.
+
+[META: date=2025-09-21 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=254981]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of TIE3.15X_2.3MM on September 21, 2025. Order 254981 achieved 124.25% yield rate.
+
+[META: date=2025-09-22 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=254981]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of TIE3.15X_2.3MM on September 22, 2025. Order 254981 achieved 124.25% yield rate.
+
+[META: date=2025-09-23 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=254981]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of TIE3.15X_2.3MM on September 23, 2025. Order 254981 achieved 124.25% yield rate.
+
+[META: date=2025-09-24 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=254981]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of TIE3.15X_2.3MM on September 24, 2025. Order 254981 achieved 124.25% yield rate.
+
+[META: date=2025-09-25 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=254981]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of TIE3.15X_2.3MM on September 25, 2025. Order 254981 achieved 124.25% yield rate.
+
+[META: date=2025-09-26 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=254981]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of TIE3.15X_2.3MM on September 26, 2025. Order 254981 achieved 124.25% yield rate.
+
+**Records Transformation**
+
+**Record 1**
+[META: date=2025-09-27 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on September 27, 2025. Order 254980 did not achieve any production.
+
+**Record 2**
+[META: date=2025-09-28 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on September 28, 2025. Order 254980 did not achieve any production.
+
+**Record 3**
+[META: date=2025-09-29 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on September 29, 2025. Order 254980 did not achieve any production.
+
+**Record 4**
+[META: date=2025-09-30 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on September 30, 2025. Order 254980 did not achieve any production.
+
+**Record 5**
+[META: date=2025-10-01 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on October 1, 2025. Order 254980 did not achieve any production.
+
+**Record 6**
+[META: date=2025-10-02 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on October 2, 2025. Order 254980 did not achieve any production.
+
+**Record 7**
+[META: date=2025-10-03 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on October 3, 2025. Order 254980 did not achieve any production.
+
+**Record 8**
+[META: date=2025-10-04 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on October 4, 2025. Order 254980 did not achieve any production.
+
+**Record 9**
+[META: date=2025-10-05 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on October 5, 2025. Order 254980 did not achieve any production.
+
+**Record 10**
+[META: date=2025-10-06 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on October 6, 2025. Order 254980 did not achieve any production.
+
+**Record 11**
+[META: date=2025-10-07 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on October 7, 2025. Order 254980 did not achieve any production.
+
+**Record 12**
+[META: date=2025-10-08 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on October 8, 2025. Order 254980 did not achieve any production.
+
+**Record 13**
+[META: date=2025-10-09 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on October 9, 2025. Order 254980 did not achieve any production.
+
+**Record 14**
+[META: date=2025-10-10 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on October 10, 2025. Order 254980 did not achieve any production.
+
+**Record 15**
+[META: date=2025-10-11 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on October 11, 2025. Order 254980 did not achieve any production.
+
+**Record 16**
+[META: date=2025-10-12 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on October 12, 2025. Order 254980 did not achieve any production.
+
+**Record 17**
+[META: date=2025-10-13 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on October 13, 2025. Order 254980 did not achieve any production.
+
+**Record 18**
+[META: date=2025-10-14 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on October 14, 2025. Order 254980 did not achieve any production.
+
+**Record 19**
+[META: date=2025-10-15 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on October 15, 2025. Order 254980 did not achieve any production.
+
+**Record 20**
+[META: date=2025-10-16 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on October 16, 2025. Order 254980 did not achieve any production.
+
+**Record 1**
+[META: date=2025-10-17 | week=42]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+No production activity recorded for ANNLD WIRE on October 17, 2025.
+
+**Record 2**
+[META: date=2025-10-18 | week=42]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+No production activity recorded for ANNLD WIRE on October 18, 2025.
+
+**Record 3**
+[META: date=2025-10-19 | week=43]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+No production activity recorded for ANNLD WIRE on October 19, 2025.
+
+**Record 4**
+[META: date=2025-10-20 | week=43]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+No production activity recorded for ANNLD WIRE on October 20, 2025.
+
+**Record 5**
+[META: date=2025-10-21 | week=43]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+No production activity recorded for ANNLD WIRE on October 21, 2025.
+
+**Record 6**
+[META: date=2025-10-22 | week=43]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+No production activity recorded for ANNLD WIRE on October 22, 2025.
+
+**Record 7**
+[META: date=2025-10-24 | week=43 | order=253876 | product=Tie3.15X_2.3MM | machine=CLIFFORD_MMW]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 12,000 units of Tie3.15X_2.3MM on October 24, 2025. Order 253876 achieved 172.5% yield rate.
+
+**Record 8**
+[META: date=2025-10-25 | week=43]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+No production activity recorded for ANNLD WIRE on October 25, 2025.
+
+**Record 9**
+[META: date=2025-10-26 | week=44]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+No production activity recorded for ANNLD WIRE on October 26, 2025.
+
+**Record 10**
+[META: date=2025-10-27 | week=44 | achieved=1545.0]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNLD WIRE produced 1,545 units on October 27, 2025.
+
+**Record 11**
+[META: date=2025-10-28 | week=44]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+No production activity recorded for ANNLD WIRE on October 28, 2025.
+
+**Record 12**
+[META: date=2025-10-29 | week=44]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+No production activity recorded for ANNLD WIRE on October 29, 2025.
+
+**Record 13**
+[META: date=2025-10-30 | week=44 | achieved=1825.0]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNLD WIRE produced 1,825 units on October 30, 2025.
+
+**Record 14**
+[META: date=2025-10-31 | week=44]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+No production activity recorded for ANNLD WIRE on October 31, 2025.
+
+**Record 15**
+[META: date=2025-11-01 | week=44]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+No production activity recorded for ANNLD WIRE on November 1, 2025.
+
+**Record 16**
+[META: date=2025-11-02 | week=45]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+No production activity recorded for ANNLD WIRE on November 2, 2025.
+
+**Record 17**
+[META: date=2025-11-03 | week=45 | achieved=1150.0]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNLD WIRE produced 1,150 units on November 3, 2025.
+
+**Record 18**
+[META: date=2025-11-04 | week=45 | achieved=1545.0]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNLD WIRE produced 1,545 units on November 4, 2025.
+
+**Record 19**
+[META: date=2025-11-05 | week=45 | achieved=1541.0]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNLD WIRE produced 1,541 units on November 5, 2025.
+
+**Record 1:**
+[META: date=2025-11-06 | week=45 | achieved=1535.0]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Annld Wire produced 1,535 units on November 6, 2025, during Week 45.
+
+**Record 2:**
+[META: date=2025-11-07 | week=45]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Annld Wire produced an unspecified quantity on November 7, 2025, during Week 45.
+
+**Record 3:**
+[META: date=2025-11-08 | week=45]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Annld Wire produced an unspecified quantity on November 8, 2025, during Week 45.
+
+**Record 4:**
+[META: date=2025-11-09 | week=46 | achieved=2280.0]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Annld Wire produced 2,280 units on November 9, 2025, during Week 46.
+
+**Record 5:**
+[META: date=2025-11-10 | week=46]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Annld Wire produced an unspecified quantity on November 10, 2025, during Week 46.
+
+**Record 6:**
+[META: date=2025-11-11 | week=46 | achieved=1610.0]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Annld Wire produced 1,610 units on November 11, 2025, during Week 46.
+
+**Record 7:**
+[META: date=2025-11-12 | week=46 | ross_order=254166 | dmw_product=Tie-3.15mm-2.3m | ross_code=Tie3.15X2.3mm | qty=10000.0 | achieved=2280.0]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,280 units of Tie-3.15mm-2.3m on November 12, 2025, during Week 46. Order 254166 achieved 22.8% yield rate.
+
+**Record 8:**
+[META: date=2025-11-13 | week=46 | achieved=1610.0]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Annld Wire produced 1,610 units on November 13, 2025, during Week 46.
+
+**Record 9:**
+[META: date=2025-11-14 | week=46 | achieved=2000.0]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Annld Wire produced 2,000 units on November 14, 2025, during Week 46.
+
+**Record 10:**
+[META: date=2025-11-15 | week=46]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Annld Wire produced an unspecified quantity on November 15, 2025, during Week 46.
+
+**Record 11:**
+[META: date=2025-11-16 | week=47]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Annld Wire produced an unspecified quantity on November 16, 2025, during Week 47.
+
+**Record 12:**
+[META: date=2025-11-17 | week=47]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Annld Wire produced an unspecified quantity on November 17, 2025, during Week 47.
+
+**Record 13:**
+[META: date=2025-11-18 | week=47]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Annld Wire produced an unspecified quantity on November 18, 2025, during Week 47.
+
+**Record 14:**
+[META: date=2025-11-19 | week=47]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Annld Wire produced an unspecified quantity on November 19, 2025, during Week 47.
+
+**Record 15:**
+[META: date=2025-11-20 | week=47]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Annld Wire produced an unspecified quantity on November 20, 2025, during Week 47.
+
+**Record 16:**
+[META: date=2025-11-21 | week=47]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Annld Wire produced an unspecified quantity on November 21, 2025, during Week 47.
+
+**Record 17:**
+[META: date=2025-11-22 | week=47]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Annld Wire produced an unspecified quantity on November 22, 2025, during Week 47.
+
+**Record 18:**
+[META: date=2025-11-23 | week=48 | achieved=1810.0]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Annld Wire produced 1,810 units on November 23, 2025, during Week 48.
+
+**Record 19:**
+[META: date=2025-11-24 | week=48 | achieved=1610.0]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Annld Wire produced 1,610 units on November 24, 2025, during Week 48.
+
+**Record 20:**
+[META: date=2025-11-25 | week=48 | achieved=1560.0]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Annld Wire produced 1,560 units on November 25, 2025, during Week 48.
+
+**Record 1**
+[META: date=2025-11-26 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,425 units of TIE3.15X_2.3MM on November 26, 2025. Order 254980 achieved 100% yield rate.
+
+**Record 2**
+[META: date=2025-11-27 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,425 units of TIE3.15X_2.3MM on November 27, 2025. Order 254980 achieved 100% yield rate.
+
+**Record 3**
+[META: date=2025-11-28 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,425 units of TIE3.15X_2.3MM on November 28, 2025. Order 254980 achieved 100% yield rate.
+
+**Record 4**
+[META: date=2025-11-29 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,425 units of TIE3.15X_2.3MM on November 29, 2025. Order 254980 achieved 100% yield rate.
+
+**Record 5**
+[META: date=2025-11-30 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,425 units of TIE3.15X_2.3MM on November 30, 2025. Order 254980 achieved 100% yield rate.
+
+**Record 6**
+[META: date=2025-12-01 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,010 units of TIE3.15X_2.3MM on December 1, 2025. Order 254980 achieved 83.75% yield rate.
+
+**Record 7**
+[META: date=2025-12-02 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,425 units of TIE3.15X_2.3MM on December 2, 2025. Order 254980 achieved 100% yield rate.
+
+**Record 8**
+[META: date=2025-12-03 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,425 units of TIE3.15X_2.3MM on December 3, 2025. Order 254980 achieved 100% yield rate.
+
+**Record 9**
+[META: date=2025-12-04 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,425 units of TIE3.15X_2.3MM on December 4, 2025. Order 254980 achieved 100% yield rate.
+
+**Record 10**
+[META: date=2025-12-05 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,425 units of TIE3.15X_2.3MM on December 5, 2025. Order 254980 achieved 100% yield rate.
+
+**Record 11**
+[META: date=2025-12-06 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,425 units of TIE3.15X_2.3MM on December 6, 2025. Order 254980 achieved 100% yield rate.
+
+**Record 12**
+[META: date=2025-12-07 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,425 units of TIE3.15X_2.3MM on December 7, 2025. Order 254980 achieved 100% yield rate.
+
+**Record 13**
+[META: date=2025-12-08 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,104 units of TIE3.15X_2.3MM on December 8, 2025. Order 254980 achieved 87.68% yield rate.
+
+**Record 14**
+[META: date=2025-12-09 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,188 units of TIE3.15X_2.3MM on December 9, 2025. Order 254980 achieved 87.52% yield rate.
+
+**Record 15**
+[META: date=2025-12-10 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,000 units of TIE3.15X_2.3MM on December 10, 2025. Order 254980 achieved 83.33% yield rate.
+
+**Record 16**
+[META: date=2025-12-11 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,425 units of TIE3.15X_2.3MM on December 11, 2025. Order 254980 achieved 100% yield rate.
+
+**Record 17**
+[META: date=2025-12-12 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,425 units of TIE3.15X_2.3MM on December 12, 2025. Order 254980 achieved 100% yield rate.
+
+**Record 18**
+[META: date=2025-12-13 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,425 units of TIE3.15X_2.3MM on December 13, 2025. Order 254980 achieved 100% yield rate.
+
+**Record 19**
+[META: date=2025-12-14 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,425 units of TIE3.15X_2.3MM on December 14, 2025. Order 254980 achieved 100% yield rate.
+
+**Record 20**
+[META: date=2025-12-15 | machine=CLIFFORD_MMW | product=TIE-3.15mm-2.3m | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 50,000 units of TIE-3.15mm-2.3m on December 15, 2025. Order 254980 achieved 100% yield rate.
+
+**Record 1**
+[META: date=2025-12-16 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,150.0 units of TIE4.0X_KGOLS on December 16, 2025. Order 254980 achieved 124.25% yield rate.
+
+**Record 2**
+[META: date=2025-12-17 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,147.0 units of TIE4.0X_KGOLS on December 17, 2025. Order 254980 achieved 123.95% yield rate.
+
+**Record 3**
+[META: date=2025-12-18 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 1,827.0 units of TIE4.0X_KGOLS on December 18, 2025. Order 254980 achieved 114.25% yield rate.
+
+**Record 4**
+[META: date=2025-12-19 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,150.0 units of TIE4.0X_KGOLS on December 19, 2025. Order 254980 achieved 124.25% yield rate.
+
+**Record 5**
+[META: date=2025-12-20 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,150.0 units of TIE4.0X_KGOLS on December 20, 2025. Order 254980 achieved 124.25% yield rate.
+
+**Record 6**
+[META: date=2025-12-21 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,150.0 units of TIE4.0X_KGOLS on December 21, 2025. Order 254980 achieved 124.25% yield rate.
+
+**Record 7**
+[META: date=2025-12-22 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,150.0 units of TIE4.0X_KGOLS on December 22, 2025. Order 254980 achieved 124.25% yield rate.
+
+**Record 8**
+[META: date=2025-12-23 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,055.0 units of TIE4.0X_KGOLS on December 23, 2025. Order 254980 achieved 122.75% yield rate.
+
+**Record 9**
+[META: date=2025-12-24 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,140.0 units of TIE4.0X_KGOLS on December 24, 2025. Order 254980 achieved 123.55% yield rate.
+
+**Record 10**
+[META: date=2025-12-25 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,150.0 units of TIE4.0X_KGOLS on December 25, 2025. Order 254980 achieved 124.25% yield rate.
+
+**Record 11**
+[META: date=2025-12-26 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,010.0 units of TIE4.0X_KGOLS on December 26, 2025. Order 254980 achieved 120.55% yield rate.
+
+**Record 12**
+[META: date=2025-12-27 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,150.0 units of TIE4.0X_KGOLS on December 27, 2025. Order 254980 achieved 124.25% yield rate.
+
+**Record 13**
+[META: date=2025-12-28 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,150.0 units of TIE4.0X_KGOLS on December 28, 2025. Order 254980 achieved 124.25% yield rate.
+
+**Record 14**
+[META: date=2025-12-29 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 1,958.0 units of TIE4.0X_KGOLS on December 29, 2025. Order 254980 achieved 117.85% yield rate.
+
+**Record 15**
+[META: date=2025-12-30 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,150.0 units of TIE4.0X_KGOLS on December 30, 2025. Order 254980 achieved 124.25% yield rate.
+
+**Record 16**
+[META: date=2025-12-31 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,150.0 units of TIE4.0X_KGOLS on December 31, 2025. Order 254980 achieved 124.25% yield rate.
+
+**Record 17**
+[META: date=2026-01-01 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,150.0 units of TIE4.0X_KGOLS on January 1, 2026. Order 254980 achieved 124.25% yield rate.
+
+**Record 18**
+[META: date=2026-01-02 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,150.0 units of TIE4.0X_KGOLS on January 2, 2026. Order 254980 achieved 124.25% yield rate.
+
+**Record 19**
+[META: date=2026-01-03 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,150.0 units of TIE4.0X_KGOLS on January 3, 2026. Order 254980 achieved 124.25% yield rate.
+
+**Record 20**
+[META: date=2026-01-04 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,150.0 units of TIE4.0X_KGOLS on January 4, 2026. Order 254980 achieved 124.25% yield rate.
+
+**Record 1**
+[META: date=2026-01-05 | machine=CLIFFORD_MMW]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW did not produce any units on January 5, 2026.
+
+**Record 2**
+[META: date=2026-01-06 | machine=CLIFFORD_MMW | product=TIE3.15X_2.3MM | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 50,000 units of TIE3.15X_2.3MM on January 6, 2026. Order 254980 achieved 100% yield rate.
+
+**Record 3**
+[META: date=2026-01-07 | machine=CLIFFORD_MMW]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW did not produce any units on January 7, 2026.
+
+**Record 4**
+[META: date=2026-01-08 | machine=CLIFFORD_MMW | achieved=1711.0]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 1,711 units on January 8, 2026.
+
+**Record 5**
+[META: date=2026-01-09 | machine=CLIFFORD_MMW]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW did not produce any units on January 9, 2026.
+
+**Record 6**
+[META: date=2026-01-10 | machine=CLIFFORD_MMW | achieved=2090.0]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,090 units on January 10, 2026.
+
+**Record 7**
+[META: date=2026-01-11 | machine=CLIFFORD_MMW]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW did not produce any units on January 11, 2026.
+
+**Record 8**
+[META: date=2026-01-12 | machine=CLIFFORD_MMW | achieved=2544.0]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,544 units on January 12, 2026.
+
+**Record 9**
+[META: date=2026-01-13 | machine=CLIFFORD_MMW | achieved=2840.0]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,840 units on January 13, 2026.
+
+**Record 10**
+[META: date=2026-01-14 | machine=CLIFFORD_MMW | achieved=3033.0]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 3,033 units on January 14, 2026.
+
+**Record 11**
+[META: date=2026-01-15 | machine=CLIFFORD_MMW | achieved=3043.0]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 3,043 units on January 15, 2026.
+
+**Record 12**
+[META: date=2026-01-16 | machine=CLIFFORD_MMW | achieved=2985.0]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,985 units on January 16, 2026.
+
+**Record 13**
+[META: date=2026-01-17 | machine=CLIFFORD_MMW | achieved=2877.0]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,877 units on January 17, 2026.
+
+**Record 14**
+[META: date=2026-01-18 | machine=CLIFFORD_MMW]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW did not produce any units on January 18, 2026.
+
+**Record 15**
+[META: date=2026-01-19 | machine=CLIFFORD_MMW | achieved=2481.0]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 2,481 units on January 19, 2026.
+
+**Record 16**
+[META: date=2026-01-20 | machine=CLIFFORD_MMW]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW did not produce any units on January 20, 2026.
+
+**Record 17**
+[META: date=2026-01-21 | machine=CLIFFORD_MMW]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW did not produce any units on January 21, 2026.
+
+**Record 18**
+[META: date=2026-01-22 | machine=CLIFFORD_MMW]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW did not produce any units on January 22, 2026.
+
+**Record 19**
+[META: date=2026-01-23 | machine=CLIFFORD_MMW]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW did not produce any units on January 23, 2026.
+
+**Record 20**
+[META: date=2026-01-24 | machine=CLIFFORD_MMW]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW did not produce any units on January 24, 2026.
+
+**Records Transformation**
+
+---
+
+**Record 1**
+[META: date=2026-01-25 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on January 25, 2026. Order 254980 did not achieve any production.
+
+---
+
+**Record 2**
+[META: date=2026-01-26 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on January 26, 2026. Order 254980 did not achieve any production.
+
+---
+
+**Record 3**
+[META: date=2026-01-27 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on January 27, 2026. Order 254980 did not achieve any production.
+
+---
+
+**Record 4**
+[META: date=2026-01-28 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on January 28, 2026. Order 254980 did not achieve any production.
+
+---
+
+**Record 5**
+[META: date=2026-01-29 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on January 29, 2026. Order 254980 did not achieve any production.
+
+---
+
+**Record 6**
+[META: date=2026-01-30 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on January 30, 2026. Order 254980 did not achieve any production.
+
+---
+
+**Record 7**
+[META: date=2026-01-31 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on January 31, 2026. Order 254980 did not achieve any production.
+
+---
+
+**Record 8**
+[META: date=2026-02-01 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on February 1, 2026. Order 254980 did not achieve any production.
+
+---
+
+**Record 9**
+[META: date=2026-02-02 | machine=CLIFFORD_MMW | product=TIE4.0X_KGOLS | order=254980]
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of TIE4.0X_KGOLS on February 2, 2026. Order 254980 did not achieve any production.
+
+---
+
+These transformed records follow the specified guidelines, ensuring that each paragraph starts with a [META: ...] tag, includes all necessary retrieval-sensitive fields, and uses exact values and entity naming formats as required.

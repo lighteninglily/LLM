@@ -1,0 +1,999 @@
+A.B.STEEL SUPPLIES placed order W45 for 50x50x2400x1200x4mm Industrial Mesh IMG4-22-2412 on May 2025. The order quantity was 425 units for delivery to A.B.STEEL SUPPLIES (MC0002).
+
+A.B.STEEL SUPPLIES placed order W46 for 50x50x2400x1200x4mm Industrial Mesh IMG4-22-2412 on May 2025. The order quantity was 50 units for delivery to A.B.STEEL SUPPLIES (MC0002).
+
+A.B.STEEL SUPPLIES placed order W47 for 50x75x2400x1200x4mm Industrial Mesh IMG4-23-2412 on April 2025. The order quantity was 44 units for delivery to A.B.STEEL SUPPLIES (MC0002).
+
+A.B.STEEL SUPPLIES placed order W48 for 100x100x2400x1200x4mm Galvanized Mesh IMG4-44-2412 on April 2025. The order quantity was 25 units for delivery to A.B.STEEL SUPPLIES (MC0002).
+
+A.B.STEEL SUPPLIES placed order W49 for 25x25x2400x1200x2.5mm Industrial Mesh IMG2H-11-2412 on April 2025. The order quantity was 50 units for delivery to A.B.STEEL SUPPLIES (MC0002).
+
+A.B.STEEL SUPPLIES placed order W50 for 50x75x3000x2400x4mm Industrial Mesh IMG4-23-3024 on October 2025. The order quantity was 8 units for delivery to A.B.STEEL SUPPLIES (MC0002).
+
+A.B.STEEL SUPPLIES placed order W51 for 100x200x4.1x1.1x5mm Welded Mesh IMG5-48-4111 on May 2025. The order quantity was 90 units for delivery to A.B.STEEL SUPPLIES (MC0002). An additional 50 units were delivered in July 2025, and another 50 units in October 2025.
+
+AAA METAL RECYCLING placed order W36 for Scrap on September 2025. The order quantity was 1 unit for delivery to AAA METAL RECYCLING (MC0003).
+
+AAA METAL RECYCLING placed order W37 for Scrap on September 2025. The order quantity was 1 unit for delivery to AAA METAL RECYCLING (MC0003).
+
+AAA METAL RECYCLING placed order W38 for Scrap on September 2025. The order quantity was 1 unit for delivery to AAA METAL RECYCLING (MC0003).
+
+ABROLHOS STEEL placed order W40 for Freight Out Charge on March 2025. The order quantity was 1 unit for delivery to ABROLHOS STEEL (MC0004).
+
+ABROLHOS STEEL placed order W41 for Freight Out Charge on March 2025. The order quantity was 1 unit for delivery to ABROLHOS STEEL (MC0004).
+
+ABROLHOS STEEL placed order W42 for Freight Out Charge on March 2025. The order quantity was 1 unit for delivery to ABROLHOS STEEL (MC0004).
+
+ABROLHOS STEEL placed order W43 for Freight Out Charge on March 2025. The order quantity was 1 unit for delivery to ABROLHOS STEEL (MC0004).
+
+ABROLHOS STEEL placed order W44 for Freight Out Charge on March 2025. The order quantity was 1 unit for delivery to ABROLHOS STEEL (MC0004).
+
+ABROLHOS STEEL placed order W45 for 50x50x2400x1200x4mm Industrial Mesh IMG4-22-2412 on May 2025. The order quantity was 25 units for delivery to ABROLHOS STEEL (MC0004).
+
+ABROLHOS STEEL placed order W46 for 50x75x2400x1200x4mm Industrial Mesh IMG4-23-2412 on May 2025. The order quantity was 25 units for delivery to ABROLHOS STEEL (MC0004).
+
+ABROLHOS STEEL placed order W47 for 25x25x3000x2400x2.5mm Industrial Mesh IMG2H-11-3024 on May 2025. The order quantity was 25 units for delivery to ABROLHOS STEEL (MC0004).
+
+ABROLHOS STEEL placed order W48 for 50x50x3000x2400x4mm Welded Mesh IMG4-22-3024 on May 2025. The order quantity was 25 units for delivery to ABROLHOS STEEL (MC0004).
+
+ABROLHOS STEEL placed order W49 for 25x25x2400x1200x3.15mm Industrial Mesh IMG3H-11-2412 on February 2025. The order quantity was 25 units for delivery to ABROLHOS STEEL (MC0004).
+
+ABROLHOS STEEL placed order W50 for 25x25x3000x2400x3.15 Ind Mesh IMG3H-11-3024 on February 2025. The order quantity was 5 units for delivery to ABROLHOS STEEL (MC0004).
+
+ABROLHOS STEEL placed order W51 for 100x150x30mx1100x5 Shpyrd Coil IMG5-46-1100C30 on February 2025. The order quantity was 3 units for delivery to ABROLHOS STEEL (MC0004).
+
+ABROLHOS STEEL placed order W52 for 100x150x6000x900x5 Sheepyard IMG5-46-6009 on May 2025. The order quantity was 25 units for delivery to ABROLHOS STEEL (MC0004).
+
+ABROLHOS STEEL placed order for SYARD601110155G (100x150x6000x1100x5 Sheepyard) with a sales quantity of 2025.5, 2025.7, 2025.9, No.15, No.26, No.33, all in quantities of 25 units each.
+
+ABSOLUTE TRAILERS placed order for SMF24120505004G (50x50x2400x1200x4mm Ind Mesh) with a sales quantity of 2025.11, MTD in quantities of 35 units.
+
+ABSOLUTE TRAILERS placed order for SMF241205075004G (50x75x2400x1200x4mm Ind Mesh) with a sales quantity of 2025.9, MTD-2.2 in quantities of 20 units.
+
+ABSOLUTE TRAILERS placed order for SMF241207575004G (75x75x2400x1200x4mm Ind Mesh) with a sales quantity of 2025.8, 2025.9, No.29, MTD-2.2 in quantities of 10 units each.
+
+ABSOLUTE TRAILERS placed order for SMF241210010004G (100x100x2400x1200x4mm Gal Mesh) with a sales quantity of 2025.9, 2025.11, MTD-2.2, MTD in quantities of 10, 20, 10 units respectively.
+
+ABSOLUTE TRAILERS placed order for SMF30240505004G (50x50x3000x2400x4mm Weld Mesh) with a sales quantity of 2025.9, 2025.11, MTD-2.2, MTD in quantities of 5, 10, 5, 10 units respectively.
+
+ABSOLUTE TRAILERS placed order for SMF30240575005G (50x75x3000x2400x5 Ind Mesh) with a sales quantity of 2025.9, MTD-2.2 in quantities of 25 units.
+
+ABSOLUTE TRAILERS placed order for SYARD600910155G (100x150x6000x900x5 Sheepyard) with a sales quantity of 2025.8, No.29 in quantities of 20 units each.
+
+ABSOLUTE TRAILERS placed order for SYARD601110155G (100x150x6000x1100x5 Sheepyard) with a sales quantity of 2025.8, No.29 in quantities of 20 units each.
+
+AFD CONTRACTING placed order for MP242404G (358 Panels 2.4m x 2.4m IMZG4-305-2424) with a sales quantity of 2025.2, 2025.11, No.5, MTD.2 in quantities of 6, 45, 6, 45 units respectively.
+
+AFD CONTRACTING placed order for MP352404G (358 PANEL 3.5M X 2.4M IMZG4-305-3524) with a sales quantity of 2025.10, MTD-1.1 in quantities of 11 units.
+
+AFD CONTRACTING placed order for MP362404G (358 Panels 3.6m x 2.4m IMZG4-305-3624) with a sales quantity of 2025.4, 2025.5, No.12, No.19, MTD.2 in quantities of 6, 45, 6, 45 units respectively.
+
+AFD CONTRACTING placed order for MP422404G (358 PANEL 4.2M X 2.4M IMZG4-305-4224) with a sales quantity of 2025.10, MTD-1.2 in quantities of 24 units.
+
+AFD CONTRACTING placed order for MP432404G (358 PANEL 4.3M X 2.4M IMZG4-305-4324) with a sales quantity of 2025.10, MTD-1.1 in quantities of 10 units.
+
+AFD CONTRACTING placed order for MP452404G (358 Panels 4.5m x 2.4m IMZG4-305-4524) with a sales quantity of 2025.4, 2025.5, 2025.6, 2025.7, 2025.8, 2025.10, 2025.11, No.12, No.15, No.23, No.28, No.34, MTD-3.1, MTD-1.1, MTD-1.2, MTD.2 in quantities of 15, 2, 10, 30, 1, 74, 30, 15, 2, 10, 30, 17, 1, 43, 14, 30 units respectively.
+
+AFD CONTRACTING placed order for MP462404G (358 Mesh 4.6m x 2.4m IMZG4-305-4624) with a sales quantity of 2025.9, 2025.10, 2025.11, MTD-1.2, MTD-2, MTD.2 in quantities of 26, 10, 10, 10, 26, 10 units respectively.
+
+AFD CONTRACTING placed order for MP602404G (358 Panels 6m x 2.4m IMZG4-305-6024) with a sales quantity of 2025.2, No.3 in quantities of 37 units.
+
+AFD CONTRACTING placed order for MP60H204HG (358 Panels 6.4m x 2.395m IMZG4-305H-64H24H) with a sales quantity of 2025.2, No.3 in quantities of 43 units.
+
+AFD CONTRACTING placed order for MP642404G (358 Mesh 6.4m x 2.4m IMZG4-305-6424) with a sales quantity of 2025.8, 2025.9, No.31, MTD-2 in quantities of 21, 13, 21, 13 units respectively.
+
+ALLORA INDEPENDENT STEEL PTY LTD placed order for 4FREIGHT (Freight Out Charge) with a sales quantity of 2025.2, No.4 in quantities of 1 unit.
+
+ALLORA INDEPENDENT STEEL PTY LTD placed order No.4 for D500LSL72 Square Mesh 6x2.4 D500LSL72, with a sales quantity of 582 units in 2025. The order was also recorded as No.4 for 582 units.
+
+ALLORA INDEPENDENT STEEL PTY LTD placed order No.2 for SMF2H302402525G, 25x25x3000x2400x2.5mm Ind Mesh IMG2H-11-3024, with a sales quantity of 50 units in 2025. The order was also recorded as MTD-3.1 for 50 units.
+
+ALLORA INDEPENDENT STEEL PTY LTD placed order No.3 for SMF30240505004G, 50x50x3000x2400x4mm Weld Mesh IMG4-22-3024, with a sales quantity of 50 units in 2025. The order was also recorded as 2025.3, 2025.9, No.7, and MTD-2.3 for 50 units.
+
+ALLORA INDEPENDENT STEEL PTY LTD placed order No.24 for SMF30240507504G, 50x75x3000x2400x4mm Ind Mesh IMG4-23-3024, with a sales quantity of 50 units in 2025. The order was also recorded as No.24 for 50 units.
+
+ALLORA INDEPENDENT STEEL PTY LTD placed order No.20 for SMF3H24122525G, 25x25x2400x1200x3.15mm Ind Mes IMG3H-11-2412, with a sales quantity of 50 units in 2025. The order was also recorded as No.20 for 50 units.
+
+ALLORA INDEPENDENT STEEL PTY LTD placed order No.26 for SMF3H30242525G, 25x25x3000x2400x3.15 Ind Mesh IMG3H-11-3024, with a sales quantity of 50 units in 2025. The order was also recorded as MTD-3.1 for 50 units.
+
+ALLORA INDEPENDENT STEEL PTY LTD placed order No.33 for SYARD600910155G, 100x150x6000x900x5 Sheepyard IMG5-46-6009, with a sales quantity of 100 units in 2025. The order was also recorded as MTD-3.1 for 100 units.
+
+ALLOY STEEL AUS (INT) P/L placed order No.26 for CW500L4, 4.0mm Bright Wire In Coils R500L4.0-Coils, with a sales quantity of 2 units in 2025. The order was also recorded as No.26 for 2 units.
+
+AQUARISU PRECAST PTY LTD placed order No.33 for D500N12X6M, 12MM Ribbed Reinforcing Bar 6M D500N12-6M, with a sales quantity of 4 units in 2025. The order was also recorded as No.33 for 4 units.
+
+AQUARISU PRECAST PTY LTD placed order No.6 for SROLL1800C60, Mesh Rolls 1800x60m IMB4-44-18C60, with a sales quantity of 5 units in 2025. The order was also recorded as 2025.3, 2025.5, 2025.9, No.6, No.33 for 5 units.
+
+ARMADALE STEEL & INDUSTRIAL SUPPLIES placed order No.12 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as 2025.4, 2025.5, 2025.8, No.12 for 1 unit.
+
+ARMADALE STEEL & INDUSTRIAL SUPPLIES placed order No.15 for 4SCRAP, Scrap, with a sales quantity of 100 units in 2025. The order was also recorded as MTD-3.2 for 100 units.
+
+ARMADALE STEEL & INDUSTRIAL SUPPLIES placed order No.12 for SMF24120505004G, 50x50x2400x1200x4mm Ind Mesh IMG4-22-2412, with a sales quantity of 200 units in 2025. The order was also recorded as 2025.4, 2025.5, 2025.8, No.12 for 200 units.
+
+ARMADALE STEEL & INDUSTRIAL SUPPLIES placed order No.15 for SMF2H241202525G, 25x25x2400x1200x2.5mm Ind Mesh IMG2H-11-2412, with a sales quantity of 100 units in 2025. The order was also recorded as MTD-3.2 for 100 units.
+
+ASW CASH placed order No.14 for 4ASWMISC, ASW MISCELLANEOUS SALES, with a sales quantity of 1 unit in 2025. The order was also recorded as No.14 for 1 unit.
+
+ASW CASH placed order No.3 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.3 for 1 unit.
+
+ASW CASH placed order No.4 for 4FREIGHT, Freight Out Charge, with a sales quantity of 4 units in 2025. The order was also recorded as No.4 for 4 units.
+
+ASW CASH placed order No.5 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.5 for 1 unit.
+
+ASW CASH placed order No.6 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.6 for 1 unit.
+
+ASW CASH placed order No.7 for 4FREIGHT, Freight Out Charge, with a sales quantity of 2 units in 2025. The order was also recorded as No.7 for 2 units.
+
+ASW CASH placed order No.8 for 4FREIGHT, Freight Out Charge, with a sales quantity of 2 units in 2025. The order was also recorded as No.8 for 2 units.
+
+ASW CASH placed order No.9 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.9 for 1 unit.
+
+ASW CASH placed order No.10 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.10 for 1 unit.
+
+ASW CASH placed order No.11 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.11 for 1 unit.
+
+ASW CASH placed order No.12 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.12 for 1 unit.
+
+ASW CASH placed order No.13 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.13 for 1 unit.
+
+ASW CASH placed order No.14 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.14 for 1 unit.
+
+ASW CASH placed order No.15 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.15 for 1 unit.
+
+ASW CASH placed order No.16 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.16 for 1 unit.
+
+ASW CASH placed order No.17 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.17 for 1 unit.
+
+ASW CASH placed order No.18 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.18 for 1 unit.
+
+ASW CASH placed order No.19 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.19 for 1 unit.
+
+ASW CASH placed order No.20 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.20 for 1 unit.
+
+ASW CASH placed order No.21 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.21 for 1 unit.
+
+ASW CASH placed order No.22 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.22 for 1 unit.
+
+ASW CASH placed order No.23 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.23 for 1 unit.
+
+ASW CASH placed order No.24 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.24 for 1 unit.
+
+ASW CASH placed order No.25 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.25 for 1 unit.
+
+ASW CASH placed order No.26 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.26 for 1 unit.
+
+ASW CASH placed order No.27 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.27 for 1 unit.
+
+ASW CASH placed order No.28 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.28 for 1 unit.
+
+ASW CASH placed order No.29 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.29 for 1 unit.
+
+ASW CASH placed order No.30 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.30 for 1 unit.
+
+ASW CASH placed order No.31 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.31 for 1 unit.
+
+ASW CASH placed order No.32 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.32 for 1 unit.
+
+ASW CASH placed order No.33 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.33 for 1 unit.
+
+ASW CASH placed order No.34 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.34 for 1 unit.
+
+ASW CASH placed order No.35 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.35 for 1 unit.
+
+ASW CASH placed order No.36 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.36 for 1 unit.
+
+ASW CASH placed order No.37 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.37 for 1 unit.
+
+ASW CASH placed order No.38 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.38 for 1 unit.
+
+ASW CASH placed order No.39 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.39 for 1 unit.
+
+ASW CASH placed order No.40 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.40 for 1 unit.
+
+ASW CASH placed order No.41 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.41 for 1 unit.
+
+ASW CASH placed order No.42 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.42 for 1 unit.
+
+ASW CASH placed order No.43 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.43 for 1 unit.
+
+ASW CASH placed order No.44 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.44 for 1 unit.
+
+ASW CASH placed order No.45 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.45 for 1 unit.
+
+ASW CASH placed order No.46 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.46 for 1 unit.
+
+ASW CASH placed order No.47 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.47 for 1 unit.
+
+ASW CASH placed order No.48 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.48 for 1 unit.
+
+ASW CASH placed order No.49 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.49 for 1 unit.
+
+ASW CASH placed order No.50 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.50 for 1 unit.
+
+ASW CASH placed order No.51 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.51 for 1 unit.
+
+ASW CASH placed order No.52 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.52 for 1 unit.
+
+ASW CASH placed order No.53 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.53 for 1 unit.
+
+ASW CASH placed order No.54 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.54 for 1 unit.
+
+ASW CASH placed order No.55 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.55 for 1 unit.
+
+ASW CASH placed order No.56 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.56 for 1 unit.
+
+ASW CASH placed order No.57 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.57 for 1 unit.
+
+ASW CASH placed order No.58 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.58 for 1 unit.
+
+ASW CASH placed order No.59 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.59 for 1 unit.
+
+ASW CASH placed order No.60 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.60 for 1 unit.
+
+ASW CASH placed order No.61 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.61 for 1 unit.
+
+ASW CASH placed order No.62 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.62 for 1 unit.
+
+ASW CASH placed order No.63 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.63 for 1 unit.
+
+ASW CASH placed order No.64 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.64 for 1 unit.
+
+ASW CASH placed order No.65 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.65 for 1 unit.
+
+ASW CASH placed order No.66 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.66 for 1 unit.
+
+ASW CASH placed order No.67 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.67 for 1 unit.
+
+ASW CASH placed order No.68 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.68 for 1 unit.
+
+ASW CASH placed order No.69 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.69 for 1 unit.
+
+ASW CASH placed order No.70 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.70 for 1 unit.
+
+ASW CASH placed order No.71 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.71 for 1 unit.
+
+ASW CASH placed order No.72 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.72 for 1 unit.
+
+ASW CASH placed order No.73 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.73 for 1 unit.
+
+ASW CASH placed order No.74 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.74 for 1 unit.
+
+ASW CASH placed order No.75 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.75 for 1 unit.
+
+ASW CASH placed order No.76 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.76 for 1 unit.
+
+ASW CASH placed order No.77 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.77 for 1 unit.
+
+ASW CASH placed order No.78 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.78 for 1 unit.
+
+ASW CASH placed order No.79 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.79 for 1 unit.
+
+ASW CASH placed order No.80 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.80 for 1 unit.
+
+ASW CASH placed order No.81 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.81 for 1 unit.
+
+ASW CASH placed order No.82 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.82 for 1 unit.
+
+ASW CASH placed order No.83 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.83 for 1 unit.
+
+ASW CASH placed order No.84 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.84 for 1 unit.
+
+ASW CASH placed order No.85 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.85 for 1 unit.
+
+ASW CASH placed order No.86 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.86 for 1 unit.
+
+ASW CASH placed order No.87 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.87 for 1 unit.
+
+ASW CASH placed order No.88 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.88 for 1 unit.
+
+ASW CASH placed order No.89 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.89 for 1 unit.
+
+ASW CASH placed order No.90 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.90 for 1 unit.
+
+ASW CASH placed order No.91 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.91 for 1 unit.
+
+ASW CASH placed order No.92 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.92 for 1 unit.
+
+ASW CASH placed order No.93 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.93 for 1 unit.
+
+ASW CASH placed order No.94 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.94 for 1 unit.
+
+ASW CASH placed order No.95 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.95 for 1 unit.
+
+ASW CASH placed order No.96 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.96 for 1 unit.
+
+ASW CASH placed order No.97 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.97 for 1 unit.
+
+ASW CASH placed order No.98 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.98 for 1 unit.
+
+ASW CASH placed order No.99 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.99 for 1 unit.
+
+ASW CASH placed order No.100 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.100 for 1 unit.
+
+ASW CASH placed order No.101 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.101 for 1 unit.
+
+ASW CASH placed order No.102 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.102 for 1 unit.
+
+ASW CASH placed order No.103 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.103 for 1 unit.
+
+ASW CASH placed order No.104 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.104 for 1 unit.
+
+ASW CASH placed order No.105 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.105 for 1 unit.
+
+ASW CASH placed order No.106 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.106 for 1 unit.
+
+ASW CASH placed order No.107 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.107 for 1 unit.
+
+ASW CASH placed order No.108 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.108 for 1 unit.
+
+ASW CASH placed order No.109 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.109 for 1 unit.
+
+ASW CASH placed order No.110 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.110 for 1 unit.
+
+ASW CASH placed order No.111 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.111 for 1 unit.
+
+ASW CASH placed order No.112 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.112 for 1 unit.
+
+ASW CASH placed order No.113 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.113 for 1 unit.
+
+ASW CASH placed order No.114 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.114 for 1 unit.
+
+ASW CASH placed order No.115 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.115 for 1 unit.
+
+ASW CASH placed order No.116 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.116 for 1 unit.
+
+ASW CASH placed order No.117 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.117 for 1 unit.
+
+ASW CASH placed order No.118 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.118 for 1 unit.
+
+ASW CASH placed order No.119 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.119 for 1 unit.
+
+ASW CASH placed order No.120 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.120 for 1 unit.
+
+ASW CASH placed order No.121 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.121 for 1 unit.
+
+ASW CASH placed order No.122 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.122 for 1 unit.
+
+ASW CASH placed order No.123 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.123 for 1 unit.
+
+ASW CASH placed order No.124 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.124 for 1 unit.
+
+ASW CASH placed order No.125 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.125 for 1 unit.
+
+ASW CASH placed order No.126 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.126 for 1 unit.
+
+ASW CASH placed order No.127 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.127 for 1 unit.
+
+ASW CASH placed order No.128 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.128 for 1 unit.
+
+ASW CASH placed order No.129 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.129 for 1 unit.
+
+ASW CASH placed order No.130 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.130 for 1 unit.
+
+ASW CASH placed order No.131 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.131 for 1 unit.
+
+ASW CASH placed order No.132 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.132 for 1 unit.
+
+ASW CASH placed order No.133 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.133 for 1 unit.
+
+ASW CASH placed order No.134 for 4FREIGHT, Freight Out Charge, with a sales quantity of 1 unit in 2025. The order was also recorded as No.134 for 1 unit.
+
+ASW CASH placed order No.135 for 4FREIGHT, Freight
+
+ASW CASH placed order No.8 for 100x100x3000x2400x5.6 Ind Mesh P IMG5H-44-3024_JEN on January 15, 2025. The order quantity was 1 unit.
+
+ASW CASH placed order No.6 for MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN on January 15, 2025. The order quantity was 17 units in 2025.3 and 25 units in 2025.6.
+
+ASW CASH placed order No.16 for Spider Clamps 12.5mm CFPCLAMPS-12.5 on January 15, 2025. The order quantity was 100 units.
+
+ASW CASH placed order No.2 for Galve Wire 5mm COILGW5 on January 15, 2025. The order quantity was 2 units in 2025.11 and 2 units in MTD.2.
+
+ASW CASH placed order No.12 for 6.0mm Ribbed Wire in Spools D500L6.0-Spools on January 15, 2025. The order quantity was 3.045 units in 2025.10 and 4.036 units in 2025.11. The machine produced 0.995 units in MTD-1.1, 2.05 units in MTD-1.2, and 4.036 units in MTD.1.
+
+ASW CASH placed order No.12 for SL81 Square Mesh D500SL81 on January 15, 2025. The order quantity was 1 unit.
+
+ASW CASH placed order No.4 for 358 Panels 2.4m x 2.4m IMZG4-305-2424 on January 15, 2025. The order quantity was 5 units in 2025.2, 13 units in 2025.4, 1 unit in 2025.5, 29 units in 2025.6, 13 units in 2025.7, 16 units in 2025.9, 3 units in 2025.10, and 13 units in 2025.11. The warehouse holds 100 units in No.16.
+
+ASW CASH placed order No.26 for 358 panels 2.5m x 2.4m IMZG4-305-2524 on January 15, 2025. The order quantity was 1 unit in 2025.7.
+
+ASW CASH placed order No.13 for 358 Panels 3.0m x 2.4m IMZG4-305-3024 on January 15, 2025. The order quantity was 1 unit in 2025.2, 8 units in 2025.4, 1 unit in 2025.5, 40 units in 2025.6, 22 units in 2025.7, 20 units in 2025.8, 22 units in 2025.9, 9 units in 2025.10, 20 units in 2025.11, and 1 unit in 2025.12. The machine produced 20 units in MTD-3.1, 9 units in MTD-1, and 5 units in MTD.
+
+ASW CASH placed order No.7 for 358 Panel 3.1m x 2.4m IMZG4-305-3124 on January 15, 2025. The order quantity was 23 units in 2025.3, 3 units in 2025.5, and 12 units in 2025.6. The machine produced 3 units in No.5, 12 units in No.7, 8 units in No.9, 3 units in No.16, and 12 units in No.21.
+
+ASW CASH placed order No.19 for 358 Panels 3.6m x 2.4m IMZG4-305-3624 on January 15, 2025. The order quantity was 4 units in 2025.5 and 8 units in 2025.11. The machine produced 8 units in MTD.1.
+
+ASW CASH placed order No.9 for 358 Panels 4.5m x 2.4m IMZG4-305-4524 on January 15, 2025. The order quantity was 1 unit in 2025.3 and 1 unit in 2025.5.
+
+ASW CASH placed order No.14 for S&C Rib Wire 6.0x1800mm 500kgs SCN6.0-1800-500kgs on January 15, 2025. The order quantity was 2 units in 2025.4 and 2 units in No.14.
+
+ASW CASH placed order No.14 for S&C Rib Wire 6.0x6000mm 500kgs SCN6.0-6000-500kgs on January 15, 2025. The order quantity was 2 units in 2025.4 and 2 units in No.14.
+
+ASW CASH placed order No.14 for S&C Rib Wire 6.0x7200mm 500kgs SCN6.0-7200-500kgs on January 15, 2025. The order quantity was 4 units in 2025.4 and 4 units in No.14.
+
+ASW CASH placed order No.27 for SL 41 Square Mesh 6X2.4 R500SL41 on January 15, 2025. The order quantity was 10 units in 2025.2 and 25 units in 2025.7. The warehouse holds 10 units in No.4 and 25 units in No.27.
+
+ASW CASH placed order No.8 for 50x50x2000x1200x4mm Ind Mesh IMG4-22-2012 on January 15, 2025. The order quantity was 3 units in 2025.3, 100 units in 2025.6, 30 units in 2025.9, 2 units in 2025.10, and 24 units in 2025.11. The machine produced 30 units in MTD-2.2 and 24 units in MTD.
+
+ASW CASH placed order No.4 for 50x50x2400x1200x4mm Ind Mesh IMG4-22-2412 on January 15, 2025. The order quantity was 35 units in 2025.2, 58 units in 2025.3, 357 units in 2025.4, 50 units in 2025.5, 15 units in 2025.6, 60 units in 2025.7, 40 units in 2025.8, 30 units in 2025.9, 50 units in 2025.10, and 92 units in 2025.11. The machine produced 50 units in MTD-3.2, 30 units in MTD-1, 30 units in MTD-2.1, and 32 units in MTD.
+
+ASW CASH placed order No.20 for 50x50x2400x1200x5 Ind Mesh IMG5-22-2412 on January 15, 2025. The order quantity was 6 units in 2025.6 and 6 units in No.20.
+
+ASW CASH placed order No.3 for 50x75x2400x1200x4mm Ind Mesh IMG4-23-2412 on January 15, 2025. The order quantity was 205 units in 2025.2, 14 units in 2025.3, 6 units in 2025.4, 51 units in 2025.5, and 25 units in 2025.8. The machine produced 3 units in No.3, 202 units in No.4, 4 units in No.5, 10 units in No.7, 6 units in No.12, 24 units in No.15, 8 units in No.16, 19 units in No.17, and 25 units in No.29.
+
+ASW CASH placed order No.18 for SMF24120575005G (50x75x2400x1200x5 Ind Mesh IMG5-23-2412) on January 15, 2025. The order quantity was 1 unit. Sales were recorded in 2025.5, 2025.6, No.18, and No.20, all amounting to 1 unit.
+
+ASW CASH placed order No.3 for SMF24121001004G (100x100x2400x1200x4mm Gal Mesh IMG4-44-2412) on January 15, 2025. The order quantity was 36 units. Sales were recorded in 2025.2, No.3, and No.4, all amounting to 36, 16, and 20 units respectively.
+
+ASW CASH placed order No.24 for SMF2H152402525G (25x25x1475x2375x2.5mm Ind Mesh IMG2H-11-1524) on January 15, 2025. The order quantity was 100 units. Sales were recorded in 2025.6, No.24, and No.32, all amounting to 100 units.
+
+ASW CASH placed order No.10 for SMF2H201202525G (25x25x2000x1200x2.5mm Ind mesh IMG2H-11-2012) on January 15, 2025. The order quantity was 40 units. Sales were recorded in 2025.10, MTD-1.1, and No.24, all amounting to 40 units.
+
+ASW CASH placed order No.6 for SMF2H241202525G (25x25x2400x1200x2.5mm Ind Mesh IMG2H-11-2412) on January 15, 2025. The order quantity was 100 units. Sales were recorded in 2025.3, 2025.4, 2025.5, 2025.6, 2025.8, 2025.9, 2025.11, No.6, No.10, No.12, No.16, No.24, No.29, No.31, No.32, MTD-3, MTD-3.2, and MTD.1, all amounting to 100, 109, 50, 3, 302, 50, 12, 100, 101, 8, 50, 3, 10, 17, 50, 3, 200, 75, 12 units respectively.
+
+ASW CASH placed order No.10 for SMF2H302402525G (25x25x3000x2400x2.5mm Ind Mesh IMG2H-11-3024) on January 15, 2025. The order quantity was 100 units. Sales were recorded in 2025.3, 2025.4, 2025.5, 2025.6, 2025.7, 2025.10, No.8, No.10, No.14, No.17, No.20, No.21, No.24, No.28, MTD-1.1, and MTD-2.2, all amounting to 20, 29, 1, 1, 100, 25, 1, 100, 45, 26, 10, 25, 1, 26, 10, 10, 10 units respectively.
+
+ASW CASH placed order No.18 for SMF30121501004G (150x100x3000x1200x4mm Gal Mesh IMG4-46-3012-DPI) on January 15, 2025. The order quantity was 10 units. Sales were recorded in 2025.5, No.18, and No.29, all amounting to 10 units.
+
+ASW CASH placed order No.4 for SMF30240505004G (50x50x3000x2400x4mm Weld Mesh IMG4-22-3024) on January 15, 2025. The order quantity was 42 units. Sales were recorded in 2025.2, 2025.4, 2025.5, 2025.6, 2025.8, 2025.10, No.3, No.4, No.12, No.14, No.15, No.16, No.18, No.19, No.20, No.29, No.34, MTD-3.1, and MTD-2.2, all amounting to 42, 5, 70, 1, 96, 215, 4, 38, 1, 4, 1, 25, 43, 1, 1, 1, 25, 35, 215, 61 units respectively.
+
+ASW CASH placed order No.7 for SMF30240505005G (50x50x3000x2400x5mm Weld mesh IMG5-22-3024) on January 15, 2025. The order quantity was 4 units. Sales were recorded in 2025.3, 2025.6, 2025.9, 2025.10, No.7, No.23, No.34, MTD-1.1, and MTD-2.2, all amounting to 4, 2, 37, 42, 4, 2, 40, 2, 37, 37 units respectively.
+
+ASW CASH placed order No.13 for SMF30240575005G (50x75x3000x2400x5 Ind Mesh IMG5-23-3024) on January 15, 2025. The order quantity was 40 units. Sales were recorded in 2025.3, 2025.4, 2025.6, 2025.7, 2025.8, 2025.10, 2025.11, No.8, No.13, No.20, No.21, No.23, No.27, MTD-3.2, MTD-1.1, and MTD.2, all amounting to 40, 40, 20, 2, 40, 2, 40, 6, 40, 40, 2, 8, 4, 40, 40, 6, 40, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6, 40, 6,
+
+ASW CASH placed order No.4 for 50 units of 100x200x4600x1500 Ind Mesh IMG5-48-4615 on February 15, 2025. The order quantity for MTD-1.2 was 80 units. The product was shipped to ASW CASH (MC0000) at ASW CASH Warehouse in Newcastle, NSW on March 15, 2025.
+
+ASW CASH placed order No.19 for 24 units of 100x100x2400x1200x5.6 Ind Mesh IMG5H-44-2412 on April 15, 2025. The order quantity for MTD-1.2 was 7 units. The product was shipped to ASW CASH (MC0000) at ASW CASH Warehouse in Newcastle, NSW on May 15, 2025.
+
+ASW CASH placed order No.15 for 2 units of Mesh Rolls 1800x60m IMB4-44-18C60 on June 15, 2025. The product was shipped to ASW CASH (MC0000) at ASW CASH Warehouse in Newcastle, NSW on July 15, 2025.
+
+ASW CASH placed order No.24 for 5 units of 25x25x2400x1200x3mm SS316 IMSS3-11-2412 on August 15, 2025. The order quantity for MTD-3 was 73 units. The product was shipped to ASW CASH (MC0000) at ASW CASH Warehouse in Newcastle, NSW on September 15, 2025.
+
+ASW CASH placed order No.16 for 30 units of 50x50x3x2400x1200x3 SS IMSS3-22-2412 on November 15, 2025. The order quantity for MTD-3.1 was 10 units. The product was shipped to ASW CASH (MC0000) at ASW CASH Warehouse in Newcastle, NSW on December 15, 2025.
+
+ASW CASH placed order No.19 for 7 units of 50x50x2400x1200x4 SS IMSS4-22-2412 on February 15, 2026. The order quantity for MTD-2.1 was 8 units. The product was shipped to ASW CASH (MC0000) at ASW CASH Warehouse in Newcastle, NSW on March 15, 2026.
+
+ASW CASH placed order No.3 for 6 units of 50x50x2400x1200x5mm SS316 IMSS5-22-2412 on April 15, 2026. The product was shipped to ASW CASH (MC0000) at ASW CASH Warehouse in Newcastle, NSW on May 15, 2026.
+
+ASW CASH placed order No.4 for 1 unit of 25x25x2400x1200x2.5mm SS316 IMSS2H-11-2412 on June 15, 2026. The order quantity for MTD-2.1 was 112 units. The product was shipped to ASW CASH (MC0000) at ASW CASH Warehouse in Newcastle, NSW on July 15, 2026.
+
+ASW CASH placed order No.24 for 10 units of 100x150x6000x900x5 Sheepyard IMG5-46-6009 on August 15, 2026. The order quantity for MTD-3 was 28 units. The product was shipped to ASW CASH (MC0000) at ASW CASH Warehouse in Newcastle, NSW on September 15, 2026.
+
+ASW CASH placed order No.3 for 15 units of 100x150x6000x1100x5 Sheepyard IMG5-46-6011 on October 15, 2026. The order quantity for MTD was 30 units. The product was shipped to ASW CASH (MC0000) at ASW CASH Warehouse in Newcastle, NSW on November 15, 2026.
+
+ASW CASH placed order No.3 for 108 units of TG112-10/60/60-4.0M on December 15, 2026. The product was shipped to ASW CASH (MC0000) at ASW CASH Warehouse in Newcastle, NSW on January 15, 2027.
+
+ASW CASH placed order No.25 for 200 units of TG120-12/06/06-1.2M on February 15, 2027. The product was shipped to ASW CASH (MC0000) at ASW CASH Warehouse in Newcastle, NSW on March 15, 2027.
+
+ASW CASH placed order No.25 for 200 units of TG120-12/06/06-1.4M on April 15, 2027. The product was shipped to ASW CASH (MC0000) at ASW CASH Warehouse in Newcastle, NSW on May 15, 2027.
+
+ASW CASH placed order Open for 400 units of TG120-12/60/60-10.0M on June 15, 2027. The product was shipped to ASW CASH (MC0000) at ASW CASH Warehouse in Newcastle, NSW on July 15, 2027.
+
+ASW CASH placed order Open for 62 units of TG120-12/60/60-13.0M on August 15, 2027. The product was shipped to ASW CASH (MC0000) at ASW CASH Warehouse in Newcastle, NSW on September 15, 2027.
+
+ASW CASH placed order No.25 for 620 units of TG120-12/06/06-3.2M on October 15, 2027. The order quantity for MTD-3 was 14 units. The product was shipped to ASW CASH (MC0000) at ASW CASH Warehouse in Newcastle, NSW on November 15, 2027.
+
+ASW CASH placed order No.25 for 220 units of TG120-12/06/06-3.6M on December 15, 2027. The order quantity for MTD-3 was 3 units. The product was shipped to ASW CASH (MC0000) at ASW CASH Warehouse in Newcastle, NSW on January 15, 2028.
+
+ASW CASH placed order No.25 for 220 units of TG120-12/06/06-4.4M on February 15, 2028. The order quantity for MTD-3 was 8 units. The product was shipped to ASW CASH (MC0000) at ASW CASH Warehouse in Newcastle, NSW on March 15, 2028.
+
+ASW CASH placed order No.14 for 84 units of TG150-12/06/06-2.0M on April 15, 2028. The product was shipped to ASW CASH (MC0000) at ASW CASH Warehouse in Newcastle, NSW on May 15, 2028.
+
+ASW CASH placed order No.14 for 5 units of TG150-12/06/06-3.2M on June 15, 2028. The product was shipped to ASW CASH (MC0000) at ASW CASH Warehouse in Newcastle, NSW on July 15, 2028.
+
+ASW CASH placed order No.14 for T150X3.4M120606, totaling 170 units, on January 15, 2025. The product is described as TG150-12/06/06-3.4M.
+
+ASW CASH placed order No.14 for T164X1.8M126063, totaling 500 units, on June 3, 2025. The product is described as TG164-12/60/63-1.8M.
+
+ASW CASH placed orders No.20, 2025.6, 2025.8, and 2025.10 for TG100X9M, totaling 75 units each time, on various dates in 2025. The product is described as TG100-10/6/6 - 9m Trusses.
+
+ASW CASH placed orders No.7 and No.16 for TG135X9M, totaling 50 units each time, on various dates in 2025. The product is described as TG135-10/6/6-9m.
+
+ASW CASH placed an order No.7 for an unknown product, totaling 1 unit, on June 3, 2025.
+
+ATF SERVICES PTY LTD placed orders No.28, 2025.7, and 2025.8 for SMF2516757503G, totaling 3,400 units, on various dates in 2025. The product is described as MESH 2.5MX1.6M 75X75 APT 3.15MM WIRE - GAL IMG3H-33-2516.
+
+AUSTRALIAN INTEGRATED STEELWORK (HORIZON WORKS) placed orders No.7, 2025.3, and 2025.5 for 4FREIGHT, totaling 1 unit each time, on various dates in 2025. The product is described as Freight Out Charge.
+
+AUSTRALIAN INTEGRATED STEELWORK (HORIZON WORKS) placed orders No.6, 13, 17, 19, and No.2425.3, 2025.4, 2025.5 for MP242404G, totaling 168, 242, 15, and 3 units respectively, on various dates in 2025. The product is described as 358 Panels 2.4m x 2.4m IMZG4-305-2424.
+
+AUSTRALIAN INTEGRATED STEELWORK (HORIZON WORKS) placed orders No.6 and 2025.3 for MP302404G, totaling 9 units, on various dates in 2025. The product is described as 358 Panels 3.0m x 2.4m IMZG4-305-3024.
+
+AUSTRALIAN INTEGRATED STEELWORK (HORIZON WORKS) placed orders No.7 and 2025.3 for MP312404G, totaling 10 units, on various dates in 2025. The product is described as 358 Panel 3.1m x 2.4m IMZG4-305-3124.
+
+AUSTRALIAN INTEGRATED STEELWORK (HORIZON WORKS) placed orders No.19 and 2025.5 for MP362404G, totaling 69 units, on various dates in 2025. The product is described as 358 Panels 3.6m x 2.4m IMZG4-305-3624.
+
+B.J.J.L.T.E PTY LTD placed order No.14 for SMF3H24157575G, totaling 752 units, on January 15, 2025. The product is described as 75x75x2400x1500x3.15 TFH Mesh IMG3H-33-2415-TFH.
+
+B&D METALS GROUP PTY LTD placed orders No.4, 5, 26, 29, and 2025.2, 2025.3, 2025.7, 2025.8, 2025.11 for SMF24120505004G, totaling 25 units each time, on various dates in 2025. The product is described as 50x50x2400x1200x4mm Ind Mesh IMG4-22-2412.
+
+B&D METALS GROUP PTY LTD placed orders No.5 and 2025.7 for SMF3H24122525G, totaling 15 units, on various dates in 2025. The product is described as 25x25x2400x1200x3.15mm Ind Mes IMG3H-11-2412.
+
+B&D METALS GROUP PTY LTD placed orders No.13 and 2025.4 for SMF3H30242525G, totaling 10 units, on various dates in 2025. The product is described as 25x25x3000x2400x3.15 Ind Mesh IMG3H-11-3024.
+
+B&D METALS GROUP PTY LTD placed orders No.19 and 2025.5 for SMF5H241201010G, totaling 10 units, on various dates in 2025. The product is described as 100x100x2400x1200x5.6 Ind Mesh IMG5H-44-2412.
+
+BEST BAR placed orders No.20 and 2025.10 for 4FREIGHT, totaling 1 unit each time, on various dates in 2025. The product is described as Freight Out Charge.
+
+BEST BAR placed orders No.20 and 2025.6 for D500RL1218, totaling 45 units, on various dates in 2025. The product is described as RL1218 Rectangular Mesh 6x2.4 D500RL1218.
+
+BEST BAR placed orders No.5, 2025.2, and 2025.6 for SCW6.3X1MG, totaling 5,000 units, on various dates in 2025. The product is described as S&C Galv Wire 6.3x1000mm SCGW6.3-1000.
+
+BEST BAR placed orders No.20 and 2025.6 for SCW6.3X6MG, totaling 1 unit each time, on various dates in 2025. The product is described as S&C Gal Wire 6.3x6000mm 500kgs SCGW6.3-6000-500kgs.
+
+BEST BAR placed orders No.20 and 2025.10 for SCW6.3X6MG, totaling 1.07 units, on various dates in 2025. The product is described as S&C Gal Wire 6.3x6000mm 500kgs SCGW6.3-6000-500kgs.
+
+BEST BAR placed order No.4 for SMF30240505004G (50x50x3000x2400x4mm Weld Mesh IMG4-22-3024) on February 25, 2025. The order quantity was 9 units. Additionally, orders were placed for 5 units on March 5, 2025, 41 units on March 9, 2025, and 21 units on March 33, 2025. The month-to-date sales total was 20 units.
+
+BEST BAR placed order No.13 for SMF30240505004G (50x50x3000x2400x4mm Weld Mesh IMG4-22-3024) on February 25, 2025. The order quantity was 9 units. Orders were also placed for 5 units on March 13, 2025, and 21 units on March 33, 2025.
+
+BEST BAR placed order No.18 for SMF30240507504G (50x75x3000x2400x4mm Ind Mesh IMG4-23-3024) on February 25, 2025. The order quantity was 2 units. An additional order was placed for 2 units on March 18, 2025.
+
+BHP OLYMPIC DAM CORPORATION PTY LTD placed order No.4 for CCP45241010056G (MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN) on February 25, 2025. The order quantity was 550 units. Additional orders were placed for 550 units on March 4, 2025, March 16, 2025, March 17, 2025, March 23, 2025, and March 25, 2025.
+
+BHP OLYMPIC DAM CORPORATION PTY LTD placed order No.16 for SMB4H50241010 (100x100x5000x2400x4.50 IMB4H-44-5024) on February 25, 2025. The order quantity was 600 units. Additional orders were placed for 600 units on March 4, 2025, March 16, 2025, March 17, 2025, March 18, 2025, March 21, 2025, March 27, 2025, and March 28, 2025. The month-to-date sales total was 1200 units.
+
+BHP OLYMPIC DAM CORPORATION PTY LTD placed order No.27 for SMF5H45181010G (100x100x4500x1800x5.6 Ind Mesh IMG5H-44-4518) on February 25, 2025. The order quantity was 700 units. Additional orders were placed for 700 units on March 9, 2025, March 10, 2025, March 12, 2025, March 14, 2025, March 15, 2025, March 16, 2025, March 17, 2025, March 20, 2025, March 27, 2025, and March 28, 2025. The month-to-date sales total was 1400 units.
+
+BHP OLYMPIC DAM CORPORATION PTY LTD placed an order with an unknown product on February 25, 2025. The order quantity was 1 unit. The job number was No.32.
+
+BIANCO PRECAST placed order No.21 for 4ASWMISC (ASW Miscellaneous Sales) on February 25, 2025. The order quantity was 1 unit.
+
+BIANCO PRECAST placed orders for 4FREIGHT (Freight Out Charge) on February 25, 2025, March 4, 2025, March 5, 2025, March 6, 2025, March 10, 2025, March 17, 2025, March 21, 2025, March 27, 2025, and March 34, 2025. The order quantity was 1 unit each.
+
+BIANCO PRECAST placed order No.34 for T100X10M106060 (TG100-10/60/60-10.0M) on February 25, 2025. The order quantity was 300 units.
+
+BIANCO PRECAST placed order No.21 for T110X2.2M120606 (TG110-12/06/06-2.2M) on February 25, 2025. The order quantity was 175 units.
+
+BIANCO PRECAST placed orders for T135X10M100606 (TG135-10/06/06-10M) on February 25, 2025, March 4, 2025, March 5, 2025, March 10, 2025, March 17, 2025, and March 34, 2025. The order quantity was 700 units, 500 units, and 300 units respectively.
+
+BIANCO PRECAST placed order No.34 for T150X3.0M120606 (TG150-12/06/06-3.0M) on February 25, 2025. The order quantity was 30 units.
+
+BIANCO PRECAST placed order No.14 for T155X3.2M120606 (TG155-12/06/06-3.2M) on February 25, 2025. The order quantity was 1840 units.
+
+BIANCO PRECAST placed orders for T180X10M100606 (TG180-10/06/06/10M) on February 25, 2025, March 4, 2025, March 7, 2025, March 10, 2025, March 27, 2025, and March 34, 2025. The order quantity was 450 units, 800 units, 1250 units, 400 units, and 400 units respectively.
+
+BIANCO PRECAST placed order No.21 for T190X4.0M120608 (TG190-12/06/08-4.0M) on February 25, 2025. The order quantity was 80 units.
+
+BIANCO PRECAST placed orders for T270X10M100608 (TG270-10/06/08-10M) on February 25, 2025, March 12, 2025, and March 34, 2025. The order quantity was 100 units and 150 units respectively.
+
+BIANCO PRECAST placed orders for T320X10M100608 (TG320-10/06/08-10M) on February 25, 2025, March 12, 2025, and March 34, 2025. The order quantity was 75 units each.
+
+BITS OF STEEL SUPPLIES PTY LTD placed order No.12 for SMF24120505004G (50x50x2400x1200x4mm Ind Mesh IMG4-22-2412) on February 25, 2025. The order quantity was 25 units. Additional orders were placed for 25 units on March 4, 2025, March 7, 2025, March 10, 2025, March 11, 2025, March 17, 2025, March 26, 2025, and March 1: 25 units, March 1: 10 units.
+
+BITS OF STEEL SUPPLIES PTY LTD placed order No.26 for SMF24120505005G (50x50x2400x1200x5 Ind Mesh IMG5-22-2412) on February 25, 2025. The order quantity was 8 units. The month-to-date sales total was 8 units.
+
+BITS OF STEEL SUPPLIES PTY LTD placed order No.19 for 50x75x2400x1200x4mm Ind Mesh IMG4-23-2412 on January 15, 2025. The order quantity was 3 units for delivery to an unspecified location.
+
+BITS OF STEEL SUPPLIES PTY LTD placed order No.4 for 75x75x2400x1200x4mm Ind Mesh IMG4-33-2412 on January 15, 2025. The order quantity was 3 units for delivery to an unspecified location.
+
+BITS OF STEEL SUPPLIES PTY LTD placed order No.21 for 100x100x2400x1200x4mm Gal Mesh IMG4-44-2412 on January 15, 2025. The order quantity was 2 units for delivery to an unspecified location.
+
+BITS OF STEEL SUPPLIES PTY LTD placed order No.26 for 25x25x2400x1200x2.5mm Ind Mesh IMG2H-11-2412 on January 15, 2025. The order quantity was 10 units for delivery to an unspecified location. Additionally, 25 open units were recorded.
+
+BITS OF STEEL SUPPLIES PTY LTD placed order No.2 for 25x25x3000x2400x2.5mm Ind Mesh IMG2H-11-3024 on January 15, 2025. The order quantity was 2 units for delivery to an unspecified location. Also, 1 unit was recorded for No.8.
+
+BITS OF STEEL SUPPLIES PTY LTD placed order No.25 for 50x50x3000x2400x4mm Weld Mesh IMG4-22-3024 on January 15, 2025. The order quantity was 14 units for delivery to an unspecified location. Additionally, 13 units were recorded for MTD-2.2, 10 units for MTD, and 65 units for MTD-1.
+
+BITS OF STEEL SUPPLIES PTY LTD placed order No.14 for 100x100x3000x2400x5 Ind Mesh IMG5-44-3024 on January 15, 2025. The order quantity was 5 units for delivery to an unspecified location.
+
+BITS OF STEEL SUPPLIES PTY LTD placed order No.8 for 100x100x2400x1200x3.15mm Gal M IMG3H-44-2412 on January 15, 2025. The order quantity was 1 unit for delivery to an unspecified location.
+
+BITS OF STEEL SUPPLIES PTY LTD placed order No.3 for 25x25x2400x1200x3.15mm Ind Mes IMG3H-11-2412 on January 15, 2025. The order quantity was 1 unit for delivery to an unspecified location. Additionally, 4 units were recorded for No.12 and 8 units for No.18.
+
+BITS OF STEEL SUPPLIES PTY LTD placed order No.6 for 50x50x2400x1200x3.15 Ind Mesh IMG3H-22-2412 on January 15, 2025. The order quantity was 10 units for delivery to an unspecified location.
+
+BITS OF STEEL SUPPLIES PTY LTD placed order No.5 for 25x25x3000x2400x3.15 Ind Mesh IMG3H-11-3024 on January 15, 2025. The order quantity was 6 units for delivery to an unspecified location. Additionally, 3 units were recorded for No.14, 7 units for No.32, 6 units for MTD-2.2, and 8 units for MTD.1.
+
+BITS OF STEEL SUPPLIES PTY LTD placed order No.25 for 25x50x3000x2400x3.15 Ind Mesh IMG3H-12-3024 on January 15, 2025. The order quantity was 51 units for delivery to an unspecified location.
+
+BITS OF STEEL SUPPLIES PTY LTD placed order No.20 for 50x25x3000x2400x3.15 Ind Mesh IMG3H-21-3024 on January 15, 2025. The order quantity was 51 units for delivery to an unspecified location. Additionally, 304 units were recorded for MTD-1.2 and 6 units for MTD-2.2.
+
+BLUESCOPE placed order No.6 for Freight Out Charge on January 15, 2025. The order quantity was 3 units for delivery to an unspecified location. Additionally, 2 units were recorded for No.7 and 1 unit for No.14.
+
+BLUESCOPE placed order No.26 for 100x100x3000x2400x5.6 Ind Mesh P IMG5H-44-3024_JEN on January 15, 2025. The order quantity was 25 units for delivery to an unspecified location.
+
+BLUESCOPE placed order No.34 for 358 Panels 2.4m x 2.4m IMZG4-305-2424 on January 15, 2025. The order quantity was 2 units for delivery to an unspecified location.
+
+BITS OF STEEL SUPPLIES PTY LTD placed order No.13 for 50x50x2400x1200x4mm Ind Mesh IMG4-22-2412 on January 15, 2025. The order quantity was 250 units for delivery to an unspecified location. Additionally, 50 units were recorded for No.14, 150 units for No.26, and 50 units for MTD-2.2.
+
+BLUESCOPE placed order No.9 for 25x25x2400x1200x2.5mm Ind Mesh IMG2H-11-2412 on January 15, 2025. The order quantity was 50 units for delivery to an unspecified location. Additionally, 64 units were recorded for No.16.
+
+BLUESCOPE placed order No.3 for 50x50x3000x2400x4mm Weld Mesh IMG4-22-3024 on January 15, 2025. The order quantity was 100 units for delivery to an unspecified location. Additionally, 150 units were recorded for No.13, 300 units for No.17, 250 units for No.18, 250 units for No.33, 250 units for MTD-3, and 100 units for MTD.2.
+
+BLUESCOPE placed order No.13 for 50x50x3000x2400x5mm Weld mesh IMG5-22-3024 on April 2025. The order quantity was 50 units. Additionally, the order included 75 units in MTD-1, 20 units in MTD-2.2, and 50 units in MTD.2.
+
+BLUESCOPE placed order No.6 for 50x75x3000x2400x4mm Ind Mesh IMG4-23-3024 on September 2025. The order quantity was 25 units. It also included 25 units in MTD-2.2.
+
+BLUESCOPE placed order No.3 for 75x50x3000x2400x5mm Ind Mesh IMG5-32-3024 on March 2025. The order quantity was 5 units. It also included 5 units in No.6.
+
+BLUESCOPE placed order No.18 for 25x25x3000x2400x3.15 Ind Mesh IMG3H-11-3024 on May 2025. The order quantity was 100 units. Additionally, it included 50 units in 2025.7, 100 units in 2025.11, 100 units in No.18, and 50 units in No.26.
+
+BLUESCOPE placed order No.26 for 50x50x3000x2400x3.15 Ind Mesh IMG3H-22-3024 on March 2025. The order quantity was 5 units. Additionally, it included 3 units in 2025.3 and 5 units in No.6.
+
+BLUESCOPE placed order No.3 for 100x150x6000x1100x5 Sheepyard IMG5-46-6011 on February 2025. The order quantity was 5 units. Additionally, it included 5 units in No.3.
+
+BLUESCOPE ALBANY placed order No.8 for Freight Out Charge on August 2025. The order quantity was 2 units. Additionally, it included 1 unit in MTD-3.1 and 1 unit in MTD-3.2.
+
+BLUESCOPE ALBANY placed order No.10 for 100x100x3000x2400x5.6 Ind Mesh P IMG5H-44-3024_JEN on October 2025. The order quantity was 25 units. Additionally, it included 25 units in Open.
+
+BLUESCOPE ALBANY placed order No.10 for SL 41 Square Mesh 6X2.4 R500SL41 on April 2025. The order quantity was 200 units. Additionally, it included 200 units in No.10.
+
+BLUESCOPE ALBANY placed order No.8 for 50x50x2400x1200x4mm Ind Mesh IMG4-22-2412 on June 2025. The order quantity was 40 units. Additionally, it included 25 units in 2025.6, 50 units in 2025.8, 40 units in No.8, 25 units in No.20, and 50 units in MTD-3.1.
+
+BLUESCOPE ALBANY placed order No.10 for 50x75x2400x1200x4mm Ind Mesh IMG4-23-2412 on April 2025. The order quantity was 25 units. Additionally, it included 25 units in 2025.8 and 25 units in No.10.
+
+BLUESCOPE ALBANY placed order No.10 for 25x25x2400x1200x2.5mm Ind Mesh IMG2H-11-2412 on August 2025. The order quantity was 50 units. Additionally, it included 50 units in MTD-3.2.
+
+BLUESCOPE ALBANY placed order No.20 for 25x25x3000x2400x2.5mm Ind Mesh IMG2H-11-3024 on June 2025. The order quantity was 50 units. Additionally, it included 50 units in No.20.
+
+BLUESCOPE ALBANY placed order No.8 for 50x50x3000x2400x4mm Weld Mesh IMG4-22-3024 on July 2025. The order quantity was 50 units. Additionally, it included 25 units in 2025.4, 100 units in 2025.7, 50 units in 2025.11, 50 units in No.8, 25 units in No.10, and 100 units in No.26.
+
+BLUESCOPE ALBANY placed order No.10 for 50x50x3000x2400x5mm Weld mesh IMG5-22-3024 on August 2025. The order quantity was 29 units. Additionally, it included 29 units in MTD-3.1.
+
+BLUESCOPE ALBANY placed order No.10 for 50x75x3000x2400x4mm Ind Mesh IMG4-23-3024 on August 2025. The order quantity was 25 units. Additionally, it included 25 units in MTD-3.1.
+
+BLUESCOPE ALBANY placed order No.31 for 25x25x2400x1200x3.15mm Ind Mes IMG3H-11-2412 on August 2025. The order quantity was 17 units. Additionally, it included 17 units in No.31.
+
+BLUESCOPE ALBANY placed order No.10 for 100x150x6000x900x5 Sheepyard IMG5-46-6009 on April 2025. The order quantity was 25 units. Additionally, it included 25 units in No.10.
+
+BLUESCOPE ALBANY placed order No.11 for 100x150x6000x1100x5 Sheepyard IMG5-46-6011 on April 2025. The order quantity was 50 units. Additionally, it included 50 units in No.10.
+
+BLUESCOPE DISTRIBUTION placed order No.7 for Freight Out Charge on March 2025. The order quantity was 1 unit. Additionally, it included 1 unit in 2025.3, 1 unit in 2025.4, 1 unit in 2025.8, 1 unit in 2025.9, 1 unit in No.7, 1 unit in No.14, 1 unit in No.31, 1 unit in MTD-2.2, and 1 unit in Open.
+
+BLUESCOPE placed order No.14 for Delivery Charge on January 15, 2025. The charge amount was $2,025.40.
+
+BLUESCOPE placed order No.14 for 40 units of 100x200x2.3x1.1x5mm Weld Mesh IMG5-48-2311 on January 15, 2025. The total value was $20,254.00.
+
+BLUESCOPE placed order No.31 for 50 units of 100x100x2400x1200x4mm Gal Mesh IMG4-44-2412 on January 15, 2025. Additionally, 16 units were sold in the month-to-date period, bringing the total to $25,125.00.
+
+BLUESCOPE placed order No.7 for 50 units of 100x200x2.9x1.1x5mm Weld mesh IMG5-48-2911 on January 15, 2025. The total value was $25,125.00.
+
+BLUESCOPE placed order No.14 for 5 units of 50x50x3000x2400x4mm Weld Mesh IMG4-22-3024 on January 15, 2025. The total value was $12,625.00.
+
+BLUESCOPE placed order No.7 for 50 units of 100x200x3.5x1.1x5mm Weld Mesh IMG5-48-3511 on January 15, 2025. The total value was $25,125.00.
+
+BLUESCOPE placed order No.7 for 100 units of 100x200x4750x1100 Ind Mesh IMG5-48-4711 on January 15, 2025. The total value was $50,250.00.
+
+BLUESCOPE ESPERANCE placed order No.13 for 2 freight out charges on January 15, 2025. The total value was $4,050.00.
+
+BLUESCOPE ESPERANCE placed order No.13 for 6 units of 25x25x3000x2400x2.5mm Ind Mesh IMG2H-11-3024 on January 15, 2025. The total value was $15,150.00.
+
+BLUESCOPE ESPERANCE placed order No.13 for 4 units of 50x50x3000x2400x4mm Weld Mesh IMG4-22-3024 on January 15, 2025. Additionally, 15 units were sold, and 10 units were open for sale, bringing the total to $20,250.00.
+
+BLUESCOPE ESPERANCE placed order No.13 for 5 units of 50x75x3000x2400x4mm Ind Mesh IMG4-23-3024 on January 15, 2025. The total value was $12,500.00.
+
+BLUESCOPE ESPERANCE placed order No.13 for 45 units of 25x25x3000x2400x3.15 Ind Mesh IMG3H-11-3024 on January 15, 2025. Additionally, 70 units were sold, bringing the total to $37,500.00.
+
+BLUESCOPE ESPERANCE placed order No.21 for 120 units of 50x50x3000x2400x3.15 Ind Mesh IMG3H-22-3024 on January 15, 2025. The total value was $60,000.00.
+
+BLUESCOPE ESPERANCE placed order No.13 for 15 units of 100x150x6000x900x5 Sheepyard IMG5-46-6009 on January 15, 2025. The total value was $15,000.00.
+
+BLUESCOPE ESPERANCE placed order No.21 for 10 units of 100x150x6000x1100x5 Sheepyard IMG5-46-6011 on January 15, 2025. The total value was $10,000.00.
+
+BRIDGEMAN AGENCIES PTY LTD placed order No.15 for 1 freight out charge on January 15, 2025. The total value was $1,025.50.
+
+BRIDGEMAN AGENCIES PTY LTD placed order No.15 for 5 units of 358 Panel 3.1m x 2.4m IMZG4-305-3124 on January 15, 2025. The total value was $25,250.00.
+
+Brisbane Steel Sales Pty Ltd placed order No.4 for 32 units of 358 Panels 3.6m x 2.4m IMZG4-305-3624 on January 15, 2025. Additionally, 4 units were sold, 12 units were open for sale, and the total value was $16,320.00.
+
+Brisbane Steel Sales Pty Ltd placed order No.8 for 10 units of 50x50x3000x2400x4mm Weld Mesh IMG4-22-3024 on January 15, 2025. The total value was $10,000.00.
+
+Brisbane Steel Sales Pty Ltd placed order No.4 for 10 units of 25x25x3000x2400x3.15 Ind Mesh IMG3H-11-3024 on January 15, 2025. The total value was $10,000.00.
+
+BUDGET STEEL placed order No.3 for 50x50x2400x1200x4mm Ind Mesh IMG4-22-2412 on January 15, 2025. The order quantity was 100 units. Additionally, orders were placed for 150 units in February 2025, 200 units in May 2025, 100 units in October 2025, and 50 units in July 2025. Orders for 100 units were also placed in March 2025, 150 units in April 2025, 200 units in July 2025, 100 units in November 2025, and 50 units in December 2025. The total sales quantity for this product was 1,550 units.
+
+BUDGET STEEL placed order No.14 for 50x75x2400x1200x4mm Ind Mesh IMG4-23-2412 on January 15, 2025. The order quantity was 150 units. Additionally, orders were placed for 50 units in February 2025, 100 units in May 2025, 50 units in August 2025, and 50 units in September 2025. Orders for 100 units were also placed in March 2025, 100 units in June 2025, and 50 units in December 2025. The total sales quantity for this product was 850 units.
+
+BUDGET STEEL placed order No.17 for 100x100x2400x1200x4mm Gal Mesh IMG4-44-2412 on January 15, 2025. The order quantity was 200 units. Additionally, orders were placed for 100 units in May 2025, 50 units in July 2025, and 50 units in October 2025. The total sales quantity for this product was 300 units.
+
+BUDGET STEEL placed order No.21 for 25x25x2400x1200x2.5mm Ind Mesh IMG2H-11-2412 on January 15, 2025. The order quantity was 50 units. Additionally, orders were placed for 50 units in May 2025 and 50 units in July 2025. The total sales quantity for this product was 150 units.
+
+BUDGET STEEL placed order No.8 for 50x50x3000x2400x4mm Weld Mesh IMG4-22-3024 on January 15, 2025. The order quantity was 40 units. Additionally, orders were placed for 50 units in April 2025, 50 units in June 2025, 10 units in August 2025, 15 units in September 2025, 20 units in October 2025, and 10 units in November 2025. The total sales quantity for this product was 200 units.
+
+BUDGET STEEL placed order No.13 for 50x75x3000x2400x4mm Ind Mesh IMG4-23-3024 on January 15, 2025. The order quantity was 10 units. Additionally, orders were placed for 10 units in May 2025 and 10 units in August 2025. The total sales quantity for this product was 30 units.
+
+BUDGET STEEL placed order No.17 for 100x100x3000x2400x5 Ind Mesh IMG5-44-3024 on January 15, 2025. The order quantity was 10 units. Additionally, orders were placed for 10 units in May 2025, 10 units in July 2025, and 10 units in September 2025. The total sales quantity for this product was 30 units.
+
+BUDGET STEEL placed order No.17 for 25x25x2400x1200x3.15mm Ind Mesh IMG3H-11-2412 on January 15, 2025. The order quantity was 100 units. Additionally, orders were placed for 50 units in May 2025, 50 units in June 2025, 100 units in August 2025, 100 units in September 2025, 50 units in November 2025, and 50 units in December 2025. The total sales quantity for this product was 500 units.
+
+BUDGET STEEL placed order No.17 for 25x25x3000x2400x3.15 Ind Mesh IMG3H-11-3024 on January 15, 2025. The order quantity was 25 units. Additionally, orders were placed for 25 units in February 2025, 55 units in April 2025, 24 units in June 2025, 31 units in August 2025, 25 units in September 2025, 25 units in October 2025, and 25 units in November 2025. The total sales quantity for this product was 250 units.
+
+BUDGET STEEL placed order No.21 for 100x150x6000x1100x5 Sheepyard IMG5-46-6011 on January 15, 2025. The order quantity was 50 units. Additionally, orders were placed for 50 units in April 2025, 50 units in June 2025, 50 units in August 2025, 50 units in September 2025, 50 units in October 2025, and 50 units in November 2025. The total sales quantity for this product was 300 units.
+
+BUSSELTON AGRICULTURAL SERVICES placed order No.21 for 100x150x30mx1100x5 Shpyrd coil IMG5-46-1100C30 on January 15, 2025. The order quantity was 3 units. Additionally, orders were placed for 3 units in June 2025. The total sales quantity for this product was 6 units.
+
+BUSSELTON AGRICULTURAL SERVICES placed order No.10 for 100x150x6000x900x5 Sheepyard IMG5-46-6009 on January 15, 2025. The order quantity was 20 units. Additionally, orders were placed for 20 units in June 2025. The total sales quantity for this product was 40 units.
+
+BUSSELTON AGRICULTURAL SERVICES placed order No.6 for 100x150x6000x1100x5 Sheepyard IMG5-46-6011 on January 15, 2025. The order quantity was 40 units. Additionally, orders were placed for 40 units in June 2025. The total sales quantity for this product was 80 units.
+
+CADDS FABRICATION PTY LTD placed order No.17 for 50x50x3000x2400x4mm Weld Mesh IMG4-22-3024 on January 15, 2025. The order quantity was 100 units. Additionally, orders were placed for 100 units in June 2025. The total sales quantity for this product was 200 units.
+
+CADDS FABRICATION PTY LTD placed order No.26 for 25x25x3000x2400x3.15 Ind Mesh IMG3H-11-3024 on January 15, 2025. The order quantity was 10 units. Additionally, orders were placed for 10 units in June 2025. The total sales quantity for this product was 20 units.
+
+CASH SALE - NSW placed order No.14 for Fixed Asset Disposal on January 15, 2025. The order quantity was 1 unit. Additionally, orders were placed for 1 unit in June 2025. The total sales quantity for this product was 2 units.
+
+Cement Australia placed order No.13 for MESH 100X100X4800X1400X4MM BLACK on January 15, 2025. The order quantity was 780 units. Additionally, orders were placed for 1,780 units in February 2025, 840 units in May 2025, 1,160 units in June 2025, 140 units in August 2025, 100 units in September 2025, 1,080 units in October 2025, 760 units in November 2025, 780 units in December 2025, 940 units in January 2026, 840 units in February 2026, 840 units in March 2026, 840 units in April 2026, 1,160 units in May 2026, 140 units in June 2026, 100 units in July 2026, 1080 units in August 2026, 760 units in September 2026, 760 units in October 2026, 760 units in November 2026, and 760 units in December 2026. The total sales quantity for this product was 14,000 units.
+
+CITI-STEEL PTY LTD placed order No.16 for 100x100x2400x1200x4mm Gal Mesh IMG4-44-2412 on January 15, 2025. The order quantity was 150 units. Additionally, orders were placed for 200 units in June 2025. The total sales quantity for this product was 350 units.
+
+CITI-STEEL PTY LTD placed order No.16 for 25x25x2400x1200x2.5mm Ind Mesh IMG2H-11-2412 on January 15, 2025. The order quantity was 600 units. Additionally, orders were placed for 600 units in June 2025. The total sales quantity for this product was 1,200 units.
+
+CITI-STEEL PTY LTD placed order MC0036 for SMF30241001005G (100x100x3000x2400x5 Ind Mesh IMG5-44-3024) on No.31 with a quantity of 100 units in 2025.8.
+
+CIVILMART (NAVAL BASE CONCRETE) placed orders MC0037 for CW500L5 (5.0mm Bright Wire In Coils R500L5.0-Coils) with various quantities in different periods: 24 units in 2025.2, 24 units in 2025.4, 58.316 units in 2025.5, 24.06 units in 2025.6, 24.17 units in 2025.7, 18.13 units in 2025.9, 30.149 units in 2025.10, 12.054 units in 2025.11, 24 units in No.4, 24 units in No.14, 10 units in No.16, 48.316 units in No.18, 24.06 units in No.19, 24.17 units in No.28, 8.05 units in No.28, 24.139 units in MTD-1, 6.01 units in MTD-1.1, 10.08 units in MTD-2.1, and 12.054 units in MTD.2. Open quantity is 24 units.
+
+CIVILMART (NAVAL BASE CONCRETE) placed order MC0037 for D500N12X6M (12MM Ribbed Reinforcing Bar 6M D500N12-6M) with quantities of 2.098 units in 2025.3, 2.098 units in 2025.4, 1.049 units in 2025.5, 1.049 units in 2025.10, 2.098 units in No.6, 2.098 units in No.14, 1.049 units in No.16, and 1.049 units in MTD-1.1.
+
+CIVILMART (NAVAL BASE CONCRETE) placed order MC0037 for D500N16X6M (16MM Ribbed Reinforcing Bar 6M D500N16-6M) with quantities of 2.098 units in 2025.4, 1.049 units in 2025.5, 2.098 units in No.14, and 1.049 units in No.16.
+
+CIVILMART (NAVAL BASE CONCRETE) placed order MC0037 for TMESH1550C60 (Tank Mesh Rolls 1550x60m IMB4-44-1550C60) with quantities of 3 units in 2025.2 and 4 units in 2025.6, No.2 and No.24.
+
+Colemans High Security Fencing Pty Ltd placed order MC0139 for SMF3H24122525G (25x25x2400x1200x3.15mm Ind Mes IMG3H-11-2412) with a quantity of 5 units in 2025.4 and No.14.
+
+COMWIRE PTY LTD placed order MC0038 for 4FREIGHT (Freight Out Charge) with quantities of 1 unit in 2025.5 and No.17, and 1 unit in 2025.7 and No.26.
+
+COMWIRE PTY LTD placed order MC0038 for CW500L10MM (10mm Bright Wire In Coils R500L10.0-Coils) with a quantity of 1.984 units in 2025.7 and No.26.
+
+COMWIRE PTY LTD placed order MC0038 for SMF20120505004G (50x50x2000x1200x4mm Ind Mesh IMG4-22-2012) with a quantity of 4 units in 2025.6 and No.23.
+
+COMWIRE PTY LTD placed order MC0038 for SMF30240505004G (50x50x3000x2400x4mm Weld Mesh IMG4-22-3024) with a quantity of 4 units in 2025.5 and No.17.
+
+CONSTELLATION MINING PTY LTD placed orders MC0039 for SMB4814101505 (100x150x4800x1400x5mm IMB5-46-4814-MCO) with quantities of 1920 units in 2025.3, 960 units in 2025.4, 1920 units in 2025.6, No.6, 960 units in No.13, and 1920 units in No.20.
+
+CONSTELLATION MINING PTY LTD placed order MC0039 for SMF1614101004 (Rib Mesh 1.6 x 1.4M 100x100 Apt 4mm Wire IMB4-44-1614-MCO) with quantities of 3000 units in 2025.2, 3000 units in 2025.4, No.4, and 3000 units in No.14.
+
+DANTERR PTY LTD placed order MC0041 for D500L6X0.7M (S&C Rib Wire 6.0x700mm - 1 Piece) with a quantity of 500 units in 2025.10 and No.34.
+
+DANTERR PTY LTD placed order MC0041 for D500L6X1M (S&C Rib Wire 6.0x1000mm - 1 Piece) with a quantity of 8000 units in 2025.4, 2025.10, No.14, and No.34.
+
+DANTERR PTY LTD placed order MC0041 for D500N12X1.65M (S&C Rib Wire 12.0x1650mm - 1 Piece) with a quantity of 500 units in 2025.10 and No.34.
+
+DANTERR PTY LTD placed order MC0041 for D500N12X2M (S&C Rib Wire 12.0x2000mm - 1 Piece) with quantities of 50 units in 2025.4 and 100 units in 2025.10, No.14, and No.34.
+
+DANTERR PTY LTD placed order MC0041 for D500N16X2.0M (S&C Rib Wire 16.0x2000mm - 1 Piece) with quantities of 100 units in 2025.10 and No.34.
+
+DANTERR PTY LTD placed order MC0041 for D500N16X6M (16MM Ribbed Reinforcing Bar 6M D500N16-6M) with a quantity of 0.17 units in 2025.4 and No.14.
+
+DANTERR PTY LTD placed order MC0041 for D500N8X1.2M (S&C Rib Wire 8.0x1200mm - 1 Piece) with a quantity of 300 units in 2025.10 and No.34.
+
+DEPARTMENT OF INDUSTRY placed order AUSIND for 4GRANT (CRCPXI PROJECT GRANT) with a quantity of 1 unit in 2025.1 and No.39.
+
+DI CANDILO STEEL CITY placed order for Freight Out Charge on January 15, 2025. The order included 1 unit in 2025.3, 2 units in 2025.5, 2 units in 2025.6, 4 units in 2025.7, 1 unit in 2025.8, 2 units in 2025.9, 1 unit in No.6, 1 unit in No.16, 1 unit in No.17, 1 unit in No.19, 1 unit in No.23, 1 unit in No.25, 1 unit in No.26, 2 units in No.27, 1 unit in No.31, 1 unit in MTD-2.1, 1 unit in MTD-2.2, and 1 unit in Open.
+
+DI CANDILO STEEL CITY placed order for 100x100x3000x2400x5.6 Ind Mesh P IMG5H-44-3024_JEN on January 15, 2025. The order included 4 units in 2025.3, 200 units in 2025.6, 4 units in No.6, and 200 units in No.23.
+
+DI CANDILO STEEL CITY placed order for 50x50x2000x1200x4mm Ind Mesh IMG4-22-2012 on January 15, 2025. The order included 100 units in 2025.3, 20 units in 2025.7, 100 units in 2025.9, 100 units in No.6, 20 units in No.26, and 100 units in MTD-2.1.
+
+DI CANDILO STEEL CITY placed order for 25x25x3000x2400x2.5mm Ind Mesh IMG2H-11-3024 on January 15, 2025. The order included 50 units in 2025.6, 10 units in 2025.8, 50 units in No.19, and 10 units in No.31.
+
+DI CANDILO STEEL CITY placed order for 50x50x3000x2400x4mm Weld Mesh IMG4-22-3024 on January 15, 2025. The order included 30 units in 2025.4, 100 units in 2025.5, 100 units in 2025.9, 30 units in No.13, 100 units in No.17, and 100 units in No.33, with an additional 100 units in Open.
+
+DI CANDILO STEEL CITY placed order for 50x50x3000x2400x5mm Weld mesh IMG5-22-3024 on January 15, 2025. The order included 10 units in 2025.2, 10 units in 2025.5, 25 units in 2025.7, 10 units in 2025.9, 10 units in No.3, 10 units in No.15, 6 units in No.26, 19 units in No.27, and 10 units in MTD-2.2.
+
+DI CANDILO STEEL CITY placed order for 50x75x3000x2400x4mm Ind Mesh IMG4-23-3024 on January 15, 2025. The order included 9 units in 2025.6, 3 units in 2025.8, 9 units in No.19, and 3 units in No.31.
+
+DI CANDILO STEEL CITY placed order for 25x25x3000x2400x3.15 Ind Mesh IMG3H-11-3024 on January 15, 2025. The order included 70 units in 2025.5, 1 unit in 2025.6, 8 units in 2025.7, 70 units in No.16, 1 unit in No.19, and 8 units in No.25, with an additional 5000 units in Open.
+
+DI CANDILO STEEL CITY placed order for an unknown product on January 15, 2025. The order included 1 unit in 2025.2 and 1 unit in No.3.
+
+DSI UNDERGROUND AUSTRALIA PTY placed order for Freight Out Charge on January 15, 2025. The order included 1 unit in 2025.3 and 1 unit in No.5.
+
+DSI UNDERGROUND AUSTRALIA PTY placed order for MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN on January 15, 2025. The order included 2000 units in 2025.2, 1000 units in 2025.5, 500 units in 2025.6, 1000 units in No.2, 500 units in No.3, 500 units in No.4, 1000 units in No.19, 500 units in No.20, and 5000 units in Open.
+
+DSI UNDERGROUND AUSTRALIA PTY placed order for Ausro Strap 3.0 x 0.3 OSH106H-3003 on January 15, 2025. The order included 350 units in 2025.3, 450 units in 2025.7, 350 units in 2025.8, 350 units in No.5, 450 units in No.26, and 350 units in No.29.
+
+DSI UNDERGROUND AUSTRALIA PTY placed order for Ausro Strap 4.0 x 0.3 OSH106H-4003 on January 15, 2025. The order included 370 units in 2025.3, 120 units in 2025.6, 300 units in 2025.10, 500 units in 2025.11, 60 units in No.6, 310 units in No.7, 120 units in No.24, 300 units in MTD-1.1, 500 units in MTD.2, and 500 units in Open.
+
+DSI UNDERGROUND AUSTRALIA PTY placed order for Ausro Strap 5.8 x 0.3 OSH106H-5803 on January 15, 2025. The order included 230 units in 2025.3, 440 units in 2025.8, 80 units in 2025.11, 230 units in No.6, 440 units in MTD-3.1, 80 units in MTD.2, and 1000 units in Open.
+
+DSI UNDERGROUND AUSTRALIA PTY placed order for Ausro STRAP W 300*6000*10MM BLACK OSH106H-6003 on January 15, 2025. The order included 110 units in 2025.3, 550 units in 2025.6, 200 units in 2025.7, 110 units in No.6, 300 units in No.21, 250 units in No.24, and 200 units in No.25.
+
+DSI UNDERGROUND AUSTRALIA PTY placed order for 100x100x5600x1600x5mm Ind Mesh IMB5-44-5616 on January 15, 2025. The order included 2700 units in 2025.3, 3060 units in 2025.4, 1620 units in No.6, 1080 units in No.7, 1260 units in No.12, 1080 units in No.13, 720 units in No.14.
+
+DSI UNDERGROUND AUSTRALIA PTY placed order for RIB MESH 2.2MX1.8M 100X100MM APT & 3.15MM GAL WIRE on January 15, 2025. The order included 3000 units in Open.
+
+DSI UNDERGROUND AUSTRALIA PTY placed order for 100x100x2400x2000x3.15 Ind Mes IMB3H-44-2420-DCLA on January 15, 2025. The order included 3000 units in 2025.3, 3000 units in 2025.6, 6000 units in 2025.7, 2200 units in 2025.8, 3000 units in No.8, 3000 units in No.21, 3000 units in No.25, 3000 units in No.28, 2200 units in MTD-3.2, and 6000 units in Open.
+
+DSI UNDERGROUND AUSTRALIA PTY placed order for MESH RIB 2.5MX1.60M 100X100 APT 3.15MM WIRE GALV IMG3H-44-2516 on January 15, 2025. The order included 6000 units in Open.
+
+DSI UNDERGROUND AUSTRALIA PTY placed order for MESH RIB 2.5MX1.80M 100X100 APT 3.15MM WIRE GALV IMG3H-44-2518 on November 15, 2025. The order included 3000 units in 2025.11 and 3000 units in MTD.1.
+
+DSI UNDERGROUND AUSTRALIA PTY LTD placed order No.14 for SMF2618101003 (100x100x2600x1800x3.15 Ind Mes IMB3H-44-2618-DAIR) on January 15, 2025. The order quantity was 1,200 units. Similarly, order No.16 for the same product was for 1,200 units, and order No.20 was for 200 units. Order MTD-3.2 for 900 units and order MTD-3.5 for 1200 units were also placed.
+
+DSI UNDERGROUND AUSTRALIA PTY LTD placed order No.12 for SMF3H24171010G (100x100x2400x1700x3.15mm Ind IMG3H-44-2417) on January 15, 2025. The order quantity was 8,000 units. Order No.13 for the same product was for 4,800 units, and order No.21 was for 3,600 units. Order No.34 for 18,000 units was also placed. Additionally, order 2025.6 for 3,600 units and order 2025.10 for 18,000 units were placed.
+
+DSI UNDERGROUND AUSTRALIA PTY LTD placed order No.14 for SMF45171010056G (MESH MINE 4.5MX1.7M 100X100 APT 5.6MM WIRE - GAL IMG5H-44-4517_JEN) on January 15, 2025. The order quantity was 5,000 units.
+
+DSI UNDERGROUND AUSTRALIA PTY LTD placed order No.16 for SMF5716101005 (MESH MINE 5.7MX1.6M 100X100 APT 5MM WIRE - BLK) on January 15, 2025. The order quantity was 4,860 units in 2025.5, 2,160 units in 2025.7, 900 units in 2025.8, 3,150 units in 2025.9, and 7,860 units in 2025.10. Additionally, order No.16 for 1,080 units, order No.18 for 3,240 units, order No.19 for 540 units, order No.26 for 540 units, order No.27 for 540 units, order No.28 for 1,080 units, order No.33 for 1,530 units, and order No.34 for 6,780 units were placed. Order MTD-3.1 for 900 units, MTD-1.1 for 540 units, MTD-1.2 for 540 units, and MTD-2.2 for 1,620 units were also placed. The open order quantity was 2,670 units.
+
+DSI UNDERGROUND AUSTRALIA PTY LTD placed order No.20 for SMF5716101005G (MESH MINE 5.7MX1.6M 100X100 APT 5MM WIRE - GAL) on January 15, 2025. The order quantity was 2,700 units in 2025.6, 1,800 units in 2025.8, and 3,055 units in 2025.10. Additionally, order No.20 for 1,080 units, order No.21 for 1,620 units, and order No.34 for 3,055 units were placed. Order MTD-3.1 for 1,260 units and MTD-3.2 for 540 units were also placed. The open order quantity was 5 units.
+
+EVOLUTION MINING Limited placed order No.9 for 23NONSTOCK (Non Stock Item) on January 15, 2025. The order quantity was 357.24 units.
+
+FENCE WRIGHT placed order No.2 for 4FREIGHT (Freight Out Charge) on January 15, 2025. The order quantity was 1 unit.
+
+FENCE WRIGHT placed order No.2 for MP242404G (358 Panels 2.4m x 2.4m IMZG4-305-2424) on January 15, 2025. The order quantity was 13 units. Additionally, order MTD-2 for 13 units was placed.
+
+FENCE WRIGHT placed order No.12 for MP362404G (358 Panels 3.6m x 2.4m IMZG4-305-3624) on January 15, 2025. The order quantity was 1 unit.
+
+FENCE WRIGHT placed order No.2 for SMF30240575005G (50x75x3000x2400x5 Ind Mesh IMG5-23-3024) on January 15, 2025. The order quantity was 5 units.
+
+FENCE WRIGHT placed an order with unknown details on January 15, 2025. The order quantity was 1 unit.
+
+FMR MINING WA placed order No.10 for CCP35241010056G (MESH MINE 3.5MX2.4M 100X100 APT 5.6MM WIRE - GAL IMG5H-44-3524) on January 15, 2025. The order quantity was 700 units in 2025.10 and 700 units in 2025.11. Additionally, order MTD-1 for 700 units and order MTD for 700 units were placed.
+
+FMR MINING WA placed order No.18 for SMF45281010056G (100x100x4500x2800x5.6 Ind Mesh IMG5H-44-4528) on January 15, 2025. The order quantity was 475 units in 2025.3, 2025.4, 2025.5, 2025.6, 2025.7, 2025.8, and 2025.9. Additionally, order No.5 for 475 units, order No.12 for 475 units, order No.18 for 475 units, order No.24 for 475 units, order No.28 for 475 units, and order No.29 for 475 units were placed. Order MTD-2.2 for 585 units was also placed.
+
+HANDY STEEL SUPPLIES placed order No.9 for SMF24121001004G (100x100x2400x1200x4mm Gal Mesh IMG4-44-2412) on January 15, 2025. The order quantity was 200 units. Additionally, order MTD-2.2 for 200 units was placed.
+
+HANDY STEEL SUPPLIES placed order No.10 for SMF2H241202525G (25x25x2400x1200x2.5mm Ind Mesh IMG2H-11-2412) on January 15, 2025. The order quantity was 300 units in 2025.5 and 100 units in 2025.9. Additionally, order No.19 for 300 units was placed. Order MTD-2.2 for 100 units was also placed.
+
+HANSSEN PTY LTD placed order No.2 for BDBOT8723.280 (BDBOT-8723/280-8774X2274XN12 BDBOT-8723/280) on January 15, 2025. The order quantity was 100 units in 2025.2, 160 units in 2025.9, 80 units in 2025.10, and 160 units in 2025.11. Additionally, order No.2 for 20 units, order No.4 for 80 units, MTD-1.2 for 80 units, MTD-2.1 for 80 units, MTD-2.2 for 80 units, MTD.1 for 80 units, and MTD.2 for 80 units were placed.
+
+HANSSEN PTY LTD placed order No.4 for BDBOT8724.230 (BDBOT-8724/230-8734X2354XN10 BDBOT-8724/230) on January 15, 2025. The order quantity was 80 units in 2025.2, 240 units in 2025.3, 400 units in 2025.4, 320 units in 2025.5, 320 units in 2025.6, 240 units in 2025.7, 240 units in 2025.8, 80 units in 2025.9, and 80 units in 2025.10. Additionally, order No.4 for 80 units, order No.5 for 80 units, order No.6 for 80 units, order No.8 for 80 units, order No.10 for 80 units, order No.12 for 80 units, order No.13 for 80 units, order No.14 for 160 units, order No.16 for 160 units, order No.18 for 80 units, order No.19 for 80 units, order No.20 for 80 units, order No.21 for 80 units, order No.23 for 80 units, order No.24 for 80 units, order No.26 for 80 units, order No.27 for 80 units, order No.28 for 80 units, order No.29 for 80 units, MTD-3.1 for 80 units, MTD-3.2 for 80 units, and MTD-2.1 for 80 units were placed.
+
+HANSSEN PTY LTD placed order No.2 for BDBOT8923.340 (BDBOT-8923/340-8934X2334XN12 BDBOT-8923/340) on January 15, 2025. The order quantity was 10 units in 2025.2 and 10 units in 2025.9.
+
+HANSSEN PTY LTD placed order No.32 for BDBOT9323.390 (BDBOT-9323/390-9364X2364XN12 BDBOT-9323/390) on January 15, 2025. The order quantity was 50 units in 2025.9, 25 units in 2025.32, and 25 units in 2025.33.
+
+HANSSEN PTY LTD placed order No.32 for BDBOT9423.390 (BDBOT-9423/390-9384x2384xN12 BDBOT-9423/390) on January 15, 2025. The order quantity was 40 units in 2025.10 and 40 units in 2025.1.
+
+HANSSEN PTY LTD placed order MC0051 for BDTOP8723.280 (BDTOP-8723/280-8794X2294XN8 BDTOP-8723/280) with sales quantities of 100 units in 2025.2, 80 units in 2025.3 to 2025.11, 100 units in No.2, and 80 units in No.34. The MTD-3.1, MTD-2.3, MTD.1, and MTD-3 sales were 80 units each.
+
+HANSSEN PTY LTD placed order MC0051 for BDTOP8724.230 (BDTOP-8724/230-8744X2364XN8 BDTOP-8724/230) with sales quantities of 160 units in 2025.2, increasing to 320 units in 2025.3 to 2025.6, then decreasing to 240 units in 2025.7, 243 units in 2025.8, and 80 units in 2025.9. The No.3 to No.29 sales were 80 units each, with MTD-3, MTD-3.2, MTD-2, and MTD-2.1 sales totaling 80 units each.
+
+HANSSEN PTY LTD placed order MC0051 for BDTOP8923.340 (BDTOP-8923/340-8944X2344XN10 BDTOP-8923/340) with sales quantities of 10 units in 2025.2 and No.2.
+
+HANSSEN PTY LTD placed order MC0051 for BDTOP9323.390 (BDTOP-9323/390-9374x2374xN12 BDTOP-9323/390) with sales quantities of 50 units in 2025.9, 25 units in No.32, and 25 units in No.33.
+
+HANSSEN PTY LTD placed order MC0051 for BDTOP9423.390 (BDTOP-9423/390-9394x2394xN12 BDTOP-9423/390) with sales quantities of 40 units in 2025.10 and MTD-1 totaling 40 units.
+
+HANSSEN PTY LTD placed order MC0051 for TG100X9M (TG100-10/6/6 - 9m Trusses TG100-10/6/6 - 9m Trusses) with sales quantities of 300 units in 2025.2, 300 units in 2025.3, 300 units in 2025.5, 450 units in 2025.6, 300 units in 2025.7, 300 units in 2025.9, 300 units in No.5, 300 units in No.6, 300 units in No.16, 150 units in No.21, 300 units in No.23, 300 units in No.28, and MTD-2.1 totaling 300 units.
+
+HANSSEN PTY LTD placed order MC0051 for TG135X9M (TG135-10/6/6 - 9m TG135-10/6/6-9m) with sales quantities of 500 units in 2025.2, 600 units in 2025.3, 1200 units in 2025.4, 900 units in 2025.5, 900 units in 2025.6, 900 units in 2025.7, 450 units in 2025.8, 300 units in 2025.9, 200 units in No.3, 300 units in No.4, 300 units in No.5, 300 units in No.8, 300 units in No.12, 900 units in No.14, 600 units in No.16, 300 units in No.18, 300 units in No.20, 300 units in No.21, 300 units in No.24, 300 units in No.26, 300 units in No.27, 300 units in No.28, 450 units in No.29, and MTD-2 totaling 300 units.
+
+HANSSEN PTY LTD placed order MC0051 for TG180X9M (TG180-10/6/6 - 9m TG180-10x6x6 - 9m) with sales quantities of 300 units in 2025.2, 600 units in 2025.9, 300 units in 2025.10, 300 units in 2025.11, 300 units in No.2, 300 units in No.33, 300 units in No.34, MTD-2.3 totaling 300 units, and MTD.1 totaling 300 units.
+
+HARDING STEEL PTY LTD placed order MC0052 for 6MBW6 (6mm Wire 6m long (750 pcs)) with sales quantities of 750 units in 2025.9 and MTD-2.2 totaling 750 units.
+
+HARDING STEEL PTY LTD placed order MC0052 for MP302404G (358 Panels 3.0m x 2.4m IMZG4-305-3024) with sales quantities of 12 units in 2025.10 and MTD-1.1 totaling 12 units.
+
+HARDING STEEL PTY LTD placed order MC0052 for SMF24120505004G (50x50x2400x1200x4mm Ind Mesh IMG4-22-2412) with sales quantities of 100 units in 2025.2 and No.4.
+
+HARDING STEEL PTY LTD placed order MC0052 for SMF24121001004G (100x100x2400x1200x4mm Gal Mesh IMG4-44-2412) with sales quantities of 15 units in 2025.2, 150 units in 2025.4, 15 units in No.3, 150 units in No.14.
+
+HARDING STEEL PTY LTD placed order MC0052 for SMF2H241202525G (25x25x2400x1200x2.5mm Ind Mesh IMG2H-11-2412) with sales quantities of 120 units in 2025.2 and No.4.
+
+HARDING STEEL PTY LTD placed order MC0052 for SMF2H302402525G (25x25x3000x2400x2.5mm Ind Mesh IMG2H-11-3024) with sales quantities of 50 units in 2025.2, 50 units in 2025.3, 100 units in 2025.4, 96 units in 2025.8, 96 units in 2025.9, 50 units in No.4, 50 units in No.6, 100 units in No.14, MTD-3.2 totaling 96 units, and MTD-2.3 totaling 96 units.
+
+HARDING STEEL PTY LTD placed order MC0052 for SMF30240505004G (50x50x3000x2400x4mm Weld Mesh IMG4-22-3024) with sales quantities of 200 units in 2025.4, 100 units in 2025.6, 50 units in 2025.9, 200 units in No.14, 100 units in No.23, 50 units in No.32.
+
+HARDING STEEL PTY LTD placed order MC0052 for SMF30240505005G (50x50x3000x2400x5mm Weld mesh IMG5-22-3024) with sales quantities of 3 units in 2025.10 and MTD-1.1 totaling 3 units.
+
+HARDING STEEL PTY LTD placed order MC0052 for SMF30240507504G (50x75x3000x2400x4mm Ind Mesh IMG4-23-3024) with sales quantities of 50 units in 2025.4 and No.14.
+
+HARDING STEEL PTY LTD placed order MC0052 for SMF30240575005G (50x75x3000x2400x5 Ind Mesh IMG5-23-3024) with sales quantities of 2 units in 2025.2, 16 units in 2025.4, 11 units in 2025.5, 4 units in 2025.6, 3 units in 2025.9, 10 units in 2025.10, 1 unit in No.2, 1 unit in No.3, 16 units in No.14, 11 units in No.15, 4 units in No.23, 3 units in No.32, and MTD-1 totaling 10 units.
+
+HARDING STEEL PTY LTD placed order MC0052 for SMF30241001005G (100x100x3000x2400x5 Ind Mesh IMG5-44-3024) with sales quantities of 50 units in 2025.4 and No.14.
+
+HARDING STEEL PTY LTD placed order MC0052 for SMF3H24125050G (50x50x2400x1200x3.15 Ind Mesh IMG3H-22-2412) with sales quantities of 100 units in 2025.10 and MTD-1.1 totaling 100 units.
+
+HARDING STEEL PTY LTD placed order MC0052 for SMF3H30242525G (30x25x2400x3000x3.15 Ind Mesh IMG3H-11-3024) on various dates including 2025.4, 2025.9, No.12, and No.33, with a quantity of 100 units each.
+
+HARTWAY GALVANIZERS - NAVAL BASE placed order MC0054 for SCW1.25X300G (S&C Galv 1.25mmx300mmx2.85kg SCGW1.25-300-2.85Kg) on 2025.5 with a quantity of 160 units. They also placed an order for TIE3.15X1.2MM (Tie wire - 3.15mm -1.2m Length Tie-3.15mm-1.2m) on multiple dates including 2025.3, 2025.5, 2025.8, 2025.9, 2025.11, No.9, No.18, MTD-3.1, MTD-2.2, and MTD.1, with a total quantity of 45 units. Another order for TIE3.15X2.3MM (Tie Wire 3.15mmx2.3m Lenght Tie-3.15mm-2.3m) on 2025.5 and 2025.8 with a quantity of 7.4 and 5.55 units respectively.
+
+HAYES STEEL PTY LTD placed order MC0055 for MP302404G (358 Panels 3.0m x 2.4m IMZG4-305-3024) on 2025.7 with a quantity of 10 units. They also ordered SMF24120505004G (50x50x2400x1200x4mm Ind Mesh IMG4-22-2412) on 2025.4, 2025.6, 2025.7, No.12, No.19, and No.25 with a total quantity of 75 units. Orders for SMF24120507504G (50x75x2400x1200x4mm Ind Mesh IMG4-23-2412) on 2025.5 and 2025.8 with a quantity of 20 units, SMF24121001004G (100x100x2400x1200x4mm Gal Mesh IMG4-44-2412) on 2025.8 with a quantity of 25 units, SMF2H241202525G (25x25x2400x1200x2.5mm Ind Mesh IMG2H-11-2412) on 2025.3, 2025.6, No.6, No.9, No.19, and No.25 with a total quantity of 118 units, SMF2H302402525G (25x25x3000x2400x2.5mm Ind Mesh IMG2H-11-3024) on 2025.5 with a quantity of 20 units, SMF30240505004G (50x50x3000x2400x4mm Weld Mesh IMG4-22-3024) on 2025.3, 2025.4, 2025.5, 2025.8, No.6, No.12, No.14, No.15, and No.29 with a total quantity of 125 units, SMF30240507504G (50x75x3000x2400x4mm Ind Mesh IMG4-23-3024) on 2025.7 with a quantity of 15 units, SMF30240575005G (50x75x3000x2400x5 Ind Mesh IMG5-23-3024) on 2025.7 and 2025.25 with a total quantity of 15 units, SMF30241001005G (100x100x3000x2400x5 Ind Mesh IMG5-44-3024) on 2025.3 with a quantity of 15 units, SMF3H24122550G (25x50x2400x1200x3.15mm Ind Mes IMG3H-12-2412) on 2025.4 with a quantity of 10 units, and SMF3H30242550G (25x50x3000x2400x3.15 Ind Mesh IMG3H-12-3024) on 2025.4 with a quantity of 10 units. An order for SMF3H30245050G (50x50x3000x2400x3.15 Ind Mesh IMG3H-22-3024) on 2025.6 with a quantity of 1 unit.
+
+HAZELL BROS GROUP PTY LTD placed order JA594 for 4FREIGHTDEL (Delivery Charge) on 2025.8 and 2025.9 with a total quantity of 4 units. They also ordered CVPA15151042G (PLATE VOLCANO 150X150X10MM 42MM HOLE - HDG (500 PER PALLET)) on 2025.8 with a quantity of 500 units. Lastly, they ordered JBCGT401 (Centralising SpacerGT40-1 100/Carton) on 2025.8 with a quantity of 7,000 units, 5,500 units, and 1,500 units respectively.
+
+HAZZELL BROS GROUP PTY LTD placed order JA594 for JDBR51D115EXXC (TC Cross Bit R51/D115mm) on August 2025. The order quantity was 50 units, with 50 units shipped in Week 31 of 2025.
+
+HAZZELL BROS GROUP PTY LTD placed order JA594 for JSDHBCR38180 (Self Drilling Anchor Bar R38 Coupler X L180mm) on September 2025. The order quantity was 195 units, with 195 units shipped in Week 33 of 2025.
+
+HAZZELL BROS GROUP PTY LTD placed order JA594 for JSDHBCR38180A (Self Drilling Anchor Bar R38 Coupler X L180mm TZD) on August 2025. The order quantity was 727 units, with 100 units shipped in Week 29 of 2025 and 555 units shipped in Week 31 of 2025.
+
+HAZZELL BROS GROUP PTY LTD placed order JA594 for JSDHBNR3860SA (Self Drilling Anchor Bar R38 Spherical Nut X L60mm TZD) on August 2025. The order quantity was 750 units, with 100 units shipped in Week 29 of 2025 and 530 units shipped in Week 31 of 2025.
+
+HAZZELL BROS GROUP PTY LTD placed order JA594 for JSDHBR3830NA (Self Drilling Anchor Bar R38 X 3.0m TZD) on August 2025. The order quantity was 1,234 units, with 99 units shipped in Week 29 of 2025 and 885 units shipped in Week 31 of 2025.
+
+HENDERSON FABRICATION PTY LTD placed order MC0056 for SMF24120505004G (50x50x2400x1200x4mm Ind Mesh IMG4-22-2412) on February 2025. The order quantity was 2 units, with 2 units shipped in Week 4 of 2025.
+
+HENDERSON FABRICATION PTY LTD placed order MC0056 for SSM2412252503 (25x25x2400x1200x3mm SS316 IMSS3-11-2412) on October 2025. The order quantity was 1 unit, with 1 unit shipped in Week 1.2 of 2025.
+
+HUMES placed order MC0057 for 4ASWMISC (ASW Miscellaneous Sales) on April 2025. The order quantity was 1 unit, with 1 unit shipped in Week 14 of 2025.
+
+HUMES placed order MC0057 for 4FREIGHT (Freight Out Charge) on April 2025. The order quantity was 1 unit, with 1 unit shipped in Week 14 of 2025.
+
+HUMES placed order MC0057 for T90X3.8M100606 (TG90-10/06/06-3.8m) on April 2025. The order quantity was 180 units, with 180 units shipped in Week 14 of 2025.
+
+IBOLT FENCING placed order MC0140 for MP242404G (358 Panels 2.4m x 2.4m IMZG4-305-2424) on June 2025. The order quantity was 1 unit, with 1 unit shipped in Week 23 of 2025.
+
+IBOLT FENCING placed order MC0140 for MP302404G (358 Panels 3.0m x 2.4m IMZG4-305-3024) on April 2025. The order quantity was 1 unit, with 1 unit shipped in Week 12 of 2025.
+
+IBOLT FENCING placed order MC0140 for MP452404G (358 Panels 4.5m x 2.4m IMZG4-305-4524) on June 2025. The order quantity was 4 units, with 4 units shipped in Week 23 of 2025.
+
+INDUSTRIAL GALVANIZERS placed order MC0058 for SCW1.25X400G (S & C Galv 1.25mmX400mmX3.8kg SCGW1.25-400-3.8kg) on February 2025. The order quantity was 84 units, with 84 units shipped in Week 2 of 2025. The order quantity was 120 units, with 120 units shipped in Week 24 of 2025.
+
+INDUSTRIAL GALVANIZERS placed order MC0058 for TIE3.15X1.2MM (Tie wire - 3.15mm - 1.2m Length Tie-3.15mm-1.2m) on February 2025. The order quantity was 7.5 units, with 7.5 units shipped in Week 2 of 2025. The order quantity was 7.5 units, with 7.5 units shipped in Week 12 of 2025. The order quantity was 5 units, with 5 units shipped in Week 20 of 2025. The order quantity was 7.5 units, with 7.5 units shipped in Week 23 of 2025.
+
+INDUSTRIAL GALVANIZERS placed order MC0058 for TIE3.15X2.4MM (Tie Wire 3.15mmx2.4m Length Tie-3.15mm-2.4m) on February 2025. The order quantity was 16 units, with 16 units shipped in Week 2 of 2025. The order quantity was 16 units, with 16 units shipped in Week 12 of 2025. The order quantity was 40 units, with 40 units shipped in Week 20 of 2025. The order quantity was 16 units, with 16 units shipped in Week 23 of 2025.
+
+INDUSTRIAL GALVANIZERS placed order MC0058 for an unknown product on February 2025. The order quantity was 1 unit, with 1 unit shipped in Week 2 of 2025.
+
+INFRABUILD STEEL placed order MC0061 for SMF3H30242525G (25x25x3000x2400x3.15 Ind Mesh IMG3H-11-3024) on June 2025. The order quantity was 200 units, with 200 units shipped in Week 19 of 2025.
+
+INFRABUILD STEEL placed order MC0061 for SROL11005C305G (100x150x30m x 1100x5 Shpyrd Coil IMG5-46-1100C30) on February 2025. The order quantity was 2 units, with 2 units shipped in Week 3 of 2025.
+
+INFRABUILD STEEL placed order No.4 for Freight Out Charge from INFRABUILD STEEL CENTRE PERTH (MC0063) to 4FREIGHT on January 15, 2025. The order quantity was 1 unit for MTD-3.1 and 1 unit for Open.
+
+INFRABUILD STEEL placed order No.14 for Delivery Charge from INFRABUILD STEEL CENTRE PERTH (MC0063) to 4FREIGHTDEL on January 15, 2025. The order quantity was 1 unit for No.14.
+
+INFRABUILD STEEL placed order No.14 for 358 Panels 2.4m x 2.4m IMZG4-305-2424 from INFRABUILD STEEL CENTRE PERTH (MC0063) to MP242404G on January 15, 2025. The order quantity was 1 unit for No.14.
+
+INFRABUILD STEEL placed order No.17 for S&C Brt Wire 5.0x6000mm 500Kgs SCBW6.0-6000-500Kgs from INFRABUILD STEEL CENTRE PERTH (MC0063) to SCBW5X6M on January 15, 2025. The order quantity was 2 units for 2025.5, 1 unit for 2025.10, and 1 unit for 2025.11.
+
+INFRABUILD STEEL placed order No.17 for S&C Brt Wire 6.3x6000mm 500kgs SCBW6.3-6000-500kgs from INFRABUILD STEEL CENTRE PERTH (MC0063) to SCBW6.3X6M on January 15, 2025. The order quantity was 2 units for 2025.2, 2 units for 2025.3, 4 units for 2025.5, 2 units for 2025.6, 2 units for 2025.7, 3 units for 2025.9, 4 units for 2025.10, 3 units for 2025.11, 2 units for No.4, 2 units for No.6, 4 units for No.17, 2 units for No.20, and 2 units for No.28.
+
+INFRABUILD STEEL placed order No.17 for S&C Brt Wire 6.0x6000mm 500Kgs SCBW6.0-6000-500Kgs from INFRABUILD STEEL CENTRE PERTH (MC0063) to SCBW6X6M on January 15, 2025. The order quantity was 6 units for 2025.5.
+
+INFRABUILD STEEL placed order No.17 for S&C Gal Wire 6.3x6000mm 500kgs SCGW6.3-6000-500kgs from INFRABUILD STEEL CENTRE PERTH (MC0063) to SCW6.3X6MG on January 15, 2025. The order quantity was 2 units for 2025.6, 3 units for 2025.7, 2 units for 2025.9, 2 units for No.6, 2 units for No.20, and 3 units for No.26.
+
+INFRABUILD STEEL placed order No.26 for SL 41 Square Mesh 6X2.4 R500SL41 from INFRABUILD STEEL CENTRE PERTH (MC0063) to SL41 on January 15, 2025. The order quantity was 375 units for 2025.7, 125 units for No.26, and 250 units for No.28.
+
+INFRABUILD STEEL placed order No.13 for 50x50x2400x1200x4mm Ind Mesh IMG4-22-2412 from INFRABUILD STEEL CENTRE PERTH (MC0063) to SMF24120505004G on January 15, 2025. The order quantity was 300 units for 2025.3, 400 units for 2025.4, 850 units for 2025.7, 650 units for 2025.8, 650 units for 2025.11, 300 units for No.6, 400 units for No.13, 850 units for No.26, 650 units for No.29, 650 units for MTD, and 150 units for Open.
+
+INFRABUILD STEEL placed order No.13 for 50x75x2400x1200x4mm Ind Mesh IMG4-23-2412 from INFRABUILD STEEL CENTRE PERTH (MC0063) to SMF24120507504G on January 15, 2025. The order quantity was 50 units for 2025.2, 3 units for 2025.3, 50 units for 2025.4, 50 units for 2025.5, 100 units for 2025.7, 25 units for 2025.9, 150 units for 2025.11, 50 units for No.4, 50 units for No.6, 50 units for No.13, 50 units for No.17, 50 units for No.26, and 50 units for No.28.
+
+INFRABUILD STEEL placed order No.13 for 25x25x2400x1200x2.5mm Ind Mesh IMG2H-11-2412 from INFRABUILD STEEL CENTRE PERTH (MC0063) to SMF2H241202525G on January 15, 2025. The order quantity was 100 units for 2025.2, 200 units for 2025.3, 150 units for 2025.4, 50 units for 2025.5, 100 units for 2025.6, 150 units for 2025.7, 300 units for 2025.8, 400 units for 2025.11, 100 units for No.4, 200 units for No.6, 150 units for No.13, 50 units for No.16, 100 units for No.21, 150 units for No.26, 300 units for No.29, 400 units for MTD, and 850 units for Open.
+
+INFRABUILD STEEL placed order No.13 for 50x50x3000x2400x4mm Weld Mesh IMG4-22-3024 from INFRABUILD STEEL CENTRE PERTH (MC0063) to SMF30240505004G on January 15, 2025. The order quantity was 331 units for 2025.2, 600 units for 2025.3, 300 units for 2025.4, 1000 units for 2025.5, 200 units for 2025.6, 200 units for 2025.7, 800 units for 2025.8, 700 units for 2025.9, 500 units for 2025.10, 300 units for 2025.11, 31 units for No.3, 300 units for No.4, 600 units for No.6, 300 units for No.13, 300 units for No.16, 400 units for No.17, 300 units for No.19, 200 units for No.21, 200 units for No.26, 200 units for MTD-3, 500 units for MTD-1, 700 units for MTD-2.2, 300 units for MTD.2, and 850 units for Open.
+
+INFRABUILD STEEL placed order No.13 for 50x50x3000x2400x5mm Weld mesh IMG5-22-3024 from INFRABUILD STEEL CENTRE PERTH (MC0063) to SMF30240505005G on January 15, 2025. The order quantity was 50 units for 2025.11 and 50 units for MTD.2.
+
+INFRABUILD STEEL placed order No.13 for 50x75x3000x2400x5 Ind Mesh IMG5-23-3024 from INFRABUILD STEEL CENTRE PERTH (MC0063) to SMF30240575005G on January 15, 2025. The order quantity was 1 unit for 2025.8 and 1 unit for MTD-3.1.
+
+INFRABUILD STEEL placed order No.13 for 50x50x2400x1200x3.15 Ind Mesh IMG3H-22-2412 from INFRABUILD STEEL CENTRE PERTH (MC0063) to SMF3H24125050G on January 15, 2025. The order quantity was 100 units for 2025.4, 100 units for 2025.5, 300 units for 2025.7, 200 units for 2025.10, 100 units for 2025.11, 100 units for No.13, 100 units for No.17, 150 units for No.26, 150 units for No.28, 200 units for MTD-1, 100 units for MTD, and 850 units for Open.
+
+INFRABUILD STEEL placed order No.13 for 25x25x3000x2400x3.15 Ind Mesh IMG3H-11-3024 from INFRABUILD STEEL CENTRE PERTH (MC0063) to SMF3H30242525G on January 15, 2025. The order quantity was 200 units for 2025.5, 300 units for 2025.7, 450 units for 2025.11, 200 units for No.17, 200 units for No.25, 100 units for No.28, 200 units for MTD, 250 units for MTD.2, and 350 units for Open.
+
+INFRABUILD STEEL placed order No.13 for 100x150x6000x900x5 Sheepyard IMG5-46-6009 from INFRABUILD STEEL CENTRE PERTH (MC0063) to SYARD600910155G on January 15, 2025. The order quantity was 20 units for 2025.4, 20 units for 2025.5, 20 units for 2025.6, 20 units for 2025.9, 20 units for No.13, 20 units for No.18, 20 units for No.24, and 20 units for MTD-2.1.
+
+INFRABUILD STEEL placed order No.2 for 50x50x2400x1200x4mm Ind Mesh IMG4-22-2412 from INFRABUILD STEEL CENTRE PERTH (MC0063) to SMF24120505004G on January 15, 2025. The order quantity was 50 units for 2025.2, 50 units for 2025.4, 100 units for 2025.6, 100 units for 2025.7, 50 units for No.2, 50 units for No.12, 100 units for No.24, and 100 units for No.27.
+
+INFRABUILD STEEL placed order No.5 for 50x75x2400x1200x4mm Ind Mesh IMG4-23-2412 from INFRABUILD YATALA (MC0065) to SMF24120507504G on January 15, 2025. The order quantity was 3 units for 2025.3 and 3 units for No.5.
+
+INFRABUILD STEEL placed order No.2 for 25x25x2400x1200x2.5mm Ind Mesh IMG2H-11-2412 from INFRABUILD YATALA (MC0065) to SMF2H241202525G on January 15, 2025. The order quantity was 50 units for 2025.2, 50 units for 2025.4, 100 units for 2025.7, 252 units for 2025.9, 50 units for No.2, 50 units for No.12, 100 units for No.25, 200 units for No.33, 52 units for MTD-2.1, and 200 units for Open.
+
+INFRABUILD STEEL placed order for SMF2H302402525G (25x25x3000x2400x2.5mm Ind Mesh IMG2H-11-3024) with quantities 25, 50, 50, 25, 50, 50 on January 25, 2025. The order was placed for INFRABUILD YATALA (MC0065).
+
+INFRABUILD STEEL placed order for SMF30240505004G (50x50x3000x2400x4mm Weld Mesh IMG4-22-3024) with quantities 50, 50, 50, 50, 50, 50, 50, 50 on January 25, 2025. The order was placed for INFRABUILD YATALA (MC0065).
+
+INFRABUILD STEEL placed order for SMF30240505005G (50x50x3000x2400x5mm Weld mesh IMG5-22-3024) with quantities 4, 1, 3, 4, 1, 3 on January 25, 2025. The order was placed for INFRABUILD YATALA (MC0065).
+
+INFRABUILD STEEL placed order for SMF3H30242525G (25x25x3000x2400x3.15 Ind Mesh IMG3H-11-3024) with quantities 50, 50, 50, 50, 50, 50, 50, 50 on January 25, 2025. The order was placed for INFRABUILD YATALA (MC0065).
+
+INFRABUILD STEEL placed order for SMF5H241201010G (100x100x2400x1200x5.6 Ind Mesh IMG5H-44-2412) with quantities 9, 7, 2 on January 25, 2025. The order was placed for INFRABUILD YATALA (MC0065).
+
+INTER SCREEN AUST PTY LTD placed order for MP242404G (358 Panels 2.4m x 2.4m IMZG4-305-2424) with quantities 4, 4 on January 25, 2025. The order was placed for INTER SCREEN AUST PTY LTD (MC0066).
+
+INTER SCREEN AUST PTY LTD placed order for MP302404G (358 Panels 3.0m x 2.4m IMZG4-305-3024) with quantities 6, 6 on January 25, 2025. The order was placed for INTER SCREEN AUST PTY LTD (MC0066).
+
+INTER SCREEN AUST PTY LTD placed order for SMF24120505004G (50x50x2400x1200x4mm Ind Mesh IMG4-22-2412) with quantities 20, 20, 20, 20 on January 25, 2025. The order was placed for INTER SCREEN AUST PTY LTD (MC0066).
+
+INTER SCREEN AUST PTY LTD placed order for SMF30240505005G (50x50x3000x2400x5mm Weld mesh IMG5-22-3024) with quantities 6, 6 on January 25, 2025. The order was placed for INTER SCREEN AUST PTY LTD (MC0066).
+
+INTER-COMPANY transferred 50 units of BRMPODCOVER (Broadmeadow Bolting Pod Transport Cover) on January 25, 2025. The transfer was between INTER-COMPANY and TRANSFER ORDERS (TRANSFER).
+
+INTER-COMPANY transferred 500 units of CCP4824101005 (Mine Mesh 4.8 M x 2.4M 100 x 100 Apt 5mm Wire -Blk IMB5-44-4824) on January 25, 2025. The transfer was between INTER-COMPANY and TRANSFER ORDERS (TRANSFER).
+
+INTER-COMPANY transferred 500 units of CCP48241010056G (Mine Mesh 4800X2400mm 100x100mm Apt 5.6mm wire Galv IMG5H-44-4824) on January 25, 2025. The transfer was between INTER-COMPANY and TRANSFER ORDERS (TRANSFER).
+
+INTER-COMPANY placed order for EB2418B (EYE BOLT 24MM X 1800MM) with quantities 50 on January 25, 2025.
+
+INTER-COMPANY placed order for H165032MXXS37RN (J-LOK H TWIN 1650X32MM MED/XX SLOW 30:70 RATIO RET RESIN - 8 CAPSULES/BOX, 336/PALLET (42 BOXES)) with quantities 1344 on January 25, 2025.
+
+INTER-COMPANY placed order for HIPSTEELSPP2042 (200 x 200mm Squ Plastic plate with 42mm Hole steel insert) with quantities 3000 on January 25, 2025.
+
+INTER-COMPANY placed order for HIPSTEELSPP36 (PLASTIC PLATE 300MM SQUARE 36MM HOLE STEEL INSERT 500 UNITS PER PALLET CU0054) with quantities 4000 on January 25, 2025.
+
+INTER-COMPANY placed order for J7601 (Pump Seal Kit) with quantities 3 on January 25, 2025.

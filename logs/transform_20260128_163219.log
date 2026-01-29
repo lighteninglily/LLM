@@ -1,0 +1,5 @@
+2026-01-28 16:32:19,097 [INFO] Read 2246 records from ASW - Live Ross - Inventory.csv
+2026-01-28 16:32:19,124 [INFO]   Normalized entity names for 2246 records
+2026-01-28 16:32:19,125 [INFO]   Analyzing file schema...
+2026-01-28 16:32:22,071 [INFO]   File analysis: inventory_snapshot - 4 entities
+2026-01-28 16:32:22,071 [INFO] Transforming ASW - Live Ross - Inventory.csv: 2246 records in 113 batches

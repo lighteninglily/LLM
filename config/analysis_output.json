@@ -1,0 +1,73 @@
+{
+  "entity_types": [
+    "organization",
+    "product",
+    "location"
+  ],
+  "relationships": [
+    {
+      "from": "organization",
+      "to": "product",
+      "type": "sells"
+    },
+    {
+      "from": "product",
+      "to": "location",
+      "type": "stored_at"
+    }
+  ],
+  "files": [
+    {
+      "name": "ASW - Live Ross - Inventory.csv",
+      "transform": true,
+      "type": "tabular",
+      "priority": 1
+    },
+    {
+      "name": "Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv",
+      "transform": true,
+      "type": "tabular",
+      "priority": 1
+    },
+    {
+      "name": "Copy of AUS - L12M By Market Type.csv",
+      "transform": true,
+      "type": "tabular",
+      "priority": 1
+    },
+    {
+      "name": "Malaysian Shipping 2025 v0.xlsm_Schedule.csv",
+      "transform": true,
+      "type": "tabular",
+      "priority": 1
+    }
+  ],
+  "lookup_tables": [],
+  "recommended_chunk_strategy": "row_based",
+  "domain_notes": "The domain involves inventory management, sales tracking, and shipping logistics for various products across different markets and customers.",
+  "_metadata": {
+    "input_dir": "/home/ryan/Documents/VSMS/ragflow_automation/batch_remaining",
+    "analyzed_at": "2026-01-27T10:53:07.181671",
+    "file_count": 4,
+    "estimated_chunks": 961,
+    "files_info": {
+      "ASW - Live Ross - Inventory.csv": {
+        "size_bytes": 277373,
+        "format": "csv"
+      },
+      "Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv": {
+        "size_bytes": 238110,
+        "format": "csv"
+      },
+      "Copy of AUS - L12M By Market Type.csv": {
+        "size_bytes": 1129762,
+        "format": "csv"
+      },
+      "Malaysian Shipping 2025 v0.xlsm_Schedule.csv": {
+        "size_bytes": 323234,
+        "format": "csv"
+      }
+    },
+    "estimated_kg_hours": 24.0
+  }
+}

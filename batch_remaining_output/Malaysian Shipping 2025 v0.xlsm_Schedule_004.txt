@@ -1,0 +1,465 @@
+DMW shipped MESH 100X100X4800X1400X4MM BLACK parts to Tas/Burnie with a ROSS part code of SMF4814101004. The shipment was made via container TXGU6920961 on the CMA CGM TANYA during voyage 602S. The shipping instructions were given on January 9, 2026, and the shipment was loaded in week 2. The sailing date was January 6, 2026, and the shipment weight was 12,580.8 kg. The total quantity was 720 pieces, each weighing 16.24 kg, making the total weight 11,692.8 kg. The status is Shipped, and the ship documents date and closing date were both January 9, 2026.
+
+DMW also shipped Glut 90x90x1400 parts to Tas/Burnie. The shipment was made via container TXGU6920961 on the CMA CGM TANYA during voyage 602S. The shipping instructions were given on January 9, 2026, and the shipment was loaded in week 2. The sailing date was January 6, 2026, and the shipment weight was 12,580.8 kg. The total quantity was 80 pieces, each weighing 11.1 kg, making the total weight 888 kg. The status is Shipped, and the ship documents date and closing date were both January 9, 2026.
+
+DMW shipped MESH 100X100X4800X1400X4MM BLACK parts to Tas/Burnie with a ROSS part code of SMF4814101004. The shipment was made via container TCNU7543330 on the CMA CGM TANYA during voyage 602S. The shipping instructions were given on January 9, 2026, and the shipment was loaded in week 2. The sailing date was January 8, 2026, and the shipment weight was 12,580.8 kg. The total quantity was 720 pieces, each weighing 16.24 kg, making the total weight 11,692.8 kg. The status is Shipped, and the ship documents date and closing date were both January 9, 2026.
+
+DMW also shipped Glut 90x90x1400 parts to Tas/Burnie. The shipment was made via container TCNU7543330 on the CMA CGM TANYA during voyage 602S. The shipping instructions were given on January 9, 2026, and the shipment was loaded in week 2. The sailing date was January 8, 2026, and the shipment weight was 12,580.8 kg. The total quantity was 80 pieces, each weighing 11.1 kg, making the total weight 888 kg. The status is Shipped, and the ship documents date and closing date were both January 9, 2026.
+
+The container for shipping ID 6032.0 is blank.
+
+DMW shipped Black Mesh -IMB5-64-5113-JMOL parts to Brisbane with a ROSS part code of SMB5113515105S. The shipment was made via container TGBU4728561 on the COSCO ADEN during voyage 138S. The shipping instructions were given on January 9, 2026, and the shipment was loaded in week 2. The sailing date was January 7, 2026, and the shipment weight was 13,675.2 kg. The total quantity was 616 pieces, each weighing 22.2 kg, making the total weight 13,675.2 kg. The status is Shipped, and the ship documents date and closing date were both January 9, 2026.
+
+DMW also shipped Black Mesh -IMB5-64-5113-JMOL parts to Brisbane. The shipment was made via container CSNU8769563 on the COSCO ADEN during voyage 138S. The shipping instructions were given on January 9, 2026, and the shipment was loaded in week 2. The sailing date was January 7, 2026, and the shipment weight was 18,175.2 kg. The total quantity was 616 pieces, each weighing 22.2 kg, making the total weight 13,675.2 kg. The status is Shipped, and the ship documents date and closing date were both January 9, 2026.
+
+DMW shipped Tie wire - 3.15mm -1.2m Length Tie-3.15mm-1.2m parts to Brisbane with a ROSS part code of TIE3.15X1.2MM. The shipment was made via container CSNU8769563 on the COSCO ADEN during voyage 138S. The shipping instructions were given on January 9, 2026, and the shipment was loaded in week 2. The sailing date was January 7, 2026, and the shipment weight was 18,175.2 kg. The total quantity was 180 pieces, each weighing 25 kg, making the total weight 4,500 kg. The status is Shipped, and the ship documents date and closing date were both January 9, 2026.
+
+DMW shipped MESH RIB 2.20MX1.40M 100X100 APT 4.0MM WIRE IMB4-44-2214-JMOL parts to Brisbane with a ROSS part code of SMF2214101004. The shipment was made via container FFAU3431030 on the COSCO ADEN during voyage 138S. The shipping instructions were given on January 9, 2026, and the shipment was loaded in week 2. The sailing date was January 6, 2026, and the shipment weight was 19,290 kg. The total quantity was 3,000 pieces, each weighing 6.43 kg, making the total weight 19,290 kg. The status is Shipped, and the ship documents date and closing date were both January 9, 2026.
+
+DMW shipped MESH MINE 5.7MX1.6M 100X100 APT 5MM WIRE - BLK parts to Brisbane with a ROSS part code of SMF5716101005. The shipment was made via container BEAU5655184 on the COSCO ADEN during voyage 138S. The shipping instructions were given on January 9, 2026, and the shipment was loaded in week 2. The sailing date was January 9, 2026, and the shipment weight was 19,207.8 kg. The total quantity was 540 pieces, each weighing 35.57 kg, making the total weight 19,207.8 kg. The status is Shipped, and the ship documents date and closing date were both January 9, 2026.
+
+DMW shipped an order of MESH MINE 5.7MX1.6M 100X100 APT 5MM WIRE - BLK with part number MESH MINE 5.7MX1.6M 100X100 APT 5MM WIRE - BLK to Brisbane under CFR terms. The order was shipped via COSCO ADEN on voyage 138S, with container CSLU6040852, seal 30079863, and shipped on January 9, 2026. The quantity is 540 pieces, each weighing 35.57 kg, making a total weight of 19207.8 kg. The shipment was completed on January 9, 2026.
+
+DMW shipped an order of GX MESH 4.8M X 1.11M 100X100 APT 4.00MM WIRE - GAL with part number GXB48111010VGU3 to Brisbane under CFR terms. The order was shipped via COSCO ADEN on voyage 138S, with container TIIU7572065, seal 32307522, and shipped on January 10, 2026. The quantity is 575 pieces, each weighing 14.96 kg, making a total weight of 8602 kg. The shipment was completed on January 9, 2026.
+
+DMW shipped an order of Tie Wire 3.15mmx2.4m Length Tie-3.15mm-2.4m with part number TIE3.15X2.4MM to Brisbane under CFR terms. The order was shipped via COSCO ADEN on voyage 138S, with container TIIU7572065, seal 32307522, and shipped on January 10, 2026. The quantity is 40 pieces, each weighing 25 kg, making a total weight of 1000 kg. The shipment was completed on January 9, 2026.
+
+DMW shipped an order of GX MESH 4.8M X 1.11M 100X100 APT 4.00MM WIRE - GAL with part number GXB48111010VGU3 to Brisbane under CFR terms. The order was shipped via COSCO ADEN on voyage 138S, with container CSNU8464733, seal 30078260, and shipped on January 5, 2026. The quantity is 600 pieces, each weighing 14.96 kg, making a total weight of 8976 kg. The shipment was completed on January 9, 2026.
+
+DMW shipped an order of MESH MINE 4.0MX2.4M 100X100 APT 5.0MM WIRE IMB5-44-4024 with part number CC402410105 to Adelaide under CFR terms. The order was shipped via JOGELA on voyage 210S, with container CSNU7435643, seal 32302011, and shipped on January 7, 2026. The quantity is 600 pieces, each weighing 30.55 kg, making a total weight of 18330 kg. The shipment was completed on January 9, 2026.
+
+DMW shipped an order of Glut 90x90x300 with part number Glut 90x90x300 to Adelaide under CFR terms. The order was shipped via JOGELA on voyage 210S, with container CSNU7435643, seal 32302011, and shipped on January 7, 2026. The quantity is 180 pieces, each weighing 2.37 kg, making a total weight of 426.6 kg. The shipment was completed on January 9, 2026.
+
+DMW shipped an order of MESH MINE 4.0MX2.4M 100X100 APT 5.0MM WIRE IMB5-44-4024 with part number CC402410105 to Adelaide under CFR terms. The order was shipped via JOGELA on voyage 210S, with container CSLU6252147, seal 30079889, and shipped on January 8, 2026. The quantity is 600 pieces, each weighing 30.55 kg, making a total weight of 18330 kg. The shipment was completed on January 9, 2026.
+
+DMW shipped an order of Glut 90x90x300 with part number Glut 90x90x300 to Adelaide under CFR terms. The order was shipped via JOGELA on voyage 210S, with container CSLU6252147, seal 30079889, and shipped on January 8, 2026. The quantity is 180 pieces, each weighing 2.37 kg, making a total weight of 426.6 kg. The shipment was completed on January 9, 2026.
+
+DMW shipped an order of MESH Mine 4.5M X 2.4M 100X100 APT 5.0MM WIRE with part number SMF4524101005 to Adelaide under CFR terms. The order was shipped via JOGELA on voyage 210S, with container FFAU2712120, seal 30080040, and shipped on January 5, 2026. The quantity is 600 pieces, each weighing 34.3 kg, making a total weight of 20580 kg. The shipment was completed on January 9, 2026.
+
+DMW shipped an order of Glut 90x90x300 with part number Glut 90x90x300 to Adelaide under CFR terms. The order was shipped via JOGELA on voyage 210S, with container FFAU2712120, seal 30080040, and shipped on January 5, 2026. The quantity is 180 pieces, each weighing 2.37 kg, making a total weight of 426.6 kg. The shipment was completed on January 9, 2026.
+
+DMW shipped an order of MESH Mine 4.5M X 2.4M 100X100 APT 5.0MM WIRE with part number SMF4524101005 to Adelaide under CFR terms. The order was shipped via JOGELA on voyage 210S, with container TGBU9198485, seal 30078259, and shipped on January 5, 2026. The quantity is 600 pieces, each weighing 34.3 kg, making a total weight of 20580 kg. The shipment was completed on January 9, 2026.
+
+DMW shipped an order of Glut 90x90x300 with part number Glut 90x90x300 to Adelaide under CFR terms. The order was shipped via JOGELA on voyage 210S, with container TGBU9198485, seal 30078259, and shipped on January 5, 2026. The quantity is 180 pieces, each weighing 2.37 kg, making a total weight of 426.6 kg. The shipment was completed on January 9, 2026.
+
+DMW shipped an order of MESH Mine 4.5M X 2.4M 100X100 APT 5.0MM WIRE with part number SMF4524101005 to Adelaide under CFR terms. The order was shipped via JOGELA on voyage 210S, with container TGBU4711363, seal 30079732, and shipped on January 6, 2026. The quantity is 600 pieces, each weighing 34.3 kg, making a total weight of 20580 kg. The shipment was completed on January 9, 2026.
+
+DMW shipped an order of Glut 90x90x300 with part number Glut 90x90x300 to Adelaide under CFR terms. The order was shipped via JOGELA on voyage 210S, with container TGBU4711363, seal 30079732, and shipped on January 6, 2026. The quantity is 150 pieces, each weighing 2.37 kg, making a total weight of 355.5 kg. The shipment was completed on January 9, 2026.
+
+DMW shipped an order of 6.3mm Bright Wire In Coils R500L6.3-Coils with part number CW500L6.3 to Fremantle under CFR terms. The order was shipped via COSCO GENOA on voyage 098S, with container CSLU2412020, seal OOL LBM 2031, and shipped on January 14, 2026. The quantity is 24 pieces, each weighing 1000 kg, making a total weight of 24129 kg. The shipment was completed on January 16, 2026.
+
+DMW shipped an order of 6.3mm Bright Wire In Coils R500L6.3-Coils with part number CW500L6.3 to Fremantle under CFR terms. The order was shipped via COSCO GENOA on voyage 098S, with container CBHU4445676, seal OOL LBM 2028, and shipped on January 14, 2026. The quantity is 24 pieces, each weighing 1000 kg, making a total weight of 24226 kg. The shipment was completed on January 16, 2026.
+
+DMW shipped an order of 150x150x5100x1150x4x5 - DEN2 IMB45-66-5111-DEN2 with part number SMB5112151504 to Brisbane under CFR terms. The order was shipped via XIN LAN ZHOU on voyage 242S, with container CSNU6122639, seal OOL KAJ 1187, and shipped on January 11, 2026. The quantity is 720 pieces, each weighing 12.26 kg, making a total weight of 8827.2 kg. The shipment was completed on January 16, 2026.
+
+DMW shipped an order of 150x150x5100x1150x4x5 - DEN2 IMB45-66-5111-DEN2 with part number SMB5112151504 to Brisbane under CFR terms. The order was shipped via XIN LAN ZHOU on voyage 242S, with container TEMU7244262, seal OOL LBN 7153, and shipped on January 11, 2026. The quantity is 720 pieces, each weighing 12.26 kg, making a total weight of 8827.2 kg. The shipment was completed on January 16, 2026.
+
+DMW shipped an order of 150x150x5100x1150x4x5 - DEN2 IMB45-66-5111-DEN2 with part number SMB5112151504 to Brisbane under CFR terms. The order was shipped via XIN LAN ZHOU on voyage 242S, with container OOCU6847631, seal OOL LBN 7222, and shipped on January 12, 2026. The quantity is 720 pieces, each weighing 12.26 kg, making a total weight of 8827.2 kg. The shipment was completed on January 16, 2026.
+
+DMW shipped an order of Black Mesh -IMB5-64-5113-JMOL with part number SMB5113515105S to Brisbane under CFR terms. The order was shipped via XIN LAN ZHOU on voyage 242S, with container OOLU8786465, seal OOL LBN 7108, and shipped on January 12, 2026. The quantity is 616 pieces, each weighing 22.2 kg, making a total weight of 13675.2 kg. The shipment was completed on January 16, 2026.
+
+DMW shipped a container of Black Mesh -IMB5-64-5113-JMOL to Brisbane under CFR terms. The container is OOLU9674686, sealed with OOL LBN 7132. It was loaded on January 15, 2026, and the voyage is 242S. The shipment includes 528 units, each weighing 22.2 kg, totaling 11,721.6 kg. The container weighs 13,675.2 kg. The shipping instructions were given on January 16, 2026, and the documents were prepared on the same day. The status is Shipped.
+
+DMW shipped another container of Black Mesh -IMB5-64-5113-JMOL to Brisbane under CFR terms. The container is OOLU9674686, sealed with OOL LBN 7132. It was loaded on January 15, 2026, and the voyage is 242S. The shipment includes 88 units, each weighing 22.2 kg, totaling 1,953.6 kg. The container weighs 13,675.2 kg. The shipping instructions were given on January 16, 2026, and the documents were prepared on the same day. The status is Shipped.
+
+DMW shipped a container of MESH ROOF 5.00MX1.55M 100X100 APT 5.0MM WIRE SLG IMB5-46-5016-JNA to Brisbane under CFR terms. The container is OOLU9674686, sealed with OOL KAH 8183. It was loaded on January 14, 2026, and the voyage is 242S. The shipment includes 572 units, each weighing 24.54 kg, totaling 14,036.88 kg. The container weighs 14,036.88 kg. The shipping instructions were given on January 16, 2026, and the documents were prepared on the same day. The status is Shipped.
+
+DMW shipped a container of MESH ROOF 5.00MX1.55M 100X100 APT 5.0MM WIRE SLG IMB5-46-5016-JNA to Brisbane under CFR terms. The container is CSNU6263940, sealed with OOL LBN 7221. It was loaded on January 14, 2026, and the voyage is 242S. The shipment includes 572 units, each weighing 24.54 kg, totaling 14,036.88 kg. The container weighs 14,036.88 kg. The shipping instructions were given on January 16, 2026, and the documents were prepared on the same day. The status is Shipped.
+
+DMW shipped a container of MESH ROOF 5.00MX1.55M 100X100 APT 5.0MM WIRE SLG IMB5-46-5016-JNA to Brisbane under CFR terms. The container is TEMU8396932, sealed with OOL LBN 7213. It was loaded on January 14, 2026, and the voyage is 242S. The shipment includes 440 units, each weighing 24.54 kg, totaling 10,797.6 kg. The container weighs 13,797.6 kg. The shipping instructions were given on January 16, 2026, and the documents were prepared on the same day. The status is Shipped.
+
+DMW shipped a container of Tie Wire 3.15mmx2.4m Length Tie-3.15mm-2.4m to Brisbane under CFR terms. The container is TEMU8396932, sealed with OOL LBN 7213. It was loaded on January 14, 2026, and the voyage is 242S. The shipment includes 120 units, each weighing 25 kg, totaling 3,000 kg. The container weighs 13,797.6 kg. The shipping instructions were given on January 16, 2026, and the documents were prepared on the same day. The status is Shipped.
+
+DMW shipped a container of 100x100x5000x2400x4.50 IndMesh IMB4H-44-5024 to Adelaide under CFR terms. The container is CSNU7793760, sealed with OOL LBN 7251. It was loaded on January 14, 2026, and the voyage is 098S. The shipment includes 600 units, each weighing 30.93 kg, totaling 18,558 kg. The container weighs 18,984.6 kg. The shipping instructions were given on January 16, 2026, and the documents were prepared on the same day. The status is Shipped.
+
+DMW shipped a container of Glut 90x90x300 to Adelaide under CFR terms. The container is CSNU7793760, sealed with OOL LBN 7251. It was loaded on January 14, 2026, and the voyage is 098S. The shipment includes 180 units, each weighing 2.37 kg, totaling 426.6 kg. The container weighs 18,984.6 kg. The shipping instructions were given on January 16, 2026, and the documents were prepared on the same day. The status is Shipped.
+
+DMW shipped a container of 100x100x5000x2400x4.50 IndMesh IMB4H-44-5024 to Adelaide under CFR terms. The container is FCIU9692126, sealed with OOL LBN 7116. It was loaded on January 15, 2026, and the voyage is 098S. The shipment includes 600 units, each weighing 30.93 kg, totaling 18,558 kg. The container weighs 18,984.6 kg. The shipping instructions were given on January 16, 2026, and the documents were prepared on the same day. The status is Shipped.
+
+DMW shipped a container of Glut 90x90x300 to Adelaide under CFR terms. The container is FCIU9692126, sealed with OOL LBN 7116. It was loaded on January 15, 2026, and the voyage is 098S. The shipment includes 180 units, each weighing 2.37 kg, totaling 426.6 kg. The container weighs 18,984.6 kg. The shipping instructions were given on January 16, 2026, and the documents were prepared on the same day. The status is Shipped.
+
+DMW shipped a container of 7.60mm Ribbed Wire in Spools D500L7.6-Spools to Fremantle under CFR terms. The container is CSNU1980888, sealed with OOL KTV 9726. It was loaded on January 15, 2026, and the voyage is 098S. The shipment includes 24 units, each weighing 1,000 kg, totaling 24,013 kg. The container weighs 24,013 kg. The shipping instructions were given on January 16, 2026, and the documents were prepared on the same day. The status is Shipped.
+
+DMW shipped a container of 100x100x5000x2400x4.50 IndMesh IMB4H-44-5024 to Adelaide under CFR terms. The container is FSCU8757140, sealed with OOL LBM 6885. It was loaded on January 16, 2026, and the voyage is 098S. The shipment includes 600 units, each weighing 30.93 kg, totaling 18,558 kg. The container weighs 18,984.6 kg. The shipping instructions were given on January 16, 2026, and the documents were prepared on the same day. The status is Shipped.
+
+DMW shipped a container of Glut 90x90x300 to Adelaide under CFR terms. The container is FSCU8757140, sealed with OOL LBM 6885. It was loaded on January 16, 2026, and the voyage is 098S. The shipment includes 180 units, each weighing 2.37 kg, totaling 426.6 kg. The container weighs 18,984.6 kg. The shipping instructions were given on January 16, 2026, and the documents were prepared on the same day. The status is Shipped.
+
+DMW shipped a container of 150x150x5100x1150x4x5 - DEN2 IMB45-66-5111-DEN2 to Brisbane under CFR terms. The container is CMAU3335390, sealed with M2717167. It was loaded on January 20, 2026, and the voyage is 604S. The shipment includes 720 units, each weighing 12.26 kg, totaling 8,827.2 kg. The container weighs 8,827.2 kg. The shipping instructions were given on January 24, 2026, and the documents were prepared on the same day. The status is Shipped.
+
+DMW shipped a container of 150x150x5100x1150x4x5 - DEN2 IMB45-66-5111-DEN2 to Brisbane under CFR terms. The container is CMAU4458927, sealed with M6030125. It was loaded on January 19, 2026, and the voyage is 604S. The shipment includes 360 units, each weighing 12.26 kg, totaling 4,413.6 kg. The container weighs 10,238.8 kg. The shipping instructions were given on January 24, 2026, and the documents were prepared on the same day. The status is Shipped.
+
+DMW shipped a container of IMGX44H-44-5012-VGOC to Brisbane under CFR terms. The container is CMAU4458927, sealed with M6030125. It was loaded on January 19, 2026, and the voyage is 604S. The shipment includes 240 units, each weighing 14.26 kg, totaling 3,422.4 kg. The container weighs 10,238.8 kg. The shipping instructions were given on January 24, 2026, and the documents were prepared on the same day. The status is Shipped.
+
+DMW shipped a container of IMGX44H-44-5012-VGOC to Brisbane under CFR terms. The container is CMAU4458927, sealed with M6030125. It was loaded on January 19, 2026, and the voyage is 604S. The shipment includes 40 units, each weighing 14.26 kg, totaling 570.4 kg. The container weighs 10,238.8 kg. The shipping instructions were given on January 24, 2026, and the documents were prepared on the same day. The status is Shipped.
+
+DMW shipped a container of Ausro Strap 4.0 x 0.3 OSH106H-4003 to Brisbane under CIF terms. The container is CMAU4458927, sealed with M6030125. It was loaded on January 19, 2026, and the voyage is 604S. The shipment includes 90 units, each weighing 20.36 kg, totaling 1,832.4 kg. The container weighs 10,238.8 kg. The shipping instructions were given on January 24, 2026, and the documents were prepared on the same day. The status is Shipped.
+
+DMW shipped a container of Galvanized Mesh - IMG3H-33-2516 to Sydney under CFR terms. The container is CAAU7305042, sealed with OOL LBM 3524. It was loaded on January 22, 2026, and the voyage is 330S. The shipment includes 3,400 units, each weighing 6.6 kg, totaling 22,440 kg. The container weighs 22,440 kg. The shipping instructions were given on January 24, 2026, and the documents were prepared on the same day. The status is Shipped.
+
+DMW shipped a container of Black Mesh -IMB5-64-5113-JMOL to Brisbane under CFR terms. The container is TCNU5424516, sealed with M6030162. It was loaded on January 19, 2026, and the voyage is 604S. The shipment includes 616 units, each weighing 22.2 kg, totaling 13,675.2 kg. The container weighs 13,675.2 kg. The shipping instructions were given on January 24, 2026, and the documents were prepared on the same day. The status is Shipped.
+
+DMW supplied parts to Brisbane under CFR terms via the WESTPORT vessel on voyage 604S. The shipping instructions were given on January 24, 2026. The first order, 254961, included 308 units of Black Mesh -IMB5-64-5113-JMOL, weighing 22.2 kg per piece, totaling 6,837.59 kg. The container weighed 11,971.2 kg, and the shipment was marked as shipped on January 24, 2026.
+
+DMW also shipped 360 units of IMGX44H-44-5012-VGOC to Brisbane under CFR terms via the WESTPORT vessel on voyage 604S. The shipping instructions were issued on January 24, 2026. The part weighed 14.26 kg per piece, totaling 5,133.6 kg. The container weighed 11,971.2 kg, and the shipment was marked as shipped on January 24, 2026.
+
+DMW shipped 720 units of IMGX44H-44-5012-VGOC to Brisbane under CFR terms via the WESTPORT vessel on voyage 604S. The shipping instructions were given on January 24, 2026. The part weighed 14.26 kg per piece, totaling 10,267.2 kg. The container weighed 10,267.2 kg, and the shipment was marked as shipped on January 24, 2026.
+
+DMW shipped 24 units of 6.0mm Ribbed Wire in Spools D500L6.0-Spools to Fremantle under CFR terms via the OLYMPIC BAY vessel on voyage 143S. The shipping instructions were issued on January 24, 2026. The part weighed 1,000 kg per piece, totaling 24,127 kg. The container weighed 24,127 kg, and the shipment was marked as shipped on January 24, 2026.
+
+DMW shipped 24 units of 8.60mm Ribbed Wire in Spools D500L8.6-Spools to Fremantle under CFR terms via the OLYMPIC BAY vessel on voyage 143S. The shipping instructions were issued on January 24, 2026. The part weighed 1,000 kg per piece, totaling 24,058 kg. The container weighed 24,058 kg, and the shipment was marked as shipped on January 24, 2026.
+
+DMW shipped 24 units of 8.60mm Ribbed Wire in Spools D500L8.6-Spools to Fremantle under CFR terms via the OLYMPIC BAY vessel on voyage 143S. The shipping instructions were issued on January 24, 2026. The part weighed 1,000 kg per piece, totaling 23,915 kg. The container weighed 23,915 kg, and the shipment was marked as shipped on January 24, 2026.
+
+DMW planned to ship 24 units of 4.0mm Bright Wire In Coils R500L4.0-Coils to Fremantle under CFR terms via the OLYMPIC BAY vessel on voyage 143S. The shipping instructions were issued on January 24, 2026. The part weighed 1,000 kg per piece, totaling 24,000 kg. The container weighed 24,080 kg, and the shipment was marked as planned on January 24, 2026.
+
+DMW planned to ship 4 units of 24mm PET BLACK STRAP to Fremantle under CFR terms via the OLYMPIC BAY vessel on voyage 143S. The shipping instructions were issued on January 24, 2026. The part weighed 20 kg per piece, totaling 80 kg. The container weighed 24,080 kg, and the shipment was marked as planned on January 24, 2026.
+
+DMW shipped 600 units of 100x100x5000x2400x4.50 IndMesh IMB4H-44-5024 to Adelaide under CFR terms via the OOCL PANAMA vessel on voyage 330S. The shipping instructions were issued on January 24, 2026. The part weighed 30.93 kg per piece, totaling 18,558 kg. The container weighed 18,984.6 kg, and the shipment was marked as shipped on January 24, 2026.
+
+DMW shipped 180 units of Glut 90x90x300 to Adelaide under CFR terms via the OOCL PANAMA vessel on voyage 330S. The shipping instructions were issued on January 24, 2026. The part weighed 2.37 kg per piece, totaling 426.6 kg. The container weighed 18,984.6 kg, and the shipment was marked as shipped on January 24, 2026.
+
+DMW shipped 600 units of 100x100x5000x2400x4.50 IndMesh IMB4H-44-5024 to Adelaide under CFR terms via the OOCL PANAMA vessel on voyage 330S. The shipping instructions were issued on January 24, 2026. The part weighed 30.93 kg per piece, totaling 18,558 kg. The container weighed 18,984.6 kg, and the shipment was marked as shipped on January 24, 2026.
+
+DMW shipped 180 units of Glut 90x90x300 to Adelaide under CFR terms via the OOCL PANAMA vessel on voyage 330S. The shipping instructions were issued on January 24, 2026. The part weighed 2.37 kg per piece, totaling 426.6 kg. The container weighed 18,984.6 kg, and the shipment was marked as shipped on January 24, 2026.
+
+DMW shipped 600 units of 100x100x5000x2400x4.50 IndMesh IMB4H-44-5024 to Adelaide under CFR terms via the OOCL PANAMA vessel on voyage 330S. The shipping instructions were issued on January 24, 2026. The part weighed 30.93 kg per piece, totaling 18,558 kg. The container weighed 18,984.6 kg, and the shipment was marked as shipped on January 24, 2026.
+
+DMW shipped 180 units of Glut 90x90x300 to Adelaide under CFR terms via the OOCL PANAMA vessel on voyage 330S. The shipping instructions were issued on January 24, 2026. The part weighed 2.37 kg per piece, totaling 426.6 kg. The container weighed 18,984.6 kg, and the shipment was marked as shipped on January 24, 2026.
+
+DMW shipped 600 units of MESH MINE 4.5MX1.7M 100X100 APT 5.6MM WIRE - GAL IMG5H-44-4517_JEN to Fremantle under CFR terms via the OOCL PANAMA vessel on voyage 330S. The shipping instructions were issued on January 30, 2026. The part weighed 30.8 kg per piece, totaling 18,480 kg. The container weighed 22,180 kg, and the shipment was marked as shipped on January 30, 2026.
+
+DMW shipped 148 units of Tie Wire 3.15mmx2.3m Lenght Tie-3.15mm-2.3m to Fremantle under CFR terms via the OOCL PANAMA vessel on voyage 330S. The shipping instructions were issued on January 30, 2026. The part weighed 25 kg per piece, totaling 3,700 kg. The container weighed 22,180 kg, and the shipment was marked as shipped on January 30, 2026.
+
+DMW shipped 600 units of MESH MINE 4.5MX1.7M 100X100 APT 5.6MM WIRE - GAL IMG5H-44-4517_JEN to Fremantle under CFR terms via the OOCL PANAMA vessel on voyage 330S. The shipping instructions were issued on January 30, 2026. The part weighed 30.8 kg per piece, totaling 18,480 kg. The container weighed 18,480 kg, and the shipment was marked as shipped on January 30, 2026.
+
+DMW shipped 600 units of MESH MINE 4.5MX1.7M 100X100 APT 5.6MM WIRE - GAL IMG5H-44-4517_JEN to Fremantle under CFR terms via the OOCL PANAMA vessel on voyage 330S. The shipping instructions were issued on January 30, 2026. The part weighed 30.8 kg per piece, totaling 18,480 kg. The container weighed 20,330 kg, and the shipment was marked as shipped on January 30, 2026.
+
+DMW shipped 74 units of Tie Wire 3.15mmx2.3m Lenght Tie-3.15mm-2.3m to Fremantle under CFR terms via the OOCL PANAMA vessel on voyage 330S. The shipping instructions were issued on January 30, 2026. The part weighed 25 kg per piece, totaling 1,850 kg. The container weighed 20,330 kg, and the shipment was marked as shipped on January 30, 2026.
+
+DMW shipped 600 units of MESH MINE 4.5MX1.7M 100X100 APT 5.6MM WIRE - GAL IMG5H-44-4517_JEN to Fremantle under CFR terms via the OOCL PANAMA vessel on voyage 330S. The shipping instructions were issued on January 30, 2026. The part weighed 30.8 kg per piece, totaling 18,480 kg. The container weighed 20,330 kg, and the shipment was marked as shipped on January 30, 2026.
+
+DMW supplies Tie Wire 3.15mmx2.3m Lenght Tie-3.15mm-2.3m to Fremantle under CFR terms. The shipment is scheduled for January 26, 2026, with an instruction date of January 30, 2026. The order number is 255005, and the quantity is 74 pieces, each weighing 25 kg, totaling 1850 kg. The container weighs 20330 kg, and the status is Shipped.
+
+DMW plans to send Galvanized Mesh - IMG3H-33-2516 to Brisbane under CFR terms. The shipment is scheduled for January 26, 2026, with an instruction date of January 30, 2026. The order number is 254993, and the quantity is 3300 pieces, each weighing 6.6 kg, totaling 21780 kg. The container weighs 21780 kg, and the status is Planned.
+
+DMW plans to deliver IMGX44H-44-5012-VGOC to Brisbane under CFR terms. The shipment is scheduled for January 26, 2026, with an instruction date of January 30, 2026. The order number is 254988, and the quantity is 720 pieces, each weighing 14.26 kg, totaling 10267.2 kg. The container weighs 10267.2 kg, and the status is Planned.
+
+DMW plans to deliver IMGX44H-44-5012-VGOC to Brisbane under CFR terms. The shipment is scheduled for January 26, 2026, with an instruction date of January 30, 2026. The order number is 254988, and the quantity is 720 pieces, each weighing 14.26 kg, totaling 10267.2 kg. The container weighs 10267.2 kg, and the status is Planned.
+
+DMW plans to deliver IMGX44H-44-5012-VGOC to Brisbane under CFR terms. The shipment is scheduled for January 26, 2026, with an instruction date of January 30, 2026. The order number is 254988, and the quantity is 720 pieces, each weighing 14.26 kg, totaling 10267.2 kg. The container weighs 10267.2 kg, and the status is Planned.
+
+DMW plans to deliver IMGX44H-44-5012-VGOC to Brisbane under CFR terms. The shipment is scheduled for January 26, 2026, with an instruction date of January 30, 2026. The order number is 254988, and the quantity is 720 pieces, each weighing 14.26 kg, totaling 10267.2 kg. The container weighs 10267.2 kg, and the status is Planned.
+
+DMW plans to deliver IMGX44H-44-5012-VGOC to Brisbane under CFR terms. The shipment is scheduled for January 26, 2026, with an instruction date of January 30, 2026. The order number is 254988, and the quantity is 720 pieces, each weighing 14.26 kg, totaling 10267.2 kg. The container weighs 10267.2 kg, and the status is Planned.
+
+DMW plans to deliver IMGX44H-44-5012-VGOC to Brisbane under CFR terms. The shipment is scheduled for January 26, 2026, with an instruction date of January 30, 2026. The order numbers are 253626/255016, and the quantity is 330 pieces, each weighing 14.26 kg, totaling 4705.8 kg. The container weighs 10267.2 kg, and the status is Planned.
+
+DMW plans to deliver IMGX44H-44-5012-VGOC to Brisbane under CFR terms. The shipment is scheduled for January 26, 2026, with an instruction date of January 30, 2026. The order number is 255016, and the quantity is 390 pieces, each weighing 14.26 kg, totaling 5561.4 kg. The container weighs 10267.2 kg, and the status is Planned.
+
+DMW plans to deliver 150x150x5100x1700x4x5 IMB45-66-5117-DEN to Brisbane under CFR terms. The shipment is scheduled for January 26, 2026, with an instruction date of January 30, 2026. The order number is 254980, and the quantity is 540 pieces, each weighing 19.31 kg, totaling 10427.4 kg. The container weighs 12707.4 kg, and the status is Planned.
+
+DMW plans to deliver OSH106H-5803 to Brisbane under CFR terms. The shipment is scheduled for January 26, 2026, with an instruction date of January 30, 2026. The order number is 255018, and the quantity is 100 pieces, each weighing 22.8 kg, totaling 2280 kg. The container weighs 12707.4 kg, and the status is Planned.
+
+DMW plans to deliver 150x150x5100x1700x4x5 IMB45-66-5117-DEN to Brisbane under CFR terms. The shipment is scheduled for January 26, 2026, with an instruction date of January 30, 2026. The order number is 254980, and the quantity is 540 pieces, each weighing 19.31 kg, totaling 10427.4 kg. The container weighs 12954.6 kg, and the status is Planned.
+
+DMW plans to deliver 100x50x25x5000x250x4x5 IMB45-421-5002-DEN to Brisbane under CFR terms. The shipment is scheduled for January 26, 2026, with an instruction date of January 30, 2026. The order number is 254980, and the quantity is 360 pieces, each weighing 7.02 kg, totaling 2527.2 kg. The container weighs 12954.6 kg, and the status is Planned.
+
+DMW plans to deliver 150x150x5100x1700x4x5 IMB45-66-5117-DEN to Brisbane under CFR terms. The shipment is scheduled for January 26, 2026, with an instruction date of January 30, 2026. The order number is 255018, and the quantity is 360 pieces, each weighing 7.02 kg, totaling 2527.2 kg. The container weighs 12954.6 kg, and the status is Planned.
+
+DMW plans to deliver MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Adelaide under CFR terms. The shipment is scheduled for February 6, 2026, with an instruction date of February 6, 2026. The order number is 254980, and the quantity is 550 pieces, each weighing 43.1 kg, totaling 23705 kg. The container weighs 0 kg, and the status is Planned.
+
+DMW plans to deliver Glut 90x90x300 to Adelaide under CFR terms. The shipment is scheduled for February 6, 2026, with an instruction date of February 6, 2026. The order number is 255018, and the quantity is 180 pieces, each weighing 2.37 kg, totaling 426.6 kg. The container weighs 0 kg, and the status is Planned.
+
+DMW plans to deliver MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Adelaide under CFR terms. The shipment is scheduled for February 6, 2026, with an instruction date of February 6, 2026. The order number is 254980, and the quantity is 550 pieces, each weighing 43.1 kg, totaling 23705 kg. The container weighs 0 kg, and the status is Planned.
+
+DMW plans to deliver Glut 90x90x300 to Adelaide under CFR terms. The shipment is scheduled for February 6, 2026, with an instruction date of February 6, 2026. The order number is 255018, and the quantity is 180 pieces, each weighing 2.37 kg, totaling 426.6 kg. The container weighs 0 kg, and the status is Planned.
+
+DMW is planning to ship Glut 90x90x300 to Adelaide under CFR terms on February 6, 2026. The shipment will consist of 180 units, each weighing 2.37 kg, totaling 426.6 kg. The shipment is scheduled for loading in week 6 and is planned for delivery in week 0. The container will hold 40 units.
+
+DMW is also planning to ship MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Adelaide under CFR terms on February 6, 2026. The shipment will consist of 550 units, each weighing 43.1 kg, totaling 23705 kg. The shipment is scheduled for loading in week 6 and is planned for delivery in week 0. The container will hold 40 units.
+
+Glut 90x90x300 is being shipped again to Adelaide under CFR terms on February 6, 2026. The shipment will consist of 180 units, each weighing 2.37 kg, totaling 426.6 kg. The shipment is scheduled for loading in week 6 and is planned for delivery in week 0. The container will hold 40 units.
+
+MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN is being shipped once more to Adelaide under CFR terms on February 6, 2026. The shipment will consist of 550 units, each weighing 43.1 kg, totaling 23705 kg. The shipment is scheduled for loading in week 6 and is planned for delivery in week 0. The container will hold 40 units.
+
+Glut 90x90x300 is being shipped yet again to Adelaide under CFR terms on February 6, 2026. The shipment will consist of 180 units, each weighing 2.37 kg, totaling 426.6 kg. The shipment is scheduled for loading in week 6 and is planned for delivery in week 0. The container will hold 40 units.
+
+MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN is being shipped for the fifth time to Adelaide under CFR terms on February 6, 2026. The shipment will consist of 550 units, each weighing 43.1 kg, totaling 23705 kg. The shipment is scheduled for loading in week 6 and is planned for delivery in week 0. The container will hold 40 units.
+
+Glut 90x90x300 is being shipped for the sixth time to Adelaide under CFR terms on February 6, 2026. The shipment will consist of 180 units, each weighing 2.37 kg, totaling 426.6 kg. The shipment is scheduled for loading in week 6 and is planned for delivery in week 0. The container will hold 40 units.
+
+DMW is planning to ship MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Brisbane under CFR terms on February 6, 2026. The shipment will consist of 550 units, each weighing 43.1 kg, totaling 23705 kg. The shipment is scheduled for loading in week 6 and is planned for delivery in week 0. The container will hold 40 units.
+
+MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN is being shipped for the second time to Brisbane under CFR terms on February 6, 2026. The shipment will consist of 550 units, each weighing 43.1 kg, totaling 23705 kg. The shipment is scheduled for loading in week 6 and is planned for delivery in week 0. The container will hold 40 units.
+
+DMW is planning to ship Black Mesh -IMB5-64-5113-JMOL to Brisbane under CFR terms on February 6, 2026. The shipment will consist of 506 units, each weighing 22.2 kg, totaling 11233.2 kg. The shipment is scheduled for loading in week 6 and is planned for delivery in week 0. The container will hold 40 units.
+
+MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN is being shipped for the third time to Brisbane under CFR terms on February 6, 2026. The shipment will consist of 540 units, each weighing 19.31 kg, totaling 10427.4 kg. The shipment is scheduled for loading in week 6 and is planned for delivery in week 0. The container will hold 40 units.
+
+DMW is planning to ship 100x50x25x5000x250x4x5 IMB45-421-5002-DEN to Brisbane under CFR terms on February 6, 2026. The shipment will consist of 440 units, each weighing 7.02 kg, totaling 3088.8 kg. The shipment is scheduled for loading in week 6 and is planned for delivery in week 0. The container will hold 40 units.
+
+OSH106H-5803 is being shipped to Brisbane under CFR terms on February 6, 2026. The shipment will consist of 100 units, each weighing 22.8 kg, totaling 2280 kg. The shipment is scheduled for loading in week 6 and is planned for delivery in week 0. The container will hold 40 units.
+
+DMW is planning to ship Black Mesh -IMB5-64-5113-JMOL to Brisbane under CFR terms on February 6, 2026. The shipment will consist of 616 units, each weighing 22.2 kg, totaling 13675.2 kg. The shipment is scheduled for loading in week 6 and is planned for delivery in week 0. The container will hold 40 units.
+
+MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN is being shipped for the fourth time to Brisbane under CFR terms on February 6, 2026. The shipment will consist of 540 units, each weighing 19.31 kg, totaling 10427.4 kg. The shipment is scheduled for loading in week 6 and is planned for delivery in week 0. The container will hold 40 units.
+
+DMW is planning to ship 100x50x25x5000x250x4x5 IMB45-421-5002-DEN to Brisbane under CFR terms on February 6, 2026. The shipment will consist of 240 units, each weighing 7.02 kg, totaling 1684.8 kg. The shipment is scheduled for loading in week 6 and is planned for delivery in week 0. The container will hold 40 units.
+
+MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN is being shipped for the fifth time to Brisbane under CFR terms on February 6, 2026. The shipment will consist of 540 units, each weighing 19.31 kg, totaling 10427.4 kg. The shipment is scheduled for loading in week 6 and is planned for delivery in week 0. The container will hold 40 units.
+
+DMW is planning to ship 100x50x25x5000x250x4x5 IMB45-421-5002-DEN to Brisbane under CFR terms on February 6, 2026. The shipment will consist of 240 units, each weighing 7.02 kg, totaling 1684.8 kg. The shipment is scheduled for loading in week 6 and is planned for delivery in week 0. The container will hold 40 units.
+
+MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN is being shipped for the sixth time to Brisbane under CFR terms on February 6, 2026. The shipment will consist of 540 units, each weighing 19.31 kg, totaling 10427.4 kg. The shipment is scheduled for loading in week 6 and is planned for delivery in week 0. The container will hold 40 units.
+
+DMW is planning to ship 100x50x25x5000x250x4x5 IMB45-421-5002-DEN to Brisbane under CFR terms on February 6, 2026. The shipment will consist of 240 units, each weighing 7.02 kg, totaling 1684.8 kg. The shipment is scheduled for loading in week 6 and is planned for delivery in week 0. The container will hold 40 units.
+
+DMW is planning to ship 240 units of part 100x50x25x5000x250x4x5 IMB45-421-5002-DEN to Brisbane under CFR terms on February 6, 2026. The shipment is scheduled for loading in week 6 and is expected to arrive in week 0. The total weight is 1684.8 kg.
+
+DMW is planning to ship 720 units of part 150x150x5100x1150x4x5 - DEN2 IMB45-66-5111-DEN2 to Brisbane under CFR terms on February 6, 2026. The shipment is scheduled for loading in week 6 and is expected to arrive in week 0. The total weight is 8827.2 kg.
+
+DMW is planning to ship 720 units of part 150x150x5100x1150x4x5 - DEN2 IMB45-66-5111-DEN2 to Brisbane under CFR terms on February 6, 2026. The shipment is scheduled for loading in week 6 and is expected to arrive in week 0. The total weight is 8827.2 kg.
+
+DMW is pending SIRIM check for a coil shipment of 7.60mm Ribbed Wire in Spools D500L7.6-Spools to Fremantle under CFR terms on February 6, 2026. The shipment is scheduled for loading in week 6 and is expected to arrive in week 0. The total weight is 24013 kg.
+
+DMW is pending SIRIM check for a coil shipment of 8.0mm Bright Wire In coils R500L8.0-Coils to Fremantle under CFR terms on February 6, 2026. The shipment is scheduled for loading in week 6 and is expected to arrive in week 0. The total weight is 24013 kg.
+
+DMW is planning to ship 550 units of part MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Adelaide under CFR terms on February 13, 2026. The shipment is scheduled for loading in week 7 and is expected to arrive in week 0. The total weight is 23705 kg.
+
+Glut 90x90x300 is planned to be shipped 180 units to Adelaide under CFR terms on February 13, 2026. The shipment is scheduled for loading in week 7 and is expected to arrive in week 0. The total weight is 426.6 kg.
+
+DMW is planning to ship 550 units of part MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Adelaide under CFR terms on February 13, 2026. The shipment is scheduled for loading in week 7 and is expected to arrive in week 0. The total weight is 23705 kg.
+
+Glut 90x90x300 is planned to be shipped 180 units to Adelaide under CFR terms on February 13, 2026. The shipment is scheduled for loading in week 7 and is expected to arrive in week 0. The total weight is 426.6 kg.
+
+Glut 90x90x300 is planned to be shipped 180 units to Adelaide under CFR terms on February 13, 2026. The shipment is scheduled for loading in week 7 and is expected to arrive in week 0. The total weight is 426.6 kg.
+
+Glut 90x90x300 is planned to be shipped 180 units to Adelaide under CFR terms on February 13, 2026. The shipment is scheduled for loading in week 7 and is expected to arrive in week 0. The total weight is 426.6 kg.
+
+Glut 90x90x300 is planned to be shipped 180 units to Adelaide under CFR terms on February 13, 2026. The shipment is scheduled for loading in week 7 and is expected to arrive in week 0. The total weight is 426.6 kg.
+
+Glut 90x90x300 is planned to be shipped 180 units to Adelaide under CFR terms on February 13, 2026. The shipment is scheduled for loading in week 7 and is expected to arrive in week 0. The total weight is 426.6 kg.
+
+Glut 90x90x300 is planned to be shipped 180 units to Adelaide under CFR terms on February 13, 2026. The shipment is scheduled for loading in week 7 and is expected to arrive in week 0. The total weight is 426.6 kg.
+
+DMW is planning to ship 720 units of part 150x150x5100x1150x4x5 - DEN2 IMB45-66-5111-DEN2 to Brisbane under CFR terms on February 13, 2026. The shipment is scheduled for loading in week 7 and is expected to arrive in week 0. The total weight is 8827.2 kg.
+
+DMW is planning to ship 720 units of part 150x150x5100x1150x4x5 - DEN2 IMB45-66-5111-DEN2 to Brisbane under CFR terms on February 13, 2026. The shipment is scheduled for loading in week 7 and is expected to arrive in week 0. The total weight is 8827.2 kg.
+
+DMW is planning to ship 360 units of part 150x150x5100x1150x4x5 - DEN2 IMB45-66-5111-DEN2 to Brisbane under CFR terms on February 13, 2026. The shipment is scheduled for loading in week 7 and is expected to arrive in week 0. The total weight is 4413.6 kg.
+
+DMW is planning to ship 2200 units of part Mesh Rib 2M x 1.5M 100 x 100 Apt 4.0mm wire Gal IMG4-44-2015-JNA to Brisbane under CFR terms on February 13, 2026. The shipment is scheduled for loading in week 7 and is expected to arrive in week 0. The total weight is 13772 kg.
+
+DMW is planning to ship 70 units of part Ausro Strap 4.0 x 0.3 OSH106H-4003 to Brisbane under CFR terms on February 13, 2026. The shipment is scheduled for loading in week 7 and is expected to arrive in week 0. The total weight is 1425.2 kg.
+
+DMW is planning to ship 3800 units of part Mesh Rib 2M x 1.5M 100 x 100 Apt 4.0mm wire Gal IMG4-44-2015-JNA to Brisbane under CFR terms on February 13, 2026. The shipment is scheduled for loading in week 7 and is expected to arrive in week 0. The total weight is 23788 kg.
+
+DMW is planning to ship 550 units of part MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Brisbane under CFR terms on February 13, 2026. The shipment is scheduled for loading in week 7 and is expected to arrive in week 0. The total weight is 23705 kg.
+
+DMW is planning to ship MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Brisbane with a total quantity of 1650 units. Each unit weighs 43.1 kg, making the total weight 71,550 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is also planning to ship MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Adelaide with a total quantity of 1800 units. Each unit weighs 43.1 kg, making the total weight 77,580 kg. The shipment is scheduled for February 13, 2026.
+
+DMW intends to ship MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle with a total quantity of 1650 units. Each unit weighs 43.1 kg, making the total weight 71,550 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 600 units of 100x100x5000x2400x4.50 IndMesh IMB4H-44-5024 parts to Adelaide. Each unit weighs 30.93 kg, making the total weight 18,558 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 180 units of Glut 90x90x300 parts to Adelaide. Each unit weighs 2.37 kg, making the total weight 426.6 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 600 units of 100x100x5000x2400x4.50 IndMesh IMB4H-44-5024 parts to Adelaide. Each unit weighs 30.93 kg, making the total weight 18,558 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 180 units of Glut 90x90x300 parts to Adelaide. Each unit weighs 2.37 kg, making the total weight 426.6 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 600 units of 100x100x5000x2400x4.50 IndMesh IMB4H-44-5024 parts to Adelaide. Each unit weighs 30.93 kg, making the total weight 18,558 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 180 units of Glut 90x90x300 parts to Adelaide. Each unit weighs 2.37 kg, making the total weight 426.6 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Brisbane. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Brisbane. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Brisbane. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle. Each unit weighs 43.1 kg, making the total weight 23,705 kg. The shipment is scheduled for February 13, 2026.
+
+DMW is planning to ship 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Seattle
+
+Noreference is planned with no specific load week or shipping week. The part has a zero kilograms per piece weight and a total weight of zero kilograms. There is no container weight recorded, and the status remains Planned. This applies consistently across all twenty records.
+
+Noreference is planned for loading and shipping with no specific weeks assigned. The part has a zero kilograms per piece weight and a total weight of zero kilograms. No container weight is recorded, and the status is marked as Planned. This applies to all twenty records listed.
+
+Noreference is planned with no specific load week or shipping week. The part has a zero kilograms per piece weight and a total weight of zero kilograms. There is no container weight recorded, and the status remains Planned. This applies consistently across all twenty records.
+
+Noreference is planned for loading and shipping with no specific weeks assigned. The part has a zero kilograms per piece weight and a total weight of zero kilograms. There is also no recorded container weight, and the status is marked as Planned. This applies to all 20 records listed.
+
+Noreference is planned for loading and shipping with no specific weeks assigned. The part has a zero kilograms per piece weight and a total weight of zero kilograms. No container weight is recorded, and the status remains Planned. This applies consistently across all twenty records.
+
+Noreference is planned with no specific load week or shipping week. The part has a zero kilograms per piece weight and a total weight of zero kilograms. There is no container weight recorded, and the status remains Planned. This applies consistently across all records from 1 to 20.
+
+Noreference is planned with no specific loading or shipping weeks. The part has a zero kilograms per piece weight and a total weight of zero kilograms. There is no recorded container weight, and the status is marked as Planned. This applies to all 20 records listed.
+
+Noreference is planned for loading and shipping with no specific weeks assigned. The part has a zero kilograms per piece weight and a total weight of zero kilograms. There is also no specified container weight. The status for all records is Planned.
+
+Noreference is planned with no specific load week or shipping week. The part has a zero kilograms per piece weight and a total weight of zero kilograms. There is no container weight recorded, and the status is marked as Planned. This plan is consistent across all records listed.
+
+Noreference is planned with no specific load week or shipping week. The part has a zero kilograms per piece weight and a total weight of zero kilograms. There is no container weight recorded, and the status is marked as Planned. This plan is consistent across all records listed.
+
+Noreference is planned with no specific load week or shipping week. The part has a zero kilograms per piece weight and a total weight of zero kilograms. There is no container weight recorded, and the status remains Planned. This applies consistently across all twenty records.
+
+Noreference is planned for loading and shipping with no specific weeks assigned. The part has a zero kilograms per piece weight and a total weight of zero kilograms. No container weight is recorded, and the status remains Planned. This applies to all eight records listed.

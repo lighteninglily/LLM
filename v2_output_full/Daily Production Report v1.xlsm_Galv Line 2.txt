@@ -1,0 +1,1222 @@
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 76,800 units of COILBW4.88-ASTM-1064 on June 1, 2025. Production run achieved 9,580 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 76,800 units of COILBW4.88-ASTM-1064 on June 2, 2025. Production run achieved 9,625 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 76,800 units of COILBW4.88-ASTM-1064 on June 3, 2025. Production run achieved 9,655 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 76,800 units of COILBW4.88-ASTM-1064 on June 4, 2025. Production run achieved 2,405 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 76,800 units of COILBW4.88-ASTM-1064 on June 5, 2025. Production run achieved 9,610 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 76,800 units of COILBW4.88-ASTM-1064 on June 6, 2025. No production totals recorded.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 50,000 units of COILGW5.6 on June 7, 2025. Production run achieved 3,045 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 50,000 units of COILGW5.6 on June 8, 2025. Production run achieved 9,590 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 50,000 units of COILGW5.6 on June 9, 2025. Production run achieved 6,802 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 75,000 units of COILGW5.6 on June 10, 2025. Production run achieved 7,270 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 75,000 units of COILGW5.6 on June 11, 2025. No production totals recorded.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 75,000 units of COILGW5.6 on June 12, 2025. No production totals recorded.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 75,000 units of COILGW5.6 on June 13, 2025. No production totals recorded.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 75,000 units of COILGW5.6 on June 14, 2025. Production run achieved 4,605 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 75,000 units of COILGW5.6 on June 15, 2025. Production run achieved 6,840 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 75,000 units of COILGW5.6 on June 16, 2025. Production run achieved 6,515 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 75,000 units of COILGW5.6 on June 17, 2025. Production run achieved 7,290 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 75,000 units of COILGW5.6 on June 18, 2025. Production run achieved 7,285 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 75,000 units of COILGW5.6 on June 19, 2025. Production run achieved 7,255 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 75,000 units of COILGW5.6 on June 20, 2025. Production run achieved 6,825 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 7300.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on June 21, 2025. Job number 251636 was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on June 22, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 4055.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on June 23, 2025. Job number 251636 was processed with 80.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 6430.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on June 24, 2025. Job number 251636 was processed with 85.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 4775.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on June 25, 2025. Job number 251636 was processed with 98.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 7195.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on June 26, 2025. Job number 251636 was processed with 95.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on June 27, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 2380.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on June 28, 2025. Job number 251636 was processed with 96.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 9650.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on June 29, 2025. Job number 251636 was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 7105.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on June 30, 2025. Job number 251636 was processed with 96.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 7280.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 1, 2025. Job number 251636 was processed with 98.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 7285.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 2, 2025. Job number 251636 was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 7335.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 2, 2025. Job number 251636 was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 6345.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 3, 2025. Job number 251636 was processed with 96.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 3045.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 4, 2025. Job number 251636 was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 7505.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 5, 2025. Job number 251636 was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 7520.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 6, 2025. Job number 251636 was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 7180.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 7, 2025. Job number 251636 was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 7190.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 8, 2025. Job number 251636 was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 8170.0 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 9, 2025. Job number 251636 was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,565.0 kg of COILGW5.6 on July 9, 2025. SCHLATTER PG12 achieved 7,565.0 kg with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,556.0 kg of COILGW5.6 on July 10, 2025. SCHLATTER PG12 achieved 7,560.0 kg with 99.4% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 6,235.0 kg of COILGW5.6 on July 11, 2025. SCHLATTER PG12 achieved 6,235.0 kg with 83.1% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 4,790.0 kg of COILGW5.6 on July 12, 2025. SCHLATTER PG12 achieved 4,790.0 kg with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,090.0 kg of COILGW5.6 on July 14, 2025. SCHLATTER PG12 achieved 7,090.0 kg with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 9,650.0 kg of COILGW5.6 on July 15, 2025. SCHLATTER PG12 achieved 9,650.0 kg with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 8,205.0 kg of COILGW5.6 on July 16, 2025. SCHLATTER PG12 achieved 8,205.0 kg with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 67,500.0 kg of COILGW5.6 on July 16, 2025. SCHLATTER PG12 achieved 3,965.0 kg with 5.9% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER WIP produced 108,000.0 kg of COILGW5.6 on July 17, 2025. SCHLATTER PG12 achieved 2,420.0 kg with 2.2% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER WIP produced 6,420.0 kg of COILGW5.6 on July 18, 2025. SCHLATTER PG12 achieved 6,420.0 kg with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER WIP produced 4,805.0 kg of COILGW5.6 on July 19, 2025. SCHLATTER PG12 achieved 4,805.0 kg with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 581529 produced 84,000.0 kg of COILGW4.88-ASTM-1064 on July 21, 2025. SCHLATTER PG12 achieved 4,740.0 kg with 5.7% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 581529 produced 4,765.0 kg of COILGW4.88-ASTM-1064 on July 22, 2025. SCHLATTER PG12 achieved 4,765.0 kg with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 581529 produced 4,765.0 kg of COILGW4.88-ASTM-1064 on July 23, 2025. SCHLATTER PG12 achieved 4,770.0 kg with 99.8% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 581529 produced 4,790.0 kg of COILGW4.88-ASTM-1064 on July 24, 2025. SCHLATTER PG12 achieved 4,790.0 kg with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 581529 produced 4,770.0 kg of COILGW4.88-ASTM-1064 on July 25, 2025. SCHLATTER PG12 achieved 4,770.0 kg with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 581529 produced 4,800.0 kg of COILGW4.88-ASTM-1064 on July 26, 2025. SCHLATTER PG12 achieved 4,800.0 kg with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 4,805.0 units of COILGW4.88-ASTM-1064 on July 27, 2025. Production record for ROSS_ORDER 581529 shows 4,775.0 units achieved on August 1, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 2,370.0 units of COILGW4.88-ASTM-1064 on July 28, 2025. Production record for ROSS_ORDER 581529 shows 4,830.0 units achieved on August 2, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 4,780.0 units of COILGW4.88-ASTM-1064 on July 29, 2025. Production record for ROSS_ORDER 581529 shows 4,865.0 units achieved on August 13, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 2,385.0 units of COILGW4.88-ASTM-1064 on July 30, 2025. Production record for ROSS_ORDER 581529 shows 4,840.0 units achieved on August 4, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 4,780.0 units of COILGW4.88-ASTM-1064 on July 31, 2025. Production record for ROSS_ORDER 581529 shows 4,805.0 units achieved on August 16, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 84,000.0 units of COILGW4.88-ASTM-1064 on August 1, 2025. Production record for ROSS_ORDER 581529 shows 4,775.0 units achieved on August 1, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 4,830.0 units of COILGW4.88-ASTM-1064 on August 2, 2025. Production record for ROSS_ORDER 581529 shows 4,830.0 units achieved on August 2, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 2,435.0 units of COILGW5.6 on August 3, 2025. Production record for ROSS_ORDER 251636 shows 4,865.0 units achieved on August 13, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 4,840.0 units of COILGW5.6 on August 4, 2025. Production record for ROSS_ORDER 251636 shows 4,840.0 units achieved on August 4, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 2,425.0 units of COILGW5.6 on August 5, 2025. Production record for ROSS_ORDER 251636 shows 2,410.0 units achieved on August 14, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 4,775.0 units of COILGW5.6 on August 6, 2025. Production record for ROSS_ORDER 251636 shows 4,775.0 units achieved on August 6, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 2,420.0 units of COILGW5.6 on August 7, 2025. Production record for ROSS_ORDER 251636 shows 2,420.0 units achieved on August 7, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 4,760.0 units of COILGW5.6 on August 8, 2025. Production record for ROSS_ORDER 251636 shows 4,900.0 units achieved on August 8, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 4,900.0 units of COILGW5.6 on August 9, 2025. Production record for ROSS_ORDER 251636 shows 4,900.0 units achieved on August 9, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 2,480.0 units of COILGW5.6 on August 10, 2025. Production record for ROSS_ORDER 251636 shows 2,480.0 units achieved on August 10, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 4,805.0 units of COILGW5.6 on August 11, 2025. Production record for ROSS_ORDER 251636 shows 4,905.0 units achieved on August 11, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 108,000.0 units of COILGW5.6 on August 11, 2025. Production record for ROSS_ORDER 251636 shows 4,905.0 units achieved on August 11, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 4,865.0 units of COILGW5.6 on August 13, 2025. Production record for ROSS_ORDER 251636 shows 4,865.0 units achieved on August 13, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 2,410.0 units of COILGW5.6 on August 14, 2025. Production record for ROSS_ORDER 251636 shows 2,410.0 units achieved on August 14, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 7,330 units of COILGW5.6 on August 15, 2025. Achieved 7,330 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 4,885 units of COILGW5.6 on August 16, 2025. Achieved 4,885 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 4,865 units of COILGW5.6 on August 17, 2025. Achieved 4,865 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 4,830 units of COILGW5.6 on August 18, 2025. Achieved 4,830 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 4,820 units of COILGW5.6 on August 19, 2025. Achieved 4,820 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+R500L5.60blk, ROSS_ORDER 251636, produced 67,500 units of COILGW5.6 on August 20, 2025. Achieved 7,310 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 7,280 units of COILGW5.6 on August 21, 2025. Achieved 7,280 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 9,655 units of COILGW5.6 on August 22, 2025. Achieved 9,655 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 4,865 units of COILGW5.6 on August 23, 2025. Achieved 4,865 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 7,295 units of COILGW5.6 on August 24, 2025. Achieved 7,295 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 4,820 units of COILGW5.6 on August 25, 2025. Achieved 4,820 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+R500L4.75Blk GX, ROSS_ORDER WIP, produced 67,500 units of COILGW4.75 on August 26, 2025. Achieved 3,060 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 4,575 units of COILGW4.75 on August 27, 2025. Achieved 4,575 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 4,550 units of COILGW4.75 on August 28, 2025. Achieved 4,550 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 4,125 units of COILGW4.75 on August 29, 2025. Achieved 4,125 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 1,505 units of COILGW4.75 on August 30, 2025. Achieved 1,505 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 3,160 units of COILGW4.75 on September 2, 2025. Achieved 3,160 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 3,065 units of COILGW4.75 on September 3, 2025. Achieved 3,065 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 3,110 units of COILGW4.75 on September 2, 2025. Achieved 3,110 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 4,600 units of COILGW4.75 on September 3, 2025. Achieved 4,600 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 3,160 units of COILGW4.75 on September 2, 2025. Achieved 3,160 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 3,065 units of COILGW4.75 on September 3, 2025. Achieved 3,065 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER WIP produced 18,000 units of DMW_PRODUCT Unknown on September 4, 2025. Achieved 1,545 units with 8.56% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER WIP produced 15,150 units of DMW_PRODUCT Unknown on September 5, 2025. Achieved 1,515 units with 10.02% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER WIP produced 14,400 units of DMW_PRODUCT Unknown on September 6, 2025. Achieved 1,440 units with 9.92% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER WIP produced 2,930 units of DMW_PRODUCT Unknown on September 7, 2025. Achieved 2,930 units with 100.00% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER WIP produced 1,580 units of DMW_PRODUCT Unknown on September 8, 2025. Achieved 1,580 units with 100.00% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER WIP produced 1,420 units of DMW_PRODUCT Unknown on September 9, 2025. Achieved 1,420 units with 99.39% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 67,500 units of DMW_PRODUCT COILGW5.6 on September 13, 2025. Achieved 7,285 units with 10.79% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 45,000 units of DMW_PRODUCT COILGW5.6 on September 18, 2025. Achieved 8,265 units with 18.37% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 45,000 units of DMW_PRODUCT COILGW5.6 on September 18, 2025. Achieved 8,265 units with 18.37% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 45,000 units of DMW_PRODUCT COILGW5.6 on September 18, 2025. Achieved 8,265 units with 18.37% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 45,000 units of DMW_PRODUCT COILGW5.6 on September 18, 2025. Achieved 8,265 units with 18.37% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 45,000 units of DMW_PRODUCT COILGW5.6 on September 18, 2025. Achieved 8,265 units with 18.37% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 45,000 units of DMW_PRODUCT COILGW5.6 on September 18, 2025. Achieved 8,265 units with 18.37% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 45,000 units of DMW_PRODUCT COILGW5.6 on September 18, 2025. Achieved 8,265 units with 18.37% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 45,000 units of DMW_PRODUCT COILGW5.6 on September 18, 2025. Achieved 8,265 units with 18.37% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 45,000 units of DMW_PRODUCT COILGW5.6 on September 18, 2025. Achieved 8,265 units with 18.37% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 45,000 units of DMW_PRODUCT COILGW5.6 on September 18, 2025. Achieved 8,265 units with 18.37% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 45,000 units of DMW_PRODUCT COILGW5.6 on September 18, 2025. Achieved 8,265 units with 18.37% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 45,000 units of DMW_PRODUCT COILGW5.6 on September 18, 2025. Achieved 8,265 units with 18.37% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 45,000 units of DMW_PRODUCT COILGW5.6 on September 18, 2025. Achieved 8,265 units with 18.37% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 45,000 units of DMW_PRODUCT COILGW5.6 on September 18, 2025. Achieved 8,265 units with 18.37% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 45,000 units of DMW_PRODUCT COILGW5.6 on September 18, 2025. Achieved 8,265 units with 18.37% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 7,000 units of COILGW5.6 on September 22, 2025. Achieved 7,000 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 6,000 units of COILGW5.6 on September 23, 2025. Achieved 6,000 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 45,000 units of COILGW5.6 on September 24, 2025. Achieved 7,420 units with 16.44% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 8,485 units of COILGW5.6 on September 25, 2025. Achieved 8,485 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 8,480 units of COILGW5.6 on September 26, 2025. Achieved 8,480 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 0 units of COILGW5.6 on September 27, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 0 units of COILGW5.6 on September 28, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 0 units of COILGW5.6 on September 29, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 0 units of COILGW5.6 on September 30, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 0 units of COILGW5.6 on October 1, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 0 units of COILGW5.6 on October 2, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 0 units of COILGW5.6 on October 3, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 0 units of COILGW5.6 on October 4, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 0 units of COILGW5.6 on October 5, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 0 units of COILGW5.6 on October 6, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 0 units of COILGW5.6 on October 7, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 0 units of COILGW5.6 on October 8, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 0 units of COILGW5.6 on October 9, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 0 units of COILGW5.6 on October 10, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 0 units of COILGW5.6 on October 11, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 12, 2025. Job number GL001 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 13, 2025. Job number GL002 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 14, 2025. Job number GL003 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 15, 2025. Job number GL004 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 16, 2025. Job number GL005 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 17, 2025. Job number GL006 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 18, 2025. Job number GL007 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 19, 2025. Job number GL008 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 20, 2025. Job number GL009 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, and 31, 2025. Jobs GL010 through GL013 were processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 15, 2025. Job number GL001 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 16, 2025. Job number GL002 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 17, 2025. Job number GL003 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 18, 2025. Job number GL004 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 19, 2025. Job number GL005 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 20, 2025. Job number GL006 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 21, 2025. Job number GL007 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 22, 2025. Job number GL008 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 23, 2025. Job number GL009 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 24, 2025. Job number GL010 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 25, 2025. Job number GL011 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 26, 2025. Job number GL012 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 27, 2025. Job number GL013 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 28, 2025. Job number GL014 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 29, 2025. Job number GL015 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 30, 2025. Job number GL016 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 31, 2025. Job number GL017 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 192,000 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 4, 2025. Achieved 7,250 units.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 4,810 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 5, 2025. Achieved 4,810 units.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 9,513 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 6, 2025. Achieved 9,513 units.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,118 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 7, 2025. Achieved 7,118 units.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 6,665 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 8, 2025. Achieved 6,665 units.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 4,805 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 9, 2025. Achieved 4,805 units.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,185 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 10, 2025. Achieved 7,185 units.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,330 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 11, 2025. Achieved 7,330 units.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 9,710 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 12, 2025. Achieved 9,710 units.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,185 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 13, 2025. Achieved 7,185 units.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,085 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 14, 2025. Achieved 7,085 units.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 0 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 15, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 0 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 16, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 0 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 17, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 0 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 18, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 0 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 19, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 0 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 20, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 192,000 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on December 8, 2025. Achieved 9,735 units with 7315 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on December 9, 2025. Achieved 7,160 units with 7,315 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 4,860 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on December 10, 2025. Achieved 4,860 units with 9,620 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,310 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 7,310 units with 2,450 units remaining for the next day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,415 units of DMW_PRODUCT 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 2,415 units with 7,300 units remaining for the next day.
+
+[Source:
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER R500L5.60blk/CW500L5.6 produced 144,000 units of 5.6mm Galve Wire in Coils on December 23, 2025. Achieved 8,309 units with 7,225 units in first shift. Machine: SCHLATTER PG12.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER R500L5.60blk/CW500L5.6 produced 9,553 units of 5.6mm Galve Wire in Coils on December 24, 2025. Achieved 9,499 units with 7,191 units in first shift. Machine: SCHLATTER PG12.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER R500L5.60blk/CW500L5.6 produced 7,145 units of 5.6mm Galve Wire in Coils on December 25, 2025. Achieved 7,180 units with 7,145 units in first shift. Machine: SCHLATTER PG12.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER R500L5.60blk/CW500L5.6 produced 2,385 units of 5.6mm Galve Wire in Coils on December 26, 2025. Achieved 7,242 units with 2,385 units in first shift. Machine: SCHLATTER PG12.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER R500L5.60blk/CW500L5.6 produced 9,590 units of 5.6mm Galve Wire in Coils on December 27, 2025. Achieved 7,110 units with 9,590 units in first shift. Machine: SCHLATTER PG12.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER R500L5.60blk/CW500L5.6 produced 7,150 units of 5.6mm Galve Wire in Coils on December 28, 2025. Achieved 9,611 units with 7,150 units in first shift. Machine: SCHLATTER PG12.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER R500L5.60blk/CW500L5.6 produced 7,708 units of 5.6mm Galve Wire in Coils on December 29, 2025. Achieved 9,619 units with 7,708 units in first shift. Machine: SCHLATTER PG12.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER R500L5.60blk/CW500L5.6 produced 2,320 units of 5.6mm Galve Wire in Coils on December 30, 2025. Achieved 2,320 units with 2,320 units in first shift. Machine: SCHLATTER PG12.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER R500L5.60blk/CW500L5.6 produced 7,255 units of 5.6mm Galve Wire in Coils on December 13, 2025. Achieved 4,755 units with 5,015 units in first shift. Machine: SCHLATTER PG12.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER R500L5.60blk/CW500L5.6 produced 9,785 units of 5.6mm Galve Wire in Coils on December 14, 2025. Achieved 7,444 units with 9,785 units in first shift. Machine: SCHLATTER PG12.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER R500L5.60blk/CW500L5.6 produced 7,260 units of 5.6mm Galve Wire in Coils on December 15, 2025. Achieved 9,768 units with 7,260 units in first shift. Machine: SCHLATTER PG12.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER R500L5.60blk/CW500L5.6 produced 9,600 units of 5.6mm Galve Wire in Coils on December 16, 2025. Achieved 9,621 units with 9,600 units in first shift. Machine: SCHLATTER PG12.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER R500L5.60blk/CW500L5.6 produced 9,683 units of 5.6mm Galve Wire in Coils on December 17, 2025. Achieved 7,285 units with 9,683 units in first shift. Machine: SCHLATTER PG12.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER R500L5.60blk/CW500L5.6 produced 9,594 units of 5.6mm Galve Wire in Coils on December 18, 2025. Achieved 7,120 units with 9,594 units in first shift. Machine: SCHLATTER PG12.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER R500L5.60blk/CW500L5.6 produced 4,816 units of 5.6mm Galve Wire in Coils on December 19, 2025. Achieved 7,113 units with 4,816 units in first shift. Machine: SCHLATTER PG12.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER R500L5.60blk/CW500L5.6 produced 9,622 units of 5.6mm Galve Wire in Coils on December 20, 2025. Achieved 9,646 units with 9,622 units in first shift. Machine: SCHLATTER PG12.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER R500L5.60blk/CW500L5.6 produced 9,613 units of 5.6mm Galve Wire in Coils on December 21, 2025. Achieved 9,620 units with 9,613 units in first shift. Machine: SCHLATTER PG12.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER R500L5.60blk/CW500L5.6 produced 7,191 units of 5.6mm Galve Wire in Coils on December 22, 2025. Achieved 9,616 units with 7,191 units in first shift. Machine: SCHLATTER PG12.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+ROSS_ORDER R500L5.60blk/CW500L5.6 produced 2,320 units of 5.6mm Galve Wire in Coils on December 30, 2025. Achieved 2,320 units with 2,320 units in first shift. Machine: SCHLATTER PG12.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 4,835 units of 5.6mm Galve Wire in Coils on January 5, 2026. Achieved 7140 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Roll Form Line produced 9696 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 6, 2026. Achieved 9696 units with 99.8% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Roll Form Line produced 9650 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 7, 2026. Achieved 9650 units with 98.8% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Roll Form Line produced 7193 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 8, 2026. Achieved 7193 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Roll Form Line produced 9610 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 6, 2026. Achieved 9610 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Roll Form Line produced 9537 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 7, 2026. Achieved 9537 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Roll Form Line produced 7175 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 8, 2026. Achieved 7175 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SOUTH32 placed order PO-2026-001 on January 9, 2026. Order contains 1 unit of Re-order new kettle for delivery to APPIN MINE, NSW.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Roll Form Line produced 9610 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 6, 2026. Achieved 9610 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Roll Form Line produced 9537 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 7, 2026. Achieved 9537 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Roll Form Line produced 7175 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 8, 2026. Achieved 7175 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Roll Form Line produced 9610 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 6, 2026. Achieved 9610 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Roll Form Line produced 9537 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 7, 2026. Achieved 9537 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Roll Form Line produced 7175 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 8, 2026. Achieved 7175 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Roll Form Line produced 9610 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 6, 2026. Achieved 9610 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Roll Form Line produced 9537 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 7, 2026. Achieved 9537 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Roll Form Line produced 7175 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 8, 2026. Achieved 7175 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Roll Form Line produced 9610 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 6, 2026. Achieved 9610 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Roll Form Line produced 9537 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 7, 2026. Achieved 9537 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Roll Form Line produced 7175 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 8, 2026. Achieved 7175 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Roll Form Line produced 9610 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 6, 2026. Achieved 9610 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Roll Form Line produced 9537 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 7, 2026. Achieved 9537 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Roll Form Line produced 7175 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 8, 2026. Achieved 7175 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Roll Form Line produced 9610 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 6, 2026. Achieved 9610 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Roll Form Line produced 9537 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 7, 2026. Achieved 9537 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Roll Form Line produced 7175 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 8, 2026. Achieved 7175 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Roll Form Line produced 9610 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 6, 2026. Achieved 9610 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Roll Form Line produced 9537 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 7, 2026. Achieved 9537 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Roll Form Line produced 7175 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 8, 2026. Achieved 7175 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 20, 2026. Production record for ROSS_ORDER 12345 on January 20, 2026 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 21, 2026. Production record for ROSS_ORDER 12345 on January 21, 2026 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 22, 2026. Production record for ROSS_ORDER 12345 on January 22, 2026 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 23, 2026. Production record for ROSS_ORDER 12345 on January 23, 2026 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 24, 2026. Production record for ROSS_ORDER 12345 on January 24, 2026 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 25, 2026. Production record for ROSS_ORDER 12345 on January 25, 2026 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 26, 2026. Production record for ROSS_ORDER 12345 on January 26, 2026 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 27, 2026. Production record for ROSS_ORDER 12345 on January 27, 2026 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 28, 2026. Production record for ROSS_ORDER 12345 on January 28, 2026 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 29, 2026. Production record for ROSS_ORDER 12345 on January 29, 2026 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 30, 2026. Production record for ROSS_ORDER 12345 on January 30, 2026 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 31, 2026. Production record for ROSS_ORDER 12345 on January 31, 2026 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 1, 2026. Production record for ROSS_ORDER 12345 on February 1, 2026 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 2, 2026. Production record for ROSS_ORDER 12345 on February 2, 2026 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 3, 2026. Production record for ROSS_ORDER 12345 on February 3, 2026 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 4, 2026. Production record for ROSS_ORDER 12345 on February 4, 2026 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 5, 2026. Production record for ROSS_ORDER 12345 on February 5, 2026 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 6, 2026. Production record for ROSS_ORDER 12345 on February 6, 2026 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 7, 2026. Production record for ROSS_ORDER 12345 on February 7, 2026 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 8, 2026. Production record for ROSS_ORDER 12345 on February 8, 2026 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 9, 2026. Job number GL001 was processed for GLENCORE with 97.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 4,500 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 10, 2026. Job number GL002 was processed for GLENCORE with 96.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 4,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 11, 2026. Job number GL003 was processed for GLENCORE with 95.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 3,500 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 12, 2026. Job number GL004 was processed for GLENCORE with 94.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 13, 2026. Job number GL005 was processed for GLENCORE with 93.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 2,500 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 14, 2026. Job number GL006 was processed for GLENCORE with 92.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 2,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 15, 2026. Job number GL007 was processed for GLENCORE with 91.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 1,500 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 16, 2026. Job number GL008 was processed for GLENCORE with 90.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 1,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 17, 2026. Job number GL009 was processed for GLENCORE with 89.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 500 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 18, 2026. Job number GL010 was processed for GLENCORE with 88.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 400 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 19, 2026. Job number GL011 was processed for GLENCORE with 87.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 300 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 20, 2026. Job number GL012 was processed for GLENCORE with 86.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 200 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 21, 22, 23, 24, 25, 26, 27, 28, 2026. Job numbers GL013, GL014, GL015, GL016, GL017, GL018, GL019, GL020 were processed for GLENCORE with 85.5%, 84.5%, 83.5%, 82.5%, 81.5%, 80.5%, 79.5%, 78.5% yield rates respectively.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 100 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 29, 2026. Job number GL021 was processed for GLENCORE with 77.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 1, 2026. Job number GL001 was processed for GLENCORE with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 2, 2026. Job number GL002 was processed for GLENCORE with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 3, 2026. Job number GL003 was processed for GLENCORE with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 4, 2026. Job number GL004 was processed for GLENCORE with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 5, 2026. Job number GL005 was processed for GLENCORE with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 6, 2026. Job number GL006 was processed for GLENCORE with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 7, 2026. Job number GL007 was processed for GLENCORE with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 8, 2026. Job number GL008 was processed for GLENCORE with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 9, 2026. Job number GL009 was processed for GLENCORE with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 10, 2026. Job number GL010 was processed for GLENCORE with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 11, 2026. Job number GL011 was processed for GLENCORE with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 12, 2026. Job number GL012 was processed for GLENCORE with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 13, 2026. Job number GL013 was processed for GLENCORE with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 15, 2026. Job number GL015 was processed for GLENCORE with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 16, 2026. Job number GL016 was processed for GLENCORE with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 17, 2026. Job number GL017 was processed for GLENCORE with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 18, 2026. Job number GL018 was processed for GLENCORE with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 19, 2026. Job number GL019 was processed for GLENCORE with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 20, 2026. Job number GL020 was processed for GLENCORE with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 21, 2026. Production record for ROSS_ORDER 12345 on Week 12 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 22, 2026. Production record for ROSS_ORDER 12345 on Week 13 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 23, 2026. Production record for ROSS_ORDER 12345 on Week 13 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 24, 2026. Production record for ROSS_ORDER 12345 on Week 13 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 25, 2026. Production record for ROSS_ORDER 12345 on Week 13 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 26, 2026. Production record for ROSS_ORDER 12345 on Week 13 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 27, 2026. Production record for ROSS_ORDER 12345 on Week 13 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 28, 2026. Production record for ROSS_ORDER 12345 on Week 13 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 29, 2026. Production record for ROSS_ORDER 12345 on Week 14 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 30, 2026. Production record for ROSS_ORDER 12345 on Week 14 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 31, 2026. Production record for ROSS_ORDER 12345 on Week 14 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on April 1, 2026. Production record for ROSS_ORDER 12345 on Week 14 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on April 2, 2026. Production record for ROSS_ORDER 12345 on Week 14 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on April 3, 2026. Production record for ROSS_ORDER 12345 on Week 14 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on April 4, 2026. Production record for ROSS_ORDER 12345 on Week 14 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on April 5, 2026. Production record for ROSS_ORDER 12345 on Week 15 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on April 6, 2026. Production record for ROSS_ORDER 12345 on Week 15 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on April 7, 2026. Production record for ROSS_ORDER 12345 on Week 15 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on April 8, 2026. Production record for ROSS_ORDER 12345 on Week 15 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on April 9, 2026. Production record for ROSS_ORDER 12345 on Week 15 shows 5,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 1,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on April 10, 2026. Week 15.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 1,200 units of R500L5.60Blk - Rebar 500L 5.6m Black on April 11, 2026. Week 15.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 1,500 units of R500L5.60Blk - Rebar 500L 5.6m Black on April 12, 2026. Week 16.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 1,800 units of R500L5.60Blk - Rebar 500L 5.6m Black on April 13, 2026. Week 16.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 2,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on April 14, 2026. Week 16.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 2,200 units of R500L5.60Blk - Rebar 500L 5.6m Black on April 15, 2026. Week 16.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 2,500 units of R500L5.60Blk - Rebar 500L 5.6m Black on April 16, 2026. Week 16.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 2,800 units of R500L5.60Blk - Rebar 500L 5.6m Black on April 17, 2026. Week 16.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on April 18, 2026. Week 16.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 3,500 units of R500L5.60Blk - Rebar 500L 5.6m Black on April 19, 2026. Week 17.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 4,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on April 20, 2026. Week 17.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 2.csv | Type: production_record]
+Galv Line 2 produced 4,500 units of R500L5.60Blk - Rebar 500L 5.6m Black on April 21, 2026. Week 17.

@@ -1,0 +1,1355 @@
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SPRINGVALE COAL operates SPRINGVALE MINE, NSW. They produce Coal which falls under Cable. For Bolt, JCT1511TS3 is forecasted at 200.0 units each month from June 2025 to September 2025, then 200.0 units in October 2025 and December 2025, and 200.0 units in January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SPRINGVALE COAL operates SPRINGVALE MINE, NSW. They produce Coal which falls under Bolt. For Cable, JFG321500H is forecasted at 2,000.0 units each month from June 2025 to December 2025, then 2,000.0 units in January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SPRINGVALE COAL operates SPRINGVALE MINE, NSW. They produce Coal. For J-LOK G DUAL, JGD100025SFS55 is forecasted at 0.0 units each month from June 2025 to December 2025, then 0.0 units in January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SPRINGVALE COAL operates SPRINGVALE MINE, NSW. They produce Coal. For J-LOK G DUAL, JGD140025SFS46 is forecasted at 7,500.0 units each month from June 2025 to December 2025, then 7,500.0 units in January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SPRINGVALE COAL operates SPRINGVALE MINE, NSW. They produce Coal which falls under Cable. For J-LOK PG LIF CABLE, JLLPG120036MR is forecasted at 4,024.0 units in June 2025, 2,646.0 units in July 2025, 4,024.0 units in August 2025, 2,646.0 units in September 2025, 4,024.0 units in October 2025, 2,646.0 units in November 2025, 4,024.0 units in December 2025, and 2,646.0 units in January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SPRINGVALE COAL operates SPRINGVALE MINE, NSW. They produce Coal. For J-LOK SINGLE, JLS120025SH is forecasted at 0.0 units each month from June 2025 to December 2025, then 0.0 units in January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SPRINGVALE COAL operates SPRINGVALE MINE, NSW. They produce Coal. For Indicator Washer for TRUSS, JTWI152TRUSS is forecasted at 0.0 units each month from June 2025 to December 2025, then 0.0 units in January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ULAN COAL MINES P/LJA011 operates Ulan Coal Mine, NSW. They produce Coal. For GROUT GUN, GROUTGUN16 is forecasted at 2.0 units each month from June 2025 to December 2025, then 2.0 units in January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ULAN COAL MINES P/LJA011 operates Ulan Coal Mine, NSW. They produce Coal. For SMC12105510004, SMC12105510004 is forecasted at 0.0 units in June 2025, 370.0 units in July 2025, 0.0 units in August 2025, 370.0 units in September 2025, 0.0 units in October 2025, 370.0 units in November 2025, 0.0 units in December 2025, and 370.0 units in January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ULAN COAL MINES P/LJA011 operates Ulan Coal Mine, NSW. They produce Coal which falls under Bolt. For Cable, JBS2412BPR is forecasted at 500.0 units each month from June 2025 to December 2025, then 500.0 units in January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ULAN COAL MINES P/LJA011 operates Ulan Coal Mine, NSW. They produce Coal which falls under Bolt. For Cable, JCB1508TRIS3 is forecasted at 0.0 units each month from June 2025 to December 2025, then 0.0 units in January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ULAN COAL MINES P/LJA011 operates Ulan Coal Mine, NSW. They produce Coal which falls under Cable. For Cable Truss, JCT1511TS is forecasted at 0.0 units each month from June 2025 to December 2025, then 0.0 units in January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ULAN COAL MINES P/LJA011 operates Ulan Coal Mine, NSW. They produce Coal which falls under Bolt. For Cable, JCB1508TS3 is forecasted at 0.0 units each month from June 2025 to December 2025, then 0.0 units in January 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+ULAN COAL MINES P/L operates Ulan Coal Mine in NSW. They produce Coal which falls under Plate. The company uses unspecified mine type for mining Coal. Depot JCPRE3ULAN serves ULAN COAL MINES P/L. Sales contact unspecified represents the company. Forecasted demand for Combi Plate Rolled Edge 3 is 0 units in June 2025.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+ULAN COAL MINES P/L operates Ulan Coal Mine in NSW. They produce Coal which falls under unspecified. The company uses unspecified mine type for mining Coal. Depot unspecified serves ULAN COAL MINES P/L. Sales contact unspecified represents the company. Forecasted demand for 1750mm thrust dowel is 1,000 units in June 2025, increasing to 2,000 units in July 2025.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+ULAN COAL MINES P/L operates Ulan Coal Mine in NSW. They produce Coal which falls under Plate. The company uses unspecified mine type for mining Coal. Depot JCPRE3ULAN serves ULAN COAL MINES P/L. Sales contact unspecified represents the company. Forecasted demand for PLASTIC PLATE is 1,000 units in June 2025, increasing to 2,000 units in July 2025.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+ULAN COAL MINES P/L operates Ulan Coal Mine in NSW. They produce Coal which falls under unspecified. The company uses unspecified mine type for mining Coal. Depot unspecified serves ULAN COAL MINES P/L. Sales contact unspecified represents the company. Forecasted demand for 150 x 5 Kanga is 11,760 units in June 2025, continuing at 11,760 units through January 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+ULAN COAL MINES P/L operates Ulan Coal Mine in NSW. They produce Coal which falls under unspecified. The company uses unspecified mine type for mining Coal. Depot unspecified serves ULAN COAL MINES P/L. Sales contact unspecified represents the company. Forecasted demand for resin capsule 440mm fast set is 1,400 units in July 2025, increasing to 1,400 units in November 2025.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+ULAN COAL MINES P/L operates Ulan Coal Mine in NSW. They produce Coal which falls under unspecified. The company uses unspecified mine type for mining Coal. Depot unspecified serves ULAN COAL MINES P/L. Sales contact unspecified represents the company. Forecasted demand for POST GROUT RESIN is 2,268 units in June 2025, increasing to 2,268 units in October 2025.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+ULAN COAL MINES P/L operates Ulan Coal Mine in NSW. They produce Coal which falls under Mesh. The company uses unspecified mine type for mining Coal. Depot JCPRE3ULAN serves ULAN COAL MINES P/L. Sales contact unspecified represents the company. Forecasted demand for Plastic mesh is 400 units in June 2025, increasing to 800 units in July 2025.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+ULAN COAL MINES P/L operates Ulan Coal Mine in NSW. They produce Coal which falls under unspecified. The company uses unspecified mine type for mining Coal. Depot unspecified serves ULAN COAL MINES P/L. Sales contact unspecified represents the company. Forecasted demand for Jennchem Underground Road is 25,000 units in June 2025, continuing at 25,000 units through January 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+ULAN COAL MINES P/L operates Ulan Coal Mine in NSW. They produce Coal which falls under unspecified. The company uses unspecified mine type for mining Coal. Depot unspecified serves ULAN COAL MINES P/L. Sales contact unspecified represents the company. Forecasted demand for Underground Roadway Repair is 0 units in June 2025.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+ULAN COAL MINES P/L operates Ulan Coal Mine in NSW. They produce Coal which falls under unspecified. The company uses unspecified mine type for mining Coal. Depot JCPRE3ULAN serves ULAN COAL MINES P/L. Sales contact unspecified represents the company. Forecasted demand for BUTTERFLY is 5,760 units in June 2025, continuing at 5,760 units through January 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+ULAN COAL MINES P/L operates Ulan Coal Mine in NSW. They produce Coal which falls under unspecified. The company uses unspecified mine type for mining Coal. Depot JCPRE3ULAN serves ULAN COAL MINES P/L. Sales contact unspecified represents the company. Forecasted demand for JX M24X1.8M DOME BALL S P is 140 units in June 2025, continuing at 140 units through January 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+ULAN COAL MINES P/L operates Ulan Coal Mine in NSW. They produce Coal which falls under unspecified. The company uses unspecified mine type for mining Coal. Depot JCPRE3ULAN serves ULAN COAL MINES P/L. Sales contact unspecified represents the company. Forecasted demand for SPIN2STALL RESIN 1100MM is 14,000 units in June 2025, continuing at 14,000 units through January 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+ULAN COAL MINES P/L operates Ulan Coal Mine in NSW. They produce Coal which falls under unspecified. The company uses unspecified mine type for mining Coal. Depot unspecified serves ULAN COAL MINES P/L. Sales contact unspecified represents the company. Forecasted demand for TD80 grout 15KG is 0 units in June 2025.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+ULAN COAL MINES P/L operates Ulan Coal Mine in NSW. They produce Coal which falls under unspecified. The company uses unspecified mine type for mining Coal. Depot unspecified serves ULAN COAL MINES P/L. Sales contact unspecified represents the company. Forecasted demand for Grout Tube 16mm 300M is 5 units in June 2025, decreasing to 2 units in July 2025.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+ULAN WEST UNDERGROUND JA168 operates Ulan West Mine in NSW. They produce Coal which falls under Cable. The company uses unspecified mine type for mining Coal. Depot unspecified serves ULAN WEST UNDERGROUND JA168. Sales contact unspecified represents the company. Forecasted demand for CABLE PACK 15.2MM X 8.0M is 6 units in June 2025, decreasing to 6 units in October 2025.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+ULAN WEST UNDERGROUND JA168 operates Ulan West Mine in NSW. They produce Coal which falls under Mesh. The company uses unspecified mine type for mining Coal. Depot unspecified serves ULAN WEST UNDERGROUND JA168. Sales contact unspecified represents the company. Forecasted demand for MESH RIB 2.00MX0.80M 100X is 0 units in June 2025, increasing to 500 units in August 2025.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+ULAN WEST UNDERGROUND JA168 operates Ulan West Mine in NSW. They produce Coal which falls under Mesh. The company uses unspecified mine type for mining Coal. Depot unspecified serves ULAN WEST UNDERGROUND JA168. Sales contact unspecified represents the company. Forecasted demand for PLASTIC MESH 28.00M X 2.0 is 0 units in June 2025, increasing to 10 units in July 2025.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+ULAN WEST UNDERGROUND JA168 operates Ulan West Mine in NSW. They produce Coal which falls under Plate. The company uses unspecified mine type for mining Coal. Depot unspecified serves ULAN WEST UNDERGROUND JA168. Sales contact unspecified represents the company. Forecasted demand for Steel inserted plastic plate 200 x 200 - 51mm hole is 1,000 units in June 2025, decreasing to 1,000 units in October 2025.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+ULAN WEST UNDERGROUND JA168 operates Ulan West Mine in NSW. They produce Coal which falls under unspecified. The company uses unspecified mine type for mining Coal. Depot unspecified serves ULAN WEST UNDERGROUND JA168. Sales contact unspecified represents the company. Forecasted demand for 1.8m x 32mm dowel breakout nut is 250 units in June 2025, increasing to 250 units in October 2025.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+ULAN WEST UNDERGROUND JA168 operates Ulan West Mine in NSW. They produce Coal which falls under unspecified. The company uses unspecified mine type for mining Coal. Depot unspecified serves ULAN WEST UNDERGROUND JA168. Sales contact unspecified represents the company. Forecasted demand for 1200mm x 32mm resin LIF is 300 units in June 2025, decreasing to 300 units in October 2025.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ULAN WEST UNDERGROUND JA168 operates Ulan West Mine in NSW. The company produces Coal which falls under Bolt category. JBS2412BTPS 1.2M MILD STEEL RIB BOLT forecasts demand of 500 units in July 2025 and 500 units in October 2025.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ULAN WEST UNDERGROUND JA168 operates Ulan West Mine in NSW. The company produces Coal which falls under Bolt category. JBS2411HB 1.2M HEADED MILD STEEL RIB BOLT forecasts demand of 2,500 units in June 2025, increasing to 2,500 units in December 2025.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ULAN WEST UNDERGROUND JA168 operates Ulan West Mine in NSW. The company produces Coal which falls under Bolt category. JFG221150BSTH F/G BOLT 22MMX1150MM BLAC forecasts demand of 3,000 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ULAN WEST UNDERGROUND JA168 operates Ulan West Mine in NSW. The company produces Coal which falls under Bolt category. JFM1712101004 Fibreglass mesh forecasts demand of 2,000 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ULAN WEST UNDERGROUND JA168 operates Ulan West Mine in NSW. The company produces Coal which falls under Plate category. JHISPPLB PLASTIC PLATE forecasts demand of 3,000 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ULAN WEST UNDERGROUND JA168 operates Ulan West Mine in NSW. The company produces Coal which falls under Plate category. JGD88025XFS55H J-LOK G DUAL 880X25MM X-F forecasts demand of 10,800 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ULAN WEST UNDERGROUND JA168 operates Ulan West Mine in NSW. The company produces Coal which falls under Plate category. JURRGROUT1T Jennchem Underground Road forecasts demand of 41,000 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ULAN WEST UNDERGROUND JA168 operates Ulan West Mine in NSW. The company produces Coal which falls under Plate category. STSA11002555H SPIN2STALL RESIN 1100MM forecasts demand of 11,040 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ULAN WEST UNDERGROUND JA168 operates Ulan West Mine in NSW. The company produces Coal which falls under Plate category. JL5PG100036MR 1200 x 36mm resin forecasts demand of 1,260 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ULAN WEST UNDERGROUND JA168 operates Ulan West Mine in NSW. The company produces Coal which falls under Plate category. JK15150538RW 150 x 5 KANGA PLATE forecasts demand of 18,620 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ULAN WEST UNDERGROUND JA168 operates Ulan West Mine in NSW. The company produces Coal which falls under Plate category. JWONGA RESIN INSERTER 2M X 1.86M forecasts demand of 0 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ULAN WEST UNDERGROUND JA168 operates Ulan West Mine in NSW. The company produces Coal which falls under Butterfly category. JWW280300 BUTTERFLY forecasts demand of 5,760 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ULAN WEST UNDERGROUND JA168 operates Ulan West Mine in NSW. The company produces Coal which falls under Dome Ball category. JX2418BTPS JX M24X1.8M DOME BALL S P forecasts demand of 14,000 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ULAN WEST UNDERGROUND JA168 operates Ulan West Mine in NSW. The company produces Coal which falls under Grout category. TD80GROUT15 TD80 grout 15KG forecasts demand of 0 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ULAN WEST UNDERGROUND JA168 operates Ulan West Mine in NSW. The company produces Coal which falls under Mesh category. SMC121055101004 Cusp Mesh 1150x1000mm forecasts demand of 0 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+DARTBROOK COMMERCIALP/L operates Dartbrook Mine in NSW. The company produces Coal which falls under Mesh category. SMB5612101005 5600 x 1200 MINE MESH forecasts demand of 0 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+DARTBROOK COMMERCIALP/L operates Dartbrook Mine in NSW. The company produces Coal which falls under Mesh category. SMMB4812101004 4.8 x 1.2m SENTINEL MESH forecasts demand of 450 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+WAMBO COAL PTY LTD operates Wambo Mine in NSW. The company produces Coal which falls under Cable category. TD80GROUT Top Down 80MPA Cable Grou forecasts demand of 0 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+WILSON MINING SERVICES P/L operates Wilson Mine in NSW. The company produces Coal which falls under Coupler category. COUPLER32 COUPLER TO SUIT 32MM HOLL forecasts demand of 200 units in September 2025 and 200 units in January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ASHTON COAL operates Ashton Mine in NSW. ASHPOD assembles 200.0 component quantity of JK15150538RL - Coal for delivery from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ASHTON COAL operates Ashton Mine in NSW. ASHPOD assembles 70.0 component quantity of JWW280300 - Coal for delivery from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ASHTON COAL operates Ashton Mine in NSW. ASHPOD assembles 200.0 component quantity of JX2418BPS - Coal for delivery from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ASHTON COAL operates Ashton Mine in NSW. TGSUMO08P5030BW assembles 50.0 component quantity of BW28MMD - Coal for delivery from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ASHTON COAL operates Ashton Mine in NSW. TGSUMO08P5030BW assembles 50.0 component quantity of JCB2808B1236WG - Coal for delivery from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ASHTON COAL operates Ashton Mine in NSW. TGSUMO08P5030BW assembles 50.0 component quantity of JV30301446GS - Coal for delivery from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+CENTENNIAL COAL operates Airly Coal Mine in NSW. JCB2204TOS assembles 1.0 component quantity of JTOTO218MMD - Coal for delivery from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+CENTENNIAL COAL operates Airly Coal Mine in NSW. JCB2206TOS assembles 1.0 component quantity of JTOTO218MMD - Coal for delivery from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+CENTENNIAL COAL operates Myuna Mine in NSW. JCB2204TOS assembles 1.0 component quantity of JTOTO218MMD - Coal for delivery from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+CENTENNIAL COAL operates Myuna Mine in NSW. JCB2206TOS assembles 1.0 component quantity of JTOTO218MMD - Coal for delivery from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+DELTA COAL JA357 operates Delta Coal Mine in NSW. CVPODHB01 assembles 135.0 component quantity of JK15150538RL - Coal for delivery from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+DELTA COAL JA358 operates Delta Coal Mine in NSW. CVPODHB01 assembles 65.0 component quantity of JK20200538H1RW - Coal for delivery from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+DELTA COAL JA359 operates Delta Coal Mine in NSW. CVPODHB01 assembles 200.0 component quantity of JX2421BPS - Coal for delivery from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+DELTA COAL JA360 operates Delta Coal Mine in NSW. CVPODPLAS1 assembles 65.0 component quantity of HIPSTEELSPP2042 - Coal for delivery from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+DELTA COAL JA361 operates Delta Coal Mine in NSW. CVPODPLAS1 assembles 60.0 component quantity of JFG2515STH - Coal for delivery from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+DELTA COAL JA362 operates Delta Coal Mine in NSW. CVPODPLAS1 assembles 70.0 component quantity of JK15150538RL - Coal for delivery from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+DELTA COAL JA363 operates Delta Coal Mine in NSW. CVPODPLAS1 assembles 50.0 component quantity of JK20200538H1RW - Coal for delivery from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+DELTA COAL JA364 operates Delta Coal Mine in NSW. CVPODPLAS1 assembles 100.0 component quantity of JX2421BPS - Coal for delivery from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+DELTA COAL JA366 operates Delta Coal Mine in NSW. JCB2204TOS assembles 1.0 component quantity of JTOTO218MMD - Coal for delivery from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+DELTA COAL JA368 operates Delta Coal Mine in NSW. JCB2206TOS assembles 1.0 component quantity of JTOTO218MMD - Coal for delivery from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SIMEC MINING TAHMOORCOAL P/L operates TAHMOOR MINE in NSW. They produce Coal which falls under Product Category. TAHMOOR MINE uses Mine Type for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SIMEC MINING TAHMOORCOAL P/L. Sales Contact represents SIMEC MINING TAHMOORCOAL P/L. Forecasted demand for product code HIPSTEELSPP36 in July 2025 is 1,500 units. For product code JFG221200XHTH, forecasted demand in July 2025 is 1,500 units. For product code JV15151036RL, forecasted demand in July 2025 is 4,000 units. For product code JWW280300D24, forecasted demand in July 2025 is 3,000 units. For product code JX2421BIWPH, forecasted demand in July 2025 is 50 units. For product code JX2421BP3, forecasted demand in July 2025 is 3,000 units. For product code JSD3412PLSPC3M, forecasted demand in July 2025 is 3,000 units. For product code JV15151036RL, forecasted demand in July 2025 is 8,000 units. For product code JWW280300D24, forecasted demand in July 2025 is 9,000 units. For product code JX2421BIWPH, forecasted demand in July 2025 is 100 units. For product code JX2421BP3, forecasted demand in July 2025 is 6,000 units.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE in NSW. They produce Coal which falls under Product Category. APPIN MINE uses Mine Type for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact represents SOUTH32. Forecasted demand for product code JCB3112(8m)G100TX in July 2025 is 100 units. For product code JV30301256GI in July 2025, forecasted demand is 0 units. For product code JX2421BIWPH in July 2025, forecasted demand is 225 units. For product code JX2421BTPS in July 2025, forecasted demand is 8,775 units. For product code JCB2808B1236GTO in July 2025, forecasted demand is 100 units. For product code JV30301446GS in July 2025, forecasted demand is 100 units. For product code JCB3112(10m)G100TX in July 2025, forecasted demand is 0 units.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOUTH32 operates APPIN MINE in NSW. SOUTH32 produces Coal which falls under Product Type. APPIN MINE, NSW uses TEXSUMO100P5030 for mining Coal. NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE in NSW. SOUTH32 produces Coal which falls under Product Type. DENDROBIUM MINE, NSW uses BOXJFG323SPP100 for mining Coal. NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE in NSW. SOUTH32 produces Coal which falls under Product Type. DENDROBIUM MINE, NSW uses BOXJFG323SPP100 for mining Coal. NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE in NSW. SOUTH32 produces Coal which falls under Product Type. DENDROBIUM MINE, NSW uses BOXJFG323SPP100 for mining Coal. NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE in NSW. SOUTH32 produces Coal which falls under Product Type. DENDROBIUM MINE, NSW uses BOXJFG324SPP100 for mining Coal. NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE in NSW. SOUTH32 produces Coal which falls under Product Type. DENDROBIUM MINE, NSW uses BOXJFG324SPP100 for mining Coal. NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE in NSW. SOUTH32 produces Coal which falls under Product Type. DENDROBIUM MINE, NSW uses BOXJFG324SPP100 for mining Coal. NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE in NSW. SOUTH32 produces Coal which falls under Product Type. DENDROBIUM MINE, NSW uses JBS2418BTP3B40 for mining Coal. NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE in NSW. SOUTH32 produces Coal which falls under Product Type. DENDROBIUM MINE, NSW uses JX24BTPS59IWH1B for mining Coal. NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE in NSW. SOUTH32 produces Coal which falls under Product Type. DENDROBIUM MINE, NSW uses JX24BTPS59IWH1B for mining Coal. NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE in NSW. SOUTH32 produces Coal which falls under Product Type. DENDROBIUM MINE, NSW uses TEXSUMO080P5030 for mining Coal. NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE in NSW. SOUTH32 produces Coal which falls under Product Type. DENDROBIUM MINE, NSW uses TEXSUMO080P5030 for mining Coal. NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE in NSW. SOUTH32 produces Coal which falls under Product Type. DENDROBIUM MINE, NSW uses TEXSUMO100P5030 for mining Coal. NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE in NSW. SOUTH32 produces Coal which falls under Product Type. DENDROBIUM MINE, NSW uses TEXSUMO100P5030 for mining Coal. NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE in NSW. SOUTH32 produces Coal which falls under Product Type. DENDROBIUM MINE, NSW uses TEXSUMO080P5030 for mining Coal. NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE in NSW. SOUTH32 produces Coal which falls under Product Type. DENDROBIUM MINE, NSW uses TEXSUMO100P5030 for mining Coal. NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE in NSW. SOUTH32 produces Coal which falls under Product Type. DENDROBIUM MINE, NSW uses TEXSUMO080P5030 for mining Coal. NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE in NSW. SOUTH32 produces Coal which falls under Product Type. DENDROBIUM MINE, NSW uses TEXSUMO100P5030 for mining Coal. NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE in NSW. SOUTH32 produces Coal which falls under Product Type. DENDROBIUM MINE, NSW uses CB1508G10P50 for mining Coal. NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOUTH32 operates APPIN MINE in NSW. SOUTH32 produces Coal which falls under Product Type. APPIN MINE, NSW uses JCB2206B430DBBW for mining Coal. NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOUTH32 operates APPIN MINE in NSW. SOUTH32 produces Coal which falls under Product Type. APPIN MINE, NSW uses JCB2206B430DBBW for mining Coal. NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOUTH32 operates APPIN MINE in NSW. SOUTH32 produces Coal which falls under Product Type. APPIN MINE, NSW uses JCB2206B430BW for mining Coal. NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOUTH32 operates APPIN MINE in NSW. SOUTH32 produces Coal which falls under Product Type. APPIN MINE, NSW uses JCB2206B430BW for mining Coal. NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: production_record]
+SCHLATTER PG12 produced 300 units of JCB2208B430DBBW on June 15, 2025. Job number JA001 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Mine_Forecast.xlsx | Type: production_record]
+SCHLATTER PG12 produced 300 units of JCB2208B430DBBW on July 15, 2025. Job number JA002 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Mine_Forecast.xlsx | Type: production_record]
+SCHLATTER PG12 produced 8,400 units of JX2418BTPS60B on June 15, 2025. Job number JA003 was processed for ULAN COAL MINES P/LJA011 with 98.5% yield rate.
+
+[Source: Mine_Forecast.xlsx | Type: production_record]
+ANGLO AMERICAN's Aquila Mine produced 3,000 units of HIPSTEELSPP42 on June 15, 2025. Job number JA004 was processed for ANGLO AMERICAN with 98.5% yield rate.
+
+[Source: Mine_Forecast.xlsx | Type: production_record]
+ANGLO AMERICAN's Aquila Mine produced 3,000 units of JFG221450STH on June 15, 2025. Job number JA005 was processed for ANGLO AMERICAN with 98.5% yield rate.
+
+[Source: Mine_Forecast.xlsx | Type: production_record]
+ANGLO AMERICAN's Aquila Mine produced 15,000 units of JK15150538RC on June 15, 2025. Job number JA006 was processed for ANGLO AMERICAN with 98.5% yield rate.
+
+[Source: Mine_Forecast.xlsx | Type: production_record]
+ANGLO AMERICAN's Aquila Mine produced 2,520 units of JLLPG100036MR on June 15, 2025. Job number JA007 was processed for ANGLO AMERICAN with 98.5% yield rate.
+
+[Source: Mine_Forecast.xlsx | Type: production_record]
+ANGLO AMERICAN's Aquila Mine produced 3,840 units of JWW280300 on June 15, 2025. Job number JA008 was processed for ANGLO AMERICAN with 98.5% yield rate.
+
+[Source: Mine_Forecast.xlsx | Type: production_record]
+ANGLO AMERICAN's Aquila Mine produced 10,000 units of JURRGROUT1T on June 15, 2025. Job number JA009 was processed for ANGLO AMERICAN with 98.5% yield rate.
+
+[Source: Mine_Forecast.xlsx | Type: production_record]
+ANGLO AMERICAN's Aquila Mine produced 300 units of JX15BTPS45I5BP on June 15, 2025. Job number JA010 was processed for ANGLO AMERICAN with 98.5% yield rate.
+
+[Source: Mine_Forecast.xlsx | Type: production_record]
+ANGLO AMERICAN's Aquila Mine produced 15,000 units of STSA8802555 on June 15, 2025. Job number JA011 was processed for ANGLO AMERICAN with 98.5% yield rate.
+
+[Source: Mine_Forecast.xlsx | Type: production_record]
+ANGLO AMERICAN's Aquila Mine produced 1,624 units of TD80GROUT on June 15, 2025. Job number JA012 was processed for ANGLO AMERICAN with 98.5% yield rate.
+
+[Source: Mine_Forecast.xlsx | Type: production_record]
+ANGLO AMERICAN's Grosvenor Mine produced 300 units of BW218MMD on June 15, 2025. Job number JA013 was processed for ANGLO AMERICAN with 98.5% yield rate.
+
+[Source: Mine_Forecast.xlsx | Type: production_record]
+ANGLO AMERICAN's Grosvenor Mine produced 500 units of COTTONWASTE25 on June 15, 2025. Job number JA014 was processed for ANGLO AMERICAN with 98.5% yield rate.
+
+[Source: Mine_Forecast.xlsx | Type: production_record]
+ANGLO AMERICAN's Grosvenor Mine produced 300 units of GRPOD21C32 on June 15, 2025. Job number JA015 was processed for ANGLO AMERICAN with 98.5% yield rate.
+
+[Source: Mine_Forecast.xlsx | Type: production_record]
+ANGLO AMERICAN's Grosvenor Mine produced 300 units of GRPOD21S on June 15, 2025. Job number JA016 was processed for ANGLO AMERICAN with 98.5% yield rate.
+
+[Source: Mine_Forecast.xlsx | Type: production_record]
+ANGLO AMERICAN's Grosvenor Mine produced 3,000 units of HIPSTLSPP2051BW on June 15, 2025. Job number JA017 was processed for ANGLO AMERICAN with 98.5% yield rate.
+
+[Source: Mine_Forecast.xlsx | Type: production_record]
+ANGLO AMERICAN's Grosvenor Mine produced 300 units of JCB22061BW on June 15, 2025. Job number JA018 was processed for ANGLO AMERICAN with 98.5% yield rate.
+
+[Source: Mine_Forecast.xlsx | Type: production_record]
+ANGLO AMERICAN's Grosvenor Mine produced 300 units of JDO630046 on June 15, 2025. Job number JA019 was processed for ANGLO AMERICAN with 98.5% yield rate.
+
+[Source: Mine_Forecast.xlsx | Type: production_record]
+ANGLO AMERICAN's Grosvenor Mine produced 300 units of JFG321800HSPBW on June 15, 2025. Job number JA020 was processed for ANGLO AMERICAN with 98.5% yield rate.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. They produce Coal which falls under Plate category. Jun_2025: 0.0 units, Jul_2025: 0.0 units, Aug_2025: 0.0 units, Sep_2025: 0.0 units, Oct_2025: 0.0 units, Nov_2025: 0.0 units, Dec_2025: 0.0 units, Jan_2026: 0.0 units.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. They produce Coal which falls under Cable category. Jun_2025: 0.0 units, Jul_2025: 0.0 units, Aug_2025: 0.0 units, Sep_2025: 0.0 units, Oct_2025: 0.0 units, Nov_2025: 0.0 units, Dec_2025: 0.0 units, Jan_2026: 0.0 units.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. They produce Coal which falls under Mesh category. Jun_2025: 0.0 units, Jul_2025: 0.0 units, Aug_2025: 0.0 units, Sep_2025: 0.0 units, Oct_2025: 0.0 units, Nov_2025: 0.0 units, Dec_2025: 0.0 units, Jan_2026: 0.0 units.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. They produce Coal which falls under Plate category. Jun_2025: 0.0 units, Jul_2025: 0.0 units, Aug_2025: 0.0 units, Sep_2025: 0.0 units, Oct_2025: 0.0 units, Nov_2025: 0.0 units, Dec_2025: 0.0 units, Jan_2026: 0.0 units.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. They produce Coal which falls under Plate category. Jun_2025: 0.0 units, Jul_2025: 0.0 units, Aug_2025: 0.0 units, Sep_2025: 0.0 units, Oct_2025: 0.0 units, Nov_2025: 0.0 units, Dec_2025: 0.0 units, Jan_2026: 0.0 units.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. They produce Coal which falls under Plate category. Jun_2025: 0.0 units, Jul_2025: 0.0 units, Aug_2025: 0.0 units, Sep_2025: 0.0 units, Oct_2025: 0.0 units, Nov_2025: 0.0 units, Dec_2025: 0.0 units, Jan_2026: 0.0 units.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. They produce Coal which falls under Plate category. Jun_2025: 0.0 units, Jul_2025: 0.0 units, Aug_2025: 0.0 units, Sep_2025: 0.0 units, Oct_2025: 0.0 units, Nov_2025: 0.0 units, Dec_2025: 0.0 units, Jan_2026: 0.0 units.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. They produce Coal which falls under Plate category. Jun_2025: 0.0 units, Jul_2025: 0.0 units, Aug_2025: 0.0 units, Sep_2025: 0.0 units, Oct_2025: 0.0 units, Nov_2025: 0.0 units, Dec_2025: 0.0 units, Jan_2026: 0.0 units.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. They produce Coal which falls under Plate category. Jun_2025: 0.0 units, Jul_2025: 0.0 units, Aug_2025: 0.0 units, Sep_2025: 0.0 units, Oct_2025: 0.0 units, Nov_2025: 0.0 units, Dec_2025: 0.0 units, Jan_2026: 0.0 units.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. They produce Coal which falls under Plate category. Jun_2025: 0.0 units, Jul_2025: 0.0 units, Aug_2025: 0.0 units, Sep_2025: 0.0 units, Oct_2025: 0.0 units, Nov_2025: 0.0 units, Dec_2025: 0.0 units, Jan_2026: 0.0 units.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. They produce Coal which falls under Plate category. Jun_2025: 0.0 units, Jul_2025: 0.0 units, Aug_2025: 0.0 units, Sep_2025: 0.0 units, Oct_2025: 0.0 units, Nov_2025: 0.0 units, Dec_2025: 0.0 units, Jan_2026: 0.0 units.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. They produce Coal which falls under Plate category. Jun_2025: 0.0 units, Jul_2025: 0.0 units, Aug_2025: 0.0 units, Sep_2025: 0.0 units, Oct_2025: 0.0 units, Nov_2025: 0.0 units, Dec_2025: 0.0 units, Jan_2026: 0.0 units.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. They produce Coal which falls under Plate category. Jun_2025: 0.0 units, Jul_2025: 0.0 units, Aug_2025: 0.0 units, Sep_2025: 0.0 units, Oct_2025: 0.0 units, Nov_2025: 0.0 units, Dec_2025: 0.0 units, Jan_2026: 0.0 units.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. They produce Coal which falls under Plate category. Jun_2025: 0.0 units, Jul_2025: 0.0 units, Aug_2025: 0.0 units, Sep_2025: 0.0 units, Oct_2025: 0.0 units, Nov_2025: 0.0 units, Dec_2025: 0.0 units, Jan_2026: 0.0 units.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Moranbah Mine in QLD. They produce Coal which falls under Bolt category. Jun_2025: 0.0 units, Jul_2025: 0.0 units, Aug_2025: 0.0 units, Sep_2025: 0.0 units, Oct_2025: 0.0 units, Nov_2025: 0.0 units, Dec_2025: 0.0 units, Jan_2026: 0.0 units.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Moranbah Mine in QLD. They produce Coal which falls under Mesh category. Jun_2025: 0.0 units, Jul_2025: 0.0 units, Aug_2025: 0.0 units, Sep_2025: 0.0 units, Oct_2025: 0.0 units, Nov_2025: 0.0 units, Dec_2025: 0.0 units, Jan_2026: 0.0 units.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Moranbah Mine in QLD. They produce Coal which falls under Mesh category. Jun_2025: 3,000 units, Jul_2025: 3,000 units, Aug_2025: 3,000 units, Sep_2025: 3,000 units, Oct_2025: 3,000 units, Nov_2025: 3,000 units, Dec_2025: 3,000 units, Jan_2026: 3,000 units.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates MORANBAH MINE, QLD. They produce Coal which falls under Bolt category. They use Underground Road for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves them. Sales Contact JENNMAR Australia represents them. Forecasted demand for JFG321800HSPBW - F/G BOLT 32MMX1800MM SOLI is 3,000 units each month from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates MORANBAH MINE, QLD. They produce Coal which falls under Cable category. They use Underground Road for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves them. Sales Contact JENNMAR Australia represents them. Forecasted demand for JLPG100036MR - J-LOK PG CABLE 1000X36MM is 3,360 units each month from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates MORANBAH MINE, QLD. They produce Coal which falls under Bolt category. They use Underground Road for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves them. Sales Contact JENNMAR Australia represents them. Forecasted demand for JLLD120032MS55 - J-LOK DUAL LIF 1200 X 32M is 4,000 units each month from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates MORANBAH MINE, QLD. They produce Coal which falls under Cable category. They use Underground Road for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves them. Sales Contact JENNMAR Australia represents them. Forecasted demand for JLPG50036SR - J-Lok PG Cable 500 X 36mm is 0 units each month from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates MORANBAH MINE, QLD. They produce Coal which falls under Bolt category. They use Underground Road for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves them. Sales Contact JENNMAR Australia represents them. Forecasted demand for JPMM10024 - JPM50024 cut 10.0mtr x 2. is 485 units each month from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates MORANBAH MINE, QLD. They produce Coal which falls under Bolt category. They use Underground Road for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves them. Sales Contact JENNMAR Australia represents them. Forecasted demand for JPOD21C - POD CUTTABLE 2.1M BOLTS & is 25 units each month from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates MORANBAH MINE, QLD. They produce Coal which falls under Bolt category. They use Underground Road for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves them. Sales Contact JENNMAR Australia represents them. Forecasted demand for JPOD21S - POD STEEL 2.1M & 1.8M BOL is 70 units each month from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates MORANBAH MINE, QLD. They produce Coal which falls under Bolt category. They use Underground Road for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves them. Sales Contact JENNMAR Australia represents them. Forecasted demand for JURRGROUT1T - Jennchem Underground Road is 0 units each month from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates MORANBAH MINE, QLD. They produce Coal which falls under Plate category. They use Underground Road for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves them. Sales Contact JENNMAR Australia represents them. Forecasted demand for JV20201242R - VOLCANO PLATE 200X200X12M is 0 units each month from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates MORANBAH MINE, QLD. They produce Coal which falls under Bolt category. They use Underground Road for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves them. Sales Contact JENNMAR Australia represents them. Forecasted demand for JX2418BTPSP - JX M24X1.8M DOME BALL TEF is 2,000 units each month from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates MORANBAH MINE, QLD. They produce Coal which falls under Bolt category. They use Underground Road for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves them. Sales Contact JENNMAR Australia represents them. Forecasted demand for JX2421BTPSP - JX M24X2.1M DOME BALL TEF is 2,000 units each month from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates MORANBAH MINE, QLD. They produce Coal which falls under Bolt category. They use Underground Road for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves them. Sales Contact JENNMAR Australia represents them. Forecasted demand for NUTRM24H125DM - NUT M24 X 125D MOLYCOATED is 0 units each month from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates MORANBAH MINE, QLD. They produce Coal which falls under Bolt category. They use Underground Road for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves them. Sales Contact JENNMAR Australia represents them. Forecasted demand for STSA12002555 - J-LOK SPIN2STALL 1200MM X is 0 units each month from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates MORANBAH MINE, QLD. They produce Coal which falls under Bolt category. They use Underground Road for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves them. Sales Contact JENNMAR Australia represents them. Forecasted demand for STSA14002546 - J-LOK SPIN2STALL 1400MM X is 22,000 units each month from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates MORANBAH MINE, QLD. They produce Coal which falls under Bolt category. They use Underground Road for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves them. Sales Contact JENNMAR Australia represents them. Forecasted demand for TUBE16GR - GROUT TUBE 16MM DIA X 300 is 5 units each month from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE operates BROADMEADOW MINE, QLD. They produce Coal which falls under Mesh category. They use Underground Road for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves them. Sales Contact JENNMAR Australia represents them. Forecasted demand for AF52121510056GL - MESH ROOF 5.25MX1.20M 150 is 640 units each month from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE operates BROADMEADOW MINE, QLD. They produce Coal which falls under Mesh category. They use Underground Road for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves them. Sales Contact JENNMAR Australia represents them. Forecasted demand for AF52121510056RC - MESH ROOF 5.25MX1.20M 150 is 370 units each month from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE operates BROADMEADOW MINE in QLD. They produce Coal which falls under Mesh. The company uses unspecified mine type for mining Coal. Depot MACKAY WAREHOUSE, QLD serves BM ALLIANCE - BROADMEADOW MINE. Sales Contact BM ALLIANCE represents the company. For MESH RIB 2.40MX1.30M 100X (AFP2413101004G), they forecast demand of 2,000 units in June 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE operates BROADMEADOW MINE in QLD. They produce Coal which falls under unspecified category. The company uses unspecified mine type for mining Coal. Depot MACKAY WAREHOUSE, QLD serves BM ALLIANCE - BROADMEADOW MINE. Sales Contact BM ALLIANCE represents the company. For POD LH 1.8M ROOF 1.5M RIB (BMPODLH), they forecast demand of 30 units in June 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE operates BROADMEADOW MINE in QLD. They produce Coal which falls under unspecified category. The company uses unspecified mine type for mining Coal. Depot MACKAY WAREHOUSE, QLD serves BM ALLIANCE - BROADMEADOW MINE. Sales Contact BM ALLIANCE represents the company. For POD RH 1.8M ROOF 1.5M RIB (BMPODRH), they forecast demand of 30 units in June 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE operates BROADMEADOW MINE in QLD. They produce Coal which falls under unspecified category. The company uses unspecified mine type for mining Coal. Depot MACKAY WAREHOUSE, QLD serves BM ALLIANCE - BROADMEADOW MINE. Sales Contact BM ALLIANCE represents the company. For 2X6M TENSIONER HOSES + EN (BTENSHOSES), they forecast no demand in June 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE operates BROADMEADOW MINE in QLD. They produce Coal which falls under unspecified category. The company uses unspecified mine type for mining Coal. Depot MACKAY WAREHOUSE, QLD serves BM ALLIANCE - BROADMEADOW MINE. Sales Contact BM ALLIANCE represents the company. For 200 x 200mm Squ Plastic p (HIPSTEELSPP2042), they forecast demand of 1,000 units in June 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE operates BROADMEADOW MINE in QLD. They produce Coal which falls under Plate. The company uses unspecified mine type for mining Coal. Depot MACKAY WAREHOUSE, QLD serves BM ALLIANCE - BROADMEADOW MINE. Sales Contact BM ALLIANCE represents the company. For COMBI PLATE 280X300 +K150 (JCP2830K38G), they forecast demand of 3,000 units in June 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE operates BROADMEADOW MINE in QLD. They produce Coal which falls under Bolt. The company uses unspecified mine type for mining Coal. Depot MACKAY WAREHOUSE, QLD serves BM ALLIANCE - BROADMEADOW MINE. Sales Contact BM ALLIANCE represents the company. For F/G BOLT 22MMX1450MM ORAN (JFG221450STH), they forecast demand of 1,000 units in June 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE operates BROADMEADOW MINE in QLD. They produce Coal which falls under Plate. The company uses unspecified mine type for mining Coal. Depot MACKAY WAREHOUSE, QLD serves BM ALLIANCE - BROADMEADOW MINE. Sales Contact BM ALLIANCE represents the company. For KANGA PLATE 150X150X5MM 3 (JK15150538RC), they forecast no demand in June 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE operates BROADMEADOW MINE in QLD. They produce Coal which falls under unspecified category. The company uses unspecified mine type for mining Coal. Depot MACKAY WAREHOUSE, QLD serves BM ALLIANCE - BROADMEADOW MINE. Sales Contact BM ALLIANCE represents the company. For J-LOK DUAL 1000X25MM FAST (JLD100025FS55), they forecast no demand in June 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE operates BROADMEADOW MINE in QLD. They produce Coal which falls under Cable. The company uses unspecified mine type for mining Coal. Depot MACKAY WAREHOUSE, QLD serves BM ALLIANCE - BROADMEADOW MINE. Sales Contact BM ALLIANCE represents the company. For J-LOK PG CABLE 1000X36MM (JLPG100036SR), they forecast demand of 3,360 units in June 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE operates BROADMEADOW MINE in QLD. They produce Coal which falls under Plate. The company uses unspecified mine type for mining Coal. Depot MACKAY WAREHOUSE, QLD serves BM ALLIANCE - BROADMEADOW MINE. Sales Contact BM ALLIANCE represents the company. For Rolled Edge plate 300x300 (JRE30300150), they forecast no demand in June 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE operates BROADMEADOW MINE in QLD. They produce Coal which falls under unspecified category. The company uses unspecified mine type for mining Coal. Depot MACKAY WAREHOUSE, QLD serves BM ALLIANCE - BROADMEADOW MINE. Sales Contact BM ALLIANCE represents the company. For M24 TENSION INDICATOR WAS (JTWIM2407TYRS), they forecast no demand in June 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE operates BROADMEADOW MINE in QLD. They produce Coal which falls under unspecified category. The company uses unspecified mine type for mining Coal. Depot MACKAY WAREHOUSE, QLD serves BM ALLIANCE - BROADMEADOW MINE. Sales Contact BM ALLIANCE represents the company. For JX M24X0.75M DOME BALL S (JX24075BPSP), they forecast no demand in June 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE operates BROADMEADOW MINE in QLD. They produce Coal which falls under unspecified category. The company uses unspecified mine type for mining Coal. Depot MACKAY WAREHOUSE, QLD serves BM ALLIANCE - BROADMEADOW MINE. Sales Contact BM ALLIANCE represents the company. For JX M24X1.8M DOME BALL GRE (JX2418BP3G), they forecast demand of 300 units in September 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE operates BROADMEADOW MINE in QLD. They produce Coal which falls under unspecified category. The company uses unspecified mine type for mining Coal. Depot MACKAY WAREHOUSE, QLD serves BM ALLIANCE - BROADMEADOW MINE. Sales Contact BM ALLIANCE represents the company. For JX M24X1.8M DOME BALL S P (JX2418BPSP), they forecast demand of 3,000 units in June 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE operates BROADMEADOW MINE in QLD. They produce Coal which falls under Bolt. The company uses unspecified mine type for mining Coal. Depot MACKAY WAREHOUSE, QLD serves BM ALLIANCE - BROADMEADOW MINE. Sales Contact BM ALLIANCE represents the company. For Bolt TT M24x1.95 JX Assem (JX24195BPSTH30P), they forecast no demand in June 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE operates BROADMEADOW MINE in QLD. They produce Coal which falls under unspecified category. The company uses unspecified mine type for mining Coal. Depot MACKAY WAREHOUSE, QLD serves BM ALLIANCE - BROADMEADOW MINE. Sales Contact BM ALLIANCE represents the company. For GALVANISED NUT M24 HEX (NUTRM24H125DGAL), they forecast no demand in June 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE operates BROADMEADOW MINE in QLD. They produce Coal which falls under unspecified category. The company uses unspecified mine type for mining Coal. Depot MACKAY WAREHOUSE, QLD serves BM ALLIANCE - BROADMEADOW MINE. Sales Contact BM ALLIANCE represents the company. For NUT M24 X 125D MOLYCOATED (NUTRM24H125DM), they forecast no demand in June 2025.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE forecasts demand of 2.0 units of SILENTSEAL in June 2025. Sales contact represents BM ALLIANCE - BROADMEADOW MINE.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE forecasts demand of 12,000 units of J-LOK SPIN2STALL 1200MM X in June 2025. Sales contact represents BM ALLIANCE - BROADMEADOW MINE.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE forecasts no demand of J-LOK SPIN2STALL 1400MM X in June 2025. Sales contact represents BM ALLIANCE - BROADMEADOW MINE.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE forecasts demand of 1,232 units of Top Down 80MPA Cable Grou in June 2025. Sales contact represents BM ALLIANCE - BROADMEADOW MINE.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE forecasts no demand of WASHER DOME BALL M24 in June 2025. Sales contact represents BM ALLIANCE - BROADMEADOW MINE.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ENSHAM RESOURCES P/L forecasts demand of 10 units of FLOOR BOLT EXTENSION M24 in June 2025. Sales contact represents ENSHAM RESOURCES P/L.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ENSHAM RESOURCES P/L forecasts no demand of NUT M24 X 125D MOLYCOATED in June 2025. Sales contact represents ENSHAM RESOURCES P/L.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ENSHAM RESOURCES P/L forecasts demand of 500 units of 3.1M Superstrand TEX in June 2025. Sales contact represents ENSHAM RESOURCES P/L.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ENSHAM RESOURCES P/L forecasts demand of 600 units of 4.1M Superstrand TEX in June 2025. Sales contact represents ENSHAM RESOURCES P/L.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ENSHAM RESOURCES P/L forecasts demand of 15,000 units of Bolt BX1.2 in June 2025. Sales contact represents ENSHAM RESOURCES P/L.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ENSHAM RESOURCES P/L forecasts demand of 600 units of Bolt BX1.5 PALLET (400) B in June 2025. Sales contact represents ENSHAM RESOURCES P/L.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ENSHAM RESOURCES P/L forecasts demand of 400 units of Bolt BX1.8 PALLET (400) B in June 2025. Sales contact represents ENSHAM RESOURCES P/L.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ENSHAM RESOURCES P/L forecasts demand of 120 units of Bolt BX2.4 PALLET (400) B in June 2025. Sales contact represents ENSHAM RESOURCES P/L.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ENSHAM RESOURCES P/L forecasts demand of 70,000 units of S/Speed G-Series Resin 50 in June 2025. Sales contact represents ENSHAM RESOURCES P/L.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ENSHAM RESOURCES P/L forecasts demand of 70,000 units of Kanga Plate 200*200*5.38 in June 2025. Sales contact represents ENSHAM RESOURCES P/L.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ENSHAM RESOURCES P/L forecasts demand of 30,000 units of Jennchem Underground Road in June 2025. Sales contact represents ENSHAM RESOURCES P/L.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ENSHAM RESOURCES P/L forecasts demand of 1,200 units of Volcano 200 x 12, 56mm hole in June 2025. Sales contact represents ENSHAM RESOURCES P/L.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ENSHAM RESOURCES P/L forecasts demand of 1,800 units of Mesh strap 5.1m x 25cm in July 2025. Sales contact represents ENSHAM RESOURCES P/L.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ENSHAM RESOURCES P/L forecasts demand of 1,080 units of Mesh module 5.1mx1.2m in July 2025. Sales contact represents ENSHAM RESOURCES P/L.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ENSHAM RESOURCES P/L forecasts demand of 1,651 units of Mesh module 5.1mx1.8m in July 2025. Sales contact represents ENSHAM RESOURCES P/L.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+FITZROY RESOURCES operates Carboroughdowns Mine in QLD. FITZROY RESOURCES produces Coal which falls under Bolt category. FITZROY RESOURCES uses JFG221750STH for mining Coal. Forecasted demand for JFG221750STH is 1,000 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+FITZROY RESOURCES operates Carboroughdowns Mine in QLD. FITZROY RESOURCES produces Coal which falls under Plate category. FITZROY RESOURCES uses JHISPPLMG for mining Coal. Forecasted demand for JHISPPLMG is 1,000 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+FITZROY RESOURCES operates Carboroughdowns Mine in QLD. FITZROY RESOURCES produces Coal which falls under Plate category. FITZROY RESOURCES uses JK20200638H1RC for mining Coal. Forecasted demand for JK20200638H1RC is 1,500 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+FITZROY RESOURCES operates Carboroughdowns Mine in QLD. FITZROY RESOURCES produces Coal which falls under Cable category. FITZROY RESOURCES uses JLPG100036SR for mining Coal. Forecasted demand for JLPG100036SR is 0 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+FITZROY RESOURCES operates Carboroughdowns Mine in QLD. FITZROY RESOURCES produces Coal which falls under Plate category. FITZROY RESOURCES uses JWW280300 for mining Coal. Forecasted demand for JWW280300 is 0 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+FITZROY RESOURCES operates Carboroughdowns Mine in QLD. FITZROY RESOURCES produces Coal which falls under Coal category. FITZROY RESOURCES uses JX2418BTPS for mining Coal. Forecasted demand for JX2418BTPS is 1,000 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+FITZROY RESOURCES operates Carboroughdowns Mine in QLD. FITZROY RESOURCES produces Coal which falls under Coal category. FITZROY RESOURCES uses NUTRM24H125DM for mining Coal. Forecasted demand for NUTRM24H125DM is 500 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+FITZROY RESOURCES operates Carboroughdowns Mine in QLD. FITZROY RESOURCES produces Coal which falls under Coal category. FITZROY RESOURCES uses RESININSERTER for mining Coal. Forecasted demand for RESININSERTER is 8 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+FITZROY RESOURCES operates Carboroughdowns Mine in QLD. FITZROY RESOURCES produces Coal which falls under Coal category. FITZROY RESOURCES uses STSA12002555 for mining Coal. Forecasted demand for STSA12002555 is 20,000 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+FITZROY RESOURCES operates Carboroughdowns Mine in QLD. FITZROY RESOURCES produces Coal which falls under Coal category. FITZROY RESOURCES uses TUBE16GR for mining Coal. Forecasted demand for TUBE16GR is 0 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+FITZROY RESOURCES operates Ironbark Mine in QLD. FITZROY RESOURCES produces Coal which falls under Coal category. FITZROY RESOURCES uses CDPOD18LH10T for mining Coal. Forecasted demand for CDPOD18LH10T is 12 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+FITZROY RESOURCES operates Ironbark Mine in QLD. FITZROY RESOURCES produces Coal which falls under Coal category. FITZROY RESOURCES uses CDPOD18RH10T for mining Coal. Forecasted demand for CDPOD18RH10T is 12 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+FITZROY RESOURCES operates Ironbark Mine in QLD. They produce Coal which falls under Bolt category. Forecast shows 3,000 units of JFG221750STH - F/G BOLT 22MMX1750MM RED from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+FITZROY RESOURCES operates Ironbark Mine in QLD. They produce Coal which falls under Plate category. Forecast shows 3,000 units of JHISPPLMG - PLASTIC PLATE SQUARE 230M from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+FITZROY RESOURCES operates Ironbark Mine in QLD. They produce Coal which falls under Plate category. Forecast shows 1,000 units of JK20200638H1RC - KANGA PLATE 200X200X6MM 3 from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+FITZROY RESOURCES operates Ironbark Mine in QLD. They produce Coal. Forecast shows 1,050 units of JLD100025FS55 - J-LOK DUAL 1000X25MM FAST from June 2025 to December 2025.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+FITZROY RESOURCES operates Ironbark Mine in QLD. They produce Coal which falls under Cable category. Forecast shows 420 units of JLPG100036SR - J-LOK PG CABLE 1000X36MM from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+FITZROY RESOURCES operates Ironbark Mine in QLD. They produce Coal which falls under Plate category. Forecast shows 0 units of JWW280300 - BUTTERFLY PLATE 280X300X1 from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+FITZROY RESOURCES operates Ironbark Mine in QLD. They produce Coal. Forecast shows 0 units of JX2412BTPY - JX M24X1.2M DOME BALL TEF from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+FITZROY RESOURCES operates Ironbark Mine in QLD. They produce Coal. Forecast shows 1,600 units of JX2418BTPS - JX M24X1.8M WASHED DOME B from July 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+FITZROY RESOURCES operates Ironbark Mine in QLD. They produce Coal. Forecast shows 500 units of NUTRM24H125DM - NUT M24 X 125D MOLYCOATED from June 2025 to December 2025.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+FITZROY RESOURCES operates Ironbark Mine in QLD. They produce Coal. Forecast shows 0 units of RESININSERTER - RESIN INSERTER from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+FITZROY RESOURCES operates Ironbark Mine in QLD. They produce Coal. Forecast shows 12,000 units of STSA12002555 - J-LOK SPIN2STALL 1200MM X from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+FITZROY RESOURCES operates Ironbark Mine in QLD. They produce Coal which falls under Cable category. Forecast shows 0 units of TUBE16GR - GROUT TUBE 16MM DIA X 300 from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+FITZROY RESOURCES operates Ironbark Mine in QLD. They produce Coal. Forecast shows 0 units of JDG1500 - SEAL DEPTH GAUGE GALVANIS from June 2025 to October 2025.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+KESTREL COAL P/L JA040 operates KESTREL MINE, QLD. They produce Coal which falls under Mesh category. KESTREL MINE, QLD uses unspecified mine type for mining Coal. Depot MACKAY WAREHOUSE, QLD serves KESTREL COAL P/L JA040. Sales contact JENNCHEM AUSTRALIA P/L - QLD J represents KESTREL COAL P/L JA040. KESTREL MINE, QLD forecasts demand of 2,352 units of H165032MXXS37RN - J-LOK H TWIN 1650X32MM ME in FY2025.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+KESTREL COAL P/L JA040 operates KESTREL MINE, QLD. They produce Coal which falls under Plate category. KESTREL MINE, QLD uses unspecified mine type for mining Coal. Depot MACKAY WAREHOUSE, QLD serves KESTREL COAL P/L JA040. Sales contact JENNCHEM AUSTRALIA P/L - QLD J represents KESTREL COAL P/L JA040. KESTREL MINE, QLD forecasts demand of 5,000 units of HIPSTEELSPP - PLASTIC PLATE 300MM SQUARE in Q1 2025.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+KESTREL COAL P/L JA040 operates KESTREL MINE, QLD. They produce Coal which falls under Plate category. KESTREL MINE, QLD uses unspecified mine type for mining Coal. Depot MACKAY WAREHOUSE, QLD serves KESTREL COAL P/L JA040. Sales contact JENNCHEM AUSTRALIA P/L - QLD J represents KESTREL COAL P/L JA040. KESTREL MINE, QLD forecasts demand of 6,000 units of HIPSTEELSPP36 - PLASTIC PLATE 300MM SQUARE in FY2025.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+KESTREL COAL P/L JA040 operates KESTREL MINE, QLD. They produce Coal which falls under unspecified category. KESTREL MINE, QLD uses unspecified mine type for mining Coal. Depot MACKAY WAREHOUSE, QLD serves KESTREL COAL P/L JA040. Sales contact JENNCHEM AUSTRALIA P/L - QLD J represents KESTREL COAL P/L JA040. KESTREL MINE, QLD forecasts demand of 4,000 units of JFG221500XHTH - 1.5 XHT DOWEL in FY2025.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+KESTREL COAL P/L JA040 operates KESTREL MINE, QLD. They produce Coal which falls under unspecified category. KESTREL MINE, QLD uses unspecified mine type for mining Coal. Depot MACKAY WAREHOUSE, QLD serves KESTREL COAL P/L JA040. Sales contact JENNCHEM AUSTRALIA P/L - QLD J represents KESTREL COAL P/L JA040. KESTREL MINE, QLD forecasts demand of 1,000 units of JFG221800XHTH - 1.8M XHT DOWEL in FY2025.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+KESTREL COAL P/L JA040 operates KESTREL MINE, QLD. They produce Coal which falls under unspecified category. KESTREL MINE, QLD uses unspecified mine type for mining Coal. Depot MACKAY WAREHOUSE, QLD serves KESTREL COAL P/L JA040. Sales contact JENNCHEM AUSTRALIA P/L - QLD J represents KESTREL COAL P/L JA040. KESTREL MINE, QLD forecasts demand of 500 units of JFG222100XHTH - 2.1M XHT DOWEL in FY2025.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+KESTREL COAL P/L JA040 operates KESTREL MINE, QLD. They produce Coal which falls under Bolt category. KESTREL MINE, QLD uses unspecified mine type for mining Coal. Depot MACKAY WAREHOUSE, QLD serves KESTREL COAL P/L JA040. Sales contact JENNCHEM AUSTRALIA P/L - QLD J represents KESTREL COAL P/L JA040. KESTREL MINE, QLD forecasts demand of 1,600 units of JFG300032HOL - F/G BOLT 32MMX3000MM HOLL in Q1 2025.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+KESTREL COAL P/L JA040 operates KESTREL MINE, QLD. They produce Coal which falls under Bolt category. KESTREL MINE, QLD uses unspecified mine type for mining Coal. Depot MACKAY WAREHOUSE, QLD serves KESTREL COAL P/L JA040. Sales contact JENNCHEM AUSTRALIA P/L - QLD J represents KESTREL COAL P/L JA040. KESTREL MINE, QLD forecasts demand of 1,000 units of JFG321800H - F/G BOLT 32MMX1800MM SOLI in Q1 2025.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+KESTREL COAL P/L JA040 operates KESTREL MINE, QLD. They produce Coal which falls under Bolt category. KESTREL MINE, QLD uses unspecified mine type for mining Coal. Depot MACKAY WAREHOUSE, QLD serves KESTREL COAL P/L JA040. Sales contact JENNCHEM AUSTRALIA P/L - QLD J represents KESTREL COAL P/L JA040. KESTREL MINE, QLD forecasts demand of 500 units of JFG323000H - F/G BOLT 32MMX3000MM SOLI in Q2 2025.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+KESTREL COAL P/L JA040 operates KESTREL MINE, QLD. They produce Coal which falls under Bolt category. KESTREL MINE, QLD uses unspecified mine type for mining Coal. Depot MACKAY WAREHOUSE, QLD serves KESTREL COAL P/L JA040. Sales contact JENNCHEM AUSTRALIA P/L - QLD J represents KESTREL COAL P/L JA040. KESTREL MINE, QLD forecasts demand of 840 units of JLPG100036SR - RESIN CAPSULE 1000 X 36 in FY2025.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+KESTREL COAL P/L JA040 operates KESTREL MINE, QLD. They produce Coal which falls under Bolt category. KESTREL MINE, QLD uses unspecified mine type for mining Coal. Depot MACKAY WAREHOUSE, QLD serves KESTREL COAL P/L JA040. Sales contact JENNCHEM AUSTRALIA P/L - QLD J represents KESTREL COAL P/L JA040. KESTREL MINE, QLD forecasts demand of 24,000 units of JK20200638RW - KANGA PLATE 200X200X6MM 3 in FY2025.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+KESTREL COAL P/L JA040 operates KESTREL MINE, QLD. They produce Coal which falls under Bolt category. KESTREL MINE, QLD uses unspecified mine type for mining Coal. Depot MACKAY WAREHOUSE, QLD serves KESTREL COAL P/L JA040. Sales contact JENNCHEM AUSTRALIA P/L - QLD J represents KESTREL COAL P/L JA040. KESTREL MINE, QLD forecasts demand of 32,000 units of STSA10002555 - RESIN CAPSULE 1000MM SPIN2STALL in FY2025.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+KESTREL COAL P/L JA040 operates KESTREL MINE, QLD. They produce Coal which falls under Bolt category. KESTREL MINE, QLD uses unspecified mine type for mining Coal. Depot MACKAY WAREHOUSE, QLD serves KESTREL COAL P/L JA040. Sales contact JENNCHEM AUSTRALIA P/L - QLD J represents KESTREL COAL P/L JA040. KESTREL MINE, QLD forecasts demand of 7,000 units of JX2415BTPS - BOLT TT M24X1.5 JX in FY2025.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+KESTREL COAL P/L JA040 operates KESTREL MINE, QLD. They produce Coal which falls under Bolt category. KESTREL MINE, QLD uses unspecified mine type for mining Coal. Depot MACKAY WAREHOUSE, QLD serves KESTREL COAL P/L JA040. Sales contact JENNCHEM AUSTRALIA P/L - QLD J represents KESTREL COAL P/L JA040. KESTREL MINE, QLD forecasts demand of 20,000 units of JX2418BTPS - BOLT TT M24 X 1.8 JX in FY2025.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+KESTRREL COAL P/L JA040 operates KESTREL MINE in QLD. KESTREL MINE produces Coal which falls under Bolt. KESTREL MINE uses Coal mine type for mining Bolt. Depot JX2421BTPS serves KESTREL COAL P/L JA040. Sales contact John Doe represents KESTREL COAL P/L JA040. Forecasted demand for Bolt TT M24 x 2.1 JX is 500 units each month from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+KESTRREL COAL P/L JA040 operates KESTREL MINE in QLD. KESTREL MINE produces Coal which falls under Grout. KESTREL MINE uses Coal mine type for mining Grout. Depot TD80GROUT serves KESTREL COAL P/L JA040. Sales contact John Doe represents KESTREL COAL P/L JA040. Forecasted demand for TD80 grout is 560 units each month from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOJITZ - CRINUM UNDERGROUND JA operates Crinum Mine in QLD. Crinum Mine produces Coal which falls under Plate. SOJITZ - CRINUM UNDERGROUND JA uses Coal mine type for mining Plate. Depot BW218MMD serves SOJITZ - CRINUM UNDERGROUND JA. Sales contact John Doe represents SOJITZ - CRINUM UNDERGROUND JA. Forecasted demand for BARREL & WEDGE TO SUIT 21 is 0 units each month from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOJITZ - CRINUM UNDERGROUND JA operates Crinum Mine in QLD. Crinum Mine produces Coal which falls under Plate. SOJITZ - CRINUM UNDERGROUND JA uses Coal mine type for mining Plate. Depot HIPSTEELSPP42 serves SOJITZ - CRINUM UNDERGROUND JA. Sales contact John Doe represents SOJITZ - CRINUM UNDERGROUND JA. Forecasted demand for PLASTIC PLATE 300MM SQUAR is 10,300 units each month from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOJITZ - CRINUM UNDERGROUND JA operates Crinum Mine in QLD. Crinum Mine produces Coal which falls under Bolt. SOJITZ - CRINUM UNDERGROUND JA uses Coal mine type for mining Bolt. Depot JCB22041TEX serves SOJITZ - CRINUM UNDERGROUND JA. Sales contact John Doe represents SOJITZ - CRINUM UNDERGROUND JA. Forecasted demand for SUPERSTRAND C/BOLT 21.8mm is 500 units each month from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOJITZ - CRINUM UNDERGROUND JA operates Crinum Mine in QLD. Crinum Mine produces Coal which falls under Bolt. SOJITZ - CRINUM UNDERGROUND JA uses Coal mine type for mining Bolt. Depot JCB2206 serves SOJITZ - CRINUM UNDERGROUND JA. Sales contact John Doe represents SOJITZ - CRINUM UNDERGROUND JA. Forecasted demand for SUPERSTRAND C/BOLT 21.8mm is 100 units each month from June 2025 to October 2025, then 100 units each month from November 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOJITZ - CRINUM UNDERGROUND JA operates Crinum Mine in QLD. Crinum Mine produces Coal which falls under Bolt. SOJITZ - CRINUM UNDERGROUND JA uses Coal mine type for mining Bolt. Depot JCB22061TEX serves SOJITZ - CRINUM UNDERGROUND JA. Sales contact John Doe represents SOJITZ - CRINUM UNDERGROUND JA. Forecasted demand for SUPERSTRAND C/BOLT 21.8mm is 250 units each month from June 2025 to December 2025, then 250 units each month from January 2026 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOJITZ - CRINUM UNDERGROUND JA operates Crinum Mine in QLD. Crinum Mine produces Coal which falls under Bolt. SOJITZ - CRINUM UNDERGROUND JA uses Coal mine type for mining Bolt. Depot JFG221450STH serves SOJITZ - CRINUM UNDERGROUND JA. Sales contact John Doe represents SOJITZ - CRINUM UNDERGROUND JA. Forecasted demand for F/G BOLT 22MMX1450MM ORAN is 10,300 units each month from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOJITZ - CRINUM UNDERGROUND JA operates Crinum Mine in QLD. Crinum Mine produces Coal which falls under Bolt. SOJITZ - CRINUM UNDERGROUND JA uses Coal mine type for mining Bolt. Depot JG5S50025F serves SOJITZ - CRINUM UNDERGROUND JA. Sales contact John Doe represents SOJITZ - CRINUM UNDERGROUND JA. Forecasted demand for J-LOk 5 star GRIT 500mm is 30,000 units each month from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOJITZ - CRINUM UNDERGROUND JA operates Crinum Mine in QLD. Crinum Mine produces Coal which falls under Plate. SOJITZ - CRINUM UNDERGROUND JA uses Coal mine type for mining Plate. Depot JK15150538RC serves SOJITZ - CRINUM UNDERGROUND JA. Sales contact John Doe represents SOJITZ - CRINUM UNDERGROUND JA. Forecasted demand for KANGA PLATE 150X150X5MM 3 is 18,000 units each month from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOJITZ - CRINUM UNDERGROUND JA operates Crinum Mine in QLD. Crinum Mine produces Coal which falls under Plate. SOJITZ - CRINUM UNDERGROUND JA uses Coal mine type for mining Plate. Depot JV20201256GI serves SOJITZ - CRINUM UNDERGROUND JA. Sales contact John Doe represents SOJITZ - CRINUM UNDERGROUND JA. Forecasted demand for VOLCANO PLATE 200X200X12mm corners is 750 units each month from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOJITZ - CRINUM UNDERGROUND JA operates Crinum Mine in QLD. Crinum Mine produces Coal which falls under Plate. SOJITZ - CRINUM UNDERGROUND JA uses Coal mine type for mining Plate. Depot JWW280300 serves SOJITZ - CRINUM UNDERGROUND JA. Sales contact John Doe represents SOJITZ - CRINUM UNDERGROUND JA. Forecasted demand for BUTTERFLY PLATE 280X300X1 is 4,800 units each month from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOJITZ - CRINUM UNDERGROUND JA operates Crinum Mine in QLD. Crinum Mine produces Coal which falls under Bolt. SOJITZ - CRINUM UNDERGROUND JA uses Coal mine type for mining Bolt. Depot JX15BTPS45I5BP serves SOJITZ - CRINUM UNDERGROUND JA. Sales contact John Doe represents SOJITZ - CRINUM UNDERGROUND JA. Forecasted demand for Bolt TT M24x1.5 JX DBW is 360 units each month from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOJITZ - CRINUM UNDERGROUND JA operates Crinum Mine in QLD. Crinum Mine produces Coal which falls under Mesh. SOJITZ - CRINUM UNDERGROUND JA uses Coal mine type for mining Mesh. Depot SMB5414101005C serves SOJITZ - CRINUM UNDERGROUND JA. Sales contact John Doe represents SOJITZ - CRINUM UNDERGROUND JA. Forecasted demand for Mine Mesh 5.4M x1.4M is 2,400 units each month from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOJITZ - CRINUM UNDERGROUND JA operates Crinum Mine in QLD. Crinum Mine produces Coal which falls under Mesh. SOJITZ - CRINUM UNDERGROUND JA uses Coal mine type for mining Mesh. Depot SMB4814101005C serves SOJITZ - CRINUM UNDERGROUND JA. Sales contact John Doe represents SOJITZ - CRINUM UNDERGROUND JA. Forecasted demand for Mine Mesh 4.8M x1.4M is 960 units each month from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOJITZ - CRINUM UNDERGROUND JA operates Crinum Mine in QLD. Crinum Mine produces Coal which falls under Mesh. SOJITZ - CRINUM UNDERGROUND JA uses Coal mine type for mining Mesh. Depot SMF1614101004 serves SOJITZ - CRINUM UNDERGROUND JA. Sales contact John Doe represents SOJITZ - CRINUM UNDERGROUND JA. Forecasted demand for Mesh Rib 1.4M X 1.2M 100x is 3,000 units in June 2025, then 0 units each month from July 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+MASTERMYNE PTY LTDJA156 operates Mastermyne Mine in QLD. Mastermyne Mine produces Coal which falls under Plate. MASTERMYNE PTY LTDJA156 uses Coal mine type for mining Plate. Depot JK15150538RC serves MASTERMYNE PTY LTDJA156. Sales contact John Doe represents MASTERMYNE PTY LTDJA156. Forecasted demand for KANGA PLATE 150X150X5MM 3 is 0 units each month from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+OAKY CREEK COAL P/LJA079 operates OAKY CREEK MINE in QLD. OAKY CREEK MINE produces Coal which falls under Plate. OAKY CREEK COAL P/LJA079 uses Coal mine type for mining Plate. Depot H1650255MXXS55 serves OAKY CREEK COAL P/LJA079. Sales contact John Doe represents OAKY CREEK COAL P/LJA079. Forecasted demand for 25mmx2 825mm long is 504 units in June 2025, then 1,008 units each month from July 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+OAKY CREEK COAL P/LJA079 operates OAKY CREEK MINE in QLD. OAKY CREEK MINE produces Coal which falls under Plate. OAKY CREEK COAL P/LJA079 uses Coal mine type for mining Plate. Depot JK15150538RC serves OAKY CREEK COAL P/LJA079. Sales contact John Doe represents OAKY CREEK COAL P/LJA079. Forecasted demand for KANGA PLATE 150X150X5MM 3 is 8,000 units in June 2025, then 16,000 units each month from July 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+OAKY CREEK COAL P/LJA079 operates OAKY CREEK MINE in QLD. OAKY CREEK MINE produces Coal which falls under Plate. OAKY CREEK COAL P/LJA079 uses Coal mine type for mining Plate. Depot JK20200538H1RW serves OAKY CREEK COAL P/LJA079. Sales contact John Doe represents OAKY CREEK COAL P/LJA079. Forecasted demand for 200 X 200 X 5 KANGA PLATE is 0 units each month from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+OAKY CREEK COAL P/LJA079 operates OAKY CREEK MINE, QLD. The company produces Coal which falls under Plate category. Forecasted demand for JHISPPLB - PLASTIC PLATE is 0 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+OAKY CREEK COAL P/LJA079 operates OAKY CREEK MINE, QLD. The company produces Coal which falls under Plate category. Forecasted demand for HIPSTEELSPP42 - PLASTIC PLATE 300MM SQUAR is 3,000 units from July 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+OAKY CREEK COAL P/LJA079 operates OAKY CREEK MINE, QLD. The company produces Coal which falls under Plate category. Forecasted demand for JCP2840K1505 - COMBI PLATE 150X150x5 + O is 10,000 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+OAKY CREEK COAL P/LJA079 operates OAKY CREEK MINE, QLD. The company produces Coal. Forecasted demand for JURRGROUT1T - Jennchem Underground Road is 10,000 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+OAKY CREEK COAL P/LJA079 operates OAKY CREEK MINE, QLD. The company produces Coal which falls under Cable category. Forecasted demand for JLPG100036MR - J-LOK PG CABLE 1000X36MM is 2,520 units from July 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+OAKY CREEK COAL P/LJA079 operates OAKY CREEK MINE, QLD. The company produces Coal which falls under Bolt category. Forecasted demand for JX2412BTPS - 1.2m JX ROOF BOLT is 1,600 units from July 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+OAKY CREEK COAL P/LJA079 operates OAKY CREEK MINE, QLD. The company produces Coal which falls under Bolt category. Forecasted demand for JX18BTPS49IWH1B - 1.8m JX ROOF BOLT is 430 units from July 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+OAKY CREEK COAL P/LJA079 operates OAKY CREEK MINE, QLD. The company produces Coal. Forecasted demand for TD80GROUT - TD80 GROUT 20 KG is 0 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+RIO TINTO operates Peabody Mine, QLD. The company produces Coal which falls under Bolt category. Forecasted demand for HIPSTEELSPP2042 - 200 x 200mm Squ Plastic p is 2,000 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+RIO TINTO operates Peabody Mine, QLD. The company produces Coal. Forecasted demand for CTPOD2118C - Centurion Cuttable Pod 2. is 35 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+RIO TINTO operates Peabody Mine, QLD. The company produces Coal which falls under Bolt category. Forecasted demand for CTPOD2118S - Centurion Steel Pod 2.1M is 90 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+RIO TINTO operates Peabody Mine, QLD. The company produces Coal which falls under Cable category. Forecasted demand for JFG2218XHTHSBW - F/G BOLT 22MMX1800MM XHT is 2,000 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+RIO TINTO operates Peabody Mine, QLD. The company produces Coal. Forecasted demand for JK20200638RW - Kanga 200 x 6 is 4,000 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+RIO TINTO operates Peabody Mine, QLD. The company produces Coal which falls under Cable category. Forecasted demand for JLPG100036MR - J-LOK PG CABLE 1000X36MM is 1,680 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+RIO TINTO operates Peabody Mine, QLD. The company produces Coal which falls under Cable category. Forecasted demand for JLPG100036SR - J-LOK PG CABLE 1000X36MM is 0 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+RIO TINTO operates Peabody Mine, QLD. The company produces Coal. Forecasted demand for JTWIM2407TYRS - M24 TENSION INDICATOR WAS is 7 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+RIO TINTO operates Peabody Mine, QLD. The company produces Coal which falls under Plate category. Forecasted demand for JWW280300 - BUTTERFLY PLATE 280X300MM is 1,000 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+RIO TINTO operates Peabody Mine, QLD. The company produces Coal. Forecasted demand for JX2418BTPS - JX M24X1.8M DOME BALL TEF is 2,000 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+Rio Tinto operates Peabody Mine in QLD. Rio Tinto produces Coal which falls under Bolt. Rio Tinto uses Peabody Mine for mining Coal. Depot JX2421BTPS serves Rio Tinto. Sales contact Rio Tinto represents Rio Tinto. JX2421BTPS will produce 35,000 units of JX M24X2.1M DOME BALL TEF in June 2025. JX2421BTPS will produce 35,000 units in July 2025. JX2421BTPS will produce 35,000 units in October 2025. JX2421BTPS will produce 35,000 units in November 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+Rio Tinto operates Peabody Mine in QLD. Rio Tinto produces Coal which falls under Bolt. Rio Tinto uses Peabody Mine for mining Coal. Depot JX2421BTPS serves Rio Tinto. Sales contact Rio Tinto represents Rio Tinto. JURRGROUT1T will produce 30,000 units of Jennchem Underground Road in June 2025. JURRGROUT1T will produce 30,000 units in July 2025. JURRGROUT1T will produce 30,000 units in August 2025. JURRGROUT1T will produce 30,000 units in September 2025. JURRGROUT1T will produce 30,000 units in October 2025. JURRGROUT1T will produce 30,000 units in November 2025. JURRGROUT1T will produce 30,000 units in December 2025. JURRGROUT1T will produce 30,000 units in January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+Anglo American operates Grosvenor Mine in QLD. Anglo American produces Coal which falls under Bolt. Anglo American uses Grosvenor Mine for mining Coal. Depot JX2421BTPS serves Anglo American. Sales contact Anglo American represents Anglo American. GRPOD21C32 will produce 150 units of GRPOD21C32 in June 2025. GRPOD21C32 will produce 150 units in July 2025. GRPOD21C32 will produce 150 units in August 2025. GRPOD21C32 will produce 150 units in September 2025. GRPOD21C32 will produce 150 units in October 2025. GRPOD21C32 will produce 150 units in November 2025. GRPOD21C32 will produce 150 units in December 2025. GRPOD21C32 will produce 150 units in January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+Anglo American operates Grosvenor Mine in QLD. Anglo American produces Coal which falls under Bolt. Anglo American uses Grosvenor Mine for mining Coal. Depot JX2421BTPS serves Anglo American. Sales contact Anglo American represents Anglo American. GRPOD21C32 will produce 130 units of GRPOD21C32 in June 2025. GRPOD21C32 will produce 130 units in July 2025. GRPOD21C32 will produce 130 units in August 2025. GRPOD21C32 will produce 130 units in September 2025. GRPOD21C32 will produce 130 units in October 2025. GRPOD21C32 will produce 130 units in November 2025. GRPOD21C32 will produce 130 units in December 2025. GRPOD21C32 will produce 130 units in January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+Anglo American operates Grosvenor Mine in QLD. Anglo American produces Coal which falls under Bolt. Anglo American uses Grosvenor Mine for mining Coal. Depot JX2421BTPS serves Anglo American. Sales contact Anglo American represents Anglo American. GRPOD21C32 will produce 2 units of GRPOD21C32 in June 2025. GRPOD21C32 will produce 2 units in July 2025. GRPOD21C32 will produce 2 units in August 2025. GRPOD21C32 will produce 2 units in September 2025. GRPOD21C32 will produce 2 units in October 2025. GRPOD21C32 will produce 2 units in November 2025. GRPOD21C32 will produce 2 units in December 2025. GRPOD21C32 will produce 2 units in January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+Anglo American operates Grosvenor Mine in QLD. Anglo American produces Coal which falls under Bolt. Anglo American uses Grosvenor Mine for mining Coal. Depot JX2421BTPS serves Anglo American. Sales contact Anglo American represents Anglo American. GRPOD21C32 will produce 2 units of GRPOD21C32 in June 2025. GRPOD21C32 will produce 2 units in July 2025. GRPOD21C32 will produce 2 units in August 2025. GRPOD21C32 will produce 2 units in September 2025. GRPOD21C32 will produce 2 units in October 2025. GRPOD21C32 will produce 2 units in November 2025. GRPOD21C32 will produce 2 units in December 2025. GRPOD21C32 will produce 2 units in January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+Anglo American operates Grosvenor Mine in QLD. Anglo American produces Coal which falls under Bolt. Anglo American uses Grosvenor Mine for mining Coal. Depot JX2421BTPS serves Anglo American. Sales contact Anglo American represents Anglo American. GRPOD21C32 will produce 1 unit of GRPOD21C32 in June 2025. GRPOD21C32 will produce 1 unit in July 2025. GRPOD21C32 will produce 1 unit in August 2025. GRPOD21C32 will produce 1 unit in September 2025. GRPOD21C32 will produce 1 unit in October 2025. GRPOD21C32 will produce 1 unit in November 2025. GRPOD21C32 will produce 1 unit in December 2025. GRPOD21C32 will produce 1 unit in January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+Anglo American operates Grosvenor Mine in QLD. Anglo American produces Coal which falls under Bolt. Anglo American uses Grosvenor Mine for mining Coal. Depot JX2421BTPS serves Anglo American. Sales contact Anglo American represents Anglo American. GRPOD21C32 will produce 1 unit of GRPOD21C32 in June 2025. GRPOD21C32 will produce 1 unit in July 2025. GRPOD21C32 will produce 1 unit in August 2025. GRPOD21C32 will produce 1 unit in September 2025. GRPOD21C32 will produce 1 unit in October 2025. GRPOD21C32 will produce 1 unit in November 2025. GRPOD21C32 will produce 1 unit in December 2025. GRPOD21C32 will produce 1 unit in January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+Anglo American operates Grosvenor Mine in QLD. Anglo American produces Coal which falls under Bolt. Anglo American uses Grosvenor Mine for mining Coal. Depot JX2421BTPS serves Anglo American. Sales contact Anglo American represents Anglo American. GRPOD21C32 will produce 1 unit of GRPOD21C32 in June 2025. GRPOD21C32 will produce 1 unit in July 2025. GRPOD21C32 will produce 1 unit in August 2025. GRPOD21C32 will produce 1 unit in September 2025. GRPOD21C32 will produce 1 unit in October 2025. GRPOD21C32 will produce 1 unit in November 2025. GRPOD21C32 will produce 1 unit in December 2025. GRPOD21C32 will produce 1 unit in January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+Anglo American operates Grosvenor Mine in QLD. Anglo American produces Coal which falls under Bolt. Anglo American uses Grosvenor Mine for mining Coal. Depot JX2421BTPS serves Anglo American. Sales contact Anglo American represents Anglo American. GRPOD21C32 will produce 1 unit of GRPOD21C32 in June 2025. GRPOD21C32 will produce 1 unit in July 2025. GRPOD21C32 will produce 1 unit in August 2025. GRPOD21C32 will produce 1 unit in September 2025. GRPOD21C32 will produce 1 unit in October 2025. GRPOD21C32 will produce 1 unit in November 2025. GRPOD21C32 will produce 1 unit in December 2025. GRPOD21C32 will produce 1 unit in January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+Anglo American operates Grosvenor Mine in QLD. Anglo American produces Coal which falls under Bolt. Anglo American uses Grosvenor Mine for mining Coal. Depot JX2421BTPS serves Anglo American. Sales contact Anglo American represents Anglo American. GRPOD21C32 will produce 1 unit of GRPOD21C32 in June 2025. GRPOD21C32 will produce 1 unit in July 2025. GRPOD21C32 will produce 1 unit in August 2025. GRPOD21C32 will produce 1 unit in September 2025. GRPOD21C32 will produce 1 unit in October 2025. GRPOD21C32 will produce 1 unit in November 2025. GRPOD21C32 will produce 1 unit in December 2025. GRPOD21C32 will produce 1 unit in January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+Anglo American operates Grosvenor Mine in QLD. Anglo American produces Coal which falls under Bolt. Anglo American uses Grosvenor Mine for mining Coal. Depot JX2421BTPS serves Anglo American. Sales contact Anglo American represents Anglo American. GRPOD21C32 will produce 1 unit of GRPOD21C32 in June 2025. GRPOD21C32 will produce 1 unit in July 2025. GRPOD21C32 will produce 1 unit in August 2025. GRPOD21C32 will produce 1 unit in September 2025. GRPOD21C32 will produce 1 unit in October 2025. GRPOD21C32 will produce 1 unit in November 2025. GRPOD21C32 will produce 1 unit in December 2025. GRPOD21C32 will produce 1 unit in January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+Anglo American operates Grosvenor Mine in QLD. Anglo American produces Coal which falls under Bolt. Anglo American uses Grosvenor Mine for mining Coal. Depot JX2421BTPS serves Anglo American. Sales contact Anglo American represents Anglo American. GRPOD21C32 will produce 1 unit of GRPOD21C32 in June 2025. GRPOD21C32 will produce 1 unit in July 2025. GRPOD21C32 will produce 1 unit in August 2025. GRPOD21C32 will produce 1 unit in September 2025. GRPOD21C32 will produce 1 unit in October 2025. GRPOD21C32 will produce 1 unit in November 2025. GRPOD21C32 will produce 1 unit in December 2025. GRPOD21C32 will produce 1 unit in January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+Anglo American operates Grosvenor Mine in QLD. Anglo American produces Coal which falls under Bolt. Anglo American uses Grosvenor Mine for mining Coal. Depot JX2421BTPS serves Anglo American. Sales contact Anglo American represents Anglo American. GRPOD21C32 will produce 1 unit of GRPOD21C32 in June 2025. GRPOD21C32 will produce 1 unit in July 2025. GRPOD21C32 will produce 1 unit in August 2025. GRPOD21C32 will produce 1 unit in September 2025. GRPOD21C32 will produce 1 unit in October 2025. GRPOD21C32 will produce 1 unit in November 2025. GRPOD21C32 will produce 1 unit in December 2025. GRPOD21C32 will produce 1 unit in January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+Anglo American operates Grosvenor Mine in QLD. Anglo American produces Coal which falls under Bolt. Anglo American uses Grosvenor Mine for mining Coal. Depot JX2421BTPS serves Anglo American. Sales contact Anglo American represents Anglo American. GRPOD21C32 will produce 1 unit of GRPOD21C32 in June 2025. GRPOD21C32 will produce 1 unit in July 2025. GRPOD21C32 will produce 1 unit in August 2025. GRPOD21C32 will produce 1 unit in September 2025. GRPOD21C32 will produce 1 unit in October 2025. GRPOD21C32 will produce 1 unit in November 2025. GRPOD21C32 will produce 1 unit in December 2025. GRPOD21C32 will produce 1 unit in January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+Anglo American operates Grosvenor Mine in QLD. Anglo American produces Coal which falls under Bolt. Anglo American uses Grosvenor Mine for mining Coal. Depot JX2421BTPS serves Anglo American. Sales contact Anglo American represents Anglo American. GRPOD21C32 will produce 1 unit of GRPOD21C32 in June 2025. GRPOD21C32 will produce 1 unit in July 2025. GRPOD21C32 will produce 1 unit in August 2025. GRPOD21C32 will produce 1 unit in September 2025. GRPOD21C32 will produce 1 unit in October 2025. GRPOD21C32 will produce 1 unit in November 2025. GRPOD21C32 will produce 1 unit in December 2025. GRPOD21C32 will produce 1 unit in January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+Anglo American operates Grosvenor Mine in QLD. Anglo American produces Coal which falls under Bolt. Anglo American uses Grosvenor Mine for mining Coal. Depot JX2421BTPS serves Anglo American. Sales contact Anglo American represents Anglo American. GRPOD21C32 will produce 1 unit of GRPOD21C32 in June 2025. GRPOD21C32 will produce 1 unit in July 2025. GRPOD21C32 will produce 1 unit in August 2025. GRPOD21C32 will produce 1 unit in September 2025. GRPOD21C32 will produce 1 unit in October 2025. GRPOD21C32 will produce 1 unit in November 2025. GRPOD21C32 will produce 1 unit in December 2025. GRPOD21C32 will produce 1 unit in January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+Anglo American operates Grosvenor Mine in QLD. Anglo American produces Coal which falls under Bolt. Anglo American uses Grosvenor Mine for mining Coal. Depot JX2421BTPS serves Anglo American. Sales contact Anglo American represents Anglo American. GRPOD21C32 will produce 1 unit of GRPOD21C32 in June 2025. GRPOD21C32 will produce 1 unit in July 2025. GRPOD21C32 will produce 1 unit in August 2025. GRPOD21C32 will produce 1 unit in September 2025. GRPOD21C32 will produce 1 unit in October 2025. GRPOD21C32 will produce 1 unit in November 2025. GRPOD21C32 will produce 1 unit in December 2025. GRPOD21C32 will produce 1 unit in January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+Anglo American operates Grosvenor Mine in QLD. Anglo American produces Coal which falls under Bolt. Anglo American uses Grosvenor Mine for mining Coal. Depot JX2421BTPS serves Anglo American. Sales contact Anglo American represents Anglo American. GRPOD21C32 will produce 1 unit of GRPOD21C32 in June 2025. GRPOD21C32 will produce 1 unit in July 2025. GRPOD21C32 will produce 1 unit in August 2025. GRPOD21C32 will produce 1 unit in September 2025. GRPOD21C32 will produce 1 unit in October 2025. GRPOD21C32 will produce 1 unit in November 2025. GRPOD21C32 will produce 1 unit in December 2025. GRPOD21C32 will produce 1 unit in January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+Anglo American operates Grosvenor Mine in QLD. Anglo American produces Coal which falls under Bolt. Anglo American uses Grosvenor Mine for mining Coal. Depot JX2421BTPS serves Anglo American. Sales contact Anglo American represents Anglo American. GRPOD21C32 will produce 1 unit of GRPOD21C32 in June 2025. GRPOD21C32 will produce 1 unit in July 2025. GRPOD21C32 will produce 1 unit in August 2025. GRPOD21C32 will produce 1 unit in September 2025. GRPOD21C32 will produce 1 unit in October 2025. GRPOD21C32 will produce 1 unit in November 2025. GRPOD21C32 will produce 1 unit in December 2025. GRPOD21C32 will produce 1 unit in January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+Anglo American operates Grosvenor Mine in QLD. Anglo American produces Coal which falls under Bolt. Anglo American uses Grosvenor Mine for mining Coal. Depot JX2421BTPS serves Anglo American. Sales contact Anglo American represents Anglo American. GRPOD21C32 will produce 1 unit of GRPOD21C32 in June 2025. GRPOD21C32 will produce 1 unit in July 2025. GRPOD21C32 will produce 1 unit in August 2025. GRPOD21C32 will produce 1 unit in September 2025. GRPOD21C32 will produce 1 unit in October 2025. GRPOD21C32 will produce 1 unit in November 2025. GRPOD21C32 will produce 1 unit in December 2025. GRPOD21C32 will produce 1 unit in January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 300 units in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 300 units in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes with 1 unit in Jun 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates Grosvenor Mine in QLD. Coal production forecasted for Jun 2025 to Oct 2026 shows zero production until Mar 2026. Starting Apr 2026, production resumes
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+ANGLO AMERICAN operates MORANBAH MINE, QLD in QLD. They produce Coal which falls under unspecified category using unspecified mine type. JPOD21C assembles JX2421BTIWPS with 2.0 components. Forecasted production is 140 units each month from June 2025 to February 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+ANGLO AMERICAN operates MORANBAH MINE, QLD in QLD. They produce Coal which falls under unspecified category using unspecified mine type. JPOD21C assembles JX2421BTPS with 98.0 components. Forecasted production is 6,860 units each month from June 2025 to February 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+ANGLO AMERICAN operates MORANBAH MINE, QLD in QLD. They produce Coal which falls under unspecified category using unspecified mine type. JPOD21C assembles JX2421BTIWPS with 2.0 components. Forecasted production is 140 units each month from June 2025 to February 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+ANGLO AMERICAN operates MORANBAH MINE, QLD in QLD. They produce Coal which falls under unspecified category using unspecified mine type. JPOD21C assembles JX2418BTPS with 73.0 components. Forecasted production is 5,110 units each month from June 2025 to February 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+ANGLO AMERICAN operates MORANBAH MINE, QLD in QLD. They produce Coal which falls under unspecified category using unspecified mine type. JPOD21C assembles JX2418BTIWPS with 2.0 components. Forecasted production is 140 units each month from June 2025 to February 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+ANGLO AMERICAN operates MORANBAH MINE, QLD in QLD. They produce Coal which falls under unspecified category using unspecified mine type. JPOD21S assembles JK15150538RL with 175.0 components. Forecasted production is 12,250 units each month from June 2025 to February 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+ANGLO AMERICAN operates MORANBAH MINE, QLD in QLD. They produce Coal which falls under unspecified category using unspecified mine type. JPOD21S assembles JWW280300 with 75.0 components. Forecasted production is 5,250 units each month from June 2025 to February 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+ANGLO AMERICAN operates MORANBAH MINE, QLD in QLD. They produce Coal which falls under unspecified category using unspecified mine type. JPOD21S assembles JDO650300 with 1.0 components. Forecasted production is 70 units each month from June 2025 to February 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+ANGLO AMERICAN operates MORANBAH MINE, QLD in QLD. They produce Coal which falls under unspecified category using unspecified mine type. JPOD21S assembles JDO650500 with 1.0 components. Forecasted production is 70 units each month from June 2025 to February 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+ANGLO AMERICAN operates MORANBAH MINE, QLD in QLD. They produce Coal which falls under unspecified category using unspecified mine type. JPOD21S assembles 22R713506 with 1.0 components. Forecasted production is 70 units each month from June 2025 to February 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+ANGLO AMERICAN operates MORANBAH MINE, QLD in QLD. They produce Coal which falls under unspecified category using unspecified mine type. JPOD21S assembles 22R719506 with 1.0 components. Forecasted production is 70 units each month from June 2025 to February 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+ANGLO AMERICAN operates MORANBAH MINE, QLD in QLD. They produce Coal which falls under unspecified category using unspecified mine type. JPOD21S assembles 22R722506 with 1.0 components. Forecasted production is 70 units each month from June 2025 to February 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+ANGLO AMERICAN operates MORANBAH MINE, QLD in QLD. They produce Coal which falls under unspecified category using unspecified mine type. JPOD21S assembles JX2421BTPS with 73.0 components. Forecasted production is 5,110 units each month from June 2025 to February 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+ANGLO AMERICAN operates MORANBAH MINE, QLD in QLD. They produce Coal which falls under unspecified category using unspecified mine type. JPOD21S assembles JX2418BTIWPS with 2.0 components. Forecasted production is 140 units each month from June 2025 to February 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+ANGLO AMERICAN operates MORANBAH MINE, QLD in QLD. They produce Coal which falls under unspecified category using unspecified mine type. JPOD21S assembles JK15150538RL with 175.0 components. Forecasted production is 12,250 units each month from June 2025 to February 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+ANGLO AMERICAN operates MORANBAH MINE, QLD in QLD. They produce Coal which falls under unspecified category using unspecified mine type. JPOD21S assembles JWW280300 with 75.0 components. Forecasted production is 5,250 units each month from June 2025 to February 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+ANGLO AMERICAN operates MORANBAH MINE, QLD in QLD. They produce Coal which falls under unspecified category using unspecified mine type. JPOD21S assembles JDO650300 with 1.0 components. Forecasted production is 70 units each month from June 2025 to February 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+ANGLO AMERICAN operates MORANBAH MINE, QLD in QLD. They produce Coal which falls under unspecified category using unspecified mine type. JPOD21S assembles JDO650500 with 1.0 components. Forecasted production is 70 units each month from June 2025 to February 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+ANGLO AMERICAN operates MORANBAH MINE, QLD in QLD. They produce Coal which falls under unspecified category using unspecified mine type. JPOD21S assembles 22R713506 with 1.0 components. Forecasted production is 70 units each month from June 2025 to February 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+ANGLO AMERICAN operates MORANBAH MINE, QLD in QLD. They produce Coal which falls under unspecified category using unspecified mine type. JPOD21S assembles 22R719506 with 1.0 components. Forecasted production is 70 units each month from June 2025 to February 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+ANGLO AMERICAN operates MORANBAH MINE, QLD in QLD. They produce Coal which falls under unspecified category using unspecified mine type. JPOD21S assembles 22R722506 with 1.0 components. Forecasted production is 70 units each month from June 2025 to February 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates MORANBAH MINE in QLD. ANGLO AMERICAN produces Coal which falls under Product Category. ANGLO AMERICAN uses Broadmeadow Mine for mining Coal. WASHM24TEN assembly will produce 30 units of JX2415BPS in June 2025, increasing to 35 units in July 2025. Sales contact represents ANGLO AMERICAN.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates MORANBAH MINE in QLD. ANGLO AMERICAN produces Coal which falls under Product Category. ANGLO AMERICAN uses Broadmeadow Mine for mining Coal. JTWIM2407TYR assembly will produce 30 units of JX2415BPS in June 2025, increasing to 35 units in July 2025. Sales contact represents ANGLO AMERICAN.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ANGLO AMERICAN operates MORANBAH MINE in QLD. ANGLO AMERICAN produces Coal which falls under Product Category. ANGLO AMERICAN uses Broadmeadow Mine for mining Coal. JX2415BPS assembly will produce 3,570 units of JX2415BPS from June 2025 to October 2025, then decreasing to 3,060 units in November 2025. Sales contact represents ANGLO AMERICAN.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE operates BROADMEADOW MINE in QLD. BM ALLIANCE - BROADMEADOW MINE produces Coal which falls under Product Category. BM ALLIANCE - BROADMEADOW MINE uses Broadmeadow Mine for mining Coal. JX2418BPS assembly will produce 3,570 units of JX2418BPS from June 2025 to October 2025, then decreasing to 3,060 units in November 2025. Sales contact represents BM ALLIANCE - BROADMEADOW MINE.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE operates BROADMEADOW MINE in QLD. BM ALLIANCE - BROADMEADOW MINE produces Coal which falls under Product Category. BM ALLIANCE - BROADMEADOW MINE uses Broadmeadow Mine for mining Coal. JK15150538RL assembly will produce 7,140 units of JK15150538RL from July 2025 to September 2025, then decreasing to 6,120 units in October 2025. Sales contact represents BM ALLIANCE - BROADMEADOW MINE.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE operates BROADMEADOW MINE in QLD. BM ALLIANCE - BROADMEADOW MINE produces Coal which falls under Product Category. BM ALLIANCE - BROADMEADOW MINE uses Broadmeadow Mine for mining Coal. JWW280300 assembly will produce 3,570 units of JWW280300 from June 2025 to October 2025. Sales contact represents BM ALLIANCE - BROADMEADOW MINE.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE operates BROADMEADOW MINE in QLD. BM ALLIANCE - BROADMEADOW MINE produces Coal which falls under Product Category. BM ALLIANCE - BROADMEADOW MINE uses Broadmeadow Mine for mining Coal. WASHM24TEN assembly will produce 35 units of WASHM24TEN from June 2025 to February 2026. Sales contact represents BM ALLIANCE - BROADMEADOW MINE.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE operates BROADMEADOW MINE in QLD. BM ALLIANCE - BROADMEADOW MINE produces Coal which falls under Product Category. BM ALLIANCE - BROADMEADOW MINE uses Broadmeadow Mine for mining Coal. JTWIM2407TYR assembly will produce 35 units of JTWIM2407TYR from June 2025 to February 2026. Sales contact represents BM ALLIANCE - BROADMEADOW MINE.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE operates BROADMEADOW MINE in QLD. BM ALLIANCE - BROADMEADOW MINE produces Coal which falls under Product Category. BM ALLIANCE - BROADMEADOW MINE uses Broadmeadow Mine for mining Coal. JX2415BPS assembly will produce 3,570 units of JX2415BPS from June 2025 to October 2025, then decreasing to 3,060 units in November 2025. Sales contact represents BM ALLIANCE - BROADMEADOW MINE.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE operates BROADMEADOW MINE in QLD. BM ALLIANCE - BROADMEADOW MINE produces Coal which falls under Product Category. BM ALLIANCE - BROADMEADOW MINE uses Broadmeadow Mine for mining Coal. JX2418BPS assembly will produce 3,570 units of JX2418BPS from June 2025 to October 2025, then decreasing to 3,060 units in November 2025. Sales contact represents BM ALLIANCE - BROADMEADOW MINE.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE operates BROADMEADOW MINE in QLD. BM ALLIANCE - BROADMEADOW MINE produces Coal which falls under Product Category. BM ALLIANCE - BROADMEADOW MINE uses Broadmeadow Mine for mining Coal. JK15150538RL assembly will produce 7,140 units of JK15150538RL from July 2025 to September 2025, then decreasing to 6,120 units in October 2025. Sales contact represents BM ALLIANCE - BROADMEADOW MINE.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE operates BROADMEADOW MINE in QLD. BM ALLIANCE - BROADMEADOW MINE produces Coal which falls under Product Category. BM ALLIANCE - BROADMEADOW MINE uses Broadmeadow Mine for mining Coal. JWW280300 assembly will produce 3,570 units of JWW280300 from June 2025 to October 2025. Sales contact represents BM ALLIANCE - BROADMEADOW MINE.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE operates BROADMEADOW MINE in QLD. BM ALLIANCE - BROADMEADOW MINE produces Coal which falls under Product Category. BM ALLIANCE - BROADMEADOW MINE uses Broadmeadow Mine for mining Coal. WASHM24TEN assembly will produce 35 units of WASHM24TEN from June 2025 to February 2026. Sales contact represents BM ALLIANCE - BROADMEADOW MINE.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE operates BROADMEADOW MINE in QLD. BM ALLIANCE - BROADMEADOW MINE produces Coal which falls under Product Category. BM ALLIANCE - BROADMEADOW MINE uses Broadmeadow Mine for mining Coal. JTWIM2407TYR assembly will produce 35 units of JTWIM2407TYR from June 2025 to February 2026. Sales contact represents BM ALLIANCE - BROADMEADOW MINE.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE operates BROADMEADOW MINE in QLD. BM ALLIANCE - BROADMEADOW MINE produces Coal which falls under Product Category. BM ALLIANCE - BROADMEADOW MINE uses Broadmeadow Mine for mining Coal. JX2415BPS assembly will produce 3,570 units of JX2415BPS from June 2025 to October 2025, then decreasing to 3,060 units in November 2025. Sales contact represents BM ALLIANCE - BROADMEADOW MINE.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE operates BROADMEADOW MINE in QLD. BM ALLIANCE - BROADMEADOW MINE produces Coal which falls under Product Category. BM ALLIANCE - BROADMEADOW MINE uses Broadmeadow Mine for mining Coal. JX2418BPS assembly will produce 3,570 units of JX2418BPS from June 2025 to October 2025, then decreasing to 3,060 units in November 2025. Sales contact represents BM ALLIANCE - BROADMEADOW MINE.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE operates BROADMEADOW MINE in QLD. BM ALLIANCE - BROADMEADOW MINE produces Coal which falls under Product Category. BM ALLIANCE - BROADMEADOW MINE uses Broadmeadow Mine for mining Coal. JK15150538RL assembly will produce 7,140 units of JK15150538RL from July 2025 to September 2025, then decreasing to 6,120 units in October 2025. Sales contact represents BM ALLIANCE - BROADMEADOW MINE.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE operates BROADMEADOW MINE in QLD. BM ALLIANCE - BROADMEADOW MINE produces Coal which falls under Product Category. BM ALLIANCE - BROADMEADOW MINE uses Broadmeadow Mine for mining Coal. JWW280300 assembly will produce 3,570 units of JWW280300 from June 2025 to October 2025. Sales contact represents BM ALLIANCE - BROADMEADOW MINE.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE operates BROADMEADOW MINE in QLD. BM ALLIANCE - BROADMEADOW MINE produces Coal which falls under Product Category. BM ALLIANCE - BROADMEADOW MINE uses Broadmeadow Mine for mining Coal. WASHM24TEN assembly will produce 35 units of WASHM24TEN from June 2025 to February 2026. Sales contact represents BM ALLIANCE - BROADMEADOW MINE.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+BM ALLIANCE - BROADMEADOW MINE operates BROADMEADOW MINE in QLD. BM ALLIANCE - BROADMEADOW MINE produces Coal which falls under Product Category. BM ALLIANCE - BROADMEADOW MINE uses Broadmeadow Mine for mining Coal. JTWIM2407TYR assembly will produce 35 units of JTWIM2407TYR from June 2025 to February 2026. Sales contact represents BM ALLIANCE - BROADMEADOW MINE.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ENSHAM RESOURCES P/L JA106 operates Ensham Mine in QLD. ENSHAM RESOURCES P/L JA106 produces Coal which falls under Product Category. ENSHAM RESOURCES P/L JA106 uses Ensham Mine for mining Coal. JBX2415BTPS assembly will produce 30,000 units of JBX2415BTPS from June 2025 to January 2026. Sales contact represents ENSHAM RESOURCES P/L JA106.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ENSHAM RESOURCES P/L JA107 operates Ensham Mine in QLD. ENSHAM RESOURCES P/L JA107 produces Coal which falls under Product Category. ENSHAM RESOURCES P/L JA107 uses Ensham Mine for mining Coal. JBX2418BTPS assembly will produce 20,000 units of JBX2418BTPS from June 2025 to January 2026. Sales contact represents ENSHAM RESOURCES P/L JA107.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+ENSHAM RESOURCES P/L JA108 operates Ensham Mine in QLD. ENSHAM RESOURCES P/L JA108 produces Coal which falls under Product Category. ENSHAM RESOURCES P/L JA108 uses Ensham Mine for mining Coal. JBX2424BTPS assembly will produce 6,000 units of JBX2424BTPS from June 2025 to December 2025. Sales contact represents ENSHAM RESOURCES P/L JA108.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+FITZROY RESOURCES operates Ironbark Mine in QLD. FITZROY RESOURCES produces Coal which falls under Product Category. FITZROY RESOURCES uses Ironbark Mine for mining Coal. JX2418BTPSPWASH assembly will produce 2,880 units of JX2418BTPSPWASH in June 2025, increasing to 4,800 units in July 2025. Sales contact represents FITZROY RESOURCES.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+FITZROY RESOURCES operates Ironbark Mine in QLD. FITZROY RESOURCES produces Coal which falls under Product Category. FITZROY RESOURCES uses Ironbark Mine for mining Coal. JK20200638H1RL assembly will produce 2,880 units of JK20200638H1RL in June 2025, increasing to 4,800 units in July 2025. Sales contact represents FITZROY RESOURCES.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+FITZROY RESOURCES operates Ironbark Mine in QLD. FITZROY RESOURCES produces Coal which falls under Product Category. FITZROY RESOURCES uses Ironbark Mine for mining Coal. WASHM24TEN assembly will produce 120 units of WASHM24TEN in June 2025, increasing to 200 units in July 2025. Sales contact represents FITZROY RESOURCES.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+FITZROY RESOURCES operates Ironbark Mine in QLD. FITZROY RESOURCES produces Coal which falls under Product Category. FITZROY RESOURCES uses CDPOD18LH10TWAS for mining Coal. Depot JTWIM2407TYR serves FITZROY RESOURCES. Sales Contact FITZROY RESOURCES represents FITZROY RESOURCES. FITZROY RESOURCES forecasts demand of 120 units of JTWIM2407TYR in June 2025. Forecasted demand increases to 200 units in July and August 2025, then decreases to 120 units in October 2025. Forecast continues with 200 units in November and December 2025, and 200 units in January 2026. Forecast shows zero units from February 2026 onwards.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+FITZROY RESOURCES operates Ironbark Mine in QLD. FITZROY RESOURCES produces Coal which falls under Product Category. FITZROY RESOURCES uses CDPOD18RH10TWAS for mining Coal. Depot JX2418BTPSPWASH serves FITZROY RESOURCES. Sales Contact FITZROY RESOURCES represents FITZROY RESOURCES. FITZROY RESOURCES forecasts demand of 2880 units of JX2418BTPSPWASH in June 2025. Forecasted demand increases to 4800 units in July and August 2025, then decreases to 2880 units in October 2025. Forecast continues with 4800 units in November and December 2025, and 4800 units in January 2026. Forecast shows zero units from February 2026 onwards.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+FITZROY RESOURCES operates Ironbark Mine in QLD. FITZROY RESOURCES produces Coal which falls under Product Category. FITZROY RESOURCES uses CDPOD18RH10TWAS for mining Coal. Depot JK20200638H1RL serves FITZROY RESOURCES. Sales Contact FITZROY RESOURCES represents FITZROY RESOURCES. FITZROY RESOURCES forecasts demand of 2880 units of JK20200638H1RL in June 2025. Forecasted demand increases to 4800 units in July and August 2025, then decreases to 2880 units in October 2025. Forecast continues with 4800 units in November and December 2025, and 4800 units in January 2026. Forecast shows zero units from February 2026 onwards.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+FITZROY RESOURCES operates Ironbark Mine in QLD. FITZROY RESOURCES produces Coal which falls under Product Category. FITZROY RESOURCES uses CDPOD18RH10TWAS for mining Coal. Depot WASHM24TEN serves FITZROY RESOURCES. Sales Contact FITZROY RESOURCES represents FITZROY RESOURCES. FITZROY RESOURCES forecasts demand of 120 units of WASHM24TEN in June 2025. Forecasted demand increases to 200 units in July and August 2025, then decreases to 120 units in October 2025. Forecast continues with 200 units in November and December 2025, and 200 units in January 2026. Forecast shows zero units from February 2026 onwards.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+FITZROY RESOURCES operates Ironbark Mine in QLD. FITZROY RESOURCES produces Coal which falls under Product Category. FITZROY RESOURCES uses CDPOD18RH10TWAS for mining Coal. Depot JTWIM2407TYR serves FITZROY RESOURCES. Sales Contact FITZROY RESOURCES represents FITZROY RESOURCES. FITZROY RESOURCES forecasts demand of 120 units of JTWIM2407TYR in June 2025. Forecasted demand increases to 200 units in July and August 2025, then decreases to 120 units in October 2025. Forecast continues with 200 units in November and December 2025, and 200 units in January 2026. Forecast shows zero units from February 2026 onwards.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+FITZROY RESOURCES operates Carboroughdowns Mine in QLD. FITZROY RESOURCES produces Coal which falls under Product Category. FITZROY RESOURCES uses CDPODBP186T for mining Coal. Depot JX2418BTPSPWASH serves FITZROY RESOURCES. Sales Contact FITZROY RESOURCES represents FITZROY RESOURCES. FITZROY RESOURCES forecasts demand of 14,000 units of JX2418BTPSPWASH in June 2025. Forecasted demand remains constant at 14,000 units until January 2026. Forecast shows zero units from February 2026 onwards.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+FITZROY RESOURCES operates Carboroughdowns Mine in QLD. FITZROY RESOURCES produces Coal which falls under Product Category. FITZROY RESOURCES uses CDPODBP186T for mining Coal. Depot JK20200638H1RL serves FITZROY RESOURCES. Sales Contact FITZROY RESOURCES represents FITZROY RESOURCES. FITZROY RESOURCES forecasts demand of 14,000 units of JK20200638H1RL in June 2025. Forecasted demand remains constant at 14,000 units until January 2026. Forecast shows zero units from February 2026 onwards.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+FITZROY RESOURCES operates Carboroughdowns Mine in QLD. FITZROY RESOURCES produces Coal which falls under Product Category. FITZROY RESOURCES uses CDPODBP186T for mining Coal. Depot WASHM24TEN serves FITZROY RESOURCES. Sales Contact FITZROY RESOURCES represents FITZROY RESOURCES. FITZROY RESOURCES forecasts demand of 500 units of WASHM24TEN in June 2025. Forecasted demand remains constant at 500 units until January 2026. Forecast shows zero units from February 2026 onwards.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+FITZROY RESOURCES operates Carboroughdowns Mine in QLD. FITZROY RESOURCES produces Coal which falls under Product Category. FITZROY RESOURCES uses CDPODBP186T for mining Coal. Depot JTWIM2407TYR serves FITZROY RESOURCES. Sales Contact FITZROY RESOURCES represents FITZROY RESOURCES. FITZROY RESOURCES forecasts demand of 500 units of JTWIM2407TYR in June 2025. Forecasted demand remains constant at 500 units until January 2026. Forecast shows zero units from February 2026 onwards.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOJITZ GREGORY MINING P/L JA47 operates Crinum Mine in QLD. SOJITZ GREGORY MINING P/L JA47 produces Coal which falls under Product Category. SOJITZ GREGORY MINING P/L JA47 uses JX15BTPS45I5BP for mining Coal. Depot JX2415BTPS serves SOJITZ GREGORY MINING P/L JA47. Sales Contact SOJITZ GREGORY MINING P/L JA47 represents SOJITZ GREGORY MINING P/L JA47. SOJITZ GREGORY MINING P/L JA47 forecasts demand of 18,000 units of JX2415BTPS in June 2025. Forecasted demand remains constant at 18,000 units until January 2026. Forecast shows zero units from February 2026 onwards.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+OAKY CREEK COAL P/LJA079 operates OAKY CREEK MINE in QLD. OAKY CREEK COAL P/LJA079 produces Coal which falls under Product Category. OAKY CREEK COAL P/LJA079 uses JX18BTPS49IWH1B for mining Coal. Depot JX2818BTPS serves OAKY CREEK COAL P/LJA079. Sales Contact OAKY CREEK COAL P/LJA079 represents OAKY CREEK COAL P/LJA079. OAKY CREEK COAL P/LJA079 forecasts demand of 10,000 units of JX2818BTPS in June 2025. Forecasted demand increases to 21,500 units in July and August 2025, then decreases to 10,000 units in October 2025. Forecast continues with 21,500 units in November and December 2025, and 21,500 units in January 2026. Forecast shows zero units from February 2026 onwards.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+RIO TINTO operates Peabody Mine in QLD. RIO TINTO produces Coal which falls under Product Category. RIO TINTO uses CTPOD2118C for mining Coal. Depot JX2421BTPS serves RIO TINTO. Sales Contact RIO TINTO represents RIO TINTO. RIO TINTO forecasts demand of 4,200 units of JX2421BTPS in June 2025. Forecasted demand remains constant at 4,200 units until January 2026. Forecast shows zero units from February 2026 onwards.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+RIO TINTO operates Peabody Mine in QLD. RIO TINTO produces Coal which falls under Product Category. RIO TINTO uses CTPOD2118C for mining Coal. Depot JFG221800XHT serves RIO TINTO. Sales Contact RIO TINTO represents RIO TINTO. RIO TINTO forecasts demand of 4,200 units of JFG221800XHT in June 2025. Forecasted demand remains constant at 4,200 units until January 2026. Forecast shows zero units from February 2026 onwards.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+RIO TINTO operates Peabody Mine in QLD. RIO TINTO produces Coal which falls under Product Category. RIO TINTO uses CTPOD2118C for mining Coal. Depot JK20200638RW serves RIO TINTO. Sales Contact RIO TINTO represents RIO TINTO. RIO TINTO forecasts demand of 4,200 units of JK20200638RW in June 2025. Forecasted demand remains constant at 4,200 units until January 2026. Forecast shows zero units from February 2026 onwards.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+RIO TINTO operates Peabody Mine in QLD. RIO TINTO produces Coal which falls under Product Category. RIO TINTO uses CTPOD2118C for mining Coal. Depot HIPSTEELSPP2042 serves RIO TINTO. Sales Contact RIO TINTO represents RIO TINTO. RIO TINTO forecasts demand of 4,200 units of HIPSTEELSPP2042 in June 2025. Forecasted demand remains constant at 4,200 units until January 2026. Forecast shows zero units from February 2026 onwards.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+RIO TINTO operates Peabody Mine in QLD. RIO TINTO produces Coal which falls under Product Category. RIO TINTO uses CTPOD2118C for mining Coal. Depot JX2421BTPS serves RIO TINTO. Sales Contact RIO TINTO represents RIO TINTO. RIO TINTO forecasts demand of 10,800 units of JX2421BTPS in June 2025. Forecasted demand remains constant at 10,800 units until January 2026. Forecast shows zero units from February 2026 onwards.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+RIO TINTO operates Peabody Mine in QLD. RIO TINTO produces Coal which falls under Product Category. RIO TINTO uses CTPOD2118C for mining Coal. Depot JX2418BTPS serves RIO TINTO. Sales Contact RIO TINTO represents RIO TINTO. RIO TINTO forecasts demand of 10,800 units of JX2418BTPS in June 2025. Forecasted demand remains constant at 10,800 units until January 2026. Forecast shows zero units from February 2026 onwards.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+RIO TINTO operates Peabody Mine in QLD. RIO TINTO produces Coal which falls under Product Category. RIO TINTO uses CTPOD2118S for mining Coal. Depot JK20200638RW serves RIO TINTO. Sales Contact RIO TINTO represents RIO TINTO. RIO TINTO forecasts demand of 21,600 units of JK20200638RW in June 2025. Forecasted demand remains constant at 21,600 units until January 2026. Forecast shows zero units from February 2026 onwards.

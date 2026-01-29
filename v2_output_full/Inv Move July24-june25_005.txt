@@ -1,0 +1,1331 @@
+[Source: Inv Move July24-june25.xls | Type: order_record]
+LUNA & MILLO placed order on March 15, 2025. Order contains 50 units of LUNA & MILLO COPPERBODY 4-LEGS #12 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+LUNA & MILLO placed order on March 15, 2025. Order contains 50 units of LUNA & MILLO COPPERBODY 4-LEGS #13 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+LUNA & MILLO placed order on March 15, 2025. Order contains 19.5 units of LUNA & MILLO PROBIOTIC DENTAL CARE 100ML for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+LUNA & MILLO placed order on March 15, 2025. Order contains 19.5 units of LUNA & MILLO PROBIOTIC DERMA CARE 100ML for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+LUNA & MILLO placed order on March 15, 2025. Order contains 19.5 units of LUNA & MILLO PROBIOTIC EAR CARE 100ML for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+LUNA & MILLO placed order on March 15, 2025. Order contains 19.5 units of LUNA & MILLO PROBIOTIC EYE CARE 100ML for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+LUNA & MILLO placed order on March 15, 2025. Order contains 180 units of CUP INLAY, UHMW-PE, 24, SNAP for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+BHP placed order on March 15, 2025. Order contains 15 units of CBLO CORTEXICAL SCREW 2.4MM X 12MM for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+BHP placed order on March 15, 2025. Order contains 15 units of CBLO CORTEXICAL SCREW 2.4MM X 14MM for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+BHP placed order on March 15, 2025. Order contains 15 units of CBLO CORTEXICAL SCREW 2.4MM X 16MM for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+BHP placed order on March 15, 2025. Order contains 15 units of CBLO CORTEXICAL SCREW 2.7MM X 16MM for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+BHP placed order on March 15, 2025. Order contains 15 units of CBLO CORTEXICAL SCREW 2.7MM X 18MM for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+CSCBLO3516 - CBLO Cortical Screw 3.5mm x 16mm was sold to an unspecified customer on March 15, 2025. Quantity: 15 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+CSCBLO3518 - CBLO Cortical Screw 3.5mm x 18mm was sold to an unspecified customer on March 15, 2025. Quantity: 105 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+CSCBLO3520 - CBLO Cortical Screw 3.5mm x 20mm was sold to an unspecified customer on March 15, 2025. Quantity: 150 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+CSCBLO3522 - CBLO Cortical Screw 3.5mm x 22mm was sold to an unspecified customer on March 15, 2025. Quantity: 105 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+CSCBLO3524 - CBLO Cortical Screw 3.5mm x 24mm was sold to an unspecified customer on March 15, 2025. Quantity: 105 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+CSCBLO3526 - CBLO Cortical Screw 3.5mm x 26mm was sold to an unspecified customer on March 15, 2025. Quantity: 120 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+CSCBLO3528 - CBLO Cortical Screw 3.5mm x 28mm was sold to an unspecified customer on March 15, 2025. Quantity: 45 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+CSCBLO3532 - CBLO Cortical Screw 3.5mm x 32mm was sold to an unspecified customer on March 15, 2025. Quantity: 45 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+FH1-T-18.XXL - Innoplant-Taper Head, TiAl6V4, TiN, 18-XXL was sold to an unspecified customer on March 15, 2025. Quantity: 218.5 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+FH1-T-18-L - Innoplant-Taper Head, TiAl6V4, TiN, 18-L was sold to an unspecified customer on March 15, 2025. Quantity: 218.5 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+FH1-T-18-M - Innoplant-Taper Head, TiAl6V4, TiN, 18-M was sold to an unspecified customer on March 15, 2025. Quantity: 218.5 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+HC2-T-24 - Screw Cup SL, Titan, 24 was sold to an unspecified customer on March 15, 2025. Quantity: 1410 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+IPG8052N - Infusion Pump IN-G8052N was sold to an unspecified customer on March 15, 2025. Quantity: 825 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+LSCBLO2010 - CBLO Locking Screw 2.0mm x 10mm was sold to an unspecified customer on March 15, 2025. Quantity: 27 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+LSCBLO2410 - CBLO Locking Screw 2.4mm x 10mm was sold to an unspecified customer on March 15, 2025. Quantity: 27 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+LSCBLO2412 - CBLO Locking Screw 2.4mm x 12mm was sold to an unspecified customer on March 15, 2025. Quantity: 27 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+LSCBLO2414 - CBLO Locking Screw 2.4mm x 14mm was sold to an unspecified customer on March 15, 2025. Quantity: 54 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+LSCBLO2416 - CBLO Locking Screw 2.4mm x 16mm was sold to an unspecified customer on March 15, 2025. Quantity: 27 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+LSCBLO2430 - CBLO Locking Screw 2.4mm x 30mm was sold to an unspecified customer on March 15, 2025. Quantity: 27 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+LSCBLO2716 - CBLO Locking Screw 2.7mm x 16mm was sold to an unspecified customer on March 15, 2025. Quantity: 135 units.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 purchased 27 units of CBLO Locking Screw 2.7mm x 18mm for $1,225 AUD on March 15, 2025.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 purchased 27 units of CBLO Locking Screw 2.7mm x 24mm for $1,225 AUD on March 15, 2025.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+GLENCORE purchased 81 units of CBLO Locking Screw 2.7mm x 26mm for $2,145 AUD on March 15, 2025.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+BHP placed order PO-2025-002 on March 15, 2025. Order contains 54 units of CBLO Locking Screw 2.7mm x 32mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 purchased 29 units of CBLO Locking Screw 3.5mm x 14mm for $1,325 AUD on March 15, 2025.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 purchased 58 units of CBLO Locking Screw 3.5mm x 16mm for $2,600 AUD on March 15, 2025.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 purchased 87 units of CBLO Locking Screw 3.5mm x 18mm for $3,870 AUD on March 15, 2025.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 purchased 174 units of CBLO Locking Screw 3.5mm x 20mm for $6,210 AUD on March 15, 2025.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 purchased 87 units of CBLO Locking Screw 3.5mm x 22mm for $3,870 AUD on March 15, 2025.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 purchased 87 units of CBLO Locking Screw 3.5mm x 28mm for $3,870 AUD on March 15, 2025.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 purchased 58 units of CBLO Locking Screw 3.5mm x 32mm for $2,600 AUD on March 15, 2025.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 purchased 58 units of CBLO Locking Screw 3.5mm x 34mm for $2,600 AUD on March 15, 2025.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 purchased 58 units of CBLO Locking Screw 3.5mm x 36mm for $2,600 AUD on March 15, 2025.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 placed order PO-2025-003 on March 15, 2025. Order contains 245 units of Anatomical locking CBLO plate 35 | LEFT | L 56 | T... for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 placed order PO-2025-004 on March 15, 2025. Order contains 265 units of Anatomical locking CBLO plate 35 | LEFT | L 100 | ... for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 placed order PO-2025-005 on March 15, 2025. Order contains 245 units of Anatomical locking CBLO plate 27 | RIGHT | L 45 | ... for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 placed order PO-2025-006 on March 15, 2025. Order contains 265 units of Anatomical locking CBLO plate 35 | RIGHT | L 100 | ... for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 placed order PO-2025-007 on March 15, 2025. Order contains 275 units of Anatomical locking CBLO plate 35 broad | RIGHT | L ... for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 purchased 7.5 units of Polyurethane Iodophor infused drape 20cm x 30cm for $562.50 AUD on March 15, 2025.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 purchased 12 units of Polyurethane Iodophor infused drape 45cm x 66cm for $792 AUD on March 15, 2025.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered 10 units of SP57130 - Autoclave Sterilization Pouch - Self Sealing 57mm on March 2025.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered 795 units of SPG602 - Syringe Pump IN-G602 on March 2025.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered 99 units of SS1508 - Staple 5 x 8 mm on March 2025.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered 99 units of SS1720 - Staple 7 x 20 mm on March 2025.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered 17.5 units of STDSHIP - Star Track FPP on March 2025.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered 315 units of SWM3105 - SWM3 Wedge Size 10.5mm on March 2025.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered 315 units of SWM312 - SWM3 Wedge Size 12mm on March 2025.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered 705 units of TS2-T-055 - 3Con Stem, TiAl6V4, # 5,5 on March 2025.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered 495 units of ZL191502 - Zlig 24 fibers / 15mm, 8 - 12kg,3000N Artificial C... on March 2025.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered 1485 units of ZL191503 - Zlig 32 fibers / 17mm, 12 - 25kg,4000N Artificial ... on March 2025.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered 1485 units of ZL191504 - Zlig 48 fibers / 19mm, 25 - 45kg, 6000 Artificial ... on March 2025.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered 4500 units of ZL191508 - Zlig Interference Screw and Instrumenten Set consi... on March 2025.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered 10.5 units of ZL191520 - Zlig K-Wire, blunt/blunt, 1.0 x 190mm on March 2025.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered 7 units of ZL191522 - Zlig K-Wire, blunt/blunt 1.8x190mm on March 2025.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered 32 units of ZL191541 - Zlig Interference Screw cannulated 1.1/4.0/10.0mm,... on March 2025.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered 32 units of ZL191546 - Zlig Interference Screw cannulated 1.1/4.5/15.0mm,... on March 2025.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered 32 units of ZL191547 - Zlig Interference Screw cannulated 1.1/4.5/20.0mm,... on March 2025.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered 32 units of ZL191548 - Zlig Interference Screw cannulated 1.1/4.5/25.0mm,... on March 2025.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered 32 units of ZL191566 - Zlig Interference Screw cannulated 2.9/5.0/15.0mm,... on March 2025.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered 32 units of ZL191568 - Zlig Interference Screw cannulated 2.9/5.0/20.0mm,... on March 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd ordered 32 units of Titanium Interference screw, 4.0x L18 from an unnamed supplier during the period March 2024 to June 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Total sales for March 2024 were 449 units of various products with a total value of $26,945.80 and an average price of $60.01.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+For April 2024, Vet Surgical & Medical Supplies Pty Ltd ordered 29 units of Luna & Milo CopperBody Classic #00, 32 units of Luna & Milo CopperBody Classic #0, 160 units of Luna & Milo CopperBody Classic #1, 165 units of Luna & Milo CopperBody Classic #2, 363 units of Luna & Milo CopperBody Classic #3, 396 units of Luna & Milo CopperBody Classic #4, 396 units of Luna & Milo CopperBody Classic #5, 396 units of Luna & Milo CopperBody Classic #6, 266.4 units of Luna & Milo CopperBody Classic #7, 200 units of Luna & Milo CopperBody Classic #8, and 360 units of Luna & Milo CopperBody Classic #9.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Total sales for April 2024 were 26945.8 units with a total value of $60.01291759465479 and an average price of $60.01.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Total sales for May 2024 were not recorded in the sheet.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Total sales for June 2024 were not recorded in the sheet.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+LUNA & MILLO placed order 300011 on April 15, 2025. Order contains 40 units of LUNA & MILLO CopperBody Classic #10 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+LUNA & MILLO placed order 300012 on April 15, 2025. Order contains 41 units of LUNA & MILLO CopperBody Classic #11 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+LUNA & MILLO placed order 300013 on April 15, 2025. Order contains 41 units of LUNA & MILLO CopperBody Classic #12 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+LUNA & MILLO placed order 300016 on April 15, 2025. Order contains 45 units of LUNA & MILLO CopperBody Classic #15 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+LUNA & MILLO placed order 300021 on April 15, 2025. Order contains 32 units of LUNA & MILLO CopperBody Castration #0 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+LUNA & MILLO placed order 300022 on April 15, 2025. Order contains 32 units of LUNA & MILLO CopperBody Castration #1 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+LUNA & MILLO placed order 300024 on April 15, 2025. Order contains 33 units of LUNA & MILLO CopperBody Castration #3 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+LUNA & MILLO placed order 300025 on April 15, 2025. Order contains 33 units of LUNA & MILLO CopperBody Castration #4 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+LUNA & MILLO placed order 300026 on April 15, 2025. Order contains 36 units of LUNA & MILLO CopperBody Castration #5 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+LUNA & MILLO placed order 300028 on April 15, 2025. Order contains 36 units of LUNA & MILLO CopperBody Castration #7 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+LUNA & MILLO placed order 300030 on April 15, 2025. Order contains 40 units of LUNA & MILLO CopperBody Castration #9 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+LUNA & MILLO placed order 300031 on April 15, 2025. Order contains 40 units of LUNA & MILLO CopperBody Castration #10 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+LUNA & MILLO placed order 300032 on April 15, 2025. Order contains 41 units of LUNA & MILLO CopperBody Castration #11 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+LUNA & MILLO placed order 300033 on April 15, 2025. Order contains 41 units of LUNA & MILLO CopperBody Castration #12 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+LUNA & MILLO placed order 300042 on April 15, 2025. Order contains 40 units of LUNA & MILLO CopperBody 4-Legs #1 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+LUNA & MILLO placed order 300043 on April 15, 2025. Order contains 41 units of LUNA & MILLO CopperBody 4-Legs #2 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+LUNA & MILLO placed order 300044 on April 15, 2025. Order contains 41 units of LUNA & MILLO CopperBody 4-Legs #3 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+LUNA & MILLO placed order 300045 on April 15, 2025. Order contains 41 units of LUNA & MILLO CopperBody 4-Legs #4 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+LUNA & MILLO placed order 300046 on April 15, 2025. Order contains 44 units of LUNA & MILLO CopperBody 4-Legs #5 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+LUNA & MILLO placed order 300047 on April 15, 2025. Order contains 44 units of LUNA & MILLO CopperBody 4-Legs #6 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+Luna & Milo ordered 44 units of Luna & Milo CopperBody 4-Legs #7 from Supplier on April 15, 2025. Order period: April 2025.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+Luna & Milo ordered 48 units of Luna & Milo CopperBody 4-Legs #8 from Supplier on April 15, 2025. Order period: April 2025.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+Luna & Milo ordered 48 units of Luna & Milo CopperBody 4-Legs #9 from Supplier on April 15, 2025. Order period: April 2025.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+Luna & Milo ordered 48 units of Luna & Milo CopperBody 4-Legs #10 from Supplier on April 15, 2025. Order period: April 2025.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+Luna & Milo ordered 50 units of Luna & Milo CopperBody 4-Legs #11 from Supplier on April 15, 2025. Order period: April 2025.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+Luna & Milo ordered 50 units of Luna & Milo CopperBody 4-Legs #12 from Supplier on April 15, 2025. Order period: April 2025.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+Luna & Milo ordered 50 units of Luna & Milo CopperBody 4-Legs #13 from Supplier on April 15, 2025. Order period: April 2025.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+Luna & Milo ordered 54 units of Luna & Milo CopperBody 4-Legs #14 from Supplier on April 15, 2025. Order period: April 2025.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+Luna & Milo ordered 54 units of Luna & Milo CopperBody 4-Legs #15 from Supplier on April 15, 2025. Order period: April 2025.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+EickView ordered 150E units from Supplier on April 15, 2025. Order period: April 2025.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+Luna & Milo ordered 19.5 units of Luna & Milo Probiotic Dental Care 100ml from Supplier on April 15, 2025. Order period: April 2025.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+Luna & Milo ordered 19.5 units of Luna & Milo Probiotic Derma Care 100ml from Supplier on April 15, 2025. Order period: April 2025.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+Luna & Milo ordered 19.5 units of Luna & Milo Probiotic Ear Care 100ml from Supplier on April 15, 2025. Order period: April 2025.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+Luna & Milo ordered 19.5 units of Luna & Milo Probiotic Eye Care 100ml from Supplier on April 15, 2025. Order period: April 2025.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+CBLO ordered 2440L units from Supplier on April 15, 2025. Order period: April 2025.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+Cortical Bone Screw ordered 3.5mm x 20mm with Hex head units from Supplier on April 15, 2025. Order period: April 2025.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+Cortical Bone Screw ordered 3.5mm x 22mm with Hex head units from Supplier on April 15, 2025. Order period: April 2025.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+Cortical Bone Screw ordered 3.5mm x 24mm with Hex head units from Supplier on April 15, 2025. Order period: April 2025.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+Cortical Bone Screw ordered 3.5mm x 26mm with Hex head units from Supplier on April 15, 2025. Order period: April 2025.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+Cortical Bone Screw ordered 3.5mm x 28mm with Hex head units from Supplier on April 15, 2025. Order period: April 2025.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+CS3530 - Cortical Bone Screw 3.5mm x 30mm with Hex head was ordered by 5.5 units from an unspecified supplier during the period April 2024 - May 2025. Order period: April 2024 - May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+CS3532 - Cortical Bone Screw 3.5mm x 32mm with Hex head was ordered by 5.5 units from an unspecified supplier during the period April 2024 - May 2025. Order period: April 2024 - May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+CS3534 - Cortical Bone Screw 3.5mm x 34mm with Hex head was ordered by 5.5 units from an unspecified supplier during the period April 2024 - May 2025. Order period: April 2024 - May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+CS3536 - Cortical Bone Screw 3.5mm x 36mm with Hex head was ordered by 5.5 units from an unspecified supplier during the period April 2024 - May 2025. Order period: April 2024 - May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+CS3538 - Cortical Bone Screw 3.5mm x 38mm with Hex head was ordered by 5.5 units from an unspecified supplier during the period April 2024 - May 2025. Order period: April 2024 - May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+CSCBLO2410 - CBLO Cortical Screw 2.4mm x 10mm was ordered by 15 units from an unspecified supplier during the period April 2024 - May 2025. Order period: April 2024 - May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+CSCBLO2412 - CBLO Cortical Screw 2.4mm x 12mm was ordered by 15 units from an unspecified supplier during the period April 2024 - May 2025. Order period: April 2024 - May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+CSCBLO2414 - CBLO Cortical Screw 2.4mm x 14mm was ordered by 15 units from an unspecified supplier during the period April 2024 - May 2025. Order period: April 2024 - May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+CSCBLO2416 - CBLO Cortical Screw 2.4mm x 16mm was ordered by 15 units from an unspecified supplier during the period April 2024 - May 2025. Order period: April 2024 - May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+CSCBLO2418 - CBLO Cortical Screw 2.4mm x 18mm was ordered by 15 units from an unspecified supplier during the period April 2024 - May 2025. Order period: April 2024 - May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+CSCBLO2420 - CBLO Cortical Screw 2.4mm x 20mm was ordered by 15 units from an unspecified supplier during the period April 2024 - May 2025. Order period: April 2024 - May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+CSCBLO2422 - CBLO Cortical Screw 2.4mm x 22mm was ordered by 15 units from an unspecified supplier during the period April 2024 - May 2025. Order period: April 2024 - May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+CSCBLO2424 - CBLO Cortical Screw 2.4mm x 24mm was ordered by 15 units from an unspecified supplier during the period April 2024 - May 2025. Order period: April 2024 - May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+LSCBLO2410 - CBLO Locking Screw 2.4mm x 10mm was ordered by 27 units from an unspecified supplier during the period April 2024 - May 2025. Order period: April 2024 - May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+LSCBLO2414 - CBLO Locking Screw 2.4mm x 14mm was ordered by 27 units from an unspecified supplier during the period April 2024 - May 2025. Order period: April 2024 - May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+LSCBLO2416 - CBLO Locking Screw 2.4mm x 16mm was ordered by 27 units from an unspecified supplier during the period April 2024 - May 2025. Order period: April 2024 - May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+LSCBLO2418 - CBLO Locking Screw 2.4mm x 18mm was ordered by 27 units from an unspecified supplier during the period April 2024 - May 2025. Order period: April 2024 - May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+LSCBLO2420 - CBLO Locking Screw 2.4mm x 20mm was ordered by 27 units from an unspecified supplier during the period April 2024 - May 2025. Order period: April 2024 - May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+LSCBLO2424 - CBLO Locking Screw 2.4mm x 24mm was ordered by 27 units from an unspecified supplier during the period April 2024 - May 2025. Order period: April 2024 - May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+SOUTH32 placed order LSCBLO2426 on April 1, 2025. Order contains 27 units of CBLO Locking Screw 2.4mm x 26mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+SOUTH32 placed order LSCBLO2428 on April 1, 2025. Order contains 27 units of CBLO Locking Screw 2.4mm x 28mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+SOUTH32 placed order LSCBLO2430 on April 1, 2025. Order contains 27 units of CBLO Locking Screw 2.4mm x 30mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+SOUTH32 placed order LSCBLO2714 on April 1, 2025. Order contains 27 units of CBLO Locking Screw 2.7mm x 14mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+SOUTH32 placed order LSCBLO2716 on April 1, 2025. Order contains 27 units of CBLO Locking Screw 2.7mm x 16mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+SOUTH32 placed order LSCBLO2720 on April 1, 2025. Order contains 27 units of CBLO Locking Screw 2.7mm x 20mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+SOUTH32 placed order LSCBLO2722 on April 1, 2025. Order contains 27 units of CBLO Locking Screw 2.7mm x 22mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+SOUTH32 placed order LSCBLO2730 on April 1, 2025. Order contains 27 units of CBLO Locking Screw 2.7mm x 30mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+SOUTH32 placed order LSCBLO3520 on April 1, 2025. Order contains 29 units of CBLO Locking Screw 3.5mm x 20mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+SOUTH32 placed order LSCBLO3522 on April 1, 2025. Order contains 29 units of CBLO Locking Screw 3.5mm x 22mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+SOUTH32 placed order LSCBLO3530 on April 1, 2025. Order contains 29 units of CBLO Locking Screw 3.5mm x 30mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+SOUTH32 placed order LSCBLO3532 on April 1, 2025. Order contains 29 units of CBLO Locking Screw 3.5mm x 32mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+SOUTH32 placed order LSCBLO3536 on April 1, 2025. Order contains 29 units of CBLO Locking Screw 3.5mm x 36mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+SOUTH32 placed order LSCBLO3560 on April 1, 2025. Order contains 29 units of CBLO Locking Screw 3.5mm x 60mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+SOUTH32 placed order PB62L270452 on April 1, 2025. Order contains 245 units of Anatomical locking CBLO plate 27 | LEFT | L 45 | T... for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+SOUTH32 placed order PB62L351002 on April 1, 2025. Order contains 265 units of Anatomical locking CBLO plate 35 | LEFT | L 100 | ... for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+SOUTH32 placed order PB62L35100B2 on April 1, 2025. Order contains 275 units of Anatomical locking CBLO plate 35 broad | LEFT | L ... for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+SOUTH32 placed order PB62R240382 on April 1, 2025. Order contains 245 units of Anatomical locking CBLO plate 2.4 | RIGHT | L 38 | ... for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+SOUTH32 placed order PB62R270452 on April 1, 2025. Order contains 245 units of Anatomical locking CBLO plate 27 | RIGHT | L 45 | ... for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+SOUTH32 placed order PB62R350802 on April 1, 2025. Order contains 255 units of Anatomical locking CBLO plate 35 | RIGHT | L 80 | ... for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-001 on April 15, 2025. Order contains 99 units of SS1720 - Staple 7 x 20 mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-002 on April 15, 2025. Order contains 12 units of PUDI4566 - Polyurethane Iodophor infused drape 45cm x 66cm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-003 on April 15, 2025. Order contains 10.5 units of SSLS3518 - Stainless Steel Locking Screw 3.5mm x 18 mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-004 on April 15, 2025. Order contains 10.5 units of SSLS3520 - Stainless Steel Locking Screw 3.5mm x 20 mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-005 on April 15, 2025. Order contains 10.5 units of SSLS3522 - Stainless Steel Locking Screw 3.5mm x 22 mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-006 on April 15, 2025. Order contains 10.5 units of SSLS3524 - Stainless Steel Locking Screw 3.5mm x 24 mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-007 on April 15, 2025. Order contains 10.5 units of SSLS3526 - Stainless Steel Locking Screw 3.5mm x 26 mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-008 on April 15, 2025. Order contains 10.5 units of SSLS3528 - Stainless Steel Locking Screw 3.5mm x 28 mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-009 on April 15, 2025. Order contains 10.5 units of SSLS3530 - Stainless Steel Locking Screw 3.5mm x 30 mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-010 on April 15, 2025. Order contains 17.5 units of SSLS3552 - Stainless Steel Self tapping locking screw 3.5mm x... for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-011 on April 15, 2025. Order contains 49.5 units of SSPDO20 - Polydioxinone (Absorbable) Surgical Suture USP2/0 ... for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-012 on April 15, 2025. Order contains 48.5 units of SSPDO30 - Polydioxinone (Absorbable) Surgical Suture USP3/0 ... for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-013 on April 15, 2025. Order contains 47.5 units of SSPDO40 - Polydioxinone (Absorbable) Surgical Suture USP4/0 ... for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SSPPL30 - Polypropylene (Non-absorbable) Surgical Suture USP... was sold for $33.575333333333335 each, totaling $503.63 on April 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SSPPL40 - Polypropylene (Non-absorbable) Surgical Suture USP... was sold for $39.26 each, totaling $196.3 on April 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+STDSHIP - Star Track FPP was sold for $17.964166666666667 each, totaling $431.14 on April 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+ZL191504 - Zlig 48 fibers / 19mm, 25 - 45kg, 6000 Artificial... was sold for $495 each, totaling $495 on April 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+ZL191566 - Zlig Interference Screw cannulated 2.9/5.0/15.0mm,... was sold for $39.26 each, totaling $64 on April 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+ZL191568 - Zlig Interference Screw cannulated 2.9/5.0/20.0mm,... was sold for $39.26 each, totaling $96 on April 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Total sales for April 2025 were $28,880.53 with an average price of $34.05722877358491.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Sales by Item: Vet Surgical & Medical Supplies Pty Ltd recorded sales on May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Sales by Item: 1 May 2025 to 31 May 2025 recorded sales on May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+300000 - Luna & Milo CopperBody Classic #00 was sold for $29 each, totaling $29 on May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+300001 - Luna & Milo CopperBody Classic #0 was sold for $32 each, totaling $32 on May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+300002 - Luna & Milo CopperBody Classic #1 was sold for $32 each, totaling $160 on May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+300003 - Luna & Milo CopperBody Classic #2 was sold for $33 each, totaling $231 on May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+300004 - Luna & Milo CopperBody Classic #3 was sold for $33 each, totaling $330 on May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+300005 - Luna & Milo CopperBody Classic #4 was sold for $33 each, totaling $99 on May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+300006 - Luna & Milo CopperBody Classic #5 was sold for $36 each, totaling $288 on May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+300007 - Luna & Milo CopperBody Classic #6 was sold for $36 each, totaling $360 on May 2025.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+Luna & Milo CopperBody Classic #7 sold 36 units to an unspecified customer during the May period.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+Luna & Milo CopperBody Classic #8 sold 40 units to an unspecified customer during the May period.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+Luna & Milo CopperBody Classic #9 sold 40 units to an unspecified customer during the May period.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+Luna & Milo CopperBody Classic #10 sold 40 units to an unspecified customer during the May period.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+Luna & Milo CopperBody Classic #11 sold 41 units to an unspecified customer during the May period.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+Luna & Milo CopperBody Classic #12 sold 41 units to an unspecified customer during the May period.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+Luna & Milo CopperBody Classic #13 sold 41 units to an unspecified customer during the May period.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+Luna & Milo CopperBody Classic #14 sold 45 units to an unspecified customer during the May period.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+Luna & Milo CopperBody Castration #5 sold 36 units to an unspecified customer during the May period.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+Luna & Milo CopperBody Castration #6 sold 36 units to an unspecified customer during the May period.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+Luna & Milo CopperBody Castration #7 sold 36 units to an unspecified customer during the May period.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+Luna & Milo CopperBody Castration #11 sold 41 units to an unspecified customer during the May period.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+Luna & Milo CopperBody Castration #13 sold 41 units to an unspecified customer during the May period.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+Luna & Milo CopperBody Castration #14 sold 45 units to an unspecified customer during the May period.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+Luna & Milo CopperBody 4-Legs #00 sold 37 units to an unspecified customer during the May period.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+Luna & Milo CopperBody 4-Legs #0 sold 40 units to an unspecified customer during the May period.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+Luna & Milo CopperBody 4-Legs #1 sold 40 units to an unspecified customer during the May period.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+Luna & Milo CopperBody 4-Legs #2 sold 41 units to an unspecified customer during the May period.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+Luna & Milo CopperBody 4-Legs #3 sold 41 units to an unspecified customer during the May period.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+Luna & Milo CopperBody 4-Legs #4 sold 41 units to an unspecified customer during the May period.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody 4-Legs #5 was sold to an unnamed customer for $44 AUD each, totaling $1,760 AUD in May 2024.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody 4-Legs #6 was sold to an unnamed customer for $132 AUD each, totaling $4,416 AUD in May 2024.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody 4-Legs #7 was sold to an unnamed customer for $264 AUD each, totaling $11,520 AUD in May 2024.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody 4-Legs #8 was sold to an unnamed customer for $192 AUD each, totaling $7,680 AUD in May 2024.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody 4-Legs #9 was sold to an unnamed customer for $96 AUD each, totaling $3,840 AUD in May 2024.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody 4-Legs #10 was sold to an unnamed customer for $432 AUD each, totaling $17,280 AUD in May 2024.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody 4-Legs #11 was sold to an unnamed customer for $250 AUD each, totaling $12,500 AUD in May 2024.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody 4-Legs #12 was sold to an unnamed customer for $200 AUD each, totaling $10,000 AUD in May 2024.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody 4-Legs #13 was sold to an unnamed customer for $50 AUD each, totaling $2,500 AUD in May 2024.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo Probiotic Dental Care 100ml was sold to an unnamed customer for $16.71 AUD each, totaling $1,170 AUD in May 2024.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo Probiotic Derma Care 100ml was sold to an unnamed customer for $0 AUD each, totaling $0 AUD in May 2024.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo Probiotic Ear Care 100ml was sold to an unnamed customer for $16.71 AUD each, totaling $1,170 AUD in May 2024.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo Probiotic Eye Care 100ml was sold to an unnamed customer for $15.60 AUD each, totaling $780 AUD in May 2024.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Cup Inlay, UHMW-PE, 24, snap was sold to an unnamed customer for $180 AUD each, totaling $18,000 AUD in May 2024.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Cup Inlay, UHMW-PE, 26, snap was sold to an unnamed customer for $180 AUD each, totaling $18,000 AUD in May 2024.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Cup Inlay, UHMW-PE, 28, snap was sold to an unnamed customer for $180 AUD each, totaling $18,000 AUD in May 2024.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+CBLO Cortical Screw 2.0mm x 8mm was sold to an unnamed customer for $15 AUD each, totaling $450 AUD in May 2024.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+CBLO Cortical Screw 2.0mm x 12mm was sold to an unnamed customer for $15 AUD each, totaling $450 AUD in May 2024.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+CBLO Cortical Screw 2.0mm x 14mm was sold to an unnamed customer for $15 AUD each, totaling $750 AUD in May 2024.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+CSCBLO2412 - CBLO Cortical Screw 2.4mm x 12mm was sold in quantity of 15 units on May 2025. Customer SOUTH32 ordered this product.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+CSCBLO2414 - CBLO Cortical Screw 2.4mm x 14mm was sold in quantity of 15 units on May 2025. Customer SOUTH32 ordered this product.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+CSCBLO2712 - CBLO Cortical Screw 2.7mm x 12mm was sold in quantity of 15 units on May 2025. Customer SOUTH32 ordered this product.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+CSCBLO2714 - CBLO Cortical Screw 2.7mm x 14mm was sold in quantity of 15 units on May 2025. Customer SOUTH32 ordered this product.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+CSCBLO2716 - CBLO Cortical Screw 2.7mm x 16mm was sold in quantity of 15 units on May 2025. Customer SOUTH32 ordered this product.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+CSCBLO2718 - CBLO Cortical Screw 2.7mm x 18mm was sold in quantity of 15 units on May 2025. Customer SOUTH32 ordered this product.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+CSCBLO2720 - CBLO Cortical Screw 2.7mm x 20mm was sold in quantity of 15 units on May 2025. Customer SOUTH32 ordered this product.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+CSCBLO2722 - CBLO Cortical Screw 2.7mm x 22mm was sold in quantity of 15 units on May 2025. Customer SOUTH32 ordered this product.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+CSCBLO3518 - CBLO Cortical Screw 3.5mm x 18mm was sold in quantity of 15 units on May 2025. Customer SOUTH32 ordered this product.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+CSCBLO3520 - CBLO Cortical Screw 3.5mm x 20mm was sold in quantity of 15 units on May 2025. Customer SOUTH32 ordered this product.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+CSCBLO3528 - CBLO Cortical Screw 3.5mm x 28mm was sold in quantity of 15 units on May 2025. Customer SOUTH32 ordered this product.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+FH1-T-18.XXL - Innoplant-Taper Head, TiAl6V4, TiN, 18-XXL was sold in quantity of 218.5 units on May 2025. Customer SOUTH32 ordered this product.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+FH1-T-18-L - Innoplant-Taper Head, TiAl6V4, TiN, 18-L was sold in quantity of 218.5 units on May 2025. Customer SOUTH32 ordered this product.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+FH1-T-18-M - Innoplant-Taper Head, TiAl6V4, TiN, 18-M was sold in quantity of 218.5 units on May 2025. Customer SOUTH32 ordered this product.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+FH1-T-18-S - Innoplant Taper Head, TiAl6V4, TiN, 18-S was sold in quantity of 218.5 units on May 2025. Customer SOUTH32 ordered this product.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+FH1-T-18-XL - Innoplant-Taper Head, TiAl6V4, TiN, 18-XL was sold in quantity of 218.5 units on May 2025. Customer SOUTH32 ordered this product.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+GCL-1x40-01 - Femoral Cement, Genta loaded, low viscosity, Gun a... was sold in quantity of 230 units on May 2025. Customer SOUTH32 ordered this product.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+GCS-1x40-01 - Acetabular Cement, Genta loaded, standard viscosity... was sold in quantity of 230 units on May 2025. Customer SOUTH32 ordered this product.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+HC2-T-24 - Screw Cup SL, Titan, 24 was sold in quantity of 705 units on May 2025. Customer SOUTH32 ordered this product.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+HC2-T-26 - Screw Cup SL, Titan, 26 was sold in quantity of 705 units on May 2025. Customer SOUTH32 ordered this product.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered 705 units of HC2-T-28 - Screw Cup SL from TITAN on May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered 27 units of LSCBLO2010 - CBLO Locking Screw 2.0mm x 10mm from TITAN on May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered 27 units of LSCBLO2012 - CBLO Locking Screw 2.0mm x 12mm from TITAN on May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered 27 units of LSCBLO2014 - CBLO Locking Screw 2.0mm x 14mm from TITAN on May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered 27 units of LSCBLO2024 - CBLO Locking Screw 2.0mm x 24mm from TITAN on May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered 27 units of LSCBLO2410 - CBLO Locking Screw 2.4mm x 10mm from TITAN on May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered 27 units of LSCBLO2412 - CBLO Locking Screw 2.4mm x 12mm from TITAN on May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered 27 units of LSCBLO2414 - CBLO Locking Screw 2.4mm x 14mm from TITAN on May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered 27 units of LSCBLO2716 - CBLO Locking Screw 2.7mm x 16mm from TITAN on May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered 27 units of LSCBLO2720 - CBLO Locking Screw 2.7mm x 20mm from TITAN on May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered 27 units of LSCBLO2736 - CBLO Locking Screw 2.7mm x 36mm from TITAN on May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered 29 units of LSCBLO3518 - CBLO Locking Screw 3.5mm x 18mm from TITAN on May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered 29 units of LSCBLO3520 - CBLO Locking Screw 3.5mm x 20mm from TITAN on May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered 29 units of LSCBLO3524 - CBLO Locking Screw 3.5mm x 24mm from TITAN on May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered 29 units of LSCBLO3526 - CBLO Locking Screw 3.5mm x 26mm from TITAN on May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered 29 units of LSCBLO3528 - CBLO Locking Screw 3.5mm x 28mm from TITAN on May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered 29 units of LSCBLO3530 - CBLO Locking Screw 3.5mm x 30mm from TITAN on May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered 29 units of LSCBLO3532 - CBLO Locking Screw 3.5mm x 32mm from TITAN on May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered 29 units of LSCBLO3534 - CBLO Locking Screw 3.5mm x 34mm from TITAN on May 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered 29 units of LSCBLO3536 - CBLO Locking Screw 3.5mm x 36mm from TITAN on May 2025.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered LSCBLO3538 - CBLO Locking Screw 3.5mm x 38mm from SUPPLIER on May 29, 2025. Quantity: 29 units.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered LSCBLO3540 - CBLO Locking Screw 3.5mm x 40mm from SUPPLIER on May 29, 2025. Quantity: 5 units.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered LSCBLO3542 - CBLO Locking Screw 3.5mm x 42mm from SUPPLIER on May 29, 2025. Quantity: 5 units.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered LSCBLO3550 - CBLO Locking Screw 3.5mm x 50mm from SUPPLIER on May 29, 2025. Quantity: 2 units.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered LSCBLO3554 - CBLO Locking Screw 3.5mm x 54mm from SUPPLIER on May 29, 2025. Quantity: 1 unit.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered PB62L200352 - Anatomical locking CBLO plate 2.0 | LEFT | L 35 | from SUPPLIER on May 245 units.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered PB62L240382 - Anatomical locking CBLO plate 2.4 | LEFT | L 38 | from SUPPLIER on May 245 units.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered PB62L350562 - Anatomical locking CBLO plate 35 | LEFT | L 56 | T... from SUPPLIER on May 245 units.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered PB62L350802 - Anatomical locking CBLO plate 35 | LEFT | L 80 | T... from SUPPLIER on May 255 units.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered PB62R200352 - Anatomical locking CBLO plate 2.0 | RIGHT | L 35 | from SUPPLIER on May 245 units.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered PB62R240382 - Anatomical locking CBLO plate 2.4 | RIGHT | L 38 | from SUPPLIER on May 245 units.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered PB62R350802 - Anatomical locking CBLO plate 35 | RIGHT | L 80 | ... from SUPPLIER on May 255 units.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered PB62R351002 - Anatomical locking CBLO plate 35 | RIGHT | L 100 |... from SUPPLIER on May 265 units.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered PB62R35100B2 - Anatomical locking CBLO plate 35 broad | RIGHT | L... from SUPPLIER on May 275 units.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered SS1508 - Staple 5 x 8 mm from SUPPLIER on May 99 units.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered SS1513 - Staple 5 x 13 mm from SUPPLIER on May 99 units.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered SSLS3518 - Stainless Steel Locking Screw 3.5mm x 18 mm from SUPPLIER on May 10.5 units.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered SSLS3520 - Stainless Steel Locking Screw 3.5mm x 20 mm from SUPPLIER on May 10.5 units.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered SSLS3522 - Stainless Steel Locking Screw 3.5mm x 22 mm from SUPPLIER on May 10.5 units.
+
+[Source: Inv Move July24-june25.xls | Record type: sales_record]
+SOUTH32 ordered SSLS3524 - Stainless Steel Locking Screw 3.5mm x 24 mm from SUPPLIER on May 10.5 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered SSLS3526 - Stainless Steel Locking Screw 3.5mm x 26 mm from an unnamed supplier during the May period. The order quantity is 105 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered SSLS3528 - Stainless Steel Locking Screw 3.5mm x 28 mm from an unnamed supplier during the May period. The order quantity is 157.5 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered SSLS3530 - Stainless Steel Locking Screw 3.5mm x 30 mm from an unnamed supplier during the May period. The order quantity is 105 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered SSLS3532 - Stainless Steel Locking Screw 3.5mm x 32 mm from an unnamed supplier during the May period. The order quantity is 210 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered SSLS3534 - Stainless Steel Locking Screw 3.5mm x 34 mm from an unnamed supplier during the May period. The order quantity is 105 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered SSLS3536 - Stainless Steel Locking Screw 3.5mm x 36 mm from an unnamed supplier during the May period. The order quantity is 210 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered SSLS3538 - Stainless Steel Locking Screw 3.5mm x 38 mm from an unnamed supplier during the May period. The order quantity is 105 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered SSLS3540 - Stainless Steel Locking Screw 3.5mm x 40 mm from an unnamed supplier during the May period. The order quantity is 210 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered SSLS3542 - Stainless Steel Locking Screw 3.5mm x 42 mm from an unnamed supplier during the May period. The order quantity is 157.5 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered SSLS3544 - Stainless Steel Locking Screw 3.5mm x 44 mm from an unnamed supplier during the May period. The order quantity is 157.5 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered SSLS3546 - Stainless Steel Locking Screw 3.5mm x 46 mm from an unnamed supplier during the May period. The order quantity is 157.5 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered SSLS3548 - Stainless Steel Locking Screw 3.5mm x 48 mm from an unnamed supplier during the May period. The order quantity is 157.5 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered SSLS3550 - Stainless Steel Locking Screw 3.5mm x 50 mm from an unnamed supplier during the May period. The order quantity is 157.5 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered SSLS3552 - Stainless Steel Self Tapping Locking Screw 3.5mm x ... from an unnamed supplier during the May period. The order quantity is 52.5 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered SSLS3554 - Stainless Steel Self Tapping Locking Screw 3.5mm x ... from an unnamed supplier during the May period. The order quantity is 52.5 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered SSLS3556 - Stainless Steel Self Tapping Locking Screw 3.5mm x ... from an unnamed supplier during the May period. The order quantity is 52.5 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered SSLS3558 - Stainless Steel Self Tapping Locking Screw 3.5mm x ... from an unnamed supplier during the May period. The order quantity is 52.5 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered SSLS3560 - Stainless Steel Locking Screw 3.5mm x 60 mm from an unnamed supplier during the May period. The order quantity is 52.5 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered SSPDO0 - Polydioxinone (Absorbable) Surgical Suture USP0 75... from an unnamed supplier during the May period. The order quantity is 49.5 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered SSPDO20 - Polydioxinone (Absorbable) Surgical Suture USP2/0 ... from an unnamed supplier during the May period. The order quantity is 1386 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SSPDO20TP - Polydioxinone (Absorbable) Surgical Suture Taper P... was sold for $49.50 per unit, totaling 99 units on May 2025. Customer: Vet Surgical & Medical Supplies Pty Ltd.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SSPDO30 - Polydioxinone (Absorbable) Surgical Suture USP3/0 ... was sold for $48.50 per unit, totaling 48.5 units on May 2025. Customer: Vet Surgical & Medical Supplies Pty Ltd.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+STDSHIP - Star Track FPP was sold for $16.46 per unit, totaling 395 units on May 2025. Customer: Vet Surgical & Medical Supplies Pty Ltd.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SWM309 - SWM3 Wedge Size 9mm was sold for $315 per unit, totaling 315 units on May 2025. Customer: Vet Surgical & Medical Supplies Pty Ltd.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+TS1-C-07 - 3Con Stem, CoCrMo, # 7 was sold for $705 per unit, totaling 705 units on May 2025. Customer: Vet Surgical & Medical Supplies Pty Ltd.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+TS1-C-08 - 3Con Stem, CoCrMo, # 8 was sold for $705 per unit, totaling 705 units on May 2025. Customer: Vet Surgical & Medical Supplies Pty Ltd.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+TS1-C-09 - 3Con Stem, CoCrMo, # 9 was sold for $705 per unit, totaling 1,410 units on May 2025. Customer: Vet Surgical & Medical Supplies Pty Ltd.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+TS1-C-10 - 3Con Stem, CoCrMo, # 10 was sold for $705 per unit, totaling 705 units on May 2025. Customer: Vet Surgical & Medical Supplies Pty Ltd.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+ts1-t-065 - 3Con Stem, CoCrMo, # 6.5 was sold for $705 per unit, totaling 705 units on May 2025. Customer: Vet Surgical & Medical Supplies Pty Ltd.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+TS2-T-075 - 3Con Stem, TiAl6V4, # 7.5 was sold for $705 per unit, totaling 705 units on May 2025. Customer: Vet Surgical & Medical Supplies Pty Ltd.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+TS2-T-085 - 3Con Stem, TiAl6V4, # 8.5 was sold for $705 per unit, totaling 705 units on May 2025. Customer: Vet Surgical & Medical Supplies Pty Ltd.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+ZL191505 - Zlig 48 fibers / 22mm, 25 - 45kg, 6000 Artificial C... was sold for $495 per unit, totaling 495 units on May 2025. Customer: Vet Surgical & Medical Supplies Pty Ltd.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+ZL191506 - Zlig 48 fibers / 25mm, 25 - 45kg, 600 Artificial C... was sold for $495 per unit, totaling 495 units on May 2025. Customer: Vet Surgical & Medical Supplies Pty Ltd.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+ZL191545 - Zlig Interference Screw cannulated 1.1/4.5/10.0mm,... was sold for $32 per unit, totaling 32 units on May 2025. Customer: Vet Surgical & Medical Supplies Pty Ltd.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+ZL191546 - Zlig Interference Screw cannulated 1.1/4.5/15.0mm,... was sold for $32 per unit, totaling 64 units on May 2025. Customer: Vet Surgical & Medical Supplies Pty Ltd.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+ZL191547 - Zlig Interference Screw cannulated 1.1/4.5/20.0mm,... was sold for $32 per unit, totaling 64 units on May 2025. Customer: Vet Surgical & Medical Supplies Pty Ltd.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+ZL191548 - Zlig Interference Screw cannulated 1.1/4.5/25.0mm,... was sold for $32 per unit, totaling 32 units on May 2025. Customer: Vet Surgical & Medical Supplies Pty Ltd.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+ZL191566 - Zlig Interference Screw cannulated 2.9/5.0/15.0mm,... was sold for $32 per unit, totaling 32 units on May 2025. Customer: Vet Surgical & Medical Supplies Pty Ltd.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Total sales for May 2025: $31,721 AUD. Customer: Vet Surgical & Medical Supplies Pty Ltd.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd placed order on June 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody Classic #1 sold 2 units for $64 on June 30, 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody Classic #2 sold 5 units for $165 on June 30, 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody Classic #3 sold 7 units for $231 on June 30, 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody Classic #4 sold 10 units for $330 on June 30, 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody Classic #5 sold 12 units for $432 on June 30, 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody Classic #6 sold 4 units for $144 on June 30, 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody Classic #7 sold 4 units for $144 on June 30, 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody Classic #8 sold 9 units for $360 on June 30, 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody Classic #9 sold 8 units for $320 on June 30, 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody Classic #10 sold 4 units for $160 on June 30, 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody Classic #11 sold 6 units for $246 on June 30, 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody Classic #12 sold 1 unit for $41 on June 30, 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody Classic #13 sold 2 units for $82 on June 30, 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody Classic #14 sold 2 units for $90 on June 30, 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody Classic #15 sold 1 unit for $45 on June 30, 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody Castration #0 sold 1 unit for $32 on June 30, 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody Castration #1 sold 32 units on June 2025 to an unspecified customer.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody Castration #2 sold 66 units on June 2025 to an unspecified customer.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody Castration #3 sold 33 units on June 2025 to an unspecified customer.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody Castration #4 sold 165 units on June 2025 to an unspecified customer.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody Castration #5 sold 180 units on June 2025 to an unspecified customer.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody Castration #7 sold 72 units on June 2025 to an unspecified customer.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody Castration #8 sold 40 units on June 2025 to an unspecified customer.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody Castration #9 sold 40 units on June 2025 to an unspecified customer.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody Castration #10 sold 80 units on June 2025 to an unspecified customer.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody Castration #11 sold 82 units on June 2025 to an unspecified customer.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody Castration #12 sold 82 units on June 2025 to an unspecified customer.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody Castration #13 sold 41 units on June 2025 to an unspecified customer.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody Castration #14 sold 45 units on June 2025 to an unspecified customer.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody 4-Legs #0 sold 0 units on June 2025 to an unspecified customer.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody 4-Legs #5 sold 176 units on June 2025 to an unspecified customer.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody 4-Legs #7 sold 88 units on June 2025 to an unspecified customer.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody 4-Legs #8 sold 96 units on June 2025 to an unspecified customer.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody 4-Legs #9 sold 144 units on June 2025 to an unspecified customer.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Luna & Milo CopperBody 4-Legs #10 sold 336 units on June 2025 to an unspecified customer.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 purchased 50 units of Luna & Milo CopperBody 4-Legs #11 for $2,500 AUD on June 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 purchased 50 units of Luna & Milo CopperBody 4-Legs #12 for $2,500 AUD on June 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+GLENCORE purchased 9,450 units of EickView 150E for $96,000 AUD on June 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 purchased 180 units of Cup Inlay, UHMW-PE, 24, snap for $180 AUD on June 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 purchased 180 units of Cup Inlay, UHMW-PE, 26, snap for $180 AUD on June 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 purchased 180 units of Cup Inlay, UHMW-PE, 28, snap for $180 AUD on June 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 purchased 180 units of Cup Inlay, UHMW-PE, 30, snap for $180 AUD on June 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 purchased 15 units of CBLO Cortical Screw 2.0mm x 8mm for $15 AUD on June 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 purchased 60 units of CBLO Cortical Screw 2.0mm x 10mm for $60 AUD on June 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 purchased 30 units of CBLO Cortical Screw 2.0mm x 14mm for $30 AUD on June 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 purchased 15 units of CBLO Cortical Screw 2.0mm x 16mm for $15 AUD on June 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 purchased 30 units of CBLO Cortical Screw 2.0mm x 22mm for $30 AUD on June 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 purchased 30 units of CBLO Cortical Screw 2.0mm x 24mm for $30 AUD on June 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 purchased 30 units of CBLO Cortical Screw 2.4mm x 8mm for $30 AUD on June 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 purchased 30 units of CBLO Cortical Screw 2.4mm x 22mm for $30 AUD on June 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 purchased 60 units of CBLO Cortical Screw 2.7mm x 20mm for $60 AUD on June 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 purchased 30 units of CBLO Cortical Screw 2.7mm x 22mm for $30 AUD on June 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 purchased 218.5 units of Innoplant-Taper Head, TiAl6V4, TiN, 18-XXL for $218.5 AUD on June 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 purchased 218.5 units of Innoplant-Taper Head, TiAl6V4, TiN, 18-L for $218.5 AUD on June 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 purchased 437 units of Innoplant-Taper Head, TiAl6V4, TiN, 18-M for $218.5 AUD on June 2025.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+FH1-T-18-S - Innoplant Taper Head, TiAl6V4, TiN, 18-S was sold for $218.50 AUD each. Total sales amount: $655.50 AUD. Order period: June.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+FH1-T-18-XL - Innoplant Taper Head, TiAl6V4, TiN, 18-XL was sold for $218.50 AUD each. Total sales amount: $218.50 AUD. Order period: June.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+HC2-T-24 - Screw Cup SL, Titan, 24 was sold for $705.00 AUD each. Total sales amount: $705.00 AUD. Order period: June.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+HC2-T-26 - Screw Cup SL, Titan, 26 was sold for $705.00 AUD each. Total sales amount: $705.00 AUD. Order period: June.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+HC2-T-28 - Screw Cup SL, Titan, 28 was sold for $705.00 AUD each. Total sales amount: $705.00 AUD. Order period: June.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+HC2-T-30 - Screw Cup SL, Titan, 30 was sold for $705.00 AUD each. Total sales amount: $705.00 AUD. Order period: June.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+HF3-T-18,5 - HELICA TPS Flange (incl. Locking Nut) was sold for $90.00 AUD each. Total sales amount: $90.00 AUD. Order period: June.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+HF3-T-20,0 - HELICA TPS Flange (incl. Locking Nut) was sold for $90.00 AUD each. Total sales amount: $90.00 AUD. Order period: June.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+HF3-T-21,5 - HELICA TPS Flange (incl. Locking Nut) was sold for $90.00 AUD each. Total sales amount: $90.00 AUD. Order period: June.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+HS3-T-09x32 - HELICA TPS Stem, Titan, 09x32 was sold for $605.00 AUD each. Total sales amount: $605.00 AUD. Order period: June.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+HS3-T-10x35 - HELICA TPS Stem, Titan, 10x35 was sold for $605.00 AUD each. Total sales amount: $605.00 AUD. Order period: June.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+LSCBLO2410 - CBLO Locking Screw 2.4mm x 10mm was sold for $27.00 AUD each. Total sales amount: $81.00 AUD. Order period: June.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+LSCBLO2412 - CBLO Locking Screw 2.4mm x 12mm was sold for $27.00 AUD each. Total sales amount: $27.00 AUD. Order period: June.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+LSCBLO2414 - CBLO Locking Screw 2.4mm x 14mm was sold for $27.00 AUD each. Total sales amount: $27.00 AUD. Order period: June.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+LSCBLO2416 - CBLO Locking Screw 2.4mm x 16mm was sold for $27.00 AUD each. Total sales amount: $162.00 AUD. Order period: June.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+LSCBLO2418 - CBLO Locking Screw 2.4mm x 18mm was sold for $27.00 AUD each. Total sales amount: $27.00 AUD. Order period: June.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+LSCBLO2426 - CBLO Locking Screw 2.4mm x 26mm was sold for $27.00 AUD each. Total sales amount: $27.00 AUD. Order period: June.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+LSCBLO2428 - CBLO Locking Screw 2.4mm x 28mm was sold for $27.00 AUD each. Total sales amount: $27.00 AUD. Order period: June.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+LSCBLO3514 - CBLO Locking Screw 3.5mm x 14mm was sold for $29.00 AUD each. Total sales amount: $29.00 AUD. Order period: June.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+LSCBLO3516 - CBLO Locking Screw 3.5mm x 16mm was sold for $29.00 AUD each. Total sales amount: $261.00 AUD. Order period: June.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered LSCBLO3518 - CBLO Locking Screw 3.5mm x 18mm from an unspecified supplier during the June period. The order quantity is 29 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered LSCBLO3520 - CBLO Locking Screw 3.5mm x 20mm from an unspecified supplier during the June period. The order quantity is 29 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered LSCBLO3522 - CBLO Locking Screw 3.5mm x 22mm from an unspecified supplier during the June period. The order quantity is 29 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered LSCBLO3524 - CBLO Locking Screw 3.5mm x 24mm from an unspecified supplier during the June period. The order quantity is 29 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered LSCBLO3526 - CBLO Locking Screw 3.5mm x 26mm from an unspecified supplier during the June period. The order quantity is 29 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered LSCBLO3528 - CBLO Locking Screw 3.5mm x 28mm from an unspecified supplier during the June period. The order quantity is 29 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered LSCBLO3530 - CBLO Locking Screw 3.5mm x 30mm from an unspecified supplier during the June period. The order quantity is 29 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered LSCBLO3532 - CBLO Locking Screw 3.5mm x 32mm from an unspecified supplier during the June period. The order quantity is 29 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered LSCBLO3536 - CBLO Locking Screw 3.5mm x 36mm from an unspecified supplier during the June period. The order quantity is 29 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered LSCBLO3538 - CBLO Locking Screw 3.5mm x 38mm from an unspecified supplier during the June period. The order quantity is 29 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered LSCBLO3540 - CBLO Locking Screw 3.5mm x 40mm from an unspecified supplier during the June period. The order quantity is 29 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered LSCBLO3546 - CBLO Locking Screw 3.5mm x 46mm from an unspecified supplier during the June period. The order quantity is 29 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+GLENCORE ordered PB62L200352 - Anatomical locking CBLO plate 2.0 | LEFT | L 35 | from an unspecified supplier during the June period. The order quantity is 245 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+GLENCORE ordered PB62L240382 - Anatomical locking CBLO plate 2.4 | LEFT | L 38 | from an unspecified supplier during the June period. The order quantity is 245 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+GLENCORE ordered PB62L350562 - Anatomical locking CBLO plate 35 | LEFT | L 56 | T... from an unspecified supplier during the June period. The order quantity is 245 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+GLENCORE ordered PB62L350802 - Anatomical locking CBLO plate 35 | LEFT | L 80 | T... from an unspecified supplier during the June period. The order quantity is 255 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+GLENCORE ordered PB62L351002 - Anatomical locking CBLO plate 35 | LEFT | L 100 | ... from an unspecified supplier during the June period. The order quantity is 265 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+GLENCORE ordered PB62L35100B2 - Anatomical locking CBLO plate 35 broad | LEFT | L ... from an unspecified supplier during the June period. The order quantity is 275 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+GLENCORE ordered PB62R200352 - Anatomical locking CBLO plate 2.0 | RIGHT | L 35 | from an unspecified supplier during the June period. The order quantity is 245 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+GLENCORE ordered PB62R240382 - Anatomical locking CBLO plate 2.4 | RIGHT | L 38 | from an unspecified supplier during the June period. The order quantity is 245 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered PB62R351002 - Anatomical locking CBLO plate 35 | RIGHT | L 100 |... from SUPPLIER on June. Quantity: 265 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered PB62R35100B2 - Anatomical locking CBLO plate 35 broad | RIGHT | L... from SUPPLIER on June. Quantity: 275 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered PUDI2030 - Polyurethane Iodophor infused drape 20cm x 30cm from SUPPLIER on June. Quantity: 7.5 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered STDSHIP - Star Track FPP from SUPPLIER on June. Quantity: 17.5 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered TS1-C-06 - 3Con Stem, CoCrMo, # 6 from SUPPLIER on June. Quantity: 705 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered TS1-C-07 - 3Con Stem, CoCrMo, # 7 from SUPPLIER on June. Quantity: 705 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered TS1-C-08 - 3Con Stem, CoCrMo, # 8 from SUPPLIER on June. Quantity: 705 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered TS1-C-09 - 3Con Stem, CoCrMo, # 9 from SUPPLIER on June. Quantity: 705 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered TS2-T-075 - 3Con Stem, TiAl6V4, # 7,5 from SUPPLIER on June. Quantity: 705 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered ZL191504 - Zlig 48 fibers / 19mm, 25 - 45kg, 6000 Artificial ... from SUPPLIER on June. Quantity: 495 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered ZL191505 - Zlig 48 fibers / 22mm, 25 - 45kg, 6000 Artificial ... from SUPPLIER on June. Quantity: 495 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered ZL191506 - Zlig 48 fibers / 25mm, 25 - 45kg, 600 Artificial C... from SUPPLIER on June. Quantity: 495 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered ZL191520 - Zlig K-Wire, blunt/blunt, 1.0 x 190mm, from SUPPLIER on June. Quantity: 3.5 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered ZL191521 - Zlig K-Wire, trocar/trocar trocar/trocar 1.8x190m... from SUPPLIER on June. Quantity: 3.5 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered ZL191542 - Zlig Interference Screw cannulated 1.1/4.0/13.0mm,... from SUPPLIER on June. Quantity: 32 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered ZL191545 - Zlig Interference Screw cannulated 1.1/4.5/10.0mm,... from SUPPLIER on June. Quantity: 32 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered ZL191546 - Zlig Interference Screw cannulated 1.1/4.5/15.0mm,... from SUPPLIER on June. Quantity: 32 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered ZL191547 - Zlig Interference Screw cannulated 1.1/4.5/20.0mm,... from SUPPLIER on June. Quantity: 32 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered ZL191548 - Zlig Interference Screw cannulated 1.1/4.5/25.0mm,... from SUPPLIER on June. Quantity: 32 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered ZL191568 - Zlig Interference Screw cannulated 2.9/5.0/20.0mm,... from SUPPLIER on June. Quantity: 32 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+SOUTH32 ordered ZL191580 - Titanium Interference screw cannulated, 1.1/4.0/21... from SUPPLIER on June. Order contains 32 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+GLENCORE ordered ZL191926 - VetLig wireloop 0.5/600mm from SUPPLIER on June. Order contains 45 units.
+
+[Source: Inv Move July24-june25.xls | Type: sales_record]
+Total sales for June: 382 units of ZL191580 - Titanium Interference screw cannulated, 1.1/4.0/21... amounting to $37,841 AUD. Yield rate: 99.06%.

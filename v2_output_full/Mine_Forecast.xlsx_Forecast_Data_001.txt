@@ -1,0 +1,1499 @@
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+JENNMAR operates Abel Mine in QLD. JENNMAR produces Coal which falls under Mesh. Abel Mine uses Malaysia Mesh Mine for mining Coal. Depot Brisbane serves JENNMAR. Sales Contact Jennmar Australia represents JENNMAR.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+JENNMAR operates Agnew Mine in WA. JENNMAR produces Hardrock which falls under Mesh. Agnew Mine uses Perth Mesh Mine for mining Hardrock. Depot Perth serves JENNMAR. Sales Contact Jennmar Australia represents JENNMAR. Jun-2025 to May-2027 forecast shows consistent production of 308 units.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+CENTENNIAL COAL operates Airly Coal Mine in NSW. CENTENNIAL COAL produces Coal which falls under Mesh. Airly Coal Mine uses Malaysia Mesh Mine for mining Coal. Depot Brisbane serves CENTENNIAL COAL. Sales Contact Jennmar Australia represents CENTENNIAL COAL. Jun-2025 to May-2027 forecast shows production of 400 units in Jul-2025 and Nov-2025.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+JENNMAR operates Ashton Mine in NSW. JENNMAR produces Coal which falls under Mesh. Ashton Mine uses Malaysia Mesh Mine for mining Coal. Depot Brisbane serves JENNMAR. Sales Contact Jennmar Australia represents JENNMAR. Jun-2025 to May-2027 forecast shows production of 960 units in Jun-2025 and Oct-2025.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+JENNMAR operates Ashton Mine in NSW. JENNMAR produces Coal which falls under Mesh. Ashton Mine uses Malaysia Mesh Mine for mining Coal. Depot Brisbane serves JENNMAR. Sales Contact Jennmar Australia represents JENNMAR. Jun-2025 to May-2027 forecast shows production of 480 units in Jun-2025 and Oct-2025.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+JENNMAR operates Ashton Mine in NSW. JENNMAR produces Coal which falls under Mesh. Ashton Mine uses Malaysia Mesh Mine for mining Coal. Depot Brisbane serves JENNMAR. Sales Contact Jennmar Australia represents JENNMAR. Jun-2025 to May-2027 forecast shows production of 500 units in Jul-2025 and Aug-2025.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+JENNMAR operates Barminco Mine in WA. JENNMAR produces Coal which falls under Mesh. Barminco Mine uses Ausro Straps Mine for mining Coal. Depot Perth serves JENNMAR. Sales Contact Jennmar Australia represents JENNMAR.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+JENNMAR operates Bhp Olympic Dam Mine in SA. JENNMAR produces Coal which falls under Mesh. Bhp Olympic Dam Mine uses Malaysia Mesh Mine for mining Coal. Depot Adelaide serves JENNMAR. Sales Contact Jennmar Australia represents JENNMAR.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+JENNMAR operates Bhp-Rasp Mine in SA. JENNMAR produces Coal which falls under Mesh. Bhp-Rasp Mine uses Malaysia Mesh Mine for mining Coal. Depot Adelaide serves JENNMAR. Sales Contact Jennmar Australia represents JENNMAR.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+JENNMAR operates Black Cat Mine in WA. JENNMAR produces Hardrock which falls under Mesh. Black Cat Mine uses Perth Mesh Mine for mining Hardrock. Depot Perth serves JENNMAR. Sales Contact Jennmar Australia represents JENNMAR. Jun-2025 to May-2027 forecast shows production of 50 units in Jun-2025 to Feb-2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+JENNMAR operates Black Cat Mine in WA. JENNMAR produces Hardrock which falls under Mesh. Black Cat Mine uses Perth Mesh Mine for mining Hardrock. Depot Perth serves JENNMAR. Sales Contact Jennmar Australia represents JENNMAR. Jun-2025 to May-2027 forecast shows production of 500 units in Jun-2025 to Feb-2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+JENNMAR operates Black Cat Mine in WA. JENNMAR produces Coal which falls under Mesh. Black Cat Mine uses Ausro Straps Mine for mining Coal. Depot Perth serves JENNMAR. Sales Contact Jennmar Australia represents JENNMAR.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+JENNMAR operates Black Cat Mine in WA. JENNMAR produces Hardrock which falls under Mesh. Black Cat Mine uses Perth Mesh Mine for mining Hardrock. Depot Perth serves JENNMAR. Sales Contact Jennmar Australia represents JENNMAR. Jun-2025 to May-2027 forecast shows production of 175 units in Jun-2025 to Feb-2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+JENNMAR operates Broken Hill (Rasp) Mine in SA. JENNMAR produces Hardrock which falls under Mesh. Broken Hill (Rasp) Mine uses Malaysia Mesh Mine for mining Hardrock. Depot Adelaide serves JENNMAR. Sales Contact Jennmar Australia represents JENNMAR. Jun-2025 to May-2027 forecast shows production of 1200 units consistently.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+JENNMAR operates Broken Hill Mine in NSW. JENNMAR produces Hardrock which falls under Mesh. Broken Hill Mine uses Ausro Straps Mine for mining Hardrock. Depot Adelaide serves JENNMAR. Sales Contact Jennmar Australia represents JENNMAR.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+JENNMAR operates Broken Hill Mine in NSW. JENNMAR produces Hardrock which falls under Mesh. Broken Hill Mine uses Malaysia Mesh Mine for mining Hardrock. Depot Adelaide serves JENNMAR. Sales Contact Jennmar Australia represents JENNMAR. Jun-2025 to May-2027 forecast shows production of 450 units consistently.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+JENNMAR operates Broken Hill - Perilya Mine in NSW. JENNMAR produces Hardrock which falls under Mesh. Broken Hill - Perilya Mine uses Perth Mesh Mine for mining Hardrock. Depot Adelaide serves JENNMAR. Sales Contact Jennmar Australia represents JENNMAR. Jun-2025 to May-2027 forecast shows production of 800 units consistently.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+JENNMAR operates Broken Hill - Perilya Mine in NSW. JENNMAR produces Hardrock which falls under Mesh. Broken Hill - Perilya Mine uses Malaysia Mesh Mine for mining Hardrock. Depot Adelaide serves JENNMAR. Sales Contact Jennmar Australia represents JENNMAR.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+JENNMAR operates Broken Hill - Perilya Mine in NSW. JENNMAR produces Hardrock which falls under Mesh. Broken Hill - Perilya Mine uses Perth Mesh Mine for mining Hardrock. Depot Adelaide serves JENNMAR. Sales Contact Jennmar Australia represents JENNMAR. Jun-2025 to May-2027 forecast shows production of 400 units in Jun-2025 to Oct-2025.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+Paddington Gold operates Bull Ant Mine in WA. Paddington Gold produces Hardrock which falls under Mesh. Bull Ant Mine uses Perth Mesh Mine for mining Hardrock. Depot Perth serves Paddington Gold. Sales Contact Jennmar Australia represents Paddington Gold.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+Paddington Gold operates Bull Ant Mine in WA. It produces Hardrock which falls under Mesh. Perth Mesh Mine is used for mining Hardrock. Depot Perth serves Paddington Gold. Sales contact represents Paddington Gold. Forecast shows no production from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Cannington Mine in QLD. It produces Hardrock which falls under Mesh. Perth Mesh Mine is used for mining Hardrock. Depot Brisbane serves JENNMAR. Sales contact represents JENNMAR. Forecast shows production of 1,800 units from June 2025 to October 2025, then no production until May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Cannington Mine in QLD. It produces Hardrock which falls under Mesh. Malaysia Mesh Mine is used for mining Hardrock. Depot Brisbane serves JENNMAR. Sales contact represents JENNMAR. Forecast shows production of 400 units in June 2025 and 400 units in October 2025, then no production until May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+DSI operates Centurion Mine in NSW. It produces Coal which falls under Mesh. Malaysia Mesh Mine is used for mining Coal. Depot Brisbane serves DSI. Sales contact represents DSI. Forecast shows no production from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+CENTENNIAL COAL operates Clarence Colliery Mine in NSW. It produces Coal which falls under Mesh. Malaysia Mesh Mine is used for mining Coal. Depot Brisbane serves CENTENNIAL COAL. Sales contact represents CENTENNIAL COAL. Forecast shows production of 4,000 units in June 2025, 3,000 units in July 2025, and 4,000 units in October 2025, then no production until May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Cobar Mine in NSW. It produces Hardrock which falls under Mesh. Ausro Straps Mine is used for mining Hardrock. Depot Brisbane serves JENNMAR. Sales contact represents JENNMAR. Forecast shows no production from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Cobar Mine in NSW. It produces Hardrock which falls under Mesh. Malaysia Mesh Mine is used for mining Hardrock. Depot Brisbane serves JENNMAR. Sales contact represents JENNMAR. Forecast shows production of 1,600 units in June 2025, 1,300 units in July 2025, and 1,600 units in October 2025, then no production until May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Cobar Mine in NSW. It produces Hardrock which falls under Mesh. Malaysia Mesh Mine is used for mining Hardrock. Depot Brisbane serves JENNMAR. Sales contact represents JENNMAR. Forecast shows production of 400 units from June 2025 to September 2025, then no production until May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Cobar Mine in NSW. It produces Hardrock which falls under Mesh. Ausro Straps Mine is used for mining Hardrock. Depot Brisbane serves JENNMAR. Sales contact represents JENNMAR. Forecast shows no production from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+Constellation Mining operates Cook Colliery Mine in QLD. It produces Coal which falls under Mesh. Malaysia Mesh Mine is used for mining Coal. Depot Brisbane serves Constellation Mining. Sales contact represents Constellation Mining. Forecast shows no production from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+Constellation Mining operates Cook Colliery Mine in QLD. It produces Coal which falls under Mesh. Malaysia Mesh Mine is used for mining Coal. Depot Brisbane serves Constellation Mining. Sales contact represents Constellation Mining. Forecast shows production of 3,000 units from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Cooranbong Mine in NSW. It produces Coal which falls under Mesh. Malaysia Mesh Mine is used for mining Coal. Depot Brisbane serves JENNMAR. Sales contact represents JENNMAR. Forecast shows no production from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Cornwall Coal Mine in NSW. It produces Coal which falls under Mesh. Malaysia Mesh Mine is used for mining Coal. Depot Tasmania serves JENNMAR. Sales contact represents JENNMAR. Forecast shows production of 800 units from June 2025 to February 2026, then no production until May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Crinum Mine in QLD. It produces Coal which falls under Mesh. Malaysia Mesh Mine is used for mining Coal. Depot Brisbane serves JENNMAR. Sales contact represents JENNMAR. Forecast shows production of 960 units from June 2025 to February 2026, then no production until May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Crinum Mine in QLD. It produces Coal which falls under Mesh. Malaysia Mesh Mine is used for mining Coal. Depot Brisbane serves JENNMAR. Sales contact represents JENNMAR. Forecast shows production of 2,400 units from June 2025 to February 2026, then no production until May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Crinum Mine in QLD. It produces Coal which falls under Mesh. Malaysia Mesh Mine is used for mining Coal. Depot Brisbane serves JENNMAR. Sales contact represents JENNMAR. Forecast shows production of 3,000 units in June 2025 and 3,000 units in October 2025, then no production until May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+Splitset SLR operates Daisy Milano Mine in WA. It produces Hardrock which falls under Mesh. Perth Mesh Mine is used for mining Hardrock. Depot Perth serves Splitset SLR. Sales contact represents Splitset SLR. Forecast shows no production from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+Splitset SLR operates Daisy Milano Mine in WA. It produces Hardrock which falls under Mesh. Perth Mesh Mine is used for mining Hardrock. Depot Perth serves Splitset SLR. Sales contact represents Splitset SLR. Forecast shows no production from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Darlot Mine in WA. It produces Hardrock which falls under Mesh. Perth Mesh Mine is used for mining Hardrock. Depot Perth serves JENNMAR. Sales contact represents JENNMAR. Forecast shows production of 100 units from June 2025 to February 2026, then no production until May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Darlot Mine in WA. It produces Hardrock which falls under Mesh. Perth Mesh Mine is used for mining Hardrock. Depot Perth serves JENNMAR. Sales contact represents JENNMAR. Forecast shows production of 500 units from June 2025 to February 2026, then no production until May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Darlot Mine in WA. JENNMAR produces Hardrock which falls under Mesh. Darlot Mine uses Perth Mesh Mine for mining Hardrock. Depot Perth serves JENNMAR. Sales Contact Jennmar Australia represents JENNMAR. Load size is 550.0. Production location is Perth Mine. Jun 2025 to Mar 2027 shows zero production.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Darlot Mine in WA. JENNMAR produces Hardrock which falls under Mesh. Darlot Mine uses Perth Mesh Mine for mining Hardrock. Depot Perth serves JENNMAR. Sales Contact Jennmar Australia represents JENNMAR. Load size is 400.0. Production location is Perth Mine. Jun 2025 to Mar 2027 shows zero production.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Dartbrook Mine in NSW. JENNMAR produces Coal which falls under Mesh. Dartbrook Mine uses Malaysia Mesh Mine for mining Coal. Depot Brisbane serves JENNMAR. Sales Contact Jennmar Australia represents JENNMAR. Load size is 600.0. Production location is Malaysia Mine. Jun 2025 to May 2027 shows zero production.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+Splitset SLR operates Deflector Mine in WA. Splitset SLR produces Hardrock which falls under Mesh. Deflector Mine uses Perth Mesh Mine for mining Hardrock. Depot Perth serves Splitset SLR. Sales Contact Splitset SLR represents Splitset SLR. Load size is 700.0. Production location is Perth Mine. Jun 2025 to Mar 2027 shows zero production.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+Splitset SLR operates Deflector Mine in WA. Splitset SLR produces Hardrock which falls under Mesh. Deflector Mine uses Perth Mesh Mine for mining Hardrock. Depot Perth serves Splitset SLR. Sales Contact Splitset SLR represents Splitset SLR. Load size is 600.0. Production location is Perth Mine. Jun 2025 to Mar 2027 shows zero production.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+Splitset SLR operates Deflector Mine in WA. Splitset SLR produces Hardrock which falls under Mesh. Deflector Mine uses Perth Mesh Mine for mining Hardrock. Depot Perth serves Splitset SLR. Sales Contact Splitset SLR represents Splitset SLR. Load size is 550.0. Production location is Perth Mine. Jun 2025 to May 2027 shows zero production.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+Splitset MMG operates Dugald River Mine in QLD. Splitset MMG produces Hardrock which falls under Mesh. Dugald River Mine uses Malaysia Mesh Mine for mining Hardrock. Depot Brisbane serves Splitset MMG. Sales Contact Splitset MMG represents Splitset MMG. Load size is 550.0. Production location is Malaysia Mine. Jun 2025 to May 2027 shows zero production.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Endeavour Mine in NSW. JENNMAR produces Hardrock which falls under Mesh. Endeavour Mine uses Perth Mesh Mine for mining Hardrock. Depot Adelaide serves JENNMAR. Sales Contact Jennmar Australia represents JENNMAR. Load size is 600.0. Production location is Perth Mine. Jun 2025 to May 2027 shows zero production.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Ensham Mine in QLD. JENNMAR produces Coal which falls under Mesh. Ensham Mine uses Malaysia Mesh Mine for mining Coal. Depot Brisbane serves JENNMAR. Sales Contact Jennmar Australia represents JENNMAR. Load size is 3000.0. Production location is Malaysia Mine. Jun 2025 to May 2027 shows zero production.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Ensham Mine in QLD. JENNMAR produces Coal which falls under Mesh. Ensham Mine uses Malaysia Mesh Mine for mining Coal. Depot Brisbane serves JENNMAR. Sales Contact Jennmar Australia represents JENNMAR. Load size is 540.0. Production location is Malaysia Mine. Jun 2025 to May 2027 shows zero production.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Ensham Mine in QLD. JENNMAR produces Coal which falls under Mesh. Ensham Mine uses Malaysia Mesh Mine for mining Coal. Depot Brisbane serves JENNMAR. Sales Contact Jennmar Australia represents JENNMAR. Load size is 540.0. Production location is Malaysia Mine. Jun 2025 to May 2027 shows zero production.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Ensham Mine in QLD. JENNMAR produces Coal which falls under Mesh. Ensham Mine uses Malaysia Mesh Mine for mining Coal. Depot Brisbane serves JENNMAR. Sales Contact Jennmar Australia represents JENNMAR. Load size is 540.0. Production location is Malaysia Mine. Jun 2025 to May 2027 shows zero production.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+Paddington Gold operates Federal Mine in WA. Paddington Gold produces Hardrock which falls under Mesh. Federal Mine uses Perth Mesh Mine for mining Hardrock. Depot Perth serves Paddington Gold. Sales Contact Paddington Gold represents Paddington Gold. Load size is 550.0. Production location is Perth Mine. Jun 2025 to May 2027 shows zero production.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+DSI operates Fero Mine in WA. DSI produces Coal which falls under Mesh. Fero Mine uses Ausro Straps Mine for mining Coal. Depot Perth serves DSI. Sales Contact DSI represents DSI. Load size is 600.0. Production location is Perth Mine. Jun 2025 to May 2027 shows zero production.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+DSI Mammoth operates Fero Narangba Mine in WA. DSI Mammoth produces Coal which falls under Mesh. Fero Narangba Mine uses Malaysia Mesh Mine for mining Coal. Depot Brisbane serves DSI Mammoth. Sales Contact DSI Mammoth represents DSI Mammoth. Load size is 600.0. Production location is Malaysia Mine. Jun 2025 to May 2027 shows zero production.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+DSI operates Fero Narangba Mine in QLD. DSI produces Coal which falls under Mesh. Fero Narangba Mine uses Ausro Straps Mine for mining Coal. Depot Brisbane serves DSI. Sales Contact DSI represents DSI. Load size is 600.0. Production location is Malaysia Mine. Jun 2025 to May 2027 shows zero production.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+DSI operates Fero Narangba Mine in QLD. DSI produces Coal which falls under Mesh. Fero Narangba Mine uses Ausro Straps Mine for mining Coal. Depot Brisbane serves DSI. Sales Contact DSI represents DSI. Load size is 600.0. Production location is Malaysia Mine. Jun 2025 to May 2027 shows zero production.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+DSI operates Fero Narangba Mine in QLD. DSI produces Coal which falls under Mesh. Fero Narangba Mine uses Ausro Straps Mine for mining Coal. Depot Brisbane serves DSI. Sales Contact DSI represents DSI. Load size is 600.0. Production location is Malaysia Mine. Jun 2025 to May 2027 shows zero production.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+DSI operates Fero Narangba Mine in QLD. DSI produces Coal which falls under Mesh. Fero Narangba Mine uses Ausro Straps Mine for mining Coal. Depot Brisbane serves DSI. Sales Contact DSI represents DSI. Load size is 600.0. Production location is Malaysia Mine. Jun 2025 to May 2027 shows zero production.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Fish Mine in WA. JENNMAR produces Hardrock which falls under Mesh. Fish Mine uses Perth Mesh Mine for mining Hardrock. Depot Perth serves JENNMAR. Sales Contact Jennmar Australia represents JENNMAR. Load size is 600.0. Production location is Perth Mine. Jun 2025 to May 2027 shows zero production.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Granny Smith Mine in WA. They produce Hardrock which falls under Mesh category using Perth Mesh Mine. Depot Perth serves JENNMAR. Sales Contact represents JENNMAR. Forecast shows 1,600 units of product CCP50241010056G from June 2025 to December 2025.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Granny Smiths Mine in WA. They produce Hardrock which falls under Mesh category using Perth Mesh Mine. Depot Perth serves JENNMAR. Sales Contact represents JENNMAR. Forecast shows 550 units of product CCP45241010056G from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Granny Smiths Mine in WA. They produce Hardrock which falls under Mesh category using Perth Mesh Mine. Depot Perth serves JENNMAR. Sales Contact represents JENNMAR. Forecast shows 0 units of product CCP45241010056G from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Granny Smiths Mine in WA. They produce Hardrock which falls under Mesh category using Perth Mesh Mine. Depot Perth serves JENNMAR. Sales Contact represents JENNMAR. Forecast shows 0 units of product CCP45241010056G from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Granny Smiths Mine in WA. They produce Hardrock which falls under Mesh category using Perth Mesh Mine. Depot Perth serves JENNMAR. Sales Contact represents JENNMAR. Forecast shows 0 units of product CCP50241010056G from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Granny Smiths Mine in WA. They produce Hardrock which falls under Mesh category using Perth Mesh Mine. Depot Perth serves JENNMAR. Sales Contact represents JENNMAR. Forecast shows 0 units of product MS50241010056G from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Granny Smiths Mine in WA. They produce Hardrock which falls under Mesh category using Perth Mesh Mine. Depot Perth serves JENNMAR. Sales Contact represents JENNMAR. Forecast shows 0 units of product MS5H45241010G from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Granny Smiths Mine in WA. They produce Hardrock which falls under Mesh category using Perth Mesh Mine. Depot Perth serves JENNMAR. Sales Contact represents JENNMAR. Forecast shows 0 units of product SMF30240505004G from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Granny Smiths Mine in WA. They produce Hardrock which falls under Mesh category using Perth Mesh Mine. Depot Perth serves JENNMAR. Sales Contact represents JENNMAR. Forecast shows 0 units of product SMF30241010056G from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Griffin Mine in WA. They produce Hardrock which falls under Mesh category using Perth Mesh Mine. Depot Perth serves JENNMAR. Sales Contact represents JENNMAR. Forecast shows 150 units of product CCP45241010056G from June 2025 to February 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Jennmar Mine in WA. They produce Hardrock which falls under Mesh category using Perth Mesh Mine. Depot Perth serves JENNMAR. Sales Contact represents JENNMAR. Forecast shows 0 units of product SMF30241010056G from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+Jet Engineering operates Jet Eng Mine in QLD. They produce Hardrock which falls under Mesh category using Malaysia Mesh Mine. Depot Brisbane serves Jet Engineering. Sales Contact represents Jet Engineering. Forecast shows 0 units of product SMESH300011704 from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Kanowna Belle Mine in WA. They produce Hardrock which falls under Mesh category using Perth Mesh Mine. Depot Perth serves JENNMAR. Sales Contact represents JENNMAR. Forecast shows 0 units of product CCP42241010056G from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SPLITSET operates King Of The Hills Mine in WA. They produce Hardrock which falls under Mesh category using Perth Mesh Mine. Depot Perth serves SPLITSET. Sales Contact represents SPLITSET. Forecast shows 0 units of product CCP45241010056G from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SPLITSET operates King Of The Hills Mine in WA. They produce Hardrock which falls under Mesh category using Perth Mesh Mine. Depot Perth serves SPLITSET. Sales Contact represents SPLITSET. Forecast shows 0 units of product SMF45171010056G from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SPLITSET EVL operates Kundana Mine in WA. They produce Hardrock which falls under Mesh category using Perth Mesh Mine. Depot Perth serves SPLITSET EVL. Sales Contact represents SPLITSET EVL. Forecast shows 0 units of product CCP45241010056G from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SPLITSET EVL operates Kundana Mine in WA. They produce Hardrock which falls under Mesh category using Ausro Straps Mine. Depot Perth serves SPLITSET EVL. Sales Contact represents SPLITSET EVL. Forecast shows 0 units of product JOS6000B from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+GLENCORE operates Lady Loretta Mine in QLD. They produce Hardrock which falls under Mesh category using Malaysia Mesh Mine. Depot Brisbane serves GLENCORE. Sales Contact represents GLENCORE. Forecast shows 0 units of product CCP48241010056G from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Linden Gold Mine in WA. They produce Hardrock which falls under Mesh category using Perth Mesh Mine. Depot Perth serves JENNMAR. Sales Contact represents JENNMAR. Forecast shows 0 units of product CCP40241010056G from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Linden Gold Mine in WA. They produce Hardrock which falls under Mesh category using Perth Mesh Mine. Depot Perth serves JENNMAR. Sales Contact represents JENNMAR. Forecast shows 0 units of product SMF45171010056G from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Mako Mine in WA. JENNMAR produces Hardrock which falls under Mesh. JENNMAR uses Perth Mesh Mine for mining Hardrock. Depot Perth serves JENNMAR. Sales Contact represents JENNMAR. Load size is 550.0. Production location is Perth Mine. Forecasted production for Hardrock is 250.0 units from June 2025 to December 2025, then zero units until May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Mako Mine in WA. JENNMAR produces Hardrock which falls under Mesh. JENNMAR uses Perth Mesh Mine for mining Hardrock. Depot Perth serves JENNMAR. Sales Contact represents JENNMAR. Load size is 800.0. Production location is Perth Mine. Forecasted production for Hardrock is zero units from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+DSI Mammoth operates Mammoth Mine in QLD. DSI Mammoth produces Coal which falls under Mesh. DSI Mammoth uses Malaysia Mesh Mine for mining Coal. Depot Brisbane serves DSI Mammoth. Sales Contact represents DSI Mammoth. Load size is 600.0. Production location is Malaysia Mine. Forecasted production for Coal is 4,320 units in June and October 2025, 2,160 units in July and November 2025, 1,620 units in August and September 2025, then zero units until May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+DSI Mammoth operates Mammoth Mine in QLD. DSI Mammoth produces Coal which falls under Mesh. DSI Mammoth uses Malaysia Mesh Mine for mining Coal. Depot Brisbane serves DSI Mammoth. Sales Contact represents DSI Mammoth. Load size is 600.0. Production location is Malaysia Mine. Forecasted production for Coal is 9,720 units in June and October 2025, 540 units in July 2025, 4,320 units in August and September 2025, then zero units until May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+DSI Mammoth operates Mammoth Mine in QLD. DSI Mammoth produces Coal which falls under Mesh. DSI Mammoth uses Malaysia Mesh Mine for mining Coal. Depot Brisbane serves DSI Mammoth. Sales Contact represents DSI Mammoth. Forecasted production for Coal is 0 units from June 2025 to May 2027 except 21,600 units in July 2025, 4,500 units in August and October 2025, then zero units in November and December 2025.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Mandalay Mine in NSW. JENNMAR produces Hardrock which falls under Mesh. JENNMAR uses Malaysia Mesh Mine for mining Hardrock. Depot Brisbane serves JENNMAR. Sales Contact represents JENNMAR. Load size is 550.0. Production location is Malaysia Mine. Forecasted production for Hardrock is 0 units from June 2025 to February 2026, then 500 units in July and November 2025, then zero units until May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Mandalong Mine in NSW. JENNMAR produces Coal which falls under Mesh. JENNMAR uses Malaysia Mesh Mine for mining Coal. Depot Brisbane serves JENNMAR. Sales Contact represents JENNMAR. Load size is 480.0. Production location is Malaysia Mine. Forecasted production for Coal is zero units from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Mandalong Mine in NSW. JENNMAR produces Coal which falls under Mesh. JENNMAR uses Malaysia Mesh Mine for mining Coal. Depot Brisbane serves JENNMAR. Sales Contact represents JENNMAR. Load size is 600.0. Production location is Malaysia Mine. Forecasted production for Coal is 960 units from June 2025 to October 2025, then zero units until May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Moolarben Mine in NSW. JENNMAR produces Coal which falls under Mesh. JENNMAR uses Malaysia Mesh Mine for mining Coal. Depot Brisbane serves JENNMAR. Sales Contact represents JENNMAR. Load size is 396.0. Production location is Malaysia Mine. Forecasted production for Coal is 2,376 units from June 2025 to February 2026, then zero units until May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Moolarben Mine in NSW. JENNMAR produces Coal which falls under Mesh. JENNMAR uses Malaysia Mesh Mine for mining Coal. Depot Brisbane serves JENNMAR. Sales Contact represents JENNMAR. Load size is 3,000.0. Production location is Malaysia Mine. Forecasted production for Coal is 1,000 units from June 2025 to March 2026, then zero units until May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Moolarben Mine in NSW. JENNMAR produces Coal which falls under Mesh. JENNMAR uses Malaysia Mesh Mine for mining Coal. Depot Brisbane serves JENNMAR. Sales Contact represents JENNMAR. Load size is 3,000.0. Production location is Malaysia Mine. Forecasted production for Coal is 1,000 units from June 2025 to March 2026, then zero units until May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Moolarben Mine in NSW. JENNMAR produces Coal which falls under Mesh. JENNMAR uses Malaysia Mesh Mine for mining Coal. Depot Brisbane serves JENNMAR. Sales Contact represents JENNMAR. Load size is 3,000.0. Production location is Malaysia Mine. Forecasted production for Coal is 1,000 units from June 2025 to March 2026, then zero units until May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Moolarben Mine in NSW. JENNMAR produces Coal which falls under Mesh. JENNMAR uses Malaysia Mesh Mine for mining Coal. Depot Brisbane serves JENNMAR. Sales Contact represents JENNMAR. Load size is 3,000.0. Production location is Malaysia Mine. Forecasted production for Coal is 6,000 units from June 2025 to February 2026, then zero units until May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Narrabri Mine in NSW. JENNMAR produces Coal which falls under Mesh. JENNMAR uses Malaysia Mesh Mine for mining Coal. Depot Brisbane serves JENNMAR. Sales Contact represents JENNMAR. Load size is 3,000.0. Production location is Malaysia Mine. Forecasted production for Coal is 6,000 units from June 2025 to February 2026, then zero units until May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Narrabri Mine in NSW. JENNMAR produces Coal which falls under Mesh. JENNMAR uses Malaysia Mesh Mine for mining Coal. Depot Brisbane serves JENNMAR. Sales Contact represents JENNMAR. Load size is 480.0. Production location is Malaysia Mine. Forecasted production for Coal is 1,188 units in July and October 2025, 2,772 units in August and November 2025, 1,188 units in September 2025, then zero units until May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Narrabri Mine in NSW. JENNMAR produces Coal which falls under Mesh. JENNMAR uses Malaysia Mesh Mine for mining Coal. Depot Brisbane serves JENNMAR. Sales Contact represents JENNMAR. Load size is 480.0. Production location is Malaysia Mine. Forecasted production for Coal is zero units from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Narrabri Mine in NSW. JENNMAR produces Coal which falls under Mesh. JENNMAR uses Malaysia Mesh Mine for mining Coal. Depot Brisbane serves JENNMAR. Sales Contact represents JENNMAR. Load size is 480.0. Production location is Malaysia Mine. Forecasted production for Coal is zero units from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates North Parkes Mine in NSW. JENNMAR produces Hardrock which falls under Mesh. JENNMAR uses Malaysia Mesh Mine for mining Hardrock. Depot Brisbane serves JENNMAR. Sales Contact represents JENNMAR. Load size is 600.0. Production location is Malaysia Mine. Forecasted production for Hardrock is 600 units in June and July 2025, 1,200 units in August and September 2025, 600 units in October and November 2025, 1,200 units in December 2025, then zero units until May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates North Parkes Mine in NSW. JENNMAR produces Hardrock which falls under Mesh. JENNMAR uses Malaysia Mesh Mine for mining Hardrock. Depot Brisbane serves JENNMAR. Sales Contact represents JENNMAR. Load size is 600.0. Production location is Malaysia Mine. Forecasted production for Hardrock is 300 units from June 2025 to May 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Northparkes Mine in NSW. JENNMAR produces Hardrock which falls under Mesh. JENNMAR uses Malaysia Mesh Mine for mining Hardrock. Depot Brisbane serves JENNMAR. Sales Contact represents JENNMAR. Load size is 550.0. Production location is Malaysia Mine. Forecasted production for Hardrock is 1,200 units in June and July 2025, 800 units in August and September 2025, 1,200 units in October and November 2025, 800 units in December 2025, then zero units until May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Nsr Mine in WA. JENNMAR produces Hardrock which falls under Mesh. JENNMAR uses Perth Mesh Mine for mining Hardrock. Depot Perth serves JENNMAR. Sales Contact represents JENNMAR. Load size is 550.0. Production location is Perth Mine. Forecasted production for Hardrock is zero units from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Nsr Fim Mine in WA. JENNMAR produces Hardrock which falls under Mesh. JENNMAR uses Perth Mesh Mine for mining Hardrock. Depot Perth serves JENNMAR. Sales Contact represents JENNMAR. Load size is 550.0. Production location is Perth Mine. Forecasted production for Hardrock is zero units from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Nsr Kb Mine in WA. JENNMAR produces Hardrock which falls under Mesh. JENNMAR uses Perth Mesh Mine for mining Hardrock. Depot Perth serves JENNMAR. Sales Contact represents JENNMAR. Forecast shows no production from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Nsr Mtc Mine in WA. JENNMAR produces Hardrock which falls under Mesh. JENNMAR uses Perth Mesh Mine for mining Hardrock. Depot Perth serves JENNMAR. Sales Contact represents JENNMAR. Forecast shows no production from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+BHP operates Olympic Dam Mine in SA. BHP produces Hardrock which falls under Mesh. BHP uses Malaysia Mesh Mine for mining Hardrock. Depot Adelaide serves BHP. Sales Contact represents BHP. Forecast shows production of 550 units from June 2025 to October 2025, 1100 units from July 2025 to November 2025, and no production from December 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+BHP operates Olympic Dam Mine in SA. BHP produces Hardrock which falls under Mesh. BHP uses Malaysia Mesh Mine for mining Hardrock. Depot Adelaide serves BHP. Sales Contact represents BHP. Forecast shows production of 0 units from June 2025 to May 2027 except for 1200 units in July 2025, 1800 units in August and September 2025, and 1200 units in November 2025.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Olympic Dam Mine in WA. JENNMAR produces Hardrock which falls under Mesh. JENNMAR uses Perth Mesh Mine for mining Hardrock. Depot Adelaide serves JENNMAR. Sales Contact represents JENNMAR. Forecast shows production of 1200 units from June 2025 to October 2026, and no production from December 2026 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+BHP operates Olympic Dam Mine in SA. BHP produces Hardrock which falls under Mesh. BHP uses Perth Mesh Mine for mining Hardrock. Depot Perth serves BHP. Sales Contact represents BHP. Forecast shows no production from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+Splitset SSMS operates Phoenix Metalform Mine in WA. Splitset SSMS produces Hardrock which falls under Mesh. Splitset SSMS uses Perth Mesh Mine for mining Hardrock. Depot Perth serves Splitset SSMS. Sales Contact represents Splitset SSMS. Forecast shows production of 2816 units from June 2025 to March 2026, and no production from April 2026 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+Splitset SSMS operates Phoenix Metalform Mine in WA. Splitset SSMS produces Hardrock which falls under Mesh. Splitset SSMS uses Ausro Straps Mine for mining Hardrock. Depot Perth serves Splitset SSMS. Sales Contact represents Splitset SSMS. Forecast shows no production from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+Splitset SSMS operates Phoenix Metalform Mine in WA. Splitset SSMS produces Hardrock which falls under Mesh. Splitset SSMS uses Ausro Straps Mine for mining Hardrock. Depot Perth serves Splitset SSMS. Sales Contact represents Splitset SSMS. Forecast shows no production from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+Splitset SSMS operates Phoenix Metalform Mine in WA. Splitset SSMS produces Hardrock which falls under Mesh. Splitset SSMS uses Ausro Straps Mine for mining Hardrock. Depot Perth serves Splitset SSMS. Sales Contact represents Splitset SSMS. Forecast shows no production from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+Splitset SSMS operates Phoenix Metalform Mine in WA. Splitset SSMS produces Hardrock which falls under Mesh. Splitset SSMS uses Ausro Straps Mine for mining Hardrock. Depot Perth serves Splitset SSMS. Sales Contact represents Splitset SSMS. Forecast shows no production from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+Splitset SSMS operates Phoenix Metalform Mine in WA. Splitset SSMS produces Hardrock which falls under Mesh. Splitset SSMS uses Perth Mesh Mine for mining Hardrock. Depot Perth serves Splitset SSMS. Sales Contact represents Splitset SSMS. Forecast shows production of 200 units from June 2025 to March 2026, and no production from April 2026 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+Splitset SLR operates Plutonic Mine in WA. Splitset SLR produces Hardrock which falls under Mesh. Splitset SLR uses Perth Mesh Mine for mining Hardrock. Depot Perth serves Splitset SLR. Sales Contact represents Splitset SLR. Forecast shows no production from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Pogo Mine in ALASKA. JENNMAR produces Hardrock which falls under Mesh. JENNMAR uses Perth Mesh Mine for mining Hardrock. Depot Perth serves JENNMAR. Sales Contact represents JENNMAR. Forecast shows no production from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Porphyry Mine in WA. JENNMAR produces Hardrock which falls under Mesh. JENNMAR uses Perth Mesh Mine for mining Hardrock. Depot Perth serves JENNMAR. Sales Contact represents JENNMAR. Forecast shows no production from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+Splitset EVL operates Raleigh Mine in WA. Splitset EVL produces Hardrock which falls under Mesh. Splitset EVL uses Perth Mesh Mine for mining Hardrock. Depot Perth serves Splitset EVL. Sales Contact represents Splitset EVL. Forecast shows no production from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+Splitset EVL operates Raleigh Mine in WA. Splitset EVL produces Hardrock which falls under Mesh. Splitset EVL uses Perth Mesh Mine for mining Hardrock. Depot Perth serves Splitset EVL. Sales Contact represents Splitset EVL. Forecast shows no production from June 2025 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Ramone Mine Site in WA. JENNMAR produces Hardrock which falls under Mesh. JENNMAR uses Perth Mesh Mine for mining Hardrock. Depot Perth serves JENNMAR. Sales Contact represents JENNMAR. Forecast shows production of 717 units from June 2025 to March 2026, and no production from April 2026 to May 2027.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Ramone Mine Site in WA. JENNMAR produces Hardrock which falls under Mesh. JENNMAR uses Perth Mesh Mine for mining Hardrock. Depot Perth serves JENNMAR. Sales Contact represents JENNMAR. Jun-2025 to May-2027 forecast shows zero production.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Red Path Mine in WA. JENNMAR produces Hardrock which falls under Mesh. JENNMAR uses Perth Mesh Mine for mining Hardrock. Depot Perth serves JENNMAR. Sales Contact represents JENNMAR. Jun-2025 to May-2027 forecast shows zero production.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+Splitset EVL operates Rhp Mine in WA. Splitset EVL produces Hardrock which falls under Mesh. Splitset EVL uses Perth Mesh Mine for mining Hardrock. Depot Perth serves Splitset EVL. Sales Contact represents Splitset EVL. Jun-2025 to May-2027 forecast shows 733 units per month.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+Splitset SLR operates Rothsay Mine in WA. Splitset SLR produces Hardrock which falls under Mesh. Splitset SLR uses Perth Mesh Mine for mining Hardrock. Depot Perth serves Splitset SLR. Sales Contact represents Splitset SLR. Jun-2025 to May-2027 forecast shows zero production.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Second Fortune Mine in WA. JENNMAR produces Hardrock which falls under Mesh. JENNMAR uses Perth Mesh Mine for mining Hardrock. Depot Perth serves JENNMAR. Sales Contact represents JENNMAR. Jun-2025 to May-2027 forecast shows zero production.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Smeaton Grange Mine in NSW. JENNMAR produces Hardrock which falls under Mesh. JENNMAR uses Malaysia Mesh Mine for mining Hardrock. Depot Brisbane serves JENNMAR. Sales Contact represents JENNMAR. Jun-2025 to May-2027 forecast shows zero production.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Smeaton Grange Mine in NSW. JENNMAR produces Hardrock which falls under Mesh. JENNMAR uses Ausro Straps Mine for mining Hardrock. Depot Brisbane serves JENNMAR. Sales Contact represents JENNMAR. Jun-2025 to May-2027 forecast shows zero production.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Spotted Quoll Mine in WA. JENNMAR produces Hardrock which falls under Mesh. JENNMAR uses Perth Mesh Mine for mining Hardrock. Depot Perth serves JENNMAR. Sales Contact represents JENNMAR. Jun-2025 to May-2027 forecast shows zero production.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Stawell Mine in NSW. JENNMAR produces Hardrock which falls under Mesh. JENNMAR uses Perth Mesh Mine for mining Hardrock. Depot Adelaide serves JENNMAR. Sales Contact represents JENNMAR. Jun-2025 to May-2027 forecast shows 800 units per month.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Thunderbox Mine in WA. JENNMAR produces Hardrock which falls under Mesh. JENNMAR uses Perth Mesh Mine for mining Hardrock. Depot Perth serves JENNMAR. Sales Contact represents JENNMAR. Jun-2025 to May-2027 forecast shows zero production.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Thunderbox Mine in WA. JENNMAR produces Hardrock which falls under Mesh. JENNMAR uses Ausro Straps Mine for mining Hardrock. Depot Perth serves JENNMAR. Sales Contact represents JENNMAR. Jun-2025 to May-2027 forecast shows zero production.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Tomingley Mine in NSW. JENNMAR produces Hardrock which falls under Mesh. JENNMAR uses Perth Mesh Mine for mining Hardrock. Depot Brisbane serves JENNMAR. Sales Contact represents JENNMAR. Jun-2025 to May-2027 forecast shows 350 units per month.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Tomingley Mine in NSW. JENNMAR produces Hardrock which falls under Mesh. JENNMAR uses Perth Mesh Mine for mining Hardrock. Depot Brisbane serves JENNMAR. Sales Contact represents JENNMAR. Jun-2025 to May-2027 forecast shows 1800 units in June, 1600 units in July and August, 1800 units in October.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+Splitset Mining Systems operates Tropicana Mine in WA. Splitset Mining Systems produces Hardrock which falls under Mesh. Splitset Mining Systems uses Perth Mesh Mine for mining Hardrock. Depot Perth serves Splitset Mining Systems. Sales Contact represents Splitset Mining Systems. Jun-2025 to May-2027 forecast shows zero production.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Two Boys Higginsville Mine in WA. JENNMAR produces Hardrock which falls under Mesh. JENNMAR uses Perth Mesh Mine for mining Hardrock. Depot Perth serves JENNMAR. Sales Contact represents JENNMAR. Jun-2025 to May-2027 forecast shows 67 units per month for CCP30241010056G and 250 units per month for CCP45241010056G.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Two Boys Higginsville Mine in WA. JENNMAR produces Hardrock which falls under Mesh. JENNMAR uses Perth Mesh Mine for mining Hardrock. Depot Perth serves JENNMAR. Sales Contact represents JENNMAR. Jun-2025 to May-2027 forecast shows zero production.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Two Boys Higginsville Mine in WA. JENNMAR produces Hardrock which falls under Mesh. JENNMAR uses Perth Mesh Mine for mining Hardrock. Depot Perth serves JENNMAR. Sales Contact represents JENNMAR. Jun-2025 to May-2027 forecast shows zero production.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Two Boys Higginsville Mine in WA. JENNMAR produces Hardrock which falls under Mesh. JENNMAR uses Perth Mesh Mine for mining Hardrock. Depot Perth serves JENNMAR. Sales Contact represents JENNMAR. Jun-2025 to May-2027 forecast shows zero production.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Wonder Mine in WA. JENNMAR produces Hardrock which falls under Mesh. JENNMAR uses Perth Mesh Mine for mining Hardrock. Depot Perth serves JENNMAR. Sales Contact represents JENNMAR. Jun-2025 to May-2027 forecast shows 167 units per month.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+JENNMAR operates Wonder Mine in WA. JENNMAR produces Hardrock which falls under Mesh. JENNMAR uses Perth Mesh Mine for mining Hardrock. Depot Perth serves JENNMAR. Sales Contact represents JENNMAR. Jun-2025 to May-2027 forecast shows 1117 units per month.
+
+[Source: Mine_Forecast.xlsx | Type: production_record]
+ASHTON COAL produced 45.0 units of ASHPOD - POD STEEL 1.8M BOLTS on June 2025. Job number JB001 was processed for ASHTON COAL at ASHTON Mine, NSW.
+
+[Source: Mine_Forecast.xlsx | Type: production_record]
+ASHTON COAL produced 500.0 units of HANGING BRACKET - 1 KEY H on June 2025. Job number JB002 was processed for ASHTON COAL at ASHTON Mine, NSW.
+
+[Source: Mine_Forecast.xlsx | Type: production_record]
+ASHTON COAL produced 150.0 units of HANGING BRACKET - 1 KEY H on June 2025. Job number JB003 was processed for ASHTON COAL at ASHTON Mine, NSW.
+
+[Source: Mine_Forecast.xlsx | Type: production_record]
+ASHTON COAL produced 200.0 units of HANGING BRACKET - 3 KEY H on June 2025. Job number JB004 was processed for ASHTON COAL at ASHTON Mine, NSW.
+
+[Source: Mine_Forecast.xlsx | Type: production_record]
+ASHTON COAL produced 1500.0 units of PLASTIC PLATE 230MM DIA R on June 2025. Job number JB005 was processed for ASHTON COAL at ASHTON Mine, NSW.
+
+[Source: Mine_Forecast.xlsx | Type: production_record]
+ASHTON COAL produced 2500.0 units of JBS M24X1.2M DOME BALL RE on June 2025. Job number JB006 was processed for ASHTON COAL at ASHTON Mine, NSW.
+
+[Source: Mine_Forecast.xlsx | Type: production_record]
+ASHTON COAL produced 150.0 units of HANGING BRACKET - 1 KEY H on June 2025. Job number JB007 was processed for ASHTON COAL at ASHTON Mine, NSW.
+
+[Source: Mine_Forecast.xlsx | Type: production_record]
+ASHTON COAL produced 150.0 units of HANGING BRACKET - 1 KEY H on June 2025. Job number JB008 was processed for ASHTON COAL at ASHTON Mine, NSW.
+
+[Source: Mine_Forecast.xlsx | Type: production_record]
+ASHTON COAL produced 150.0 units of HANGING BRACKET - 1 KEY H on June 2025. Job number JB009 was processed for ASHTON COAL at ASHTON Mine, NSW.
+
+[Source: Mine_Forecast.xlsx | Type: production_record]
+ASHTON COAL produced 150.0 units of HANGING BRACKET - 1 KEY H on June 2025. Job number JB010 was processed for ASHTON COAL at ASHTON Mine, NSW.
+
+[Source: Mine_Forecast.xlsx | Type: production_record]
+ASHTON COAL produced 150.0 units of HANGING BRACKET - 1 KEY H on June 2025. Job number JB011 was processed for ASHTON COAL at ASHTON Mine, NSW.
+
+[Source: Mine_Forecast.xlsx | Type: production_record]
+ASHTON COAL produced 150.0 units of HANGING BRACKET - 1 KEY H on June 2025. Job number JB012 was processed for ASHTON COAL at ASHTON Mine, NSW.
+
+[Source: Mine_Forecast.xlsx | Type: production_record]
+ASHTON COAL produced 150.0 units of HANGING BRACKET - 1 KEY H on June 2025. Job number JB013 was processed for ASHTON COAL at ASHTON Mine, NSW.
+
+[Source: Mine_Forecast.xlsx | Type: production_record]
+ASHTON COAL produced 150.0 units of HANGING BRACKET - 1 KEY H on June 2025. Job number JB014 was processed for ASHTON COAL at ASHTON Mine, NSW.
+
+[Source: Mine_Forecast.xlsx | Type: production_record]
+ASHTON COAL produced 150.0 units of HANGING BRACKET - 1 KEY H on June 2025. Job number JB015 was processed for ASHTON COAL at ASHTON Mine, NSW.
+
+[Source: Mine_Forecast.xlsx | Type: production_record]
+ASHTON COAL produced 150.0 units of HANGING BRACKET - 1 KEY H on June 2025. Job number JB016 was processed for ASHTON COAL at ASHTON Mine, NSW.
+
+[Source: Mine_Forecast.xlsx | Type: production_record]
+ASHTON COAL produced 1000.0 units of F/G BOLT 22MMX1200MM XHT on June 2025. Job number JB017 was processed for ASHTON COAL at ASHTON Mine, NSW.
+
+[Source: Mine_Forecast.xlsx | Type: production_record]
+ASHTON COAL produced 1960.0 units of KANGA PLATE 150X150X5MM 3 on June 2025. Job number JB018 was processed for ASHTON COAL at ASHTON Mine, NSW.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+ASHTON COAL operates Ashton Mine in NSW. They produce Coal which falls under Cable category. They use PG12 for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves ASHTON COAL. Sales contact JENNMAR Australia represents ASHTON COAL.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+ASHTON COAL operates Ashton Mine in NSW. They produce Coal which falls under Cable category. They use PG12 for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves ASHTON COAL. Sales contact JENNMAR Australia represents ASHTON COAL. J-LOK 5* PG CABLE 800X36M (JL5PG120036MR) forecasts demand of 0 units in Jun 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+ASHTON COAL operates Ashton Mine in NSW. They produce Coal which falls under Cable category. They use PG12 for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves ASHTON COAL. Sales contact JENNMAR Australia represents ASHTON COAL. J-LOK 5 STAR SINGLE 440X2 (JL5S44025F) forecasts demand of 4,480 units in Jun 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+ASHTON COAL operates Ashton Mine in NSW. They produce Coal which falls under Cable category. They use PG12 for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves ASHTON COAL. Sales contact JENNMAR Australia represents ASHTON COAL. J-LOK 5 STAR TENDON CABLE (JL5T120025S) forecasts demand of 250 units in Jul 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+ASHTON COAL operates Ashton Mine in NSW. They produce Coal which falls under Mesh category. They use PG12 for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves ASHTON COAL. Sales contact JENNMAR Australia represents ASHTON COAL. PLASTIC MESH SHEET 2.4M X 1500 (JPMM2415) forecasts demand of 200 units in Jun 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+ASHTON COAL operates Ashton Mine in NSW. They produce Coal which falls under Plate category. They use PG12 for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves ASHTON COAL. Sales contact JENNMAR Australia represents ASHTON COAL. VOLCANO PLATE 200X200X12M (JV20201242R) forecasts demand of 400 units in Jul 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+ASHTON COAL operates Ashton Mine in NSW. They produce Coal which falls under Plate category. They use PG12 for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves ASHTON COAL. Sales contact JENNMAR Australia represents ASHTON COAL. VOLCANO PLATE 300X300X12M (JV30301256GI) forecasts demand of 0 units in Jun 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+ASHTON COAL operates Ashton Mine in NSW. They produce Coal which falls under Plate category. They use PG12 for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves ASHTON COAL. Sales contact JENNMAR Australia represents ASHTON COAL. BUTTERFLY PLATE 280X300X1 (JWW280300) forecasts demand of 1,860 units in Jul 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+ASHTON COAL operates Ashton Mine in NSW. They produce Coal which falls under Cable category. They use PG12 for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves ASHTON COAL. Sales contact JENNMAR Australia represents ASHTON COAL. JX M24X1.8M DOME BALL GREEN (JX2418BP3) forecasts demand of 300 units in Jun 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+ASHTON COAL operates Ashton Mine in NSW. They produce Coal which falls under Cable category. They use PG12 for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves ASHTON COAL. Sales contact JENNMAR Australia represents ASHTON COAL. JX M24X1.8M DOME BALL S P (JX2418BPS) forecasts demand of 0 units in Jun 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+ASHTON COAL operates Ashton Mine in NSW. They produce Coal which falls under Cable category. They use PG12 for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves ASHTON COAL. Sales contact JENNMAR Australia represents ASHTON COAL. Cable 6.2m JW10 (JCB3110062BWG) forecasts demand of 0 units in Jun 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+ASHTON COAL operates Ashton Mine in NSW. They produce Coal which falls under Mesh category. They use PG12 for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves ASHTON COAL. Sales contact JENNMAR Australia represents ASHTON COAL. MESH ROOF 5.00MX1.75M 100 (SMB5018101005) forecasts demand of 960 units in Jul 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+ASHTON COAL operates Ashton Mine in NSW. They produce Coal which falls under Mesh category. They use PG12 for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves ASHTON COAL. Sales contact JENNMAR Australia represents ASHTON COAL. MESH ROOF 5.00MX1.75M 100 GAL (SMB5018101005G) forecasts demand of 480 units in Jun 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+ASHTON COAL operates Ashton Mine in NSW. They produce Coal which falls under Mesh category. They use PG12 for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves ASHTON COAL. Sales contact JENNMAR Australia represents ASHTON COAL. MESH RIB 2.40MX1.50M 100X (SMF24151010034G) forecasts demand of 600 units in Jul 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+ASHTON COAL operates Ashton Mine in NSW. They produce Coal which falls under Cable category. They use PG12 for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves ASHTON COAL. Sales contact JENNMAR Australia represents ASHTON COAL. J-LOK SPIN2STALL 1000MM X (STSA10002555) forecasts demand of 6,300 units in Jun 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+ASHTON COAL operates Ashton Mine in NSW. They produce Coal which falls under Cable category. They use PG12 for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves ASHTON COAL. Sales contact JENNMAR Australia represents ASHTON COAL. Top Down 80MPA Cable Grou (TD80GROUT) forecasts demand of 112 units in Jun 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+CENTENNIAL COAL operates Airly Coal Mine in NSW. They produce Coal which falls under Cable category. They use PG12 for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves CENTENNIAL COAL. Sales contact JENNMAR Australia represents CENTENNIAL COAL. J-LOK H TWIN 2200X25.5MM (H2200255FXXS37C) forecasts demand of 360 units in Jun 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+CENTENNIAL COAL operates Airly Coal Mine in NSW. They produce Coal which falls under Plate category. They use PG12 for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves CENTENNIAL COAL. Sales contact JENNMAR Australia represents CENTENNIAL COAL. PLASTIC PLATE 230MM DIA R (HIPP230R) forecasts demand of 1,000 units in Jun 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+CENTENNIAL COAL operates Airly Coal Mine in NSW. They produce Coal which falls under Cable category. They use PG12 for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves CENTENNIAL COAL. Sales contact JENNMAR Australia represents CENTENNIAL COAL. CABLE SUPERSTRAND 21.8MM (JCB22038TOS) forecasts demand of 400 units in Jun 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+CENTENNIAL COAL operates Airly Coal Mine in NSW. They produce Coal which falls under Cable. The company uses J-LOK for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves CENTENNIAL COAL. Sales contact JENNMAR represents CENTENNIAL COAL.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+CENTENNIAL COAL operates Airly Coal Mine in NSW. They produce Coal which falls under Bolt. The company uses J-LOK for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves CENTENNIAL COAL. Sales contact JENNMAR represents CENTENNIAL COAL.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+CENTENNIAL COAL operates Airly Coal Mine in NSW. They produce Coal which falls under Plate. The company uses J-LOK for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves CENTENNIAL COAL. Sales contact JENNMAR represents CENTENNIAL COAL.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+CENTENNIAL COAL operates Airly Coal Mine in NSW. They produce Coal which falls under Cable. The company uses J-LOK for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves CENTENNIAL COAL. Sales contact JENNMAR represents CENTENNIAL COAL.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+CENTENNIAL COAL operates Airly Coal Mine in NSW. They produce Coal which falls under Plate. The company uses J-LOK for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves CENTENNIAL COAL. Sales contact JENNMAR represents CENTENNIAL COAL.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+CENTENNIAL COAL operates Airly Coal Mine in NSW. They produce Coal which falls under Bolt. The company uses J-LOK for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves CENTENNIAL COAL. Sales contact JENNMAR represents CENTENNIAL COAL.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+CENTENNIAL COAL operates Airly Coal Mine in NSW. They produce Coal which falls under Cable. The company uses J-LOK for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves CENTENNIAL COAL. Sales contact JENNMAR represents CENTENNIAL COAL.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+CENTENNIAL COAL operates Airly Coal Mine in NSW. They produce Coal which falls under Cable. The company uses J-LOK for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves CENTENNIAL COAL. Sales contact JENNMAR represents CENTENNIAL COAL.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+CENTENNIAL COAL operates Airly Coal Mine in NSW. They produce Coal which falls under Plate. The company uses J-LOK for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves CENTENNIAL COAL. Sales contact JENNMAR represents CENTENNIAL COAL.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+CENTENNIAL COAL operates Airly Coal Mine in NSW. They produce Coal which falls under Plate. The company uses J-LOK for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves CENTENNIAL COAL. Sales contact JENNMAR represents CENTENNIAL COAL.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+CENTENNIAL COAL operates Airly Coal Mine in NSW. They produce Coal which falls under Bolt. The company uses J-LOK for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves CENTENNIAL COAL. Sales contact JENNMAR represents CENTENNIAL COAL.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+CENTENNIAL COAL operates Airly Coal Mine in NSW. They produce Coal which falls under Bolt. The company uses J-LOK for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves CENTENNIAL COAL. Sales contact JENNMAR represents CENTENNIAL COAL.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+CENTENNIAL COAL operates Airly Coal Mine in NSW. They produce Coal which falls under Plate. The company uses J-LOK for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves CENTENNIAL COAL. Sales contact JENNMAR represents CENTENNIAL COAL.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+CENTENNIAL COAL operates Airly Coal Mine in NSW. They produce Coal which falls under Cable. The company uses J-LOK for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves CENTENNIAL COAL. Sales contact JENNMAR represents CENTENNIAL COAL.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+CENTENNIAL COAL operates Mandalong Mine in NSW. They produce Coal which falls under Bolt. The company uses J-LOK for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves CENTENNIAL COAL. Sales contact JENNMAR represents CENTENNIAL COAL.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+CENTENNIAL COAL operates Mandalong Mine in NSW. They produce Coal which falls under Plate. The company uses J-LOK for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves CENTENNIAL COAL. Sales contact JENNMAR represents CENTENNIAL COAL.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+CENTENNIAL COAL operates Mandalong Mine in NSW. They produce Coal which falls under Plate. The company uses J-LOK for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves CENTENNIAL COAL. Sales contact JENNMAR represents CENTENNIAL COAL.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+CENTENNIAL COAL operates Mandalong Mine in NSW. They produce Coal which falls under Cable. The company uses J-LOK for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves CENTENNIAL COAL. Sales contact JENNMAR represents CENTENNIAL COAL.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+CENTENNIAL COAL operates MANDALONG MINE, NSW. They produce Coal which falls under Cable. JLT120025S - J-LOK Tendon Cable 1200X2 will have no production from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+CENTENNIAL COAL operates MANDALONG MINE, NSW. They produce Coal which falls under Cable. JCB2204TOS - Cable Superstrand 21.8mm will be produced 700 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+CENTENNIAL COAL operates MANDALONG MINE, NSW. They produce Coal which falls under Cable. JCB2206TOS - Cable Superstrand 21.8mm will be produced 300 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+CENTENNIAL COAL operates MANDALONG MINE, NSW. They produce Coal which falls under Cable. JBS2412BTPR - JBS M24X1.2m Dome Ball Te will be produced 1,000 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+CENTENNIAL COAL operates MYUNA MINE, NSW. They produce Coal which falls under Cable. JCB2204TOS - Cable Superstrand 21.8mm will be produced 700 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+CENTENNIAL COAL operates MYUNA MINE, NSW. They produce Coal which falls under Cable. JCB2206TOS - Cable Superstrand 21.8mm will be produced 300 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+CENTENNIAL COAL operates MYUNA MINE, NSW. They produce Coal which falls under Cable. JBS2412BTPR - JBS M24X1.2m Dome Ball Te will be produced 1,000 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+CENTENNIAL COAL operates MYUNA MINE, NSW. They produce Coal which falls under Cable. JDO616520TWH - Dollie 25sq Drive 165mm L will be produced 6 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+CENTENNIAL COAL operates MYUNA MINE, NSW. They produce Coal which falls under Cable. JDOTIGER - Dollie Tiger To Suit Toto will be produced 6 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+CENTENNIAL COAL operates MYUNA MINE, NSW. They produce Coal which falls under Cable. JFG2512STH - F/G Bolt 25 x 1200mm Blu will be produced 500 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+CENTENNIAL COAL operates MYUNA MINE, NSW. They produce Coal which falls under Cable. JK15150638RW - Kanga Plate 150x150x6mm 3 will be produced 12,740 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+CENTENNIAL COAL operates MYUNA MINE, NSW. They produce Coal which falls under Cable. JLS44025F - J-Lok Single 440x25mm Fas will be produced 4,480 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+CENTENNIAL COAL operates MYUNA MINE, NSW. They produce Coal which falls under Cable. JV20201242R - Volcano Plate 200x200x12m will be shipped from June 2025 to January 2026, starting with 800 units in July 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+CENTENNIAL COAL operates MYUNA MINE, NSW. They produce Coal which falls under Cable. JX2418BPS - JX M24X1.8m Dome Ball S P will be produced 9,600 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+CENTENNIAL COAL operates MYUNA MINE, NSW. They produce Coal which falls under Cable. SL641 - Rforcing Ribbed Mesh 3.9m will have no production from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+CENTENNIAL COAL operates MYUNA MINE in NSW. CENTENNIAL COAL produces Coal which falls under Mesh. MYUNA MINE uses Mesh for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves CENTENNIAL COAL. Sales Contact Jennmar Australia represents CENTENNIAL COAL.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+CENTENNIAL COAL operates MYUNA MINE in NSW. CENTENNIAL COAL produces Coal which falls under Cable. MYUNA MINE uses Cable for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves CENTENNIAL COAL. Sales Contact Jennmar Australia represents CENTENNIAL COAL.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+CENTENNIAL COAL operates MYUNA MINE in NSW. CENTENNIAL COAL produces Coal which falls under Cable. MYUNA MINE uses Cable for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves CENTENNIAL COAL. Sales Contact Jennmar Australia represents CENTENNIAL COAL.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+CLARENCE COLLIERY P/L JA126 operates Clarence Colliery Mine in NSW. CLARENCE COLLIERY P/L JA126 produces Coal which falls under Cable. Clarence Colliery Mine uses Cable for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves CLARENCE COLLIERY P/L JA126. Sales Contact Jennmar Australia represents CLARENCE COLLIERY P/L JA126.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+CLARENCE COLLIERY P/L JA126 operates Clarence Colliery Mine in NSW. CLARENCE COLLIERY P/L JA126 produces Coal which falls under Cable. Clarence Colliery Mine uses Cable for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves CLARENCE COLLIERY P/L JA126. Sales Contact Jennmar Australia represents CLARENCE COLLIERY P/L JA126.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+CLARENCE COLLIERY P/L JA126 operates Clarence Colliery Mine in NSW. CLARENCE COLLIERY P/L JA126 produces Coal which falls under Cable. Clarence Colliery Mine uses Cable for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves CLARENCE COLLIERY P/L JA126. Sales Contact Jennmar Australia represents CLARENCE COLLIERY P/L JA126.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+CLARENCE COLLIERY P/L JA126 operates Clarence Colliery Mine in NSW. CLARENCE COLLIERY P/L JA126 produces Coal which falls under Cable. Clarence Colliery Mine uses Cable for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves CLARENCE COLLIERY P/L JA126. Sales Contact Jennmar Australia represents CLARENCE COLLIERY P/L JA126.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+CLARENCE COLLIERY P/L JA126 operates Clarence Colliery Mine in NSW. CLARENCE COLLIERY P/L JA126 produces Coal which falls under Cable. Clarence Colliery Mine uses Cable for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves CLARENCE COLLIERY P/L JA126. Sales Contact Jennmar Australia represents CLARENCE COLLIERY P/L JA126.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+DELTA COAL JA357 operates Delta Coal Mine in NSW. DELTA COAL JA357 produces Coal which falls under Cable. Delta Coal Mine uses Cable for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves DELTA COAL JA357. Sales Contact Jennmar Australia represents DELTA COAL JA357.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+DELTA COAL JA357 operates Delta Coal Mine in NSW. DELTA COAL JA357 produces Coal which falls under Cable. Delta Coal Mine uses Cable for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves DELTA COAL JA357. Sales Contact Jennmar Australia represents DELTA COAL JA357.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+DELTA COAL JA357 operates Delta Coal Mine in NSW. DELTA COAL JA357 produces Coal which falls under Plate. Delta Coal Mine uses Plate for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves DELTA COAL JA357. Sales Contact Jennmar Australia represents DELTA COAL JA357.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+DELTA COAL JA357 operates Delta Coal Mine in NSW. DELTA COAL JA357 produces Coal which falls under Mesh. Delta Coal Mine uses Mesh for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves DELTA COAL JA357. Sales Contact Jennmar Australia represents DELTA COAL JA357.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+DELTA COAL JA357 operates Delta Coal Mine in NSW. DELTA COAL JA357 produces Coal which falls under Cable. Delta Coal Mine uses Cable for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves DELTA COAL JA357. Sales Contact Jennmar Australia represents DELTA COAL JA357.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+DELTA COAL JA357 operates Delta Coal Mine in NSW. DELTA COAL JA357 produces Coal which falls under Cable. Delta Coal Mine uses Cable for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves DELTA COAL JA357. Sales Contact Jennmar Australia represents DELTA COAL JA357.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+DELTA COAL JA357 operates Delta Coal Mine in NSW. DELTA COAL JA357 produces Coal which falls under Cable. Delta Coal Mine uses Cable for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves DELTA COAL JA357. Sales Contact Jennmar Australia represents DELTA COAL JA357.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+DELTA COAL JA357 operates Delta Coal Mine in NSW. DELTA COAL JA357 produces Coal which falls under Cable. Delta Coal Mine uses Cable for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves DELTA COAL JA357. Sales Contact Jennmar Australia represents DELTA COAL JA357.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+DELTA COAL JA357 operates Delta Coal Mine in NSW. DELTA COAL JA357 produces Coal which falls under Cable. Delta Coal Mine uses Cable for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves DELTA COAL JA357. Sales Contact Jennmar Australia represents DELTA COAL JA357.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+DELTA COAL JA357 operates Delta Coal Mine in NSW. DELTA COAL JA357 produces Coal which falls under Cable. Delta Coal Mine uses Cable for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves DELTA COAL JA357. Sales Contact Jennmar Australia represents DELTA COAL JA357.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+DELTA COAL JA357 operates Delta Coal Mine in NSW. The company produces Coal which falls under Cable and Bolt categories. Depot JDO628531HBR serves DELTA COAL JA357. Sales contact JDO633531HBR represents DELTA COAL JA357.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+DELTA COAL JA357 operates Delta Coal Mine in NSW. The company produces Coal which falls under Bolt category. Depot JDO633531HBR serves DELTA COAL JA357. Sales contact JDO633531HBR represents DELTA COAL JA357.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+DELTA COAL JA357 operates Delta Coal Mine in NSW. The company produces Coal which falls under Tiger category. Depot JDOTIGER serves DELTA COAL JA357. Sales contact JDOTIGER represents DELTA COAL JA357.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+DELTA COAL JA357 operates Delta Coal Mine in NSW. The company produces Coal which falls under Bolt category. Depot JFG2515STH serves DELTA COAL JA357. Sales contact JFG2515STH represents DELTA COAL JA357.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+DELTA COAL JA357 operates Delta Coal Mine in NSW. The company produces Coal which falls under Plate category. Depot JK15150538RL serves DELTA COAL JA357. Sales contact JK15150538RL represents DELTA COAL JA357.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+DELTA COAL JA357 operates Delta Coal Mine in NSW. The company produces Coal which falls under Plate category. Depot JK15150538RW serves DELTA COAL JA357. Sales contact JK15150538RW represents DELTA COAL JA357.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+DELTA COAL JA357 operates Delta Coal Mine in NSW. The company produces Coal which falls under Plate category. Depot JK20200538H1RW serves DELTA COAL JA357. Sales contact JK20200538H1RW represents DELTA COAL JA357.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+DELTA COAL JA357 operates Delta Coal Mine in NSW. The company produces Coal which falls under Cable category. Depot JL5PG100036MR serves DELTA COAL JA357. Sales contact JL5PG100036MR represents DELTA COAL JA357.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+DELTA COAL JA357 operates Delta Coal Mine in NSW. The company produces Coal which falls under Cable category. Depot JL5S65025F serves DELTA COAL JA357. Sales contact JL5S65025F represents DELTA COAL JA357.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+DELTA COAL JA357 operates Delta Coal Mine in NSW. The company produces Coal which falls under Cable category. Depot JLS44025S serves DELTA COAL JA357. Sales contact JLS44025S represents DELTA COAL JA357.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+DELTA COAL JA357 operates Delta Coal Mine in NSW. The company produces Coal which falls under Mesh category. Depot JPMM2114 serves DELTA COAL JA357. Sales contact JPMM2114 represents DELTA COAL JA357.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+DELTA COAL JA357 operates Delta Coal Mine in NSW. The company produces Coal which falls under Plate category. Depot JV20201242C serves DELTA COAL JA357. Sales contact JV20201242C represents DELTA COAL JA357.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+DELTA COAL JA357 operates Delta Coal Mine in NSW. The company produces Coal which falls under Cable category. Depot JX2421BPS serves DELTA COAL JA357. Sales contact JX2421BPS represents DELTA COAL JA357.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+DELTA COAL JA357 operates Delta Coal Mine in NSW. The company produces Coal which falls under Lanyard category. Depot LANYARDSC serves DELTA COAL JA357. Sales contact LANYARDSC represents DELTA COAL JA357.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+DELTA COAL JA357 operates Delta Coal Mine in NSW. The company produces Coal which falls under Nut category. Depot NUTRM24H125DM serves DELTA COAL JA357. Sales contact NUTRM24H125DM represents DELTA COAL JA357.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+DELTA COAL JA357 operates Delta Coal Mine in NSW. The company produces Coal which falls under Opdnw category. Depot OPDNW4500 serves DELTA COAL JA357. Sales contact OPDNW4500 represents DELTA COAL JA357.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+DELTA COAL JA357 operates Delta Coal Mine in NSW. The company produces Coal which falls under Mesh category. Depot SMMB5016101004 serves DELTA COAL JA357. Sales contact SMMB5016101004 represents DELTA COAL JA357.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+DELTA COAL JA357 operates Delta Coal Mine in NSW. The company produces Coal which falls under Resin Anchor category. Depot STSZ12002555 serves DELTA COAL JA357. Sales contact STSZ12002555 represents DELTA COAL JA357.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+DELTA COAL JA357 operates Delta Coal Mine in NSW. The company produces Coal which falls under Top Down Cable category. Depot TD80GROUT serves DELTA COAL JA357. Sales contact TD80GROUT represents DELTA COAL JA357.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+DELTA COAL JA357 operates Delta Coal Mine in NSW. The company produces Coal which falls under Stainless Steel Load category. Depot TJDA62S serves DELTA COAL JA357. Sales contact TJDA62S represents DELTA COAL JA357.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+LONGWALL BOLT-UPS ACROSS ALL MINES operates Moolarben Mine in NSW. It produces Coal which falls under Cable. The company uses JBS2418BP3 for mining Coal. Depots serve LONGWALL BOLT-UPS ACROSS ALL MINES. Sales contact represents LONGWALL BOLT-UPS ACROSS ALL MINES. Forecasted demand for JBS2418BP3 is 1,000 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+LONGWALL BOLT-UPS ACROSS ALL MINES operates Moolarben Mine in NSW. It produces Coal which falls under Cable. The company uses JBS2421BP3 for mining Coal. Depots serve LONGWALL BOLT-UPS ACROSS ALL MINES. Sales contact represents LONGWALL BOLT-UPS ACROSS ALL MINES. Forecasted demand for JBS2421BP3 is 1,000 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+MOOLARBEN COAL OPERATIONS P/L operates Moolarben Mine in NSW. It produces Coal which falls under Cable. Forecasted demand for BU100GROUT is 0 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+MOOLARBEN COAL OPERATIONS P/L operates Moolarben Mine in NSW. It produces Coal. Forecasted demand for BW218MMD is 500 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+MOOLARBEN COAL OPERATIONS P/L operates Moolarben Mine in NSW. It produces Coal. Forecasted demand for FRASP0702 is 10 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+MOOLARBEN COAL OPERATIONS P/L operates Moolarben Mine in NSW. It produces Coal. Forecasted demand for GROUTGUN16 is 0 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+MOOLARBEN COAL OPERATIONS P/L operates Moolarben Mine in NSW. It produces Coal which falls under Plate. Forecasted demand for HIPP230R is 2,000 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+MOOLARBEN COAL OPERATIONS P/L operates Moolarben Mine in NSW. It produces Coal. Forecasted demand for JBS2412BPR is 5,500 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+MOOLARBEN COAL OPERATIONS P/L operates Moolarben Mine in NSW. It produces Coal. Forecasted demand for JBS2412BPRG is 0 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+MOOLARBEN COAL OPERATIONS P/L operates Moolarben Mine in NSW. It produces Coal. Forecasted demand for JBX2418BPS is 16,000 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+MOOLARBEN COAL OPERATIONS P/L operates Moolarben Mine in NSW. It produces Coal. Forecasted demand for JBX2418BPSG is 0 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+MOOLARBEN COAL OPERATIONS P/L operates Moolarben Mine in NSW. It produces Coal. Forecasted demand for JBX2427BPS is 0 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+MOOLARBEN COAL OPERATIONS P/L operates Moolarben Mine in NSW. It produces Coal which falls under Cable. Forecasted demand for JCB22041 is 200 units from July 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+MOOLARBEN COAL OPERATIONS P/L operates Moolarben Mine in NSW. It produces Coal which falls under Cable. Forecasted demand for JCB22061 is 500 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+MOOLARBEN COAL OPERATIONS P/L operates Moolarben Mine in NSW. It produces Coal which falls under Cable. Forecasted demand for JCB2208 is 0 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+MOOLARBEN COAL OPERATIONS P/L operates Moolarben Mine in NSW. It produces Coal. Forecasted demand for JDO622528TWH is 0 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+MOOLARBEN COAL OPERATIONS P/L operates Moolarben Mine in NSW. It produces Coal which falls under Bolt. Forecasted demand for JFG221150BSTH is 3,500 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+MOOLARBEN COAL OPERATIONS P/L operates Moolarben Mine in NSW. It produces Coal. Forecasted demand for JG5D88025SFS55 is 27,000 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+MOOLARBEN COAL OPERATIONS P/L operates Moolarben Mine in NSW. It produces Coal which falls under Plate. Forecasted demand for JK15150638RW is 21,560 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+MOOLARBEN COAL OPERATIONS P/L operates Moolarben Mine in NSW. It produces Coal which falls under Cable. Forecasted demand for JL5PG80036MR is 0 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+MOOLARBEN COAL OPERATIONS P/L operates Moolarben Mine in NSW. They produce Coal which falls under Cable and use J-LOK 5 STAR TENDON CABLE. Forecasted demand for J-LOK 5 STAR TENDON CABLE is 1,000 units in June 2025, decreasing to 500 units in July and August 2025, then increasing back to 1,000 units in October 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+MOOLARBEN COAL OPERATIONS P/L operates Moolarben Mine in NSW. They produce Coal which falls under Plate and use PIZZA PAN PLATE 450MM x 450MM. No production forecasted for this product from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+MOOLARBEN COAL OPERATIONS P/L operates Moolarben Mine in NSW. They produce Coal which falls under Cable and use Jennchem Underground Road. Forecasted demand for Jennchem Underground Road is 35,000 units in June 2025, decreasing to 15,000 units in July and August 2025, then increasing back to 35,000 units in October 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+MOOLARBEN COAL OPERATIONS P/L operates Moolarben Mine in NSW. They produce Coal which falls under Plate and use VOLCANO PLATE 200X200X12M. Forecasted demand for VOLCANO PLATE 200X200X12M is 600 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+MOOLARBEN COAL OPERATIONS P/L operates Moolarben Mine in NSW. They produce Coal which falls under Plate and use BUTTERFLY PLATE 280X300X1. Forecasted demand for BUTTERFLY PLATE 280X300X1 is 9,600 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+MOOLARBEN COAL OPERATIONS P/L operates Moolarben Mine in NSW. They produce Coal which falls under Mesh and use MESH ROOF 5.10MX1.35M 150. Forecasted demand for MESH ROOF 5.10MX1.35M 150 is 2,376 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+MOOLARBEN COAL OPERATIONS P/L operates Moolarben Mine in NSW. They produce Coal which falls under Mesh and use MESH RIB 2.20MX1.40M 100X. Forecasted demand for MESH RIB 2.20MX1.40M 100X is 1,000 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+MOOLARBEN COAL OPERATIONS P/L operates Moolarben Mine in NSW. They produce Coal which falls under Cable and use Top Down 80MPA Cable Grou. No production forecasted for this product from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+MOOLARBEN COAL OPERATIONS P/L operates Moolarben Mine in NSW. They produce Coal which falls under Cable and use GROUT TUBE 16MM DIA X 300. No production forecasted for this product from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+NARRABRI COAL OPERATIONS P/L J operates Narrabri Mine in NSW. They produce Coal which falls under Mesh and use Mesh Rib 2M x 1.5M 100 x. Forecasted demand for Mesh Rib 2M x 1.5M 100 x is 6,000 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+NARRABRI COAL OPERATIONS P/L J operates Narrabri Mine in NSW. They produce Coal which falls under Mesh and use Mesh Roof 5m x 1.4m. Forecasted demand for Mesh Roof 5m x 1.4m is 1,188 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+NARRABRI COAL OPERATIONS P/L J operates Narrabri Mine in NSW. They produce Coal which falls under Mesh and use Mesh Rib 2M x 1.5M 100 x. Forecasted demand for Mesh Rib 2M x 1.5M 100 x is 200 units in June 2025, increasing to 400 units in September and October 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+NARRABRI COAL OPERATIONS P/L J operates Narrabri Mine in NSW. They produce Coal which falls under Mesh and use PLASTIC MESH 28.00M X 2.0. No production forecasted for this product from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+NARRABRI COAL OPERATIONS P/L J operates Narrabri Mine in NSW. They produce Coal which falls under Plate and use PLASTIC PLATE 230MM DIA R. Forecasted demand for PLASTIC PLATE 230MM DIA R is 3,000 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+NARRABRI COAL OPERATIONS P/L J operates Narrabri Mine in NSW. They produce Coal which falls under Plate and use 200 x 200mm Squ Plastic p. Forecasted demand for 200 x 200mm Squ Plastic p is 500 units in July and December 2025, and 1,000 units in January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+NARRABRI COAL OPERATIONS P/L J operates Narrabri Mine in NSW. They produce Coal which falls under Bolt and use JBS M24X0.6M 40MM THREADED. Forecasted demand for JBS M24X0.6M 40MM THREADED is 100 units in June and July 2025, increasing to 150 units in September 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+NARRABRI COAL OPERATIONS P/L J operates Narrabri Mine in NSW. They produce Coal which falls under Bolt and use JBS M24X1.1M DOME BALL GR. No production forecasted for this product from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+NARRABRI COAL OPERATIONS P/L J operates Narrabri Mine in NSW. They produce Coal which falls under Bolt and use JBS M24X1.4M DOME BALL GR. Forecasted demand for JBS M24X1.4M DOME BALL GR is 7,000 units from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+NARRABRI COAL OPERATIONS P/L J operates Narrabri Mine in NSW. They produce Coal which falls under Bolt and use Bolt TT M24 x 1.8 JBSDBW. Forecasted demand for Bolt TT M24 x 1.8 JBSDBW is 200 units in June and August 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+NARRABRI COAL OPERATIONS P/L J operates Narrabri Mine in NSW. They produce Coal which falls under Bolt and use Bolt TT M24 x 2.1 JBSDBW. No production forecasted for this product from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+NARRABRI COAL OPERATIONS P/L J operates NARRABRI MINE, NSW. They produce Coal which falls under Bolt. Forecast shows zero demand for JFG221150STH, JFG221450STH, JFG221750STH, JFG2518STH, JFG321800H, JFM2415101004, JL5D88025XFS55, JL5PG120036MR, JTWIM2407TYRS, JURRGROUT1T, JWW280300, JX2421BPS, SMB5016151005S, TD80GROUT, ATBM2403LC from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+NARRABRI COAL OPERATIONS P/L J operates NARRABRI MINE, NSW. They produce Coal which falls under Bolt. Forecast shows 2,000 units of JFG2515STH from June 2025 to December 2025, and 2,000 units from January 2026 to February 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+NARRABRI COAL OPERATIONS P/L J operates NARRABRI MINE, NSW. They produce Coal which falls under Bolt. Forecast shows 28,000 units of JK15150538RW from June 2025 to December 2025, and 28,000 units from January 2026 to February 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+NARRABRI COAL OPERATIONS P/L J operates NARRABRI MINE, NSW. They produce Coal which falls under Bolt. Forecast shows 28,000 units of JL5D100025SFS55 from June 2025 to December 2025, and 28,000 units from January 2026 to February 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+NARRABRI COAL OPERATIONS P/L J operates NARRABRI MINE, NSW. They produce Coal which falls under Bolt. Forecast shows 10,000 units of JL5D88025XFS55 from June 2025 to November 2025, and 8,100 units from December 2025 to February 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+NARRABRI COAL OPERATIONS P/L J operates NARRABRI MINE, NSW. They produce Coal which falls under Cable. Forecast shows 2,268 units of JL5PG120036MR from August 2025 to December 2025, and 2,268 units from January 2026 to February 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+NARRABRI COAL OPERATIONS P/L J operates NARRABRI MINE, NSW. They produce Coal which falls under Bolt. Forecast shows 5 units of JTWIM2407TYRS from June 2025 to October 2025, and 0 units from November 2025 to February 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+NARRABRI COAL OPERATIONS P/L J operates NARRABRI MINE, NSW. They produce Coal which falls under Cable. Forecast shows 15,360 units of JWW280300 from June 2025 to December 2025, and 15,360 units from January 2026 to February 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+NARRABRI COAL OPERATIONS P/L J operates NARRABRI MINE, NSW. They produce Coal which falls under Mesh. Forecast shows 1,584 units of SMB5016151005S from June 2025 to December 2025, and 1,584 units from January 2026 to February 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+NARRABRI COAL OPERATIONS P/L J operates NARRABRI MINE, NSW. They produce Coal which falls under Cable. Forecast shows 1,176 units of TD80GROUT from June 2025 to October 2025, and 1,680 units from November 2025 to February 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SIMEC MINING TAHMOORCOAL P/L operates TAHMOOR MINE, NSW. They produce Coal which falls under Plate category. The company uses unspecified mine type for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SIMEC MINING TAHMOORCOAL P/L. Sales contact JENNMAR represents SIMEC MINING TAHMOORCOAL P/L.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SIMEC MINING TAHMOORCOAL P/L operates TAHMOOR MINE, NSW. They produce Coal which falls under Bolt category. The company uses unspecified mine type for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SIMEC MINING TAHMOORCOAL P/L. Sales contact JENNMAR represents SIMEC MINING TAHMOORCOAL P/L.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SIMEC MINING TAHMOORCOAL P/L operates TAHMOOR MINE, NSW. They produce Coal which falls under Plate category. The company uses unspecified mine type for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SIMEC MINING TAHMOORCOAL P/L. Sales contact JENNMAR represents SIMEC MINING TAHMOORCOAL P/L. HIPSTEELSPP36 PLASTIC PLATE 300MM SQUARE is forecasted to have demand of 1,980 units in July 2025, August 2025, November 2025, December 2025.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SIMEC MINING TAHMOORCOAL P/L operates TAHMOOR MINE, NSW. They produce Coal which falls under Bolt category. The company uses unspecified mine type for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SIMEC MINING TAHMOORCOAL P/L. Sales contact JENNMAR represents SIMEC MINING TAHMOORCOAL P/L. JBS2412BPS M24X1.2M DOME BALL S is forecasted to have demand of 500 units in July 2025, August 2025, November 2025, December 2025.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SIMEC MINING TAHMOORCOAL P/L operates TAHMOOR MINE, NSW. They produce Coal which falls under Bolt category. The company uses unspecified mine type for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SIMEC MINING TAHMOORCOAL P/L. Sales contact JENNMAR represents SIMEC MINING TAHMOORCOAL P/L. JBS2418BTPBTH30 M24X1.8M DOME BALL TE is forecasted to have demand of 850 units in July 2025, August 2025, November 2025, December 2025.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SIMEC MINING TAHMOORCOAL P/L operates TAHMOOR MINE, NSW. They produce Coal which falls under Bolt category. The company uses unspecified mine type for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SIMEC MINING TAHMOORCOAL P/L. Sales contact JENNMAR represents SIMEC MINING TAHMOORCOAL P/L.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SIMEC MINING TAHMOORCOAL P/L operates TAHMOOR MINE, NSW. They produce Coal which falls under Plate category. The company uses unspecified mine type for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SIMEC MINING TAHMOORCOAL P/L. Sales contact JENNMAR represents SIMEC MINING TAHMOORCOAL P/L.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SIMEC MINING TAHMOORCOAL P/L operates TAHMOOR MINE, NSW. They produce Coal which falls under Bolt category. The company uses unspecified mine type for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SIMEC MINING TAHMOORCOAL P/L. Sales contact JENNMAR represents SIMEC MINING TAHMOORCOAL P/L. JFG221200XHTH F/G BOLT 22MMX1200MM XHT is forecasted to have demand of 2,000 units in July 2025, August 2025, November 2025, December 2025.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SIMEC MINING TAHMOORCOAL P/L operates TAHMOOR MINE, NSW. They produce Coal which falls under Bolt category. The company uses unspecified mine type for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SIMEC MINING TAHMOORCOAL P/L. Sales contact JENNMAR represents SIMEC MINING TAHMOORCOAL P/L.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SIMEC MINING TAHMOORCOAL P/L operates TAHMOOR MINE, NSW. They produce Coal which falls under Bolt category. The company uses unspecified mine type for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SIMEC MINING TAHMOORCOAL P/L. Sales contact JENNMAR represents SIMEC MINING TAHMOORCOAL P/L.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SIMEC MINING TAHMOORCOAL P/L operates TAHMOOR MINE, NSW. They produce Coal which falls under Bolt category. The company uses unspecified mine type for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SIMEC MINING TAHMOORCOAL P/L. Sales contact JENNMAR represents SIMEC MINING TAHMOORCOAL P/L.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SIMEC MINING TAHMOORCOAL P/L operates TAHMOOR MINE, NSW. They produce Coal which falls under Mesh category. The company uses unspecified mine type for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SIMEC MINING TAHMOORCOAL P/L. Sales contact JENNMAR represents SIMEC MINING TAHMOORCOAL P/L. JFM1513101006 FIBREGLASS MESH SHEET 1.3 is forecasted to have demand of 1,000 units in July 2025, August 2025, September 2025, November 2025, December 2025, January 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SIMEC MINING TAHMOORCOAL P/L operates TAHMOOR MINE, NSW. They produce Coal which falls under Bolt category. The company uses unspecified mine type for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SIMEC MINING TAHMOORCOAL P/L. Sales contact JENNMAR represents SIMEC MINING TAHMOORCOAL P/L. JSD3412PLSPC3M 3/4X1.2M PADDLE BOLT is forecasted to have demand of 2,000 units in July 2025, August 2025, September 2025, November 2025, December 2025, January 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SIMEC MINING TAHMOORCOAL P/L operates TAHMOOR MINE, NSW. They produce Coal which falls under Bolt category. The company uses unspecified mine type for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SIMEC MINING TAHMOORCOAL P/L. Sales contact JENNMAR represents SIMEC MINING TAHMOORCOAL P/L. JSD3418PLSPC3M 3/4X1.8M PADDLE BOLT is forecasted to have demand of 1,000 units in July 2025, August 2025, September 2025, November 2025, December 2025, January 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SIMEC MINING TAHMOORCOAL P/L operates TAHMOOR MINE, NSW. They produce Coal which falls under Bolt category. The company uses unspecified mine type for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SIMEC MINING TAHMOORCOAL P/L. Sales contact JENNMAR represents SIMEC MINING TAHMOORCOAL P/L. JSS3612P9BN BOOT BOLT 36MM X 1200MM - is forecasted to have demand of 60 units in July 2025, August 2025, September 2025, November 2025, December 2025, January 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SIMEC MINING TAHMOORCOAL P/L operates TAHMOOR MINE, NSW. They produce Coal which falls under Bolt category. The company uses unspecified mine type for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SIMEC MINING TAHMOORCOAL P/L. Sales contact JENNMAR represents SIMEC MINING TAHMOORCOAL P/L. JSS3618P9BN BOOT BOLT 36MM X 1800MM - is forecasted to have demand of 36 units in July 2025, August 2025, September 2025, November 2025, December 2025, January 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SIMEC MINING TAHMOORCOAL P/L operates TAHMOOR MINE, NSW. They produce Coal which falls under Plate category. The company uses unspecified mine type for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SIMEC MINING TAHMOORCOAL P/L. Sales contact JENNMAR represents SIMEC MINING TAHMOORCOAL P/L.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SIMEC MINING TAHMOORCOAL P/L operates TAHMOOR MINE, NSW. They produce Coal which falls under Plate category. The company uses unspecified mine type for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SIMEC MINING TAHMOORCOAL P/L. Sales contact JENNMAR represents SIMEC MINING TAHMOORCOAL P/L. JV15151036G VOLCANO PLATE 150X150X10MM is forecasted to have demand of 500 units in July 2025, August 2025, September 2025, November 2025, December 2025, January 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SIMEC MINING TAHMOORCOAL P/L operates TAHMOOR MINE, NSW. They produce Coal which falls under Plate category. The company uses unspecified mine type for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SIMEC MINING TAHMOORCOAL P/L. Sales contact JENNMAR represents SIMEC MINING TAHMOORCOAL P/L. JV15151036RL VOLCANO PLATE 150X150X10M is forecasted to have demand of 500 units in July 2025, August 2025, September 2025, November 2025, December 2025, January 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SIMEC MINING TAHMOORCOAL P/L operates TAHMOOR MINE, NSW. They produce Coal which falls under Plate category. The company uses unspecified mine type for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SIMEC MINING TAHMOORCOAL P/L. Sales contact JENNMAR represents SIMEC MINING TAHMOORCOAL P/L.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SIMEC MINING TAHMOORCOAL P/L operates TAHMOOR MINE, NSW. They produce Coal which falls under Plate category. The company uses unspecified mine type for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SIMEC MINING TAHMOORCOAL P/L. Sales contact JENNMAR represents SIMEC MINING TAHMOORCOAL P/L. JWW280300 BUTTERFLY PLATE 280X300X1 is forecasted to have demand of 3,390 units in July 2025, August 2025, September 2025, November 2025, December 2025, January 2026.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SIMEC MINING TAHMOORCOAL P/L operates TAHMOOR MINE, NSW. They produce Coal which falls under Plate category. The company uses unspecified mine type for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SIMEC MINING TAHMOORCOAL P/L. Sales contact JENNMAR represents SIMEC MINING TAHMOORCOAL P/L.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SIMEC MINING TAHMOORCOAL P/L operates TAHMOOR MINE, NSW. They produce Coal which falls under Plate category. The company uses unspecified mine type for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SIMEC MINING TAHMOORCOAL P/L. Sales contact JENNMAR represents SIMEC MINING TAHMOORCOAL P/L. JX2418BP3 M24X1.8M DOME BALL GRE is forecasted to have demand of 2,000 units in July 2025, August 2025, September 2025, November 2025, December 2025, January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SIMEC MINING TAHMOORCOAL P/L operates TAHMOOR MINE in NSW. Forecasted production of JX2421BTP3G - JX M24X2.1M DOME BALL TEF is 1,000 units from July 2025 to December 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SIMEC MINING TAHMOORCOAL P/L operates TAHMOOR MINE in NSW. Forecasted production of NUTM36DRIVE - NUT M36 BOOT BOLT DRIVE N is 60 units from July 2025 to December 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SIMEC MINING TAHMOORCOAL P/L operates TAHMOOR MINE in NSW. Forecasted production of TAHPODPLASXFG - POD CUTTABLE 2.1M STEEL is 25 units from July 2025 to December 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SIMEC MINING TAHMOORCOAL P/L operates TAHMOOR MINE in NSW. Forecasted production of TAHPODSTL - POD STEEL 2.1M ROOF 1.5M is 50 units from July 2025 to December 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SIMEC MINING TAHMOORCOAL P/L operates TAHMOOR MINE in NSW. Forecasted production of TD80GROUT - TD 80 20kg Top Down is 2,184 units from July 2025 to December 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SIMEC MINING TAHMOORCOAL P/L operates TAHMOOR MINE in NSW. Forecasted production of TUBE05BRN - BREATHER TUBE 5.0MM DIA X is 2 units from July 2025 to December 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SIMEC MINING TAHMOORCOAL P/L operates TAHMOOR MINE in NSW. Forecasted production of TUBE16GR - GROUT TUBE 16MM DIA X 300 is 3 units from July 2025 to December 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SIMEC MINING TAHMOORCOAL P/L operates TAHMOOR MINE in NSW. Forecasted production of WASHM24DB - WASHER DOME BALL M24 is 300 units from July 2025 to December 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE in NSW. Forecasted production of JV15151036RW - VOLCANO PLATE 150X150X10M is 1,960 units from June 2025 to December 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE in NSW. Forecasted production of JWW280300 - BUTTERFLY PLATE 280X300X1 is 1,800 units from June 2025 to December 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE in NSW. Forecasted production of JX21BTPS39IWH1B - JX M24X2.1M DOME BALL TEF is 45 units from June 2025 to December 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE in NSW. Forecasted production of JX2406TH - Bolt TT M24x0.6m JX is 0 units from June 2025 to December 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE in NSW. Forecasted production of JX2421BTP3G - JX M24X2.1M DOME BALL TEF GAL is 200 units from June 2025 to December 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE in NSW. Forecasted production of STSA12002555 - J-LOK SPIN2STALL 1200MM X is 840 units from June 2025 to December 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE in NSW. Forecasted production of TEXSUMO080P5030 - CABLE PACK (50 P/PACK) 31 is 0 units from June 2025 to December 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE in NSW. Forecasted production of HIPPSTEEL230 - PLASTIC PLATE 230MM DIA R is 0 units from June 2025 to December 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE in NSW. Forecasted production of JBS2412BTP3 - JBS M24X1.2M DOME BALL TE is 200 units from June 2025 to December 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE in NSW. Forecasted production of JBS2415BTP3 - JBS M24X1.5M DOME BALL TE is 6,000 units from June 2025 to December 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE in NSW. Forecasted production of JBS2418BTP3 - JBS M24X1.8M DOME BALL TE is 500 units from June 2025 to December 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE, NSW. SOUTH32 produces Coal which falls under Bolt. SOUTH32 uses Cable for mining Coal. JBS2418BTP3G serves APPIN MINE, NSW. Sales Contact S32 represents SOUTH32. Forecasted demand for JBS2418BTP3G in June 2025 is 500 units.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE, NSW. SOUTH32 produces Coal which falls under Bolt. SOUTH32 uses Cable for mining Coal. JBS2418BTP3TH30 serves APPIN MINE, NSW. Sales Contact S32 represents SOUTH32. Forecasted demand for JBS2418BTP3TH30 in June 2025 is 500 units.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE, NSW. SOUTH32 produces Coal which falls under Bolt. SOUTH32 uses Cable for mining Coal. JBS2421BTP3 does not produce any units in the forecast period.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE, NSW. SOUTH32 produces Coal which falls under Bolt. SOUTH32 uses Cable for mining Coal. JCB1508TS3 does not produce any units in the forecast period.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE, NSW. SOUTH32 produces Coal which falls under Cable. SOUTH32 uses Cable for mining Coal. JCT1511TS3 does not produce any units in the forecast period.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE, NSW. SOUTH32 produces Coal which falls under Bolt. SOUTH32 uses Cable for mining Coal. JCB2206B430DBBW produces 1,400 units of Superstrand 6M Sheathed from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE, NSW. SOUTH32 produces Coal which falls under Bolt. SOUTH32 uses Cable for mining Coal. JCB2206B430BW produces 200 units of Superstrand 6M Bulbed in June 2025 and 200 units in October 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE, NSW. SOUTH32 produces Coal which falls under Bolt. SOUTH32 uses Cable for mining Coal. JCB2208B430DBBW produces 300 units of Superstrand 8M Sheathed in June 2025 and 300 units in August 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE, NSW. SOUTH32 produces Coal which falls under Bolt. SOUTH32 uses Cable for mining Coal. JCB2206 does not produce any units in the forecast period.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE, NSW. SOUTH32 produces Coal which falls under Bolt. SOUTH32 uses Cable for mining Coal. JDO650055TWH produces 10 units in June 2025, 5 units in July 2025, 10 units in August 2025, 5 units in September 2025, 10 units in October 2025, 5 units in November 2025, 10 units in December 2025, and 5 units in January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE, NSW. SOUTH32 produces Coal which falls under Plate. SOUTH32 uses Cable for mining Coal. JF10102560 produces 75 units in July 2025, 75 units in September 2025, and 75 units in November 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE, NSW. SOUTH32 produces Coal which falls under Bolt. SOUTH32 uses Cable for mining Coal. JFG221500XHTH does not produce any units in the forecast period.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE, NSW. SOUTH32 produces Coal which falls under Bolt. SOUTH32 uses Cable for mining Coal. JFG221800XHTH does not produce any units in the forecast period.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE, NSW. SOUTH32 produces Coal which falls under Bolt. SOUTH32 uses Cable for mining Coal. JFG321500H produces 3,000 units of F/G Bolt 32mm x 1500mm from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE, NSW. SOUTH32 produces Coal which falls under Bolt. SOUTH32 uses Cable for mining Coal. JFG321800H produces 1,000 units of F/G Bolt 32mm x 1800mm from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE, NSW. SOUTH32 produces Coal which falls under Bolt. SOUTH32 uses Cable for mining Coal. JFG32GROUTCON does not produce any units in the forecast period.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE, NSW. SOUTH32 produces Coal which falls under Bolt. SOUTH32 uses Cable for mining Coal. JFL3318G produces 300 units of Friction Lok 33 x 1800mm in July 2025, September 2025, and November 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE, NSW. SOUTH32 produces Coal which falls under Mesh. SOUTH32 uses Cable for mining Coal. JFM1712101004 produces 600 units of Fiberglass Mesh Sheet 1.7 from June 2025 to January 2026.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE, NSW. SOUTH32 produces Coal which falls under Plate. SOUTH32 uses Cable for mining Coal. JK20200538H1RW produces 4,000 units in June 2025, 8,000 units in July 2025, August 2025, September 2025, and November 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE, NSW. SOUTH32 produces Coal which falls under Bolt. SOUTH32 uses Cable for mining Coal. JL5D88025XFS55 does not produce any units in the forecast period.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE in NSW. They produce Coal which falls under Cable. SOUTH32 uses PG12 for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact S32 Sales Rep represents SOUTH32. Forecasted demand for J-LOK 5* PG Cable 800X36M (product_code: JL5PG80036MR) is 840 units in August 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE in NSW. They produce Coal which falls under Cable. SOUTH32 uses PG12 for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact S32 Sales Rep represents SOUTH32. Forecasted demand for J-LOK Dual 1200X25mm Extr (product_code: JLD120025XFS55) is 840 units in June 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE in NSW. They produce Coal which falls under Cable. SOUTH32 uses PG12 for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact S32 Sales Rep represents SOUTH32. Forecasted demand for J-LOK Dual 1200X32mm Medium Slow (product_code: JLLD120032MS55) is 4,000 units in June 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE in NSW. They produce Coal which falls under Bolt. SOUTH32 uses PG12 for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact S32 Sales Rep represents SOUTH32. Forecasted demand for Boot Bolt 36mm x 1800mm (product_code: JSS3618P9BN) is 48 units in June 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE in NSW. They produce Coal which falls under Plate. SOUTH32 uses PG12 for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact S32 Sales Rep represents SOUTH32. Forecasted demand for Volcano Plate 150x150x10mm (product_code: JV15151036G) is 0 units in June 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE in NSW. They produce Coal which falls under Plate. SOUTH32 uses PG12 for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact S32 Sales Rep represents SOUTH32. Forecasted demand for Volcano Plate 150x150x10m (product_code: JV15151036RW) is 8,000 units in June 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE in NSW. They produce Coal which falls under Plate. SOUTH32 uses PG12 for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact S32 Sales Rep represents SOUTH32. Forecasted demand for Volcano Plate 12mm G450 (product_code: JV20201242C) is 0 units in June 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE in NSW. They produce Coal which falls under Plate. SOUTH32 uses PG12 for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact S32 Sales Rep represents SOUTH32. Forecasted demand for Volcano Plate 12mm G450 (product_code: JV30301242C) is 2,000 units in June 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE in NSW. They produce Coal which falls under Plate. SOUTH32 uses PG12 for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact S32 Sales Rep represents SOUTH32. Forecasted demand for Butterfly Plate 280x300x1 (product_code: JWW280300) is 5,000 units in June 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE in NSW. They produce Coal which falls under Plate. SOUTH32 uses PG12 for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact S32 Sales Rep represents SOUTH32. Forecasted demand for Butterfly Plate 280x300x1 Gal (product_code: JWW280300G) is 500 units in June 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE in NSW. They produce Coal which falls under Plate. SOUTH32 uses PG12 for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact S32 Sales Rep represents SOUTH32. Forecasted demand for JX M24x2.1m Dome Ball Tef (product_code: JX21BTPS39IWH1B) is 225 units in June 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE in NSW. They produce Coal which falls under Plate. SOUTH32 uses PG12 for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact S32 Sales Rep represents SOUTH32. Forecasted demand for JX M24x2.1m Dome Ball Tef (product_code: JX2421BTP3) is 500 units in July 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE in NSW. They produce Coal which falls under Plate. SOUTH32 uses PG12 for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact S32 Sales Rep represents SOUTH32. Forecasted demand for JX M24x2.1m Dome Ball Tef Gal (product_code: JX2421BTP3G) is 100 units in June 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE in NSW. They produce Coal which falls under Bolt. SOUTH32 uses PG12 for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact S32 Sales Rep represents SOUTH32. Forecasted demand for Nut M36 Boot Bolt Drive N (product_code: NUTM36DRIVE) is 15 units in July 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE in NSW. They produce Coal which falls under Cable. SOUTH32 uses PG12 for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact S32 Sales Rep represents SOUTH32. Forecasted demand for J-lok Spin2Stall 1200mm x (product_code: STSA12002555) is 22,680 units in June 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE in NSW. They produce Coal which falls under Cable. SOUTH32 uses PG12 for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact S32 Sales Rep represents SOUTH32. Forecasted demand for JFG3230hnh2 & Hipsteelspp (product_code: BOXJFG323SPP100) is 0 units in June 2025.
+
+[Source: Mine_Forecast.xlsx | Record type: forecast_record]
+SOUTH32 operates APPIN MINE in NSW. They produce Coal which falls under Cable. SOUTH32 uses PG12 for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales Contact S32 Sales Rep represents SOUTH32. Forecasted demand for JFG324000th & Hipsteelspp (product_code: BOXJFG324SPP100) is 0 units in June 2025.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Mesh. The mine uses Mesh for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Mesh. The mine uses Mesh for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Mesh. The mine uses Mesh for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Mesh. The mine uses Mesh for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Mesh. The mine uses Mesh for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Mesh. The mine uses Mesh for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Plate. The mine uses Plate for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Bolt. The mine uses Bolt for mining Coal. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact S32 Sales Rep represents SOUTH32.
+
+[Source: Mine_Forecast.xlsx | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE,
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Cable. They use Coal mine type for mining Cable. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact JENNMAR represents SOUTH32. For Cable, SUM70D102P5030 is forecasted at 2.0 units each month from June 2025 to December 2025, then 2.0 units in January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Cable. They use Coal mine type for mining Cable. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact JENNMAR represents SOUTH32. For Cable, TEXSUMO080P5030 is forecasted at 22.0 units each month from June 2025 to December 2025, then 22.0 units in January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SOUTH32 operates DENDROBIUM MINE, NSW. They produce Coal which falls under Cable. They use Coal mine type for mining Cable. Depot NEWCASTLE WAREHOUSE, NSW serves SOUTH32. Sales contact JENNMAR represents SOUTH32. For Cable, TEXSUMO100P5030 is forecasted at 10.0 units in June 2025, 6.0 units in August 2025, 10.0 units in October 2025, 6.0 units in December 2025, then 6.0 units in January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SPRINGVALE COAL operates SPRINGVALE MINE, NSW. They produce Coal. For Cable, BW152MM is forecasted at 500.0 units each month from June 2025 to September 2025, then 500.0 units in December 2025, and 0.0 units in July 2025, October 2025, and January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SPRINGVALE COAL operates SPRINGVALE MINE, NSW. They produce Coal. For GROUT GUN, GROUTGUN20 is forecasted at 2.0 units each month from June 2025 to December 2025, then 2.0 units in January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SPRINGVALE COAL operates SPRINGVALE MINE, NSW. They produce Coal. For HIPSTEELSPP, HIPSTEELSPP is forecasted at 2,000.0 units each month from June 2025 to December 2025, then 2,000.0 units in January 2026.
+
+[Source: Mine_Forecast.xlsx_Forecast_Data.csv | Type: forecast_record]
+SPRINGVALE COAL operates SPRINGVALE MINE, NSW. They produce Coal which falls under Bolt. For Cable, JCB1508TS3 is forecasted at 0.0 units each month from June 2025 to November 2025, then 250.0 units in December 2025 and January 2026.

@@ -1,0 +1,64 @@
+Convert these database records into readable narrative paragraphs optimized for Knowledge Graph extraction and semantic search.
+
+LOOKUP VALUES (use these to replace IDs with names):
+{lookups}
+
+RECORDS TO TRANSFORM:
+{records}
+
+=== ENTITY NAMING RULES (CRITICAL FOR KNOWLEDGE GRAPH) ===
+Use these EXACT formats for entity names to ensure consistency:
+
+COMPANIES/CUSTOMERS:
+- Use UPPERCASE for company names: "SOUTH32", "BHP", "GLENCORE", "JENNMAR"
+- Include legal suffix if known: "SOUTH32 LIMITED", "BHP BILLITON"
+- Mining operations: "CENTENNIAL MYUNA", "SPRINGVALE COAL", "ASHTON COAL OPERATIONS"
+
+PRODUCTS:
+- Use product code followed by description: "R500L5.60Blk (Rebar 500L 5.6m Black)"
+- Mesh products: "50x50x2400x1200x4mm Industrial Mesh"
+- Keep standard codes: "J-LOK", "TENDON CABLE", "SPLIT SET"
+
+LOCATIONS/SITES:
+- Mine sites: "[Mine Name] Mine" e.g., "Appin Mine", "Dendrobium Mine"
+- Warehouses: "[Location] Warehouse" e.g., "Newcastle Warehouse"
+- Include state: "Newcastle, NSW", "Mackay, QLD"
+
+MACHINES/EQUIPMENT:
+- Use full name: "Schlatter PG12", "Schlatter PG28", "Roll Form Line", "Mesh Trim Line"
+
+DATES:
+- Format: "January 15, 2025" (not 2025-01-15 or 15/01/2025)
+- Periods: "Week 23 of 2025", "Q2 2025", "FY2025"
+
+=== RELATIONSHIP PHRASES ===
+Always use explicit relationship language:
+- Orders: "[Customer] placed order [Order#] for [Product]"
+- Production: "[Machine] produced [Quantity] units of [Product] on [Date]"
+- Shipping: "[Product] was shipped to [Customer] at [Location] on [Date]"
+- Inventory: "[Warehouse] holds [Quantity] units of [Product]"
+- Sales: "[Customer] purchased [Quantity] of [Product] totaling $[Amount]"
+
+=== INSTRUCTIONS ===
+1. Write one clear, detailed paragraph for each record
+2. Replace ALL IDs and codes with their looked-up names
+3. Include ALL relevant information from each record - don't skip fields
+4. Use the EXACT entity naming formats above for consistency
+5. Each paragraph should be self-contained and readable
+6. Make relationships explicit using the phrases above
+7. Include quantities with units: "5,000 units", "2,500 kg", "$45,000 AUD"
+8. Preserve job numbers, order numbers, and reference codes
+9. Group related information logically within each paragraph
+10. **CRITICAL: Keep each paragraph under 500 characters. If a record has many fields, write 2-3 shorter paragraphs instead of one long one.**
+
+=== OUTPUT FORMAT ===
+Write each paragraph on its own line, separated by blank lines. Do not number them or add prefixes.
+Maximum 500 characters per paragraph - split longer content into multiple paragraphs.
+
+Example input:
+- jobnumber: JA001, customer: south32, product: R500L5.60Blk, qty: 5000, date: 2025-01-15, site: appin
+
+Example output:
+SOUTH32 placed order JA001 for R500L5.60Blk (Rebar 500L 5.6m Black) on January 15, 2025. The order quantity was 5,000 units for delivery to Appin Mine.
+
+Now transform the records:

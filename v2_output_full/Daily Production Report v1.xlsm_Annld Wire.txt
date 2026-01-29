@@ -1,0 +1,640 @@
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anlding Line produced 4,000.0 kg of TIE4.0X-Kgools with code Tie4.0X1000Kg on June 3, 2025. Achieved 2,055.0 kg with 57.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anlding Line produced 3,600.0 kg of TIE4.0X-Kgools with code Tie4.0X1000Kg on June 4, 2025. Achieved 0.0 kg with 0.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anlding Line produced 3,600.0 kg of Tie-3.15mm-2.3m with code Tie3.15X2.3mm on June 5, 2025. Achieved 0.0 kg with 0.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anlding Line produced 3,600.0 kg of Tie-3.15mm-2.3m with code Tie3.15X2.3mm on June 6, 2025. Achieved 0.0 kg with 0.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anlding Line produced 3,600.0 kg of Tie-3.15mm-2.3m with code Tie3.15X2.3mm on June 7, 2025. Achieved 0.0 kg with 0.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anlding Line produced 3,600.0 kg of Tie-3.15mm-2.3m with code Tie3.15X2.3mm on June 8, 2025. Achieved 0.0 kg with 0.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anlding Line produced 3,600.0 kg of Tie-3.15mm-2.3m with code Tie3.15X2.3mm on June 9, 2025. Achieved 0.0 kg with 0.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anlding Line produced 3,600.0 kg of Tie-3.15mm-2.3m with code Tie3.15X2.3mm on June 10, 2025. Achieved 0.0 kg with 0.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anlding Line produced 3,600.0 kg of Tie-3.15mm-2.3m with code Tie3.15X2.3mm on June 11, 2025. Achieved 0.0 kg with 0.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anlding Line produced 3,600.0 kg of Tie-3.15mm-2.3m with code Tie3.15X2.3mm on June 12, 2025. Achieved 0.0 kg with 0.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anlding Line produced 3,600.0 kg of Tie-3.15mm-2.3m with code Tie3.15X2.3mm on June 13, 2025. Achieved 0.0 kg with 0.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anlding Line produced 3,600.0 kg of Tie-3.15mm-2.3m with code Tie3.15X2.3mm on June 14, 2025. Achieved 0.0 kg with 0.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anlding Line produced 3,600.0 kg of Tie-3.15mm-2.3m with code Tie3.15X2.3mm on June 15, 2025. Achieved 0.0 kg with 0.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anlding Line produced 3,600.0 kg of Tie-3.15mm-2.3m with code Tie3.15X2.3mm on June 16, 2025. Achieved 0.0 kg with 0.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anlding Line produced 3,600.0 kg of Tie-3.15mm-2.3m with code Tie3.15X2.3mm on June 17, 2025. Achieved 0.0 kg with 0.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anlding Line produced 3,600.0 kg of Tie-3.15mm-2.3m with code Tie3.15X2.3mm on June 18, 2025. Achieved 0.0 kg with 0.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anlding Line produced 3,600.0 kg of Tie-3.15mm-2.3m with code Tie3.15X2.3mm on June 19, 2025. Achieved 0.0 kg with 0.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anlding Line produced 3,600.0 kg of Tie-3.15mm-2.3m with code Tie3.15X2.3mm on June 20, 2025. Achieved 0.0 kg with 0.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anlding Line produced 3,600.0 kg of Tie-3.15mm-2.3m with code Tie3.15X2.3mm on June 21, 2025. Achieved 0.0 kg with 0.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anlding Line produced 3,600.0 kg of Tie-3.15mm-2.3m with code Tie3.15X2.3mm on June 22, 2025. Achieved 0.0 kg with 0.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,600.0 kg of Tie-3.15mm-2.3m with code Tie3.15X2.3mm on June 23, 2025. Week 26.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,600.0 kg of Tie-3.15mm-2.3m with code Tie3.15X2.3mm on June 24, 2025. Week 26.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,600.0 kg of Tie-3.15mm-2.3m with code Tie3.15X2.3mm on June 25, 2025. Week 26.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,600.0 kg of Tie-3.15mm-2.3m with code Tie3.15X2.3mm on June 26, 2025. Week 26.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,600.0 kg of Tie-3.15mm-2.3m with code Tie3.15X2.3mm on June 27, 2025. Week 26.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,600.0 kg of Tie-3.15mm-2.3m with code Tie3.15X2.3mm on June 28, 2025. Week 26.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,600.0 kg of Tie-3.15mm-2.3m with code Tie3.15X2.3mm on June 29, 2025. Week 27.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,600.0 kg of Tie-3.15mm-2.3m with code Tie3.15X2.3mm on June 30, 2025. Week 27.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,600.0 kg of Tie-3.15mm-2.3m with code Tie3.15X2.3mm on July 1, 2025. Week 27.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,600.0 kg of Tie-3.15mm-2.3m with code Tie3.15X2.3mm on July 2, 2025. Week 27.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,600.0 kg of Tie-3.15mm-2.3m with code Tie3.15X2.3mm on July 3, 2025. Week 27.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,600.0 kg of Tie-3.15mm-2.3m with code Tie3.15X2.3mm on July 4, 2025. Week 27.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,600.0 kg of Tie-3.15mm-2.3m with code Tie3.15X2.3mm on July 5, 2025. Week 27.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,600.0 kg of Tie-3.15mm-2.3m with code Tie3.15X2.3mm on July 6, 2025. Week 28.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,600.0 kg of Tie-3.15mm-2.3m with code Tie3.15X2.3mm on July 7, 2025. Week 28.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,600.0 kg of Tie-3.15mm-2.3m with code Tie3.15X2.3mm on July 8, 2025. Week 28.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,600.0 kg of Tie-3.15mm-2.3m with code Tie3.15X2.3mm on July 9, 2025. Week 28.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,600.0 kg of Tie-3.15mm-2.3m with code Tie3.15X2.3mm on July 10, 2025. Week 28.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,600.0 kg of Tie-3.15mm-2.3m with code Tie3.15X2.3mm on July 11, 2025. Week 28.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 0.0 kg of kg_sht on July 12, 2025. Week 28 belongs to this production.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 1,000.0 kg of kg_sht on July 12, 2025. Week 28 belongs to this production.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 0.0 kg of kg_sht on July 13, 2025. Week 29 belongs to this production.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 1,000.0 kg of kg_sht on July 13, 2025. Week 29 belongs to this production.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 0.0 kg of kg_sht on July 14, 2025. Week 29 belongs to this production.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 1,000.0 kg of kg_sht on July 14, 2025. Week 29 belongs to this production.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 0.0 kg of kg_sht on July 15, 2025. Week 29 belongs to this production.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 0.0 kg of kg_sht on July 16, 2025. Week 29 belongs to this production.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 0.0 kg of kg_sht on July 17, 2025. Week 29 belongs to this production.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 0.0 kg of kg_sht on July 18, 2025. Week 29 belongs to this production.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 0.0 kg of kg_sht on July 19, 2025. Week 29 belongs to this production.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 0.0 kg of kg_sht on July 20, 2025. Week 30 belongs to this production.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 0.0 kg of kg_sht on July 21, 2025. Week 30 belongs to this production.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 0.0 kg of kg_sht on July 22, 2025. Week 30 belongs to this production.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 0.0 kg of kg_sht on July 23, 2025. Week 30 belongs to this production.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 0.0 kg of kg_sht on July 24, 2025. Week 30 belongs to this production.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 0.0 kg of kg_sht on July 25, 2025. Week 30 belongs to this production.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 0.0 kg of kg_sht on July 26, 2025. Week 30 belongs to this production.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 0.0 kg of kg_sht on July 27, 2025. Week 31 belongs to this production.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 0.0 kg of kg_sht on July 28, 2025. Week 31 belongs to this production.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 29, 2025. Week 31.
+
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 30, 2025. Week 31.
+
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 31, 2025. Week 31.
+
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 1, 2025. Week 31.
+
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 2, 2025. Week 31.
+
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 3, 2025. Week 32.
+
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 4, 2025. Week 32.
+
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 5, 2025. Week 32.
+
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 6, 2025. Week 32.
+
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 7, 2025. Week 32.
+
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 8, 2025. Week 32.
+
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 9, 2025. Week 32.
+
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 10, 2025. Week 33.
+
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 11, 2025. Week 33.
+
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 12, 2025. Week 33.
+
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 13, 2025. Week 33.
+
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 14, 2025. Week 33.
+
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 15, 2025. Week 33.
+
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 16, 2025. Week 33.
+
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 17, 2025. Week 34.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 18, 2025. Week 34.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 19, 2025. Week 34.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 20, 2025. Week 34.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 21, 2025. Week 34.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 22, 2025. Week 34.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 23, 2025. Week 34.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 24, 2025. Week 35.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 25, 2025. Week 35.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 26, 2025. Week 35.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 27, 2025. Week 35.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 28, 2025. Week 35.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 29, 2025. Week 35.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 30, 2025. Week 35.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 31, 2025. Week 36.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 1, 2025. Week 36.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 2, 2025. Week 36.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 3, 2025. Week 36.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 4, 2025. Week 36.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 5, 2025. Week 36.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 6, 2025. Week 36.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 7, 2025. Week 37.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 8, 2025. Week 37.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 9, 2025. Week 37.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 10, 2025. Week 37.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 11, 2025. Week 37.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 12, 2025. Week 37.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 13, 2025. Week 37.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 14, 2025. Week 38.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 15, 2025. Week 38.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 16, 2025. Week 38.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 17, 2025. Week 38.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 18, 2025. Week 38.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 19, 2025. Week 38.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 20, 2025. Week 38.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 21, 2025. Week 39.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 22, 2025. Week 39.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 23, 2025. Week 39.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 24, 2025. Week 39.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 25, 2025. Week 39.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 26, 2025. Week 39.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 27, 2025. Week 39.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 28, 2025. Week 40.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 29, 2025. Week 40.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 30, 2025. Week 40.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 1, 2025. Week 40.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 2, 2025. Week 40.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 3, 2025. Week 40.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 4, 2025. Week 40.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 5, 2025. Week 41.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 6, 2025. Week 41.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 7, 2025. Week 41.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 8, 2025. Week 41.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 9, 2025. Week 41.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 10, 2025. Week 41.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 11, 2025. Week 41.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 12, 2025. Week 42.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 13, 2025. Week 42.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 14, 2025. Week 42.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 15, 2025. Week 42.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 16, 2025. Week 42.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling Line produced 1725.0 units of Tie-3.15mm-2.3m on October 24, 2025. Achieved 1725.0 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling Line produced 1545.0 units of Tie-3.15mm-2.3m on October 27, 2025. Achieved 1545.0 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling Line produced 1825.0 units of Tie-3.15mm-2.3m on October 30, 2025. Achieved 1825.0 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling Line produced 1150.0 units of Tie-3.15mm-2.3m on November 3, 2025. Achieved 1150.0 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling Line produced 1545.0 units of Tie-3.15mm-2.3m on November 4, 2025. Achieved 1545.0 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling Line produced 1541.0 units of Tie-3.15mm-2.3m on November 5, 2025. Achieved 1541.0 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling Line produced 1,535 units on November 6, 2025. Week 45.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling Line produced 1,610 units on November 13, 2025. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling Line produced 2,000 units on November 14, 2025. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling Line produced 2,280 units of Tie-3.15mm-2.3m - Tie 3.15mm 2.3m on November 12, 2025. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling Line produced 1,560 units on November 25, 2025. Week 48.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling Line produced 1,810 units on November 24, 2025. Week 48.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling Line produced 1,535 units on November 6, 2025. Week 45.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling Line produced 1,610 units on November 7, 2025. Week 45.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling Line produced 2,000 units on November 8, 2025. Week 45.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling Line produced 1,535 units on November 9, 2025. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling Line produced 1,535 units on November 10, 2025. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling Line produced 1,535 units on November 11, 2025. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling Line produced 1,535 units on November 12, 2025. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling Line produced 1,535 units on November 13, 2025. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling Line produced 1,535 units on November 14, 2025. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling Line produced 1,535 units on November 15, 2025. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling Line produced 1,535 units on November 16, 2025. Week 47.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling Line produced 1,535 units on November 17, 2025. Week 47.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling Line produced 1,535 units on November 18, 2025. Week 47.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling Line produced 1,535 units on November 19, 2025. Week 47.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling Line produced 1,535 units on November 20, 2025. Week 47.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling Line produced 1,535 units on November 21, 2025. Week 47.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling Line produced 1,535 units on November 22, 2025. Week 47.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling Line produced 1,535 units on November 23, 2025. Week 48.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling Line produced 1,535 units on November 24, 2025. Week 48.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 2,425 units of Tie-3.15mm-2.3m - Tie 3.15mm 2.3m on November 26, 2025. Week 48.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 2,010 units of Tie-3.15mm-2.3m - Tie 3.15mm 2.3m on December 1, 2025. Week 49. Achieved 2,010 units.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 2,104 units of Tie-3.15mm-2.3m - Tie 3.15mm 2.3m on December 8, 2025. Week 50. Achieved 2,104 units.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 2,188 units of Tie-3.15mm-2.3m - Tie 3.15mm 2.3m on December 9, 2025. Week 50. Achieved 2,188 units.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 2,000 units of Tie-3.15mm-2.3m - Tie 3.15mm 2.3m on December 10, 2025. Week 50. Achieved 2,000 units.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 50,000 units of Tie-3.15mm-2.3m - Tie 3.15mm 2.3m on December 15, 2025. Week 51. Job number JA002 was processed for SOUTH32.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling line produced 2,150.0 units on December 16, 2025. Week 51.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling line produced 2,147.0 units on December 17, 2025. Week 51.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling line produced 1,827.0 units on December 18, 2025. Week 51.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling line produced 0.0 units on December 19, 2025. Week 51.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling line produced 0.0 units on December 20, 2025. Week 51.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling line produced 0.0 units on December 21, 2025. Week 52.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling line produced 0.0 units on December 22, 2025. Week 52.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling line produced 2,055.0 units on December 23, 2025. Week 52.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling line produced 2,140.0 units on December 24, 2025. Week 52.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling line produced 0.0 units on December 25, 2025. Week 52.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling line produced 0.0 units on December 26, 2025. Week 52.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling line produced 0.0 units on December 27, 2025. Week 52.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling line produced 0.0 units on December 28, 2025. Week 53.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling line produced 0.0 units on December 29, 2025. Week 53.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling line produced 1,958.0 units on December 30, 2025. Week 53.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling line produced 0.0 units on December 31, 2025. Week 53.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling line produced 0.0 units on January 1, 2026. Week 1.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling line produced 0.0 units on January 2, 2026. Week 1.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling line produced 0.0 units on January 3, 2026. Week 1.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anneling line produced 0.0 units on January 4, 2026. Week 2.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anlding line produced 50,000 units of Tie-3.15mm-2.3m - Tie 3.15mm 2.3m on January 6, 2026. Job number JA002 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anlding line produced 1,711 units of Tie-3.15mm-2.3m - Tie 3.15mm 2.3m on January 8, 2026. Job number JA003 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anlding line produced 2,090 units of Tie-3.15mm-2.3m - Tie 3.15mm 2.3m on January 10, 2026. Job number JA004 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anlding line produced 2,544 units of Tie-3.15mm-2.3m - Tie 3.15mm 2.3m on January 12, 2026. Job number JA005 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anlding line produced 2,840 units of Tie-3.15mm-2.3m - Tie 3.15mm 2.3m on January 13, 2026. Job number JA006 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anlding line produced 3,033 units of Tie-3.15mm-2.3m - Tie 3.15mm 2.3m on January 14, 2026. Job number JA007 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anlding line produced 3,043 units of Tie-3.15mm-2.3m - Tie 3.15mm 2.3m on January 15, 2026. Job number JA008 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anlding line produced 2,985 units of Tie-3.15mm-2.3m - Tie 3.15mm 2.3m on January 16, 2026. Job number JA009 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anlding line produced 2,877 units of Tie-3.15mm-2.3m - Tie 3.15mm 2.3m on January 17, 2026. Job number JA010 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anlding line produced 2,481 units of Tie-3.15mm-2.3m - Tie 3.15mm 2.3m on January 19, 2026. Job number JA011 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anlding line produced 2,544 units of Tie-3.15mm-2.3m - Tie 3.15mm 2.3m on January 20, 2026. Job number JA012 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anlding line produced 2,840 units of Tie-3.15mm-2.3m - Tie 3.15mm 2.3m on January 21, 2026. Job number JA013 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anlding line produced 3,033 units of Tie-3.15mm-2.3m - Tie 3.15mm 2.3m on January 22, 2026. Job number JA014 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anlding line produced 3,043 units of Tie-3.15mm-2.3m - Tie 3.15mm 2.3m on January 23, 2026. Job number JA015 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+Anlding line produced 2,985 units of Tie-3.15mm-2.3m - Tie 3.15mm 2.3m on January 24, 2026. Job number JA016 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 25, 2026. Job number JA001 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 26, 2026. Job number JA002 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 27, 2026. Job number JA003 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 28, 2026. Job number JA004 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 29, 2026. Job number JA005 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 30, 2026. Job number JA006 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 31, 2026. Job number JA007 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 1, 2026. Job number JA008 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Annld Wire.csv | Type: production_record]
+ANNEALING LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 2, 2026. Job number JA009 was processed for SOUTH32 with 98.5% yield rate.

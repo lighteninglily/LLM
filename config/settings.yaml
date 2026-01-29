@@ -1,0 +1,38 @@
+# RAGFlow Automation Toolkit - Configuration
+# Hardware profile (switch when 5090 arrives)
+hardware_profile: "5080"  # Options: "5080", "5090"
+
+# LLM Settings
+llm:
+  # For analysis (quality matters most)
+  analysis:
+    provider: "vllm"  # or "ollama"
+    model: "Qwen/Qwen2.5-7B-Instruct-AWQ"
+    endpoint: "http://localhost:8000/v1"
+  
+  # For transformation (speed matters)
+  transform:
+    provider: "vllm"
+    model: "Qwen/Qwen2.5-7B-Instruct-AWQ"
+    endpoint: "http://localhost:8000/v1"
+    batch_size: 20  # Records per LLM call
+    parallel_calls: 2  # Concurrent LLM requests
+
+# RAGFlow Settings
+ragflow:
+  endpoint: "http://localhost:9380"
+  api_key: "ragflow-6uMjbYJWA95gN9sINHsc0J4SwkF8_yf2jIv3Couoa50"
+  embedding_model: "nomic-embed-text@Ollama"
+  chunk_token_num: 512
+
+# KG Optimization Settings (Critical!)
+kg:
+  max_records_per_file: 500    # Split files exceeding this (prevents huge chunk counts)
+  max_chunks_per_kb: 5000      # Warn if KB exceeds this
+  time_per_chunk_minutes: 1.5  # For time estimation
+  warn_time_hours: 4           # Warn if estimated time exceeds this
+
+# Processing Settings  
+processing:
+  skip_transform_if_narrative: true  # Skip transform for already-readable text
+  exclude_lookup_from_kg: true       # Lookup tables don't need KG processing

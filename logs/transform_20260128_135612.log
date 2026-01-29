@@ -1,0 +1,68 @@
+2026-01-28 13:56:12,467 [INFO] Read 16 records from Daily Production Report v1.xlsm_Clifford CLW12.csv
+2026-01-28 13:56:12,467 [INFO]   Normalized entity names for 16 records
+2026-01-28 13:56:12,467 [INFO]   Analyzing file schema...
+2026-01-28 13:56:14,591 [INFO]   File analysis: production_report - 7 entities
+2026-01-28 13:56:14,591 [INFO] Transforming Daily Production Report v1.xlsm_Clifford CLW12.csv: 16 records in 1 batches
+2026-01-28 13:56:26,854 [INFO]   Wrote 16 paragraphs to Daily Production Report v1.xlsm_Clifford CLW12.txt
+2026-01-28 13:56:26,860 [INFO] Read 896 records from ASW - Ross - Open POs.csv
+2026-01-28 13:56:26,870 [INFO]   Normalized entity names for 896 records
+2026-01-28 13:56:26,870 [INFO]   Analyzing file schema...
+2026-01-28 13:56:28,862 [INFO]   File analysis: purchase_order - 4 entities
+2026-01-28 13:56:28,862 [INFO] Transforming ASW - Ross - Open POs.csv: 896 records in 45 batches
+2026-01-28 14:07:04,056 [INFO]   Splitting into 2 files (max 500 records each)
+2026-01-28 14:07:04,056 [INFO]   Wrote 500 paragraphs to ASW - Ross - Open POs_001.txt
+2026-01-28 14:07:04,056 [INFO]   Wrote 398 paragraphs to ASW - Ross - Open POs_002.txt
+2026-01-28 14:07:04,060 [INFO] Read 303 records from Daily Production Report v1.xlsm_Clifford CLW12-2.csv
+2026-01-28 14:07:04,064 [INFO]   Normalized entity names for 303 records
+2026-01-28 14:07:04,064 [INFO]   Analyzing file schema...
+2026-01-28 14:07:06,158 [INFO]   File analysis: production_report - 5 entities
+2026-01-28 14:07:06,158 [INFO] Transforming Daily Production Report v1.xlsm_Clifford CLW12-2.csv: 303 records in 16 batches
+2026-01-28 14:10:16,319 [INFO]   Wrote 286 paragraphs to Daily Production Report v1.xlsm_Clifford CLW12-2.txt
+2026-01-28 14:10:16,322 [INFO] Read 249 records from Daily Production Report v1.xlsm_Annld Wire.csv
+2026-01-28 14:10:16,322 [INFO]   Normalized entity names for 249 records
+2026-01-28 14:10:16,323 [INFO]   Analyzing file schema...
+2026-01-28 14:10:18,348 [INFO]   File analysis: production_report - 5 entities
+2026-01-28 14:10:18,348 [INFO] Transforming Daily Production Report v1.xlsm_Annld Wire.csv: 249 records in 13 batches
+2026-01-28 14:12:22,772 [INFO]   Wrote 220 paragraphs to Daily Production Report v1.xlsm_Annld Wire.txt
+2026-01-28 14:12:22,774 [INFO] Read 68 records from Daily Production Report v1.xlsm_Ausro.csv
+2026-01-28 14:12:22,774 [INFO]   Normalized entity names for 68 records
+2026-01-28 14:12:22,774 [INFO]   Analyzing file schema...
+2026-01-28 14:12:25,815 [INFO]   File analysis: production_report - 4 entities
+2026-01-28 14:12:25,815 [INFO] Transforming Daily Production Report v1.xlsm_Ausro.csv: 68 records in 4 batches
+2026-01-28 14:14:02,306 [INFO]   Wrote 134 paragraphs to Daily Production Report v1.xlsm_Ausro.txt
+2026-01-28 14:14:02,310 [INFO] Read 246 records from ASW - DW - Open Sales Orders.csv
+2026-01-28 14:14:02,315 [INFO]   Normalized entity names for 246 records
+2026-01-28 14:14:02,315 [INFO]   Analyzing file schema...
+2026-01-28 14:14:04,540 [INFO]   File analysis: sales_order - 4 entities
+2026-01-28 14:14:04,540 [INFO] Transforming ASW - DW - Open Sales Orders.csv: 246 records in 13 batches
+2026-01-28 14:18:13,736 [INFO]   Wrote 288 paragraphs to ASW - DW - Open Sales Orders.txt
+2026-01-28 14:18:13,736 [WARNING] File not found: Daily Production Report v1.xlsm_Drawing GZ2.csv
+2026-01-28 14:18:13,736 [WARNING] File not found: Daily Production Report v1.xlsm_FLOK Weld.csv
+2026-01-28 14:18:13,736 [WARNING] File not found: Daily Production Report v1.xlsm_Galv Line 3.csv
+2026-01-28 14:18:13,736 [WARNING] File not found: Daily Production Report v1.xlsm_Galv Line 2.csv
+2026-01-28 14:18:13,736 [WARNING] File not found: Daily Production Report v1.xlsm_Drawing GZ1.csv
+2026-01-28 14:18:13,736 [WARNING] File not found: Daily Production Report v1.xlsm_Drawing GZ3.csv
+2026-01-28 14:18:13,736 [WARNING] File not found: Daily Production Report v1.xlsm_Galv Line 1.csv
+2026-01-28 14:18:13,736 [WARNING] File not found: Daily Production Report v1.xlsm_Clifford MWPA.csv
+2026-01-28 14:18:13,737 [WARNING] File not found: Daily Production Report v1.xlsm_Mesh Trim.csv
+2026-01-28 14:18:13,737 [WARNING] File not found: Daily Production Report v1.xlsm_Clifford MMW.csv
+2026-01-28 14:18:13,737 [WARNING] File not found: Inv Move Feb 25.xls
+2026-01-28 14:18:13,737 [WARNING] File not found: Inv Move July 24.xls
+2026-01-28 14:18:13,737 [WARNING] File not found: Inv Move June 25.xls
+2026-01-28 14:18:13,737 [WARNING] File not found: Daily Production Report v1.xlsm_Roll Form.csv
+2026-01-28 14:18:13,737 [WARNING] File not found: Daily Production Report v1.xlsm_Schlatter PG28.csv
+2026-01-28 14:18:13,737 [WARNING] File not found: Inv Move Apr 25.xls
+2026-01-28 14:18:13,737 [WARNING] File not found: Inv Move Nov 24.xls
+2026-01-28 14:18:13,737 [WARNING] File not found: Inv Move Mar 25.xls
+2026-01-28 14:18:13,737 [WARNING] File not found: Daily Production Report v1.xlsm_Schlatter PG12.csv
+2026-01-28 14:18:13,737 [WARNING] File not found: Inv Move Aug 24.xls
+2026-01-28 14:18:13,737 [WARNING] File not found: Mine_Forecast.xlsx_Forecast_Data.csv
+2026-01-28 14:18:13,737 [WARNING] File not found: Production Sheet.xlsm_Production C2.csv
+2026-01-28 14:18:13,737 [WARNING] File not found: Inv Move July24-june25.xls
+2026-01-28 14:18:13,737 [WARNING] File not found: Inv Move May 25.xls
+2026-01-28 14:18:13,737 [WARNING] File not found: Inv Move Sept 24.xls
+2026-01-28 14:18:13,737 [WARNING] File not found: Orders Booking Sheet v2.xlsm_DMW Orders.csv
+2026-01-28 14:18:13,737 [WARNING] File not found: Inv Move Dec 24.xls
+2026-01-28 14:18:13,737 [WARNING] File not found: Inv Move Oct 24.xls
+2026-01-28 14:18:13,737 [WARNING] File not found: Production Sheet.xlsm_Production Pittini.csv
+2026-01-28 14:18:13,737 [WARNING] File not found: Inv Move Jan 25.xls

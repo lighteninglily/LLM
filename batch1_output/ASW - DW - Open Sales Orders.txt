@@ -1,0 +1,439 @@
+4 Steel Supplies placed an order on November 12, 2025, with due date on November 20, 2025. The order includes two items: SMF24120507504G and SMF30240505004G. For SMF24120507504G, they ordered 50 units at a total cost of $1194.5, while for SMF30240505004G, they ordered 50 units at a total cost of $3151.
+
+4 Steel Supplies placed another order on November 12, 2025, with due date on November 20, 2025. This order also includes two items: SMF3H51245050G and T120X100M126060. For SMF3H51245050G, they ordered 180 units at a total cost of $19431, while for T120X100M126060, they ordered 400 units at a total cost of $24920.
+
+Asw Cash placed an order on December 3, 2025, with due date on December 9, 2025. The order includes four items: T120X130M126060, 4ASWMISC, 4FREIGHT, and SMF3H30242525G. For T120X130M126060, they ordered 62 units at a total cost of $5021.38, while for 4ASWMISC, they ordered 1 unit at a total cost of $1500. For 4FREIGHT, they ordered 1 unit at a total cost of $7084, and for SMF3H30242525G, they ordered 50 units at a total cost of $5264.5.
+
+Asw Cash placed another order on December 8, 2025, with due date on December 10, 2025. The order includes two items: SMF3H24122525G and SYARD601110155G. For SMF3H24122525G, they ordered 12 units at a total cost of $396, while for SYARD601110155G, they ordered 8 units at a total cost of $593.2.
+
+Atf Services Pty Ltd placed an order on October 22, 2025, with due date on January 19, 2026. The order includes one item: SMF2516757503G. They ordered 3400 units at a total cost of $56100.
+
+Bits Of Steel Supplies Pty Ltd placed an order on November 4, 2025, with due date on November 6, 2025. The order includes one item: SMF2H241202525G. They ordered 25 units at a total cost of $574.75.
+
+Bluescope Albany placed an order on December 10, 2025, with due date on January 15, 2026. The order includes two items: SL41 and CCP30241010056G. For SL41, they ordered 200 units at a total cost of $13390, while for CCP30241010056G, they ordered 25 units at a total cost of $1780.
+
+Bluescope Distribution placed an order on October 22, 2025, with due date on October 28, 2025. The order includes two items: SMF29110102005G and 4FREIGHT. For SMF29110102005G, they ordered 50 units at a total cost of $1199.5, while for 4FREIGHT, they ordered 1 unit at a total cost of $150.
+
+CivilMart placed an order on December 15, 2025, with due date on January 9, 2026. The order includes one item: CW500L5. They ordered 24 units at a total cost of $33600.
+
+Di Candilio Steel City placed an order on December 8, 2025, with due date on December 9, 2025. The order includes two items: SMF30240505004G and 4FREIGHT. For SMF30240505004G, they ordered 100 units at a total cost of $6302, while for 4FREIGHT, they ordered 1 unit at a total cost of $150.
+
+DSI Underground Australia Pty Ltd placed an order on June 3, 2025, for 900 units of SMF5716101005G, a MESH MINE 5.7mx1.6m 100x100 apt 5mm wire - galvanized product, with a sales price of $102.98 per unit. The order is due on June 4, 2025, and as of July 17, 2025, 895 units have been invoiced, leaving 5 units outstanding.
+
+DSI Underground Australia Pty Ltd ordered 7290 units of SMF5716101005, a MESH MINE 5.7mx1.6m 100x100 apt 5mm wire - black product, priced at $99.46 each. The order is due on June 4, 2025, and as of September 30, 2025, 6240 units have been invoiced, with 1050 units still outstanding.
+
+DSI Underground Australia Pty Ltd ordered 3000 units of SMF2516101031G, a MESH RIB 2.5mx1.60m 100x100 apt 3.15mm wire galvanized product, priced at $16.65 per unit. The order is due on October 16, 2025, and as of July 17, 2025, no units have been despatched or invoiced, leaving 3000 units outstanding.
+
+DSI Underground Australia Pty Ltd ordered 3000 units of SMF2420101003, a 100x100x2400x2000x3.15 Ind Mes IMB3H-44-2420-DCLA product, priced at $17.56 per unit. The order is due on October 29, 2025, and as of September 30, 2025, no units have been despatched or invoiced, leaving 3000 units outstanding.
+
+DSI Underground Australia Pty Ltd ordered 1000 units of JOS4003B, an Ausro Strap 4.0 x 0.3 OSH106H-4003 product, priced at $65.35 per unit. The order is due on November 14, 2025, and as of October 15, 2025, 500 units have been despatched and invoiced, leaving 500 units outstanding.
+
+DSI Underground Australia Pty Ltd ordered 1000 units of JOS5803B, an Ausro Strap 5.8 x 0.3 OSH106H-5803 product, priced at $88.96 per unit. The order is due on December 12, 2025, and as of October 19, 2025, no units have been despatched or invoiced, leaving 1000 units outstanding.
+
+DSI Underground Australia Pty Ltd ordered 3000 units of SMF2516101031G, a MESH RIB 2.5mx1.60m 100x100 apt 3.15mm wire galvanized product, priced at $17.15 per unit. The order is due on February 13, 2026, and as of November 9, 2025, no units have been despatched or invoiced, leaving 3000 units outstanding.
+
+DSI Underground Australia Pty Ltd ordered 3000 units of SMF2218101003G, a RIB MESH 2.2mx1.8m 100x100mm apt & 3.15mm galvanized wire product, priced at $15.36 per unit. The order is due on April 14, 2026, and as of December 9, 2025, no units have been despatched or invoiced, leaving 3000 units outstanding.
+
+DSI Underground Australia Pty Ltd ordered 500 units of CCP45241010056G, a MESH MINE 4.5mx2.4m 100x100 ap img5h-44-4524_jen product, priced at $91.03 per unit. The order is due on December 11, 2025, and as of December 11, 2025, no units have been despatched or invoiced, leaving 500 units outstanding.
+
+DSI Underground Australia Pty Ltd ordered 500 units of CCP45241010056G, a MESH MINE 4.5mx2.4m 100x100 ap img5h-44-4524_jen product, priced at $91.03 per unit. The order is due on December 11, 2025, and as of December 11, 2025, no units have been despatched or invoiced, leaving 500 units outstanding.
+
+DSI Underground Australia Pty Ltd ordered 500 units of CCP45241010056G, a MESH MINE 4.5mx2.4m 100x100 ap img5h-44-4524_jen product, priced at $91.03 per unit. The order is due on December 11, 2025, and as of December 11, 2025, no units have been despatched or invoiced, leaving 500 units outstanding.
+
+DSI Underground Australia Pty Ltd ordered 500 units of CCP45241010056G, a MESH MINE 4.5mx2.4m 100x100 ap img5h-44-4524_jen product, priced at $91.03 per unit. The order is due on December 11, 2025, and as of December 11, 2025, no units have been despatched or invoiced, leaving 500 units outstanding.
+
+DSI Underground Australia Pty Ltd ordered 500 units of CCP45241010056G, a MESH MINE 4.5mx2.4m 100x100 ap img5h-44-4524_jen product, priced at $91.03 per unit. The order is due on December 11, 2025, and as of December 11, 2025, no units have been despatched or invoiced, leaving 500 units outstanding.
+
+DSI Underground Australia Pty Ltd ordered 500 units of CCP45241010056G, a MESH MINE 4.5mx2.4m 100x100 ap img5h-44-4524_jen product, priced at $91.03 per unit. The order is due on December 11, 2025, and as of December 11, 2025, no units have been despatched or invoiced, leaving 500 units outstanding.
+
+DSI Underground Australia Pty Ltd ordered 500 units of CCP45241010056G, a MESH MINE 4.5mx2.4m 100x100 ap img5h-44-4524_jen product, priced at $91.03 per unit. The order is due on December 11, 2025, and as of December 11, 2025, no units have been despatched or invoiced, leaving 500 units outstanding.
+
+DSI Underground Australia Pty Ltd ordered 500 units of CCP45241010056G, a MESH MINE 4.5mx2.4m 100x100 ap img5h-44-4524_jen product, priced at $91.03 per unit. The order is due on December 11, 2025, and as of December 11, 2025, no units have been despatched or invoiced, leaving 500 units outstanding.
+
+DSI Underground Australia Pty Ltd ordered 500 units of CCP45241010056G, a MESH MINE 4.5mx2.4m 100x100 ap img5h-44-4524_jen product, priced at $91.03 per unit. The order is due on December 11, 2025, and as of December 11, 2025, no units have been despatched or invoiced, leaving 500 units outstanding.
+
+DSI Underground Australia Pty Ltd ordered 500 units of CCP45241010056G, a MESH MINE 4.5mx2.4m 100x100 ap img5h-44-4524_jen product, priced at $91.03 per unit. The order is due on December 11, 2025, and as of December 11, 2025, no units have been despatched or invoiced, leaving 500 units outstanding.
+
+DSI Underground Australia Pty Ltd ordered 500 units of CCP45241010056G, a MESH MINE 4.5mx2.4m 100x100 ap img5h-44-4524_jen product, priced at $91.03 per unit. The order is due on December 11, 2025, and as of December 11, 2025, no units have been despatched or invoiced, leaving 500 units outstanding.
+
+DSI Underground Australia Pty Ltd ordered 3000 units of SMF2420101003, a 100x100x2400x2000x3.15 Ind Mes IMB3H-44-2420-DCLA product, priced at $17.56 per unit. The order is due on December 19, 2025, and as of December 11, 2025, no units have been despatched or invoiced, leaving 3000 units outstanding.
+
+DSI Underground Australia Pty Ltd ordered 5000 units of SMF45171010056G, a MESH MINE 4.5mx1.7m 100x100 apt 5.6mm wire - galvanized img5h-44-4517_jen product, priced at $76.50 per unit. The order is due on January 5, 2026, and as of December 17, 2025, no units have been despatched or invoiced, leaving 5000 units outstanding.
+
+DSI Underground Australia Pty Ltd placed an order on December 18, 2025, for 540 units of SMF5716101005, a MESH MINE 5.7mx1.6m 100x100 apt 5mm wire - blk, with a sales price of AUD 103.9 per unit. The order is due on March 26, 2026, with 95 days until the due date. The order number is 227878.
+
+DSI Underground Australia Pty Ltd placed another order on December 18, 2025, for 540 units of SMF5716101005, a MESH MINE 5.7mx1.6m 100x100 apt 5mm wire - blk, with a sales price of AUD 103.9 per unit. The order is due on March 26, 2026, with 95 days until the due date. The order number is 227878.
+
+DSI Underground Australia Pty Ltd placed a third order on December 18, 2025, for 540 units of SMF5716101005, a MESH MINE 5.7mx1.6m 100x100 apt 5mm wire - blk, with a sales price of AUD 103.9 per unit. The order is due on March 26, 2026, with 95 days until the due date. The order number is 227878.
+
+Hartway Galvanizers - Naval Base placed an order on December 8, 2025, for 7.4 units of TIE3.15X2.3MM, a tie wire 3.15mmx2.3m length tie-3.15mm-2.3m, with a sales price of AUD 1680 per unit. The order is due on December 9, 2025, with 12 days until the due date. The order number is 227526.
+
+Infrabuild Steel Centre Perth placed an order on November 13, 2025, for 150 units of SMF30240505004G, a 50x50x3000x2400x4mm weld mesh IMG4-22-3024, with a sales price of AUD 58.2 per unit. The order is due on December 5, 2025, with 16 days until the due date. The order number is 226692.
+
+Infrabuild Steel Centre Perth placed an order on December 9, 2025, for 350 units of SMF3H30242525G, a 25x25x3000x2400x3.15 ind mesh IMG3H-11-3024, with a sales price of AUD 87.01 per unit. The order is due on December 31, 2026, with 375 days until the due date. The order number is 227606.
+
+Infrabuild Steel Centre Perth placed an order on December 9, 2025, for 150 units of SMF24120505004G, a 50x50x2400x1200x4mm ind mesh IMG4-22-2412, with a sales price of AUD 25.88 per unit. The order is due on December 31, 2026, with 375 days until the due date. The order number is 227606.
+
+Infrabuild Steel Centre Perth placed an order on December 9, 2025, for 700 units of SMF30240505004G, a 50x50x3000x2400x4mm weld mesh IMG4-22-3024, with a sales price of AUD 58.2 per unit. The order is due on December 31, 2026, with 375 days until the due date. The order number is 227606.
+
+Infrabuild Steel Centre Perth placed an order on December 9, 2025, for 1 unit of freight out charge with a sales price of AUD 850. The order is due on December 31, 2026, with 375 days until the due date. The order number is 227606.
+
+Infrabuild Steel Centre Perth placed an order on December 9, 2025, for 6 units of SCBW6.3X6M, a s&c brt wire 6.3x6000mm 500kgs scbw6.3-6000-500kgs, with a sales price of AUD 925 per unit. The order is due on December 31, 2026, with 375 days until the due date. The order number is 227606.
+
+Infrabuild Steel Centre Perth placed an order on December 2, 2025, for 200 units of SMF2H241202525G, a 25x25x2400x1200x2.5mm ind mesh img2h-11-2412, with a sales price of AUD 20.99 per unit. The order is due on January 16, 2026, with 26 days until the due date. The order number is 227378.
+
+Inter-Company placed an order on June 30, 2025, for 500 units of CCP4824101005, a mine mesh 4.8m x 2.4m 100 x 100 apt 5mm wire - blk imb5-44-4824, with a sales price of AUD 65.42 per unit. The order is due on July 7, 2025, with 167 days until the due date. The order number is 222198.
+
+Inter-Company placed an order on July 1, 2025, for 480 units of GXB501710154G, a gx mesh roof 5.00m x 1.70m 100x150 apt 4.00mm wire - gal, with a sales price of AUD 64.19 per unit. The order is due on July 8, 2025, with 166 days until the due date. The order number is 222280.
+
+Inter-Company placed an order on July 2, 2025, for 550 units of CCP45241010056G, a mesh mine 4.5mx2.4m 100x100 ap img5h-44-4524_jen, with a sales price of AUD 88.62 per unit. The order is due on July 15, 2025, with 159 days until the due date. The order number is 222330.
+
+Inter-Company placed an order on July 2, 2025, for 550 units of CCP45241010056G, a mesh mine 4.5mx2.4m 100x100 ap img5h-44-4524_jen, with a sales price of AUD 88.62 per unit. The order is due on July 15, 2025, with 159 days until the due date. The order number is 222330.
+
+Inter-Company placed an order on July 2, 2025, for 147 units of GXB5614101004G, a gx mesh roof 5.60m x 1.40m 100x100 apt 4.0mm wire - gal, with a sales price of AUD 73.77 per unit. The order is due on July 17, 2025, with 157 days until the due date. The order number is 222334.
+
+Inter-Company placed an order on September 7, 2025, for 25 units of GXB48121010VGDE, a gx mesh - roof 4.8m x 1.2m gal dendrobium mat # 10992135, with a sales price of AUD 50.77 per unit. The order is due on September 7, 2025, with 105 days until the due date. The order number is 224525.
+
+Inter-Company placed an order on September 29, 2025, for 1600 units of SMF1716101003G, a rib mesh 1.7m x 1.6m, 100x100 apt & 3.15mm gal wire, with a sales price of AUD 6.88 per unit. The order is due on October 5, 2025, with 77 days until the due date. The order number is 225199.
+
+Inter-Company placed an order on September 30, 2025, for 2000 units of SMF1711151504UW, a mesh - rib 1.7m x 1.1m 150x150mm apt glencore coal mat # 400208837 - ulan west, with a sales price of AUD 6.83 per unit. The order is due on October 7, 2025, with 75 days until the due date. The order number is 225223.
+
+Inter-Company placed an order on November 9, 2025, for 720 units of SMB5112151504, a 150x150x5100x1150x4x5 - den2 imb45-66-5111-den2, with a sales price of AUD 32.3 per unit. The order is due on December 31, 2025, with 10 days until the due date. The order number is 226573. The order has been partially despatched, with 420 units invoiced and 300 units outstanding.
+
+Jennmar Australia Pty Ltd placed an order on November 17, 2025, for 640 units of GXB50121010VGOC, a GX mesh roof, with a sales price of $39.41 per unit. The order is due on December 2, 2025, and currently has an outstanding quantity of 640 units. The order is located in warehouse M2.
+
+Jennmar Australia Pty Ltd ordered 480 units of SMB5016151005S, a mesh roof, on November 17, 2025, with a sales price of $62.55 per unit. The order is due on November 25, 2025, and has an outstanding quantity of 480 units. The order is located in warehouse M2.
+
+Jennmar Australia Pty Ltd ordered another 480 units of SMB5016151005S on November 17, 2025, with a sales price of $62.55 per unit. The order is due on November 25, 2025, and has an outstanding quantity of 480 units. The order is located in warehouse M2.
+
+Jennmar Australia Pty Ltd ordered 228 units of SMB5016151005S on November 17, 2025, with a sales price of $62.55 per unit. The order is due on November 25, 2025, and has an outstanding quantity of 228 units. The order is located in warehouse M2.
+
+Jennmar Australia Pty Ltd ordered 2000 units of CC2015101004G, a mesh rib, on November 17, 2025, with a sales price of $18.72 per unit. The order is due on November 25, 2025, and has an outstanding quantity of 2000 units. The order is located in warehouse M2.
+
+Jennmar Australia Pty Ltd ordered 66 units of SMB5113515105S, a mesh roof, on November 17, 2025, with a sales price of $56.68 per unit. The order is due on November 25, 2025, and has an outstanding quantity of 66 units. The order is located in warehouse M2.
+
+Jennmar Australia Pty Ltd ordered 396 units of SMB5113515105S on November 25, 2025, with a sales price of $56.68 per unit. The order is due on December 3, 2025, and has an outstanding quantity of 396 units. The order is located in warehouse M2.
+
+Jennmar Australia Pty Ltd ordered 640 units of GXB50121010VGOC, a GX mesh roof, on November 25, 2025, with a sales price of $39.41 per unit. The order is due on December 31, 2025, and has an outstanding quantity of 640 units. The order is located in warehouse M2.
+
+Jennmar Australia Pty Ltd ordered another 640 units of GXB50121010VGOC on November 25, 2025, with a sales price of $39.41 per unit. The order is due on December 31, 2025, and has an outstanding quantity of 640 units. The order is located in warehouse M2.
+
+Jennmar Australia Pty Ltd ordered 480 units of SM5H501610104G, a galvanized metal product, on November 30, 2025, with a sales price of $45.25 per unit. The order is due on December 8, 2025, and has an outstanding quantity of 480 units. The order is located in warehouse M2.
+
+Jennmar Australia Pty Ltd ordered another 480 units of SM5H501610104G on November 30, 2025, with a sales price of $45.25 per unit. The order is due on December 8, 2025, and has an outstanding quantity of 480 units. The order is located in warehouse M2.
+
+Jennmar Australia Pty Ltd ordered 480 units of SM5H501610104G on November 30, 2025, with a sales price of $45.25 per unit. The order is due on December 8, 2025, and has an outstanding quantity of 480 units. The order is located in warehouse M2.
+
+Jennmar Australia Pty Ltd ordered another 480 units of SM5H501610104G on November 30, 2025, with a sales price of $45.25 per unit. The order is due on December 8, 2025, and has an outstanding quantity of 480 units. The order is located in warehouse M2.
+
+Jennmar Australia Pty Ltd ordered 480 units of SM5H501610104G on November 30, 2025, with a sales price of $45.25 per unit. The order is due on December 8, 2025, and has an outstanding quantity of 480 units. The order is located in warehouse M2.
+
+Jennmar Australia Pty Ltd ordered another 480 units of SM5H501610104G on November 30, 2025, with a sales price of $45.25 per unit. The order is due on December 8, 2025, and has an outstanding quantity of 480 units. The order is located in warehouse M2.
+
+Jennmar Australia Pty Ltd ordered 480 units of SM5H501610104G on November 30, 2025, with a sales price of $45.25 per unit. The order is due on December 8, 2025, and has an outstanding quantity of 480 units. The order is located in warehouse M2.
+
+Jennmar Australia Pty Ltd ordered another 480 units of SM5H501610104G on November 30, 2025, with a sales price of $45.25 per unit. The order is due on December 8, 2025, and has an outstanding quantity of 480 units. The order is located in warehouse M2.
+
+Jennmar Australia Pty Ltd ordered 240 units of SM5H501610104G on November 30, 2025, with a sales price of $45.25 per unit. The order is due on December 8, 2025, and has an outstanding quantity of 240 units. The order is located in warehouse M2.
+
+Jennmar Australia Pty Ltd ordered 500 units of CCP48241010056G, a mine mesh, on December 1, 2025, with a sales price of $96.67 per unit. The order is due on December 9, 2025, and has an outstanding quantity of 500 units. The order is located in warehouse M2.
+
+Jennmar Australia Pty Ltd ordered 400 units of MS45241010056G, a seismic mesh, on December 1, 2025, with a sales price of $125.92 per unit. The order is due on December 2, 2025, and has an outstanding quantity of 400 units. The order is located in warehouse M1.
+
+Jennmar Australia Pty Ltd placed an order on December 2, 2025, for 396 units of product SMB5113515105S, a mesh roof measuring 5.10m x 1.35m, with a sales price of $56.68 per unit. The order is due on October 10, 2025, and currently has an outstanding quantity of 396 units.
+
+Jennmar Australia Pty Ltd placed another order on December 2, 2025, for 396 units of product SMB5113515105S, identical to the previous order. The order is due on October 10, 2025, and currently has an outstanding quantity of 396 units.
+
+Jennmar Australia Pty Ltd placed a third order on December 2, 2025, for 396 units of product SMB5113515105S, identical to the previous orders. The order is due on October 10, 2025, and currently has an outstanding quantity of 396 units.
+
+Jennmar Australia Pty Ltd placed a fourth order on December 2, 2025, for 396 units of product SMB5113515105S, identical to the previous orders. The order is due on October 10, 2025, and currently has an outstanding quantity of 396 units.
+
+Jennmar Australia Pty Ltd placed an order on December 9, 2025, for 150 units of product CCP42241010056G, a mesh mine measuring 4.2m x 2.4m, with a sales price of $67.90 per unit. The order is due on December 10, 2025, and currently has an outstanding quantity of 150 units.
+
+Jennmar Australia Pty Ltd placed an order on December 9, 2025, for 400 units of product CCP50241010056G, a mine mesh measuring 5000mm long, with a sales price of $91.80 per unit. The order is due on December 10, 2025, and currently has an outstanding quantity of 400 units.
+
+Jennmar Australia Pty Ltd placed an order on December 9, 2025, for 400 units of product CCP50241010056G, identical to the previous order. The order is due on December 10, 2025, and currently has an outstanding quantity of 400 units.
+
+Jennmar Australia Pty Ltd placed an order on December 9, 2025, for 650 units of product SMF4524101005, a mesh mine measuring 4.5m x 2.4m, with a sales price of $69.60 per unit. The order is due on December 17, 2025, and currently has an outstanding quantity of 650 units.
+
+Jennmar Australia Pty Ltd placed an order on December 9, 2025, for 500 units of product CCP42241010056G, a mesh mine measuring 4.2m x 2.4m, with a sales price of $67.90 per unit. The order is due on December 24, 2025, and currently has an outstanding quantity of 500 units.
+
+Jennmar Australia Pty Ltd placed an order on December 10, 2025, for 480 units of product SM5H501610104G, a 100x100x5000x1600x5.6 4mm galvanized item, with a sales price of $45.25 per unit. The order is due on December 17, 2025, and currently has an outstanding quantity of 480 units.
+
+Jennmar Australia Pty Ltd placed an order on December 10, 2025, for 550 units of product CCP42241010056G, identical to the previous order. The order is due on December 24, 2025, and currently has an outstanding quantity of 550 units.
+
+Jennmar Australia Pty Ltd placed an order on December 11, 2025, for 50 units of product SMF24151010034G, a mesh rib measuring 2.4m x 1.5m, with a sales price of $18.04 per unit. The order is due on December 18, 2025, and currently has an outstanding quantity of 50 units.
+
+Jennmar Australia Pty Ltd placed an order on December 14, 2025, for 3000 units of product SMF251803GCD, a rib mesh measuring 2.5m x 1.8m, with a sales price of $11.25 per unit. The order is due on January 16, 2026, and currently has an outstanding quantity of 3000 units.
+
+Jennmar Australia Pty Ltd placed an order on December 14, 2025, for 3000 units of product SMF251803GCD, identical to the previous order. The order is due on January 16, 2026, and currently has an outstanding quantity of 3000 units.
+
+Jennmar Australia Pty Ltd placed an order on December 14, 2025, for 500 units of product CCP48241010056G, a mine mesh measuring 4800mm x 2400mm, with a sales price of $96.67 per unit. The order is due on January 5, 2026, and currently has an outstanding quantity of 500 units.
+
+Jennmar Australia Pty Ltd placed an order on December 14, 2025, for 500 units of product CCP4824101005, identical to the previous order. The order is due on January 5, 2026, and currently has an outstanding quantity of 500 units.
+
+Jennmar Australia Pty Ltd placed an order on December 15, 2025, for 33 units of product CC5014101005, a mesh roof measuring 5.00m x 1.35m, with a sales price of $62.62 per unit. The order is due on December 22, 2025, and currently has an outstanding quantity of 33 units.
+
+Jennmar Australia Pty Ltd placed an order on December 15, 2025, for 720 units of product SMB5112151504, a 150x150x5100x1150x4x5 - DEN2 item, with a sales price of $32.30 per unit. The order is due on December 19, 2025, and currently has an outstanding quantity of 720 units.
+
+Jennmar Australia Pty Ltd placed an order on December 15, 2025, for 540 units of product SMB5112151504, identical to the previous order. The order is due on December 19, 2025, and currently has an outstanding quantity of 540 units.
+
+Jennmar Australia Pty Ltd placed an order on December 15, 2025, for 540 units of product SMB5118151505, a 150x150x5100x1700x4x5 item, with a sales price of $48.28 per unit. The order is due on December 19, 2025, and currently has an outstanding quantity of 540 units.
+
+Jennmar Australia Pty Ltd placed an order on December 15, 2025, for 540 units of product SMB5118151505, valued at $26,071.20 AUD, due on December 19, 2025.
+
+Jennmar Australia Pty Ltd ordered 2,000 units of product SMB561604GCD on December 16, 2025, with a value of $83,220 AUD, due on February 1, 2026.
+
+Jennmar Australia Pty Ltd also ordered 2,000 units of product SMB561604GCD on December 16, 2025, with a value of $83,220 AUD, due on April 1, 2026.
+
+Lempret Wire & Selants ordered 50 units of product SMF24120507504G on October 12, 2025, valued at $1,199.50 AUD, due on October 14, 2025.
+
+Locker Group Pty Ltd ordered 50 units of product SMF30240505004G on December 17, 2025, valued at $3,151 AUD, due on December 18, 2025.
+
+Mackenzies Home Timber & Hardware ordered 15 units of product SMF24120507504G on November 9, 2025, valued at $404.85 AUD, due on November 10, 2025.
+
+Maddington Concrete Products ordered 6 units of product CW500L6.3 on June 26, 2025, valued at $10,732.20 AUD, due on August 29, 2025.
+
+Maddington Concrete Products ordered 8 units of product CW500L5 on September 21, 2025, valued at $11,840 AUD, due on September 29, 2025.
+
+Maddington Concrete Products ordered 10 units of product CW500L5 on December 2, 2025, valued at $14,600 AUD, due on December 5, 2025.
+
+Mgalv ordered 5.5 units of product TIE3.15X2.3MM on December 17, 2025, valued at $8,690 AUD, due on January 5, 2026.
+
+Northern Star (Pogo) LLC placed orders for 3,300 units of product CCP45241010056G on July 11, 2025, valued at $236,016 AUD, due on October 31, 2025, November 30, 2025, and December 31, 2025.
+
+Northern Star (Pogo) LLC also placed orders for 3,300 units of product CCP45241010056G on October 29, 2025, valued at $236,016 AUD, due on December 31, 2025.
+
+Paddington Gold Pty Ltd ordered 150 units of product SM5H36241010FG on December 18, 2025, valued at $11,104.50 AUD, due on December 18, 2025.
+
+PADDINGTON GOLD PTY LTD placed an order on December 18, 2025, for 75 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN, with a sales price of $90.61 per unit. The order is due on the same day, and no items have been despatched or invoiced yet.
+
+PRIME SUPPLIES ordered 5 units of 25x25x3000x2400x3.15 Ind Mesh IMG3H-11-3024 on December 4, 2025. The order is due on December 8, 2025, and no items have been despatched or invoiced yet.
+
+RCPA (WA) PTY LTD placed two orders on December 17, 2025, for 6.0mm Ribbed Wire in Spools D500L6.0-Spools and 6.3mm Bright Wire In Coils R500L6.3-Coils, both totaling 20 units each. The sales price for each unit is $1550. No items have been despatched or invoiced yet.
+
+ROLLWELL ENGINEERINIG PTY LTD placed an order on December 10, 2025, for 75 units of 50x50x3000x2400x4mm Weld Mesh IMG4-22-3024 and 20 units of 25x25x3000x2400x3.15 Ind Mesh IMG3H-11-3024, along with a freight out charge of $150. All items are due on December 12, 2025, and no items have been despatched or invoiced yet.
+
+SCOTT METALS (T&B FABRICATIONS) ordered 100 units of 25x25x2400x1200x2.5mm Ind Mesh IMG2H-11-2412 on December 2, 2025. The order is due on December 5, 2025, and no items have been despatched or invoiced yet.
+
+SOUTHERN QLD STEEL P/L placed three orders on December 17, 2025, for 50 units of 100x100x3000x2400x5 Ind Mesh IMG5-44-3024, 100 units of 25x25x2400x1200x2.5mm Ind Mesh IMG2H-11-2412, and 75 units of 25x25x3000x2400x3.15 Ind Mesh IMG3H-11-3024, along with 250 units of 50x50x3000x2400x4mm Weld Mesh IMG4-22-3024. All orders are due on December 19, 2025, and no items have been despatched or invoiced yet.
+
+STEELFORCE BRISBANE placed an order on December 8, 2025, for 75 units of 25x25x2400x1200x2.5mm Ind Mesh IMG2H-11-2412, with a sales price of $21.99 per unit. The order is due on December 11, 2025, and no items have been despatched or invoiced yet.
+
+SUPER STEEL AUSTRALIA ordered 20 units of 100x200x2.9x1.1x 5mm Weld mesh IMG5-48-2911 on December 5, 2025. The order is due on December 8, 2025, and no items have been despatched or invoiced yet.
+
+TRUE METAL SOLUTIONS PTY LTD placed two orders on December 18, 2025, for 50 units of 50x50x3000x2400x4mm Weld Mesh IMG4-22-3024 and 25 units of 50x75x3000x2400x4mm Ind Mesh IMG4-23-3024, with sales prices of $63.99 and $57.99 per unit respectively. Both orders are due on December 22, 2025, and no items have been despatched or invoiced yet.
+
+ATF SERVICES PTY LTD placed an order on November 12, 2025, for 3400 units of MESH 2.5MX1.6M 75X75 APT 3.15MM WIRE - GAL IMG3H-33-2516, with a sales price of $16.50 per unit. The order is due on the same day, and no items have been despatched or invoiced yet.
+
+BHP OLYMPIC DAM CORPORATION PTY LTD placed three orders on August 21, 2025, for 600 units of 100x100x5000x2400x4.50 IMB4H-44-5024, with a sales price of $68.52 per unit. All orders are due on September 30, 2025, and no items have been despatched or invoiced yet.
+
+BHP Olympic Dam Corporation Pty Ltd places an order for 600 units of SMB4H50241010 at Energy Logistix (Largs Bay) warehouse. The order is placed on August 21, 2025, with a due date of September 30, 2025. The product description is 100x100x5000x2400x4.50 IMB4H-44-5024. The sales price per unit is $68.52, totaling $41,112 AUD. All quantities remain outstanding.
+
+BHP Olympic Dam Corporation Pty Ltd places another order for 600 units of SMB4H50241010 at Energy Logistix (Largs Bay) warehouse. The order is placed on August 21, 2025, with a due date of September 30, 2025. The product description is 100x100x5000x2400x4.50 IMB4H-44-5024. The sales price per unit is $68.52, totaling $41,112 AUD. All quantities remain outstanding.
+
+BHP Olympic Dam Corporation Pty Ltd places a third order for 600 units of SMB4H50241010 at Energy Logistix (Largs Bay) warehouse. The order is placed on August 21, 2025, with a due date of September 30, 2025. The product description is 100x100x5000x2400x4.50 IMB4H-44-5024. The sales price per unit is $68.52, totaling $41,112 AUD. All quantities remain outstanding.
+
+Hartway Galvanizers - Canning Vale orders 24 units of TIE3.15X1.2MM at M1 warehouse. The order is placed on December 7, 2025, with a due date of January 12, 2026. The product description is tie wire - 3.15mm -1.2m length Tie-3.15mm-1.2m. The sales price per unit is $1260, totaling $30,240 AUD. All quantities remain outstanding.
+
+Industrial Galvanizers orders 18 units of TIE3.15X2.4MM at M2 warehouse. The order is placed on November 11, 2025, with a due date of February 1, 2026. The product description is tie wire - 3.15mm x 2.4m length Tie-3.15mm-2.4m. The sales price per unit is $1498.77, totaling $26,977.86 AUD. All quantities remain outstanding.
+
+Industrial Galvanizers orders an additional 6 units of TIE3.15X1.2MM at M2 warehouse. The order is placed on November 11, 2025, with a due date of February 1, 2026. The product description is tie wire - 3.15mm -1.2m length Tie-3.15mm-1.2m. The sales price per unit is $1498.77, totaling $8,992.62 AUD. All quantities remain outstanding.
+
+Infrabuild Dubbo orders a freight out charge of $1,250 at INFRABUILD DUBBO (INVOICE). The order is placed on September 23, 2025, with a due date of December 1, 2025. The product description is freight out charge. The sales price per unit is $1,250. All quantities remain outstanding.
+
+Infrabuild Dubbo orders 60 units of SROL15005C305B at M2 warehouse. The order is placed on September 23, 2025, with a due date of December 1, 2025. The product description is 100x150mm 5mm 1500x30000mm black mild steel, steel rolls. The sales price per unit is $388.11, totaling $23,286.60 AUD. All quantities remain outstanding.
+
+Infrabuild Dubbo orders a freight out charge of $1,602.44 at INFRABUILD DUBBO (INVOICE). The order is placed on September 23, 2025, with a due date of December 1, 2025. The product description is freight out charge. The sales price per unit is $1,602.44. All quantities remain outstanding.
+
+Infrabuild Dubbo orders 60 units of SROL11005C305B at M2 warehouse. The order is placed on September 23, 2025, with a due date of December 1, 2025. The product description is 100x150mm 5mm 1100x30000mm black mild steel, steel rolls. The sales price per unit is $279.16, totaling $16,749.60 AUD. All quantities remain outstanding.
+
+Jennmar of Utah, LLC orders 459,000 units of JFLI3972G at D1 warehouse. The order is placed on November 4, 2025, with a due date of November 4, 2025. The product description is friction lok bolt 39mmx1829mm - gal 300 bolts per pack. The sales price per unit is $25.704, totaling $11,798,136 AUD. All quantities remain outstanding.
+
+JM Australian Steel & Wire Pty Ltd orders 3,000 units of CCP40241010056G at D1 warehouse. The order is placed on October 31, 2025, with a due date of January 9, 2026. The product description is mesh mine 4.0mx2.4m 100x100 apt 5.6mm wire - gal img5h-44-40 img5h-44-4024. The sales price per unit is $180.4, totaling $541,200 AUD. All quantities remain outstanding.
+
+JM Australian Steel & Wire Pty Ltd orders 5,500 units of CCP45241010056G at D1 warehouse. The order is placed on October 31, 2025, with a due date of January 9, 2026. The product description is mesh mine 4.5mx2.4m 100x100 ap img5h-44-4524_jen img5h-44-4524. The sales price per unit is $198.85, totaling $1,093,675 AUD. All quantities remain outstanding.
+
+JM Australian Steel & Wire Pty Ltd orders 3,300 units of CCP45241010056G at D1 warehouse. The order is placed on November 4, 2025, with a due date of December 29, 2025. The product description is mesh mine 4.5mx2.4m 100x100 ap img5h-44-4524_jen img5h-44-4524. The sales price per unit is $198.85, totaling $656,205 AUD. All quantities remain outstanding.
+
+JM Australian Steel & Wire Pty Ltd orders 1,800 units of CCP40241010056G at D1 warehouse. The order is placed on November 5, 2025, with a due date of December 22, 2025. The product description is mesh mine 4.0mx2.4m 100x100 apt 5.6mm wire - gal img5h-44-40 img5h-44-4024. The sales price per unit is $180.4, totaling $324,720 AUD. All quantities remain outstanding.
+
+JM Australian Steel & Wire Pty Ltd orders 700 units of CC402410105 at D1 warehouse. The order is placed on November 6, 2025, with a due date of December 15, 2025. The product description is mesh mine 4.0mx2.4m 100x100 apt 5.0mm wire imb5-44-4024 imb5-44-4024. The sales price per unit is $140.95, totaling $98,665 AUD. All quantities remain outstanding.
+
+JM Australian Steel & Wire Pty Ltd orders 500 units of SMF4524101005 at D1 warehouse. The order is placed on December 7, 2025, with a due date of January 5, 2026. The product description is mesh mine 4.5m x 2.4m 100x100 apt 5.0mm wire imb5-44-4524. The sales price per unit is $168.64, totaling $84,320 AUD. All quantities remain outstanding.
+
+JM Australian Steel & Wire Pty Ltd orders 700 units of CC402410105 at D1 warehouse. The order is placed on December 7, 2025, with a due date of January 5, 2026. The product description is mesh mine 4.0mx2.4m 100x100 apt 5.0mm wire imb5-44-4024 imb5-44-4024. The sales price per unit is $140.95, totaling $98,665 AUD. All quantities remain outstanding.
+
+JM Australian Steel & Wire Pty Ltd orders 2,200 units of CCP45241010056G at D1 warehouse. The order is placed on December 7, 2025, with a due date of January 5, 2026. The product description is mesh mine 4.5mx2.4m 100x100 ap img5h-44-4524_jen img5h-44-4524. The sales price per unit is $198.85, totaling $437,470 AUD. All quantities remain outstanding.
+
+JM Australian Steel & Wire Pty Ltd orders 3,600 units of SMB4H50241010 at D1 warehouse. The order is placed on December 15, 2025, with a due date of January 5, 2026. The product description is 100x100x5000x2400x4.50 indmesh imb4h-44-5024 imb4h-44-5024. The sales price per unit is $153.68, totaling $553,248 AUD. All quantities remain outstanding.
+
+Australian Steel & Wire Pty Ltd places an order for 1800 units of SMB4H50241010 mesh on December 15, 2025, due on January 26, 2026. The order is referenced as Cust Ref 254845 - OLYMPIC. The product description is 100x100x5000x2400x4.50 IndMesh IMB4H-44-5024 IMB4H-44-5024. The sales price per unit is AUD 153.68, with a total value of AUD 276,624. No units have been despatched, invoiced, or outstanding.
+
+Australian Steel & Wire Pty Ltd orders another 1800 units of SMB4H50241010 mesh on December 15, 2025, due on February 16, 2026. The order is referenced as Cust Ref 254846 - OLYMPIC. The product description is identical to the previous order. The sales price per unit is AUD 153.68, with a total value of AUD 276,624. No units have been despatched, invoiced, or outstanding.
+
+Australian Steel & Wire Pty Ltd orders 1000 units of SMF4524101005 mesh on December 18, 2025, due on January 19, 2026. The order is referenced as Cust Ref 254898 - BROKEN HILL. The product description is MESH Mine 4.5M X 2.4M 100X100 APT 5.0MM WIRE IMB5-44-4524 IMB5-44-4524. The sales price per unit is AUD 168.64, with a total value of AUD 168,640. No units have been despatched, invoiced, or outstanding.
+
+Australian Steel & Wire Pty Ltd orders 6000 units of CC2015101004G mesh on October 31, 2025, due on January 9, 2026. The order is referenced as Cust Ref 253628. The product description is Mesh Rib 2M x 1.5M 100 x 100 Apt 4.0mm wire Gal IMG4-44-2015 IMG4-44-2015-JNA. The sales price per unit is AUD 33.34, with a total value of AUD 200,040. No units have been despatched, invoiced, or outstanding.
+
+Australian Steel & Wire Pty Ltd orders 6000 units of CC2015101004G mesh on October 31, 2025, but the due date is October 31, 2025, indicating it is overdue by 51 days. The order is referenced as Cust Ref 252546. The product description is identical to the previous order. The sales price per unit is AUD 33.33, with a total value of AUD 199,980. 3500 units have been despatched, invoiced, and 2500 units remain outstanding.
+
+Australian Steel & Wire Pty Ltd orders 577 units of CC5014101005 mesh on October 31, 2025, due on January 16, 2026. The order is referenced as Cust Ref 253629. The product description is MESH ROOF 5.00MX1.35M 100X100 APT 5.0MM WIRE IMB5-44-5014-JN IMB5-44-5014-JNA. The sales price per unit is AUD 134.43, with a total value of AUD 77,566.11. No units have been despatched, invoiced, or outstanding.
+
+Australian Steel & Wire Pty Ltd orders 100 units of CCP48241010056G mesh on October 31, 2025, but the due date is October 31, 2025, indicating it is overdue by 51 days. The order is referenced as Cust Ref 252134. The product description is Mine Mesh 4800X2400mm 100x100mm Apt 5.6mm wire Galv IMG5H-44 IMG5H-44-4824. The sales price per unit is AUD 211.58, with a total value of AUD 21,158. No units have been despatched, invoiced, or outstanding.
+
+Australian Steel & Wire Pty Ltd orders 1200 units of GXB48111010VGU3 mesh on October 31, 2025, due on January 2, 2026. The order is referenced as Cust Ref 253631. The product description is GX MESH ROOF 4.8M x 1.1M 48 x 100 APT 4.0MM & 4.75MM Wire. The sales price per unit is AUD 89.84, with a total value of AUD 107,808. No units have been despatched, invoiced, or outstanding.
+
+Australian Steel & Wire Pty Ltd orders 3200 units of GXB50121010VGOC mesh on October 31, 2025, due on January 9, 2026. The order is referenced as Cust Ref 253626. The product description is GX MESH ROOF 5.00M x 1.2M 50 x 100 APT 4.0MM & 4.75MM Wire. The sales price per unit is AUD 85.64, with a total value of AUD 274,048. 1760 units have been despatched, invoiced, and 1440 units remain outstanding.
+
+Australian Steel & Wire Pty Ltd orders 2000 units of GXB50121010VGUW mesh on October 31, 2025, due on January 9, 2026. The order is referenced as Cust Ref 253634. The product description is identical to the previous order. The sales price per unit is AUD 94.59, with a total value of AUD 189,180. No units have been despatched, invoiced, or outstanding.
+
+Australian Steel & Wire Pty Ltd orders 3720 units of GXB50121010VGUW mesh on October 31, 2025, but the due date is October 31, 2025, indicating it is overdue by 51 days. The order is referenced as Cust Ref 252742. The product description is identical to the previous order. The sales price per unit is AUD 94.59, with a total value of AUD 351,874.8. 3360 units have been despatched, invoiced, and 360 units remain outstanding.
+
+Australian Steel & Wire Pty Ltd orders 2160 units of GXB5614101004G mesh on October 31, 2025, due on January 2, 2026. The order is referenced as Cust Ref 253128. The product description is GX MESH ROOF 5.60MX1.40M 100X100 APT 4.0MM & 5.0MM WIRE-GAL. The sales price per unit is AUD 114.28, with a total value of AUD 246,844.8. 595 units have been despatched, invoiced, and 1565 units remain outstanding.
+
+Australian Steel & Wire Pty Ltd orders 1000 units of JOS5803B mesh on October 31, 2025, due on January 2, 2026. The order is referenced as Cust Ref 253787. The product description is Ausro STRAP W 300*5800*10MM BLACK OSH106H-5803 OS106H-5803. The sales price per unit is AUD 166.45, with a total value of AUD 166,450. 400 units have been despatched, invoiced, and 600 units remain outstanding.
+
+Australian Steel & Wire Pty Ltd orders 1584 units of SMB5016151005S mesh on October 31, 2025, due on January 30, 2026. The order is referenced as Cust Ref 253630. The product description is MESH ROOF 5.00MX1.55M 100X100 APT 5.0MM WIRE SLG IMB5-46-501 IMB5-46-5016-JNA. The sales price per unit is AUD 130.64, with a total value of AUD 206,933.76. No units have been despatched, invoiced, or outstanding.
+
+Australian Steel & Wire Pty Ltd orders 110 units of SMB5016151005S mesh on October 31, 2025, but the due date is October 31, 2025, indicating it is overdue by 51 days. The order is referenced as Cust Ref 251543. The product description is identical to the previous order. The sales price per unit is AUD 130.63, with a total value of AUD 14,369.3. No units have been despatched, invoiced, or outstanding.
+
+Australian Steel & Wire Pty Ltd orders 3240 units of SMB5112151504 mesh on October 31, 2025, due on January 9, 2026. The order is referenced as Cust Ref 253867. The product description is 150x150x5100x1150x4x5 - DEN2 IMB45-66-5111-DEN2 IMB55H-46-5111-DEN. The sales price per unit is AUD 60.91, with a total value of AUD 197,348.4. 1440 units have been despatched, and 1800 units remain outstanding.
+
+Australian Steel & Wire Pty Ltd orders 2376 units of SMB5113515105S mesh on October 31, 2025, due on January 2, 2026. The order is referenced as Cust Ref 253627. The product description is MESH ROOF 5.10MX1.35M 150X100 APT 5.0MM WIRE SLG IMB5-64-511 IMB5-64-5113-JMOL. The sales price per unit is AUD 110.29, with a total value of AUD 262,049.04. No units have been despatched, invoiced, or outstanding.
+
+Australian Steel & Wire Pty Ltd orders 2772 units of SMB5113515105S mesh on October 31, 2025, due on January 2, 2026. The order is referenced as Cust Ref 253126. The product description is identical to the previous order. The sales price per unit is AUD 110.29, with a total value of AUD 305,723.88. 805 units have been despatched, and 1967 units remain outstanding.
+
+Australian Steel & Wire Pty Ltd orders 1080 units of SMB5118151505 mesh on October 31, 2025, due on January 9, 2026. The order is referenced as Cust Ref 253124. The product description is 150x150x5100x1700x4x5 IMB45-66-5117-DEN IMB45-66-5117-JEN. The sales price per unit is AUD 112.8, with a total value of AUD 121,824. No units have been despatched, invoiced, or outstanding.
+
+Australian Steel & Wire Pty Ltd orders 1695 units of SMESH300011704 mesh on October 31, 2025, but the due date is October 31, 2025, indicating it is overdue by 51 days. The order is referenced as Cust Ref 252540. The product description is SHOTCRETE MESH 3.00MX1.17M 4MM WIRE - GAL IMG4D-66-3012 IMG4D-66-3012. The sales price per unit is AUD 78.82, with a total value of AUD 133,599.9. No units have been despatched, invoiced, or outstanding.
+
+Australian Steel & Wire Pty Ltd, located in Brisbane (M2), placed an order on November 1, 2025, for 2550 units of SMESH300011704, a shotcrete mesh measuring 3.00 meters by 1.17 meters with 4 mm wire, galvanized. The sales price is AUD 78.82 per unit, with an order value of AUD 200,991. The order is due on December 19, 2025, with 2 days until the due date.
+
+Australian Steel & Wire Pty Ltd ordered 1963 units of SMF1711151504UW, a rib mesh measuring 1.7 meters by 1.1 meters with 150x150 mm apertures, on November 1, 2025. The sales price is AUD 15.64 per unit, with an order value of AUD 30,701.32. The order is due on December 19, 2025, with 2 days until the due date.
+
+Australian Steel & Wire Pty Ltd ordered 2600 units of SMF2420101003, a roof mesh measuring 2400x2000x3.15 mm, on November 1, 2025. The sales price is AUD 33.82 per unit, with an order value of AUD 87,932. The order is due on December 19, 2025, with 2 days until the due date.
+
+Australian Steel & Wire Pty Ltd ordered 3400 units of SMF2516757503G, a mine mesh measuring 2.5 meters by 1.6 meters with 75x75 mm apertures, on November 1, 2025. The sales price is AUD 31.61 per unit, with an order value of AUD 107,474. The order is due on November 1, 2025, with 50 days until the due date.
+
+Australian Steel & Wire Pty Ltd, located in Brisbane (M2), placed an order on November 5, 2025, for 3300 units of CCP45241010056G, a mine mesh measuring 4.5 meters by 2.4 meters with 100x100 mm apertures, with a sales price of AUD 198.85 per unit, for an order value of AUD 656,205. The order is due on January 5, 2026, with 15 days until the due date.
+
+Australian Steel & Wire Pty Ltd ordered 2000 units of CCP48241010056G, a mine mesh measuring 4800x2400 mm with 100x100 mm apertures, on November 5, 2025. The sales price is AUD 211.58 per unit, with an order value of AUD 423,160. The order is due on January 12, 2026, with 22 days until the due date.
+
+Australian Steel & Wire Pty Ltd ordered 1980 units of SMB5113515105S, a roof mesh measuring 5.10 meters by 1.35 meters with 150x100 mm apertures, on November 5, 2025. The sales price is AUD 110.30 per unit, with an order value of AUD 218,394. The order is due on January 5, 2026, with 15 days until the due date.
+
+Australian Steel & Wire Pty Ltd ordered 3000 units of SMF2214101004, a rib mesh measuring 2.20 meters by 1.40 meters with 100x100 mm apertures, on November 5, 2025. The sales price is AUD 32.47 per unit, with an order value of AUD 97,410. The order is due on December 15, 2025, with 6 days until the due date.
+
+Australian Steel & Wire Pty Ltd ordered 1620 units of GXB5614101004G, a roof mesh measuring 5.60 meters by 1.40 meters with 100x100 mm apertures, on November 5, 2025. The sales price is AUD 111.77 per unit, with an order value of AUD 181,067.40. The order is due on December 29, 2025, with 8 days until the due date.
+
+Australian Steel & Wire Pty Ltd ordered 6000 units of CC2015101004G, a rib mesh measuring 2 meters by 1.5 meters with 100x100 mm apertures, on November 5, 2025. The sales price is AUD 33.34 per unit, with an order value of AUD 200,040. The order is due on January 5, 2026, with 15 days until the due date.
+
+Australian Steel & Wire Pty Ltd ordered 1188 units of CC5014101005, a roof mesh measuring 5.00 meters by 1.35 meters with 100x100 mm apertures, on November 5, 2025. The sales price is AUD 134.42 per unit, with an order value of AUD 159,690.96. The order is due on December 22, 2025, with 1 day until the due date.
+
+Australian Steel & Wire Pty Ltd ordered 1200 units of GXB48111010VGU3, a roof mesh measuring 4.8 meters by 1.1 meters with 48x100 mm apertures, on November 5, 2025. The sales price is AUD 89.85 per unit, with an order value of AUD 107,820. The order is due on January 5, 2026, with 15 days until the due date.
+
+Australian Steel & Wire Pty Ltd ordered 2000 units of SMF1711151504UW, a rib mesh measuring 1.7 meters by 1.1 meters with 150x150 mm apertures, on November 5, 2025. The sales price is AUD 15.65 per unit, with an order value of AUD 31,300. The order is due on January 5, 2026, with 15 days until the due date.
+
+Australian Steel & Wire Pty Ltd ordered 1620 units of GXB50121010VGUW, a roof mesh measuring 5.00 meters by 1.2 meters with 50x100 mm apertures, on November 5, 2025. The sales price is AUD 94.77 per unit, with an order value of AUD 153,527.40. The order is due on January 5, 2026, with 15 days until the due date.
+
+Australian Steel & Wire Pty Ltd ordered 3240 units of SMB5112151504, a roof mesh measuring 5100x1150x4x5 with DEN2 apertures, on November 5, 2025. The sales price is AUD 60.92 per unit, with an order value of AUD 197,380.80. The order is due on January 5, 2026, with 15 days until the due date.
+
+Australian Steel & Wire Pty Ltd ordered 1800 units of SMF302410104GOC, a mine mesh measuring 3.0 meters by 2.4 meters with 100x100 mm apertures, on November 5, 2025. The sales price is AUD 76.46 per unit, with an order value of AUD 137,628. The order is due on December 29, 2025, with 8 days until the due date.
+
+Australian Steel & Wire Pty Ltd ordered 2000 units of SMF2118151504U3, a rib mesh measuring 2.1 meters by 1.8 meters with 150x150 mm apertures, on November 6, 2025. The sales price is AUD 26.80 per unit, with an order value of AUD 53,600. The order is due on January 5, 2026, with 15 days until the due date.
+
+Australian Steel & Wire Pty Ltd ordered 3000 units of SMF2516101031G, a rib mesh measuring 2.5 meters by 1.6 meters with 100x100 mm apertures, on November 10, 2025. The sales price is AUD 28.77 per unit, with an order value of AUD 86,310. The order is due on December 15, 2025, with 6 days until the due date.
+
+Australian Steel & Wire Pty Ltd ordered 1080 units of SMF5716101005, a mine mesh measuring 5.7 meters by 1.6 meters with 100x100 mm apertures, on November 10, 2025. The sales price is AUD 176.73 per unit, with an order value of AUD 190,868.40. The order is due on December 22, 2025, with 1 day until the due date.
+
+Australian Steel & Wire Pty Ltd ordered 3000 units of 6MBW6, a 6mm wire measuring 6 meters long with 750 pieces, on November 11, 2025. The sales price is AUD 2.457 per unit, with an order value of AUD 7,371. The order is due on December 22, 2025, with 1 day until the due date.
+
+Australian Steel & Wire Pty Ltd, located in Brisbane (M2), placed an order on November 11, 2025, with due date December 22, 2025. The order includes two line items: 13 units of TIE3.15X2.4MM at $3726.45 per unit, totaling $48443.85; and 4 units of TIE3.15X1.2MM at $3726.45 per unit, totaling $14905.80. Both line items have outstanding quantities of 13 and 4 respectively.
+
+Australian Steel & Wire Pty Ltd, located in Brisbane (M2), placed another order on December 7, 2025, with due date January 5, 2026. The order includes one line item: 960 units of GXB50121010VGOC at $85.65 per unit, totaling $82224. The outstanding quantity is 960.
+
+Australian Steel & Wire Pty Ltd, located in Brisbane (M2), placed an order on December 7, 2025, with due date January 5, 2026. The order includes one line item: 1620 units of SMB511815105 at $112.81 per unit, totaling $182752.20. The outstanding quantity is 1620.
+
+Australian Steel & Wire Pty Ltd, located in Brisbane (M2), placed an order on December 7, 2025, with due date January 5, 2026. The order includes one line item: 1188 units of CC5014101005 at $134.42 per unit, totaling $159690.96. The outstanding quantity is 1188.
+
+Australian Steel & Wire Pty Ltd, located in Brisbane (M2), placed an order on December 7, 2025, with due date January 5, 2026. The order includes one line item: 1440 units of GXB5614101004G at $111.77 per unit, totaling $160948.80. The outstanding quantity is 1440.
+
+Australian Steel & Wire Pty Ltd, located in Brisbane (M2), placed an order on December 7, 2025, with due date January 5, 2026. The order includes one line item: 3000 units of SMF2214101004 at $32.47 per unit, totaling $97410. The outstanding quantity is 3000.
+
+Australian Steel & Wire Pty Ltd, located in Brisbane (M2), placed an order on December 7, 2025, with due date January 5, 2026. The order includes one line item: 2772 units of SMB5113515105S at $110.30 per unit, totaling $305751.60. The outstanding quantity is 2772.
+
+Australian Steel & Wire Pty Ltd, located in Brisbane (M2), placed an order on December 8, 2025, with due date January 5, 2026. The order includes one line item: 1920 units of SMB5018101005 at $140.46 per unit, totaling $269683.20. The outstanding quantity is 1920.
+
+Australian Steel & Wire Pty Ltd, located in Brisbane (M2), placed an order on December 11, 2025, with due date December 22, 2025. The order includes one line item: 4000 units of SMB561604GCD at $113.5953 per unit, totaling $454381.20. The outstanding quantity is 4000.
+
+Australian Steel & Wire Pty Ltd, located in Brisbane (M2), placed an order on December 15, 2025, with due date January 12, 2026. The order includes one line item: 6000 units of SMF251803GCD at $30.7125 per unit, totaling $184275. The outstanding quantity is 6000.
+
+Australian Steel & Wire Pty Ltd, located in Brisbane (M2), placed an order on December 15, 2025, with due date January 5, 2026. The order includes one line item: 2113 units of SMB5002101004 at $54.75 per unit, totaling $115686.75. The outstanding quantity is 2113.
+
+Australian Steel & Wire Pty Ltd, located in Brisbane (M2), placed an order on December 15, 2025, with due date December 29, 2025. The order includes one line item: 3000 units of SMF2420101003 at $33.83 per unit, totaling $101490. The outstanding quantity is 3000.
+
+Australian Steel & Wire Pty Ltd, located in Brisbane (M2), placed an order on December 15, 2025, with due date December 29, 2025. The order includes one line item: 3000 units of SMF2516101031G at $28.77 per unit, totaling $86310. The outstanding quantity is 3000.
+
+Australian Steel & Wire Pty Ltd, located in Brisbane (M2), placed an order on December 15, 2025, with due date January 12, 2026. The order includes one line item: 3600 units of GXB50121010VGOC at $85.65 per unit, totaling $308340. The outstanding quantity is 3600.
+
+Australian Steel & Wire Pty Ltd, located in Brisbane (M2), placed an order on December 15, 2025, with due date January 26, 2026. The order includes one line item: 3240 units of SMB5112151504 at $60.92 per unit, totaling $197380.80. The outstanding quantity is 3240.
+
+Australian Steel & Wire Pty Ltd, located in Brisbane (M2), placed an order on December 15, 2025, with due date January 12, 2026. The order includes one line item: 1188 units of CC5014101005 at $134.42 per unit, totaling $159690.96. The outstanding quantity is 1188.
+
+Australian Steel & Wire Pty Ltd, located in Brisbane (M2), placed an order on December 18, 2025, with due date March 2, 2026. The order includes one line item: 3000 units of SMF2218101003G at $29.3475 per unit, totaling $88042.50. The outstanding quantity is 3000.
+
+Australian Steel & Wire Pty Ltd, located in Sydney (ATFSYD), placed an order on November 25, 2025, with due date December 22, 2025. The order includes one line item: 3400 units of SMF2516757503G at $31.60 per unit, totaling $107440. The outstanding quantity is 3400.
+
+Australian Steel & Wire Pty Ltd, located in Sydney (JMASW), placed an order on October 31, 2025, with due date October 31, 2025. The order includes one line item: 588.708 units of COILGW5.6 at $3808.35 per unit, totaling $2242006.11. The outstanding quantity is 9.67 units.
+
+JM Australian Steel & Wire Pty Ltd works at JM Australian Steel & Wire Pty Ltd (JMASW), located in D1 warehouse. On October 31, 2025, they placed an order for CW500L5, with a description of 5.0mm Bright Wire In Coils R500L5.0-Coils R500L5.0Coils. The ordered quantity was 48 units, with an order value of $163,537.92. The sales price per unit is $3,407.04. As of the due date of December 29, 2025, 24 units have been invoiced, leaving an outstanding quantity of 23.94 units and an outstanding value of $81,564.54.
+
+JM Australian Steel & Wire Pty Ltd works at JM Australian Steel & Wire Pty Ltd (JMASW), located in D1 warehouse. On October 31, 2025, they placed an order for CW500L5, with a description of 5.0mm Bright Wire In Coils R500L5.0-Coils R500L5.0Coils. The ordered quantity was 23.855 units, with an order value of $81,274.94. The sales price per unit is $3,407.04003354. As of the due date of December 29, 2025, 24.032 units have been invoiced, leaving an outstanding quantity of -0.177 units and an outstanding value of -$603.05.
+
+JM Australian Steel & Wire Pty Ltd works at JM Australian Steel & Wire Pty Ltd (JMASW), located in D1 warehouse. On October 31, 2025, they placed an order for CW500L5.6, with a description of 5.6mm Bright Wire In Coils R500L5.6-Coils R500L5.6Coils. The ordered quantity was 48 units, with an order value of $163,537.92. The sales price per unit is $3,407.04. As of the due date of December 29, 2025, 48.259 units have been invoiced, leaving an outstanding quantity of -0.259 units and an outstanding value of -$882.42.
+
+JM Australian Steel & Wire Pty Ltd works at JM Australian Steel & Wire Pty Ltd (JMASW), located in D1 warehouse. On October 31, 2025, they placed an order for CW500L5.6, with a description of 5.6mm Bright Wire In Coils R500L5.6-Coils R500L5.6Coils. The ordered quantity was 24 units, with an order value of $81,768.96. The sales price per unit is $3,407.04. As of the due date of December 29, 2025, 24.065 units have been invoiced, leaving an outstanding quantity of -0.065 units and an outstanding value of -$221.46.
+
+JM Australian Steel & Wire Pty Ltd works at JM Australian Steel & Wire Pty Ltd (JMASW), located in D1 warehouse. On October 31, 2025, they placed an order for CW500L5.6, with a description of 5.6mm Bright Wire In Coils R500L5.6-Coils R500L5.6Coils. The ordered quantity was 24 units, with an order value of $81,768.96. The sales price per unit is $3,407.04. As of the due date of December 29, 2025, 24.256 units have been invoiced, leaving an outstanding quantity of -0.256 units and an outstanding value of -$872.2.
+
+JM Australian Steel & Wire Pty Ltd works at JM Australian Steel & Wire Pty Ltd (JMASW), located in D1 warehouse. On October 31, 2025, they placed an order for CW500L6.3, with a description of 6.3mm Bright Wire In Coils R500L6.3-Coils R500L6.3Coils. The ordered quantity was 24 units, with an order value of $81,768.96. The sales price per unit is $3,407.04. As of the due date of December 29, 2025, 24.187 units have been invoiced, leaving an outstanding quantity of -0.187 units and an outstanding value of -$637.12.
+
+JM Australian Steel & Wire Pty Ltd works at JM Australian Steel & Wire Pty Ltd (JMASW), located in D1 warehouse. On October 31, 2025, they placed an order for CW500L6.3, with a description of 6.3mm Bright Wire In Coils R500L6.3-Coils R500L6.3Coils. The ordered quantity was 24 units, with an order value of $81,768.96. The sales price per unit is $3,407.04. As of the due date of December 29, 2025, 24.136 units have been invoiced, leaving an outstanding quantity of -0.136 units and an outstanding value of -$463.36.
+
+JM Australian Steel & Wire Pty Ltd works at JM Australian Steel & Wire Pty Ltd (JMASW), located in D1 warehouse. On November 10, 2025, they placed an order for CW500L5.6, with a description of 5.6mm Bright Wire In Coils R500L5.6-Coils R500L5.6Coils. The ordered quantity was 24 units, with an order value of $82,368. The sales price per unit is $3,432. As of the due date of December 29, 2025, 24.036 units have been invoiced, leaving an outstanding quantity of -0.036 units and an outstanding value of -$123.55.
+
+JM Australian Steel & Wire Pty Ltd works at JM Australian Steel & Wire Pty Ltd (JMASW), located in D1 warehouse. On November 27, 2025, they placed an order for CW500L5.6, with a description of 5.6mm Bright Wire In Coils R500L5.6-Coils R500L5.6Coils. The ordered quantity was 48 units, with an order value of $163,537.92. The sales price per unit is $3,407.04. As of the due date of January 5, 2026, 48.234 units have been invoiced, leaving an outstanding quantity of -0.234 units and an outstanding value of -$797.25.
+
+JM Australian Steel & Wire Pty Ltd works at JM Australian Steel & Wire Pty Ltd (JMASW), located in D1 warehouse. On November 27, 2025, they placed an order for CW500L5.6, with a description of 5.6mm Bright Wire In Coils R500L5.6-Coils R500L5.6Coils. The ordered quantity was 48 units, with an order value of $163,537.92. The sales price per unit is $3,407.04. As of the due date of January 5, 2026, 0 units have been invoiced, leaving an outstanding quantity of 24 units and an outstanding value of $81,768.96.
+
+JM Australian Steel & Wire Pty Ltd works at JM Australian Steel & Wire Pty Ltd (JMASW), located in D1 warehouse. On December 4, 2025, they placed an order for COILGW5.6, with a description of 5.6mm Galve Wire in Coils P COILGW5.6M. The ordered quantity was 600 units, with an order value of $2,285,010. The sales price per unit is $3,808.35. As of the due date of December 29, 2025, 156.576 units have been despatched, 23.995 units have been invoiced, leaving an outstanding quantity of 443.424 units and an outstanding value of $1,688,713.79.
+
+JM Australian Steel & Wire Pty Ltd works at JM Australian Steel & Wire Pty Ltd (JMASW), located in D1 warehouse. On December 11, 2025, they placed an order for CW500L6, with a description of 6.0mm Bright Wire in Coils R500L6.0-Coils R500L6.0Coils. The ordered quantity was 48 units, with an order value of $163,537.92. The sales price per unit is $3,407.04. As of the due date of January 12, 2026, 0 units have been despatched, 0 units have been invoiced, leaving an outstanding quantity of 48 units and an outstanding value of $163,537.92.
+
+JM Australian Steel & Wire Pty Ltd works at JM Australian Steel & Wire Pty Ltd (JMASW), located in D1 warehouse. On December 14, 2025, they placed an order for CW500L6.3, with a description of 6.3mm Bright Wire In Coils R500L6.3-Coils R500L6.3Coils. The ordered quantity was 48 units, with an order value of $163,537.92. The sales price per unit is $3,407.04. As of the due date of January 12, 2026, 0 units have been despatched, 0 units have been invoiced, leaving an outstanding quantity of 48 units and an outstanding value of $163,537.92.
+
+JM Australian Steel & Wire Pty Ltd works at JM Australian Steel & Wire Pty Ltd (JMASW), located in D1 warehouse. On December 14, 2025, they placed an order for CW500L8, with a description of 8.0mm Bright Wire In coils R500L8.0-Coils R500L8-Coils. The ordered quantity was 24 units, with an order value of $81,768.96. The sales price per unit is $3,407.04. As of the due date of January 12, 2026, 0 units have been despatched, 0 units have been invoiced, leaving an outstanding quantity of 24 units and an outstanding value of $81,768.96.
+
+JM Australian Steel & Wire Pty Ltd works at JM Australian Steel & Wire Pty Ltd (JMASW), located in D1 warehouse. On December 14, 2025, they placed an order for D500L06.0SP, with a description of 6.0mm Ribbed Wire in Spools. The ordered quantity was 24 units, with an order value of $81,768.96. The sales price per unit is $3,407.04. As of the due date of January 12, 2026, 0 units have been despatched, 0 units have been invoiced, leaving an outstanding quantity of 24 units and an outstanding value of $81,768.96.
+
+JM Australian Steel & Wire Pty Ltd works at JM Australian Steel & Wire Pty Ltd (JMASW), located in D1 warehouse. On December 14, 2025, they placed an order for D500L07.6SP, with a description of 7.60mm Ribbed Wire in Spools D500L07.6SP. The ordered quantity was 24 units, with an order value of $81,768.96. The sales price per unit is $3,407.04. As of the due date of January 12, 2026, 0 units have been despatched, 0 units have been invoiced, leaving an outstanding quantity of 24 units and an outstanding value of $81,768.96.
+
+JM Australian Steel & Wire Pty Ltd works at JM Australian Steel & Wire Pty Ltd (JMASW), located in D1 warehouse. On December 14, 2025, they placed an order for D500L08.6SP, with a description of 8.60mm Ribbed Wire in Spools. The ordered quantity was 48 units, with an order value of $163,537.92. The sales price per unit is $3,407.04. As of the due date of January 12, 2026, 0 units have been despatched, 0 units have been invoiced, leaving an outstanding quantity of 48 units and an outstanding value of $163,537.92.
+
+JM Australian Steel & Wire Pty Ltd works at JM Australian Steel & Wire Pty Ltd (JMASW), located in D1 warehouse. On December 14, 2025, they placed an order for TIE3.15X2.3MM, with a description of Tie Wire 3.15mmx2.3m Length Tie-3.15mm-2.3m Tie-3.15mm-2.3m. The ordered quantity was 10 units, with an order value of $37,264.50. The sales price per unit is $3,726.45. As of the due date of January 12, 2026, 0 units have been despatched, 0 units have been invoiced, leaving an outstanding quantity of 10 units and an outstanding value of $37,264.50.
+
+JM Australian Steel & Wire Pty Ltd works at Northern Star (POGO) LLC (POGO), located in D1 warehouse. On November 1, 2025, they placed an order for CCP45241010056G, with a description of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN IMG5H-44-4524. The ordered quantity was 3,300 units, with an order value of $656,205. The sales price per unit is $198.85. As of the due date of December 26, 2025, 0 units have been despatched, 0 units have been invoiced, leaving an outstanding quantity of 3,300 units and an outstanding value of $656,205.
+
+JM Australian Steel & Wire Pty Ltd works at Northern Star (POGO) LLC (POGO), located in D1 warehouse. On November 1, 2025, they placed an order for CCP45241010056G, with a description of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN IMG5H-44-4524. The ordered quantity was 3,300 units, with an order value of $656,205. The sales price per unit is $198.85. As of the due date of January 30, 2026, 0 units have been despatched, 0 units have been invoiced, leaving an outstanding quantity of 3,300 units and an outstanding value of $656,205.
+
+Australian Steel & Wire Pty Ltd placed an order on November 1, 2025, for 3,300 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN IMG5H-44-4524, with a sales price of $198.85 per unit. The order is due on February 27, 2026, and currently has an outstanding quantity of 3,300 units, valued at $656,205 AUD.
+
+Australian Steel & Wire Pty Ltd also placed another order on November 1, 2025, for 3,300 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN IMG5H-44-4524, with a sales price of $198.85 per unit. This order is due on March 27, 2026, and currently has an outstanding quantity of 3,300 units, valued at $656,205 AUD.
+
+Australian Steel & Wire Pty Ltd further placed an order on November 1, 2025, for 3,300 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN IMG5H-44-4524, with a sales price of $198.85 per unit. This order is due on April 30, 2026, and currently has an outstanding quantity of 3,300 units, valued at $656,205 AUD.
+
+Wynyard Contracting Services ordered 1,440 units of MESH 100X100X4800X1400X4MM BLACK IMB4-44-4814-CCC on November 5, 2025, with a sales price of $100.86 per unit. The order is due on December 8, 2025, and currently has an outstanding quantity of 1,440 units, valued at $145,238.40 AUD.
+
+Wynyard Contracting Services placed another order on December 7, 2025, for 1,440 units of MESH 100X100X4800X1400X4MM BLACK IMB4-44-4814-CCC, with a sales price of $100.86 per unit. This order is due on December 29, 2025, and currently has an outstanding quantity of 1,440 units, valued at $145,238.40 AUD.
+
+Wynyard Contracting Services ordered 1,440 units of MESH 100X100X4800X1400X4MM BLACK IMB4-44-4814-CCC on December 15, 2025, with a sales price of $100.86 per unit. The order is due on January 26, 2026, and currently has an outstanding quantity of 1,440 units, valued at $145,238.40 AUD.

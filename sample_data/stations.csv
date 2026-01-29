@@ -1,0 +1,4 @@
+station_id,name,county_id,city,established_year,staffing_level,apparatus_count,coverage_area_sqmi,annual_call_volume,primary_hazards
+AK-001,Denali Ridge Fire Station,AK-C01,Healy,1984,28,6,320,1450,Wildland fire; Remote cabins; Highway accidents
+AK-002,Glacier Bay Fire Station,AK-C02,Gustavus,1999,18,4,210,620,Wildland fire; Marine rescues; Remote lodges
+AK-003,Kenai Fjord Fire Station,AK-C03,Seward,1975,36,7,180,2100,Port incidents; Wildland fire; Avalanche response

@@ -1,0 +1,589 @@
+COILGW5.6 is processed with a quantity of 75,000 units on June 1, 2025. The production aims to achieve 9,069 kilograms per hour, with an actual total of 0 kilograms. The next day, June 2, 2025, another batch of 75,000 units is processed, achieving 6,000 kilograms, matching the planned totals. On June 3, 2025, the processing continues with 75,000 units, achieving 9,120 kilograms, also matching the planned totals. A comment notes that the same day, a different shift achieves 19,211 kilograms, surpassing the planned totals. On June 4, 2025, 3,020 kilograms are achieved, while on June 5, 2025, the achievement is 1,015 kilograms, with an additional shift achieving 7,095 kilograms, totaling 8,110 kilograms. The following days, June 6 and June 7, 2025, see achievements of 7,035 and 8,200 kilograms respectively, matching the planned totals. On June 8, 2025, the week changes to 24, and 8,215 kilograms are achieved. On June 9, 2025, 9,115 kilograms are achieved, again matching the planned totals. On June 10, 2025, 8,080 kilograms are achieved, with an additional shift achieving 9,198 kilograms, totaling 17,278 kilograms. On June 11, 2025, 8,015 kilograms are achieved, with an additional shift achieving 5,080 kilograms, totaling 13,095 kilograms. On June 12, 2025, 9,045 kilograms are achieved, with an additional shift achieving 7,035 kilograms, totaling 16,080 kilograms. On June 13, 2025, 9,038 kilograms are achieved, with an additional shift achieving 9,235 kilograms, totaling 18,273 kilograms. On June 14, 2025, 7,040 kilograms are achieved, with an additional shift achieving 8,300 kilograms, totaling 15,340 kilograms. On June 15, 2025, the week changes to 25, and 6,040 kilograms are achieved. On June 16, 2025, 7,055 kilograms are achieved, with an additional shift achieving 8,175 kilograms, totaling 15,230 kilograms. On June 17, 2025, 8,065 kilograms are achieved, with an additional shift achieving 10,240 kilograms, totaling 18,305 kilograms. On June 18, 2025, 8,075 kilograms are achieved, matching the planned totals. On June 18, 2025, a different shift achieves 8,085 kilograms, also matching the planned totals.
+
+COILGW5.6 is scheduled for production on June 19, 2025, with a quantity of 75,000 units. The production was not completed on the next day. The achieved production was 9,085 units, while the planned total was 18,350 units. The tons per hour rate was 0.9.
+
+COILGW5.6 is again scheduled for production on June 20, 2025, with the same quantity of 75,000 units. The production was not completed on the next day. The achieved production was 7,005 units, while the planned total was 13,210 units. The tons per hour rate was 0.9.
+
+R500L5.60Blk comments on COILGW5.6 production on June 21, 2025, with a quantity of 75,000 units. The production was not completed on the next day. The achieved production was 9,115 units, while the planned total was 17,410 units. The tons per hour rate was 0.9.
+
+COILGW5.6 is scheduled for production on June 22, 2025, with a quantity of 75,000 units. The production was not completed on the next day. The achieved production was 8,040 units, while the planned total was 15,275 units. The tons per hour rate was 0.9.
+
+COILGW5.6 is scheduled for production on June 23, 2025, with the same quantity of 75,000 units. The production was not completed on the next day. The achieved production was 2,010 units, while the planned total was 11,062 units. The tons per hour rate was 0.9.
+
+COILGW5.6 is scheduled for production on June 24, 2025, with the same quantity of 75,000 units. The production was not completed on the next day. The achieved production was 8,015 units, while the planned total was 8,015 units. The tons per hour rate was 0.9.
+
+R500L5.60Blk comments on COILGW5.6 production on June 24, 2025, with a quantity of 75,000 units. The production was completed on the next day. The achieved production was 9,140 units, while the planned total was 9,140 units. The tons per hour rate was 0.9.
+
+COILGW5.6 is scheduled for production on June 25, 2025, with a quantity of 75,000 units. The production was not completed on the next day. The achieved production was 6,020 units, while the planned total was 14,305 units. The tons per hour rate was 0.9.
+
+COILGW5.6 is scheduled for production on June 26, 2025, with the same quantity of 75,000 units. The production was not completed on the next day. The achieved production was 8,065 units, while the planned total was 15,160 units. The tons per hour rate was 0.9.
+
+COILGW5.6 is scheduled for production on June 27, 2025, with the same quantity of 75,000 units. The production was not completed on the next day. The achieved production was 7,060 units, while the planned total was 7,060 units. The tons per hour rate was 0.9.
+
+R500L5.60Blk comments on COILGW5.6 production on June 28, 2025, with a quantity of 75,000 units. The production was not completed on the next day. The achieved production was 4,970 units, while the planned total was 13,120 units. The tons per hour rate was 0.9.
+
+COILGW5.6 is scheduled for production on June 29, 2025, with a quantity of 75,000 units. The production was not completed on the next day. The achieved production was 6,115 units, while the planned total was 15,295 units. The tons per hour rate was 0.9.
+
+COILGW5.6 is scheduled for production on June 30, 2025, with the same quantity of 75,000 units. The production was not completed on the next day. The achieved production was 9,110 units, while the planned total was 19,245 units. The tons per hour rate was 0.9.
+
+R500L5.60Blk comments on COILGW5.6 production on July 1, 2025, with a quantity of 45,000 units. The production was not completed on the next day. The achieved production was 8,155 units, while the planned total was 17,250 units. The tons per hour rate was 0.9.
+
+COILGW5.6 is scheduled for production on July 2, 2025, with the same quantity of 45,000 units. The production was not completed on the next day. The achieved production was 9,110 units, while the planned total was 17,140 units. The tons per hour rate was 0.9.
+
+COILGW5.6 is scheduled for production on July 3, 2025, with the same quantity of 45,000 units. The production was not completed on the next day. The achieved production was 5,955 units. The tons per hour rate was 0.9.
+
+R500L5.60Blk comments on COILGW5.6 production on July 4, 2025, with a quantity of 45,000 units. The production was not completed on the next day. The achieved production was 8,090 units, while the planned total was 17,250 units. The tons per hour rate was 0.9.
+
+COILGW5.6 is scheduled for production on July 5, 2025, with the same quantity of 45,000 units. The production was not completed on the next day. The achieved production was 8,180 units, while the planned total was 8,185 units. The tons per hour rate was 0.9.
+
+COILGW5.6 is scheduled for production on July 6, 2025, with the same quantity of 45,000 units. The production was not completed on the next day. The achieved production was 9,085 units, while the planned total was 17,250 units. The tons per hour rate was 0.9.
+
+COILGW5.6 is scheduled for production on July 7, 2025, with the same quantity of 45,000 units. The production was not completed on the next day. The achieved production was 2,995 units. The tons per hour rate was 0.9.
+
+dia4.0blk SAE1022 IDCAS was ordered on July 7, 2025, with a quantity of 1500. The product is COILGW4.0, and it was assigned the Ross code COILGW4. Production was completed on the same day.
+
+dia4.0blk SAE1022 ThepViet was ordered on July 7, 2025, with a quantity of 500. The product is COILGW4.0, and it was assigned the Ross code COILGW4. Production was completed on the same day.
+
+R500L5.60Blk was ordered on July 8, 2025, with a quantity of 6916. The product is COILGW5.6, and it was assigned the Ross code COILGW5.6. No production was completed on the same day.
+
+Production was not completed on July 9, 2025, with an achievement of 6100.
+
+R500L5.60Blk was ordered on July 10, 2025, with a quantity of 45000. The product is COILGW5.6, and it was assigned the Ross code COILGW5.6. No production was completed on the same day.
+
+Production was not completed on July 11, 2025, with an achievement of 8145.
+
+R500L4.00Blk GX was ordered on July 12, 2025, with a quantity of 2000. The product is COILGW4.0, and it was assigned the Ross code COILGW4. Production was not completed on the same day, with an achievement of 820.
+
+Production was not completed on July 13, 2025.
+
+Production was not completed on July 14, 2025.
+
+Production was not completed on July 15, 2025.
+
+R500L4.00Blk GX was ordered on July 16, 2025, with a quantity of 40500. The product is COILGW4.0, and it was assigned the Ross code COILGW4. Production was not completed on the same day, with an achievement of 3015.
+
+Production was not completed on July 17, 2025, with an achievement of 3185.
+
+Production was not completed on July 18, 2025, with an achievement of 2030.
+
+Production was not completed on July 19, 2025, with an achievement of 3100.
+
+Production was not completed on July 20, 2025, with an achievement of 2035.
+
+Production was not completed on July 21, 2025, with an achievement of 1010.
+
+R500L5.60Blk was ordered on July 21, 2025, with a quantity of 45000. The product is COILGW5.6, and it was assigned the Ross code COILGW5.6. Production was completed on the same day, with an achievement of 2025.
+
+Production was not completed on July 22, 2025, with an achievement of 9095.
+
+Production was not completed on July 23, 2025, with an achievement of 9245.
+
+Production was not completed on July 24, 2025, with an achievement of 1030.
+
+R500L5.60Blk is ordered in 45,000 units of COILGW5.6 on July 24, 2025. The order is marked for same-day delivery. By the end of the day, 10,220 units are achieved.
+
+On July 25, 2025, no same-day delivery is requested. The achievement is 9,050 units, with an earlier target of 7,980 units.
+
+The next day, July 26, 2025, also has no same-day delivery request. The achievement is 9,170 units, with an earlier target of 7,165 units.
+
+On July 27, 2025, the week changes to 31. No same-day delivery is requested. The achievement is 4,065 units, with an earlier target of 9,395 units.
+
+On July 28, 2025, no same-day delivery is requested. The achievement is 7,128 units.
+
+R500L5.60Blk is ordered again in 45,000 units of COILGW5.6 on July 28, 2025. The order is marked for same-day delivery. By the end of the day, 6,375 units are achieved.
+
+On July 29, 2025, R500L4.00Blk GX is ordered in 40,500 units of COILGW4.0, with ROSS code COILGW4. No same-day delivery is requested. The achievement is 1,815 units, with an earlier target of 3,225 units.
+
+On July 30, 2025, no same-day delivery is requested. The achievement is 3,204 units, with an earlier target of 2,175 units.
+
+On July 31, 2025, no same-day delivery is requested. The achievement is 3,185 units, with an earlier target of 3,165 units.
+
+On August 1, 2025, no same-day delivery is requested. The achievement is 1,055 units, with an earlier target of 3,175 units.
+
+On August 2, 2025, no same-day delivery is requested. The achievement is 3,050 units, with an earlier target of 2,135 units.
+
+R500L4.00Blk GX is ordered again in 40,500 units of COILGW4.0, with ROSS code COILGW4 on August 3, 2025. No same-day delivery is requested. The achievement is 3,068 units, with an earlier target of 3,175 units.
+
+On August 4, 2025, no same-day delivery is requested. The achievement is 975 units.
+
+On August 5, 2025, no same-day delivery is requested. The achievement is 895 units, with an earlier target of 3,050 units.
+
+On August 6, 2025, no same-day delivery is requested. The achievement is 1,040 units, with an earlier target of 2,015 units.
+
+On August 7, 2025, no same-day delivery is requested. The achievement is 3,080 units, with an earlier target of 2,050 units.
+
+On August 8, 2025, no same-day delivery is requested. The achievement is 2,045 units, with an earlier target of 2,040 units.
+
+R500L5.60Blk is ordered again in 45,000 units of COILGW5.6 on August 9, 2025. No same-day delivery is requested. The achievement is 4,040 units, with an earlier target of 6,235 units.
+
+On August 10, 2025, the week changes to 33. No same-day delivery is requested. The achievement is 8,070 units, with an earlier target of 8,235 units.
+
+On August 11, 2025, no same-day delivery is requested. The achievement is 9,140 units, with an earlier target of 10,180 units.
+
+On August 12, 2025, 45,000 units of the COILGW5.6 product were ordered. The order was not fulfilled the next day. The achieved quantity was 5,045 units.
+
+On August 12, 2025, an order for 45,000 units of the COILGW4.75 product was placed. The order was fulfilled the next day. The achieved quantity was 4,070 units.
+
+On August 13, 2025, no orders were placed. The achieved quantities for the previous two days were 3,025 and 3,020 units respectively.
+
+On August 14, 2025, no orders were placed. The achieved quantities for the previous two days were 3,030 and 3,115 units respectively.
+
+On August 15, 2025, no orders were placed. The achieved quantities for the previous two days were 2,010 and 1,000 units respectively.
+
+On August 16, 2025, no orders were placed. The week was 33.
+
+On August 17, 2025, no orders were placed. The week was 34.
+
+On August 18, 2025, no orders were placed. The achieved quantity for the previous day was 4,011 units.
+
+On August 19, 2025, no orders were placed. The achieved quantities for the previous two days were 4,170 and 2,895 units respectively.
+
+On August 20, 2025, no orders were placed. The achieved quantities for the previous two days were 5,095 and 5,080 units respectively.
+
+On August 21, 2025, no orders were placed. The achieved quantities for the previous two days were 3,130 and 3,910 units respectively.
+
+On August 22, 2025, no orders were placed. The achieved quantities for the previous two days were 4,895 and 2,765 units respectively.
+
+On August 23, 2025, no orders were placed. The achieved quantity for the previous day was 5,005 units.
+
+On August 23, 2025, an order for 45,000 units of the COILGW4.75 product was placed. The order was fulfilled the next day. The achieved quantity was 3,050 units.
+
+On August 24, 2025, no orders were placed. The achieved quantities for the previous two days were 2,045 and 3,930 units respectively.
+
+On August 25, 2025, no orders were placed. The achieved quantities for the previous two days were 4,145 and 5,005 units respectively.
+
+On August 26, 2025, no orders were placed. The achieved quantities for the previous two days were 4,005 and 3,010 units respectively.
+
+On August 27, 2025, no orders were placed. The week was 35.
+
+On August 28, 2025, no orders were placed. The week was 35.
+
+On August 29, 2025, no orders were placed. The week was 35.
+
+On August 30, 2025, there was no same-day occurrence recorded. The week number was 35.
+
+On August 31, 2025, there was no same-day occurrence recorded. The week number was 36.
+
+On September 1, 2025, there was no same-day occurrence recorded. The week number was 36.
+
+On September 2, 2025, there was no same-day occurrence recorded. The week number was 36.
+
+On September 3, 2025, there was no same-day occurrence recorded. The week number was 36.
+
+On September 4, 2025, there was no same-day occurrence recorded. The week number was 36.
+
+On September 5, 2025, there was no same-day occurrence recorded. The week number was 36.
+
+On September 6, 2025, there was no same-day occurrence recorded. The week number was 36.
+
+On September 7, 2025, there was no same-day occurrence recorded. The week number was 37.
+
+On September 8, 2025, there was no same-day occurrence recorded. The week number was 37.
+
+On September 9, 2025, there was no same-day occurrence recorded. The week number was 37.
+
+On September 10, 2025, there was no same-day occurrence recorded. The week number was 37.
+
+On September 11, 2025, there was no same-day occurrence recorded. The week number was 37.
+
+On September 12, 2025, there was no same-day occurrence recorded. The week number was 37.
+
+On September 13, 2025, there was no same-day occurrence recorded. The week number was 37.
+
+On September 14, 2025, there was no same-day occurrence recorded. The week number was 38.
+
+On September 15, 2025, there was no same-day occurrence recorded. The week number was 38.
+
+On September 16, 2025, there was no same-day occurrence recorded. The week number was 38.
+
+On September 17, 2025, there was no same-day occurrence recorded. The week number was 38.
+
+On September 18, 2025, there was no same-day occurrence recorded. The week number was 38.
+
+On September 19, 2025, no same-day production was recorded. The week number was 38.
+
+On September 20, 2025, no same-day production was recorded. The week number remained 38.
+
+On September 21, 2025, no same-day production was recorded. The week number increased to 39.
+
+On September 22, 2025, no same-day production was recorded. The week number stayed at 39.
+
+On September 23, 2025, no same-day production was recorded. The week number remained 39.
+
+On September 24, 2025, no same-day production was recorded. The week number stayed at 39.
+
+On September 25, 2025, no same-day production was recorded. The week number remained 39.
+
+On September 26, 2025, no same-day production was recorded. The week number stayed at 39.
+
+On September 27, 2025, no same-day production was recorded. The week number remained 39.
+
+On September 28, 2025, no same-day production was recorded. The week number increased to 40.
+
+On September 29, 2025, no same-day production was recorded. The week number stayed at 40.
+
+On September 30, 2025, no same-day production was recorded. The week number remained 40.
+
+On October 1, 2025, no same-day production was recorded. The week number stayed at 40.
+
+On October 2, 2025, no same-day production was recorded. The week number remained 40.
+
+On October 3, 2025, no same-day production was recorded. The week number stayed at 40.
+
+On October 4, 2025, no same-day production was recorded. The week number remained 40.
+
+On October 7, 2025, a production run of 40,500 units was recorded. The comment noted "R500L4.00Blk GX". The dmw_product code was COILGW4.0, and the ross_code was COILGW4. The achieved quantity was 1,900 units, while the target was 2,100 units. The week number was 41.
+
+On October 8, 2025, a production run of 1,025 units was recorded. The comment noted "Use WR dia6.5 Viet Thep SAE1022". The achieved quantity was 1,025 units, while the target was 2,052 units. The week number was 41.
+
+On October 9, 2025, the achievement was 2860.0, while the previous day's achievement was 3097.0.
+
+On October 10, 2025, the achievement dropped to 1957.0, compared to 3156.0 from the previous day.
+
+On October 11, 2025, the achievement was 987.0, following 2075.0 from the previous day.
+
+On October 12, 2025, the achievement increased to 2110.0, while the previous day's achievement was 3020.0.
+
+On October 13, 2025, the achievement was 2050.0, with the previous day's achievement being 4022.0.
+
+On October 14, 2025, the achievement was 1880.0, following 2050.0 from the previous day.
+
+On October 15, 2025, the achievement was 1998.0, after 1880.0 from the previous day.
+
+On October 16, 2025, the achievement was 3005.0. This day also saw a comment about using WR dia6.5 Viet Thep SAE1022.
+
+On October 17, 2025, the achievement was 2015.0, with the previous day's achievement being 2894.0.
+
+On October 18, 2025, the achievement was 2042.0, following 2015.0 from the previous day.
+
+On October 19, 2025, the achievement was 3106.0, while the previous day's achievement was 2065.0.
+
+On October 20, 2025, the achievement was 3030.0, with the previous day's achievement being 3106.0.
+
+On October 21, 2025, the achievement was 2201.0, after 3030.0 from the previous day. A comment noted that the product was R500L4.75Blk GX, with a quantity of 45000.0.
+
+On October 22, 2025, the achievement was 3063.0, following 2201.0 from the previous day.
+
+On October 23, 2025, the achievement was 3066.0, after 3063.0 from the previous day.
+
+On October 24, 2025, the achievement was 810.0, with the previous day's achievement being 3066.0.
+
+On October 25, 2025, the achievement was 5148.0, following 810.0 from the previous day.
+
+On October 26, 2025, the achievement was 1012.0.
+
+On October 27, 2025, no same-day production was recorded. The week was numbered 44, and the achievement was 4036 units.
+
+On October 28, 2025, no same-day production was recorded. The week was numbered 44, and the achievement was 3528 units.
+
+A comment regarding R500L4.0Blk GX was noted. The product is 4.00mm GX Galve Wire In Coils, with a Ross code of COILGWX4. A quantity of 40000 units was ordered. On the same day, some production was achieved, totaling 1000 units, with an additional 1120 units produced the following day.
+
+On October 29, 2025, no same-day production was recorded. The week was numbered 44, and the achievement was 2994 units.
+
+On October 30, 2025, no same-day production was recorded. The week was numbered 44, and the achievement was 1016 units.
+
+On October 31, 2025, no same-day production was recorded. The week was numbered 44, and the achievement was 3055 units.
+
+On November 1, 2025, no same-day production was recorded. The week was numbered 44.
+
+On November 2, 2025, no same-day production was recorded. The week was numbered 45.
+
+A comment regarding R500L4.0Blk GX was noted again. The product is 4.00mm GX Galve Wire In Coils, with a Ross code of COILGWX4. A quantity of 68000 units was ordered. On November 3, 2025, no same-day production was recorded. The week was numbered 45, and the achievement was 2100 units.
+
+A new sinker replacement was reported on November 4, 2025. No same-day production was recorded. The week was numbered 45, and the achievement was 2012 units.
+
+On November 5, 2025, no same-day production was recorded. The week was numbered 45, and the achievement was 2835 units.
+
+On November 6, 2025, no same-day production was recorded. The week was numbered 45, and the achievement was 1800 units.
+
+On November 7, 2025, no same-day production was recorded. The week was numbered 45, and the achievement was 3010 units.
+
+On November 8, 2025, no same-day production was recorded. The week was numbered 45, and the achievement was 2976 units.
+
+On November 9, 2025, a comment regarding R500L5.0Blk GX was noted. The product is 5.00mm GX Galve Wire In Coils, with a Ross code of COILGWX4. A quantity of 2000 units was ordered. On the same day, some production was achieved, totaling 1889 units.
+
+A comment regarding R500L4.75Blk GX was noted. The product is 4.75mm GX Galve Wire In Coils, with a Ross code of COILGWX4.75. A quantity of 68000 units was ordered. On November 10, 2025, no same-day production was recorded. The week was numbered 46, and the achievement was 2066 units.
+
+On November 11, 2025, no same-day production was recorded. The week was numbered 46, and the achievement was 4084 units.
+
+On November 12, 2025, no same-day production was recorded. The week was numbered 46, and the achievement was 4085 units.
+
+On November 13, 2025, no same-day production was recorded. The week was numbered 46, and the achievement was 5037 units.
+
+On November 14, 2025, no same-day production was recorded. The week was numbered 46, and the achievement was 2895 units.
+
+On November 15, 2025, no same-day production was noted. The week remained 46, with an achievement of 4095 units and an additional achievement of 4340 units.
+
+On November 16, 2025, no same-day production was reported. The week changed to 47, with an achievement of 1005 units and an additional achievement of 850 units.
+
+On November 17, 2025, the comment indicated "R500L4.0Blk GX," with a DMW product size of 4.00mm GX Galve Wire In Coils, and a Ross code of COILGWX4. No same-day production was recorded. The week was 47, with an achievement of 1000 units and an additional achievement of 2935 units.
+
+On November 18, 2025, no same-day production was recorded. The week remained 47, with an achievement of 3045 units and an additional achievement of 2862 units.
+
+On November 19, 2025, no same-day production was noted. The week continued to be 47, with an achievement of 3035 units and an additional achievement of 2975 units.
+
+On November 20, 2025, no same-day production was recorded. The week stayed at 47, with an achievement of 1015 units and an additional achievement of 3025 units.
+
+On November 21, 2025, no same-day production was reported. The week remained 47, with an achievement of 2905 units and an additional achievement of 3025 units.
+
+On November 22, 2025, no same-day production was recorded. The week was 47, with an achievement of 2020 units and an additional achievement of 930 units.
+
+On November 23, 2025, no same-day production was noted. The week changed to 48, with an achievement of 2020 units.
+
+On November 24, 2025, no same-day production was recorded. The week was 48, with an achievement of 950 units and an additional achievement of 1000 units.
+
+On November 25, 2025, no same-day production was reported. The week continued to be 48, with an achievement of 1005 units and an additional achievement of 3106 units.
+
+On November 26, 2025, the comment indicated "R500L5.0Blk GX," with a DMW product size of 5.0mm GX Galve Wire In Coils, and a Ross code of COILGWX5.0. Same-day production was noted, with an additional achievement of 2010 units. The week was 48.
+
+On November 27, 2025, no same-day production was recorded. The week remained 48, with an achievement of 5070 units and an additional achievement of 4155 units.
+
+On November 28, 2025, no same-day production was noted. The week continued to be 48, with an achievement of 5045 units and an additional achievement of 6035 units.
+
+On November 29, 2025, no same-day production was recorded. The week stayed at 48, with an achievement of 4020 units and an additional achievement of 5031 units.
+
+On December 1, 2025, no same-day production was reported. The week changed to 49, with an achievement of 5015 units and an additional achievement of 5115 units.
+
+On December 2, 2025, no same-day production was noted. The week was 49, with an achievement of 2560 units.
+
+R500L4.75Blk GX is a product of 4.75mm GX Galv Wire in coils, with a quantity of 68,000 units. It was processed on December 2, 2025, achieving 1,025 units on the same day. The next day, December 3, 2025, no next-day processing occurred, with an achievement of 4,010 units. Processing continued on December 4, 2025, but no next-day processing was done, and the achievement was 5,055 units. On December 5, 2025, no next-day processing took place, with an achievement of 1,010 units. On December 6, 2025, no next-day processing was done, achieving 4,013 units. Processing moved to the next week on December 7, 2025, with a same-day processing status, achieving 5,025 units. A different product, R500L4.0Blk GX, which is 4.00mm GX Galv Wire in coils, also had a quantity of 68,000 units. It was processed on the same day, December 7, 2025, achieving 2,060 units. No next-day processing occurred on December 8, 2025, with an achievement of 2,010 units. On December 9, 2025, no next-day processing was done, achieving 2,005 units. Processing continued on December 10, 2025, with an achievement of 3,035 units. On December 11, 2025, no next-day processing took place, achieving 1,965 units. On December 12, 2025, no next-day processing was done, achieving 1,015 units. On December 13, 2025, no next-day processing was done, achieving 1,990 units. Processing moved to the following week on December 14, 2025, with an achievement of 2,020 units. On December 15, 2025, no next-day processing occurred. On December 16, 2025, no next-day processing was done, achieving 1,000 units. On December 17, 2025, no next-day processing was done, achieving 3,274 units. Processing continued on December 18, 2025, with an achievement of 2,002 units. On December 19, 2025, no next-day processing was done, achieving 3,005 units. On December 20, 2025, no next-day processing was done, achieving 1,630 units.
+
+R500L4.75Blk GX wire in coils, identified by the ross_code COILGWX4.75, was delivered on December 20, 2025, with same-day delivery. The production achieved 2005 units, while the previous day's production was 3050 units.
+
+On December 21, 2025, no same-day delivery was made. The production achieved 4053 units, while the previous day's production was 3005 units.
+
+A new sinker replacement was produced on December 22, 2025, with no same-day delivery. The production achieved 6119 units, while the previous day's production was 4025 units.
+
+On December 23, 2025, no same-day delivery was made. The production achieved 5070 units, while the previous day's production was 4902 units.
+
+R500L4.0Blk GX wire in coils, identified by the ross_code COILGWX4, was produced on December 24, 2025, with no same-day delivery. The production achieved 2000 units, while the previous day's production was 3020 units.
+
+On December 25, 2025, no same-day delivery was made. The production achieved 3003 units, while the previous day's production was 12106 units.
+
+On December 26, 2025, no same-day delivery was made. The production achieved 1004 units, while the previous day's production was 3027 units.
+
+On December 27, 2025, no same-day delivery was made. The production achieved 2986 units, while the previous day's production was 3005 units.
+
+On December 28, 2025, no same-day delivery was made. The production achieved 3010 units, while the previous day's production was 2020 units.
+
+R500L4.0Blk GX wire in coils, identified by the ross_code COILGWX4, was produced on December 29, 2025, with no same-day delivery. The production achieved 3035 units, while the previous day's production was 4025 units.
+
+On December 30, 2025, no same-day delivery was made. The production achieved 3033 units, while the previous day's production was 2998 units.
+
+On December 31, 2025, no same-day delivery was made. The production achieved 3015 units, while the previous day's production was 2132 units.
+
+On January 1, 2026, no same-day delivery was made.
+
+On January 2, 2026, no same-day delivery was made.
+
+On January 3, 2026, no same-day delivery was made.
+
+On January 4, 2026, no same-day delivery was made. The production achieved 2015 units, while the previous day's production was 2050 units.
+
+On January 5, 2026, no same-day delivery was made. The production achieved 3020 units, while the previous day's production was 2905 units.
+
+On January 6, 2026, no same-day delivery was made. The production achieved 4015 units, while the previous day's production was 3030 units.
+
+On January 7, 2026, no same-day delivery was made. The production achieved 3025 units, while the previous day's production was 2045 units.
+
+On January 9, 2026, the achievement was 1000.0, and the next day's achievement was 3055.0.
+
+On January 10, 2026, the achievement was 3003.0, and the next day's achievement was 4032.0.
+
+On January 11, 2026, the achievement was 2010.0, and the next day's achievement was 2009.0.
+
+On January 12, 2026, the achievement was 2005.0, and the next day's achievement was 3018.0.
+
+On January 13, 2026, the achievement was 3025.0, and the next day's achievement was 3024.0.
+
+On January 14, 2026, the achievement was 3020.0, and the next day's achievement was 3059.0.
+
+A comment of R500L4.0Blk GX was made on January 15, 2026, regarding the product 4.00mm GX Galve Wire In Coils, with a quantity of 10000.0. The achievement was 3015.0, and the next day's achievement was 2945.0.
+
+On January 16, 2026, the achievement was 2005.0, and the next day's achievement was 3030.0.
+
+On January 17, 2026, the achievement was 3015.0, and the next day's achievement was 3035.0.
+
+On January 18, 2026, the achievement was 3002.0, and the next day's achievement was 3000.0.
+
+A comment of R500L4.75Blk GX was made on January 19, 2026, regarding the product 4.75mm GX Galve Wire In Coils, with a quantity of 30000.0. The achievement was 3030.0, and the next day's achievement was 4000.0.
+
+On January 20, 2026, the achievement was 3015.0, and the next day's achievement was 2995.0.
+
+On January 21, 2026, the achievement was 2035.0, and the next day's achievement was 3040.0.
+
+On January 22, 2026, the achievement was 3010.0, and the next day's achievement was 2300.0.
+
+A comment of R500L4.75Blk GX was made on January 22, 2026, regarding the product 4.75mm GX Galve Wire In Coils, with a quantity of 30000.0. The achievement was 1990.0, and the next day's achievement was 3000.0.
+
+On January 23, 2026, the achievement was 2015.0, and the next day's achievement was 24236.0.
+
+On January 24, 2026, the achievement was 6010.0, and the next day's achievement was 6140.0.
+
+On January 25, 2026, the achievement was 6020.0, and the next day's achievement was 3030.0.
+
+A comment of R500L4.75Blk GX was made on January 25, 2026, regarding the product 4.75mm GX Galve Wire In Coils, with a quantity of 30000.0. The achievement was 3070.0, and the next day's achievement was 3000.0.
+
+On January 26, 2026, the achievement was 2015.0, and the next day's achievement was 0.0.
+
+On January 27, 2026, there was no same-day activity recorded for week 5.
+
+On January 28, 2026, there was no same-day activity recorded for week 5.
+
+On January 29, 2026, there was no same-day activity recorded for week 5.
+
+On January 30, 2026, there was no same-day activity recorded for week 5.
+
+On January 31, 2026, there was no same-day activity recorded for week 5.
+
+On February 1, 2026, there was no same-day activity recorded for week 6.
+
+On February 2, 2026, there was no same-day activity recorded for week 6.
+
+On February 3, 2026, there was no same-day activity recorded for week 6.
+
+On February 4, 2026, there was no same-day activity recorded for week 6.
+
+On February 5, 2026, there was no same-day activity recorded for week 6.
+
+On February 6, 2026, there was no same-day activity recorded for week 6.
+
+On February 7, 2026, there was no same-day activity recorded for week 6.
+
+On February 8, 2026, there was no same-day activity recorded for week 7.
+
+On February 9, 2026, there was no same-day activity recorded for week 7.
+
+On February 10, 2026, there was no same-day activity recorded for week 7.
+
+On February 11, 2026, there was no same-day activity recorded for week 7.
+
+On February 12, 2026, there was no same-day activity recorded for week 7.
+
+On February 13, 2026, there was no same-day activity recorded for week 7.
+
+On February 14, 2026, there was no same-day activity recorded for week 7.
+
+On February 15, 2026, there was no same-day activity recorded for week 8.
+
+On February 16, 2026, an event occurred in week 8 where no specific details were recorded.
+
+On February 17, 2026, another event took place in week 8 with no additional information provided.
+
+On February 18, 2026, an event was noted in week 8, but no further details were included.
+
+On February 19, 2026, an event was documented in week 8, with no extra information available.
+
+On February 20, 2026, an event was recorded in week 8, but no additional details were provided.
+
+On February 21, 2026, an event was logged in week 8, with no further information given.
+
+On February 22, 2026, an event was reported in week 9, with no additional details.
+
+On February 23, 2026, another event was noted in week 9, but no further information was included.
+
+On February 24, 2026, an event was recorded in week 9, with no additional details provided.
+
+On February 25, 2026, an event was logged in week 9, with no further information given.
+
+On February 26, 2026, an event was reported in week 9, with no additional details.
+
+On February 27, 2026, an event was documented in week 9, with no further information available.
+
+On February 28, 2026, an event was recorded in week 9, with no additional details provided.
+
+On February 29, 2026, an event was logged in week 9, with no further information given.
+
+On March 1, 2026, an event was reported in week 10, with no additional details.
+
+On March 2, 2026, another event was noted in week 10, but no further information was included.
+
+On March 3, 2026, an event was recorded in week 10, with no additional details provided.
+
+On March 4, 2026, an event was logged in week 10, with no further information given.
+
+On March 5, 2026, an event was reported in week 10, with no additional details.
+
+On March 6, 2026, an event was documented in week 10, with no further information available.
+
+On March 7, 2026, an event was recorded in week 10, with no additional details provided.
+
+On March 8, 2026, an event occurred during week 11, with no specific details noted beyond the date and week number.
+
+On March 9, 2026, another event took place during week 11, similarly with no additional details provided.
+
+On March 10, 2026, an event was recorded during week 11, again with no further information.
+
+On March 11, 2026, an event was documented during week 11, with no extra details.
+
+On March 12, 2026, an event was noted during week 11, with no additional information.
+
+On March 13, 2026, an event was registered during week 11, with no further details.
+
+On March 14, 2026, an event was documented during week 11, with no additional information.
+
+On March 15, 2026, an event occurred during week 12, with no specific details noted beyond the date and week number.
+
+On March 16, 2026, another event took place during week 12, similarly with no additional details provided.
+
+On March 17, 2026, an event was recorded during week 12, again with no further information.
+
+On March 18, 2026, an event was documented during week 12, with no extra details.
+
+On March 19, 2026, an event was noted during week 12, with no additional information.
+
+On March 20, 2026, an event was registered during week 12, with no further details.
+
+On March 21, 2026, an event was documented during week 12, with no extra information.
+
+On March 22, 2026, an event occurred during week 12, with no specific details noted beyond the date and week number.
+
+On March 23, 2026, another event took place during week 12, similarly with no additional details provided.
+
+On March 24, 2026, an event was recorded during week 12, again with no further information.
+
+On March 25, 2026, an event was documented during week 12, with no extra details.
+
+On March 26, 2026, an event was noted during week 12, with no additional information.
+
+On March 27, 2026, an event was registered during week 12, with no further details.
+
+On March 28, 2026, an event occurred in week 13, with no additional details provided.
+
+On March 29, 2026, an event took place in week 14, with no further information available.
+
+On March 30, 2026, another event was recorded in week 14, with no additional details.
+
+On March 31, 2026, an event was noted in week 14, with no further information given.
+
+On April 1, 2026, an event was documented in week 14, with no additional details.
+
+On April 2, 2026, an event occurred in week 14, with no further information available.
+
+On April 3, 2026, an event was recorded in week 14, with no additional details.
+
+On April 4, 2026, an event took place in week 14, with no further information given.
+
+On April 5, 2026, an event was noted in week 15, with no additional details.
+
+On April 6, 2026, an event occurred in week 15, with no further information available.
+
+On April 7, 2026, an event was recorded in week 15, with no additional details.
+
+On April 8, 2026, an event took place in week 15, with no further information given.
+
+On April 9, 2026, an event was documented in week 15, with no additional details.
+
+On April 10, 2026, an event occurred in week 15, with no further information available.
+
+On April 11, 2026, an event was recorded in week 15, with no additional details.
+
+On April 12, 2026, an event took place in week 16, with no further information given.
+
+On April 13, 2026, an event was noted in week 16, with no additional details.
+
+On April 14, 2026, an event occurred in week 16, with no further information available.
+
+On April 15, 2026, an event was recorded in week 16, with no additional details.
+
+On April 16, 2026, an event took place in week 16, with no further information given.

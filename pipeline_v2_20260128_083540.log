@@ -1,0 +1,225 @@
+[2026-01-28 08:35:40] ==============================================
+[2026-01-28 08:35:40]   FULL PIPELINE V2 - Starting
+[2026-01-28 08:35:40] ==============================================
+[2026-01-28 08:35:40] Dataset: 202ece22fb5111f0adf9dac365dd66f0
+[2026-01-28 08:35:40] Output: ./v2_output_full
+[2026-01-28 08:35:40] Chunk size: 128 tokens
+[2026-01-28 08:35:40] 
+[2026-01-28 08:35:40] === STEP 1: TRANSFORMING ALL FILES ===
+[2026-01-28 08:35:40] 
+[2026-01-28 08:35:40] --- Processing v2_batch1 (10 files) ---
+[2026-01-28 08:35:40]   Transforming: ASW - Data Warehouse - Sales & Credit Detail.csv
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:40]   ✓ Completed: ASW - Data Warehouse - Sales & Credit Detail.csv
+[2026-01-28 08:35:40]   Transforming: ASW - DW - Open Sales Orders.csv
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:40]   ✓ Completed: ASW - DW - Open Sales Orders.csv
+[2026-01-28 08:35:40]   Transforming: ASW - Live Ross - Inventory.csv
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:41]   ✓ Completed: ASW - Live Ross - Inventory.csv
+[2026-01-28 08:35:41]   Transforming: ASW - Ross - Open POs.csv
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:41]   ✓ Completed: ASW - Ross - Open POs.csv
+[2026-01-28 08:35:41]   Transforming: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:41]   ✓ Completed: Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+[2026-01-28 08:35:41]   Transforming: Copy of AUS - L12M By Market Type.csv
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:41]   ✓ Completed: Copy of AUS - L12M By Market Type.csv
+[2026-01-28 08:35:41]   Transforming: Daily Production Report v1.xlsm_Annld Wire.csv
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:42]   ✓ Completed: Daily Production Report v1.xlsm_Annld Wire.csv
+[2026-01-28 08:35:42]   Transforming: Daily Production Report v1.xlsm_Ausro.csv
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:42]   ✓ Completed: Daily Production Report v1.xlsm_Ausro.csv
+[2026-01-28 08:35:42]   Transforming: Daily Production Report v1.xlsm_Clifford CLW12-2.csv
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:42]   ✓ Completed: Daily Production Report v1.xlsm_Clifford CLW12-2.csv
+[2026-01-28 08:35:42]   Transforming: Daily Production Report v1.xlsm_Clifford CLW12.csv
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:42]   ✓ Completed: Daily Production Report v1.xlsm_Clifford CLW12.csv
+[2026-01-28 08:35:42] 
+[2026-01-28 08:35:42] --- Processing v2_batch2 (10 files) ---
+[2026-01-28 08:35:42]   Transforming: Daily Production Report v1.xlsm_Clifford MMW.csv
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:42]   ✓ Completed: Daily Production Report v1.xlsm_Clifford MMW.csv
+[2026-01-28 08:35:42]   Transforming: Daily Production Report v1.xlsm_Clifford MWPA.csv
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:43]   ✓ Completed: Daily Production Report v1.xlsm_Clifford MWPA.csv
+[2026-01-28 08:35:43]   Transforming: Daily Production Report v1.xlsm_Drawing GZ1.csv
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:43]   ✓ Completed: Daily Production Report v1.xlsm_Drawing GZ1.csv
+[2026-01-28 08:35:43]   Transforming: Daily Production Report v1.xlsm_Drawing GZ2.csv
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:43]   ✓ Completed: Daily Production Report v1.xlsm_Drawing GZ2.csv
+[2026-01-28 08:35:43]   Transforming: Daily Production Report v1.xlsm_Drawing GZ3.csv
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:43]   ✓ Completed: Daily Production Report v1.xlsm_Drawing GZ3.csv
+[2026-01-28 08:35:43]   Transforming: Daily Production Report v1.xlsm_FLOK Weld.csv
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:44]   ✓ Completed: Daily Production Report v1.xlsm_FLOK Weld.csv
+[2026-01-28 08:35:44]   Transforming: Daily Production Report v1.xlsm_Galv Line 1.csv
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:44]   ✓ Completed: Daily Production Report v1.xlsm_Galv Line 1.csv
+[2026-01-28 08:35:44]   Transforming: Daily Production Report v1.xlsm_Galv Line 2.csv
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:44]   ✓ Completed: Daily Production Report v1.xlsm_Galv Line 2.csv
+[2026-01-28 08:35:44]   Transforming: Daily Production Report v1.xlsm_Galv Line 3.csv
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:44]   ✓ Completed: Daily Production Report v1.xlsm_Galv Line 3.csv
+[2026-01-28 08:35:44]   Transforming: Daily Production Report v1.xlsm_Mesh Trim.csv
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:44]   ✓ Completed: Daily Production Report v1.xlsm_Mesh Trim.csv
+[2026-01-28 08:35:44] 
+[2026-01-28 08:35:44] --- Processing v2_batch3 (21 files) ---
+[2026-01-28 08:35:44]   Transforming: Daily Production Report v1.xlsm_Roll Form.csv
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:45]   ✓ Completed: Daily Production Report v1.xlsm_Roll Form.csv
+[2026-01-28 08:35:45]   Transforming: Daily Production Report v1.xlsm_Schlatter PG12.csv
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:45]   ✓ Completed: Daily Production Report v1.xlsm_Schlatter PG12.csv
+[2026-01-28 08:35:45]   Transforming: Daily Production Report v1.xlsm_Schlatter PG28.csv
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:45]   ✓ Completed: Daily Production Report v1.xlsm_Schlatter PG28.csv
+[2026-01-28 08:35:45]   Transforming: Inv Move Apr 25.xls
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:45]   ✓ Completed: Inv Move Apr 25.xls
+[2026-01-28 08:35:45]   Transforming: Inv Move Aug 24.xls
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:46]   ✓ Completed: Inv Move Aug 24.xls
+[2026-01-28 08:35:46]   Transforming: Inv Move Dec 24.xls
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:46]   ✓ Completed: Inv Move Dec 24.xls
+[2026-01-28 08:35:46]   Transforming: Inv Move Feb 25.xls
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:46]   ✓ Completed: Inv Move Feb 25.xls
+[2026-01-28 08:35:46]   Transforming: Inv Move Jan 25.xls
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:46]   ✓ Completed: Inv Move Jan 25.xls
+[2026-01-28 08:35:46]   Transforming: Inv Move July24-june25.xls
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:47]   ✓ Completed: Inv Move July24-june25.xls
+[2026-01-28 08:35:47]   Transforming: Inv Move July 24.xls
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:47]   ✓ Completed: Inv Move July 24.xls
+[2026-01-28 08:35:47]   Transforming: Inv Move June 25.xls
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:47]   ✓ Completed: Inv Move June 25.xls
+[2026-01-28 08:35:47]   Transforming: Inv Move Mar 25.xls
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:47]   ✓ Completed: Inv Move Mar 25.xls
+[2026-01-28 08:35:47]   Transforming: Inv Move May 25.xls
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:47]   ✓ Completed: Inv Move May 25.xls
+[2026-01-28 08:35:47]   Transforming: Inv Move Nov 24.xls
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:48]   ✓ Completed: Inv Move Nov 24.xls
+[2026-01-28 08:35:48]   Transforming: Inv Move Oct 24.xls
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:48]   ✓ Completed: Inv Move Oct 24.xls
+[2026-01-28 08:35:48]   Transforming: Inv Move Sept 24.xls
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:48]   ✓ Completed: Inv Move Sept 24.xls
+[2026-01-28 08:35:48]   Transforming: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:48]   ✓ Completed: Malaysian Shipping 2025 v0.xlsm_Schedule.csv
+[2026-01-28 08:35:48]   Transforming: Mine_Forecast.xlsx_Forecast_Data.csv
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:48]   ✓ Completed: Mine_Forecast.xlsx_Forecast_Data.csv
+[2026-01-28 08:35:48]   Transforming: Orders Booking Sheet v2.xlsm_DMW Orders.csv
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:49]   ✓ Completed: Orders Booking Sheet v2.xlsm_DMW Orders.csv
+[2026-01-28 08:35:49]   Transforming: Production Sheet.xlsm_Production C2.csv
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:49]   ✓ Completed: Production Sheet.xlsm_Production C2.csv
+[2026-01-28 08:35:49]   Transforming: Production Sheet.xlsm_Production Pittini.csv
+usage: transform.py [-h] --input INPUT [--output OUTPUT] [--config CONFIG]
+                    [--analysis ANALYSIS] [--verbose]
+transform.py: error: unrecognized arguments: --prompt prompts/transform_v2.txt
+[2026-01-28 08:35:49]   ✓ Completed: Production Sheet.xlsm_Production Pittini.csv
+[2026-01-28 08:35:49] 
+[2026-01-28 08:35:49] Transform complete: 0 output files from 41 source files
+[2026-01-28 08:35:49] 
+[2026-01-28 08:35:49] === STEP 2: PREPARING DATASET ===
+[2026-01-28 08:35:49] Setting chunk_token_num to 128...
+[2026-01-28 08:35:49] Clearing existing documents...

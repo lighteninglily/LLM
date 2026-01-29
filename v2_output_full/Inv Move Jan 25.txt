@@ -1,0 +1,563 @@
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 5 units of Luna & Milo CopperBody Classic #0 for $32 on January 25, 2025.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 6 units of Luna & Milo CopperBody Classic #1 for $32 on January 25, 2025.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 6 units of Luna & Milo CopperBody Classic #2 for $32 on January 25, 2025.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 10 units of Luna & Milo CopperBody Classic #3 for $33 on January 25, 2025.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 7 units of Luna & Milo CopperBody Classic #4 for $33 on January 25, 2025.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 12 units of Luna & Milo CopperBody Classic #5 for $36 on January 25, 2025.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 7 units of Luna & Milo CopperBody Classic #6 for $36 on January 25, 2025.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 9 units of Luna & Milo CopperBody Classic #7 for $36 on January 25, 2025.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 7 units of Luna & Milo CopperBody Classic #8 for $40 on January 25, 2025.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 6 units of Luna & Milo CopperBody Classic #9 for $40 on January 25, 2025.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 9 units of Luna & Milo CopperBody Classic #10 for $40 on January 25, 2025.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 3 units of Luna & Milo CopperBody Classic #11 for $41 on January 25, 2025.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 6 units of Luna & Milo CopperBody Classic #12 for $41 on January 25, 2025.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 3 units of Luna & Milo CopperBody Classic #13 for $41 on January 25, 2025.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 2 units of Luna & Milo CopperBody Classic #14 for $45 on January 25, 2025.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-001 on January 10, 2025. Order contains 10,000 units of Luna & Milo CopperBody Castration #0 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-002 on January 10, 2025. Order contains 32 units of Luna & Milo CopperBody Castration #0 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-003 on January 10, 2025. Order contains 32 units of Luna & Milo CopperBody Castration #1 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-004 on January 10, 2025. Order contains 33 units of Luna & Milo CopperBody Castration #2 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-005 on January 10, 2025. Order contains 33 units of Luna & Milo CopperBody Castration #3 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-006 on January 10, 2025. Order contains 33 units of Luna & Milo CopperBody Castration #4 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-007 on January 10, 2025. Order contains 36 units of Luna & Milo CopperBody Castration #5 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-008 on January 10, 2025. Order contains 36 units of Luna & Milo CopperBody Castration #6 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-009 on January 10, 2025. Order contains 36 units of Luna & Milo CopperBody Castration #7 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-010 on January 10, 2025. Order contains 40 units of Luna & Milo CopperBody Castration #8 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-011 on January 10, 2025. Order contains 40 units of Luna & Milo CopperBody Castration #9 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-012 on January 10, 2025. Order contains 40 units of Luna & Milo CopperBody Castration #10 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-013 on January 10, 2025. Order contains 41 units of Luna & Milo CopperBody Castration #11 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-014 on January 10, 2025. Order contains 45 units of Luna & Milo CopperBody Castration #13 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-015 on January 10, 2025. Order contains 45 units of Luna & Milo CopperBody Castration #14 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-016 on January 10, 2025. Order contains 45 units of Luna & Milo CopperBody Castration #15 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-017 on January 10, 2025. Order contains 41 units of Luna & Milo CopperBody 4-Legs #3 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-018 on January 10, 2025. Order contains 41 units of Luna & Milo CopperBody 4-Legs #4 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-019 on January 10, 2025. Order contains 44 units of Luna & Milo CopperBody 4-Legs #5 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-020 on January 10, 2025. Order contains 44 units of Luna & Milo CopperBody 4-Legs #6 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-001 on January 10, 2025. Order contains 10,000 units of Luna & Milo CopperBody 4-Legs #9 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-002 on January 10, 2025. Order contains 288 units of Luna & Milo CopperBody 4-Legs #10 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-003 on January 10, 2025. Order contains 150 units of Luna & Milo CopperBody 4-Legs #11 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-004 on January 10, 2025. Order contains 100 units of Luna & Milo CopperBody 4-Legs #12 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-005 on January 10, 2025. Order contains 100 units of Luna & Milo CopperBody 4-Legs #13 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-006 on January 10, 2025. Order contains 108 units of Luna & Milo CopperBody 4-Legs #14 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-007 on January 10, 2025. Order contains 9450 units of EickView 150E for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-008 on January 10, 2025. Order contains 540 units of CBLO2035R - CBLO plate 2.0mm x 35mm Right for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-009 on January 10, 2025. Order contains 540 units of CBLO2440L - CBLO plate 2.4mm x 40mm Left for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-010 on January 10, 2025. Order contains 270 units of CBLO2440R - CBLO plate 2.4mm x 40mm Right for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-011 on January 10, 2025. Order contains 270 units of CBLO2755R - CBLO plate 2.7mm x 55mm Right for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-012 on January 10, 2025. Order contains 285 units of CBLO3570L - CBLO plate 3.5mm x 70mm Left for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-013 on January 10, 2025. Order contains 285 units of CBLO3570R - CBLO plate 3.5mm x 70mm Right for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-014 on January 10, 2025. Order contains 105 units of CS2710 - Cortical Bone Screw 2.7mm x 10mm with Hex head for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-015 on January 10, 2025. Order contains 140 units of CS2712 - Cortical Bone Screw 2.7mm x 12mm with Hex head for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-016 on January 10, 2025. Order contains 245 units of CS2714 - Cortical Bone Screw 2.7mm x 14mm with Hex head for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-017 on January 10, 2025. Order contains 140 units of CS2716 - Cortical Bone Screw 2.7mm x 16mm with Hex head for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-018 on January 10, 2025. Order contains 175 units of CS2718 - Cortical Bone Screw 2.7mm x 18mm with Hex head for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-019 on January 10, 2025. Order contains 140 units of CS2720 - Cortical Bone Screw 2.7mm x 20mm with Hex head for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-020 on January 10, 2025. Order contains 140 units of CS2722 - Cortical Bone Screw 2.7mm x 22mm with Hex head for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-001 on January 10, 2025. Order contains 10,000 units of CS2724 - Cortical Bone Screw 2.7mm x 24mm with Hex head for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-002 on January 10, 2025. Order contains 10,000 units of CS3516 - Cortical Bone Screw 3.5mm x 16mm with Hex head for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-003 on January 10, 2025. Order contains 10,000 units of CS3518 - Cortical Bone Screw 3.5mm x 18mm with Hex head for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-004 on January 10, 2025. Order contains 10,000 units of CS3532 - Cortical Bone Screw 3.5mm x 32mm with Hex head for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-005 on January 10, 2025. Order contains 10,000 units of CS3534 - Cortical Bone Screw 3.5mm x 34mm with Hex head for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-006 on January 10, 2025. Order contains 10,000 units of CS3536 - Cortical Bone Screw 3.5mm x 36mm with Hex head for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-007 on January 10, 2025. Order contains 10,000 units of CS3538 - Cortical Bone Screw 3.5mm x 38mm with Hex head for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-008 on January 10, 2025. Order contains 15,000 units of CSCBLO2008 - CBLO Cortical Screw 2.0mm x 8mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-009 on January 10, 2025. Order contains 15,000 units of cscblo2009 - CBLO Cortical Screw 2.0mm x 9mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-010 on January 10, 2025. Order contains 15,000 units of CSCBLO2010 - CBLO Cortical Screw 2.0mm x 10mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-011 on January 10, 2025. Order contains 15,000 units of CSCBLO2012 - CBLO Cortical Screw 2.0mm x 12mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-012 on January 10, 2025. Order contains 15,000 units of CSCBLO2014 - CBLO Cortical Screw 2.0mm x 14mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-013 on January 10, 2025. Order contains 15,000 units of CSCBLO2016 - CBLO Cortical Screw 2.0mm x 16mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-014 on January 10, 2025. Order contains 15,000 units of CSCBLO2408 - CBLO Cortical Screw 2.4mm x 8mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-015 on January 10, 2025. Order contains 15,000 units of CSCBLO2412 - CBLO Cortical Screw 2.4mm x 12mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-016 on January 10, 2025. Order contains 15,000 units of CSCBLO2416 - CBLO Cortical Screw 2.4mm x 16mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-017 on January 10, 2025. Order contains 15,000 units of CSCBLO2418 - CBLO Cortical Screw 2.4mm x 18mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-018 on January 10, 2025. Order contains 15,000 units of CSCBLO2712 - CBLO Cortical Screw 2.7mm x 12mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-019 on January 10, 2025. Order contains 15,000 units of CSCBLO2716 - CBLO Cortical Screw 2.7mm x 16mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-020 on January 10, 2025. Order contains 15,000 units of CSCBLO2718 - CBLO Cortical Screw 2.7mm x 18mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-001 on January 10, 2025. Order contains 10,000 units of CBLO Cortical Screw 2.7mm x 22mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-002 on January 10, 2025. Order contains 15,000 units of CBLO Cortical Screw 3.5mm x 16mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-003 on January 10, 2025. Order contains 15,000 units of CBLO Cortical Screw 3.5mm x 18mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-004 on January 10, 2025. Order contains 15,000 units of CBLO Cortical Screw 3.5mm x 20mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-005 on January 10, 2025. Order contains 15,000 units of CBLO Cortical Screw 3.5mm x 22mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-006 on January 10, 2025. Order contains 15,000 units of CBLO Cortical Screw 3.5mm x 24mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-007 on January 10, 2025. Order contains 15,000 units of CBLO Cortical Screw 3.5mm x 26mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-008 on January 10, 2025. Order contains 15,000 units of CBLO Cortical Screw 3.5mm x 28mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-009 on January 10, 2025. Order contains 15,000 units of CBLO Cortical Screw 3.5mm x 30mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+GLENCORE placed order PO-2025-010 on January 10, 2025. Order contains 27,000 units of Locking TORX self-tapping screw 35 | L 14 | Ti for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+GLENCORE placed order PO-2025-011 on January 10, 2025. Order contains 27,000 units of Locking TORX self-tapping screw 35 | L 18 | Ti for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+GLENCORE placed order PO-2025-012 on January 10, 2025. Order contains 28,000 units of Locking TORX self-tapping screw 35 | L 20 | Ti for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+GLENCORE placed order PO-2025-013 on January 10, 2025. Order contains 28,000 units of Locking TORX self-tapping screw 35 | L 22 | Ti for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+GLENCORE placed order PO-2025-014 on January 10, 2025. Order contains 28,000 units of Locking TORX self-tapping screw 35 | L 24 | Ti for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+GLENCORE placed order PO-2025-015 on January 10, 2025. Order contains 28.5,000 units of Locking TORX self-tapping screw 35 | L 26 | Ti for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+GLENCORE placed order PO-2025-016 on January 10, 2025. Order contains 28.5,000 units of Locking TORX self-tapping screw 35 | L 28 | Ti for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+GLENCORE placed order PO-2025-017 on January 10, 2025. Order contains 28.5,000 units of Locking TORX self-tapping screw 35 | L 30 | Ti for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+GLENCORE placed order PO-2025-018 on January 10, 2025. Order contains 28.5,000 units of Locking TORX self-tapping screw 35 | L 32 | Ti for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+GLENCORE placed order PO-2025-019 on January 10, 2025. Order contains 29,000 units of Locking TORX self-tapping screw 35 | L 34 | Ti for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+GLENCORE placed order PO-2025-020 on January 10, 2025. Order contains 29,000 units of Locking TORX self-tapping screw 35 | L 36 | Ti for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-001 on January 10, 2025. Order contains 10,000 units of IWLS3538 - Locking TORX self-tapping screw 35 | L 38 | Ti for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-002 on January 10, 2025. Order contains 11,000 units of IWLS3545 - Locking TORX self-tapping screw 35 | L 38 | Ti for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+GLENCORE placed order PO-2025-003 on January 10, 2025. Order contains 150 units of LGPF80 - Size 8.0 Powder free Single-Use Sterile Latex Surg... for delivery to DENDROBIUM MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-004 on January 10, 2025. Order contains 108 units of LSCBLO2010 - CBLO Locking Screw 2.0mm x 10mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-005 on January 10, 2025. Order contains 405 units of LSCBLO2012 - CBLO Locking Screw 2.0mm x 12mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-006 on January 10, 2025. Order contains 54 units of LSCBLO2014 - CBLO Locking Screw 2.0mm x 14mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-007 on January 10, 2025. Order contains 81 units of LSCBLO2016 - CBLO Locking Screw 2.0mm x 16mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-008 on January 10, 2025. Order contains 108 units of LSCBLO2018 - CBLO Locking Screw 2.0mm x 18mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-009 on January 10, 2025. Order contains 27 units of LSCBLO2020 - CBLO Locking Screw 2.0mm x 20mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-010 on January 10, 2025. Order contains 27 units of LSCBLO2022 - CBLO Locking Screw 2.0mm x 22mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-011 on January 10, 2025. Order contains 27 units of LSCBLO2408 - CBLO Locking Screw 2.4mm x 8mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-012 on January 10, 2025. Order contains 27 units of LSCBLO2410 - CBLO Locking Screw 2.4mm x 10mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-013 on January 10, 2025. Order contains 135 units of LSCBLO2412 - CBLO Locking Screw 2.4mm x 12mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-014 on January 10, 2025. Order contains 108 units of LSCBLO2414 - CBLO Locking Screw 2.4mm x 14mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-015 on January 10, 2025. Order contains 135 units of LSCBLO2416 - CBLO Locking Screw 2.4mm x 16mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-016 on January 10, 2025. Order contains 135 units of LSCBLO2418 - CBLO Locking Screw 2.4mm x 18mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-017 on January 10, 2025. Order contains 27 units of LSCBLO2420 - CBLO Locking Screw 2.4mm x 20mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-018 on January 10, 2025. Order contains 27 units of LSCBLO2424 - CBLO Locking Screw 2.4mm x 24mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-019 on January 10, 2025. Order contains 297 units of LSCBLO2720 - CBLO Locking Screw 2.7mm x 20mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-020 on January 10, 2025. Order contains 81 units of LSCBLO2730 - CBLO Locking Screw 2.7mm x 30mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on January 15, 2025. Order contains 27 units of CBLO Locking Screw 2.7mm x 32mm.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on January 15, 2025. Order contains 27 units of CBLO Locking Screw 2.7mm x 38mm.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on January 15, 2025. Order contains 29 units of CBLO Locking Screw 3.5mm x 16mm.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on January 15, 2025. Order contains 29 units of CBLO Locking Screw 3.5mm x 18mm.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on January 15, 2025. Order contains 29 units of CBLO Locking Screw 3.5mm x 20mm.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on January 15, 2025. Order contains 29 units of CBLO Locking Screw 3.5mm x 22mm.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on January 15, 2025. Order contains 29 units of CBLO Locking Screw 3.5mm x 24mm.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on January 15, 2025. Order contains 29 units of CBLO Locking Screw 3.5mm x 26mm.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on January 15, 2025. Order contains 29 units of CBLO Locking Screw 3.5mm x 28mm.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on January 15, 2025. Order contains 29 units of CBLO Locking Screw 3.5mm x 30mm.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on January 15, 2025. Order contains 29 units of CBLO Locking Screw 3.5mm x 32mm.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on January 15, 2025. Order contains 29 units of CBLO Locking Screw 3.5mm x 34mm.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on January 15, 2025. Order contains 29 units of CBLO Locking Screw 3.5mm x 36mm.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on January 15, 2025. Order contains 29 units of CBLO Locking Screw 3.5mm x 38mm.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on January 15, 2025. Order contains 29 units of CBLO Locking Screw 3.5mm x 40mm.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on January 15, 2025. Order contains 29 units of CBLO Locking Screw 3.5mm x 42mm.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on January 15, 2025. Order contains 29 units of CBLO Locking Screw 3.5mm x 44mm.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on January 15, 2025. Order contains 29 units of CBLO Locking Screw 3.5mm x 48mm.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on January 15, 2025. Order contains 29 units of CBLO Locking Screw 3.5mm x 50mm.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order [ORDER#] on January 15, 2025. Order contains 29 units of CBLO Locking Screw 3.5mm x 52mm.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+SOUTH32 ordered LSCBLO3554 - CBLO Locking Screw 3.5mm x 54mm from GLENCORE on January 25, 2025. Order contains 29 units.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+SOUTH32 ordered LSCBLO3556 - CBLO Locking Screw 3.5mm x 56mm from GLENCORE on January 25, 2025. Order contains 5 units.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+SOUTH32 ordered LSCBLO3558 - CBLO Locking Screw 3.5mm x 58mm from GLENCORE on January 25, 2025. Order contains 3 units.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+SOUTH32 ordered LSCBLO3560 - CBLO Locking Screw 3.5mm x 60mm from GLENCORE on January 25, 2025. Order contains 3 units.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+SOUTH32 ordered PB62L240382 - Anatomical locking CBLO plate 2.4 | LEFT | L 38 | from GLENCORE on January 25, 2025. Order contains 245 units.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+SOUTH32 ordered PB62L350562 - Anatomical locking CBLO plate 35 | LEFT | L 56 | from GLENCORE on January 25, 2025. Order contains 245 units.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+SOUTH32 ordered PB62L350802 - Anatomical locking CBLO plate 35 | LEFT | L 80 | from GLENCORE on January 25, 2025. Order contains 255 units.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+SOUTH32 ordered PB62L351002 - Anatomical locking CBLO plate 35 | LEFT | L 100 | from GLENCORE on January 25, 2025. Order contains 265 units.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+SOUTH32 ordered PB62L35100B2 - Anatomical locking CBLO plate 35 broad | LEFT | L from GLENCORE on January 25, 2025. Order contains 275 units.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+SOUTH32 ordered PB62R200352 - Anatomical locking CBLO plate 2.0 | RIGHT | L 35 | from GLENCORE on January 25, 2025. Order contains 245 units.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+SOUTH32 ordered PB62R240382 - Anatomical locking CBLO plate 2.4 | RIGHT | L 38 | from GLENCORE on January 25, 2025. Order contains 245 units.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+SOUTH32 ordered PB62R350562 - Anatomical locking CBLO plate 35 | RIGHT | L 56 | from GLENCORE on January 25, 2025. Order contains 245 units.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+SOUTH32 ordered PB62R350802 - Anatomical locking CBLO plate 35 | RIGHT | L 80 | from GLENCORE on January 25, 2025. Order contains 255 units.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+SOUTH32 ordered PB62R351002 - Anatomical locking CBLO plate 35 | RIGHT | L 100 | from GLENCORE on January 25, 2025. Order contains 265 units.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+SOUTH32 ordered PB62R35100B2 - Anatomical locking CBLO plate 35 broad | RIGHT | L from GLENCORE on January 25, 2025. Order contains 275 units.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+SOUTH32 ordered PUDI2030 - Polyurethane Iodophor infused drape 20cm x 30cm from GLENCORE on January 25, 2025. Order contains 7.5 units.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+SOUTH32 ordered PUDI4566 - Polyurethane Iodophor infused drape 45cm x 66cm from GLENCORE on January 25, 2025. Order contains 12 units.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+SOUTH32 ordered SS1613 - Staple 6 x 13mm from GLENCORE on January 25, 2025. Order contains 99 units.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+SOUTH32 ordered SS1720 - Staple 7 x 20mm from GLENCORE on January 25, 2025. Order contains 99 units.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+SOUTH32 ordered SSPDO0 - Polydioxinone (Absorbable) Surgical Suture USP0 from GLENCORE on January 25, 2025. Order contains 49.5 units.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+SOUTH32 ordered SSPDO0TP - Polydioxinone (Absorbable) Surgical Suture Taper P... from GLENCORE on January 25, 2025. Order contains 49.5 units of the product.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+SOUTH32 ordered SSPDO1TP - Polydioxinone (Absorbable) Surgical Suture Taper P... from GLENCORE on January 25, 2025. Order contains 49.5 units of the product.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+SOUTH32 ordered SSPDO20 - Polydioxinone (Absorbable) Surgical Suture USP2/0 ... from GLENCORE on January 25, 2025. Order contains 7 units of the product.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+SOUTH32 ordered SSPDO20TP - Polydioxinone (Absorbable) Surgical Suture Taper P... from GLENCORE on January 25, 2025. Order contains 12 units of the product.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+SOUTH32 ordered SSPDO30TP - Polydioxinone (Absorbable) Surgical Suture Taper P... from GLENCORE on January 25, 2025. Order contains 12 units of the product.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+SOUTH32 ordered SSPDO40 - Polydioxinone (Absorbable) Surgical Suture USP4/0 ... from GLENCORE on January 25, 2025. Order contains 5 units of the product.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+SOUTH32 ordered SSPPL30 - Polypropylene (Non-absorbable) Surgical Suture USP... from GLENCORE on January 25, 2025. Order contains 5 units of the product.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+SOUTH32 ordered STDSHIP - Star Track FPP from GLENCORE on January 25, 2025. Order contains 40 units of the product.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+SOUTH32 ordered TNTON - TNT Overnight shipping from GLENCORE on January 25, 2025. Order contains 1 unit of the product.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+SOUTH32 ordered ZL191501 - Zlig 16 fibers / 10mm, 5 - 8kg, 2000N Artificial C... from GLENCORE on January 25, 2025. Order contains 495 units of the product.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+SOUTH32 ordered ZL191502 - Zlig 24 fibers / 15mm, 8 - 12kg, 3000N Artificial C... from GLENCORE on January 25, 2025. Order contains 495 units of the product.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+SOUTH32 ordered ZL191503 - Zlig 32 fibers / 17mm, 12 - 25kg, 4000N Artificial ... from GLENCORE on January 25, 2025. Order contains 4 units of the product.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+SOUTH32 ordered ZL191504 - Zlig 48 fibers / 19mm, 25 - 45kg, 6000 Artificial ... from GLENCORE on January 25, 2025. Order contains 4 units of the product.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+SOUTH32 ordered ZL191505 - Zlig 48 fibers / 22mm, 25 - 45kg, 6000 Artificial ... from GLENCORE on January 25, 2025. Order contains 2 units of the product.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+GLENCORE ordered ZL191538 - Zlig Interference Screw cannulated 1.1/3.5/8.0mm, ... from GLENCORE on January 25, 2025. Order contains 32 units of the product.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+GLENCORE ordered ZL191541 - Zlig Interference Screw cannulated 1.1/4.0/10.0mm,... from GLENCORE on January 25, 2025. Order contains 8 units of the product.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+GLENCORE ordered ZL191542 - Zlig Interference Screw cannulated 1.1/4.0/13.0mm,... from GLENCORE on January 25, 2025. Order contains 9 units of the product.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+GLENCORE ordered ZL191544 - Zlig Interference Screw cannulated 2.9/5.0/10.0mm/... from GLENCORE on January 25, 2025. Order contains 1 unit of the product.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+GLENCORE ordered ZL191545 - Zlig Interference Screw cannulated 1.1/4.5/10.0mm,... from GLENCORE on January 25, 2025. Order contains 6 units of the product.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+GLENCORE ordered ZL191546 - Zlig Interference Screw cannulated 1.1/4.5/15.0mm,... from GLENCORE on January 25, 2025. Order contains 3 units of the product.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order ZL191547 on January 25, 2025. Order contains 32 units of Zlig Interference Screw cannulated 1.1/4.5/20.0mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order ZL191548 on January 25, 2025. Order contains 32 units of Zlig Interference Screw cannulated 1.1/4.5/25.0mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order ZL191564 on January 25, 2025. Order contains 32 units of Zlig Interference Screw cannulated 2.9/5.0/25.0mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order ZL191565 on January 25, 2025. Order contains 32 units of Zlig Interference Screw cannulated 2.9/6.0/15.0mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order ZL191566 on January 25, 2025. Order contains 32 units of Zlig Interference Screw cannulated 2.9/5.0/15.0mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order ZL191568 on January 25, 2025. Order contains 32 units of Zlig Interference Screw cannulated 2.9/5.0/20.0mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: order_record]
+SOUTH32 placed order ZL191926 on January 25, 2025. Order contains 10 units of VetLig wireloop 0.5/600mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Jan 25.xls | Type: sales_record]
+Total sales value: $50,846.64 AUD on January 25, 2025.
+
+[Source: Inv Move Jan 25.xls | Type: summary_record]
+Summary of sales by item shows total sales value: $50,846.64 AUD on January 25, 2025.
+
+[Source: Inv Move Jan 25.xls | Type: other_sales_record]
+Other sales: $0 on January 25, 2025.
+
+[Source: Inv Move Jan 25.xls | Type: cash_sales_record]
+Cash sales: $0 on January 25, 2025.
+
+[Source: Inv Move Jan 25.xls | Type: credit_sales_record]
+Credits: $0 on January 25, 2025.
+
+[Source: Inv Move Jan 25.xls | Type: total_sales_record]
+Total sales: $50,846.64 AUD on January 25, 2025.

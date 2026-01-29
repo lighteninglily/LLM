@@ -1,0 +1,6 @@
+2026-01-27 08:25:42,475 [INFO] Loading lookup table: counties.csv (county_id -> county_name)
+2026-01-27 08:25:42,475 [INFO]   Loaded 3 entries
+2026-01-27 08:25:42,476 [INFO] Read 3 records from stations.csv
+2026-01-27 08:25:42,476 [INFO] Transforming stations.csv: 3 records in 1 batches
+2026-01-27 08:25:44,374 [INFO]   Wrote 3 paragraphs to stations.txt
+2026-01-27 08:25:44,374 [INFO] Skipping lookup table: counties.csv

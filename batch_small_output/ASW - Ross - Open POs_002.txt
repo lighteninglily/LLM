@@ -1,0 +1,655 @@
+JAVN1958 placed an order on December 14, 2025, for 10 units of Grout Lance 70T 1/2" BSP 1000mm Long Swivel, part code LANCE70T1000SWV, with a required delivery date of February 1, 2026.
+
+JAVN1958 placed an order on December 14, 2025, for 300 Low Profile Bolt Grout Nozzles (Part Code: JHBGROUTNOZ24LH) with an expected delivery date of February 1, 2026. The order is stored in Warehouse NT.
+
+JAVN1993 issued a purchase order on August 25, 2025, for 1000 promotional goods (Part Code: 7PROMOGOODS) with a required delivery by September 23, 2025. The order is pending acceptance.
+
+JAVN1993 also ordered 1 uniform (Part Code: 7UNIFORMS) on December 1, 2025, with a required delivery by December 9, 2025. The order is pending acceptance.
+
+JAVN2049 placed an order on December 15, 2025, for 150 RIB Strap HDPE 4500mm x 190mm Wide with 5 Holes (Part Code: OPDNW4500) with an expected delivery date of January 5, 2026. The order is stored in Warehouse NF.
+
+JAVN2089 ordered 1 Hydraulic 2:1 J Lok P Pump RD060 (Part Code: 7CIP2470RD060) on August 6, 2024, with a required delivery by August 14, 2024. The order is pending acceptance.
+
+JAVN2145 ordered 1 Quality Assurance Consumable (Part Code: 7QACONSUME) on November 30, 2025, with a required delivery by December 5, 2025. The order is pending acceptance.
+
+JAVN2145 also ordered another 1 Quality Assurance Consumable (Part Code: 7QACONSUME) on November 30, 2025, with a required delivery by December 5, 2025. The order is pending acceptance.
+
+JAVN2163 ordered 11000 Teflon Washers M24 (Part Code: WASHM24WT) on June 19, 2025, with an expected delivery by June 27, 2025. 800 units remain outstanding after accepting 10200 units.
+
+JAVN2163 issued another purchase order on September 10, 2025, for 250000 Teflon Washers M24 (Part Code: WASHM24WT) with a required delivery by November 24, 2025. The order is pending acceptance.
+
+JAVN2163 also ordered 250000 Teflon Washers M24 (Part Code: WASHM24WT) on September 10, 2025, with a required delivery by January 5, 2026. The order is pending acceptance.
+
+JAVN2163 ordered another 250000 Teflon Washers M24 (Part Code: WASHM24WT) on September 10, 2025, with a required delivery by March 2, 2026. The order is pending acceptance.
+
+JAVN2163 ordered 720 units of Packaging (Part Code: 7PACKAGING) on October 27, 2025, with an expected delivery by December 2, 2025. The order is pending acceptance.
+
+JAVN2163 ordered 52 units of SP15090B 19mm Plastic Strap Black (Part Code: 719MMPSTRAPBLK) on November 25, 2025, with a required delivery by December 3, 2025. The order is pending acceptance.
+
+JAVN2163 ordered 600 units of Consumables Quality (Part Code: 7CONSQA) on December 4, 2025, with a required delivery by February 27, 2026. The order is pending acceptance.
+
+JAVN2163 ordered another 150 units of Consumables Quality (Part Code: 7CONSQA) on December 10, 2025, with a required delivery by February 19, 2026. The order is pending acceptance.
+
+JAVN2163 ordered another 350 units of Consumables Quality (Part Code: 7CONSQA) on December 10, 2025, with a required delivery by February 19, 2026. The order is pending acceptance.
+
+JAVN2163 ordered another 350 units of Consumables Quality (Part Code: 7CONSQA) on December 10, 2025, with a required delivery by February 19, 2026. The order is pending acceptance.
+
+JAVN2190 ordered 2000 F/G Bolts 32mmx1800mm Solid (Part Code: JFG3218) on September 3, 2025, with an expected delivery by November 1, 2025. The order was fully accepted.
+
+JAVN2190 issued another purchase order on October 14, 2025, for 10000 FRP Dowels Orange, 25*1450 (Part Code: JFG2515) with a required delivery by December 1, 2025. The order is pending acceptance.
+
+JAVN2190 also ordered 10000 FRP Dowels Orange, 25*1450 (Part Code: JFG2515) on October 14, 2025, with a required delivery by January 1, 2026. The order is pending acceptance.
+
+JAVN2190 placed an order on November 5, 2025, for 5000 units of JFG2215XHT, a 22*1500 Extra High torque Dowel, with a required delivery date of January 1, 2026. The order is stored in Warehouse NT.
+
+JAVN2190 also ordered 5000 units of JFG2512, a Fibreglass Dowel 25*1150 mm, with the same required delivery date and storage in Warehouse NT.
+
+JAVN2190 issued another purchase order on December 7, 2025, for 5000 units of JFG2218XHT, a F/G BOLT 22MMX1800MM XHT HIGH BREAKOUT T/T NUT, with a required delivery date of February 1, 2026.
+
+The same vendor ordered 15000 units of JFG2515, a FRP Dowel Orange, 25*1450, with the required delivery date of February 1, 2026.
+
+JAVN2190 also ordered 10000 units of JFG3218, a F/G BOLT 32MMX1800MM SOLID, with the required delivery date of February 1, 2026.
+
+Another order was placed for 2500 units of JFGNUT32HOL, a F/G NUT FOR 32MM DIA HOLLOW BOLT, with the required delivery date of February 1, 2026.
+
+JAVN2190 issued a new purchase order on December 7, 2025, for 5000 units of JFG3218, a F/G BOLT 32MMX1800MM SOLID, with a required delivery date of March 1, 2026.
+
+JAVN2197 placed an order on November 23, 2025, for 1 unit of 7OFFICESUP, Office Supplies, with a required delivery date of December 1, 2025.
+
+JAVN2198 issued a purchase order on November 18, 2025, for 1 unit of 7COST2INV, Cost To Be Invoiced, with a required delivery date of November 26, 2025.
+
+JAVN2198 also ordered 4 units of 7COST2INV, with the same required delivery date.
+
+JAVN2198 further ordered 1 unit of 7COST2INV, with the same required delivery date.
+
+JAVN2198 placed another purchase order on December 15, 2025, for 6 units of 7RPRMTCEPEEL, Repair & Maint PEELER, with a required delivery date of December 23, 2025.
+
+JAVN2205 issued a purchase order on December 14, 2025, for 112 units of JPM50016, a PP Biaxial Geogrid43/46KN Flame retardant & Antistatic Mesh of 1.6m (W) X 50m (L), with a required delivery date of February 17, 2026.
+
+JAVN2205 also ordered 112 units of JPM50024, a PP Biaxial Geogrid43/46KN Flame retardant & Antistatic Mesh of 2.4m (W) X 50m (L), with the same required delivery date.
+
+JAVN2205 issued another purchase order on December 14, 2025, for 112 units of JPM50016, with the same required delivery date.
+
+JAVN2205 also ordered 112 units of JPM50024, with the same required delivery date.
+
+JAVN2206 placed an order on May 9, 2025, for 16 units of CB3112PULLTEST, a 1.4M 31MM 12-WIRE 70T HOLLOW PULL TEST CABLE, with an acceptance of 15 units and an outstanding quantity of 1 unit, with a required delivery date of July 1, 2025.
+
+JAVN2206 issued a purchase order on September 24, 2025, for 600 units of CB311204G125H, a Cable 70T 12W 31mm X 4M+Bulbed+1250mm Grout +Hex Drv, with a required delivery date of November 1, 2025.
+
+JAVN2206 also ordered 600 units of CB311206G125H, a Cable 70T 12W 31mm X 6M+Bulbed+1250mm Grout +Hex Drv, with the same required delivery date.
+
+JAVN2206 further ordered 12 units of CB3112PULLTEST, with an outstanding quantity of 12 units, with the same required delivery date.
+
+Peter C from JAVN2206 placed an order on December 9, 2025, for 600 units of Cable 70T 12W 31mm X 4M+Bulbed+1250mm Grout +Hex Drv (Part Code: CB311204G125H) with an order quantity of 600, requiring delivery by February 1, 2026, stored in Warehouse NT.
+
+Peter C from JAVN2206 also ordered 600 units of Cable 70T 12W 31mm X 8M+Bulbed+1250mm Grout +Hex Drv (Part Code: CB311208G125H) on December 9, 2025, with an order quantity of 600, needing delivery by February 1, 2026, stored in Warehouse NT.
+
+Peter C from JAVN2206 ordered 12 units of 1.4M 31MM 12-WIRE 70T HOLLOW PULL TEST CABLE (Part Code: CB3112PULLTEST) on December 9, 2025, with an order quantity of 12, requiring delivery by February 1, 2026, stored in Warehouse NT.
+
+JAVN2215 placed an order on July 14, 2025, for 1 unit of Tensioner / Hydraulic Rpr (Part Code: 7TENHYDRPR) with an order quantity of 1, requiring delivery by July 15, 2025.
+
+JAVN2293 placed an order on October 13, 2025, for 60.394 tons of Coil 21.8mm RHL Sup Stran (Part Code: CS218RHL) with an order quantity of 60.394 tons, requiring delivery by December 1, 2025, stored in Warehouse NT.
+
+JAVN2293 placed another order on November 5, 2025, for 30.4 tons of Coil 21.8mm RHL Sup Stran (Part Code: CS218RHL) with an order quantity of 30.4 tons, requiring delivery by December 1, 2025, stored in Warehouse NT.
+
+JAVN2293 placed yet another order on November 5, 2025, for 60 tons of Coil 21.8mm RHL Sup Stran (Part Code: CS218RHL) with an order quantity of 60 tons, requiring delivery by January 1, 2026, stored in Warehouse NT.
+
+JAVN2333 placed an order on August 11, 2025, for 1 unit of Repair & Maintenance Plate Press (Part Code: 7RPRMTCEPLATEPR) with an order quantity of 1, requiring delivery by October 1, 2025.
+
+JAVN2348 placed an order on January 23, 2025, for 1 unit of Prepaid general expenses (Part Code: 7PREPAIDEXP) with an order quantity of 1, requiring delivery by March 31, 2025.
+
+JAVN2348 placed another order on June 26, 2025, for 1 unit of Repair & Maint Cranes (Part Code: 7RPRMTCECRAN) with an order quantity of 1, requiring delivery by June 26, 2025.
+
+JAVN2348 placed yet another order on December 4, 2025, for 1 unit of Repair & Maint Cranes (Part Code: 7RPRMTCECRAN) with an order quantity of 1, requiring delivery by December 12, 2025.
+
+JAVN2348 placed another order on December 4, 2025, for 1 unit of Repair & Maint Cranes (Part Code: 7RPRMTCECRAN) with an order quantity of 1, requiring delivery by December 12, 2025.
+
+JAVN2353 placed an order on November 19, 2025, for 59 units of PROMOTIONAL GOODS (Part Code: 7PROMOGOODS) with an order quantity of 59, requiring delivery by November 27, 2025.
+
+JAVN2353 placed another order on November 19, 2025, for 59 units of PROMOTIONAL GOODS (Part Code: 7PROMOGOODS) with an order quantity of 59, requiring delivery by November 27, 2025.
+
+JAVN2353 placed yet another order on November 19, 2025, for 56 units of PROMOTIONAL GOODS (Part Code: 7PROMOGOODS) with an order quantity of 56, requiring delivery by November 27, 2025.
+
+JAVN2356 placed an order on November 27, 2025, for 4000 units of RIB MESH 2.5X1.8M 100X100MM APT & 3.15MM GAL WIRE (Part Code: SMF251803GCD) with an order quantity of 4000, requiring delivery by January 30, 2026, stored in Warehouse NF.
+
+JAVN2356 placed another order on November 27, 2025, for 4000 units of RIB MESH 2.5X1.8M 100X100MM APT & 3.15MM GAL WIRE (Part Code: SMF251803GCD) with an order quantity of 4000, requiring delivery by February 27, 2026, stored in Warehouse NF.
+
+JAVN2356 placed an order on December 14, 2025, for 2000 units of SHOTCRETE MESH 3.00MX1.17M 4MM WIRE - GAL IMG4D-66-3012 (Part Code: SMESH300011704) with an order quantity of 2000, requiring delivery by January 5, 2026, stored in Warehouse NF.
+
+JAVN2356 placed another order on December 16, 2025, for 2400 units of SHOTCRETE MESH 3.00MX1.17M 4MM WIRE - GAL IMG4D-66-3012 (Part Code: SMESH300011704) with an order quantity of 2400, requiring delivery by January 19, 2026, stored in Warehouse NF.
+
+JAVN2368 placed an order on October 21, 2025, for 84 tons of Coil 31mm Hollow Sup Strand Left Hand Lay (Part Code: CSH31LHL) with an order quantity of 84, requiring delivery by November 30, 2025, stored in Warehouse N5.
+
+JAVN2368 placed an order for 84 tons of Coil 31mm Hollow Sup Strand Left Hand Lay on October 21, 2025, requiring delivery by December 30, 2025, from warehouse N5. The order status shows an outstanding quantity of 84 tons.
+
+JAVN2368 also ordered 84 tons of the same Coil 31mm Hollow Sup Strand Left Hand Lay, with a required date of February 1, 2026, from warehouse N5. The order status indicates an outstanding quantity of 84 tons.
+
+JAVN2393 issued a repair order for 3 Repair Pods on September 9, 2025, requiring completion by September 17, 2025. The order was placed in warehouse N5, with an order quantity of 3, 2 accepted, and 1 outstanding.
+
+JAVN2393 further ordered 2 Repair Pods on December 10, 2025, needing completion by December 18, 2025. The order was placed in warehouse N5, with an order quantity of 2, and both outstanding.
+
+JAVN2504 initiated a repair order for 1 Repair Tensioner / Footpump on October 8, 2025, requiring delivery by October 30, 2025. The order was placed in warehouse NF, with an order quantity of 1, 0 accepted, and 1 outstanding.
+
+JAVN2504 also placed another repair order for 1 Repair Tensioner / Footpump on October 8, 2025, with the same delivery requirements. The order was placed in warehouse NF, with an order quantity of 1, 0 accepted, and 1 outstanding.
+
+JAVN2504 ordered 2 Jaw Springs DSI Tensioners on December 7, 2025, requiring delivery by December 15, 2025. The order was placed in warehouse NF, with an order quantity of 2, and both outstanding.
+
+JAVN2573 placed an order for 5000 FRP Dowels Black, 22*1750 Drg CU0028 Rev 1 on December 7, 2025, requiring delivery by January 1, 2026. The order was placed in warehouse NT, with an order quantity of 5000, and all outstanding.
+
+JAVN2573 also ordered 10000 FRP Dowels Black, 22*1150 Drg CU0028 Rev 0 on December 7, 2025, requiring delivery by February 1, 2026. The order was placed in warehouse NT, with an order quantity of 10000, and all outstanding.
+
+JAVN2573 further ordered 5000 FRP Dowels Black, 22*1450 Drg CU0028 Rev 0 on December 7, 2025, requiring delivery by February 1, 2026. The order was placed in warehouse NT, with an order quantity of 5000, and all outstanding.
+
+JAVN2573 also ordered 2000 Fiberglass Mesh Sheets 1.7m x 1.2m 100mm ap - 4mm on December 7, 2025, requiring delivery by February 1, 2026. The order was placed in warehouse NT, with an order quantity of 2000, and all outstanding.
+
+JAVN2573 placed another order for 200 Fiberglass Mesh Sheets 5.0m x 1.2m 100mm ap - 4mm on December 15, 2025, requiring delivery by February 1, 2026. The order was placed in warehouse NT, with an order quantity of 200, and all outstanding.
+
+JAVN2639 ordered 5000 FB Shell R32 54OD 120 Length DWG # SDA0049 on October 14, 2025, requiring delivery by December 1, 2025. The order was placed in warehouse N6, with an order quantity of 5000, and all outstanding.
+
+JAVN2639 also ordered 10000 Barrels & Wedges to suit 15.2mm Cable CA0147 on October 14, 2025, requiring delivery by January 1, 2026. The order was placed in warehouse N6, with an order quantity of 10000, and all outstanding.
+
+JAVN2639 further ordered 5000 Wedges 21.8mm on November 4, 2025, requiring delivery by January 1, 2026. The order was placed in warehouse N6, with an order quantity of 5000, and all outstanding.
+
+JAVN2639 also ordered 15000 Barrels & Wedges to suit 15.2mm Cable CA0147 on November 4, 2025, requiring delivery by January 1, 2026. The order was placed in warehouse N6, with an order quantity of 15000, and all outstanding.
+
+JAVN2639 placed another order for 6000 FB Shell R32 54OD 120 Length DWG # SDA0049 on November 6, 2025, requiring delivery by January 1, 2026. The order was placed in warehouse N6, with an order quantity of 6000, and all outstanding.
+
+JAVN2639 ordered 2000 Expansion Shell M24 Left Hand Thread - 51mm on November 10, 2025, requiring delivery by December 2, 2025. The order was placed in warehouse N5, with an order quantity of 2000, and all outstanding.
+
+JAVN2639 also ordered 10000 Barrels & Wedges to suit 15.2mm Cable CA0147 on November 25, 2025, requiring delivery by January 1, 2026. The order was placed in warehouse N6, with an order quantity of 10000, and all outstanding.
+
+JAVN2639 placed an order for 10,000 units of BARREL & WEDGE TO SUIT 15.2MM CABLE CA0147 on November 25, 2025, requiring delivery by February 1, 2026, to warehouse N6. The part is ordered in units of EA.
+
+JAVN2639 also ordered 2,000 units of EXPANSION SHELL M24 LEFT HAND THREAD - 51MM on December 7, 2025, with delivery required by February 1, 2026, to warehouse N5. This order is in units of EA.
+
+Another order from JAVN2639 includes 5,000 units of BARREL & WEDGE TO SUIT 21.8MM CABLE - DOMED CA0106 on December 7, 2025, needing delivery by February 1, 2026, to warehouse N5. The order quantity is in units of EA.
+
+JAVN2639 ordered 4,000 units of 1mm TaperFerrule for M42 TEX 35ID w/Spring on December 7, 2025, with delivery required by February 1, 2026, to warehouse N5. The order quantity is in units of EA.
+
+An additional order from JAVN2639 involves 5,000 units of 21.8MM WEDGE on December 7, 2025, needing delivery by February 1, 2026, to warehouse N5. The order quantity is in units of EA.
+
+JAVN2639 ordered 100,000 units of Friction Lok Ring. 47 Dia Drg FL0005 Rev 2 on December 7, 2025, with delivery required by February 1, 2026, to warehouse N5. The order quantity is in units of EA.
+
+JAVN2639 placed another order for 4,000 units of 1mm TaperFerrule for M42 TEX 35ID w/Spring on December 7, 2025, with delivery required by March 1, 2026, to warehouse N6. The order quantity is in units of EA.
+
+JAVN2642 ordered 500 units of Expansion Shell M24 L/H Galvanised on December 15, 2025, with delivery required by February 1, 2026, to warehouse N6. The order quantity is in units of EA.
+
+JAVN2675 ordered 2 units of Rep & Mtce - Forklift on October 14, 2025, with delivery required by July 31, 2026, but no warehouse specified. The order quantity is in units of EA.
+
+JAVN2749 ordered 13,500 units of FRICTION LOK BOLT 39MMX900MM + 10MM RING - GAL 150 BOLTS PER PACK on December 9, 2025, with delivery required by February 1, 2026, to warehouse NT. The order quantity is in units of EA.
+
+JAVN2801 ordered 1,680 units of DYNAMIC MECH-LOK 47MM X 2400MM, 20MM BAR, GALV on June 20, 2025, with delivery required by September 1, 2025, to warehouse NT. The order quantity is in units of EA.
+
+JAVN2801 ordered 27,000 units of COMBI PLATE 280X300 + R150X4MM ROLL TOP 50MM H GAL 250 PLATES PER PALLET on September 3, 2025, with delivery required by November 1, 2025, to warehouse NT. The order quantity is in units of EA, with 18,000 units already accepted.
+
+JAVN2801 ordered 100 units of RESEARCH & DEVELOPMENT on September 26, 2025, with delivery required by November 1, 2025, but no warehouse specified. The order quantity is in units of EA.
+
+JAVN2801 ordered 360 units of MECH LOK BOLT 47MM X 1500MM - GAL - China Supply on October 17, 2025, with delivery required by December 1, 2025, to warehouse NT. The order quantity is in units of EA.
+
+JAVN2801 ordered 600 units of MECH LOK BOLT 47MM X 1800MM - GAL - China Supply on October 17, 2025, with delivery required by December 1, 2025, to warehouse NT. The order quantity is in units of EA.
+
+JAVN2801 ordered 960 units of MECH LOK BOLT 47MM X 2100MM - GAL - China Supply on October 17, 2025, with delivery required by December 1, 2025, to warehouse NT. The order quantity is in units of EA.
+
+JAVN2801 ordered 1,560 units of MECH LOK BOLT 47MM X 1500MM - GAL - China Supply on November 4, 2025, with delivery required by January 1, 2026, to warehouse NT. The order quantity is in units of EA.
+
+JAVN2801 ordered 600 units of MECH LOK BOLT 47MM X 1800MM - GAL - China Supply on November 4, 2025, with delivery required by January 1, 2026, to warehouse NT. The order quantity is in units of EA.
+
+JAVN2801 ordered 360 units of MECH LOK BOLT 47MM X 2100MM - GAL - China Supply on November 4, 2025, with delivery required by January 1, 2026, to warehouse NT. The order quantity is in units of EA.
+
+JAVN2801 placed an order on November 17, 2025, for 720 units of MECH LOK BOLT 47MM X 2400MM - GAL, packed 120 units per pack, with a required delivery date of December 17, 2025. The order is stored in Warehouse NT.
+
+JAVN2801 also ordered 720 units of MECH LOK BOLT 47MM X 3000MM - GAL on November 17, 2025, with a required delivery date of December 17, 2025. This order is stored in Warehouse NF.
+
+On December 9, 2025, JAVN2801 ordered 1800 units of MECH LOK BOLT 47MM X 1500MM - GAL, packed 105 units per pack, with a required delivery date of February 1, 2026. This order is stored in Warehouse NF.
+
+JAVN2801 also ordered 1440 units of MECH LOK BOLT 47MM X 1800MM - GAL, packed 105 units per pack, with a required delivery date of February 1, 2026. This order is stored in Warehouse NF.
+
+On December 9, 2025, JAVN2801 ordered 720 units of MECH LOK BOLT 47MM X 2100MM - GAL, packed 105 units per pack, with a required delivery date of February 1, 2026. This order is stored in Warehouse NF.
+
+JAVN2801 placed a large order on December 9, 2025, for 9360 units of MECH LOK BOLT 47MM X 2400MM - GAL, packed 120 units per pack, with a required delivery date of February 1, 2026. This order is stored in Warehouse NT.
+
+JAVN2811 ordered 1 unit of Office Supplies on December 9, 2025, with a required delivery date of December 17, 2025.
+
+JAVN2817 ordered 1 unit of Robotic FL Crimp GAL061 on December 24, 2025, with a required delivery date of December 23, 2025.
+
+JAVN2847 ordered 1 unit of 1.5" National Threader ANZ091 on July 24, 2023, with a required delivery date of January 1, 2025.
+
+JAVN2882 ordered 800 units of 5.4M DCP - STRAIGHT NODULAR SHEATH, 420D, 30ID 5050MM on December 1, 2025, with a required delivery date of December 16, 2025. This order is stored in Warehouse NF.
+
+JAVN2882 also ordered 800 units of 9.1M DCP - STRAIGHT NODULAR SHEATH, 42OD, 30ID 9100MM LENGTH on December 1, 2025, with a required delivery date of December 16, 2025. This order is stored in Warehouse NF.
+
+JAVN2885 ordered 1 unit of Freight In on May 20, 2025, with a required delivery date of June 3, 2025.
+
+JAVN2899 ordered 1 unit of Consumables - Pinnut on December 9, 2025, with a required delivery date of December 17, 2025.
+
+JAVN2899 also ordered 2 units of Consumables - Pinnut on December 9, 2025, with a required delivery date of December 17, 2025.
+
+Michael placed an order on October 1, 2025, for 13 units of CLEANING MANUFACTURING, with 12 units already accepted, leaving 1 outstanding unit, with a required delivery date of December 31, 2025.
+
+JAVN2906 ordered 1 unit of Clothing safety expense on November 30, 2025, with a required delivery date of December 8, 2025.
+
+JAVN2906 also ordered 240 units of Misc Safety Supplies on December 10, 2025, with a required delivery date of December 18, 2025.
+
+JAVN2906 further ordered 720 units of Misc Safety Supplies on December 10, 2025, with a required delivery date of December 18, 2025.
+
+JAVN2906 ordered 1 unit of Uniforms on December 14, 2025, with a required delivery date of February 9, 2026.
+
+JAVN2932 ordered 102 units of Geocell High Density Polyethylene 2.5 X 8.35 M on November 5, 2025, with a required delivery date of January 1, 2026. This order is stored in Warehouse NT.
+
+JAVN2932 placed an order on December 8, 2025, for 102 units of Geocell High Density Polyethylene 2.5 X 8.35 M, with a required delivery date of February 1, 2026. The order is pending acceptance.
+
+JAVN2943 ordered 4000 Pinnut Drills on December 15, 2024, expecting delivery by March 3, 2025. As of now, 3250 have been accepted, leaving 750 outstanding.
+
+JAVN2943 issued a purchase order on September 17, 2025, for 1620 Consumables - Welding, due by February 27, 2026. Currently, 645 have been accepted, with 975 still pending.
+
+JAVN2943 ordered 5 CONSUMABLE WELDING COMBI PLATES on October 19, 2025, requiring delivery by October 27, 2025. All 5 remain outstanding.
+
+JAVN2943 placed an order for 10000 Pinnut Drills on October 20, 2025, with a required delivery date of December 29, 2025. The order is fully outstanding.
+
+JAVN2943 ordered another batch of 10000 Pinnut Drills on October 20, 2025, expecting delivery by December 29, 2025. 70 have been accepted, leaving 9930 outstanding.
+
+JAVN2943 ordered 48 CONSUMABLE WELDING FRICTION LOKs on October 21, 2025, needing delivery by October 29, 2025. All 48 remain outstanding.
+
+JAVN2943 ordered an additional 80 CONSUMABLE WELDING FRICTION LOKs on October 21, 2025, expecting delivery by October 29, 2025. All 80 remain outstanding.
+
+JAVN2943 ordered 6 CONSUMABLE WELDING CABLE BOLTS on October 22, 2025, requiring delivery by October 24, 2025. All 6 remain outstanding.
+
+JAVN2943 ordered 5 Consumables Rags on November 10, 2025, expecting delivery by November 18, 2025. All 5 remain outstanding.
+
+JAVN2943 ordered 100 CONSUMABLE WELDING FRICTION LOKs on December 4, 2025, needing delivery by December 12, 2025. 60 have been accepted, leaving 40 outstanding.
+
+JAVN2943 ordered another batch of 100 CONSUMABLE WELDING FRICTION LOKs on December 4, 2025, expecting delivery by December 12, 2025. 40 have been accepted, leaving 60 outstanding.
+
+JAVN2943 ordered 3 Consumables Weld Fric Loks on December 8, 2025, requiring delivery by December 16, 2025. All 3 remain outstanding.
+
+JAVN2943 ordered an additional 2 Consumables Weld Fric Loks on December 8, 2025, expecting delivery by December 16, 2025. All 2 remain outstanding.
+
+JAVN2943 ordered 1000 Pinnut Drills on December 11, 2025, needing delivery by January 9, 2026. 500 have been accepted, leaving 500 outstanding.
+
+JAVN2943 ordered 4 CONSUMABLE WELDING FRICTION LOKs on December 18, 2025, requiring delivery by January 5, 2026. All 4 remain outstanding.
+
+JAVN2943 ordered an additional 4 CONSUMABLE WELDING FRICTION LOKs on December 18, 2025, expecting delivery by January 5, 2026. All 4 remain outstanding.
+
+JAVN2943 ordered 80 CONSUMABLE WELDING FRICTION LOKs on December 18, 2025, needing delivery by January 5, 2026. All 80 remain outstanding.
+
+JAVN2943 ordered 20 CONSUMABLE WELDING FRICTION LOKs on December 18, 2025, expecting delivery by January 5, 2026. All 20 remain outstanding.
+
+JAVN2952 placed an order on October 15, 2025, for 1 Consumables - Tooling, with a required delivery date of October 23, 2025. The order is pending acceptance.
+
+JAVN2952 placed an order on November 10, 2025, for 1 unit of Consumables - Tooling, part code 7CONSTOOL, requiring delivery by November 18, 2025.
+
+JAVN2988 issued a purchase order on February 26, 2025, for 1 unit of Parts for ASW, part code 7PARTS4ASW, needing delivery by March 13, 2025.
+
+JAVN2988 also ordered 1 maintenance iPad on April 1, 2025, for part code 7CIP2570ANZ164, requiring delivery by April 9, 2025.
+
+JAVN2988 requested 1 unit of Computer Hardware, part code 7COMPHARDWARE, on August 28, 2025, expecting delivery on the same day.
+
+JAVN2993 ordered 8 units of Consumables - Tooling, part code 7CONSTOOL, on November 27, 2025, needing delivery by December 5, 2025.
+
+JAVN2997 bought 1 unit of RESEARCH & DEVELOPMENT, part code 7R&D, on October 8, 2025, expecting delivery by October 15, 2025.
+
+JAVN2997 also purchased another unit of RESEARCH & DEVELOPMENT on November 24, 2025, requiring delivery by December 1, 2025.
+
+JAVN2997 ordered a third unit of RESEARCH & DEVELOPMENT on November 24, 2025, expecting delivery by December 1, 2025.
+
+JAVN3031 acquired 3 units of Gauges for Quality Assurance, part code 7QAGAUGES, on October 14, 2025, needing delivery by October 29, 2025.
+
+JAVN3031 also ordered 1 unit of RESEARCH & DEVELOPMENT, part code 7R&D, on October 23, 2025, expecting delivery by October 31, 2025.
+
+JAVN3037 purchased 5 units of 4 ELEMENT MIXER CARTRIDGE, part code JLP10802004, on December 17, 2025, requiring delivery by December 22, 2025.
+
+JAVN3037 also bought 1 unit of RESEARCH & DEVELOPMENT, part code 7R&D, on December 17, 2025, expecting delivery by December 23, 2025.
+
+JAVN3051 ordered 500 units of GALVANISE CTB25COUPG, part code SCTB25COUPG, on December 17, 2025, needing delivery by January 5, 2026.
+
+JAVN3051 also ordered 1500 units of GALVANISE CTB25NUTDG, part code SCTB25NUTDG, on December 17, 2025, expecting delivery by January 5, 2026.
+
+JAVN3051 further ordered 500 units of GALVANISE CTB32COUPG, part code SCTB32COUPG, on December 17, 2025, requiring delivery by January 5, 2026.
+
+JAVN3051 also ordered 500 units of GALVANISE CTB28COUP, part code SCTB28COUPG, on December 17, 2025, needing delivery by January 5, 2026.
+
+JAVN3051 purchased 10,000 units of DOMED NUT M6 JTech, part code SJTNUTDOMEDG, on December 17, 2025, requiring delivery by January 5, 2026.
+
+JAVN3070 bought 1 unit of Repair & Maint Electrical, part code 7RPRMTCEELECT, on December 16, 2025, expecting delivery by January 5, 2026.
+
+JAVN3070 also ordered another unit of Repair & Maint Electrical on December 16, 2025, expecting delivery by January 5, 2026.
+
+JAVN3070 further ordered 1 unit of Repair & Maint Property, part code 7RPRMTCEPROP, on December 16, 2025, expecting delivery by January 5, 2026.
+
+JAVN3074 placed an order on September 29, 2025, for 1 unit of Consumables - Maint Dept, to be delivered by October 7, 2025.
+
+JAVN3078 ordered 4000 units of CENTRALISER T/S 25MM & 28MM BAR & 140MM OD SUIT 150MM HOLE on November 10, 2025, to be delivered by January 1, 2026.
+
+JAVN3078 also ordered 3000 units of INTERNAL SPACER SUIT 40MM BAR & 80MM ID SHEATH on November 10, 2025, to be delivered by January 1, 2026.
+
+JAVN3078 ordered 2000 units of Extern Spacer suit 80mm Sheath and 140mm Hole on November 10, 2025, to be delivered by January 1, 2026.
+
+JAVN3078 placed an order on December 7, 2025, for 3000 units of INTERNAL SPACER SUIT 25MM BAR & 65MM ID SHEATH, to be delivered by February 1, 2026.
+
+JAVN3090 ordered 1 unit of Rep & Mtce - Forklift on September 11, 2025, to be delivered by September 18, 2025.
+
+JAVN3090 ordered 1 unit of Repair & Maint Property on September 22, 2025, to be delivered by September 30, 2025.
+
+JAVN3090 ordered another unit of Repair & Maint Property on September 22, 2025, to be delivered by September 30, 2025.
+
+JAVN3090 ordered yet another unit of Repair & Maint Property on September 28, 2025, to be delivered by October 6, 2025.
+
+JAVN3091 placed an order on October 22, 2025, for 1 unit of Computer Hardware, to be delivered by October 30, 2025.
+
+JAVN3098 ordered 1 unit of Repair & Maint Property on July 21, 2025, to be delivered by July 29, 2025.
+
+JAVN3119 ordered 160 units of Promotional Goods Coal on August 13, 2025, to be delivered by September 1, 2025.
+
+JAVN3119 ordered another 160 units of Promotional Goods Hardrock on August 13, 2025, to be delivered by September 1, 2025.
+
+JAVN3119 ordered 30 units of Promotional Goods C&T on August 13, 2025, to be delivered by September 1, 2025.
+
+JAVN3119 ordered 50 units of HPA on August 13, 2025, to be delivered by September 1, 2025.
+
+JAVN3119 ordered 100 units of Repair & Mtce Threading on August 13, 2025, to be delivered by September 1, 2025.
+
+JAVN3127 ordered 40 units of HOURS on September 8, 2025, to be delivered by September 10, 2025.
+
+JAVN3127 ordered another 40 units of HOURS on September 8, 2025, to be delivered by September 10, 2025.
+
+JAVN3127 placed an order on December 2, 2025, for 40 units of HOURS, to be delivered by February 28, 2026.
+
+JAVN3142 ordered 1 unit of Repair & Mtce Threading on October 28, 2025, to be delivered by November 19, 2025.
+
+JAVN3159 placed an order on December 15, 2025, for 8 units of prepaid general expenses, which are still outstanding. The same vendor ordered 12 units on the same day, also still outstanding. Another order of 24 units was placed on the same date, remaining unaccepted. A large order of 180 units was made on December 15, 2025, all of which are yet to be accepted.
+
+MV0060 issued an order on April 2, 2025, for 3 units of computer software, all of which remain unaccepted.
+
+JAVN0054 initiated orders on December 2, 2025, for various parts. For HSAC840219DRBR, an order of 154 tons was placed, with 43.145 tons already accepted, leaving 110.855 tons outstanding. An order of 44 tons for HSAC840217DRBR was placed, all of which remain unaccepted. Another order of 22 tons for the same part was also placed, all outstanding. An order of 66 tons for HSAC840219DRBGL was placed, all of which remain unaccepted.
+
+JAVN0054 placed another order on December 8, 2025, for HSAC840219DRBR, ordering 22 tons, all of which remain unaccepted. An order of 154 tons for the same part was also placed, all of which remain unaccepted. An order of 22 tons for HSAC840217DRBR was placed, all of which remain unaccepted. Another order of 22 tons for the same part was also placed, all of which remain unaccepted. An order of 22 tons for HSAC840219DRBR was placed, all of which remain unaccepted. An order of 132 tons for the same part was also placed, all of which remain unaccepted. An order of 22 tons for HSAC840217DRBR was placed, all of which remain unaccepted. Another order of 22 tons for the same part was also placed, all of which remain unaccepted. An order of 44 tons for HSAC840219DRBGL was placed, all of which remain unaccepted.
+
+JAVN0054 placed an order on December 15, 2025, for HSAC840219DRBR, ordering 22 tons, all of which remain unaccepted. An order of 132 tons for the same part was also placed, all of which remain unaccepted. An order of 22 tons for HSAC840217DRBR was placed, all of which remain unaccepted. Another order of 22 tons for the same part was also placed, all of which remain unaccepted. An order of 22 tons for HSAC840219DRBR was placed, all of which remain unaccepted. An order of 44 tons for HSAC840219DRBGL was placed, all of which remain unaccepted.
+
+JAVN0072 placed an order on November 4, 2025, for 60 units of repair and maintenance cranes, all of which remain unaccepted.
+
+JAVN0176 placed an order on February 26, 2025, for 1 unit of repair and maintenance property, all of which remain unaccepted.
+
+JAVN0176 placed an order on February 26, 2025, for 1 unit of Repair & Maint Property, part code 7RPRMTCEPROP, requiring delivery by February 27, 2025. The order status shows an outstanding quantity of 1.
+
+JAVN0176 also ordered another unit of Repair & Maint Property on the same date, part code 7RPRMTCEPROP, with the same required date of February 27, 2025. The outstanding quantity is 1.
+
+JAVN0238 issued a purchase order on October 23, 2025, for 80 units of Consumables Peeler, part code 7CONSPEELER, needing delivery by October 31, 2025. The outstanding quantity is 80.
+
+JAVN0238 further ordered 80 units of Consumables Peeler on the same date, part code 7CONSPEELER, with the same required date of October 31, 2025. The outstanding quantity is 80.
+
+JAVN0238 also ordered another 80 units of Consumables Peeler on October 23, 2025, part code 7CONSPEELER, with the same required date of October 31, 2025. The outstanding quantity is 80.
+
+JAVN0238 ordered 1 unit of Freight In, part code 7FRTIN, on October 23, 2025, requiring delivery by October 31, 2025. The outstanding quantity is 1.
+
+JAVN0327 placed an order on November 9, 2025, for 2000 units of MESH RIB 2.40MX1.30M 100X100 APT 4.0MM WIRE GAL, part code AFP2413101004G, needing delivery by December 10, 2025. The outstanding quantity is 2000.
+
+JAVN0327 also ordered 400 units of MESH ROOF 5.25MX1.20M 150X100 APT 5.6MM WIRE GAL, part code AF52121510056GL, on November 17, 2025, requiring delivery by December 2, 2025. The outstanding quantity is 400.
+
+JAVN0327 further ordered 400 units of MESH ROOF 5.25MX1.20M 150X100 APT 5.6MM RESIN COATED, part code AF52121510056RC, on November 17, 2025, with the same required date of December 2, 2025. The accepted quantity is 200, leaving an outstanding quantity of 200.
+
+JAVN0327 ordered another 400 units of MESH ROOF 5.25MX1.20M 150X100 APT 5.6MM RESIN COATED, part code AF52121510056RC, on December 1, 2025, requiring delivery by January 1, 2026. The outstanding quantity is 400.
+
+JAVN0327 placed an order on December 8, 2025, for 2000 units of MESH RIB 2.40MX1.30M 100X100 APT 4.0MM WIRE GAL, part code AFP2413101004G, needing delivery by January 8, 2026. The outstanding quantity is 2000.
+
+JAVN0643 ordered 8.465 tons of Coil 290x1.8mm Galvanised, part code CS290X18MMG, on August 27, 2025, requiring delivery by August 29, 2025. The accepted quantity is 6.292 tons, leaving an outstanding quantity of 2.173 tons.
+
+JAVN0643 also ordered 6.222 tons of Coil 290x1.8mm Galvanised, part code CS290X18MMG, on October 29, 2025, requiring delivery by October 31, 2025. The outstanding quantity is 6.222 tons.
+
+JAVN1157 issued a purchase order on May 5, 2025, for 540 units of MESH ROOF 5.40 M X 1.40M 100X100 APT 5.0MM WIRE IMB5-44-5414-JEN, part code SMB5414101005C, needing delivery by May 13, 2025. The outstanding quantity is 540.
+
+JAVN1157 further ordered 60 units of MESH ROOF 5.40 M X 1.40M 100X100 APT 5.0MM WIRE IMB5-44-5414-JEN, part code SMB5414101005C, on May 6, 2025, requiring delivery by May 14, 2025. The outstanding quantity is 60.
+
+JAVN1157 also ordered 480 units of MESH ROOF 5.40 M X 1.40M 100X100 APT 5.0MM WIRE IMB5-44-5414-JEN, part code SMB5414101005C, on May 6, 2025, with the same required date of May 14, 2025. The outstanding quantity is 480.
+
+JAVN1157 ordered another 480 units of MESH ROOF 5.40 M X 1.40M 100X100 APT 5.0MM WIRE IMB5-44-5414-JEN, part code SMB5414101005C, on May 6, 2025, with the same required date of May 14, 2025. The outstanding quantity is 480.
+
+JAVN1157 issued a purchase order on May 23, 2025, for 2400 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN, part code CCP45241010056G, needing delivery by May 30, 2025. The accepted quantity is 2200, leaving an outstanding quantity of 200.
+
+JAVN1157 ordered 500 units of Mine Mesh 4.8 M x 2.4M 100 x 100 Apt 5mm Wire -Blk IMB5-44-4824, part code CCP4824101005, on June 30, 2025, requiring delivery by July 7, 2025. The outstanding quantity is 500.
+
+JAVN1157 also ordered 960 units of GX MESH ROOF 5.00M X 1.70M 100X150 APT 4.00MM WIRE - GAL, part code GXB501710154G, on July 1, 2025, requiring delivery by July 8, 2025. The accepted quantity is 480, leaving an outstanding quantity of 480.
+
+JAVN1157 placed an order for 4400 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN on July 1, 2025, with delivery required by July 15, 2025. The order was placed at warehouse QZ. As of the latest update, 3300 units have been accepted, leaving 1100 units outstanding.
+
+JAVN1157 ordered 2160 units of GX MESH ROOF 5.60M X 1.40M 100X100 APT 4.0MM WIRE - GAL on July 2, 2025, expecting delivery by July 17, 2025. The order was placed at warehouse QZ. Up to now, 2013 units have been accepted, with 147 units still outstanding.
+
+JAVN1157 requested 25 units of GX MESH - ROOF 4.8M X 1.2M GAL DENDROBIUM MAT # 10992135 on September 7, 2025, with delivery needed by September 15, 2025. The order was placed at warehouse QZ. No units have been accepted yet, so the full 25 units remain outstanding.
+
+JAVN1157 ordered 1600 units of RIB MESH 1.7M X 1.6M, 100X100 APT & 3.15MM GAL WIRE on September 28, 2025, requiring delivery by October 5, 2025. The order was placed at warehouse QZ. No units have been accepted, leaving the full 1600 units outstanding.
+
+JAVN1157 placed an order for 2000 units of MESH - RIB 1.7M X 1.1M 150X150MM APT GLENCORE COAL MAT # 400208837 - ULAN WEST on September 30, 2025, with delivery required by October 7, 2025. The order was placed at warehouse QZ. No units have been accepted, so the full 2000 units remain outstanding.
+
+JAVN1157 ordered 500 units of MESH Mine 4.5M X 2.4M 100X100 APT 5.0MM WIRE on October 26, 2025, expecting delivery by November 3, 2025. The order was placed at warehouse QZ. No units have been accepted, leaving the full 500 units outstanding.
+
+JAVN1157 requested 1440 units of 150x150x5100x1150x4x5 - DEN2 IMB45-66-5111-DEN2 on November 9, 2025, with delivery needed by December 31, 2025. The order was placed at warehouse QZ. 1140 units have been accepted, leaving 300 units outstanding.
+
+JAVN1157 ordered 540 units of 150x150x5100x1700x4x5 IMB45-66-5117-DEN on November 9, 2025, requiring delivery by December 31, 2025. The order was placed at warehouse QZ. All 540 units have been accepted, leaving no units outstanding.
+
+JAVN1157 requested 1280 units of GX MESH - ROOF 5.0M X 1.2M GAL GLENCORE COAL MAT # 400037854 - OAKY CREEK on November 17, 2025, with delivery needed by December 2, 2025. The order was placed at warehouse QZ. 640 units have been accepted, leaving 640 units outstanding.
+
+JAVN1157 ordered 1584 units of MESH ROOF 5.10MX1.35M 150X100 APT 5.0MM WIRE SLG IMB5-64-5113-JMOL on November 17, 2025, expecting delivery by November 25, 2025. The order was placed at warehouse QZ. 1518 units have been accepted, leaving 66 units outstanding.
+
+JAVN1157 requested 6000 units of Mesh Rib 2M x 1.5M 100 x 100 Apt 4.0mm wire Gal IMG4-44-2015-JNA on November 17, 2025, with delivery needed by November 25, 2025. The order was placed at warehouse QZ. 4000 units have been accepted, leaving 2000 units outstanding.
+
+JAVN1157 ordered 1188 units of MESH ROOF 5.00MX1.55M 100X100 APT 5.0MM WIRE SLG IMB5-46-5016-JNA on November 17, 2025, expecting delivery by December 31, 2025. The order was placed at warehouse QZ. No units have been accepted, leaving 1188 units outstanding.
+
+JAVN1157 requested 1280 units of GX MESH - ROOF 5.0M X 1.2M GAL GLENCORE COAL MAT # 400037854 - OAKY CREEK on November 25, 2025, with delivery needed by December 31, 2025. The order was placed at warehouse QZ. No units have been accepted, leaving 1280 units outstanding.
+
+JAVN1157 ordered 1584 units of MESH ROOF 5.10MX1.35M 150X100 APT 5.0MM WIRE SLG IMB5-64-5113-JMOL on November 25, 2025, expecting delivery by December 3, 2025. The order was placed at warehouse QZ. 1188 units have been accepted, leaving 396 units outstanding.
+
+JAVN1157 requested 5360 units of 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC on November 30, 2025, with delivery needed by December 8, 2025. The order was placed at warehouse QZ. 1280 units have been accepted, leaving 4080 units outstanding.
+
+JAVN1157 ordered 500 units of Mine Mesh 4800X2400mm 100x100mm Apt 5.6mm wire Galv IMG5H-44-4824 on December 1, 2025, expecting delivery by December 9, 2025. The order was placed at warehouse QZ. No units have been accepted, leaving 500 units outstanding.
+
+JAVN1157 requested 1584 units of MESH ROOF 5.10MX1.35M 150X100 APT 5.0MM WIRE SLG IMB5-64-5113-JMOL on December 2, 2025, with delivery needed by December 10, 2025. The order was placed at warehouse QZ. No units have been accepted, leaving 1584 units outstanding.
+
+JAVN1157 ordered 480 units of 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC on December 9, 2025, expecting delivery by December 17, 2025. The order was placed at warehouse QZ. No units have been accepted, leaving 480 units outstanding.
+
+JAVN1157 requested 150 units of MESH RIB 2.40MX1.50M 100X100 APT 3.0/4.0MM WIRE -G IMG34-44-2415-JAS on December 10, 2025, with delivery needed by December 18, 2025. The order was placed at warehouse QZ. 100 units have been accepted, leaving 50 units outstanding.
+
+JAVN1157 ordered 3000 units of RIB MESH 2.5X1.8M 100X100MM APT & 3.15MM GAL WIRE on December 11, 2025, expecting delivery by March 1, 2026. The order was placed at warehouse QZ. No units have been accepted, leaving 3000 units outstanding.
+
+JAVN1157 placed an order on December 11, 2025, for 3,000 units of RIB MESH 2.5X1.8M 100X100MM APT & 3.15MM GAL WIRE, to be delivered by April 1, 2026, at warehouse QZ.
+
+JAVN1157 ordered 500 units of Mine Mesh 4800X2400mm 100x100mm Apt 5.6mm wire Galv IMG5H-44-4824 on December 14, 2025, requiring delivery by January 5, 2026, at warehouse QZ.
+
+JAVN1157 also ordered 500 units of Mine Mesh 4.8 M x 2.4M 100 x 100 Apt 5mm Wire -Blk IMB5-44-4824 on December 14, 2025, needing delivery by January 5, 2026, at warehouse QZ.
+
+JAVN1157 purchased 1,260 units of 150x150x5100x1150x4x5 - DEN2 IMB45-66-5111-DEN2 on December 14, 2025, with delivery required by December 29, 2025, at warehouse QZ.
+
+JAVN1157 bought an additional 1,080 units of 150x150x5100x1700x4x5 IMB45-66-5117-DEN on December 14, 2025, needing delivery by December 29, 2025, at warehouse QZ.
+
+JAVN1157 received 363 units of MESH ROOF 5.00MX1.35M 100X100 APT 5.0MM WIRE IMB5-44-5014-JNA on December 14, 2025, with 33 units still outstanding, at warehouse QZ.
+
+JAVN1157 ordered 2,000 units of MESH ROOF 5.6MX1.6M 100X100 APT 4.0MM&5.0MM WIRE MM0207 on December 15, 2025, requiring delivery by February 1, 2026, at warehouse QZ.
+
+JAVN1157 also ordered another 2,000 units of the same product on December 15, 2025, needing delivery by April 1, 2026, at warehouse QZ.
+
+JAVN1241 ordered 52 units of SP15090B 19MM PLASTIC STRAP BLACK on October 20, 2025, expecting delivery by October 28, 2025, with 12 units still outstanding.
+
+JAVN1330 ordered 172.688 tons of Coil 5x150mm XTRAFORM 400SF on August 27, 2025, expecting delivery by August 29, 2025, with 57.706 tons already accepted and 114.982 tons still outstanding.
+
+JAVN1330 also ordered 147.53 tons of Coil 200x6 XTRAFORM SF PO on August 27, 2025, expecting delivery by August 29, 2025, with 130.65 tons already accepted and 16.88 tons still outstanding.
+
+JAVN1395 ordered 1,000 units of Galvanise Combi plate JCP2830K38L on December 7, 2025, with delivery required by December 15, 2025, at warehouse QZ.
+
+JAVN1395 also ordered 2,940 units of Galvanize Kanga Plate 150*150*5.38 on December 7, 2025, needing delivery by December 15, 2025, at warehouse QZ.
+
+JAVN2081 ordered 1 unit of Cable Line Machinery Production Dr MKY103 on July 16, 2025, expecting delivery by September 4, 2025.
+
+JAVN2348 ordered 1 unit of Repair & Maint Cranes on September 23, 2025, expecting delivery by September 24, 2025.
+
+JAVN2348 also ordered another unit of the same product on September 25, 2025, expecting delivery by October 3, 2025.
+
+JAVN2348 ordered yet another unit of Repair & Maint Cranes on October 21, 2025, expecting delivery by October 28, 2025.
+
+JAVN2353 ordered 57 units of PROMOTIONAL GOODS on November 19, 2025, expecting delivery by November 27, 2025.
+
+JAVN2356 ordered 3,000 units of RIB MESH 2.5X1.8M 100X100MM APT & 3.15MM GAL WIRE on November 10, 2025, expecting delivery by December 5, 2025, with 900 units still outstanding.
+
+JAVN2496 ordered 1 unit of Cable threader - Tex cables Production Dr MKY099 on July 17, 2025, expecting delivery by August 7, 2025.
+
+Training expenses are ordered for delivery on April 17, 2025, with part code 7TRAINING. The order quantity is 2 units, and the required date is April 16, 2025.
+
+JAVN2847 places an order for a 1.5" National Threader MKY066 with part code 7CIP2372MKY066. The order quantity is 1 unit, and it is required by January 27, 2025.
+
+JAVN2959 orders fixed assets—tools and dies—with part code 7FATOOLSDIES. The order quantity is 60 units, and it is required by March 1, 2026.
+
+JAVN2988 requests computer support expenses with part code 7COMPSUPPORT. The order quantity is 1 unit, and it is required by June 10, 2025.
+
+JAVN3097 orders repair and maintenance property with part code 7RPRMTCEPROP. The order quantity is 1 unit, and it is required by July 9, 2025.
+
+JAVN3104 orders training for sales with part code 7TRAININGSALES. The order quantity is 1 unit, and it is required by July 16, 2025.
+
+Capex MKY113 requires a HST tensile testing machine with part code 7CIP2572MKY113. The order quantity is 1 unit, and it is required by January 1, 2026.
+
+JAVN0087 orders a flammable goods storage cabinet HEN001 with part code 7CIP2573HEN001. The order quantity is 1 unit, and it is required by January 5, 2026.
+
+JAVN0087 orders another flammable goods storage cabinet HEN001 with part code 7CIP2573HEN001. The order quantity is 1 unit, and it is required by January 5, 2026.
+
+JAVN0863 orders a cold saw LAN093 with part code 7CIP2573LAN093. The order quantity is 1 unit, and it is required by August 7, 2025.
+
+JAVN1026 orders repair and maintenance property with part code 7RPRMTCEPROP. The order quantity is 16 units, and it is required by October 15, 2025.
+
+JAVN1026 also orders freight in with part code 7FRTIN. The order quantity is 1 unit, and it is required by October 15, 2025.
+
+JAVN1157 orders mesh seismic with part code MS45241010056G. The order quantity is 800 units, and it is required by December 2, 2025. So far, 400 units have been accepted.
+
+JAVN1157 orders mesh mine with part code CCP42241010056G. The order quantity is 1300 units, and it has been partially accepted with 1150 units. Remaining is 150 units.
+
+JAVN1157 orders another mesh mine with part code CCP50241010056G. The order quantity is 800 units, and no units have been accepted yet.
+
+JAVN1157 orders more mesh mine with part code CCP42241010056G. The order quantity is 1000 units, and 500 units have been accepted. Remaining is 500 units.
+
+JAVN1157 orders additional mesh mine with part code CCP42241010056G. The order quantity is 1100 units, and 550 units have been accepted. Remaining is 550 units.
+
+JAVN1259 orders a robotic FL crimp multi cell with part code 7CIP2573LAN096. The order quantity is 1 unit, and no units have been accepted yet.
+
+JAVN1595 orders repair and maintenance rollformer with part code 7RPRMTCEROLFOR. The order quantity is 2 units, and no units have been accepted yet.
+
+JAVN1693 placed an order on August 4, 2025, for 1 Repair & Mtce Pull Test Kit, to be delivered by August 12, 2025. The part is ordered in units of EA and remains outstanding.
+
+JAVN1897 issued a purchase order on October 2, 2025, for 1 R&M - Friction Lok Welder, to be delivered by December 12, 2025. The part is ordered in units of EA and remains outstanding.
+
+JAVN1957 sent a request on December 3, 2025, for 500 Resin Inserter Tubes Only PVC 30MM X 3.0M, to be delivered by December 11, 2025. The part is ordered in units of EA and remains outstanding.
+
+JAVN2003 submitted a purchase order on December 17, 2025, for 1800 Galvanize Fric Lok M47x2.4M and 3450 Galvanize Fric Lok M47x.9M, both to be delivered by January 5, 2026. Both parts are ordered in units of EA and remain outstanding.
+
+JAVN2003 also placed another order on December 17, 2025, for 3150 Galvanize Fric Lok M47x2.4M, to be delivered by December 29, 2025. The part is ordered in units of EA and remains outstanding.
+
+JAVN2199 ordered 40 4 Hook Service Hangers on December 3, 2025, to be delivered by December 18, 2025. The part is ordered in units of EA, with 20 accepted and 20 remaining outstanding.
+
+JAVN2353 requested 57 promotional goods on November 19, 2025, to be delivered by November 27, 2025. The part is ordered in units of EA and remains outstanding.
+
+JAVN2479 placed orders on October 22, 2025, for 3 Consumables - Rollformer, 1 Freight In, and 1 Consumables - Rollformer, all to be delivered by October 30, 2025. All parts are ordered in units of EA and remain outstanding.
+
+JAVN2639 issued a purchase order on December 7, 2025, for 15000 Barrel & Wedge to suit 15.2MM Cable CA0147 and 200000 Friction Lok Ring. 47 Dia Drg FL0005 Rev 2, both to be delivered by March 1, 2026. Both parts are ordered in units of EA and remain outstanding.
+
+JAVN2702 submitted a purchase order on June 23, 2025, for 1 R&M - Friction Lok Welder, to be delivered by June 23, 2025. The part is ordered in units of EA and remains outstanding.
+
+JAVN2733 ordered 650 Coil 107.5X3.2MM HA350 on November 17, 2025, to be delivered by December 31, 2025. The part is ordered in units of TONN, with 587 accepted and 63 remaining outstanding.
+
+JAVN2733 also placed another order on December 14, 2025, for 650 Coil 107.5X3.2MM HA350, to be delivered by January 31, 2026. The part is ordered in units of TONN and remains outstanding.
+
+JAVN2735 requested 4 15.2mm x 750 M cable reels Plain Continuous on July 17, 2025, to be delivered by July 24, 2025. The part is ordered in units of EA and remains outstanding.
+
+JAVN2736 ordered 240 Repair & Mtce Rollformer and 20 Repair & Mtce Rollformer, both to be delivered by December 31, 2025. The first order has 180.25 accepted and 59.75 remaining outstanding, while the second order has 14 accepted and 6 remaining outstanding.
+
+JAVN2801 submitted a purchase order on June 20, 2025, for 1680 Dynamic Mech-Lok 47MM X 2400MM, 20MM Bar, Galv, to be delivered by September 1, 2025. The part is ordered in units of EA and remains outstanding.
+
+JAVN2801 placed an order on July 1, 2025, for 30 units of JDML472024G, a Dynamic Mech-Lok with dimensions 47mm x 2400mm and a 20mm bar, galvanized, requiring delivery by July 15, 2025, at Warehouse WF.
+
+JAVN2801 ordered 58,500 units of JCP28390150450G, a Combi Plate measuring 280x300 with a roll top 50mm high, galvanized, on September 3, 2025, with a required delivery date of December 1, 2025, at Warehouse WF.
+
+JAVN2801 also ordered 27,000 units of JFL390910G, Friction Lok Bolts with dimensions 39mm x 900mm and a 10mm ring, galvanized, on September 3, 2025, with a required delivery date of December 1, 2025, at Warehouse WF.
+
+JAVN2801 ordered 27,440 units of JR15150450G, Roll Top Plates measuring 150x150x4mm with a 50mm hole, galvanized, on October 17, 2025, with a required delivery date of December 1, 2025, at Warehouse WF.
+
+JAVN2801 ordered an additional 18,000 units of JR20200450G, Roll Top Plates measuring 200x200x4mm with a 50mm hole, galvanized, on October 17, 2025, with a required delivery date of January 1, 2026, at Warehouse WF.
+
+JAVN2801 placed another order on October 17, 2025, for 27,440 units of JR15150450G, Roll Top Plates measuring 150x150x4mm with a 50mm hole, galvanized, with a required delivery date of January 1, 2026, at Warehouse WF.
+
+JAVN2801 also ordered 18,000 units of JR20200450G, Roll Top Plates measuring 200x200x4mm with a 50mm hole, galvanized, on October 17, 2025, with a required delivery date of January 1, 2026, at Warehouse WF.
+
+JAVN2801 ordered 58,500 units of JCP28390150450G, a Combi Plate measuring 280x300 with a roll top 50mm high, galvanized, on November 4, 2025, with a required delivery date of February 1, 2026, at Warehouse WF.
+
+JAVN2801 also ordered 4,500 units of JCP2839R150436G, a Combi Plate measuring 280x300 with a roll top 36mm high, galvanized, on November 4, 2025, with a required delivery date of February 1, 2026, at Warehouse WF.
+
+JAVN2801 ordered 27,000 units of JFL390910G, Friction Lok Bolts with dimensions 39mm x 900mm and a 10mm ring, galvanized, on November 4, 2025, with a required delivery date of February 1, 2026, at Warehouse WF.
+
+JAVN2801 ordered 27,440 units of JR15150450G, Roll Top Plates measuring 150x150x4mm with a 50mm hole, galvanized, on November 4, 2025, with a required delivery date of February 1, 2026, at Warehouse WF.
+
+JAVN2801 ordered an additional 36,000 units of JR20200450G, Roll Top Plates measuring 200x200x4mm with a 50mm hole, galvanized, on November 4, 2025, with a required delivery date of February 1, 2026, at Warehouse WF.
+
+JAVN2801 placed an order on November 26, 2025, for 27,440 units of JR15150450G, Roll Top Plates measuring 150x150x4mm with a 50mm hole, galvanized, with a required delivery date of January 1, 2026, at Warehouse WF.
+
+JAVN2801 also ordered 18,000 units of JR20200450G, Roll Top Plates measuring 200x200x4mm with a 50mm hole, galvanized, on November 26, 2025, with a required delivery date of January 1, 2026, at Warehouse WF.
+
+JAVN2801 ordered 27,440 units of JR15150450G, Roll Top Plates measuring 150x150x4mm with a 50mm hole, galvanized, on November 26, 2025, with a required delivery date of February 1, 2026, at Warehouse WF.
+
+JAVN2801 also ordered 18,000 units of JR20200450G, Roll Top Plates measuring 200x200x4mm with a 50mm hole, galvanized, on November 26, 2025, with a required delivery date of February 1, 2026, at Warehouse WF.
+
+JAVN2801 placed an order on December 9, 2025, for 85,500 units of JCP28390150450G, a Combi Plate measuring 280x300 with a roll top 50mm high, galvanized, with a required delivery date of March 1, 2026, at Warehouse WF.
+
+JAVN2801 also ordered 4,500 units of JCP2839R150436G, a Combi Plate measuring 280x300 with a roll top 36mm high, galvanized, on December 9, 2025, with a required delivery date of March 1, 2026, at Warehouse WF.
+
+JAVN2801 ordered 27,000 units of JFL390910G, Friction Lok Bolts with dimensions 39mm x 900mm and a 10mm ring, galvanized, on December 9, 2025, with a required delivery date of February 1, 2026, at Warehouse WF.
+
+JAVN2801 ordered 54,880 units of JR15150450G, Roll Top Plates measuring 150x150x4mm with a 50mm hole, galvanized, on December 9, 2025, with a required delivery date of March 1, 2026, at Warehouse WF.
+
+JAVN2801 placed an order on December 9, 2025, for 36,000 units of ROLL TOP PLATE 200X200X4MM 50MM HOLE GAL 500 PLATES PER PALLET, to be delivered by March 1, 2026, at Warehouse WF.
+
+JAVN2817 issued a purchase order on November 24, 2025, for 1 unit of ROBOTIC FL CRIMP MULTI CELL LAN096, required by December 23, 2025.
+
+JAVN3030 submitted a purchase request on December 10, 2025, for 1 unit of R&D EXPENSE G&A, needed by February 26, 2026.
+
+JAVN3152 ordered 20 units of STEEL HANGER PLATE 350MMX350MMX25MM - 10 TONNE SWL on November 13, 2025, to be delivered by November 28, 2025.
+
+MV0087 placed an order on December 14, 2025, for 12 units of R&M - FRICION LOK WELDER, to be delivered by December 22, 2025, in three separate orders.
+
+MV0087 also ordered 10 units of the same R&M - FRICION LOK WELDER on December 14, 2025, to be delivered by December 22, 2025.
+
+MV0087 further ordered 2 units of the same R&M - FRICION LOK WELDER on December 14, 2025, to be delivered by December 22, 2025.
+
+MV0087 ordered 1 unit of FREIGHT IN on December 14, 2025, to be delivered by December 22, 2025.
+
+JAVN1993 issued a purchase order on February 11, 2025, for 1 unit of UNIFORMS, required by February 19, 2025.
+
+JAVN2142 placed an order on October 6, 2025, for 26,800 meters of 1.02mm HARNESSES YARN BLACK TKVN4000SBK, to be delivered by September 30, 2025, at Warehouse HP.
+
+JAVN2142 also ordered 27,350 meters of 1.02mm HARNESSES YARN BLUE TKVN4000SBL, to be delivered by September 30, 2025, at Warehouse HP.
+
+JAVN2173 ordered 5,000 meters of 1.0mm SAFEX125 BLACK NO MARKING 26699BKSX on July 21, 2024, to be delivered by July 21, 2024, at Warehouse HP.
+
+JAVN2173 further ordered 3,000 meters of 1.0mm SAFEX125 BROWN NO MARKING 26699BNSX on July 21, 2024, to be delivered by July 21, 2024, at Warehouse HP.
+
+JAVN2173 then ordered 5,000 meters of 1.0mm SAFEX125 GREEN NO MARKING 26699GNSX on July 21, 2024, to be delivered by July 21, 2024, at Warehouse HP.
+
+JAVN2173 also ordered 4,000 meters of 1.0mm SAFEX125 ORANGE NO MARKING 26699OESX on July 21, 2024, to be delivered by July 21, 2024, at Warehouse HP.
+
+JAVN2173 further ordered 3,000 meters of 1.0mm SAFEX125 PURPLE NO MARKING 26699PESX on July 21, 2024, to be delivered by July 21, 2024, at Warehouse HP.
+
+JAVN2173 placed an order on January 21, 2025, for 6,000 meters of 1.5mm SAFEX125 BLACK NO MARKING 26700BKSX, to be delivered by January 22, 2025, at Warehouse HP.
+
+JAVN2173 also ordered 4,100 meters of 1.5mm SAFEX125 GREY NO MARKING 26700GYSX on January 21, 2025, to be delivered by January 22, 2025, at Warehouse HP.
+
+JAVN2173 further ordered 2,000 meters of 1.5mm SAFEX125 RED NO MARKING 26700RDSX on January 21, 2025, to be delivered by January 22, 2025, at Warehouse HP.
+
+JAVN2319 placed an order on November 2, 2025, for parts from HP. The order included four items: HP3106E3610PWBF, HP3106E3610PXBF, HP3106E3610PYBF, and HP3106E3610PZBF, all with a quantity of 3, 3, 1, and 1 respectively. All items were fully accepted with no outstanding quantity.
+
+JAVN2923 issued another order on May 15, 2025, for part code 7MFGCONSUME, which is Manufacturing Consumables. The order quantity was 1, but it remains outstanding with no acceptance recorded.
+
+JAVN2923 placed an order on May 19, 2025, for the same part code 7MFGCONSUME, with an order quantity of 3. This order also has an outstanding quantity of 3.
+
+JAVN2923 ordered part code 7CONSMANUF, which is Consumables Manufacturing, on June 9, 2025. The order included three items with quantities 20, 0.55, and 18. All these items remain outstanding with no acceptance.
+
+JAVN2923 placed another order on June 11, 2025, for part code 7CONSMANUF, with two items having quantities 20 and 0.55. Both items remain outstanding with no acceptance.
+
+JAVN2923 ordered part code 7CONSMANUF again on June 23, 2025, with a single item quantity of 10. This order also has an outstanding quantity of 10.
+
+JAVN0362 placed an order on March 4, 2014, for part code 7RPRMTCEPROP, which is Repair & Maintenance Property, with a quantity of 1. This order remains outstanding with no acceptance.
+
+JAVN0977 issued an order on January 21, 2014, for part code 7RPRMTCEELECT, which is Repair & Maintenance Electrical, with a quantity of 1. This order also remains outstanding with no acceptance.
+
+JAVN1276 placed an order on January 21, 2014, for the same part code 7RPRMTCEELECT, with a quantity of 1. This order remains outstanding with no acceptance.

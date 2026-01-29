@@ -1,0 +1,1423 @@
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 160 units of 47mm X 2400FLOK Galv on May 30, 2025. Achieved 1040 kg with 6.5 kg per piece.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0 units of 47mm X 2400FLOK Galv on May 31, 2025. Planned for 0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0 units of 47mm X 2400FLOK Galv on June 1, 2025. Planned for 0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0 units of 47mm X 2400FLOK Galv on June 2, 2025. Planned for 0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 2000 units of 47mm X 2400FLOK Galv on June 3, 2025. Achieved 310 units with 6.5 kg per piece. Planned for 13 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 2000 units of 47mm X 2400FLOK Galv on June 4, 2025. Achieved 620 units with 6.5 kg per piece. Planned for 13 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 2000 units of 47mm X 2400FLOK Galv on June 5, 2025. Achieved 205 units with 6.5 kg per piece. Planned for 13 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 2000 units of 47mm X 2400FLOK Galv on June 6, 2025. Achieved 570 units with 6.5 kg per piece. Planned for 13 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0 units of 47mm X 2400FLOK Galv on June 7, 2025. Planned for 0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0 units of 47mm X 2400FLOK Galv on June 8, 2025. Planned for 0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 2000 units of 47mm X 2400FLOK Galv on June 9, 2025. Achieved 1240 units with 6.5 kg per piece. Planned for 13 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 2000 units of 47mm X 2400FLOK Galv on June 10, 2025. Achieved 1240 units with 6.5 kg per piece. Planned for 13 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 2000 units of 47mm X 2400FLOK Galv on June 11, 2025. Achieved 930 units with 6.5 kg per piece. Planned for 13 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 2000 units of 47mm X 2400FLOK Galv on June 12, 2025. Planned for 13 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 2000 units of 47mm X 2400FLOK Galv on June 13, 2025. Achieved 1085 units with 6.5 kg per piece. Planned for 13 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0 units of 47mm X 2400FLOK Galv on June 14, 2025. Planned for 13 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0 units of 47mm X 2400FLOK Galv on June 15, 2025. Planned for 0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1500 units of 47mm X 2400FLOK Galv on June 16, 2025. Achieved 1880 units with 6.5 kg per piece. Planned for 9.75 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1500 units of 47mm X 2400FLOK Galv on June 17, 2025. Achieved 1085 units with 6.5 kg per piece. Planned for 9.75 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1500 units of 47mm X 2400FLOK Galv on June 18, 2025. Achieved 2045 units with 6.5 kg per piece. Planned for 9.75 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 2,197.0 units of 47mm X 2400FLOK Galv on June 19, 2025. Achieved 2,197.0 kg with 6.5 kg per piece.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 2,180.0 units of 47mm X 2400FLOK Galv on June 20, 2025. Achieved 2,180.0 kg with 6.5 kg per piece.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on June 21, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 2,340.0 units of 47mm X 2400FLOK Galv on June 23, 2025. Achieved 2,340.0 kg with 6.5 kg per piece.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 155.0 units of 47mm X 2400FLOK Galv on June 26, 2025. Achieved 155.0 kg with 6.5 kg per piece.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 310.0 units of 47mm X 2400FLOK Galv on June 29, 2025. Achieved 310.0 kg with 6.5 kg per piece.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 155.0 units of 47mm X 2400FLOK Galv on July 1, 2025. Achieved 155.0 kg with 6.5 kg per piece.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on July 2, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on July 3, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on July 4, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on July 5, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on July 6, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on July 7, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on July 8, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on July 9, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on July 10, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on July 11, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on July 12, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on July 13, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on July 14, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on July 15, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on July 16, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on July 17, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on July 18, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on July 19, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on July 20, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on July 21, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on July 22, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on July 23, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on July 24, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on July 25, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on July 26, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on July 27, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on July 28, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on July 29, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on July 30, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on July 31, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on August 1, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on August 2, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on August 3, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on August 4, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on August 5, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on August 6, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on August 7, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on August 8, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on August 9, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on August 10, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on August 11, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on August 12, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on August 13, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on August 14, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on August 15, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on August 16, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on August 17, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on August 18, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on August 19, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on August 20, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on August 21, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on August 22, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on August 23, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on August 24, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on August 25, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on August 26, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on August 27, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on August 28, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on August 29, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on August 30, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on August 31, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on September 1, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on September 2, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on September 3, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on September 4, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on September 5, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on September 6, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on September 7, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on September 8, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on September 9, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on September 10, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on September 11, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on September 12, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on September 13, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on September 14, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on September 15, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on September 16, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on September 17, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on September 18, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on September 19, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on September 20, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on September 21, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on September 22, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on September 23, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on September 24, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on September 25, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on September 26, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on September 27, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on September 28, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on September 29, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on September 30, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on October 1, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on October 2, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on October 3, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on October 4, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on October 5, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on October 6, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on October 7, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on October 8, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on October 9, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on October 10, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on October 11, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on October 12, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on October 13, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on October 14, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on October 15, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on October 16, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on October 17, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on October 18, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on October 19, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on October 20, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on October 21, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on October 22, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on October 23, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on October 24, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of 47mm X 2400FLOK Galv on October 25, 2025. Planned for 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of unspecified product on July 5, 2025. kg_pce measured at 6.5 kg per piece. Planned totals were 0.0 units, achieved 0.0 units, and actual totals were 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of unspecified product on July 5, 2025. kg_pce measured at 6.5 kg per piece. Planned totals were 0.0 units, achieved 0.0 units, and actual totals were 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of unspecified product on July 6, 2025. kg_pce measured at 6.5 kg per piece. Planned totals were 0.0 units, achieved 0.0 units, and actual totals were 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of unspecified product on July 6, 2025. kg_pce measured at 6.5 kg per piece. Planned totals were 0.0 units, achieved 0.0 units, and actual totals were 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of unspecified product on July 7, 2025. kg_pce measured at 6.5 kg per piece. Planned totals were 0.0 units, achieved 0.0 units, and actual totals were 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of unspecified product on July 7, 2025. kg_pce measured at 6.5 kg per piece. Planned totals were 0.0 units, achieved 0.0 units, and actual totals were 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of unspecified product on July 8, 2025. kg_pce measured at 6.5 kg per piece. Planned totals were 0.0 units, achieved 0.0 units, and actual totals were 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of unspecified product on July 9, 2025. kg_pce measured at 6.5 kg per piece. Planned totals were 0.0 units, achieved 0.0 units, and actual totals were 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of unspecified product on July 10, 2025. kg_pce measured at 6.5 kg per piece. Planned totals were 0.0 units, achieved 0.0 units, and actual totals were 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of unspecified product on July 11, 2025. kg_pce measured at 6.5 kg per piece. Planned totals were 0.0 units, achieved 0.0 units, and actual totals were 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of unspecified product on July 12, 2025. kg_pce measured at 6.5 kg per piece. Planned totals were 0.0 units, achieved 0.0 units, and actual totals were 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of unspecified product on July 13, 2025. kg_pce measured at 6.5 kg per piece. Planned totals were 0.0 units, achieved 0.0 units, and actual totals were 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of unspecified product on July 14, 2025. kg_pce measured at 6.5 kg per piece. Planned totals were 0.0 units, achieved 0.0 units, and actual totals were 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of unspecified product on July 15, 2025. kg_pce measured at 6.5 kg per piece. Planned totals were 0.0 units, achieved 0.0 units, and actual totals were 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of unspecified product on July 16, 2025. kg_pce measured at 6.5 kg per piece. Planned totals were 0.0 units, achieved 0.0 units, and actual totals were 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of unspecified product on July 17, 2025. kg_pce measured at 6.5 kg per piece. Planned totals were 0.0 units, achieved 0.0 units, and actual totals were 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of unspecified product on July 18, 2025. kg_pce measured at 6.5 kg per piece. Planned totals were 0.0 units, achieved 0.0 units, and actual totals were 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of unspecified product on July 19, 2025. kg_pce measured at 6.5 kg per piece. Planned totals were 0.0 units, achieved 0.0 units, and actual totals were 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of unspecified product on July 20, 2025. kg_pce measured at 6.5 kg per piece. Planned totals were 0.0 units, achieved 0.0 units, and actual totals were 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0.0 units of unspecified product on July 21, 2025. kg_pce measured at 6.5 kg per piece. Planned totals were 0.0 units, achieved 0.0 units, and actual totals were 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 22, 2025. Achieved 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 23, 2025. Achieved 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 24, 2025. Achieved 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 25, 2025. Achieved 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 26, 2025. Achieved 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 27, 2025. Achieved 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 28, 2025. Achieved 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 29, 2025. Achieved 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 30, 2025. Achieved 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on July 31, 2025. Achieved 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 1, 2025. Achieved 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 2, 2025. Achieved 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 3, 2025. Achieved 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 4, 2025. Achieved 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 5, 2025. Achieved 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 6, 2025. Achieved 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 7, 2025. Achieved 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 8, 2025. Achieved 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 9, 2025. Achieved 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 10, 2025. Achieved 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 3,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 11, 2025. Achieved 97.5% yield rate. Week 33.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 3,500 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 12, 2025. Achieved 98% yield rate. Week 33.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 3,200 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 13, 2025. Achieved 97.8% yield rate. Week 33.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 3,100 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 14, 2025. Achieved 97.6% yield rate. Week 33.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 3,300 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 15, 2025. Achieved 97.9% yield rate. Week 33.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 3,400 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 16, 2025. Achieved 98.1% yield rate. Week 33.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 3,600 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 17, 2025. Achieved 98.3% yield rate. Week 34.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 3,700 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 18, 2025. Achieved 98.5% yield rate. Week 34.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 3,800 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 19, 2025. Achieved 98.7% yield rate. Week 34.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 3,900 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 20, 2025. Achieved 98.9% yield rate. Week 34.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 4,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 21, 2025. Achieved 99% yield rate. Week 34.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 4,100 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 22, 2025. Achieved 99.1% yield rate. Week 34.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 4,200 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 23, 2025. Achieved 99.3% yield rate. Week 34.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 4,300 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 24, 2025. Achieved 99.5% yield rate. Week 35.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 4,400 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 25, 2025. Achieved 99.7% yield rate. Week 35.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 4,500 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 26, 2025. Achieved 99.9% yield rate. Week 35.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 4,600 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 27, 2025. Achieved 99.8% yield rate. Week 35.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 4,700 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 28, 2025. Achieved 99.6% yield rate. Week 35.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 4,800 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 29, 2025. Achieved 99.4% yield rate. Week 35.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 4,900 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 30, 2025. Achieved 99.2% yield rate. Week 35.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 2,500 units of R500L5.60Blk - Rebar 500L 5.6m Black on August 31, 2025. Achieved 2,500 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 2,500 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 1, 2025. Achieved 2,500 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 2,500 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 2, 2025. Achieved 2,500 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 2,500 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 3, 2025. Achieved 2,500 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 2,500 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 4, 2025. Achieved 2,500 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 2,500 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 5, 2025. Achieved 2,500 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 2,500 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 6, 2025. Achieved 2,500 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 2,500 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 7, 2025. Achieved 2,500 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 2,500 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 8, 2025. Achieved 2,500 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 2,500 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 9, 2025. Achieved 2,500 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 2,500 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 10, 2025. Achieved 2,500 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 2,500 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 11, 2025. Achieved 2,500 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 2,500 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 12, 2025. Achieved 2,500 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 2,500 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 13, 2025. Achieved 2,500 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 2,500 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 14, 2025. Achieved 2,500 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 2,500 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 15, 2025. Achieved 2,500 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 2,500 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 16, 2025. Achieved 2,500 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 2,500 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 17, 2025. Achieved 2,500 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 2,500 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 18, 2025. Achieved 2,500 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROSS_ORDER WIP produced 302.0 units of DMW_PRODUCT FRICTION LOK BOLT 39MMX1829MM on September 22, 2025. Roll Form Line processed job ROSS_CODE JFLI3972BRF for BHP with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROSS_ORDER WIP produced 604.0 units of DMW_PRODUCT FRICTION LOK BOLT 39MMX1829MM on September 23, 2025. Roll Form Line processed job ROSS_CODE JFLI3972BRF for BHP with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROSS_ORDER WIP produced 0 units of DMW_PRODUCT FRICTION LOK BOLT 39MMX1829MM on September 24, 2025. Roll Form Line processed job ROSS_CODE JFLI3972BRF for BHP with 0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROSS_ORDER WIP produced 0 units of DMW_PRODUCT FRICTION LOK BOLT 39MMX1829MM on September 25, 2025. Roll Form Line processed job ROSS_CODE JFLI3972BRF for BHP with 0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROSS_ORDER WIP produced 0 units of DMW_PRODUCT FRICTION LOK BOLT 39MMX1829MM on September 26, 2025. Roll Form Line processed job ROSS_CODE JFLI3972BRF for BHP with 0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROSS_ORDER WIP produced 0 units of DMW_PRODUCT FRICTION LOK BOLT 39MMX1829MM on September 27, 2025. Roll Form Line processed job ROSS_CODE JFLI3972BRF for BHP with 0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROSS_ORDER WIP produced 0 units of DMW_PRODUCT FRICTION LOK BOLT 39MMX1829MM on September 28, 2025. Roll Form Line processed job ROSS_CODE JFLI3972BRF for BHP with 0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROSS_ORDER WIP produced 0 units of DMW_PRODUCT FRICTION LOK BOLT 39MMX1829MM on September 29, 2025. Roll Form Line processed job ROSS_CODE JFLI3972BRF for BHP with 0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROSS_ORDER WIP produced 0 units of DMW_PRODUCT FRICTION LOK BOLT 39MMX1829MM on September 30, 2025. Roll Form Line processed job ROSS_CODE JFLI3972BRF for BHP with 0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROSS_ORDER WIP produced 0 units of DMW_PRODUCT FRICTION LOK BOLT 39MMX1829MM on October 1, 2025. Roll Form Line processed job ROSS_CODE JFLI3972BRF for BHP with 0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROSS_ORDER WIP produced 0 units of DMW_PRODUCT FRICTION LOK BOLT 39MMX1829MM on October 2, 2025. Roll Form Line processed job ROSS_CODE JFLI3972BRF for BHP with 0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROSS_ORDER WIP produced 0 units of DMW_PRODUCT FRICTION LOK BOLT 39MMX1829MM on October 3, 2025. Roll Form Line processed job ROSS_CODE JFLI3972BRF for BHP with 0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROSS_ORDER WIP produced 0 units of DMW_PRODUCT FRICTION LOK BOLT 39MMX1829MM on October 4, 2025. Roll Form Line processed job ROSS_CODE JFLI3972BRF for BHP with 0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROSS_ORDER WIP produced 0 units of DMW_PRODUCT FRICTION LOK BOLT 39MMX1829MM on October 5, 2025. Roll Form Line processed job ROSS_CODE JFLI3972BRF for BHP with 0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROSS_ORDER WIP produced 0 units of DMW_PRODUCT FRICTION LOK BOLT 39MMX1829MM on October 6, 2025. Roll Form Line processed job ROSS_CODE JFLI3972BRF for BHP with 0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROSS_ORDER WIP produced 0 units of DMW_PRODUCT FRICTION LOK BOLT 39MMX1829MM on October 7, 2025. Roll Form Line processed job ROSS_CODE JFLI3972BRF for BHP with 0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROSS_ORDER WIP produced 0 units of DMW_PRODUCT FRICTION LOK BOLT 39MMX1829MM on October 8, 2025. Roll Form Line processed job ROSS_CODE JFLI3972BRF for BHP with 0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROSS_ORDER WIP produced 0 units of DMW_PRODUCT FRICTION LOK BOLT 39MMX1829MM on October 9, 2025. Roll Form Line processed job ROSS_CODE JFLI3972BRF for BHP with 0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 305.0 units on October 14, 2025. Achieved 305.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 600.0 units on October 17, 2025. Achieved 600.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 390.0 units on October 18, 2025. Achieved 390.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 428.0 units on October 21, 2025. Achieved 428.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 480.0 units on October 22, 2025. Achieved 480.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 600.0 units on October 23, 2025. Achieved 600.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 900.0 units on October 24, 2025. Achieved 900.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 428.0 units on October 21, 2025. Achieved 428.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 480.0 units on October 22, 2025. Achieved 480.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 600.0 units on October 23, 2025. Achieved 600.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 900.0 units on October 24, 2025. Achieved 900.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 428.0 units on October 21, 2025. Achieved 428.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 480.0 units on October 22, 2025. Achieved 480.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 600.0 units on October 23, 2025. Achieved 600.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 900.0 units on October 24, 2025. Achieved 900.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 428.0 units on October 21, 2025. Achieved 428.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 480.0 units on October 22, 2025. Achieved 480.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 600.0 units on October 23, 2025. Achieved 600.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 900.0 units on October 24, 2025. Achieved 900.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 428.0 units on October 21, 2025. Achieved 428.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 480.0 units on October 22, 2025. Achieved 480.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 600.0 units on October 23, 2025. Achieved 600.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 900.0 units on October 24, 2025. Achieved 900.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 428.0 units on October 21, 2025. Achieved 428.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 480.0 units on October 22, 2025. Achieved 480.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 600.0 units on October 23, 2025. Achieved 600.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 900.0 units on October 24, 2025. Achieved 900.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,200 units of R500L5.60Blk - Rebar 500L 5.6m Black on November 7, 2025. Week 45, achieved 1,200 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 600 units of R500L5.60Blk - Rebar 500L 5.6m Black on November 8, 2025. Week 45, achieved 600 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 600 units of R500L5.60Blk - Rebar 500L 5.6m Black on November 13, 2025. Week 46, achieved 600 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,200 units of R500L5.60Blk - Rebar 500L 5.6m Black on November 17, 2025. Week 47, achieved 1,200 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 925 units of R500L5.60Blk - Rebar 500L 5.6m Black on November 18, 2025. Week 47, achieved 925 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,200 units of R500L5.60Blk - Rebar 500L 5.6m Black on November 9, 2025. Week 46, achieved 1,200 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 600 units of R500L5.60Blk - Rebar 500L 5.6m Black on November 15, 2025. Week 46, achieved 600 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,200 units of R500L5.60Blk - Rebar 500L 5.6m Black on November 11, 2025. Week 46, achieved 1,200 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 600 units of R500L5.60Blk - Rebar 500L 5.6m Black on November 14, 2025. Week 46, achieved 600 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,200 units of R500L5.60Blk - Rebar 500L 5.6m Black on November 12, 2025. Week 46, achieved 1,200 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 600 units of R500L5.60Blk - Rebar 500L 5.6m Black on November 16, 2025. Week 47, achieved 600 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,200 units of R500L5.60Blk - Rebar 500L 5.6m Black on November 10, 2025. Week 46, achieved 1,200 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 600 units of R500L5.60Blk - Rebar 500L 5.6m Black on November 19, 2025. Week 47, achieved 600 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,200 units of R500L5.60Blk - Rebar 500L 5.6m Black on November 18, 2025. Week 47, achieved 925 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,200 units of R500L5.60Blk - Rebar 500L 5.6m Black on November 2, 2025. Week 45, achieved 1,200 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 600 units of R500L5.60Blk - Rebar 500L 5.6m Black on November 5, 2025. Week 45, achieved 600 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,200 units of R500L5.60Blk - Rebar 500L 5.6m Black on November 3, 2025. Week 45, achieved 1,200 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 600 units of R500L5.60Blk - Rebar 500L 5.6m Black on November 4, 2025. Week 45, achieved 600 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,200 units of R500L5.60Blk - Rebar 500L 5.6m Black on November 6, 2025. Week 45, achieved 1,200 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 600 units of R500L5.60Blk - Rebar 500L 5.6m Black on November 1, 2025. Week 44, achieved 600 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,200 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 30, 2025. Week 44, achieved 1,200 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 600 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 31, 2025. Week 44, achieved 600 units.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,500 units on November 19, 2025. Week 47.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 900 units on November 20, 2025. Week 47.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0 units on November 21, 2025. Week 47.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0 units on November 22, 2025. Week 47.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0 units on November 23, 2025. Week 48.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 900 units on November 24, 2025. Week 48.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,800 units on November 25, 2025. Week 48.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 700 units on November 26, 2025. Week 48.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,100 units on November 27, 2025. Week 48.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,200 units on November 28, 2025. Week 48.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0 units on November 29, 2025. Week 48.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0 units on December 1, 2025. Week 49.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,500 units on December 2, 2025. Week 49.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 900 units on December 3, 2025. Week 49.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0 units on December 4, 2025. Week 49.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0 units on December 5, 2025. Week 49.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0 units on December 6, 2025. Week 49.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0 units on December 7, 2025. Week 50.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0 units on December 8, 2025. Week 50.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 126.0 units of unspecified product on December 12, 2025. Achieved 126.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1380.0 units of unspecified product on December 22, 2025. Achieved 1380.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1200.0 units of unspecified product on December 23, 2025. Achieved 1200.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1515.0 units of unspecified product on December 26, 2025. Achieved 1515.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1818.0 units of unspecified product on December 28, 2025. Achieved 1818.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,000 units of unspecified product on December 9, 2025. No next day production.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,000 units of unspecified product on December 10, 2025. No next day production.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,000 units of unspecified product on December 11, 2025. No next day production.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,000 units of unspecified product on December 14, 2025. No next day production.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,000 units of unspecified product on December 15, 2025. No next day production.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,000 units of unspecified product on December 16, 2025. No next day production.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,000 units of unspecified product on December 17, 2025. No next day production.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,000 units of unspecified product on December 18, 2025. No next day production.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,000 units of unspecified product on December 19, 2025. No next day production.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,000 units of unspecified product on December 21, 2025. No next day production.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,000 units of unspecified product on December 25, 2025. No next day production.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,000 units of unspecified product on December 27, 2025. No next day production.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,000 units of unspecified product on December 28, 2025. No next day production.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,818 units of FRICTION LOK BOLT 39MMX1829MM on December 30, 2025. Week 53.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on January 6, 2026. Week 2.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,818 units of FRICTION LOK BOLT 39MMX1829MM on January 7, 2026. Week 2.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,212 units of FRICTION LOK BOLT 39MMX1829MM on January 9, 2026. Week 2.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on January 13, 2026. Week 3.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 909 units of FRICTION LOK BOLT 39MMX1829MM on January 14, 2026. Week 3.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on January 16, 2026. Week 3.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on January 17, 2026. Week 3.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on January 18, 2026. Week 3.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on January 19, 2026. Week 3.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on January 20, 2026. Week 3.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on January 21, 2026. Week 3.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on January 22, 2026. Week 3.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on January 23, 2026. Week 3.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on January 24, 2026. Week 3.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on January 25, 2026. Week 3.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on January 26, 2026. Week 3.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on January 27, 2026. Week 3.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on January 28, 2026. Week 3.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on January 29, 2026. Week 3.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on January 30, 2026. Week 3.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on January 31, 2026. Week 3.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on February 1, 2026. Week 4.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on February 2, 2026. Week 4.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on February 3, 2026. Week 4.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on February 4, 2026. Week 4.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on February 5, 2026. Week 4.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on February 6, 2026. Week 4.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on February 7, 2026. Week 4.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on February 8, 2026. Week 4.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on February 9, 2026. Week 4.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on February 10, 2026. Week 4.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on February 11, 2026. Week 4.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on February 12, 2026. Week 4.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on February 13, 2026. Week 4.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on February 14, 2026. Week 4.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on February 15, 2026. Week 4.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on February 16, 2026. Week 4.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on February 17, 2026. Week 4.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on February 18, 2026. Week 4.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on February 19, 2026. Week 4.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on February 20, 2026. Week 4.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on February 21, 2026. Week 4.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on February 22, 2026. Week 4.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on February 23, 2026. Week 4.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on February 24, 2026. Week 4.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on February 25, 2026. Week 4.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on February 26, 2026. Week 4.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on February 27, 2026. Week 4.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on February 28, 2026. Week 4.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on February 29, 2026. Week 4.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on March 1, 2026. Week 5.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on March 2, 2026. Week 5.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on March 3, 2026. Week 5.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on March 4, 2026. Week 5.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on March 5, 2026. Week 5.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on March 6, 2026. Week 5.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on March 7, 2026. Week 5.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on March 8, 2026. Week 5.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on March 9, 2026. Week 5.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on March 10, 2026. Week 5.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on March 11, 2026. Week 5.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on March 12, 2026. Week 5.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on March 13, 2026. Week 5.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on March 14, 2026. Week 5.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on March 15, 2026. Week 5.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on March 16, 2026. Week 5.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on March 17, 2026. Week 5.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on March 18, 2026. Week 5.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on March 19, 2026. Week 5.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on March 20, 2026. Week 5.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on March 21, 2026. Week 5.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on March 22, 2026. Week 5.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on March 23, 2026. Week 5.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on March 24, 2026. Week 5.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on March 25, 2026. Week 5.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on March 26, 2026. Week 5.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on March 27, 2026. Week 5.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on March 28, 2026. Week 5.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on March 29, 2026. Week 5.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on March 30, 2026. Week 5.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on March 31, 2026. Week 5.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on April 1, 2026. Week 6.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on April 2, 2026. Week 6.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on April 3, 2026. Week 6.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on April 4, 2026. Week 6.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on April 5, 2026. Week 6.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on April 6, 2026. Week 6.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on April 7, 2026. Week 6.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on April 8, 2026. Week 6.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on April 9, 2026. Week 6.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on April 10, 2026. Week 6.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on April 11, 2026. Week 6.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on April 12, 2026. Week 6.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on April 13, 2026. Week 6.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on April 14, 2026. Week 6.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on April 15, 2026. Week 6.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on April 16, 2026. Week 6.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on April 17, 2026. Week 6.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on April 18, 2026. Week 6.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on April 19, 2026. Week 6.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on April 20, 2026. Week 6.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on April 21, 2026. Week 6.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on April 22, 2026. Week 6.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on April 23, 2026. Week 6.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on April 24, 2026. Week 6.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on April 25, 2026. Week 6.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on April 26, 2026. Week 6.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on April 27, 2026. Week 6.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on April 28, 2026. Week 6.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on April 29, 2026. Week 6.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on April 30, 2026. Week 6.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on May 1, 2026. Week 7.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on May 2, 2026. Week 7.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on May 3, 2026. Week 7.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on May 4, 2026. Week 7.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on May 5, 2026. Week 7.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on May 6, 2026. Week 7.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on May 7, 2026. Week 7.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on May 8, 2026. Week 7.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on May 9, 2026. Week 7.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on May 10, 2026. Week 7.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on May 11, 2026. Week 7.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX1829MM on May 12, 2026. Week 7.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of FRICTION LOK BOLT 39MMX182
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,818 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 19, 2026. Achieved 1,818 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 1,515 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 20, 2026. Achieved 1,515 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 453 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 22, 2026. Achieved 453 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 150 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 23, 2026. Achieved 150 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 21, 2026.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 24, 2026.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 25, 2026. Week: 5.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 26, 2026. Week: 5.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 27, 2026. Week: 5.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 28, 2026. Week: 5.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 29, 2026. Week: 5.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 30, 2026. Week: 5.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 31, 2026. Week: 5.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 1, 2026. Week: 6.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 2, 2026. Week: 6.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 3, 2026. Week: 6.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 4, 2026. Week: 6.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 5, 2026. Week: 6.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 0 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 6, 2026. Week: 6.
+
+[Source: Daily Production Report v1.xlsm_Roll Form.csv | Type: production_record]
+ROLL FORM LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 7, 2026. Week 6.
+
+ROLL FORM LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 8, 2026. Week 7.
+
+ROLL FORM LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 9, 2026. Week 7.
+
+ROLL FORM LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 10, 2026. Week 7.
+
+ROLL FORM LINE produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 11, 2026. Week 7.

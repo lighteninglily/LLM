@@ -1,0 +1,923 @@
+On May 30, 2025, Ross Order IMB45-66-5117-DEN was processed, achieving 74 units with a weight of 28.27 kg per sheet. The actual total was 2.09198, and the sheets per hour were recorded at 25.
+
+On May 30, 2025, Ross Order IMG5-44-5716 was processed, achieving 610 units with a weight of 35.57 kg per sheet. The actual total was 21.6977, and the sheets per hour were recorded at 25.
+
+On May 31, 2025, Ross Order IMG5-44-5716 was processed, achieving 510 units with a weight of 35.57 kg per sheet. The actual total was 36.2814, and the sheets per hour were recorded at 25.
+
+On June 1, 2025, Ross Order IMG5-44-5716 was processed, achieving 510 units with a weight of 35.57 kg per sheet. The actual total was 18.1407, and the sheets per hour were recorded at 25.
+
+On June 2, 2025, Ross Order IMG5-44-5716 was processed, achieving 510 units with a weight of 35.57 kg per sheet. The actual total was 18.1407, and the sheets per hour were recorded at 25.
+
+On June 3, 2025, Ross Order IMG5-44-5716 was processed, achieving 90 units with a weight of 35.57 kg per sheet. The actual total was 3.2013, and the sheets per hour were recorded at 25.
+
+On June 3, 2025, Ross Order IMG3H-44-2417-DQL was processed, achieving 900 units with a weight of 5.25 kg per sheet. The actual total was 12.6, and the sheets per hour were recorded at 25.
+
+On June 4, 2025, Ross Order IMG3H-44-2417-DQL was processed, achieving 1300 units with a weight of 5.25 kg per sheet. The actual total was 13.3875, and the sheets per hour were recorded at 25.
+
+On June 5, 2025, Ross Order IMG5-44-5716 was processed, achieving 450 units with a weight of 35.57 kg per sheet. The actual total was 29.8788, and the sheets per hour were recorded at 25.
+
+On June 5, 2025, Ross Order IMG3H-44-2417-DQL was processed, achieving 500 units with a weight of 5.25 kg per sheet. The actual total was 2.625, and the sheets per hour were recorded at 25.
+
+On June 6, 2025, Ross Order IMG3H-44-2417-DQL was processed, achieving 650 units with a weight of 5.25 kg per sheet. The actual total was 5.5125, and the sheets per hour were recorded at 25.
+
+On June 6, 2025, Ross Order IMB3.15-44-2420 was processed, achieving 700 units with a weight of 9.15 kg per sheet. The actual total was 6.405, and the sheets per hour were recorded at 25.
+
+On June 6, 2025, Ross Order IMG5-44-5716 was processed, achieving 90 units with a weight of 35.57 kg per sheet. The actual total was 3.2013, and the sheets per hour were recorded at 25.
+
+On June 7, 2025, Ross Order IMG5-44-5716 was processed, achieving 300 units with a weight of 35.57 kg per sheet. The actual total was 10.671, and the sheets per hour were recorded at 25.
+
+On June 8, 2025, Ross Order IMG5-44-5716 was processed, achieving 440 units with a weight of 25.25 kg per sheet. The actual total was 11.11, and the sheets per hour were recorded at 25.
+
+On June 9, 2025, Ross Order IMB5-44-5014-JNA was processed, achieving 88 units with a weight of 25.25 kg per sheet. The actual total was 11.11, and the sheets per hour were recorded at 25.
+
+On June 10, 2025, Ross Order IMB5-44-5014-JNA was processed, achieving 440 units with a weight of 25.25 kg per sheet. The actual total was 11.11, and the sheets per hour were recorded at 25.
+
+On June 10, 2025, Ross Order IMG5-44-5716 was processed, achieving 630 units with a weight of 35.57 kg per sheet. The actual total was 22.4091, and the sheets per hour were recorded at 25.
+
+On June 11, 2025, Ross Order IMB5-44-5014-JNA was processed, achieving 418 units with a weight of 25.25 kg per sheet. The actual total was 27.775, and the sheets per hour were recorded at 25.
+
+On June 12, 2025, the achievement for the product IMG5-44-5716 was 360 sheets, with a weight of 35.57 kg per sheet. The actual total production was 12.8052 sheets per hour.
+
+On June 12, 2025, the achievement for the product IMG5-44-5716 was 360 sheets, with a weight of 35.57 kg per sheet. The actual total production was 24.5433 sheets per hour.
+
+On June 13, 2025, the achievement for the product IMG5-44-5716 was 360 sheets, with a weight of 35.57 kg per sheet. The actual total production was 24.5433 sheets per hour.
+
+On June 13, 2025, the achievement for the product IMG5-44-5716 was 180 sheets, with a weight of 35.57 kg per sheet. The actual total production was 6.4026 sheets per hour.
+
+On June 14, 2025, the achievement for the product IMG5-44-5716 was 510 sheets, with a weight of 35.57 kg per sheet. The actual total production was 36.2814 sheets per hour.
+
+On June 15, 2025, the achievement for the product IMB45-46-4814-JCR was 510 sheets, with a weight of 24.76 kg per sheet. The actual total production was 12.6276 sheets per hour.
+
+On June 16, 2025, the achievement for the product IMB45-46-4814-JCR was 570 sheets, with a weight of 24.76 kg per sheet. The actual total production was 14.1132 sheets per hour.
+
+On June 16, 2025, the achievement for the product IMG5-44-5716 was 360 sheets, with a weight of 35.57 kg per sheet. The actual total production was 12.8052 sheets per hour.
+
+On June 17, 2025, the achievement for the product IMG5-44-5716 was 360 sheets, with a weight of 35.57 kg per sheet. The actual total production was 12.8052 sheets per hour.
+
+On June 17, 2025, the achievement for the product IMB5-64-5113 JMOL (new) was 506 sheets, with a weight of 22.2 kg per sheet. The actual total production was 11.2332 sheets per hour.
+
+On June 18, 2025, the achievement for the product IMB5-64-5113 JMOL (new) was 704 sheets, with a weight of 22.2 kg per sheet. The actual total production was 15.6288 sheets per hour.
+
+On June 18, 2025, the achievement for the product IMG5H-44-4524 was 1400 sheets, with a weight of 49.5 kg per sheet. The actual total production was 69.3 sheets per hour.
+
+On June 19, 2025, the achievement for the product IMB5-64-5113 JMOL (new) was 396 sheets, with a weight of 22.2 kg per sheet. The actual total production was 13.1868 sheets per hour.
+
+On June 19, 2025, the achievement for the product IMB4H-44-5024 was 350 sheets, with a weight of 30.9 kg per sheet. The actual total production was 10.815 sheets per hour.
+
+On June 20, 2025, the achievement for the product IMB4H-44-5024 was 450 sheets, with a weight of 30.9 kg per sheet. The actual total production was 29.355 sheets per hour.
+
+On June 21, 2025, the achievement for the product IMB4H-44-5024 was 450 sheets, with a weight of 30.9 kg per sheet. The actual total production was 29.355 sheets per hour.
+
+On June 22, 2025, the achievement for the product IMB4H-44-5024 was 150 sheets, with a weight of 30.9 kg per sheet. The actual total production was 13.905 sheets per hour.
+
+On June 22, 2025, the achievement for the product IMB5-64-5113 JMOL (new) was 220 sheets, with a weight of 22.2 kg per sheet. The actual total production was 4.884 sheets per hour.
+
+On June 23, 2025, the achievement for the product IMB5-64-5113 JMOL (new) was 550 sheets, with a weight of 22.2 kg per sheet. The actual total production was 27.8388 sheets per hour.
+
+On June 24, 2025, the achievement for the product IMB5-64-5113 JMOL (new) was 286 sheets, with a weight of 22.2 kg per sheet. The actual total production was 15.1404 sheets per hour.
+
+On June 24, 2025, the same day next day delivery was scheduled, 35.57 kg of sheets were processed, achieving 90% of the target. The actual total was 3.2013 sheets per hour, and the sheets per hour rate was 25.
+
+On June 25, 2025, the same day next day delivery was not scheduled, 35.57 kg of sheets were processed, achieving 450 sheets and an additional 510 sheets. The actual total was 34.1472 sheets per hour, and the sheets per hour rate was 25.
+
+On June 26, 2025, the same day next day delivery was not scheduled, 35.57 kg of sheets were processed, achieving 300 sheets and an additional 60 sheets. The actual total was 12.8052 sheets per hour, and the sheets per hour rate was 25.
+
+On June 26, 2025, the same day next day delivery was scheduled, 24.76 kg of sheets were processed, achieving 30 sheets. The actual total was 0.7428 sheets per hour, and the sheets per hour rate was 25.
+
+On June 26, 2025, the same day next day delivery was scheduled, 5.25 kg of sheets were processed, achieving 1000 sheets. The actual total was 5.25 sheets per hour, and the sheets per hour rate was 25.
+
+On June 27, 2025, the same day next day delivery was not scheduled, 5.25 kg of sheets were processed, but no actual total was recorded. The sheets per hour rate was 25.
+
+On June 28, 2025, the same day next day delivery was not scheduled, 5.25 kg of sheets were processed, achieving 1000 sheets and an additional 1200 sheets. The actual total was 11.55 sheets per hour, and the sheets per hour rate was 25.
+
+On June 29, 2025, the same day next day delivery was not scheduled, 5.25 kg of sheets were processed, achieving 1200 sheets and an additional 1200 sheets. The actual total was 12.6 sheets per hour, and the sheets per hour rate was 25.
+
+On June 30, 2025, the same day next day delivery was not scheduled, 5.25 kg of sheets were processed, achieving 1000 sheets. The actual total was 5.25 sheets per hour, and the sheets per hour rate was 25.
+
+On June 30, 2025, the same day next day delivery was scheduled, 35.57 kg of sheets were processed, achieving 600 sheets. The actual total was 21.342 sheets per hour, and the sheets per hour rate was 25.
+
+On July 1, 2025, the same day next day delivery was not scheduled, 35.57 kg of sheets were processed, achieving 390 sheets and an additional 600 sheets. The actual total was 35.2143 sheets per hour, and the sheets per hour rate was 25.
+
+On July 2, 2025, the same day next day delivery was not scheduled, 5.25 kg of sheets were processed, achieving 500 sheets and an additional 900 sheets. The actual total was 7.35 sheets per hour, and the sheets per hour rate was 25.
+
+On July 2, 2025, the same day next day delivery was scheduled, 49.5 kg of sheets were processed, achieving 550 sheets. The actual total was 27.225 sheets per hour, and the sheets per hour rate was 25.
+
+On July 3, 2025, the same day next day delivery was not scheduled, 49.5 kg of sheets were processed, achieving 100 sheets. The actual total was 4.95 sheets per hour, and the sheets per hour rate was 25.
+
+On July 3, 2025, the same day next day delivery was scheduled, 22.2 kg of sheets were processed, achieving 75 sheets. The actual total was 1.665 sheets per hour, and the sheets per hour rate was 25.
+
+On July 3, 2025, the same day next day delivery was scheduled, 5.25 kg of sheets were processed, achieving 350 sheets and an additional 1600 sheets. The actual total was 10.2375 sheets per hour, and the sheets per hour rate was 25.
+
+On July 4, 2025, the same day next day delivery was not scheduled, 5.25 kg of sheets were processed, achieving 1050 sheets and an additional 1600 sheets. The actual total was 13.9125 sheets per hour, and the sheets per hour rate was 25.
+
+On July 4, 2025, the same day next day delivery was scheduled, 35.57 kg of sheets were processed, achieving 30 sheets. The actual total was 1.0671 sheets per hour, and the sheets per hour rate was 25.
+
+On July 5, 2025, the same day next day delivery was not scheduled, 5.25 kg of sheets were processed, achieving 50 sheets. The actual total was 0.2625 sheets per hour, and the sheets per hour rate was 25.
+
+On July 5, 2025, the same day next day delivery was scheduled, 22.2 kg of sheets were processed, achieving 462 sheets and an additional 506 sheets. The actual total was 21.4896 sheets per hour, and the sheets per hour rate was 25.
+
+On July 6, 2025, the achievement for the IMB5-64-5113 JMOL (new) order was 506 sheets, with an actual total of 22.4664 kilograms. The sheets were processed at a rate of 25 per hour.
+
+On July 7, 2025, the achievement for the same order increased to 462 sheets, with an actual total of 25.8852 kilograms. The processing rate remained at 25 sheets per hour.
+
+On July 8, 2025, the achievement for the IMB5-64-5113 JMOL (new) order was 506 sheets, but the actual total was only 11.2332 kilograms. The processing rate was still 25 sheets per hour.
+
+On July 8, 2025, the achievement for the IMG3H-44-2417-DQL order was 1050 sheets, with an actual total of 5.5125 kilograms. The processing rate was 25 sheets per hour, and the order was marked for next-day delivery.
+
+On July 8, 2025, the achievement for the R500SL41 Packing order was 700 sheets, with an actual total of 21.0 kilograms. The processing rate was 25 sheets per hour, and the order was marked for next-day delivery.
+
+On July 9, 2025, the achievement for the R500SL41 Packing order decreased to 400 sheets, with an actual total of 30.0 kilograms. The processing rate was 25 sheets per hour.
+
+On July 9, 2025, the achievement for the IMG3H-44-2417-DQL order increased to 700 sheets, with an actual total of 8.4 kilograms. The processing rate was 25 sheets per hour.
+
+On July 10, 2025, the achievement for the IMG3H-44-2417-DQL order was 50 sheets, with an actual total of 0.2625 kilograms. The processing rate was 25 sheets per hour.
+
+On July 10, 2025, the achievement for the R500SL41 Packing order was 100 sheets, with an actual total of 3.0 kilograms. The processing rate was 25 sheets per hour.
+
+On July 10, 2025, the achievement for the IMB544-4524 order was 400 sheets, with an actual total of 16.8025 kilograms. The processing rate was 25 sheets per hour.
+
+On July 10, 2025, the achievement for the IMB544-5014 JNA order was 528 sheets, with an actual total of 13.332 kilograms. The processing rate was 25 sheets per hour.
+
+On July 11, 2025, the achievement for the IMB544-5014 JNA order decreased to 506 sheets, with an actual total of 12.7765 kilograms. The processing rate was 25 sheets per hour.
+
+On July 11, 2025, the achievement for the R500SL41 Packing order was 100 sheets, with an actual total of 3.0 kilograms. The processing rate was 25 sheets per hour.
+
+On July 11, 2025, the achievement for the IMB544-4524 order increased to 450 sheets, with an actual total of 13.7475 kilograms. The processing rate was 25 sheets per hour.
+
+On July 12, 2025, the achievement for the IMB544-5014 JNA order was 506 sheets, with an actual total of 12.7765 kilograms. The processing rate was 25 sheets per hour.
+
+On July 12, 2025, the achievement for the IMB546-5016-JNA order was 506 sheets, with an actual total of 12.41724 kilograms. The processing rate was 25 sheets per hour.
+
+On July 13, 2025, the achievement for the IMB546-5016-JNA order was 66 sheets, with an actual total of 14.03688 kilograms. The processing rate was 25 sheets per hour.
+
+On July 13, 2025, the achievement for the IMB5-64-5113 JMOL (new) order was 132 sheets, with an actual total of 2.9304 kilograms. The processing rate was 25 sheets per hour.
+
+On July 13, 2025, the achievement for the IMB5-64-5113 JMOL (new) order increased to 286 sheets, with an actual total of 6.3492 kilograms. The processing rate was 25 sheets per hour.
+
+On July 14, 2025, the achievement for the IMB546-5016-JNA order increased to 374 sheets, with an actual total of 26.45412 kilograms. The processing rate was 25 sheets per hour.
+
+Ross ordered IMB546-5016-JNA on July 15, 2025, achieving 220 units with a weight of 24.54 kg per sheet. The actual total was 5.3988, and the sheets per hour were recorded as 25.
+
+Comment 251084 was made on July 15, 2025, regarding Ross order IMB544-5014 JNA. This order achieved 242 units with a weight of 25.25 kg per sheet. The actual total was 6.1105, and the sheets per hour were recorded as 25.
+
+Ross ordered IMB45-66-5111 on July 15, 2025, achieving 660 units with a weight of 25.84 kg per sheet. The actual total was 17.0544, and the sheets per hour were recorded as 25.
+
+Ross ordered IMB45-66-5111 again on July 16, 2025, achieving 390 units with a weight of 25.84 kg per sheet. The actual total was 10.0776, and the sheets per hour were recorded as 25.
+
+Ross ordered IMB45-66-5117-DEN on July 17, 2025, achieving 660 units with a weight of 28.27 kg per sheet. The actual total was 18.6582, and the sheets per hour were recorded as 25.
+
+Ross ordered IMB45-66-5117-DEN again on July 17, 2025, achieving 120 units with a weight of 28.27 kg per sheet. The actual total was 3.3924, and the sheets per hour were recorded as 25.
+
+Ross ordered IMB45-66-5117-DEN once more on July 17, 2025, achieving 30 units with a weight of 25.84 kg per sheet. The actual total was 0.7752, and the sheets per hour were recorded as 25.
+
+Ross ordered IMB544-5014 JNA on July 17, 2025, achieving 66 units with a weight of 25.25 kg per sheet. The actual total was 1.6665, and the sheets per hour were recorded as 25.
+
+Ross ordered IMB45-66-5117-DEN again on July 17, 2025, achieving 600 units with a weight of 28.27 kg per sheet. The actual total was 16.962, and the sheets per hour were recorded as 25.
+
+Ross ordered IMB45-66-5117-DEN on July 18, 2025, achieving 660 units with a weight of 28.27 kg per sheet. The actual total was 18.6582, and the sheets per hour were recorded as 25.
+
+Comment 250672 was made on July 18, 2025, regarding Ross order IMB546-5016-JNA. This order achieved 22 units with a weight of 24.54 kg per sheet. The actual total was 0.53988, and the sheets per hour were recorded as 25.
+
+Ross ordered IMB544-5014 JNA on July 18, 2025, achieving 66 units with a weight of 25.25 kg per sheet. The actual total was 1.6665, and the sheets per hour were recorded as 25.
+
+Comment 251330 was made on July 18, 2025, regarding Ross order IMB5-64-5113. This order achieved 88 units with a weight of 22.2 kg per sheet. The actual total was 1.9536, and the sheets per hour were recorded as 25.
+
+Comment 251337 was made on July 18, 2025, regarding Ross order IMB4-44-4814CCC. This order achieved 90 units with a weight of 14.39 kg per sheet. The actual total was 1.2951, and the sheets per hour were recorded as 25.
+
+Ross ordered IMB4-44-4814CCC on July 19, 2025, achieving 30 units with a weight of 14.39 kg per sheet. The actual total was 0.4317, and the sheets per hour were recorded as 25.
+
+Comment 251281 was made on July 19, 2025, regarding Ross order IMG3H-44-2516. This order achieved 900 units with a weight of 6.6 kg per sheet. The actual total was 13.86, and the sheets per hour were recorded as 25.
+
+Ross ordered IMG3H-44-2516 on July 20, 2025, achieving 1200 units with a weight of 6.6 kg per sheet. The actual total was 7.92, and the sheets per hour were recorded as 25.
+
+Comment 251337 was made on July 20, 2025, regarding Ross order IMB4-44-4814CCC. This order achieved 500 units with a weight of 14.39 kg per sheet. The actual total was 7.195, and the sheets per hour were recorded as 25.
+
+Ross ordered IMB4-44-4814CCC on July 21, 2025, achieving 60 units with a weight of 14.39 kg per sheet. The actual total was 0.8634, and the sheets per hour were recorded as 25.
+
+Comment 251281 was made on July 21, 2025, regarding Ross order IMG3H-44-2516. This order achieved 450 units with a weight of 6.6 kg per sheet. The actual total was 7.59, and the sheets per hour were recorded as 25.
+
+On July 22, 2025, the same day next-day delivery was not required, the achievement was 50 with an additional 1450. The weight per sheet was 6.6 kg, and the actual total was 9.9 kg. The sheets processed per hour were 25.
+
+On July 22, 2025, the achievement reached 100 with an additional 4524. The weight per sheet was 43.1 kg, and the actual total was 4.31 kg. The sheets processed per hour were 25.
+
+On July 22, 2025, the achievement was 179 with an additional 700. The weight per sheet was 14.39 kg, and the actual total was 12.64881 kg. The sheets processed per hour were 25.
+
+On July 23, 2025, the achievement was 275 with an additional 750. The weight per sheet was 6.6 kg, and the actual total was 6.765 kg. The sheets processed per hour were 25.
+
+On July 23, 2025, the achievement was 90. The weight per sheet was 35.57 kg, and the actual total was 3.2013 kg. The sheets processed per hour were 25.
+
+On July 23, 2025, the achievement was 40. The weight per sheet was 24.76 kg, and the actual total was 0.9904 kg. The sheets processed per hour were 25.
+
+On July 23, 2025, the achievement was 210 with an additional 210. The weight per sheet was 27.85 kg, and the actual total was 5.8485 kg. The sheets processed per hour were 25.
+
+On July 24, 2025, the achievement was 30. The weight per sheet was 28.27 kg, and the actual total was 0.8481 kg. The sheets processed per hour were 25.
+
+On July 24, 2025, the achievement was 638 with an additional 638. The weight per sheet was 22.2 kg, and the actual total was 14.1636 kg. The sheets processed per hour were 25.
+
+On July 25, 2025, the achievement was 154. The weight per sheet was 22.2 kg, and the actual total was 3.4188 kg. The sheets processed per hour were 25.
+
+On July 25, 2025, the achievement was 225 with an additional 510. The weight per sheet was 27.85 kg, and the actual total was 20.46975 kg. The sheets processed per hour were 25.
+
+On July 26, 2025, the achievement was 510 with an additional 510. The weight per sheet was 27.85 kg, and the actual total was 28.407 kg. The sheets processed per hour were 25.
+
+On July 27, 2025, the achievement was 285. The weight per sheet was 27.85 kg, and the actual total was 7.93725 kg. The sheets processed per hour were 25.
+
+On July 27, 2025, the achievement was 200 with an additional 800. The weight per sheet was 5.98 kg, and the actual total was 5.98 kg. The sheets processed per hour were 25.
+
+On July 27, 2025, the achievement was 500 with an additional 500. The weight per sheet was 6.6 kg, and the actual total was 3.3 kg. The sheets processed per hour were 25.
+
+On July 28, 2025, the achievement was 800 with an additional 500. The weight per sheet was 5.96 kg, and the actual total was 7.748 kg. The sheets processed per hour were 25.
+
+On July 28, 2025, the achievement was 550 with an additional 550. The weight per sheet was 5.98 kg, and the actual total was 3.289 kg. The sheets processed per hour were 25.
+
+On July 28, 2025, the achievement was 150 with an additional 150. The weight per sheet was 35.57 kg, and the actual total was 5.3355 kg. The sheets processed per hour were 25.
+
+On July 29, 2025, the achievement was 300 with an additional 630. The weight per sheet was 35.57 kg, and the actual total was 33.0801 kg. The sheets processed per hour were 25.
+
+On July 30, 2025, the achievement was 630 with an additional 630. The weight per sheet was 35.57 kg, and the actual total was 22.4091 kg. The sheets processed per hour were 25.
+
+Ross ordered Ausro5.8m packing with DMW product OSH106H-5803, and Ross code JOS5803B. The order was processed on July 30, 2025, achieving 270 sheets per hour. The same next day flag is set to S.
+
+Ross ordered IMB5-44-5716 with DMW product IMB5-44-5716, and Ross code SMF5716101005B. The order was processed on July 31, 2025, achieving 270 sheets per hour. The same next day flag is set to N. The weight per sheet is 35.57 kg.
+
+Ross ordered IMB5-44-5716 with DMW product IMB5-44-5716, and Ross code SMF5716101005B. The order was processed on August 1, 2025, achieving 630 sheets per hour. The same next day flag is set to N. The weight per sheet is 35.57 kg.
+
+Ross ordered IMB5-44-5716 with DMW product IMB5-44-5716, and Ross code SMF5716101005B. The order was processed on August 2, 2025, achieving 510 sheets per hour. The same next day flag is set to N. The weight per sheet is 35.57 kg.
+
+Ross ordered IMB5-44-5716 with DMW product IMB5-44-5716, and Ross code SMF5716101005B. The order was processed on August 3, 2025, achieving 420 sheets per hour. The same next day flag is set to N. The weight per sheet is 35.57 kg.
+
+Ross ordered Ausro5.8m packing with DMW product OSH106H-5803, and Ross code JOS5803B. The order was processed on August 3, 2025, achieving 130 sheets per hour. The same next day flag is set to S.
+
+Ross ordered IMB5-64-5113 with DMW product IMB5-64-5113 JMOL (new), and Ross code SMB5113515105S. The order was processed on August 3, 2025, achieving 506 sheets per hour. The same next day flag is set to S. The weight per sheet is 22.2 kg.
+
+Ross ordered IMB5-64-5113 with DMW product IMB5-64-5113 JMOL (new), and Ross code SMB5113515105S. The order was processed on August 4, 2025, achieving 44 sheets per hour. The same next day flag is set to N. The weight per sheet is 22.2 kg.
+
+Ross ordered R500SL41 Packing with DMW product R500SL41, and Ross code SL41. The order was processed on August 4, 2025, achieving 275 sheets per hour. The same next day flag is set to S. The weight per sheet is 30.0 kg.
+
+The order was processed on August 5, 2025, achieving 700 sheets per hour. The same next day flag is set to N. The weight per sheet is 30.0 kg.
+
+Ross ordered IMB5-44-5716 with DMW product IMB5-44-5716, and Ross code SMF5716101005B. The order was processed on August 5, 2025, achieving 630 sheets per hour. The same next day flag is set to S. The weight per sheet is 35.57 kg.
+
+Ross ordered IMB5-44-5716 with DMW product IMB5-44-5716, and Ross code SMF5716101005B. The order was processed on August 6, 2025, achieving 120 sheets per hour. The same next day flag is set to N. The weight per sheet is 35.57 kg.
+
+Ross ordered R500SL41 Packing with DMW product R500SL41, and Ross code SL41. The order was processed on August 6, 2025, achieving 107 sheets per hour. The same next day flag is set to S. The weight per sheet is 30.0 kg.
+
+Ross ordered Ausro5.8m packing with DMW product OSH106H-5803, and Ross code JOS5803B. The order was processed on August 6, 2025, achieving 40 sheets per hour. The same next day flag is set to S. The weight per sheet is 35.57 kg.
+
+Ross ordered IMB544-5414 JCR with DMW product IMB5-44-5414 JCR, and Ross code SMB5414101005C. The order was processed on August 7, 2025, achieving 60 sheets per hour. The same next day flag is set to N. The weight per sheet is 27.85 kg.
+
+Ross ordered IMB5-44-5716 with DMW product IMB5-44-5716, and Ross code SMF5716101005B. The order was processed on August 7, 2025, achieving 270 sheets per hour. The same next day flag is set to S. The weight per sheet is 35.57 kg.
+
+The order was processed on August 8, 2025, achieving 630 sheets per hour. The same next day flag is set to N. The weight per sheet is 35.57 kg.
+
+Ross ordered IMG5H44-4824-packing with DMW product IMG5H-44-4824, and Ross code CCP48241010056G. The order was processed on August 8, 2025, achieving 300 sheets per hour. The same next day flag is set to S. The weight per sheet is 45.9 kg.
+
+Ross ordered IMLG5-64-5113 with DMW product IMB5-64-5113 JMOL (new), and Ross code SMB5113515105S. The order was processed on August 8, 2025, achieving 198 sheets per hour. The same next day flag is set to S. The weight per sheet is 22.2 kg.
+
+The order was processed on August 9, 2025, achieving 506 sheets per hour. The same next day flag is set to N. The weight per sheet is 22.2 kg.
+
+On August 9, 2025, Ross Order IMB5-44-5716 was processed, with DMW Product IMG5-44-5716. The Ross Code is SMF5716101005G, and the production was completed on the same day. The achieved quantity was 510 sheets, with an average weight of 35.57 kg per sheet. The actual total sheets produced were 18.1407, and the production rate was 25 sheets per hour.
+
+On August 10, 2025, Ross Order IMLG5-64-5113 was processed, with DMW Product IMB5-64-5113 JMOL (new). The Ross Code is SMB5113515105S. The production was not completed on the same day. The achieved quantity was 176 sheets, with an average weight of 22.2 kg per sheet. The actual total sheets produced were 3.9072, and the production rate was 25 sheets per hour.
+
+On August 10, 2025, Ross Order IMB4H44-5024 was processed, with DMW Product IMB4H-44-5024. The Ross Code is SMB4H50241010. The production was completed on the same day. The achieved quantity was 325 sheets, with an additional achieved quantity of 350 sheets. The average weight of the sheets was 30.93 kg per sheet. The actual total sheets produced were 20.87775, and the production rate was 25 sheets per hour.
+
+On August 11, 2025, the achieved quantity was 425 sheets, with an additional achieved quantity of 500 sheets. The average weight of the sheets was 30.93 kg per sheet. The actual total sheets produced were 28.61025, and the production rate was 25 sheets per hour.
+
+On August 12, 2025, the achieved quantity was 325 sheets, with an additional achieved quantity of 500 sheets. The average weight of the sheets was 30.93 kg per sheet. The actual total sheets produced were 25.51725, and the production rate was 25 sheets per hour.
+
+On August 13, 2025, the achieved quantity was 300 sheets, with an additional achieved quantity of 325 sheets. The average weight of the sheets was 30.93 kg per sheet. The actual total sheets produced were 19.33125, and the production rate was 25 sheets per hour.
+
+On August 13, 2025, Ross Order IMLG5-64-5113 was processed again, with DMW Product IMB5-64-5113 JMOL (new). The Ross Code is SMB5113515105S. The production was completed on the same day. The achieved quantity was 154 sheets, with an average weight of 22.2 kg per sheet. The actual total sheets produced were 3.4188, and the production rate was 25 sheets per hour.
+
+On August 14, 2025, Ross Order IMB544-4824 was processed, with DMW Product IMB5-44-4824. The Ross Code is CCP4824101005. The production was not completed on the same day. The achieved quantity was 425 sheets, with an additional achieved quantity of 500 sheets. The average weight of the sheets was 36.6 kg per sheet. The actual total sheets produced were 33.855, and the production rate was 25 sheets per hour.
+
+On August 15, 2025, the achieved quantity was 75 sheets. The average weight of the sheets was 36.6 kg per sheet. The actual total sheets produced were 2.745, and the production rate was 25 sheets per hour.
+
+On August 15, 2025, Ross Order IMB4H44-5024 was processed, with DMW Product IMB4H-44-5024. The Ross Code is SMB4H50241010. The production was completed on the same day. The achieved quantity was 100 sheets, with an average weight of 30.93 kg per sheet. The actual total sheets produced were 3.093, and the production rate was 25 sheets per hour.
+
+On August 15, 2025, Ross Order IMG4D-66-3012 was processed, with DMW Product IMG4D-66-3012. The Ross Code is SMESH300011704. The production was completed on the same day. The achieved quantity was 550 sheets, with an average weight of 7.94 kg per sheet. The actual total sheets produced were 4.367, and the production rate was 25 sheets per hour.
+
+On August 16, 2025, the achieved quantity was 450 sheets. The average weight of the sheets was 7.94 kg per sheet. The actual total sheets produced were 3.573, and the production rate was 25 sheets per hour.
+
+On August 16, 2025, Ross Order IMB4H44-5024 was processed again, with DMW Product IMB4H-44-5024. The Ross Code is SMB4H50241010. The production was completed on the same day. The achieved quantity was 21 sheets, with an average weight of 30.93 kg per sheet. The actual total sheets produced were 0.6495299999999999, and the production rate was 25 sheets per hour.
+
+On August 17, 2025, no production was recorded. The production rate was 25 sheets per hour.
+
+On August 18, 2025, no production was recorded. The production rate was 25 sheets per hour.
+
+On August 19, 2025, no production was recorded. The production rate was 25 sheets per hour.
+
+On August 20, 2025, no production was recorded. The production rate was 25 sheets per hour.
+
+On August 21, 2025, no production was recorded. The production rate was 25 sheets per hour.
+
+On August 22, 2025, no production was recorded. The production rate was 25 sheets per hour.
+
+On August 23, 2025, no production was recorded. The production rate was 25 sheets per hour.
+
+On August 24, 2025, no production activities were recorded for the week 35. The sheets per hour rate was 25.
+
+On August 25, 2025, no production activities were recorded for the week 35. The sheets per hour rate was 25.
+
+On August 26, 2025, no production activities were recorded for the week 35. The sheets per hour rate was 25.
+
+On August 27, 2025, no production activities were recorded for the week 35. The sheets per hour rate was 25.
+
+On August 28, 2025, no production activities were recorded for the week 35. The sheets per hour rate was 25.
+
+On August 29, 2025, no production activities were recorded for the week 35. The sheets per hour rate was 25.
+
+On August 30, 2025, no production activities were recorded for the week 35. The sheets per hour rate was 25.
+
+On August 31, 2025, no production activities were recorded for the week 35. However, on September 1, 2025, the week transitioned to 36. No production activities were recorded.
+
+On September 2, 2025, the week was still 36. The production achieved 400 units, with an additional 1500 units reported. The average weight per sheet was 6.15 kg, and the sheets per hour rate was 25.
+
+On September 3, 2025, the week remained 36. The production achieved 1000 units, with an additional 1600 units reported. The average weight per sheet was 6.15 kg, and the sheets per hour rate was 25.
+
+On September 4, 2025, the week was still 36. The production achieved 1400 units, with an additional 2300 units reported. The average weight per sheet was 6.15 kg, and the sheets per hour rate was 25.
+
+On September 5, 2025, the week was still 36. No production activities were recorded.
+
+On September 6, 2025, the week was still 36. The production achieved 200 units. The average weight per sheet was 6.15 kg, and the sheets per hour rate was 25.
+
+On September 7, 2025, the week transitioned to 37. No production activities were recorded.
+
+On September 8, 2025, the week was still 37. No production activities were recorded.
+
+On September 9, 2025, the week was 37. The production achieved 220 units, with an additional 480 units reported. The average weight per sheet was 22.73 kg, and the sheets per hour rate was 25.
+
+On September 10, 2025, the week was still 37. The production achieved 320 units, with an additional 560 units reported. The average weight per sheet was 22.73 kg, and the sheets per hour rate was 25.
+
+On September 11, 2025, the week was still 37. The production achieved 280 units. The average weight per sheet was 22.73 kg, and the sheets per hour rate was 25.
+
+On September 11, 2025, the week was 37. The production achieved 100 trim pieces, with an additional 300 units reported. The average weight per sheet was 35.57 kg, and the sheets per hour rate was 25.
+
+On September 12, 2025, the production achieved 240 kg of sheet material, with an additional 510 kg achieved the next day. The actual total weight was 26.6775 kg per hour, and the sheets were processed at a rate of 25 per hour.
+
+On September 13, 2025, the production achieved 300 kg of sheet material, with an actual total weight of 10.671 kg per hour. The sheets were processed at a rate of 25 per hour.
+
+On September 14, 2025, the production achieved 270 kg of sheet material, with an additional 270 kg achieved the next day. The actual total weight was 19.2078 kg per hour, and the sheets were processed at a rate of 25 per hour.
+
+On September 15, 2025, no production was recorded for the day.
+
+On September 16, 2025, no production was recorded for the day.
+
+On September 17, 2025, Brisbane reported that the production achieved 250 kg of sheet material, with an additional 50 kg achieved the next day. The actual total weight was 13.77 kg per hour, and the sheets were processed at a rate of 25 per hour.
+
+On September 17, 2025, Adelaide reported that the production achieved 200 kg of sheet material. The actual total weight was 7.82 kg per hour, and the sheets were processed at a rate of 25 per hour.
+
+On September 18, 2025, ST2109 reported that the production achieved 400 kg of sheet material. The actual total weight was 7.52 kg per hour, and the sheets were processed at a rate of 25 per hour.
+
+On September 18, 2025, ST2099 reported that the production achieved 620 kg of sheet material. The actual total weight was 14.0926 kg per hour, and the sheets were processed at a rate of 25 per hour.
+
+On September 19, 2025, the production achieved 320 kg of sheet material, with an additional 600 kg achieved the next day. The actual total weight was 20.9116 kg per hour, and the sheets were processed at a rate of 25 per hour.
+
+On September 20, 2025, ST2109 reported that the production achieved 400 kg of sheet material. The actual total weight was 7.52 kg per hour, and the sheets were processed at a rate of 25 per hour.
+
+On September 21, 2025, the production achieved 200 kg of sheet material. The actual total weight was 3.76 kg per hour, and the sheets were processed at a rate of 25 per hour.
+
+On September 21, 2025, ST2114 reported that the production achieved 200 kg of sheet material. The actual total weight was 4.44 kg per hour, and the sheets were processed at a rate of 25 per hour.
+
+On September 22, 2025, the production achieved 140 kg of sheet material, with an additional 160 kg achieved the next day. The actual total weight was 6.66 kg per hour, and the sheets were processed at a rate of 25 per hour.
+
+On September 22, 2025, Adelaide reported that the production achieved 225 kg of sheet material. The actual total weight was 26.3925 kg per hour, and the sheets were processed at a rate of 25 per hour.
+
+On September 23, 2025, 251330 reported that the production achieved 60 kg of sheet material. The actual total weight was 2.1342 kg per hour, and the sheets were processed at a rate of 25 per hour.
+
+On September 23, 2025, ST2095 reported that the production achieved 270 kg of sheet material. The actual total weight was 9.6039 kg per hour, and the sheets were processed at a rate of 25 per hour.
+
+On September 24, 2025, ST2099 reported that the production achieved 360 kg of sheet material. The actual total weight was 8.1828 kg per hour, and the sheets were processed at a rate of 25 per hour.
+
+On September 24, 2025, the production achieved 120 kg of sheet material, with an additional 250 pcs trimmed. The actual total weight was 8.1828 kg per hour, and the sheets were processed at a rate of 25 per hour.
+
+Ross ordered IMB5-44-5716 on September 24, 2025, achieving 120 sheets with a weight of 35.57 kg per sheet. The actual total was 4.2684, and the sheets were processed at a rate of 25 per hour.
+
+ST2099 was associated with Ross order 251956 on September 25, 2025. The DMW product was IMGX4H4-44-5614-JMA, with a Ross code of GXB5614101004G. The achievement was 380 sheets, with an actual total of 10.9104. Sheets were processed at a rate of 25 per hour.
+
+ST2114 worked on Ross order 252886 on September 25, 2025. The DMW product was IMG55H-46-5017-JAS, with a Ross code of SMB5018151005G. The achievement was 240 sheets, with an actual total of 5.328. Sheets were processed at a rate of 25 per hour.
+
+Ross order 251956 continued on September 26, 2025, with ST2102 achieving 120 sheets. The DMW product was IMGX4H4-46-5017-JAS, with a Ross code of GXB501710154G. The actual total was 2.3664, and sheets were processed at a rate of 25 per hour.
+
+ST2114 reported on Ross order 252886 on September 27, 2025. The DMW product was IMG55H-46-5017-JAS, with a Ross code of SMB5018151005G. The achievement was 280 sheets, with an actual total of 12.876. Sheets were processed at a rate of 25 per hour.
+
+ST2099 worked on Ross order 251956 again on September 27, 2025. The DMW product was IMGX4H4-44-5614-JMA, with a Ross code of GXB5614101004G. The achievement was 120 sheets, with an actual total of 2.7276. Sheets were processed at a rate of 25 per hour.
+
+No next-day shipments were scheduled on September 28, 2025, with planned totals of 0.0 and actual totals of 0.0. Sheets were processed at a rate of 25 per hour.
+
+ST2114 reported on Ross order 252886 on September 29, 2025. The DMW product was IMG55H-46-5017-JAS, with a Ross code of SMB5018151005G. The achievement was 240 sheets, with an actual total of 11.988. Sheets were processed at a rate of 25 per hour.
+
+ST2085 was involved in Ross order 252134 on September 29, 2025. The DMW product was IMG4-44-2015-JNA, with a Ross code of CC2015101004G. The achievement was 300 sheets, with an actual total of 1.845. Sheets were processed at a rate of 25 per hour.
+
+Ross order 252348 was completed on September 30, 2025, with ST2103 achieving 300 sheets. The DMW product was IMGX4H4-44-4811-JUL, with a Ross code of GXB48111010VGU3. The actual total was 11.984, and sheets were processed at a rate of 25 per hour.
+
+No next-day shipments were scheduled on October 1, 2025, with planned totals of 0.0 and actual totals of 0.0. Sheets were processed at a rate of 25 per hour.
+
+No next-day shipments were scheduled on October 2, 2025, with planned totals of 0.0 and actual totals of 2.6215. Sheets were processed at a rate of 25 per hour.
+
+Ross order IMB5-44-5716 was completed on October 2, 2025, with ST2095 achieving 30 sheets. The DMW product was IMB5-44-5716, with a Ross code of SMF5716101005G. The actual total was 1.0671, and sheets were processed at a rate of 25 per hour.
+
+ST2095 reported on Ross order 251956 on October 2, 2025, achieving 30 sheets. The DMW product was IMG5-44-5716, with a Ross code of SMF5716101005G. The actual total was 1.0671, and sheets were processed at a rate of 25 per hour.
+
+ST2085 worked on Ross order 252134 on October 2, 2025, achieving 400 sheets. The DMW product was IMG4-44-2015-JNA, with a Ross code of CC2015101004G. The actual total was 11.9925, and sheets were processed at a rate of 25 per hour.
+
+ST2095 reported on Ross order 251956 on October 3, 2025, achieving 90 sheets. The DMW product was IMG5-44-5716, with a Ross code of SMF5716101005G. The actual total was 3.2013, and sheets were processed at a rate of 25 per hour.
+
+ST2102 worked on Ross order 251956 on October 3, 2025, achieving 60 sheets. The DMW product was IMGX4H4-46-5017-JAS, with a Ross code of GXB501710154G. The actual total was 1.1832, and sheets were processed at a rate of 25 per hour.
+
+No next-day shipments were scheduled on October 4, 2025, with an achievement of 500 sheets and an actual total of 9.86. Sheets were processed at a rate of 25 per hour.
+
+ST2085 reported on Ross order 252134 on October 4, 2025, achieving 700 sheets. The DMW product was IMG4-44-2015-JNA, with a Ross code of CC2015101004G. The actual total was 4.305, and sheets were processed at a rate of 25 per hour.
+
+No next-day shipments were scheduled on October 5, 2025, with an achievement of 700 sheets and an actual total of 9.225. Sheets were processed at a rate of 25 per hour.
+
+On October 6, 2025, the production achieved 90 units of the DMW product IMG5-44-5716, with a Ross code of SMF5716101005G. The production was conducted at a rate of 25 sheets per hour, resulting in an actual total of 8.35895 kg of sheets. The same day, another production run achieved 1050 units of the DMW product IMGX4H4-44-4811-JUL, with a Ross code of GXB48111010VGU3, achieving an actual total of 1.498 kg of sheets.
+
+On October 7, 2025, the production achieved 570 units of the DMW product IMB45-66-5111, with a Ross code of SMB5112151504. The production was conducted at a rate of 25 sheets per hour, resulting in an actual total of 13.2408 kg of sheets. On October 8, 2025, two production runs were conducted. The first achieved 100 units of the DMW product IMG4-44-3024-JOA, with a Ross code of SMF302410104GOC, achieving an actual total of 1.498 kg of sheets. The second achieved 400 units of the DMW product IMGX4H4-44-5614-JMA, with a Ross code of GXB5614101004G, achieving an actual total of 2.273 kg of sheets.
+
+On October 9, 2025, the production achieved 550 units, with an actual total of 11.055 kg of sheets. On October 10, 2025, the production achieved 400 units of the DMW product IMB4-626-1117-JULW, with a Ross code of SMF1711151504UW, achieving an actual total of 3.78 kg of sheets. Another production run achieved 400 units of the DMW product IMG4-44-2015-JNA, with a Ross code of CC2015101004G, achieving an actual total of 0.615 kg of sheets. A third production run achieved 100 units of the DMW product IMGX4H4-44-4811-JUL, with a Ross code of GXB48111010VGU3, achieving an actual total of 1.1235 kg of sheets.
+
+On October 11, 2025, the production achieved 900 units of the DMW product IMB4-626-1117-JULW, with a Ross code of SMF1711151504UW, achieving an actual total of 6.3 kg of sheets. On October 12, 2025, the production achieved 700 units of the DMW product IMGX4H4-44-5614-JMA, with a Ross code of GXB5614101004G, achieving an actual total of 2.273 kg of sheets. Another production run achieved 75 units of the DMW product IMGX4H4-44-4811-JUL, with a Ross code of GXB48111010VGU3, achieving an actual total of 1.1235 kg of sheets.
+
+On October 13, 2025, the production achieved 900 units of the DMW product IMB4-626-1117-JULW, with a Ross code of SMF1711151504UW, achieving an actual total of 2.835 kg of sheets. A production run achieved 550 units of the DMW product IMB5-44-5014-JNA, with a Ross code of CC5014101005, achieving an actual total of 13.8875 kg of sheets. On October 14, 2025, the production achieved 130 units of the DMW product IMB4-626-1117-JULW, with a Ross code of SMF1711151504UW, achieving an actual total of 2.835 kg of sheets. Another production run achieved 25 units of the DMW product IMGX4H4-44-4811-JUL, with a Ross code of GXB48111010VGU3, achieving an actual total of 0.3745 kg of sheets.
+
+On October 15, 2025, Ross Order 252349 was processed, involving DMW Product IMGX44H-44-5012-JOA. The Ross Code is GXB50121010VGOC. The production was not scheduled for next-day delivery. The weight per sheet was 14.26 kg, and 240 sheets were achieved, with an actual total of 9.1264. The sheets were produced at a rate of 25 per hour.
+
+On October 16, 2025, Ross Order 252348 was processed, involving DMW Product IMGX4H4-44-4811-JUL. The Ross Code is GXB48111010VGU3. The production was scheduled for next-day delivery. The weight per sheet was 14.98 kg, and 25 sheets were achieved, with an actual total of 0.3745. The sheets were produced at a rate of 25 per hour.
+
+On October 16, 2025, Ross Order 252349 was processed again, involving DMW Product IMGX44H-44-5012-JOA. The Ross Code is GXB50121010VGOC. The production was not scheduled for next-day delivery. The weight per sheet was 14.26 kg, and 300 sheets were achieved, with an actual total of 10.8376. The sheets were produced at a rate of 25 per hour.
+
+On October 17, 2025, Ross Order 252349 was processed once more, involving DMW Product IMGX44H-44-5012-JOA. The Ross Code is GXB50121010VGOC. The production was not scheduled for next-day delivery. The weight per sheet was 14.26 kg, and 66 sheets were achieved, with an actual total of 1.4652. The sheets were produced at a rate of 25 per hour.
+
+On October 17, 2025, Ross Order 252349 was processed again, involving DMW Product IMGX44H-44-5012-JOA. The Ross Code is GXB50121010VGOC. The production was not scheduled for next-day delivery. The weight per sheet was 14.26 kg, and 20 sheets were achieved, with an actual total of 0.2852. The sheets were produced at a rate of 25 per hour.
+
+On October 18, 2025, Ross Order 252349 was processed, involving DMW Product IMGX44H-44-5012-JOA. The Ross Code is GXB50121010VGOC. The production was not scheduled for next-day delivery. The weight per sheet was 14.26 kg, and 330 sheets were achieved, with an actual total of 10.8882. The sheets were produced at a rate of 25 per hour.
+
+On October 19, 2025, Ross Order 252349 was processed, involving DMW Product IMGX44H-44-5012-JOA. The Ross Code is GXB50121010VGOC. The production was not scheduled for next-day delivery. The weight per sheet was 15.78 kg, and 300 sheets were achieved, with an actual total of 4.734. The sheets were produced at a rate of 25 per hour.
+
+On October 19, 2025, Ross Order 252542 was processed, involving DMW Product IMG34-44-2415 JASH. The Ross Code is SMF24151010034G. The production was scheduled for next-day delivery. The weight per sheet was 5.96 kg, and 600 sheets were achieved, with an actual total of 3.576. The sheets were produced at a rate of 25 per hour.
+
+On October 20, 2025, Ross Order 252349 was processed, involving DMW Product IMGX44H-44-5012-JOA. The Ross Code is GXB50121010VGOC. The production was not scheduled for next-day delivery. The weight per sheet was 15.78 kg, and 1200 sheets were achieved, with an actual total of 7.152. The sheets were produced at a rate of 25 per hour.
+
+On October 21, 2025, Ross Order 252349 was processed, involving DMW Product IMGX44H-44-5012-JOA. The Ross Code is GXB50121010VGOC. The production was not scheduled for next-day delivery. The weight per sheet was 5.96 kg, and 500 sheets were achieved, with an actual total of 2.98. The sheets were produced at a rate of 25 per hour.
+
+On October 21, 2025, Ross Order 252742 was processed, involving DMW Product IMGX44H-44-5012-VGUW. The Ross Code is GXB50121010VGUW. The production was scheduled for next-day delivery. The weight per sheet was 15.78 kg, and 360 sheets were achieved, with an actual total of 5.6808. The sheets were produced at a rate of 25 per hour.
+
+On October 22, 2025, Ross Order 252349 was processed, involving DMW Product IMGX44H-44-5012-JOA. The Ross Code is GXB50121010VGOC. The production was not scheduled for next-day delivery. The weight per sheet was 14.26 kg, and 300 sheets were achieved, with an actual total of 5.704. The sheets were produced at a rate of 25 per hour.
+
+On October 23, 2025, Ross Order 253448 was processed, involving DMW Product IMG3H-44-1716. The Ross Code is SMF1716101003G. The production was not scheduled for next-day delivery. The weight per sheet was 3.53 kg, and 300 sheets were achieved, with an actual total of 1.059. The sheets were produced at a rate of 25 per hour.
+
+On October 23, 2025, Ross Order 252742 was processed, involving DMW Product IMGX44H-44-5012-VGUW. The Ross Code is GXB50121010VGUW. The production was scheduled for next-day delivery. The weight per sheet was 15.78 kg, and 510 sheets were achieved, with an actual total of 8.0478. The sheets were produced at a rate of 25 per hour.
+
+On October 24, 2025, Ross Order 252349 was processed, involving DMW Product IMGX44H-44-5012-JOA. The Ross Code is GXB50121010VGOC. The production was not scheduled for next-day delivery. The weight per sheet was 14.26 kg, and 620 sheets were achieved, with an actual total of 8.8412. The sheets were produced at a rate of 25 per hour.
+
+On October 24, 2025, Ross Order 253497 was processed, involving DMW Product JOS5803B. The Ross Code is OSR106H-5808. The production was scheduled for next-day delivery. The weight per sheet was 25.96 kg, and 80 sheets were achieved, with an actual total of 2.0768. The sheets were produced at a rate of 25 per hour.
+
+On October 24, 2025, Ross Order 253448 was processed, involving DMW Product IMG3H-44-1716. The Ross Code is SMF1716101003G. The production was scheduled for next-day delivery. The weight per sheet was 3.53 kg, and 200 sheets were achieved, with an actual total of 0.706. The sheets were produced at a rate of 25 per hour.
+
+On October 25, 2025, the production achieved 400 sheets with a weight of 3.53 kg per sheet. The actual total was 1.412, and the sheets were processed at a rate of 25 per hour. The same day, another production run achieved 100 sheets with a weight of 5.96 kg per sheet, an actual total of 0.596, and a processing rate of 25 sheets per hour. On the same day, a third production run achieved 396 sheets with a weight of 25.25 kg per sheet, an actual total of 9.999, and a processing rate of 25 sheets per hour. A fourth production run achieved 110 sheets with a weight of 24.54 kg per sheet, an actual total of 2.6994, and a processing rate of 25 sheets per hour.
+
+On October 26, 2025, no production data was recorded. Similarly, on October 27, 2025, no production data was recorded. On October 28, 2025, a production run achieved 400 sheets with a weight of 3.53 kg per sheet, an actual total of 1.412, and a processing rate of 25 sheets per hour. Another production run achieved 60 sheets with a weight of 25.25 kg per sheet, an actual total of 1.515, and a processing rate of 25 sheets per hour. A third production run achieved 330 sheets with a weight of 24.54 kg per sheet, an actual total of 8.0982, and a processing rate of 25 sheets per hour. A fourth production run achieved 180 sheets with a weight of 15.78 kg per sheet, an actual total of 2.8404, and a processing rate of 25 sheets per hour. A fifth production run achieved 30 sheets with a weight of 14.26 kg per sheet, an actual total of 0.4278, and a processing rate of 25 sheets per hour.
+
+On October 29, 2025, a production run achieved 17 sheets with a weight of 25.25 kg per sheet, an actual total of 0.42925, and a processing rate of 25 sheets per hour. Another production run achieved 200 sheets with a weight of 3.53 kg per sheet, an actual total of 0.706, and a processing rate of 25 sheets per hour. A third production run achieved 1225 sheets with a weight of 6.6 kg per sheet, an actual total of 8.085, and a processing rate of 25 sheets per hour. On the same day, a fourth production run achieved 400 sheets with a weight of 30.93 kg per sheet, an actual total of 28.61025, and a processing rate of 25 sheets per hour.
+
+On October 30, 2025, a production run achieved 300 sheets with a weight of 6.6 kg per sheet, an actual total of 1.98, and a processing rate of 25 sheets per hour. Another production run achieved 36 sheets with a weight of 3.53 kg per sheet, an actual total of 0.12708, and a processing rate of 25 sheets per hour. A third production run achieved 600 sheets with a weight of 30.93 kg per sheet, an actual total of 18.558, and a processing rate of 25 sheets per hour.
+
+On October 31, 2025, a production run achieved 400 sheets with a weight of 30.93 kg per sheet, an actual total of 28.61025, and a processing rate of 25 sheets per hour. The same day, another production run achieved 525 sheets with a weight of 30.93 kg per sheet, an actual total of 28.61025, and a processing rate of 25 sheets per hour. On November 1, 2025, a production run achieved 800 sheets with a weight of 5.77 kg per sheet, an actual total of 10.386, and a processing rate of 25 sheets per hour. On November 2, 2025, a production run achieved 1150 sheets with a weight of 5.77 kg per sheet, an actual total of 6.6355, and a processing rate of 25 sheets per hour.
+
+Ross order 253625 involves the product imb45-66-5111, with the associated Ross code SMB5112151504. The next day status is marked as 'N', and the transaction took place on November 3, 2025. The week number was 45, with an achievement of 660 units. The weight per sheet was 12.26 kg, and the actual total was 8.0916 sheets per hour.
+
+On November 4, 2025, the same day status was 'N'. The Ross order 252492 involved the product IMG3H-44-2518, with the Ross code SMF2518101031G. The achievement was 50 units, with a weight per sheet of 5.77 kg and an actual total of 0.2885 sheets per hour.
+
+Ross order 252809, involving the product IMB4H-44-5024, had the Ross code SMB4H50241010. The next day status was 'S', and the transaction occurred on November 4, 2025. The achievement was 75 units, with a weight per sheet of 30.93 kg and an actual total of 2.31975 sheets per hour.
+
+Ross order 252742, involving the product IMGX44H-44-5012-VGUW, had the Ross code GXB50121010VGUW. The next day status was 'S', and the transaction took place on November 4, 2025. The achievement was 90 units, with a weight per sheet of 15.78 kg and an actual total of 1.4202 sheets per hour.
+
+On November 5, 2025, the same day status was 'N' for Ross order 252742, involving the product IMGX44H-44-5012-VGUW, with the Ross code GXB50121010VGUW. The achievement was 90 units, with a weight per sheet of 15.78 kg and an actual total of 1.4202 sheets per hour.
+
+Ross order 252809, involving the product IMB4H-44-5024, had the Ross code SMB4H50241010. The next day status was 'S', and the transaction occurred on November 5, 2025. The achievement was 75 units, with a weight per sheet of 30.93 kg and an actual total of 2.31975 sheets per hour.
+
+Ross order 252493, involving the product IMG3H-44-2516, had the Ross code SMF2516101031G. The next day status was 'S', and the transaction took place on November 5, 2025. The achievement was 25 units, with a weight per sheet of 5.14 kg and an actual total of 0.1285 sheets per hour.
+
+Ross order 253448, involving the product IMG3H-44-1716, had the Ross code SMF1716101003G. The next day status was 'S', and the transaction occurred on November 5, 2025. The achievement was 100 units, with a weight per sheet of 3.53 kg and an actual total of 0.353 sheets per hour.
+
+Ross order 252349, involving the product IMGX44H-44-5012-JOA, had the Ross code GXB50121010VGOC. The next day status was 'N', and the transaction took place on November 6, 2025. The achievement was 80 units, with a weight per sheet of 14.26 kg and an actual total of 1.1408 sheets per hour.
+
+Ross order 252742, involving the product IMGX44H-44-5012-VGUW, had the Ross code GXB50121010VGUW. The next day status was 'S', and the transaction occurred on November 6, 2025. The achievement was 540 units, with a weight per sheet of 15.78 kg and an actual total of 8.5212 sheets per hour.
+
+On November 7, 2025, the same day status was 'N'. The achievement was 600 units, with a weight per sheet of 15.78 kg and an actual total of 9.468 sheets per hour.
+
+Ross order 253625, involving the product imb45-66-5111, had the Ross code SMB5112151504. The next day status was 'S', and the transaction took place on November 7, 2025. The achievement was 660 units, with a weight per sheet of 12.26 kg and an actual total of 8.0916 sheets per hour.
+
+Ross order 100009, involving the product JOS4003B, had the Ross code JOS4003B-packing. The next day status was 'S', and the transaction occurred on November 7, 2025. The achievement was 60 units, with a weight per sheet of 17.69 kg and an actual total of 1.0614 sheets per hour.
+
+Ross order 252741, involving the product IMB4-66-2118-JUL, had the Ross code SMF2118151504U3. The next day status was 'N', and the transaction took place on November 8, 2025. The achievement was 1000 units, with an additional achievement of 700 units, a weight per sheet of 5.95 kg, and an actual total of 10.115 sheets per hour.
+
+On November 9, 2025, the same day status was 'N'. The achievement was 300 units, with a weight per sheet of 5.95 kg and an actual total of 1.785 sheets per hour.
+
+Ross order 252742, involving the product IMGX44H-44-5012-VGUW, had the Ross code GXB50121010VGUW. The next day status was 'S', and the transaction occurred on November 9, 2025. The achievement was 330 units, with a weight per sheet of 15.78 kg and an actual total of 5.2074 sheets per hour.
+
+On November 10, 2025, the same day status was 'N'. The achievement was 660 units, with a weight per sheet of 15.78 kg and an actual total of 10.4148 sheets per hour.
+
+On November 11, 2025, the same day status was 'N'. The achievement was 520 units, with a weight per sheet of 15.78 kg and an actual total of 8.2056 sheets per hour.
+
+Ross order 253127, involving the product IMB4-44-2214, had the Ross code SMF2214101004. The next day status was 'S', and the transaction took place on November 11, 2025. The achievement was 500 units, with a weight per sheet of 6.43 kg and an actual total of 3.215 sheets per hour.
+
+On November 12, 2025, ST2164 achieved 500 units with a sheet weight of 14.39 kg per hour, working at a rate of 25 sheets per hour. The actual total was 7.195 kg, and the same day next day status was set to 'S'.
+
+On November 12, 2025, Ross Order 252562 produced IMB4-44-4814-CCC with a Ross Code SMF4814101004. The same day next day status was marked as 'S', achieving 500 units with a sheet weight of 14.39 kg per hour, and an actual total of 7.195 kg.
+
+On November 13, 2025, the production achieved 700 units with a sheet weight of 14.39 kg per hour, working at a rate of 25 sheets per hour. The same day next day status was noted as 'N'.
+
+On November 14, 2025, the production achieved 260 units with a sheet weight of 14.39 kg per hour, working at a rate of 25 sheets per hour. The same day next day status was marked as 'N'.
+
+On November 14, 2025, ST2167 achieved 1000 units with a sheet weight of 6.43 kg per hour, working at a rate of 25 sheets per hour. The actual total was 6.43 kg, and the same day next day status was set to 'S'.
+
+On November 15, 2025, the production achieved 200 units with a sheet weight of 6.43 kg per hour, working at a rate of 25 sheets per hour. The same day next day status was noted as 'N'.
+
+On November 15, 2025, JOS4003B achieved 120 units with a sheet weight of 17.69 kg per hour, working at a rate of 25 sheets per hour. The actual total was 2.1228 kg, and the same day next day status was set to 'S'.
+
+On November 15, 2025, ST2140 achieved 900 units with a sheet weight of 5.14 kg per hour, working at a rate of 25 sheets per hour. The actual total was 11.051 kg, and the same day next day status was set to 'S'. Additionally, it achieved 1250 units.
+
+On November 16, 2025, the production achieved 800 units with a sheet weight of 5.14 kg per hour, working at a rate of 25 sheets per hour. The actual total was 4.112 kg, and the same day next day status was noted as 'N'.
+
+On November 16, 2025, ST2162 achieved 270 units with a sheet weight of 12.26 kg per hour, working at a rate of 25 sheets per hour. The actual total was 3.3102 kg, and the same day next day status was set to 'S'.
+
+On November 17, 2025, the production achieved 690 units with a sheet weight of 12.26 kg per hour, working at a rate of 25 sheets per hour. The actual total was 8.4594 kg, and the same day next day status was noted as 'N'.
+
+On November 17, 2025, ST2148 achieved 25 units with a sheet weight of 6.6 kg per hour, working at a rate of 25 sheets per hour. The actual total was 0.165 kg, and the same day next day status was set to 'N'.
+
+On November 18, 2025, ST2162 achieved 720 units with a sheet weight of 12.26 kg per hour, working at a rate of 25 sheets per hour. The actual total was 8.8272 kg, and the same day next day status was noted as 'N'.
+
+On November 18, 2025, ST2161 achieved 700 units with a sheet weight of 5.95 kg per hour, working at a rate of 25 sheets per hour. The actual total was 4.165 kg, and the same day next day status was set to 'S'.
+
+On November 19, 2025, ST2162 achieved 630 units with a sheet weight of 12.26 kg per hour, working at a rate of 25 sheets per hour. The actual total was 7.7238 kg, and the same day next day status was noted as 'N'.
+
+On November 20, 2025, ST2109 achieved 24 units with a sheet weight of 18.8 kg per hour, working at a rate of 25 sheets per hour. The actual total was 0.4512 kg, and the same day next day status was set to 'N'.
+
+On November 20, 2025, ST2132 achieved 24 units with a sheet weight of 14.74 kg per hour, working at a rate of 25 sheets per hour. The actual total was 0.3538 kg, and the same day next day status was set to 'S'.
+
+On November 20, 2025, ST2167 achieved 41 units with a sheet weight of 6.43 kg per hour, working at a rate of 25 sheets per hour. The actual total was 0.2636 kg, and the same day next day status was noted as 'S'.
+
+On November 20, 2025, ST2140 achieved 9 units with a sheet weight of 5.14 kg per hour, working at a rate of 25 sheets per hour. The actual total was 0.0463 kg, and the same day next day status was set to 'S'.
+
+On November 20, 2025, 251281 achieved 11 units with a sheet weight of 6.6 kg per hour, working at a rate of 25 sheets per hour. The actual total was 0.0726 kg, and the same day next day status was set to 'S'.
+
+Ross ordered product IMG4-44-2015-JNA on November 20, 2025, achieving 9 sheets with a weight of 6.15 kg per sheet. The actual total was 0.05535 sheets per hour, and the sheets were processed at a rate of 25 per hour.
+
+Ross ordered product imb45-66-5111 on November 21, 2025, achieving 660 sheets with a weight of 12.26 kg per sheet. The actual total was 8.0916 sheets per hour, and the sheets were processed at a rate of 25 per hour.
+
+Seattle shipment on November 21, 2025, involved Ross order 250600 for product IMG5H-44-4524, achieving 75 sheets with a weight of 43.1 kg per sheet. The actual total was 3.2325 sheets per hour, and the sheets were processed at a rate of 25 per hour.
+
+Ross ordered product imb45-66-5111 on November 22, 2025, achieving 450 sheets with a weight of 12.26 kg per sheet. The actual total was 5.517 sheets per hour, and the sheets were processed at a rate of 25 per hour.
+
+Ross ordered product IMB4H-44-5024 on November 22, 2025, achieving 100 sheets with an additional achievement of 300 sheets. The weight per sheet was 30.93 kg, and the actual total was 12.372 sheets per hour, with processing at a rate of 25 per hour.
+
+On November 23, 2025, 550 sheets were achieved with a weight of 30.93 kg per sheet. The actual total was 17.0115 sheets per hour, and the sheets were processed at a rate of 25 per hour.
+
+On November 24, 2025, 700 sheets were achieved with a weight of 30.93 kg per sheet. The actual total was 21.651 sheets per hour, and the sheets were processed at a rate of 25 per hour.
+
+Ross ordered product IMB4H-44-5024 on November 25, 2025, achieving 700 sheets with a weight of 30.93 kg per sheet. The actual total was 21.651 sheets per hour, and the sheets were processed at a rate of 25 per hour.
+
+Seattle shipment on November 26, 2025, involved Ross order 250600 for product IMG5H-44-4524, achieving 45 sheets with a weight of 43.1 kg per sheet. The actual total was 1.9395 sheets per hour, and the sheets were processed at a rate of 25 per hour.
+
+Ross ordered product IMGX44H-44-5012-VGUW on November 26, 2025, achieving 150 sheets with a weight of 15.78 kg per sheet. The actual total was 2.367 sheets per hour, and the sheets were processed at a rate of 25 per hour.
+
+On November 27, 2025, 90 sheets were achieved with a weight of 15.78 kg per sheet. The actual total was 1.4202 sheets per hour, and the sheets were processed at a rate of 25 per hour.
+
+Ross ordered product IMB4H-44-5024 on November 27, 2025, achieving 75 sheets with a weight of 30.93 kg per sheet. The actual total was 2.31975 sheets per hour, and the sheets were processed at a rate of 25 per hour.
+
+Ross ordered product IMB3H-44-2618-DAIR on November 27, 2025, achieving 290 sheets with a weight of 5.98 kg per sheet. The actual total was 1.7342 sheets per hour, and the sheets were processed at a rate of 25 per hour.
+
+On November 28, 2025, 152 sheets were achieved with a weight of 5.98 kg per sheet. The actual total was 0.90896 sheets per hour, and the sheets were processed at a rate of 25 per hour.
+
+On November 29, 2025, 1058 sheets were achieved with a weight of 5.98 kg per sheet. The actual total was 6.32684 sheets per hour, and the sheets were processed at a rate of 25 per hour.
+
+On November 30, 2025, 450 sheets were achieved with a weight of 5.98 kg per sheet. The actual total was 2.691 sheets per hour, and the sheets were processed at a rate of 25 per hour.
+
+Ross ordered product IMB3H-44-2420-DCLA on November 30, 2025, achieving 650 sheets with a weight of 6.15 kg per sheet. The actual total was 3.9975 sheets per hour, and the sheets were processed at a rate of 25 per hour.
+
+On December 1, 2025, 650 sheets were achieved with an additional achievement of 750 sheets. The weight per sheet was 6.15 kg, and the actual total was 8.61 sheets per hour, with processing at a rate of 25 per hour.
+
+Ross ordered product IMB3H-44-2618-DAIR on December 1, 2025, achieving 50 sheets with a weight of 5.98 kg per sheet. The actual total was 0.299 sheets per hour, and the sheets were processed at a rate of 25 per hour.
+
+On December 1, 2025, the production of the dmw_product IMB5-46-5016-JNA was recorded with a ross_code SMB5016151005S. The sheets per hour were 25, and the actual total was 2.92026 kg/sht.
+
+On December 2, 2025, the production of the dmw_product IMB5-64-5113 JMOL (new) was recorded with a ross_code SMB5113515105S. The sheets per hour were 25, and the actual total was 19.536 kg/sht.
+
+On December 3, 2025, the production of the dmw_product IMB3H-44-2618-DAIR was recorded with a ross_code SMF2618101003. The sheets per hour were 25, and the actual total was 16.744 kg/sht.
+
+On December 3, 2025, the production of the dmw_product IMGX4H4-44-5614-JMA was recorded with a ross_code GXB5614101004G. The sheets per hour were 25, and the actual total was 4.3596 kg/sht.
+
+On December 3, 2025, the production of the dmw_product IMB5-64-5113 JMOL (new) was recorded with a ross_code SMB5113515105S. The sheets per hour were 25, and the actual total was 7.8144 kg/sht.
+
+On December 4, 2025, the production achieved 15.1404 kg/sht with sheets per hour at 25.
+
+On December 4, 2025, the production of the dmw_product IMGX4H4-44-5614-JMA was recorded with a ross_code GXB5614101004G. The sheets per hour were 25, and the actual total was 7.7504 kg/sht.
+
+On December 4, 2025, the production of the dmw_product IMB3H-44-2420-DCLA was recorded with a ross_code SMF2420101003. The sheets per hour were 25, and the actual total was 0.3075 kg/sht.
+
+On December 5, 2025, the production achieved 7.0725 kg/sht with sheets per hour at 25.
+
+On December 5, 2025, the production of the dmw_product IMGX4H4-44-5614-JMA was recorded with a ross_code GXB5614101004G. The sheets per hour were 25, and the actual total was 1.4532 kg/sht.
+
+On December 5, 2025, the production of the dmw_product IMG4-44-2015 was recorded with a ross_code CC2015101004G. The sheets per hour were 25, and the actual total was 3.69 kg/sht.
+
+On December 6, 2025, the production achieved 10.455 kg/sht with sheets per hour at 25.
+
+On December 6, 2025, the production of the dmw_product IMGX4H4-44-5614-JMA was recorded with a ross_code GXB5614101004G. The sheets per hour were 25, and the actual total was 0.8477 kg/sht.
+
+On December 6, 2025, the production of the dmw_product IMB3H-44-2420-DCLA was recorded with a ross_code SMF2420101003. The sheets per hour were 25, and the actual total was 0.2091 kg/sht.
+
+On December 6, 2025, the production of the dmw_product IMGX45-44-4812 was recorded with a ross_code GXB48121010VGDE. The sheets per hour were 25, and the actual total was 0.9035 kg/sht.
+
+On December 7, 2025, the production of the dmw_product IMG4-44-2015 was recorded with a ross_code CC2015101004G. The sheets per hour were 25, and the actual total was 7.38 kg/sht.
+
+On December 7, 2025, the production achieved 15.2028 kg/sht with sheets per hour at 25.
+
+On December 8, 2025, the production of the dmw_product IMG5H-44-4024 was recorded with a ross_code CCP40241010056G. The sheets per hour were 25, and the actual total was 3.9652 kg/sht.
+
+On December 9, 2025, the production of the dmw_product IMGX44H-44-5012-JOA was recorded with a ross_code GXB50121010VGOC. The sheets per hour were 25, and the actual total was 16.2564 kg/sht.
+
+On December 10, 2025, the production achieved 300 units with an actual total weight of 14.26 kg per sheet. The sheets were processed at a rate of 25 sheets per hour. The next day, December 11, 2025, the production increased significantly to 1500 units, with an actual total weight of 3.15 kg per sheet. The sheets were processed at a rate of 25 sheets per hour. On December 12, 2025, the production achieved 530 units with an actual total weight of 14.26 kg per sheet. The sheets were processed at a rate of 25 sheets per hour. On December 13, 2025, the production achieved 63 units with an actual total weight of 3.15 kg per sheet. The sheets were processed at a rate of 25 sheets per hour. On December 14, 2025, the production achieved 600 units, with an actual total weight of 12.26 kg per sheet. The sheets were processed at a rate of 25 sheets per hour. On December 15, 2025, the production achieved 750 units, with an actual total weight of 12.26 kg per sheet. The sheets were processed at a rate of 25 sheets per hour. On December 16, 2025, the production achieved 480 units with an actual total weight of 12.26 kg per sheet. The sheets were processed at a rate of 25 sheets per hour. On December 17, 2025, the production achieved 360 units with an actual total weight of 24.22 kg per sheet. The sheets were processed at a rate of 25 sheets per hour. On December 18, 2025, the production achieved 950 units with an actual total weight of 6.15 kg per sheet. The sheets were processed at a rate of 25 sheets per hour. On December 19, 2025, the production achieved 308 units with an actual total weight of 24.22 kg per sheet. The sheets were processed at a rate of 25 sheets per hour.
+
+On December 10, 2025, the production achieved 500 units with an actual total weight of 3.15 kg per sheet. The sheets were processed at a rate of 25 sheets per hour. On December 11, 2025, the production achieved 1500 units with an actual total weight of 3.15 kg per sheet. The sheets were processed at a rate of 25 sheets per hour. On December 12, 2025, the production achieved 616 units with an actual total weight of 22.2 kg per sheet. The sheets were processed at a rate of 25 sheets per hour. On December 13, 2025, the production achieved 63 units with an actual total weight of 3.15 kg per sheet. The sheets were processed at a rate of 25 sheets per hour. On December 14, 2025, the production achieved 600 units with an actual total weight of 12.26 kg per sheet. The sheets were processed at a rate of 25 sheets per hour. On December 15, 2025, the production achieved 750 units with an actual total weight of 12.26 kg per sheet. The sheets were processed at a rate of 25 sheets per hour. On December 16, 2025, the production achieved 480 units with an actual total weight of 12.26 kg per sheet. The sheets were processed at a rate of 25 sheets per hour. On December 17, 2025, the production achieved 360 units with an actual total weight of 24.22 kg per sheet. The sheets were processed at a rate of 25 sheets per hour. On December 18, 2025, the production achieved 950 units with an actual total weight of 6.15 kg per sheet. The sheets were processed at a rate of 25 sheets per hour. On December 19, 2025, the production achieved 308 units with an actual total weight of 24.22 kg per sheet. The sheets were processed at a rate of 25 sheets per hour.
+
+On December 10, 2025, the production achieved 500 units with an actual total weight of 3.15 kg per sheet. The sheets were processed at a rate of 25 sheets per hour. On December 11, 2025, the production achieved 1500 units with an actual total weight of 3.15 kg per sheet. The sheets were processed at a rate of 25 sheets per hour. On December 12, 2025, the production achieved 616 units with an actual total weight of 22.2 kg per sheet. The sheets were processed at a rate of 25 sheets per hour. On December 13, 2025, the production achieved 63 units with an actual total weight of 3.15 kg per sheet. The sheets were processed at a rate of 25 sheets per hour. On December 14, 2025, the production achieved 600 units with an actual total weight of 12.26 kg per sheet. The sheets were processed at a rate of 25 sheets per hour. On December 15, 2025, the production achieved 750 units with an actual total weight of 12.26 kg per sheet. The sheets were processed at a rate of 25 sheets per hour. On December 16, 2025, the production achieved 480 units with an actual total weight of 12.26 kg per sheet. The sheets were processed at a rate of 25 sheets per hour. On December 17, 2025, the production achieved 360 units with an actual total weight of 24.22 kg per sheet. The sheets were processed at a rate of 25 sheets per hour. On December 18, 2025, the production achieved 950 units with an actual total weight of 6.15 kg per sheet. The sheets were processed at a rate of 25 sheets per hour. On December 19, 2025, the production achieved 308 units with an actual total weight of 24.22 kg per sheet. The sheets were processed at a rate of 25 sheets per hour.
+
+On December 19, 2025, the production of IMGX45-44-5614 JMA reached 440 units with a sheet weight of 24.22 kg. The actual total was 12.352 units per hour, and the sheets were processed at a rate of 25 per hour. The same day next delivery was scheduled for the following day.
+
+On December 20, 2025, the production of IMB5-64-5113 JMOL (new) reached 506 units with a sheet weight of 22.2 kg. The actual total was 11.233 units per hour, and the sheets were processed at a rate of 25 per hour. The next delivery was not scheduled for the following day.
+
+On December 20, 2025, the production of IMG4-44-2015 reached 400 units with a sheet weight of 6.15 kg. The actual total was 2.46 units per hour, and the sheets were processed at a rate of 25 per hour. The next delivery was scheduled for the following day.
+
+On December 21, 2025, the production achieved 1200 units with a sheet weight of 6.15 kg. The actual total was 7.38 units per hour, and the sheets were processed at a rate of 25 per hour.
+
+On December 22, 2025, the production achieved 1000 units with an additional 700 units, reaching a total of 1700 units. The sheet weight was 6.15 kg. The actual total was 10.455 units per hour, and the sheets were processed at a rate of 25 per hour.
+
+On December 22, 2025, the production of IMGX44H-44-5012-JOA reached 88 units with a sheet weight of 14.26 kg. The actual total was 1.25488 units per hour, and the sheets were processed at a rate of 25 per hour. The next delivery was scheduled for the following day.
+
+On December 22, 2025, the production of IMB5-64-5113 JMOL (new) reached 83 units with a sheet weight of 22.2 kg. The actual total was 1.8426 units per hour, and the sheets were processed at a rate of 25 per hour. The next delivery was scheduled for the following day.
+
+On December 23, 2025, the production achieved 308 units with a sheet weight of 22.2 kg. The actual total was 6.8376 units per hour, and the sheets were processed at a rate of 25 per hour.
+
+On December 23, 2025, the production of IMG4-44-2015 reached 33 units with a sheet weight of 6.15 kg. The actual total was 0.20295 units per hour, and the sheets were processed at a rate of 25 per hour.
+
+On December 23, 2025, the production of IMGX45-44-5614 JMA reached 29 units with a sheet weight of 24.22 kg. The actual total was 0.70238 units per hour, and the sheets were processed at a rate of 25 per hour.
+
+On December 23, 2025, the production of IMGX44H-44-5012-JOA reached 37 units with a sheet weight of 14.26 kg. The actual total was 0.52762 units per hour, and the sheets were processed at a rate of 25 per hour.
+
+On December 23, 2025, the production of IMB5-44-5014-JNA reached 374 units with a sheet weight of 25.25 kg. The actual total was 9.4435 units per hour, and the sheets were processed at a rate of 25 per hour.
+
+On December 24, 2025, the production achieved 616 units with a sheet weight of 25.25 kg. The actual total was 15.554 units per hour, and the sheets were processed at a rate of 25 per hour.
+
+On December 24, 2025, the production of IMB5-64-5113 JMOL (new) reached 308 units with a sheet weight of 22.2 kg. The actual total was 6.8376 units per hour, and the sheets were processed at a rate of 25 per hour.
+
+On December 25, 2025, no production was recorded.
+
+On December 26, 2025, the production of IMB45-66-5117-DEN reached 660 units with a sheet weight of 28.27 kg. The actual total was 22.8987 units per hour, and the sheets were processed at a rate of 25 per hour.
+
+On December 27, 2025, the production of IMB5-44-5014-JNA reached 264 units with a sheet weight of 25.25 kg. The actual total was 13.332 units per hour, and the sheets were processed at a rate of 25 per hour.
+
+On December 28, 2025, the production of IMB45-66-5117-DEN reached 240 units with a sheet weight of 28.27 kg. The actual total was 6.7848 units per hour, and the sheets were processed at a rate of 25 per hour.
+
+On December 28, 2025, the production of IMB5-44-5014-JNA reached 440 units with a sheet weight of 25.25 kg. The actual total was 11.11 units per hour, and the sheets were processed at a rate of 25 per hour.
+
+On December 29, 2025, the production achieved 220 units with a sheet weight of 25.25 kg. The actual total was 5.555 units per hour, and the sheets were processed at a rate of 25 per hour.
+
+Cornwall received an order on December 29, 2025, for the product IMB4-44-4814-CCC. The order was processed with the code SMF4814101004, and the production was completed the same day. The production achieved 200 sheets, with a weight of 14.39 kg per sheet. The actual total production time was 2.878 hours, and the sheets were produced at a rate of 25 per hour.
+
+ST2186, ross_order: 252543, involved the product IMB5-64-5113 JMOL (new). The order was processed with the code SMB5113515105S, and the production was completed the same day. The production achieved 242 sheets, with a weight of 22.2 kg per sheet. The actual total production time was 5.3724 hours, and the sheets were produced at a rate of 25 per hour.
+
+On December 30, 2025, the production achieved 484 sheets, with a weight of 22.2 kg per sheet. The actual total production time was 10.7448 hours, and the sheets were produced at a rate of 25 per hour.
+
+ST2190, ross_order: 253629, involved the product IMB5-44-5014-JNA. The order was processed with the code CC5014101005, and the production was completed on December 30, 2025. The production achieved 66 sheets, with a weight of 25.25 kg per sheet. The actual total production time was 1.6665 hours, and the sheets were produced at a rate of 25 per hour.
+
+Cornwall received another order on December 30, 2025, for the product IMB4-44-4814-CCC. The order was processed with the code SMF4814101004, and the production was completed the same day. The production achieved 160 sheets, with a weight of 14.39 kg per sheet. The actual total production time was 10.9364 hours, and the sheets were produced at a rate of 25 per hour.
+
+On December 31, 2025, the production achieved 460 sheets, with a weight of 14.39 kg per sheet. The actual total production time was 6.6194 hours, and the sheets were produced at a rate of 25 per hour.
+
+ST2190, ross_order: 253629, involved the product IMB5-44-5014-JNA. The order was processed with the code CC5014101005, and the production was completed on December 31, 2025. The production achieved 22 sheets, with a weight of 25.25 kg per sheet. The actual total production time was 0.5555 hours, and the sheets were produced at a rate of 25 per hour.
+
+ST2169, ross_order: 253631, involved the product IMGX4H4-44-4811-JUL. The order was processed with the code GXB48111010VGU3, and the production was completed on December 31, 2025. The production achieved 175 sheets, with a weight of 14.98 kg per sheet. The actual total production time was 6.3665 hours, and the sheets were produced at a rate of 25 per hour.
+
+ST2197, ross_order: 254065 - molarben, involved the product IMB4-44-2214. The order was processed with the code SMF2214101004, and the production was completed on January 1, 2026. The production achieved 1500 sheets, with a weight of 6.43 kg per sheet. The actual total production time was 9.645 hours, and the sheets were produced at a rate of 25 per hour.
+
+On January 2, 2026, the production achieved 850 sheets, with a weight of 6.43 kg per sheet. The actual total production time was 8.6805 hours, and the sheets were produced at a rate of 25 per hour.
+
+ST2189, ross_order: 253124, involved the product IMB45-66-5117-DEN. The order was processed with the code SMB5118151505, and the production was completed on January 2, 2026. The production achieved 30 sheets, with a weight of 28.27 kg per sheet. The actual total production time was 0.8481 hours, and the sheets were produced at a rate of 25 per hour.
+
+ST2169, ross_order: 253631, involved the product IMGX4H4-44-4811-JUL. The order was processed with the code GXB48111010VGU3, and the production was completed on January 3, 2026. The production achieved 500 sheets, with a weight of 14.98 kg per sheet. The actual total production time was 7.49 hours, and the sheets were produced at a rate of 25 per hour.
+
+On January 4, 2026, no production was recorded.
+
+On January 5, 2026, the production achieved 225 sheets, with a weight of 14.98 kg per sheet. The actual total production time was 3.3705 hours, and the sheets were produced at a rate of 25 per hour.
+
+ST2186, ross_order: 252543, involved the product IMB5-64-5113 JMOL (new). The order was processed with the code SMB5113515105S, and the production was completed on January 5, 2026. The production achieved 110 sheets, with a weight of 22.2 kg per sheet. The actual total production time was 12.6984 hours, and the sheets were produced at a rate of 25 per hour.
+
+ST2197, ross_order: 254065 - molarben, involved the product IMB4-44-2214. The order was processed with the code SMF2214101004, and the production was completed on January 5, 2026. The production achieved 150 sheets, with a weight of 6.43 kg per sheet. The actual total production time was 0.9645 hours, and the sheets were produced at a rate of 25 per hour.
+
+ST2208, ross_order: 254167 - DSI, involved the product IMB5-44-5716. The order was processed with the code SMF5716101005, and the production was completed on January 6, 2026. The production achieved 300 sheets, with a weight of 35.57 kg per sheet. The actual total production time was 18.1407 hours, and the sheets were produced at a rate of 25 per hour.
+
+On January 7, 2026, the production achieved 390 sheets, with a weight of 35.57 kg per sheet. The actual total production time was 19.2078 hours, and the sheets were produced at a rate of 25 per hour.
+
+ST2186, ross_order: 252543, involved the product IMB5-64-5113 JMOL (new). The order was processed with the code SMB5113515105S, and the production was completed on January 7, 2026. The production achieved 132 sheets, with a weight of 22.2 kg per sheet. The actual total production time was 2.9304 hours, and the sheets were produced at a rate of 25 per hour.
+
+On January 8, 2026, the production achieved 38 sheets, with a weight of 28.9 kg per sheet. The actual total production time was 1.0982 hours, and the sheets were produced at a rate of 25 per hour.
+
+Ensham placed an order for product imb45-66-5111 on January 8, 2026, achieving 690 sheets with a weight of 12.26 kg per sheet. The actual total was 12.5052, and the sheets were processed at a rate of 25 per hour. The same day, Ensham also achieved 570 sheets with a weight of 12.26 kg per sheet, and the actual total was 10.6661.
+
+Ross_order 253631 for product IMGX4H4-44-4811-JUL was processed on January 9, 2026, achieving 25 sheets with a weight of 14.98 kg per sheet. The actual total was 0.3745, and the sheets were processed at a rate of 25 per hour.
+
+Ross_order 254167 for product IMB5-44-5716 was processed on January 9, 2026, achieving 30 sheets with a weight of 35.57 kg per sheet. The actual total was 1.0671, and the sheets were processed at a rate of 25 per hour.
+
+Ensham placed another order for product imb45-66-5111 on January 10, 2026, achieving 510 sheets with a weight of 12.26 kg per sheet. The actual total was 6.252599999999999, and the sheets were processed at a rate of 25 per hour.
+
+On January 11, 2026, no next-day delivery was made, achieving 510 sheets with a weight of 12.26 kg per sheet. The actual total was 6.252599999999999, and the sheets were processed at a rate of 25 per hour.
+
+On January 12, 2026, no next-day delivery was made, achieving 120 sheets with a weight of 12.26 kg per sheet. The actual total was 1.4712, and the sheets were processed at a rate of 25 per hour.
+
+Ross_order 252543 for product IMB5-64-5113 JMOL (new) was processed on January 12, 2026, achieving 22 sheets with a weight of 22.2 kg per sheet. The actual total was 0.4884, and the sheets were processed at a rate of 25 per hour.
+
+Ross_order 254592 for product IMB5-46-5016-JNA was processed on January 12, 2026, achieving 440 sheets with a weight of 24.54 kg per sheet. The actual total was 25.37436, and the sheets were processed at a rate of 25 per hour.
+
+On January 13, 2026, no next-day delivery was made, achieving 550 sheets with a weight of 24.54 kg per sheet. The actual total was 13.497, and the sheets were processed at a rate of 25 per hour.
+
+Ross_order 252543 for product IMB5-64-5113 JMOL (new) was processed on January 13, 2026, achieving 440 sheets with a weight of 22.2 kg per sheet. The actual total was 9.768, and the sheets were processed at a rate of 25 per hour.
+
+Ross_order 254073 for product IMB4-44-4814-CCC was processed on January 14, 2026, achieving 19 sheets with a weight of 14.39 kg per sheet. The actual total was 0.27341, and the sheets were processed at a rate of 25 per hour.
+
+Ross_order 253629 for product IMB5-44-5014-JNA was processed on January 14, 2026, achieving 18 sheets with a weight of 25.25 kg per sheet. The actual total was 0.4545, and the sheets were processed at a rate of 25 per hour.
+
+Ross_order 254993 for product IMG3H-33-2516 was processed on January 15, 2026, achieving 1200 sheets with a weight of 6.6 kg per sheet. The actual total was 15.18, and the sheets were processed at a rate of 25 per hour.
+
+On January 16, 2026, no next-day delivery was made, achieving 1200 sheets with a weight of 6.6 kg per sheet. The actual total was 8.58, and the sheets were processed at a rate of 25 per hour.
+
+Ross_order 252543 for product IMB5-64-5113 JMOL (new) was processed on January 16, 2026, achieving 352 sheets with a weight of 22.2 kg per sheet. The actual total was 7.8144, and the sheets were processed at a rate of 25 per hour.
+
+Ross_order 254979 for product IMGX44H-44-5012-JOA was processed on January 16, 2026, achieving 200 sheets with a weight of 14.26 kg per sheet. The actual total was 2.852, and the sheets were processed at a rate of 25 per hour.
+
+On January 17, 2026, no next-day delivery was made, achieving 520 sheets with a weight of 14.26 kg per sheet. The actual total was 13.547, and the sheets were processed at a rate of 25 per hour.
+
+On January 18, 2026, no next-day delivery was made, achieving 470 sheets with a weight of 14.26 kg per sheet. The actual total was 8.4847, and the sheets were processed at a rate of 25 per hour.
+
+Heavy galvanized steel sheets, identified by the comment "ST2184 Heavy Galv," were processed under Ross order 254993. The DMW product is IMG3H-33-2516, with the corresponding Ross code SMF2516757503G. On January 18, 2026, the same next day flag was set to 'S,' indicating the operation was completed on the same day. The production achieved 400 sheets, with an actual total weight of 6.6 kg per sheet. The sheets were produced at a rate of 25 per hour.
+
+On January 19, 2026, the same next day flag was set to 'N.' The production achieved 975 sheets, with an actual total weight of 6.6 kg per sheet. The sheets were produced at a rate of 25 per hour.
+
+The comment "ST2210" refers to another production run. Under Ross order 254979 - OAKEY, the DMW product is IMGX44H-44-5012-JOA, with the corresponding Ross code GXB50121010VGOC. On January 19, 2026, the same next day flag was set to 'S.' The production achieved 200 sheets, with an actual total weight of 14.26 kg per sheet. The sheets were produced at a rate of 25 per hour.
+
+On January 20, 2026, the same next day flag was set to 'N.' The production achieved 240 sheets, with an actual total weight of 14.26 kg per sheet. The sheets were produced at a rate of 25 per hour.
+
+On January 21, 2026, the same next day flag was set to 'N.' The production achieved 180 sheets, with an actual total weight of 14.26 kg per sheet. The sheets were produced at a rate of 25 per hour.
+
+Heavy galvanized steel sheets, identified by the comment "ST2184 Heavy Galv," were processed under Ross order 254993. The DMW product is IMG3H-33-2516, with the corresponding Ross code SMF2516757503G. On January 21, 2026, the same next day flag was set to 'S.' The production achieved 650 sheets, with an actual total weight of 6.6 kg per sheet. The sheets were produced at a rate of 25 per hour.
+
+On January 22, 2026, the same next day flag was set to 'N.' The production achieved 650 sheets, with an actual total weight of 14.26 kg per sheet. The sheets were produced at a rate of 25 per hour.
+
+The comment "ST2186" refers to another production run. Under Ross order 252543, the DMW product is IMB5-64-5113 JMOL (new), with the corresponding Ross code SMB5113515105S. On January 22, 2026, the same next day flag was set to 'S.' The production achieved 154 sheets, with an actual total weight of 22.2 kg per sheet. The sheets were produced at a rate of 25 per hour.
+
+The comment "ST2232" refers to another production run. Under Ross order 255302 - Ensham, the DMW product is IMB45-66-5117-DEN, with the corresponding Ross code SMB5118151505. On January 22, 2026, the same next day flag was set to 'S.' The production achieved 390 sheets, with an actual total weight of 19.31 kg per sheet. The sheets were produced at a rate of 25 per hour.
+
+On January 23, 2026, the same next day flag was set to 'N.' The production achieved 600 sheets, with an actual total weight of 19.31 kg per sheet. The sheets were produced at a rate of 25 per hour.
+
+On January 24, 2026, the same next day flag was set to 'N.' The production achieved 430 sheets, with an actual total weight of 14.26 kg per sheet. The sheets were produced at a rate of 25 per hour.
+
+The comment "ST2219/2220/2221" refers to another production run. Under Ross order 254987 - ENSHAM, the DMW product is IMB45-421-5002-DEN, with the corresponding Ross code SMB5002101004. On January 24, 2026, the same next day flag was set to 'S.' The production achieved 120 sheets, with an actual total weight of 7.02 kg per sheet. The sheets were produced at a rate of 25 per hour.
+
+On January 25, 2026, the same next day flag was set to 'N.' No production was recorded, with planned totals and actual totals both at 0.0 kg. The sheets were produced at a rate of 25 per hour.
+
+On January 26, 2026, the same next day flag was set to 'N.' No production was recorded, with planned totals and actual totals both at 0.0 kg. The sheets were produced at a rate of 25 per hour.
+
+On January 27, 2026, the same next day flag was set to 'N.' No production was recorded, with planned totals and actual totals both at 0.0 kg. The sheets were produced at a rate of 25 per hour.
+
+On January 28, 2026, the same next day flag was set to 'N.' No production was recorded, with planned totals and actual totals both at 0.0 kg. The sheets were produced at a rate of 25 per hour.
+
+On January 29, 2026, the same next day flag was set to 'N.' No production was recorded, with planned totals and actual totals both at 0.0 kg. The sheets were produced at a rate of 25 per hour.
+
+On January 30, 2026, the same next day flag was set to 'N.' No production was recorded, with planned totals and actual totals both at 0.0 kg. The sheets were produced at a rate of 25 per hour.
+
+On January 31, 2026, the same next day flag was set to 'N.' No production was recorded, with planned totals and actual totals both at 0.0 kg. The sheets were produced at a rate of 25 per hour.
+
+On February 1, 2026, no planned or actual totals were recorded, and the production rate was 25 sheets per hour.
+
+On February 2, 2026, no planned or actual totals were recorded, and the production rate remained at 25 sheets per hour.
+
+On February 3, 2026, no planned or actual totals were recorded, and the production rate stayed at 25 sheets per hour.
+
+On February 4, 2026, no planned or actual totals were recorded, and the production rate continued at 25 sheets per hour.
+
+On February 5, 2026, no planned or actual totals were recorded, and the production rate was 25 sheets per hour.
+
+On February 6, 2026, no planned or actual totals were recorded, and the production rate remained at 25 sheets per hour.
+
+On February 7, 2026, no planned or actual totals were recorded, and the production rate stayed at 25 sheets per hour, marking the start of the seventh week.
+
+On February 8, 2026, no planned or actual totals were recorded, and the production rate remained at 25 sheets per hour.
+
+On February 9, 2026, no planned or actual totals were recorded, and the production rate continued at 25 sheets per hour.
+
+On February 10, 2026, no planned or actual totals were recorded, and the production rate stayed at 25 sheets per hour.
+
+On February 11, 2026, no planned or actual totals were recorded, and the production rate remained at 25 sheets per hour.
+
+On February 12, 2026, no planned or actual totals were recorded, and the production rate continued at 25 sheets per hour.
+
+On February 13, 2026, no planned or actual totals were recorded, and the production rate stayed at 25 sheets per hour.
+
+On February 14, 2026, no planned or actual totals were recorded, and the production rate remained at 25 sheets per hour.
+
+On February 15, 2026, no planned or actual totals were recorded, and the production rate continued at 25 sheets per hour, marking the start of the eighth week.
+
+On February 16, 2026, no planned or actual totals were recorded, and the production rate stayed at 25 sheets per hour.
+
+On February 17, 2026, no planned or actual totals were recorded, and the production rate remained at 25 sheets per hour.
+
+On February 18, 2026, no planned or actual totals were recorded, and the production rate continued at 25 sheets per hour.
+
+On February 19, 2026, no planned or actual totals were recorded, and the production rate stayed at 25 sheets per hour.
+
+On February 20, 2026, no planned or actual totals were recorded, and the production rate remained at 25 sheets per hour.
+
+On February 21, 2026, no sheets were processed, and the production rate was 25 sheets per hour. This activity took place during week 8.
+
+On February 22, 2026, no sheets were processed, and the production rate remained at 25 sheets per hour. This activity continued into week 9.
+
+On February 23, 2026, no sheets were processed, and the production rate stayed at 25 sheets per hour. The activity extended into week 9.
+
+On February 24, 2026, no sheets were processed, and the production rate was 25 sheets per hour. This activity persisted through week 9.
+
+On February 25, 2026, no sheets were processed, and the production rate was 25 sheets per hour. The activity continued into week 9.
+
+On February 26, 2026, no sheets were processed, and the production rate remained at 25 sheets per hour. This activity extended into week 9.
+
+On February 27, 2026, no sheets were processed, and the production rate stayed at 25 sheets per hour. The activity continued into week 9.
+
+On February 28, 2026, no sheets were processed, and the production rate was 25 sheets per hour. This activity concluded week 9.
+
+On March 1, 2026, no sheets were processed, and the production rate was 25 sheets per hour. The activity began week 10.
+
+On March 2, 2026, no sheets were processed, and the production rate remained at 25 sheets per hour. This activity continued into week 10.
+
+On March 3, 2026, no sheets were processed, and the production rate stayed at 25 sheets per hour. The activity extended into week 10.
+
+On March 4, 2026, no sheets were processed, and the production rate was 25 sheets per hour. This activity persisted through week 10.
+
+On March 5, 2026, no sheets were processed, and the production rate remained at 25 sheets per hour. The activity continued into week 10.
+
+On March 6, 2026, no sheets were processed, and the production rate stayed at 25 sheets per hour. The activity extended into week 10.
+
+On March 7, 2026, no sheets were processed, and the production rate was 25 sheets per hour. This activity concluded week 10.
+
+On March 8, 2026, no sheets were processed, and the production rate was 25 sheets per hour. The activity began week 11.
+
+On March 9, 2026, no sheets were processed, and the production rate remained at 25 sheets per hour. This activity continued into week 11.
+
+On March 10, 2026, no sheets were processed, and the production rate stayed at 25 sheets per hour. The activity extended into week 11.
+
+On March 11, 2026, no sheets were processed, and the production rate was 25 sheets per hour. This activity persisted through week 11.
+
+On March 12, 2026, no sheets were processed, and the production rate remained at 25 sheets per hour. The activity concluded week 11.
+
+On March 13, 2026, no sheets were processed, and the production rate was 25 sheets per hour. This activity took place during week 11.
+
+On March 14, 2026, no sheets were processed, and the production rate remained at 25 sheets per hour. The activity continued during week 11.
+
+On March 15, 2026, no sheets were processed, and the production rate was 25 sheets per hour. This activity shifted to week 12.
+
+On March 16, 2026, no sheets were processed, and the production rate stayed at 25 sheets per hour. The activity continued during week 12.
+
+On March 17, 2026, no sheets were processed, and the production rate was 25 sheets per hour. The activity moved into week 12.
+
+On March 18, 2026, no sheets were processed, and the production rate remained at 25 sheets per hour. The activity continued during week 12.
+
+On March 19, 2026, no sheets were processed, and the production rate was 25 sheets per hour. The activity progressed into week 12.
+
+On March 20, 2026, no sheets were processed, and the production rate stayed at 25 sheets per hour. The activity continued during week 12.
+
+On March 21, 2026, no sheets were processed, and the production rate was 25 sheets per hour. The activity moved into week 12.
+
+On March 22, 2026, no sheets were processed, and the production rate remained at 25 sheets per hour. The activity shifted to week 13.
+
+On March 23, 2026, no sheets were processed, and the production rate stayed at 25 sheets per hour. The activity continued during week 13.
+
+On March 24, 2026, no sheets were processed, and the production rate was 25 sheets per hour. The activity progressed into week 13.
+
+On March 25, 2026, no sheets were processed, and the production rate remained at 25 sheets per hour. The activity continued during week 13.
+
+On March 26, 2026, no sheets were processed, and the production rate was 25 sheets per hour. The activity moved into week 13.
+
+On March 27, 2026, no sheets were processed, and the production rate stayed at 25 sheets per hour. The activity continued during week 13.
+
+On March 28, 2026, no sheets were processed, and the production rate was 25 sheets per hour. The activity progressed into week 13.
+
+On March 29, 2026, no sheets were processed, and the production rate remained at 25 sheets per hour. The activity shifted to week 14.
+
+On March 30, 2026, no sheets were processed, and the production rate stayed at 25 sheets per hour. The activity continued during week 14.
+
+On March 31, 2026, no sheets were processed, and the production rate was 25 sheets per hour. The activity moved into week 14.
+
+On April 1, 2026, no sheets were processed, and the production rate remained at 25 sheets per hour. The activity continued during week 14.
+
+On April 2, 2026, the system recorded no same-day activity for week 14. The planned and actual total sheets processed were both zero, while the average sheets processed per hour was 25.

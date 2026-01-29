@@ -1,0 +1,24 @@
+{
+  "files": [
+    {"name": "Daily Production Report v1.xlsm_Annld Wire.csv", "transform": true},
+    {"name": "Daily Production Report v1.xlsm_Ausro.csv", "transform": true},
+    {"name": "Daily Production Report v1.xlsm_Clifford CLW12-2.csv", "transform": true},
+    {"name": "Daily Production Report v1.xlsm_Clifford CLW12.csv", "transform": true},
+    {"name": "Daily Production Report v1.xlsm_Clifford MMW.csv", "transform": true},
+    {"name": "Daily Production Report v1.xlsm_Clifford MWPA.csv", "transform": true},
+    {"name": "Daily Production Report v1.xlsm_Drawing GZ1.csv", "transform": true},
+    {"name": "Daily Production Report v1.xlsm_Drawing GZ2.csv", "transform": true},
+    {"name": "Daily Production Report v1.xlsm_Drawing GZ3.csv", "transform": true},
+    {"name": "Daily Production Report v1.xlsm_FLOK Weld.csv", "transform": true},
+    {"name": "Daily Production Report v1.xlsm_Galv Line 1.csv", "transform": true},
+    {"name": "Daily Production Report v1.xlsm_Galv Line 2.csv", "transform": true},
+    {"name": "Daily Production Report v1.xlsm_Galv Line 3.csv", "transform": true},
+    {"name": "Daily Production Report v1.xlsm_Mesh Trim.csv", "transform": true},
+    {"name": "Daily Production Report v1.xlsm_Roll Form.csv", "transform": true},
+    {"name": "Daily Production Report v1.xlsm_Schlatter PG12.csv", "transform": true},
+    {"name": "Daily Production Report v1.xlsm_Schlatter PG28.csv", "transform": true},
+    {"name": "Production Sheet.xlsm_Production C2.csv", "transform": true},
+    {"name": "Production Sheet.xlsm_Production Pittini.csv", "transform": true}
+  ],
+  "lookup_tables": []
+}

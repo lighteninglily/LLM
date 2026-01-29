@@ -1,0 +1,1007 @@
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,200 units of IMB45-46-4814-JCR identified by SMB48141015045 on April 28, 2025. Sheets per hour were 67.35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,200 units of IMB45-46-4814-JCR identified by SMB48141015045 on April 29, 2025. 40 units were achieved, and 400 units were after processing with 67.35 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,200 units of IMB45-46-4814-JCR identified by SMB48141015045 on April 30, 2025. 340 units were achieved, and 400 units were after processing with 80.49 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,200 units of IMB45-46-4814-JCR identified by SMB48141015045 on May 1, 2025. No units were achieved or after processing with 80.49 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,200 units of IMB45-46-4814-JCR identified by SMB48141015045 on May 2, 2025. 145 units were achieved, and 40 units were after processing with 80.49 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,400 units of IMB5-44-5014-JNA identified by CC5014101005 on May 2, 2025. 40 units were achieved, and 40 units were after processing with 80.49 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,400 units of IMB5-44-5014-JNA identified by CC5014101005 on May 3, 2025. 380 units were achieved, and 380 units were after processing with 80.49 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,400 units of IMB5-44-5014-JNA identified by CC5014101005 on May 4, 2025. 250 units were achieved, and 380 units were after processing with 80.49 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,400 units of IMB5-44-5014-JNA identified by CC5014101005 on May 5, 2025. 375 units were achieved, and 190 units were after processing with 80.49 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,000 units of IMB5-44-4524 identified by SMF4524101005 on May 6, 2025. 200 units were achieved, and 160 units were after processing with 80.49 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,000 units of IMB5-44-4524 identified by SMF4524101005 on May 7, 2025. 420 units were achieved, and 400 units were after processing with 80.49 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,200 units of IMB4H-44-5024 identified by SMB4H50241010 on May 8, 2025. 100 units were achieved, and 240 units were after processing with 80.49 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,200 units of IMB4H-44-5024 identified by SMB4H50241010 on May 9, 2025. 320 units were achieved, and 420 units were after processing with 80.49 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,200 units of IMB4H-44-5024 identified by SMB4H50241010 on May 10, 2025. 80 units were achieved, and no units were after processing with 80.49 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,200 units of IMB4H-44-5024 identified by SMB4H50241010 on May 11, 2025. No units were achieved or after processing with 80.49 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,200 units of IMB4H-44-5024 identified by SMB4H50241010 on May 12, 2025. No units were achieved or after processing with 80.49 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,200 units of IMB4H-44-5024 identified by SMB4H50241010 on May 13, 2025. No units were achieved or after processing with 80.49 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,464 units of IMB5-64-5113 JMOL (new) identified by SMB5113515105S on May 14, 2025. 40 units were achieved, and no units were after processing with 85.71 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,464 units of IMB5-64-5113 JMOL (new) identified by SMB5113515105S on May 15, 2025. 180 units were achieved, and 400 units were after processing with 85.71 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,464 units of IMB5-64-5113 JMOL (new) identified by SMB5113515105S on May 16, 2025. 460 units were achieved, and 400 units were after processing with 85.71 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,464 units of IMB5-64-5113 JMOL (new) on May 17, 2025. The job achieved 400 units on the first day with 400 kg of sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,464 units of IMB5-64-5113 JMOL (new) on May 18, 2025. The job achieved 320 units with 85.71428571428572 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,464 units of IMB5-64-5113 JMOL (new) on May 19, 2025. The job achieved 132 units with 85.71428571428572 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,200 units of IMG6GA-44-2715 on May 20, 2025. The job achieved 0 units with 117.85714285714288 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,200 units of IMG6GA-44-2715 on May 21, 2025. The job achieved 260 units with 117.85714285714288 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,200 units of IMG6GA-44-2715 on May 22, 2025. The job achieved 750 units with 117.85714285714288 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,160 units of IMB45-66-5117-DEN on May 23, 2025. The job achieved 420 units with 100 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,160 units of IMB45-66-5117-DEN on May 24, 2025. The job achieved 420 units with 100 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,160 units of IMB45-66-5117-DEN on May 25, 2025. The job achieved 350 units with 100 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,160 units of IMB45-66-5117-DEN on May 26, 2025. The job achieved 350 units with 100 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,160 units of IMB45-66-5117-DEN on May 27, 2025. The job achieved 350 units with 100 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 4,320 units of IMG5-44-5716 on May 28, 2025. The job achieved 150 units with 50 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 4,320 units of IMG5-44-5716 on May 29, 2025. The job achieved 320 units with 50 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 4,320 units of IMG5-44-5716 on May 30, 2025. The job achieved 320 units with 50 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 4,320 units of IMG5-44-5716 on May 31, 2025. The job achieved 320 units with 50 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 4,320 units of IMG5-44-5716 on June 1, 2025. The job achieved 320 units with 50 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 4,320 units of IMG5-44-5716 on June 2, 2025. The job achieved 280 units with 50 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 4,320 units of IMG5-44-5716 on June 3, 2025. The job achieved 320 units with 50 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 4,320 units of IMG5-44-5716 on June 4, 2025. The job achieved 300 units with 50 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 4,320 units of IMG5-44-5716 on June 5, 2025. The job achieved 0 units with 50 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 4,320 units of IMG5-44-5716 on June 6, 2025. Week 23.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 4,320 units of IMG5-44-5716 on June 7, 2025. Week 23.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 4,320 units of IMG5-44-5716 on June 8, 2025. Week 24.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 4,320 units of IMG5-44-5716 on June 9, 2025. Week 24. Achieved 280 units after 320 units were produced.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,080 units of IMB5-44-5716 on June 10, 2025. Week 24. Same day shipment.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,081 units of IMB5-44-5716 on June 11, 2025. Week 24. Achieved 200 units after 280 units were produced.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,082 units of IMB5-44-5716 on June 12, 2025. Week 24. Achieved 200 units after 200 units were produced.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 5,400 units of IMB5-44-5716 on June 12, 2025. Week 24. Same day shipment. Achieved 320 units after 40 units were produced.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 5,400 units of IMB5-44-5716 on June 13, 2025. Week 24. Achieved 320 units after 320 units were produced.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 5,400 units of IMB5-44-5716 on June 14, 2025. Week 24. Achieved 280 units after 280 units were produced.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 5,400 units of IMB5-44-5716 on June 15, 2025. Week 25. Achieved 280 units after 280 units were produced.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 5,400 units of IMB5-44-5716 on June 16, 2025. Week 25. Achieved 0 units after 320 units were produced.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 5,400 units of IMB5-44-5716 on June 17, 2025. Week 25. Achieved 240 units after 320 units were produced.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,000 units of IMB4H-44-5024 on June 18, 2025. Week 25. Achieved 380 units after 40 units were produced.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,000 units of IMB4H-44-5024 on June 19, 2025. Week 25. Achieved 300 units after 420 units were produced.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,000 units of IMB4H-44-5024 on June 20, 2025. Week 25. Achieved 380 units after 420 units were produced.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,000 units of IMB4H-44-5024 on June 21, 2025. Week 25. Achieved 240 units after 420 units were produced.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,000 units of IMB4H-44-5024 on June 22, 2025. Week 26. Achieved 130 units after 420 units were produced.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,260 units of IMB5-44-5716 on June 23, 2025. Week 26. Achieved 100 units after 40 units were produced.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 5,400 units of IMB5-44-5716 on June 23, 2025. Week 26. Same day shipment. Achieved 240 units after 320 units were produced.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,260 units of IMB5-44-5716 on June 24, 2025. Achieved 320 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,260 units of IMB5-44-5716 on June 25, 2025. Achieved 320 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,260 units of IMB5-44-5716 on June 26, 2025. Achieved 280 units with 87.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,260 units of IMB5-44-5716 on June 27, 2025. No production occurred.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,260 units of IMB5-44-5716 on June 28, 2025. Achieved 320 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,260 units of IMB5-44-5716 on June 29, 2025. Achieved 320 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,260 units of IMB5-44-5716 on June 30, 2025. Achieved 110 units with 34.375% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,696 units of IMB5-64-5113 JMOL (new) on June 30, 2025. Achieved 40 units with 10.74% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,696 units of IMB5-64-5113 JMOL (new) on July 1, 2025. Achieved 200 units with 55.56% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,696 units of IMB5-64-5113 JMOL (new) on July 2, 2025. Achieved 0 units with 0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,696 units of IMB5-64-5113 JMOL (new) on July 3, 2025. Achieved 420 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,696 units of IMB5-64-5113 JMOL (new) on July 4, 2025. Achieved 400 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,696 units of IMB5-64-5113 JMOL (new) on July 5, 2025. Achieved 420 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,696 units of IMB5-64-5113 JMOL (new) on July 6, 2025. Achieved 250 units with 68.42% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,848 units of IMB5-44-5014-JNA on July 7, 2025. Achieved 80 units with 4.32% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,848 units of IMB5-44-5014-JNA on July 8, 2025. Achieved 320 units with 87.78% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,848 units of IMB5-44-5014-JNA on July 9, 2025. Achieved 280 units with 15.28% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,848 units of IMB5-44-5014-JNA on July 10, 2025. Achieved 357 units with 19.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,200 units of IMB5-46-5016-JNA on July 11, 2025. Achieved 220 units with 18.33% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,200 units of IMB5-46-5016-JNA on July 12, 2025. Achieved 440 units with 36.67% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,200 units of IMB5-46-5016-JNA on July 12, 2025. Job number ST2047 was processed for BHP with 270 units achieved in the first shift.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,200 units of IMB5-46-5016-JNA on July 13, 2025. Job number ST2047 was processed for BHP with 440 units achieved in the day.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,200 units of IMB5-46-5016-JNA on July 14, 2025. Job number ST2047 was processed for BHP with 440 units achieved in the day.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,160 units of IMB45-66-5117-DEN on July 15, 2025. Job number ST2071 was processed for BHP with 80 units achieved in the first shift.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,160 units of IMB45-66-5117-DEN on July 16, 2025. Job number ST2071 was processed for BHP with 400 units achieved in the day.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,160 units of IMB45-66-5117-DEN on July 17, 2025. Job number ST2071 was processed for BHP with 400 units achieved in the day.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,160 units of IMB45-66-5117-DEN on July 18, 2025. Job number ST2071 was processed for BHP with 90 units achieved in the first shift.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,440 units of IMB4-44-4814-CCC on July 18, 2025. Job number ST2072 was processed for BHP with 80 units achieved in the first shift.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,440 units of IMB4-44-4814-CCC on July 19, 2025. Job number ST2072 was processed for BHP with 400 units achieved in the day.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,440 units of IMB4-44-4814-CCC on July 20, 2025. Job number ST2072 was processed for BHP with 400 units achieved in the day.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,440 units of IMB4-44-4814-CCC on July 21, 2025. Job number ST2072 was processed for BHP with 100 units achieved in the first shift.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,400 units of IMB5-44-5414-JEN on July 22, 2025. Job number ST2074 was processed for BHP with 120 units achieved in the first shift.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,400 units of IMB5-44-5414-JEN on July 23, 2025. Job number ST2074 was processed for BHP with 320 units achieved in the day.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,400 units of IMB5-44-5414-JEN on July 24, 2025. Job number ST2074 was processed for BHP with 360 units achieved in the day.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,400 units of IMB5-44-5414-JEN on July 25, 2025. Job number ST2074 was processed for BHP with 360 units achieved in the first shift.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 8,100 units of IMB5-44-5716 on July 26, 2025. Job number ST2075 was processed for BHP with 320 units achieved in the first shift.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 8,100 units of IMB5-44-5716 on July 27, 2025. Job number ST2075 was processed for BHP with 360 units achieved in the day.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 8,100 units of IMB5-44-5716 on July 28, 2025. Job number ST2075 was processed for BHP with 320 units achieved in the day.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 8,100 units of IMB5-44-5716 on July 29, 2025. Job number ST2076 was processed for BHP with 320 units achieved in the day.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 8,100 units of IMB5-44-5716 on July 30, 2025. Job number ST2076 was processed for BHP with 320 units achieved in the day.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 8,100 units of IMB5-44-5716 on July 31, 2025. The production run achieved 320 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 8,100 units of IMB5-44-5716 on August 1, 2025. The production run achieved 320 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 8,100 units of IMB5-44-5716 on August 2, 2025. The production run achieved 320 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 8,100 units of IMB5-44-5716 on August 3, 2025. The production run achieved 320 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 8,100 units of IMB5-44-5716 on August 4, 2025. The production run achieved 320 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 8,100 units of IMB5-44-5716 on August 5, 2025. The production run achieved 320 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 8,100 units of IMB5-44-5716 on August 6, 2025. The production run achieved 320 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 8,100 units of IMB5-44-5716 on August 7, 2025. The production run achieved 320 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 8,100 units of IMB5-44-5716 on August 8, 2025. The production run achieved 320 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 8,100 units of IMB5-44-5716 on August 9, 2025. The production run achieved 60 units with 7.4% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,200 units of IMB4H-44-5024 on August 9, 2025. The production run achieved 420 units with 35.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,200 units of IMB4H-44-5024 on August 10, 2025. The production run achieved 420 units with 100.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,200 units of IMB4H-44-5024 on August 11, 2025. The production run achieved 250 units with 83.3% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,800 units of IMB4H-44-5024 on August 11, 2025. The production run achieved 170 units with 94.4% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,800 units of IMB4H-44-5024 on August 12, 2025. The production run achieved 420 units with 100.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,800 units of IMB4H-44-5024 on August 13, 2025. The production run achieved 420 units with 100.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,000 units of IMB5-44-4824 on August 13, 2025. The production run achieved 200 units with 20.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,000 units of IMB5-44-4824 on August 14, 2025. The production run achieved 440 units with 88.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 did not produce any units on August 15, 2025.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 did not produce any units on August 16, 2025.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0.0 kg of IMGX4H4-44-5614-JMA on August 17, 2025. Week 34.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0.0 kg of IMGX4H4-44-5614-JMA on August 18, 2025. Week 34.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0.0 kg of IMGX4H4-44-5614-JMA on August 19, 2025. Week 34.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0.0 kg of IMGX4H4-44-5614-JMA on August 20, 2025. Week 34.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0.0 kg of IMGX4H4-44-5614-JMA on August 21, 2025. Week 34.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0.0 kg of IMGX4H4-44-5614-JMA on August 22, 2025. Week 34.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 22.2 kg of IMGX4H4-44-5614-JMA on August 23, 2025. Week 34.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 30.93 kg of IMGX4H4-44-5614-JMA on August 24, 2025. Week 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 30.93 kg of IMGX4H4-44-5614-JMA on August 25, 2025. Week 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 30.93 kg of IMGX4H4-44-5614-JMA on August 26, 2025. Week 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 30.93 kg of IMGX4H4-44-5614-JMA on August 27, 2025. Week 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 30.93 kg of IMGX4H4-44-5614-JMA on August 28, 2025. Week 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 30.93 kg of IMGX4H4-44-5614-JMA on August 29, 2025. Week 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 22.73 kg of IMGX4H4-44-5614-JMA on August 30, 2025. Week 35.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 22.73 kg of IMGX4H4-44-5614-JMA on August 31, 2025. Week 36.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 22.73 kg of IMGX4H4-44-5614-JMA on September 1, 2025. Week 36.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2160.0 kg of IMGX4H4-44-5614-JMA on September 2, 2025. Week 36. Order 251956 contains 2160.0 kg of IMGX4H4-44-5614-JMA for delivery to APPIN MINE, NSW. Achieved 160.0 kg on September 2, 2025.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2160.0 kg of IMGX4H4-44-5614-JMA on September 3, 2025. Week 36. Order 251956 contains 2160.0 kg of IMGX4H4-44-5614-JMA for delivery to APPIN MINE, NSW. Achieved 220.0 kg on September 3, 2025.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2160.0 kg of IMGX4H4-44-5614-JMA on September 4, 2025. Week 36. Order 251956 contains 2160.0 kg of IMGX4H4-44-5614-JMA for delivery to APPIN MINE, NSW. Achieved 250.0 kg on September 4, 2025.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2160.0 kg of IMGX4H4-44-5614-JMA on September 5, 2025. Week 36. Order 251956 contains 2160.0 kg of IMGX4H4-44-5614-JMA for delivery to APPIN MINE, NSW. Achieved 280.0 kg on September 5, 2025.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,160 units of IMGX4H4-44-5614-JMA on September 6, 2025. The production run achieved 250 units with 22.73 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,160 units of IMGX4H4-44-5614-JMA on September 7, 2025. The production run achieved 200 units with 22.73 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,160 units of IMGX4H4-44-5614-JMA on September 8, 2025. The production run achieved 200 units with 22.73 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,400 units of IMGX4H4-44-5614-JMA on September 8, 2025. The production run achieved 0 units with 22.73 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,400 units of IMGX4H4-44-5614-JMA on September 9, 2025. The production run achieved 50 units with 22.73 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,400 units of IMGX4H4-44-5614-JMA on September 10, 2025. The production run achieved 200 units with 22.73 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,400 units of IMGX4H4-44-5614-JMA on September 11, 2025. The production run achieved 250 units with 22.73 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,400 units of IMGX4H4-44-5614-JMA on September 12, 2025. The production run achieved 300 units with 22.73 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0 units of IMGX4H4-44-5614-JMA on September 13, 2025. The production run achieved 0 units with 22.73 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0 units of IMGX4H4-44-5614-JMA on September 14, 2025. The production run achieved 0 units with 22.73 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0 units of IMGX4H4-44-5614-JMA on September 15, 2025. The production run achieved 0 units with 22.73 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0 units of IMGX4H4-44-5614-JMA on September 16, 2025. The production run achieved 0 units with 22.73 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,400 units of IMGX4H4-44-5614-JMA on September 17, 2025. The production run achieved 250 units with 22.73 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,400 units of IMGX4H4-44-5614-JMA on September 18, 2025. The production run achieved 140 units with 22.73 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 960 units of IMGX4H4-46-5017-JAS on September 19, 2025. The production run achieved 300 units with 19.72 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 960 units of IMGX4H4-46-5017-JAS on September 20, 2025. The production run achieved 300 units with 19.72 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0 units of IMGX4H4-46-5017-JAS on September 21, 2025. The production run achieved 0 units with 19.72 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 960 units of IMGX4H4-46-5017-JAS on September 22, 2025. The production run achieved 0 units with 19.72 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 960 units of IMGX4H4-46-5017-JAS on September 23, 2025. The production run achieved 200 units with 19.72 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 960 units of IMGX4H4-46-5017-JAS on September 24, 2025. The production run achieved 200 units with 19.72 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,000 units of IMGX4H4-44-4811-JUL on September 25, 2025. Week 39 total quantity produced: 2,000 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,000 units of IMGX4H4-44-4811-JUL on September 26, 2025. Week 39 total quantity produced: 2,000 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,000 units of IMGX4H4-44-4811-JUL on September 27, 2025. Week 39 total quantity produced: 2,000 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,000 units of IMGX4H4-44-4811-JUL on September 28, 2025. Week 40 total quantity produced: 0 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,000 units of IMGX4H4-44-4811-JUL on September 29, 2025. Week 40 total quantity produced: 2,000 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,000 units of IMGX4H4-44-4811-JUL on September 30, 2025. Week 40 total quantity produced: 2,000 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,000 units of IMGX44H-44-5012-VGUW on October 1, 2025. Week 40 total quantity produced: 3,000 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,000 units of IMGX44H-44-5012-VGUW on October 2, 2025. Week 40 total quantity produced: 3,000 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,000 units of IMGX44H-44-5012-VGUW on October 3, 2025. Week 40 total quantity produced: 0 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,000 units of IMGX44H-44-5012-VGUW on October 5, 2025. Week 41 total quantity produced: 3,000 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,000 units of IMGX44H-44-5012-VGUW on October 6, 2025. Week 41 total quantity produced: 3,000 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,000 units of IMGX44H-44-5012-VGUW on October 7, 2025. Week 41 total quantity produced: 3,000 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,000 units of IMGX44H-44-5012-VGUW on October 8, 2025. Week 41 total quantity produced: 20 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SOUTH32 placed order PO-252563 on October 8, 2025. Order contains 50 units of IMGX4H4-46-5012-JKE for delivery to NEWCASTLE WAREHOUSE, NSW.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,584 units of IMB5-44-5014-JNA on October 9, 2025. Week 41 total quantity produced: 1,584 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 360 units of IMB5-44-5014-JNA on October 10, 2025. Week 41 total quantity produced: 360 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 360 units of IMB5-44-5014-JNA on October 11, 2025. Week 41 total quantity produced: 360 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 100 units of IMB5-44-5014-JNA on October 12, 2025. Week 42 total quantity produced: 100 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,200 units of IMGX44H-44-5012-JOA on October 13, 2025. Week 42 total quantity produced: 3,200 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,200 units of IMGX44H-44-5012-JOA identified by GXB50121010VGOC on October 14, 2025. Achieved 250 units with 7.843 kg/sheet on that day.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,200 units of IMGX44H-44-5012-JOA identified by GXB50121010VGOC on October 15, 2025. Achieved 40 units with 4.278 kg/sheet on that day.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,200 units of IMGX44H-44-5012-JOA identified by GXB50121010VGOC on October 16, 2025. Achieved 250 units with 7.5578 kg/sheet on that day.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,200 units of IMGX44H-44-5012-JOA identified by GXB50121010VGOC on October 17, 2025. Achieved 280 units with 3.9928 kg/sheet on that day.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,200 units of IMGX44H-44-5012-JOA identified by GXB50121010VGOC on October 18, 2025. Achieved 280 units with 3.9928 kg/sheet on that day.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,200 units of IMGX44H-44-5012-JOA identified by GXB50121010VGOC on October 19, 2025. Achieved 280 units with 3.9928 kg/sheet on that day.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0 units of IMGX44H-44-5012-JOA identified by GXB50121010VGOC on October 20, 2025.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0 units of IMGX44H-44-5012-JOA identified by GXB50121010VGOC on October 21, 2025. Achieved 280 units with 3.9928 kg/sheet on that day.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 280 units of IMGX44H-44-5012-JOA identified by GXB50121010VGOC on October 22, 2025. Achieved 280 units with 5.2762 kg/sheet on that day.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,800 units of IMB4H-44-5024 identified by SMB4H50241010 on October 23, 2025. Achieved 350 units with 10.8255 kg/sheet on that day.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 400 units of IMB4H-44-5024 identified by SMB4H50241010 on October 24, 2025. Achieved 420 units with 25.9812 kg/sheet on that day.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 400 units of IMB4H-44-5024 identified by SMB4H50241010 on October 25, 2025. Achieved 80 units with 15.465 kg/sheet on that day.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0 units of IMGX44H-44-5012-VGUW identified by GXB50121010VGUW on October 27, 2025.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 320 units of IMGX44H-44-5012-VGUW identified by GXB50121010VGUW on October 28, 2025. Achieved 150 units with 2.367 kg/sheet on that day.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 320 units of IMGX44H-44-5012-VGUW identified by GXB50121010VGUW on October 29, 2025. Achieved 280 units with 7.89 kg/sheet on that day.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 320 units of IMGX44H-44-5012-VGUW identified by GXB50121010VGUW on October 30, 2025. Achieved 280 units with 7.89 kg/sheet on that day.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0 units of IMGX44H-44-5012-VGUW identified by GXB50121010VGUW on October 31, 2025.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0 units of IMGX44H-44-5012-VGUW identified by GXB50121010VGUW on November 1, 2025.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0 units of IMGX44H-44-5012-VGUW identified by GXB50121010VGUW on November 2, 2025.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0 units of IMGX44H-44-5012-VGUW identified by GXB50121010VGUW on November 3, 2025.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,000 units of IMGX44H-44-5012-VGUW on November 3, 2025. Week 45 total quantity produced: 3,000 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,000 units of IMGX44H-44-5012-VGUW on November 4, 2025. Week 45 total quantity produced: 3,000 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,000 units of IMGX44H-44-5012-VGUW on November 5, 2025. Week 45 total quantity produced: 280 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,000 units of IMGX44H-44-5012-VGUW on November 6, 2025. Week 45 total quantity produced: 45 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,440 units of IMB4-44-4814-CCC on November 6, 2025. Week 45 total quantity produced: 144 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 380 units of IMB4-44-4814-CCC on November 7, 2025. Week 45 total quantity produced: 250 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0 units of IMB4-44-4814-CCC on November 8, 2025. Week 45 total quantity produced: 0 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0 units of IMB4-44-4814-CCC on November 9, 2025. Week 46 total quantity produced: 0 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 380 units of IMB4-44-4814-CCC on November 10, 2025. Week 46 total quantity produced: 360 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 50 units of IMGX45-44-4812 on November 11, 2025. Week 46 total quantity produced: 50 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 50 units of IMGX45-44-4812 on November 12, 2025. Week 46 total quantity produced: 50 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0 units of IMGX4H4-44-5614-JMA on November 13, 2025. Week 46 total quantity produced: 0 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0 units of IMGX4H4-44-5614-JMA on November 14, 2025. Week 46 total quantity produced: 280 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 280 units of IMGX4H4-44-5614-JMA on November 15, 2025. Week 46 total quantity produced: 150 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0 units of IMGX4H4-44-5614-JMA on November 16, 2025. Week 47 total quantity produced: 0 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0 units of IMGX4H4-44-5614-JMA on November 17, 2025. Week 47 total quantity produced: 0 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0 units of IMGX4H4-44-5614-JMA on November 18, 2025. Week 47 total quantity produced: 0 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0 units of IMGX4H4-44-5614-JMA on November 19, 2025. Week 47 total quantity produced: 0 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0 units of IMGX4H4-44-5614-JMA on November 20, 2025. Week 47 total quantity produced: 0 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0 units of IMGX4H4-44-5614-JMA on November 21, 2025. Week 47 total quantity produced: 0 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 50.0 units of IMGX45-44-4812 on November 24, 2025. Sheets per hour was 67.35 and SPM was 55.0.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 50.0 units of IMGX45-44-4812 on November 25, 22025. Sheets per hour was 67.35 and SPM was 55.0.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 50.0 units of IMGX45-44-4812 on November 26, 2025. Sheets per hour was 67.35 and SPM was 55.0. Achieved production was 50.0 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 50.0 units of IMGX45-44-4812 on November 27, 2025. Sheets per hour was 67.35 and SPM was 55.0. Achieved production was 50.0 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,160.0 units of IMGX45-44-5614 JMA on November 28, 2025. Sheets per hour was 57.89 and SPM was 55.0. Planned totals were 7.75.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,160.0 units of IMGX45-44-5614 JMA on November 29, 2025. Sheets per hour was 57.89 and SPM was 55.0. Planned totals were 13.56.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0.0 units of IMGX44H-44-5012-JOA on December 1, 2025. Sheets per hour was 80.49 and SPM was 55.0. Planned totals were 0.57.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 280.0 units of IMGX44H-44-5012-JOA on December 2, 2025. Sheets per hour was 80.49 and SPM was 55.0. Planned totals were 7.99.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 280.0 units of IMGX44H-44-5012-JOA on December 3, 2025. Sheets per hour was 80.49 and SPM was 55.0. Planned totals were 7.99.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 280.0 units of IMGX44H-44-5012-JOA on December 4, 2025. Sheets per hour was 80.49 and SPM was 55.0. Planned totals were 7.99.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 280.0 units of IMGX44H-44-5012-JOA on December 5, 2025. Sheets per hour was 80.49 and SPM was 55.0. Planned totals were 3.99.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0.0 units of IMGX44H-44-5012-JOA on December 6, 2025. Sheets per hour was 80.49 and SPM was 55.0.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0.0 units of IMGX44H-44-5012-JOA on December 7, 2025. Sheets per hour was 80.49 and SPM was 55.0.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 280.0 units of IMGX44H-44-5012-JOA on December 8, 2025. Sheets per hour was 80.49 and SPM was 55.0. Planned totals were 7.99.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 280.0 units of IMGX44H-44-5012-JOA on December 9, 2025. Sheets per hour was 80.49 and SPM was 55.0. Planned totals were 7.99.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 151.0 units of IMGX44H-44-5012-JOA on December 10, 2025. Sheets per hour was 80.49 and SPM was 55.0. Planned totals were 1.99.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0.0 units of IMGX45-44-5614 JMA on December 11, 2025. Sheets per hour was 57.89 and SPM was 55.0.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,160 units of IMGX45-44-5614 JMA on December 12, 2025. The production run achieved 160 units with 280 units remaining after the shift.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,160 units of IMGX45-44-5614 JMA on December 15, 2025. The production run achieved 160 units with 280 units remaining after the shift.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,160 units of IMGX45-44-5614 JMA on December 16, 2025. The production run achieved 250 units with 280 units remaining after the shift.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,160 units of IMGX45-44-5614 JMA on December 17, 2025. The production run achieved 200 units with 250 units remaining after the shift.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,160 units of IMGX45-44-5614 JMA on December 18, 2025. The production run achieved 220 units with 155 units remaining after the shift.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,200 units of IMGX4H4-44-4811-JUL on December 19, 2025. The production run achieved 51 units with 300 units remaining after the shift.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,200 units of IMGX4H4-44-4811-JUL on December 20, 2025. The production run achieved 38 units with 300 units remaining after the shift.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,188 units of IMB5-44-5014-JNA on December 20, 2025. The production run achieved 31 units with 170 units remaining after the shift.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,188 units of IMB5-44-5014-JNA on December 21, 2025. The production run achieved 320 units with 8.08 units remaining after the shift.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,188 units of IMB5-44-5014-JNA on December 22, 2025. The production run achieved 320 units with 8.08 units remaining after the shift.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,188 units of IMB5-44-5014-JNA on December 23, 2025. The production run achieved 320 units with 16.16 units remaining after the shift.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,188 units of IMB5-44-5014-JNA on December 24, 2025. The production run achieved 320 units with 11.3625 units remaining after the shift.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,188 units of IMB5-44-5014-JNA on December 24, 2025. The production run achieved 170 units with 4.2925 units remaining after the shift.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,188 units of IMB5-44-5014-JNA on December 26, 2025. The production run achieved 320 units with 16.9175 units remaining after the shift.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,188 units of IMB5-44-5014-JNA on December 27, 2025. The production run achieved 320 units with 8.08 units remaining after the shift.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,188 units of IMB5-44-5014-JNA on December 28, 2025. The production run achieved 230 units with 5.5706 units remaining after the shift.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,200 units of IMGX4H4-44-4811-JUL on December 29, 2025. The production run achieved 20 units with 40 units remaining after the shift.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,200 units of IMGX4H4-44-4811-JUL on December 30, 2025. Achieved 200 units on the same day.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,200 units of IMGX4H4-4811-JUL on December 31, 2025. Achieved 300 units on the same day.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,200 units of IMGX4H4-4811-JUL on January 1, 2026. No production on this day.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 100 units of IMGX4H4-4811-JUL on January 2, 2026. Achieved 90 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0 units of IMGX4H4-4811-JUL on January 3, 2026.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0 units of IMGX4H4-4811-JUL on January 4, 2026.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,080 units of IMB5-44-5716 on January 5, 2026. Achieved 80 units on the same day.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,080 units of IMB5-44-5716 on January 6, 2026. Achieved 300 units on the same day.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,080 units of IMB5-44-5716 on January 7, 2026. Achieved 101 units on the same day.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,584 units of IMB5-46-5016-JNA on January 8, 2026. Achieved 60 units on the same day.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,584 units of IMB5-46-5016-JNA on January 9, 2026. Achieved 360 units on the same day.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0 units of IMB5-46-5016-JNA on January 10, 2026.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0 units of IMB5-46-5016-JNA on January 11, 2026.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,584 units of IMB5-46-5016-JNA on January 12, 2026. Achieved 400 units on the same day.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 960 units of IMGX44H-44-5012-JOA on January 13, 2026. Achieved 0 units on the same day.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 960 units of IMGX44H-44-5012-JOA on January 14, 2026. Achieved 80 units on the same day.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 960 units of IMGX44H-44-5012-JOA on January 15, 2026. Achieved 280 units on the same day.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,600 units of IMGX44H-44-5012-JOA on January 16, 2026. Achieved 280 units on the same day.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0 units of IMGX44H-44-5012-JOA on January 17, 2026.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0 units of IMGX44H-44-5012-JOA on January 18, 2026.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,600 units of IMGX44H-44-5012-JOA identified by GXB50121010VGOC on January 19, 2026. Week 4 total quantity produced: 3,600 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,600 units of IMGX44H-44-5012-JOA identified by GXB50121010VGOC on January 20, 2026. Week 4 total quantity produced: 3,600 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,600 units of IMGX44H-44-5012-JOA identified by GXB50121010VGOC on January 21, 2026. Week 4 total quantity produced: 3,600 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,600 units of IMGX44H-44-5012-JOA identified by GXB50121010VGOC on January 22, 2026. Week 4 total quantity produced: 3,600 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,600 units of IMGX44H-44-5012-JOA identified by GXB50121010VGOC on January 23, 2026. Week 4 total quantity produced: 3,600 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 170 units of IMGX44H-44-5012-JOA identified by GXB50121010VGOC on January 24, 2026. Week 4 total quantity produced: 170 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0 units of IMGX44H-44-5012-JOA identified by GXB50121010VGOC on January 25, 2026. Week 5 total quantity produced: 0 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 600 units of IMGX45-44-5614 JMA identified by GXB5614101004G on January 26, 2026. Week 5 total quantity produced: 600 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 280 units of IMGX45-44-5614 JMA identified by GXB5614101004G on January 27, 2026. Week 5 total quantity produced: 280 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3240 units of imb45-66-5111 identified by SMB5112151504 on January 28, 2026. Week 5 total quantity produced: 3240 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 380 units of imb45-66-5111 identified by SMB5112151504 on January 29, 2026. Week 5 total quantity produced: 380 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 380 units of imb45-66-5111 identified by SMB5112151504 on January 30, 2026. Week 5 total quantity produced: 380 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0 units of imb45-66-5111 identified by SMB5112151504 on January 31, 2026. Week 5 total quantity produced: 0 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0 units of imb45-66-5111 identified by SMB5112151504 on February 1, 2026. Week 6 total quantity produced: 0 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 380 units of imb45-66-5111 identified by SMB5112151504 on February 2, 2026. Week 6 total quantity produced: 380 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 160 units of imb45-66-5111 identified by SMB5112151504 on February 3, 2026. Week 6 total quantity produced: 160 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 320 units of IMB5-44-5014-JNA identified by CC5014101005 on February 4, 2026. Week 6 total quantity produced: 320 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 320 units of IMB5-44-5014-JNA identified by CC5014101005 on February 5, 2026. Week 6 total quantity produced: 320 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 188 units of IMB5-44-5014-JNA identified by CC5014101005 on February 6, 2026. Week 6 total quantity produced: 188 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0 units of IMB5-44-5014-JNA identified by CC5014101005 on February 7, 2026. Week 6 total quantity produced: 0 units.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,188 units of IMB5-44-5014-JNA on February 9, 2026. Job number 254990-NARRABRI was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,188 units of IMB5-44-5014-JNA on February 10, 2026. Job number 254990-NARRABRI was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 4,000 units of IMG45-44-5016 on February 11, 2026. Job number 254985-Carbourough Downs was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 4,000 units of IMG45-44-5016 on February 12, 2026. Job number 254985-Carbourough Downs was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 4,000 units of IMG45-44-5016 on February 13, 2026. Job number 254985-Carbourough Downs was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0 units of IMG45-44-5016 on February 14, 2026.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0 units of IMG45-44-5016 on February 15, 2026.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 4,000 units of IMG45-44-5016 on February 16, 2026. Job number 254985-Carbourough Downs was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 4,000 units of IMG45-44-5016 on February 17, 2026. Job number 254985-Carbourough Downs was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 4,000 units of IMG45-44-5016 on February 18, 2026. Job number 254985-Carbourough Downs was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 4,000 units of IMG45-44-5016 on February 19, 2026. Job number 254985-Carbourough Downs was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 4,000 units of IMG45-44-5016 on February 20, 2026. Job number 254985-Carbourough Downs was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 120 units of IMG45-44-5016 on February 20, 2026. Job number 254985-Carbourough Downs was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,000 units of IMB5-44-5716 on February 23, 2026. Job number 254996-DSI was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,000 units of IMB5-44-5716 on February 24, 2026. Job number 254996-DSI was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 300 units of IMB5-44-5716 on February 25, 2026. Job number 254996-DSI was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,800 units of IMGX4H4-44-4811-JUL on February 26, 2026. Job number 255298-Ulan #3 was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 280 units of IMGX4H4-44-4811-JUL on February 27, 2026. Job number 255298-Ulan #3 was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 80.0 units of IMGX4H4-4811-JUL on March 4, 2026. The production run achieved 80.0 units with 14.98 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 40.0 units of IMB55H-46-5017 JASH on March 5, 2026. The production run achieved 40.0 units with 28.27 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 380.0 units of IMB55H-46-5017 JASH on March 6, 2026. The production run achieved 380.0 units with 28.27 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0.0 units of IMB55H-46-5017 JASH on March 7, 2026. The production run achieved 0.0 units with 28.27 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0.0 units of IMB55H-46-5017 JASH on March 8, 2026. The production run achieved 0.0 units with 28.27 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 380.0 units of IMB55H-46-5017 JASH on March 9, 2026. The production run achieved 360.0 units with 28.27 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0.0 units of IMB5-44-5014-JNA on March 10, 2026. The production run achieved 40.0 units with 25.25 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 320.0 units of IMB5-44-5014-JNA on March 11, 2026. The production run achieved 320.0 units with 25.25 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 320.0 units of IMB5-44-5014-JNA on March 12, 2026. The production run achieved 190.0 units with 25.25 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0.0 units of IMB5-46-5016-JNA on March 13, 2026. The production run achieved 50.0 units with 24.54 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 0.0 units of IMB5-46-5016-JNA on March 14, 2026. The production run achieved 0.0 units with 25.25 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 380.0 units of IMB5-46-5016-JNA on March 16, 2026. The production run achieved 380.0 units with 24.54 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 380.0 units of IMB5-46-5016-JNA on March 17, 2026. The production run achieved 0.0 units with 24.54 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 40.0 units of IMGX44H-44-5012-JOA on March 18, 2026. The production run achieved 280.0 units with 14.26 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 280.0 units of IMGX44H-44-5012-JOA on March 19, 2026. The production run achieved 280.0 units with 14.26 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 2,400 units of IMGX44H-44-5012-JOA on March 20, 2026. The production run achieved 7.9856 kg/sht with 80.4878 sheets/hour and 55.0 spm.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,240 units of IMB45-66-5111-JEN2 on March 25, 2026. The production run achieved 0.4904 kg/sht with 80.4878 sheets/hour and 55.0 spm.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,240 units of IMB45-66-5111-JEN2 on March 26, 2026. The production run achieved 9.3176 kg/sht with 80.4878 sheets/hour and 55.0 spm.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,240 units of IMB45-66-5111-JEN2 on March 27, 2026. The production run achieved 9.3176 kg/sht with 80.4878 sheets/hour and 55.0 spm.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,240 units of IMB45-66-5111-JEN2 on March 30, 2026. The production run achieved 9.3176 kg/sht with 80.4878 sheets/hour and 55.0 spm.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,240 units of IMB45-66-5111-JEN2 on March 31, 2026. The production run achieved 9.3176 kg/sht with 80.4878 sheets/hour and 55.0 spm.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 3,240 units of IMB45-66-5111-JEN2 on April 1, 2026. The production run achieved 1.9616 kg/sht with 80.4878 sheets/hour and 55.0 spm.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,440 units of IMB4-44-4814-CCC on April 2, 2026. The production run achieved 5.1804 kg/sht with 80.4878 sheets/hour and 55.0 spm.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,440 units of IMB4-44-4814-CCC on April 3, 2026. The production run achieved 9.2096 kg/sht with 80.4878 sheets/hour and 55.0 spm.
+
+[Source: Daily Production Report v1.xlsm_Schlatter PG28.csv | Type: production_record]
+SCHLATTER PG28 produced 1,440 units of IMB4-44-4814-CCC on April 6, 2026. The production run achieved 6.3316 kg/sht with 80.4878 sheets/hour and 55.0 spm.

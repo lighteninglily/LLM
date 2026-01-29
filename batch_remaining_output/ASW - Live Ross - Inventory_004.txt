@@ -1,0 +1,65 @@
+MT - ASW Goods in Transit Overseas warehouse holds steel mesh products. Part code SMF45121001005G is described as 100x100x4500x1200 Ind meshIMG5-44-4512, with an inventory count of 0 units.
+
+MT - ASW Goods in Transit Overseas warehouse holds steel mesh products. Part code SMF46110102005G is described as 100x200x4.6x1.1x5mm Weld MeshIMG5-48-4611, with an inventory count of 0 units.
+
+MT - ASW Goods in Transit Overseas warehouse holds steel mesh products. Part code SMF46150102005G is described as 100x200x4600x1500 Ind MeshIMG5-48-4615, with an inventory count of 0 units.
+
+MT - ASW Goods in Transit Overseas warehouse holds steel mesh products. Part code SMF4814101004 is described as MESH 100X100X4800X1400X4MM BLACK, with an inventory count of 0 units.
+
+MT - ASW Goods in Transit Overseas warehouse holds steel mesh products. Part code SMF48150102005G is described as 100x200x4750x1100 Ind MeshIMG5-48-4711, with an inventory count of 0 units.
+
+MT - ASW Goods in Transit Overseas warehouse holds steel mesh products. Part code SMF5H240301010G is described as 100x100x2400x300x5.6IMG5H-44-2403, with an inventory count of 0 units.
+
+MT - ASW Goods in Transit Overseas warehouse holds steel mesh products. The part code SMF5H241201010G, described as 100x100x2400x1200x5.6 Ind MeshIMG5H-44-2412, has an inventory count of 1100 units available, with no other quantities recorded such as picked, despatched, reserved, awaiting confirm out, or unconfirmed.
+
+MT - ASW Goods in Transit Overseas warehouse contains no stock for part code SMF5H242401010G, which is described as USE CODE CCP24241010056GIMG5H-44-2424. The inventory status indicates zero units across all categories including available quantity.
+
+MT - ASW Goods in Transit Overseas warehouse also lacks stock for part code SMF5H30241010G, described as 100x100x3000x2400x5.6 Ind MeshIMG5H-44-3024-IND. The inventory status shows zero units available.
+
+MT - ASW Goods in Transit Overseas warehouse does not have any stock for part code SMF5H45181010G, described as 100x100x4500x1800x5.6 Ind MeshIMG5H-44-4518. The inventory status reflects zero units across all categories.
+
+MT - ASW Goods in Transit Overseas warehouse has no stock for part code SMF5H60151515G, described as 150x150x6000x1500x5.6 CtlIMG5H-66-6015. The inventory status indicates zero units available.
+
+MT - ASW Goods in Transit Overseas warehouse does not hold any stock for part code SMF60121000504G, described as 100x50x6000x1200x4mm Ind MeshIMG4-42-6012. The inventory status shows zero units across all categories.
+
+MT - ASW Goods in Transit Overseas warehouse lacks stock for part code SMF60121001005G, described as 100x100x6000x1200x5 Ind MeshIMG5-44-6012. The inventory status indicates zero units available.
+
+MT - ASW Goods in Transit Overseas warehouse does not have any stock for part code SMF60150102005G, described as 100x200x6000x1500 Ind MeshIMG5-48-6015. The inventory status reflects zero units across all categories.
+
+MT - ASW Goods in Transit Overseas warehouse contains no stock for part code SROL11005C305B, described as 100x150mm 5mm 1100x30000mm Black mild steel, steel rolls. The inventory status shows zero units available.
+
+MT - ASW Goods in Transit Overseas warehouse does not hold any stock for part code SROL11005C305G, described as 100x150x30mx1100x5 Shpyrd coilIMG5-46-1100C30. The inventory status indicates zero units across all categories.
+
+MT - ASW Goods in Transit Overseas warehouse lacks stock for part code SROL15005C305B, described as 100x150mm 5mm 1500x30000mm black mild steel, steel rolls. The inventory status shows zero units available.
+
+MT - ASW Goods in Transit Overseas warehouse does not have any stock for part code SROL1500C305G, described as 100x200x1500x30mx5mmIMG5-48-15C30. The inventory status reflects zero units across all categories.
+
+MT - ASW Goods in Transit Overseas warehouse contains no stock for part code SROLL1800C60, described as Mesh Rolls 1800x60mIMB4-44-18C60. The inventory status shows zero units available.
+
+MT - ASW Goods in Transit Overseas warehouse does not hold any stock for part code SSM2412101004, described as 100x100x4x2400x1200x4.0SSIMSS4-44-2412. The inventory status indicates zero units across all categories.
+
+MT - ASW Goods in Transit Overseas warehouse lacks stock for part code SSM2412101005, described as 100x100x5x2400x1200x5.6 SSIMSS5-44-2412. The inventory status shows zero units available.
+
+MT - ASW Goods in Transit Overseas warehouse does not have any stock for part code SSM2412252503, described as 25x25x2400x1200x3mm SS316IMSS3-11-2412. The inventory status reflects zero units across all categories.
+
+MT - ASW Goods in Transit Overseas warehouse lacks stock for part code SSM2412505003, described as 50x50x3x2400x1200x3 SSIMSS3-22-2412. The inventory status shows zero units available.
+
+MT - ASW Goods in Transit Overseas warehouse does not hold any stock for part code SSM2412505004, described as 50x50x2400x1200x4 SSIMSS4-22-2412. The inventory status indicates zero units across all categories.
+
+MT - ASW Goods in Transit Overseas warehouse lacks stock for part code SSM2412505005, described as 50x50x2400x1200x5mm SS316IMSS5-22-2412. The inventory status shows zero units available.
+
+MT - ASW Goods in Transit Overseas warehouse does not have any stock for part code SSM2412505005, described as 50x50x2400x1200x5mm SS316IMSS5-22-2412. The inventory status reflects zero units across all categories.
+
+MT - ASW Goods in Transit Overseas warehouse contains no stock for part code SSM2H24122525, described as 25x25x2400x1200x2.5mm SS316IMSS2H-11-2412. The inventory status shows zero units available.
+
+MT - ASW Goods in Transit Overseas holds steel mesh products, including part SYARD091015C30G, described as 100x150x30mx900x5 Shpyard Coil IMG5-46-0900C30. The inventory status indicates zero levels across all metrics, with an item unit of measure being each (EA).
+
+MT - ASW Goods in Transit Overseas also stores part SYARD600910155G, which is a 100x150x6000x900x5 Sheepyard IMG5-46-6009. Similar to the previous part, the inventory status shows zero levels for all metrics, and the unit of measure is each (EA).
+
+Another part, SYARD601110155G, found in MT - ASW Goods in Transit Overseas, is described as 100x150x6000x1100x5 Sheepyard IMG5-46-6011. Like the others, it has zero levels for all inventory metrics, and the unit of measure is each (EA).
+
+MT - ASW Goods in Transit Overseas contains tank mesh rolls, specifically part TMESH1200C60, known as Tank Mesh Rolls 1200x60m IMGB4-44-1200C60. The inventory status reflects zero levels for all metrics, and the unit of measure is each (EA).
+
+Part TMESH1550C60, also stored in MT - ASW Goods in Transit Overseas, is referred to as Tank Mesh Rolls 1550x60m IMGB4-44-1550C60. It too has zero levels for all inventory metrics, and the unit of measure is each (EA).
+
+Lastly, MT - ASW Goods in Transit Overseas keeps VEE Mesh 2400 long, identified by part code VMESH240024024G, described as IMG4-1H3-2402V. The inventory status shows zero levels for all metrics, and the unit of measure is each (EA).

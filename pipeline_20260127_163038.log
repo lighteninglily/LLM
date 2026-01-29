@@ -1,0 +1,9 @@
+=== Starting Full Pipeline at Tue Jan 27 16:30:38 AWST 2026 ===
+
+=== STEP 1: Transforming all batches ===
+
+--- Processing v2_batch1 ---
+2026-01-27 16:30:38,231 [INFO] Read 2246 records from ASW - Live Ross - Inventory.csv
+2026-01-27 16:30:38,257 [INFO]   Normalized entity names for 2246 records
+2026-01-27 16:30:38,257 [INFO] Transforming ASW - Live Ross - Inventory.csv: 2246 records in 113 batches
+  ASW - Live Ross - Inventory.csv:   0%|          | 0/113 [00:00<?, ?it/s]  ASW - Live Ross - Inventory.csv:   1%|          | 1/113 [00:11<21:24, 11.47s/it]  ASW - Live Ross - Inventory.csv:   2%|▏         | 2/113 [00:21<19:24, 10.49s/it]  ASW - Live Ross - Inventory.csv:   3%|▎         | 3/113 [00:32<19:33, 10.67s/it]  ASW - Live Ross - Inventory.csv:   4%|▎         | 4/113 [00:43<20:11, 11.12s/it]  ASW - Live Ross - Inventory.csv:   4%|▍         | 5/113 [00:56<21:07, 11.74s/it]  ASW - Live Ross - Inventory.csv:   5%|▌         | 6/113 [01:07<20:29, 11.49s/it]  ASW - Live Ross - Inventory.csv:   6%|▌         | 7/113 [01:16<18:39, 10.56s/it]  ASW - Live Ross - Inventory.csv:   7%|▋         | 8/113 [01:28<19:24, 11.09s/it]  ASW - Live Ross - Inventory.csv:   8%|▊         | 9/113 [01:33<15:59,  9.23s/it]  ASW - Live Ross - Inventory.csv:   9%|▉         | 10/113 [01:43<16:14,  9.46s/it]  ASW - Live Ross - Inventory.csv:  10%|▉         | 11/113 [01:55<17:02, 10.02s/it]

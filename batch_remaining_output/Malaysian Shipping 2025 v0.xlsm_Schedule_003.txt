@@ -1,0 +1,999 @@
+DMW shipped a container, BMOU1046728, to Fremantle under CIF terms. This container carried 8.60mm Ribbed Wire in Spools D500L8.6-Spools. It was loaded on August 15, 2025, and sailed on August 12, 2025. The container weighed 23,977 kg and contained 24 units of the specified wire part. The shipment was completed on August 17, 2025.
+
+DMW shipped a container, PRSU1629810, to Fremantle under CIF terms. This container carried 8.60mm Ribbed Wire in Spools D500L8.6-Spools. It was loaded on August 15, 2025, and sailed on August 13, 2025. The container weighed 24,023 kg and contained 24 units of the specified wire part. The shipment was completed on August 17, 2025.
+
+DMW shipped a container, CSNU1273062, to Fremantle under CIF terms. This container carried 6.0mm Ribbed Wire in Spools D500L6.0-Spools. It was loaded on August 15, 2025, and sailed on August 12, 2025. The container weighed 24,074 kg and contained 24 units of the specified wire part. The shipment was completed on August 17, 2025.
+
+DMW shipped a container, OOLU0514814, to Fremantle under CIF terms. This container carried 5.55mm Galv Wire In Coils COILGW5.6. It was loaded on August 15, 2025, and sailed on August 15, 2025. The container weighed 24,450 kg and contained 10 units of the specified wire part. The shipment was completed on August 17, 2025.
+
+DMW shipped a container, BSIU3257746, to Pakistan under FOB terms. This container carried Galv Wire 6GA A1064. It was loaded on August 15, 2025, and sailed on August 21, 2025. The container weighed 19,435 kg and contained 8 units of the specified wire part. The shipment was completed on August 26, 2025.
+
+DMW shipped another container, SEGU1088253, to Pakistan under FOB terms. This container carried Galv Wire 6GA A1064. It was loaded on August 15, 2025, and sailed on August 21, 2025. The container weighed 19,275 kg and contained 8 units of the specified wire part. The shipment was completed on August 26, 2025.
+
+DMW shipped a container, UACU3890121, to Pakistan under FOB terms. This container carried Galv Wire 6GA A1064. It was loaded on August 15, 2025, and sailed on August 21, 2025. The container weighed 19,210 kg and contained 8 units of the specified wire part. The shipment was completed on August 26, 2025.
+
+DMW shipped a container, UACU3765808, to Pakistan under FOB terms. This container carried Galv Wire 6GA A1064. It was loaded on August 15, 2025, and sailed on August 21, 2025. The container weighed 19,385 kg and contained 8 units of the specified wire part. The shipment was completed on August 26, 2025.
+
+DMW shipped a container, UACU4066132, to Pakistan under FOB terms. This container carried Galv Wire 6GA A1064. It was loaded on August 15, 2025, and sailed on August 22, 2025. The container weighed 19,305 kg and contained 8 units of the specified wire part. The shipment was completed on August 26, 2025.
+
+DMW shipped a container, CAIU2564212, to Pakistan under FOB terms. This container carried Galv Wire 6GA A1064. It was loaded on August 15, 2025, and sailed on August 22, 2025. The container weighed 19,290 kg and contained 8 units of the specified wire part. The shipment was completed on August 26, 2025.
+
+DMW shipped a container, UACU3821326, to Pakistan under FOB terms. This container carried Galv Wire 6GA A1064. It was loaded on August 15, 2025, and sailed on August 23, 2025. The container weighed 19,235 kg and contained 8 units of the specified wire part. The shipment was completed on August 26, 2025.
+
+DMW shipped a container, FCIU6647946, to Pakistan under FOB terms. This container carried Galv Wire 6GA A1064. It was loaded on August 15, 2025, and sailed on August 23, 2025. The container weighed 19,345 kg and contained 8 units of the specified wire part. The shipment was completed on August 26, 2025.
+
+DMW shipped a container, UACU4120212, to Pakistan under FOB terms. This container carried Galv Wire 6GA A1064. It was loaded on August 15, 2025, and sailed on August 23, 2025. The container weighed 19,305 kg and contained 8 units of the specified wire part. The shipment was completed on August 26, 2025.
+
+DMW shipped a container, TCLU2759057, to Pakistan under FOB terms. This container carried Galv Wire 6GA A1064. It was loaded on August 15, 2025, and sailed on August 23, 2025. The container weighed 19,370 kg and contained 8 units of the specified wire part. The shipment was completed on August 26, 2025.
+
+DMW shipped a container, TCLU2251111, to Pakistan under FOB terms. This container carried Galv Wire 6GA A1064. It was loaded on August 15, 2025, and sailed on August 22, 2025. The container weighed 19,260 kg and contained 8 units of the specified wire part. The shipment was completed on August 26, 2025.
+
+DMW shipped a container, HLXU1092678, to Pakistan under FOB terms. This container carried Galv Wire 6GA A1064. It was loaded on August 15, 2025, and sailed on August 22, 2025. The container weighed 19,280 kg and contained 8 units of the specified wire part. The shipment was completed on August 26, 2025.
+
+DMW supplied Galv Wire 6GA A1064 to PK under FOB terms for order 581529. The parts were loaded into containers PRSU1599377, TCLU2847353, MAXU1367313, HLXU1316973, SEGU3579873, HLXU1144684, TEMU1304615, and TGHU1231505 on the Hope C during voyage 033S. The containers were sealed with HLC3946612, HLC3946645, HLC3946649, HLC3946644, HLC3946642, HLC3946671, HLC3946643, and HLC3946646 respectively. The shipping instructions were given on August 15, 2025, and the containers were shipped out on August 23 to 24, 2025. The total weight of each container was 19310.0 kg, 19230.0 kg, 19285.0 kg, 19420.0 kg, 19165.0 kg, 19345.0 kg, 19225.0 kg, and 19385.0 kg respectively. The shipments were marked as shipped on August 25, 2025, and closed on August 26, 2025.
+
+DMW also supplied Galv Wire 6GA A1064 to PK under FOB terms for order 581529. The parts were loaded into containers OOCU7879422 and CBHU7093516 on the RIO GRANDE during voyage 036S. The containers were sealed with OOL KAH 5100 and OOL KAF 6206 respectively. The shipping instructions were given on August 15, 2025, and the containers were shipped out on August 17, 2025. The total weight of each container was 18984.6 kg. The shipments were marked as shipped on August 19, 2025, and closed on August 15, 2025.
+
+DMW supplied 100x100x5000x2400x4.50 IndMesh IMB4H-44-5024 and Glut 90x90x300 to Adelaide under CIF terms for orders 252091 and 252388. The parts were loaded into containers OOCU7879422, CBHU7093516, and CAAU6147132 on the RIO GRANDE during voyage 036S. The containers were sealed with OOL KAH 5100, OOL KAF 6206, and OOL KAH 5084 respectively. The shipping instructions were given on August 15, 2025, and the containers were shipped out on August 17, 2025. The total weight of each container was 18984.6 kg. The shipments were marked as shipped on August 19, 2025, and closed on August 15, 2025.
+
+DMW supplied 100x100x5000x2400x4.50 IndMesh IMB4H-44-5024 and Glut 90x90x300 to Adelaide under CIF terms for orders 252091 and 252388. The parts were loaded into containers OOCU8615954 and FSCU8944921 on the RIO GRANDE during voyage 036S. The containers were sealed with OOL KAF 6200 and OOL KAF 6210 respectively. The shipping instructions were given on August 15, 2025, and the containers were shipped out on August 18, 2025. The total weight of each container was 18984.6 kg. The shipments were marked as shipped on August 19, 2025, and closed on August 15, 2025.
+
+DMW supplied MESH MINE 4.5MX2.4M 100X100 AP IMB5-44-4824 and Black Mesh -IMB5-64-5113-JMOL to Brisbane under CIF terms for orders 252134 and 252543. The parts were loaded into container CSNU6317184 on the RIO GRANDE during voyage 036S. The container was sealed with 30053861. The shipping instructions were given on August 15, 2025, and the container was shipped out on August 22, 2025. The total weight of the container was 19765.2 kg. The shipments were marked as shipped on August 25, 2025, and closed on August 25, 2025.
+
+DMW supplied friction lox bolts 47mmx2400mm - gal 150 bolts per pack to Sydney with shipment ID 5693. The container OOLU0309234 was sealed with code 30059656 and loaded onto the vessel Rio Grande during voyage 036S. Instructions were given on August 22, 2025, and the shipment was marked as shipped on August 29, 2025. The closing date was August 30, 2025.
+
+DMW supplied friction lox bolts 47mmx2400mm - gal 150 bolts per pack to Sydney with shipment ID 5694. The container OOCU0435154 was sealed with code 30053726 and loaded onto the vessel Rio Grande during voyage 036S. Instructions were given on August 22, 2025, and the shipment was marked as shipped on August 29, 2025. The closing date was August 30, 2025.
+
+DMW supplied friction lox bolts 47mmx2400mm - gal 150 bolts per pack to Sydney with shipment ID 5695. The container CSLU1897159 was sealed with code 30053785 and loaded onto the vessel Rio Grande during voyage 036S. Instructions were given on August 22, 2025, and the shipment was marked as shipped on August 29, 2025. The closing date was August 30, 2025.
+
+DMW supplied friction lox bolts 47mmx2400mm - gal 150 bolts per pack to Sydney with shipment ID 5696. The container CSNU2121716 was sealed with code 30055843 and loaded onto the vessel Rio Grande during voyage 036S. Instructions were given on August 22, 2025, and the shipment was marked as shipped on August 29, 2025. The closing date was August 30, 2025.
+
+DMW supplied 5.55mm galvanized wire in coils COILGW5.6 to Fremantle with shipment ID 5697. The container CBHU4404527 was sealed with code OOL KTS 0289 and loaded onto the vessel Olympic Bay during voyage 136S. Instructions were given on August 22, 2025, and the shipment was marked as shipped on August 25, 2025. The closing date was August 28, 2025.
+
+DMW supplied 5.55mm galvanized wire in coils COILGW5.6 to Fremantle with shipment ID 5697. The container CBHU4404527 was sealed with code OOL KTS 0289 and loaded onto the vessel Olympic Bay during voyage 136S. Instructions were given on August 22, 2025, and the shipment was marked as shipped on August 25, 2025. The closing date was August 28, 2025.
+
+DMW supplied 5.55mm galvanized wire in coils COILGW5.6 to Fremantle with shipment ID 5698. The container FCIU5114942 was sealed with code OOL KTS 0290 and loaded onto the vessel Olympic Bay during voyage 136S. Instructions were given on August 22, 2025, and the shipment was marked as shipped on August 25, 2025. The closing date was August 28, 2025.
+
+DMW supplied 5.55mm galvanized wire in coils COILGW5.6 to Fremantle with shipment ID 5698. The container FCIU5114942 was sealed with code OOL KTS 0290 and loaded onto the vessel Olympic Bay during voyage 136S. Instructions were given on August 22, 2025, and the shipment was marked as shipped on August 25, 2025. The closing date was August 28, 2025.
+
+DMW supplied 5.55mm galvanized wire in coils COILGW5.6 to Fremantle with shipment ID 5699. The container UETU2478602 was sealed with code OOL KTS 0310 and loaded onto the vessel Olympic Bay during voyage 136S. Instructions were given on August 22, 2025, and the shipment was marked as shipped on August 25, 2025. The closing date was August 28, 2025.
+
+DMW supplied 5.55mm galvanized wire in coils COILGW5.6 to Fremantle with shipment ID 5699. The container UETU2478602 was sealed with code OOL KTS 0310 and loaded onto the vessel Olympic Bay during voyage 136S. Instructions were given on August 22, 2025, and the shipment was marked as shipped on August 25, 2025. The closing date was August 28, 2025.
+
+DMW supplied 5.55mm galvanized wire in coils COILGW5.6 to Fremantle with shipment ID 5700. The container CSLU1328743 was sealed with code OOL KTS 0308 and loaded onto the vessel Olympic Bay during voyage 136S. Instructions were given on August 22, 2025, and the shipment was marked as shipped on August 25, 2025. The closing date was August 28, 2025.
+
+DMW supplied 5.55mm galvanized wire in coils COILGW5.6 to Fremantle with shipment ID 5700. The container CSLU1328743 was sealed with code OOL KTS 0308 and loaded onto the vessel Olympic Bay during voyage 136S. Instructions were given on August 22, 2025, and the shipment was marked as shipped on August 25, 2025. The closing date was August 28, 2025.
+
+DMW supplied mesh mine 4.5mx2.4m 100x100 ap img5h-44-4524_jen and imzgh-305h-64h24h to Fremantle with shipment ID 5701. The container FBIU4013088 was sealed with code OOL KTS 0311 and loaded onto the vessel Kota Lambai during voyage 180S. Instructions were given on August 22, 2025, and the shipment was marked as shipped on August 28, 2025. The closing date was September 1, 2025.
+
+DMW supplied 3.2m shear cut machine to Fremantle with shipment ID 5702. The container CBHU4396864 was sealed with code OOL KTS 0294 and loaded onto the vessel Olympic Bay during voyage 136S. Instructions were given on August 22, 2025, and the shipment was marked as shipped on August 25, 2025. The closing date was August 26, 2025.
+
+DMW supplied 5.55mm galvanized wire in coils COILGW5.6 to Fremantle with shipment ID 5703. The container TGBU2188119 was sealed with code OOL KTS 0311 and loaded onto the vessel Olympic Bay during voyage 136S. Instructions were given on August 22, 2025, and the shipment was marked as shipped on August 28, 2025. The closing date was August 26, 2025.
+
+DMW supplied shotcrete mesh 3.00mx1.17m 4mm wire - gal img4d-66-3012 and black mesh -imb5-64-5113-jmol to Brisbane with shipment ID 5704. The container OOCU8441370 was sealed with code OOL KJQ7805 and loaded onto the vessel Rio Grande during voyage 036S. Instructions were given on August 22, 2025, and the shipment was marked as shipped on August 27, 2025. The closing date was August 26, 2025.
+
+DMW supplied friction lox bolts 47mmx2400mm - gal 150 bolts per pack to Sydney with shipment ID 5705. The container UETU2551030 was sealed with code OOL KTX 2424 and loaded onto the vessel Cosco Genoa during voyage 096S. Instructions were given on August 29, 2025, and the shipment was marked as shipped on October 21, 2025. The closing date was October 24, 2025.
+
+DMW shipped 2850 friction lock bolts (FRICTION LOK BOLT 47MMX2400MM - GAL 150 BOLTS PER PACK) to Sydney via COSCO GENOA on voyage 096S. The shipment was scheduled for sailing on October 19, 2025, and the container weighed 19750.5 kg. The documents were finalized on October 21, 2025, and the shipment was marked as shipped.
+
+DMW shipped 10 coils of 5.55mm galvanized wire (COILGW5.6) to Fremantle via SINGAPORE on voyage 201S. The shipment was scheduled for sailing on August 28, 2025, and the container weighed 24375 kg. The documents were finalized on August 29, 2025, and the shipment was marked as shipped.
+
+DMW shipped 10 coils of 5.55mm galvanized wire (COILGW5.6) to Fremantle via SINGAPORE on voyage 201S. The shipment was scheduled for sailing on August 28, 2025, and the container weighed 24165 kg. The documents were finalized on August 29, 2025, and the shipment was marked as shipped.
+
+DMW shipped 10 coils of 5.55mm galvanized wire (COILGW5.6) to Fremantle via SINGAPORE on voyage 201S. The shipment was scheduled for sailing on August 28, 2025, and the container weighed 24263 kg. The documents were finalized on August 29, 2025, and the shipment was marked as shipped.
+
+DMW shipped 10 coils of 5.55mm galvanized wire (COILGW5.6) to Fremantle via SINGAPORE on voyage 201S. The shipment was scheduled for sailing on August 28, 2025, and the container weighed 24285 kg. The documents were finalized on August 29, 2025, and the shipment was marked as shipped.
+
+DMW shipped 24 coils of 6.3mm bright wire (R500L6.3-Coils) to Fremantle via SINGAPORE on voyage 201S. The shipment was scheduled for sailing on August 28, 2025, and the container weighed 24155 kg. The documents were finalized on August 29, 2025, and the shipment was marked as shipped.
+
+DMW shipped 255 units of AUSRO STRAP 6.0MX0.3M 10MM WIRE GAL OSH106H-6003G to India via X-PRESS CASSIOPEIA on voyage 533W. The shipment was scheduled for sailing on August 29, 2025, and the container weighed 6821.25 kg. The documents were finalized on August 28, 2025, and the shipment was marked as shipped.
+
+DMW shipped 3800 units of Mesh Rib 2M x 1.5M 100 x 100 Apt 4.0mm wire galvanized (IMG4-44-2015-JNA) to Brisbane via COSCO ISTANBUL on voyage V086SE. The shipment was scheduled for sailing on September 3, 2025, and the container weighed 23788 kg. The documents were finalized on August 28, 2025, and the shipment was marked as shipped.
+
+DMW shipped 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Brisbane via COSCO ISTANBUL on voyage V086SE. The shipment was scheduled for sailing on September 3, 2025, and the container weighed 23705 kg. The documents were finalized on August 28, 2025, and the shipment was marked as shipped.
+
+DMW shipped 10 coils of 5.55mm galvanized wire (COILGW5.6) to Fremantle via JOGELA on voyage 207S. The shipment was scheduled for sailing on September 2, 2025, and the container weighed 24375 kg. The documents were finalized on August 28, 2025, and the shipment was marked as shipped.
+
+DMW shipped 10 coils of 5.55mm galvanized wire (COILGW5.6) to Fremantle via JOGELA on voyage 207S. The shipment was scheduled for sailing on September 3, 2025, and the container weighed 24240 kg. The documents were finalized on August 28, 2025, and the shipment was marked as shipped.
+
+DMW shipped 10 coils of 5.55mm galvanized wire (COILGW5.6) to Fremantle via JOGELA on voyage 207S. The shipment was scheduled for sailing on September 3, 2025, and the container weighed 24345 kg. The documents were finalized on August 28, 2025, and the shipment was marked as shipped.
+
+DMW shipped 10 coils of 5.6mm bright wire (R500L5.6-Coils) to Fremantle via JOGELA on voyage 207S. The shipment was scheduled for sailing on September 2, 2025, and the container weighed 24155 kg. The documents were finalized on August 28, 2025, and the shipment was marked as shipped.
+
+DMW shipped 10 coils of 5.55mm galvanized wire (COILGW5.6) to Fremantle via JOGELA on voyage 207S. The shipment was scheduled for sailing on September 3, 2025, and the container weighed 24395 kg. The documents were finalized on August 28, 2025, and the shipment was marked as shipped.
+
+DMW shipped 10 coils of 5.55mm galvanized wire (COILGW5.6) to Fremantle via JOGELA on voyage 207S. The shipment was scheduled for sailing on September 3, 2025, and the container weighed 24180 kg. The documents were finalized on August 28, 2025, and the shipment was marked as shipped.
+
+DMW shipped 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Seattle via CONTI ANNAPURNA on voyage 536S. The shipment was scheduled for sailing on September 6, 2025, and the container weighed 23705 kg. The documents were finalized on August 28, 2025, and the shipment was marked as shipped.
+
+DMW shipped 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Seattle via CONTI ANNAPURNA on voyage 536S. The shipment was scheduled for sailing on September 7, 2025, and the container weighed 23705 kg. The documents were finalized on August 28, 2025, and the shipment was marked as shipped.
+
+DMW shipped 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Seattle via CONTI ANNAPURNA on voyage 536S. The shipment was scheduled for sailing on September 8, 2025, and the container weighed 23705 kg. The documents were finalized on August 28, 2025, and the shipment was marked as shipped.
+
+DMW shipped 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Seattle via CONTI ANNAPURNA on voyage 536S. The shipment was scheduled for sailing on September 8, 2025, and the container weighed 23705 kg. The documents were finalized on August 28, 2025, and the shipment was marked as shipped.
+
+DMW shipped 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Seattle via CONTI ANNAPURNA on voyage 536S. The shipment was scheduled for sailing on September 9, 2025, and the container weighed 23705 kg. The documents were finalized on August 28, 2025, and the shipment was marked as shipped.
+
+DMW shipped 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Seattle under FOB terms. The shipment was loaded onto CONTI ANNAPURNA during voyage 536S. The container TCLU8079930 was sealed with HLC3944797. The shipping instructions were given on September 5, 2025, and the documents were issued on August 28, 2025. The order was placed on June 25, 2025, and the closing date was September 5, 2025.
+
+DMW shipped 10 units of 5.55mm Galv Wire In Coils COILGW5.6 to Fremantle under CIF terms. The shipment was loaded onto OLYMPIC BAY during voyage 137S. The container CMAU2736103 was sealed with M2507925. The shipping instructions were given on September 12, 2025, and the documents were issued on September 11, 2025. The order was placed on August 31, 2025, and the closing date was September 12, 2025.
+
+DMW shipped 4 units of 24mm PET BLACK STRAP to Fremantle under CIF terms. The shipment was loaded onto OLYMPIC BAY during voyage 137S. The container CMAU2736103 was sealed with M2507925. The shipping instructions were given on September 12, 2025, and the documents were issued on September 11, 2025. The order was placed on August 31, 2025, and the closing date was September 12, 2025.
+
+DMW shipped 10 units of 5.55mm Galv Wire In Coils COILGW5.6 to Fremantle under CIF terms. The shipment was loaded onto OLYMPIC BAY during voyage 137S. The container TLLU2818651 was sealed with M2507906. The shipping instructions were given on September 12, 2025, and the documents were issued on September 11, 2025. The order was placed on August 31, 2025, and the closing date was September 12, 2025.
+
+DMW shipped 4 units of 24mm PET BLACK STRAP to Fremantle under CIF terms. The shipment was loaded onto OLYMPIC BAY during voyage 137S. The container TLLU2818651 was sealed with M2507906. The shipping instructions were given on September 12, 2025, and the documents were issued on September 11, 2025. The order was placed on August 31, 2025, and the closing date was September 12, 2025.
+
+DMW shipped 10 units of 5.55mm Galv Wire In Coils COILGW5.6 to Fremantle under CIF terms. The shipment was loaded onto OLYMPIC BAY during voyage 137S. The container TRHU1117583 was sealed with M2506531. The shipping instructions were given on September 12, 2025, and the documents were issued on September 11, 2025. The order was placed on August 31, 2025, and the closing date was September 12, 2025.
+
+DMW shipped 4 units of 24mm PET BLACK STRAP to Fremantle under CIF terms. The shipment was loaded onto OLYMPIC BAY during voyage 137S. The container TRHU1117583 was sealed with M2506531. The shipping instructions were given on September 12, 2025, and the documents were issued on September 11, 2025. The order was placed on August 31, 2025, and the closing date was September 12, 2025.
+
+DMW shipped 3 units of Purple Slings 1Tx2M(150pcs/B) to Fremantle under CIF terms. The shipment was loaded onto OLYMPIC BAY during voyage 137S. The container TRHU1117583 was sealed with M2506531. The shipping instructions were given on September 12, 2025, and the documents were issued on September 11, 2025. The order was placed on August 31, 2025, and the closing date was September 12, 2025.
+
+DMW shipped 10 units of 5.55mm Galv Wire In Coils COILGW5.6 to Fremantle under CIF terms. The shipment was loaded onto OLYMPIC BAY during voyage 137S. The container TGBU2200955 was sealed with M2506524. The shipping instructions were given on September 12, 2025, and the documents were issued on September 11, 2025. The order was placed on August 31, 2025, and the closing date was September 12, 2025.
+
+DMW shipped 5 units of 24mm PET BLACK STRAP to Fremantle under CIF terms. The shipment was loaded onto OLYMPIC BAY during voyage 137S. The container TGBU2200955 was sealed with M2506524. The shipping instructions were given on September 12, 2025, and the documents were issued on September 11, 2025. The order was placed on August 31, 2025, and the closing date was September 12, 2025.
+
+DMW shipped 10 units of 5.55mm Galv Wire In Coils COILGW5.6 to Fremantle under CIF terms. The shipment was loaded onto OLYMPIC BAY during voyage 137S. The container DFSU1728376 was sealed with M2507857. The shipping instructions were given on September 12, 2025, and the documents were issued on September 11, 2025. The order was placed on August 31, 2025, and the closing date was September 12, 2025.
+
+DMW shipped 5 units of 24mm PET BLACK STRAP to Fremantle under CIF terms. The shipment was loaded onto OLYMPIC BAY during voyage 137S. The container DFSU1728376 was sealed with M2507857. The shipping instructions were given on September 12, 2025, and the documents were issued on September 11, 2025. The order was placed on August 31, 2025, and the closing date was September 12, 2025.
+
+DMW shipped 10 units of 5.55mm Galv Wire In Coils COILGW5.6 to Fremantle under CIF terms. The shipment was loaded onto OLYMPIC BAY during voyage 137S. The container TCLU3069502 was sealed with M2507944. The shipping instructions were given on September 12, 2025, and the documents were issued on September 11, 2025. The order was placed on August 31, 2025, and the closing date was September 12, 2025.
+
+DMW shipped 5 units of 24mm PET BLACK STRAP to Fremantle under CIF terms. The shipment was loaded onto OLYMPIC BAY during voyage 137S. The container TCLU3069502 was sealed with M2507944. The shipping instructions were given on September 12, 2025, and the documents were issued on September 11, 2025. The order was placed on August 31, 2025, and the closing date was September 12, 2025.
+
+DMW shipped 24 units of 8.0mm Bright Wire In coils R500L8.0-Coils to Brisbane under CIF terms. The shipment was loaded onto OLYMPIC BAY during voyage 137S. The container APZU2101051 was sealed with M2507859. The shipping instructions were given on September 12, 2025, and the documents were issued on September 11, 2025. The order was placed on August 31, 2025, and the closing date was September 12, 2025.
+
+DMW shipped 5 units of 24mm PET BLACK STRAP to Brisbane under CIF terms. The shipment was loaded onto OLYMPIC BAY during voyage 137S. The container APZU2101051 was sealed with M2507859. The shipping instructions were given on September 12, 2025, and the documents were issued on September 11, 2025. The order was placed on August 31, 2025, and the closing date was September 12, 2025.
+
+DMW shipped 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Brisbane under CIF terms. The shipment was loaded onto COSCO ADEN during voyage 135S. The container OOCU8518358 was sealed with OOL KAG 7830. The shipping instructions were given on September 12, 2025, and the documents were issued on September 11, 2025. The order was placed on August 31, 2025, and the closing date was September 12, 2025.
+
+DMW shipped 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Brisbane under CIF terms. The shipment was loaded onto COSCO ADEN during voyage 135S. The container OOLU9720061 was sealed with OOL KAG 7774. The shipping instructions were given on September 12, 2025, and the documents were issued on September 11, 2025. The order was placed on August 31, 2025, and the closing date was September 12, 2025.
+
+DMW shipped 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Brisbane under CIF terms. The shipment was loaded onto COSCO ADEN during voyage 135S. The container OOLU8752260 was sealed with OOL KAG 5388. The shipping instructions were given on September 12, 2025, and the documents were issued on September 11, 2025. The order was placed on August 31, 2025, and the closing date was September 12, 2025.
+
+DMW shipped 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Brisbane under CIF terms. The shipment was loaded onto COSCO ADEN during voyage 135S. The container FSCU9303964 was sealed with OOL KAG 7771. The shipping instructions were given on September 12, 2025, and the documents were issued on September 11, 2025. The order was placed on August 31, 2025, and the closing date was September 12, 2025.
+
+DMW shipped a container of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Brisbane under CIF terms. The container is labeled CSNU6521182, sealed with OOL KAG 7783, and loaded aboard the COSCO ADEN on voyage 135S. Shipping instructions were given on September 12, 2025, and the container was weighed at 23,705 kg. The shipment was completed on September 12, 2025.
+
+DMW dispatched a container of Mesh Rib 2M x 1.5M 100 x 100 Apt 4.0mm wire Gal IMG4-44-2015-JNA to Brisbane under CIF terms. The container is labeled DRYU9691117, sealed with OOL KAG 7819, and loaded aboard the COSCO ADEN on voyage 135S. Shipping instructions were given on September 12, 2025, and the container was weighed at 23,788 kg. The shipment was completed on September 10, 2025.
+
+DMW shipped a container of Mesh Rib 2M x 1.5M 100 x 100 Apt 4.0mm wire Gal IMG4-44-2015-JNA to Brisbane under CIF terms. The container is labeled DRYU9691117, sealed with OOL KAG 7819, and loaded aboard the COSCO ADEN on voyage 135S. Shipping instructions were given on September 12, 2025, and the container was weighed at 23,788 kg. The shipment was completed on September 12, 2025.
+
+DMW shipped a container of Mesh Rib 2M x 1.5M 100 x 100 Apt 4.0mm wire Gal IMG4-44-2015-JNA to Brisbane under CIF terms. The container is labeled TCNU6581103, sealed with OOL KAG 7646, and loaded aboard the COSCO ADEN on voyage 135S. Shipping instructions were given on September 12, 2025, and the container was weighed at 23,110.2 kg. The shipment was completed on September 13, 2025.
+
+DMW shipped a container of 8mm Wire 6m long (425 pcs) 6MBW8 to Brisbane under CIF terms. The container is labeled TCNU6581103, sealed with OOL KAG 7646, and loaded aboard the COSCO ADEN on voyage 135S. Shipping instructions were given on September 12, 2025, and the container was weighed at 23,110.2 kg. The shipment was completed on September 11, 2025.
+
+DMW shipped a container of GX MESH ROOF 5.60M X 1.40M 100X100 APT 4.0MM WIRE - GAL to Brisbane under CIF terms. The container is labeled TCNU6581103, sealed with OOL KAG 7646, and loaded aboard the COSCO ADEN on voyage 135S. Shipping instructions were given on September 12, 2025, and the container was weighed at 23,110.2 kg. The shipment was completed on September 11, 2025.
+
+OOCL PANAMA shipped a container of 5.55mm Galv Wire In Coils COILGW5.6 to Fremantle under CIF terms. The container is labeled SEGU2906210, sealed with OOL KTS 2478, and loaded aboard the OOCL PANAMA on voyage 327S. Shipping instructions were given on September 19, 2025, and the container was weighed at 24,195 kg. The shipment was completed on September 20, 2025.
+
+OOCL PANAMA shipped a container of 8.60mm Ribbed Wire in Spools D500L8.6-Spools to Fremantle under CIF terms. The container is labeled CSLU1905830, sealed with OOL KTS 2482, and loaded aboard the OOCL PANAMA on voyage 327S. Shipping instructions were given on September 19, 2025, and the container was weighed at 24,036 kg. The shipment was completed on September 20, 2025.
+
+OOCL PANAMA shipped a container of 5.55mm Galv Wire In Coils COILGW5.6 to Fremantle under CIF terms. The container is labeled OOLU2985665, sealed with OOL KTR 4864, and loaded aboard the OOCL PANAMA on voyage 327S. Shipping instructions were given on September 19, 2025, and the container was weighed at 24,293 kg. The shipment was completed on September 20, 2025.
+
+OOCL PANAMA shipped a container of 5.55mm Galv Wire In Coils COILGW5.6 to Fremantle under CIF terms. The container is labeled UETU2479764, sealed with OOL KTR 4865, and loaded aboard the OOCL PANAMA on voyage 327S. Shipping instructions were given on September 19, 2025, and the container was weighed at 24,265 kg. The shipment was completed on September 20, 2025.
+
+DMW shipped a container of Mine Mesh 4800X2400mm 100x100mm Apt 5.6mm wire Galv IMG5H-44-4824 to Brisbane under CIF terms. The container is labeled CAAU6266044, sealed with M2512426, and loaded aboard the MAERSK SHEKOU on voyage 539S. Shipping instructions were given on September 19, 2025, and the container was weighed at 23,748.4 kg. The shipment was completed on September 20, 2025.
+
+DMW shipped a container of GX MESH ROOF 5.60M X 1.40M 100X100 APT 4.0MM & 5.0MM WIRE - GAL to Brisbane under CIF terms. The container is labeled CAAU6266044, sealed with M2512426, and loaded aboard the MAERSK SHEKOU on voyage 539S. Shipping instructions were given on September 19, 2025, and the container was weighed at 23,748.4 kg. The shipment was completed on September 20, 2025.
+
+DMW shipped a container of Mine Mesh 4800X2400mm 100x100mm Apt 5.6mm wire Galv IMG5H-44-4824 to Brisbane under CIF terms. The container is labeled CMAU6729165, sealed with M2509560, and loaded aboard the MAERSK SHEKOU on voyage 539S. Shipping instructions were given on September 19, 2025, and the container was weighed at 23,748.4 kg. The shipment was completed on September 20, 2025.
+
+DMW shipped a container of GX MESH ROOF 5.60M X 1.40M 100X100 APT 4.0MM & 5.0MM WIRE - GAL to Brisbane under CIF terms. The container is labeled CMAU6729165, sealed with M2509560, and loaded aboard the MAERSK SHEKOU on voyage 539S. Shipping instructions were given on September 19, 2025, and the container was weighed at 23,748.4 kg. The shipment was completed on September 20, 2025.
+
+DMW shipped a container of Mine Mesh 4800X2400mm 100x100mm Apt 5.6mm wire Galv IMG5H-44-4824 to Brisbane under CIF terms. The container is labeled TRHU6023867, sealed with M2508098, and loaded aboard the MAERSK SHEKOU on voyage 539S. Shipping instructions were given on September 19, 2025, and the container was weighed at 23,748.4 kg. The shipment was completed on September 23, 2025.
+
+DMW shipped a container of GX MESH ROOF 5.60M X 1.40M 100X100 APT 4.0MM & 5.0MM WIRE - GAL to Brisbane under CIF terms. The container is labeled TRHU6023867, sealed with M2508098, and loaded aboard the MAERSK SHEKOU on voyage 539S. Shipping instructions were given on September 19, 2025, and the container was weighed at 23,748.4 kg. The shipment was completed on September 23, 2025.
+
+DMW shipped a container of Mine Mesh 4800X2400mm 100x100mm Apt 5.6mm wire Galv IMG5H-44-4824 to Brisbane under CIF terms. The container is labeled CMAU6632107, sealed with M2540164, and loaded aboard the MAERSK SHEKOU on voyage 539S. Shipping instructions were given on September 19, 2025, and the container was weighed at 23,748.4 kg. The shipment was completed on September 23, 2025.
+
+DMW shipped a container of GX MESH ROOF 5.60M X 1.40M 100X100 APT 4.0MM & 5.0MM WIRE - GAL to Brisbane under CIF terms. The container is labeled CMAU6632107, sealed with M2540164, and loaded aboard the MAERSK SHEKOU on voyage 539S. Shipping instructions were given on September 19, 2025, and the container was weighed at 23,748.4 kg. The shipment was completed on September 23, 2025.
+
+DMW shipped a container of MESH MINE 5.7MX1.6M 100X100 APT 5MM WIRE - BLK to Brisbane under CIF terms. The container is labeled SEKU6471439, sealed with M2546432, and loaded aboard the MAERSK SHEKOU on voyage 539S. Shipping instructions were given on September 19, 2025, and the container was weighed at 18,140.7 kg. The shipment was completed on September 23, 2025.
+
+DMW shipped a container of GX MESH ROOF 5.60M X 1.40M 100X100 APT 4.0MM & 5.0MM WIRE - GAL to Brisbane under CIF terms. The container is labeled TLLU5783991, sealed with M2512421, and loaded aboard the MAERSK SHEKOU on voyage 539S. Shipping instructions were given on September 19, 2025, and the container was weighed at 11,457.6 kg. The shipment was completed on September 23, 2025.
+
+DMW shipped 600 units of GX MESH ROOF 5.60M X 1.40M 100X100 APT 4.0MM & 5.0MM WIRE - GAL to Brisbane under CIF terms. The shipment was loaded onto the MAERSK SHEKOU during week 38, with a sailing date of September 20, 2025. The container weight was 12,276 kg, and the shipment was completed on September 24, 2025.
+
+DMW shipped 540 units of MESH MINE 5.7MX1.6M 100X100 APT 5MM WIRE - GAL to Brisbane under CIF terms. The shipment was loaded onto the MAERSK SHEKOU during week 38, with a sailing date of September 23, 2025. The container weight was 19,207.8 kg, and the shipment was completed on September 24, 2025.
+
+DMW shipped 540 units of MESH MINE 5.7MX1.6M 100X100 APT 5MM WIRE - GAL to Brisbane under CIF terms. The shipment was loaded onto the MAERSK SHEKOU during week 38, with a sailing date of September 23, 2025. The container weight was 19,207.8 kg, and the shipment was completed on September 24, 2025.
+
+DMW shipped 540 units of MESH MINE 5.7MX1.6M 100X100 APT 5MM WIRE - GAL to Brisbane under CIF terms. The shipment was loaded onto the MAERSK SHEKOU during week 38, with a sailing date of September 23, 2025. The container weight was 19,207.8 kg, and the shipment was completed on September 24, 2025.
+
+DMW shipped 600 units of GX MESH ROOF 5.60M X 1.40M 100X100 APT 4.0MM & 5.0MM WIRE - GAL to Brisbane under CIF terms. The shipment was loaded onto the MAERSK SHEKOU during week 38, with a sailing date of September 20, 2025. The container weight was 12,276 kg, and the shipment was completed on September 24, 2025.
+
+DMW shipped 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Seattle under FOB terms. The shipment was loaded onto the HOPE C during week 38, with a sailing date of September 17, 2025. The container weight was 23,705 kg, and the shipment was completed on September 21, 2025.
+
+DMW shipped 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Seattle under FOB terms. The shipment was loaded onto the HOPE C during week 38, with a sailing date of September 17, 2025. The container weight was 23,705 kg, and the shipment was completed on September 21, 2025.
+
+DMW shipped 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Seattle under FOB terms. The shipment was loaded onto the HOPE C during week 38, with a sailing date of September 17, 2025. The container weight was 23,705 kg, and the shipment was completed on September 21, 2025.
+
+DMW shipped 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Seattle under FOB terms. The shipment was loaded onto the HOPE C during week 38, with a sailing date of September 17, 2025. The container weight was 23,705 kg, and the shipment was completed on September 21, 2025.
+
+DMW shipped 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Seattle under FOB terms. The shipment was loaded onto the HOPE C during week 38, with a sailing date of September 18, 2025. The container weight was 23,705 kg, and the shipment was completed on September 21, 2025.
+
+DMW shipped 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Seattle under FOB terms. The shipment was loaded onto the HOPE C during week 38, with a sailing date of September 18, 2025. The container weight was 23,705 kg, and the shipment was completed on September 21, 2025.
+
+DMW shipped 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Seattle under FOB terms. The shipment was loaded onto the HOPE C during week 38, with a sailing date of September 18, 2025. The container weight was 23,705 kg, and the shipment was completed on September 21, 2025.
+
+DMW shipped 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Seattle under FOB terms. The shipment was loaded onto the HOPE C during week 38, with a sailing date of September 18, 2025. The container weight was 23,705 kg, and the shipment was completed on September 21, 2025.
+
+DMW shipped 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Seattle under FOB terms. The shipment was loaded onto the HOPE C during week 38, with a sailing date of September 18, 2025. The container weight was 23,705 kg, and the shipment was completed on September 21, 2025.
+
+DMW shipped 10 units of 5.55mm Galv Wire In Coils COILGW5.6 to Fremantle under CIF terms. The shipment was loaded onto the EXPRESS BLACK SEA during week 39, with a sailing date of September 25, 2025. The container weight was 24,130 kg, and the shipment was completed on September 29, 2025.
+
+DMW shipped 10 units of 5.55mm Galv Wire In Coils COILGW5.6 to Fremantle under CIF terms. The shipment was loaded onto the EXPRESS BLACK SEA during week 39, with a sailing date of September 25, 2025. The container weight was 24,195 kg, and the shipment was completed on September 29, 2025.
+
+DMW shipped 10 units of 5.55mm Galv Wire In Coils COILGW5.6 to Fremantle under CIF terms. The shipment was loaded onto the EXPRESS BLACK SEA during week 39, with a sailing date of September 25, 2025. The container weight was 24,100 kg, and the shipment was completed on September 29, 2025.
+
+DMW shipped 10 units of 5.55mm Galv Wire In Coils COILGW5.6 to Fremantle under CIF terms. The shipment was loaded onto the EXPRESS BLACK SEA during week 39, with a sailing date of September 25, 2025. The container weight was 24,215 kg, and the shipment was completed on September 29, 2025.
+
+DMW shipped 600 units of 100x150x6000x1100x5 Sheepyard IMG5-46-6011 to Fremantle under CIF terms. The shipment was loaded onto the EXPRESS BLACK SEA during week 39, with a sailing date of September 25, 2025. The container weight was 22,899 kg, and the shipment was completed on October 4, 2025.
+
+DMW shipped 12 units of 8.60mm Ribbed Wire in Spools D500L8.6-Spools to Fremantle under CIF terms. The shipment was loaded onto the EXPRESS BLACK SEA during week 39, with a sailing date of September 25, 2025. The container weight was 22,899 kg, and the shipment was completed on October 4, 2025.
+
+DMW shipped 400 units of 100x150x6000x1100x5 Sheepyard IMG5-46-6011 to Fremantle under CIF terms. The shipment was loaded onto the EXPRESS BLACK SEA during week 39, with a sailing date of September 25, 2025. The container weight was 19,266 kg, and the shipment was completed on October 4, 2025.
+
+DMW shipped 12 units of 8.60mm Ribbed Wire in Spools D500L8.6-Spools to Fremantle under CIF terms. The shipment was loaded onto the EXPRESS BLACK SEA during week 39, with a sailing date of September 25, 2025. The container weight was 19,266 kg, and the shipment was completed on October 4, 2025.
+
+DMW shipped 600 units of GX MESH ROOF 5.60M X 1.40M 100X100 APT 4.0MM & 5.0MM WIRE - GAL to Brisbane under CIF terms. The shipment was loaded onto the OOCL TEXAS during week 39, with a sailing date of September 27, 2025. The container weight was 12,276 kg, and the shipment was completed on October 4, 2025.
+
+DMW supplied GX MESH ROOF 5.60M X 1.40M 100X100 APT 4.0MM & 5.0MM WIRE - GAL to Brisbane under CIF terms for order 252378. The shipment was loaded onto the OOCL TEXAS during week 39, with a sailing date of September 26, 2025. The container weighed 12,276 kg and was sealed with OOL KAG 8211. The shipment was completed on October 4, 2025.
+
+DMW supplied GX MESH ROOF 5.60M X 1.40M 100X100 APT 4.0MM & 5.0MM WIRE - GAL to Brisbane under CIF terms for order 252378. The shipment was loaded onto the OOCL TEXAS during week 39, with a sailing date of September 26, 2025. The container weighed 12,276 kg and was sealed with OOL GUJ 5051. The shipment was completed on October 4, 2025.
+
+DMW supplied MESH ROOF 5.00MX1.75M 100X100 APT 5.0MM WIRE-GAL IMG55H-46-5017-JAS to Brisbane under CIF terms for order 252886. The shipment was loaded onto the OOCL TEXAS during week 39, with a sailing date of September 29, 2025. The container weighed 13,569.6 kg and was sealed with OOL KAG 8232. The shipment was completed on October 4, 2025.
+
+DMW supplied GX MESH ROOF 5.60M X 1.40M 100X100 APT 4.0MM & 5.0MM WIRE - GAL to Brisbane under CIF terms for order 252378. The shipment was loaded onto the OOCL TEXAS during week 39, with a sailing date of September 27, 2025. The container weighed 12,276 kg and was sealed with OOL KAG 8177. The shipment was completed on October 4, 2025.
+
+DMW supplied SHOTCRETE MESH 3.00MX1.17M 4MM WIRE - GAL IMG4D-66-3012 to Brisbane under CIF terms for order 252541. The shipment was loaded onto the OOCL TEXAS during week 39, with a sailing date of October 2, 2025. The container weighed 12,150 kg and was sealed with OOL KAG 9343. The shipment was completed on October 4, 2025.
+
+DMW supplied Wooden Pallet 3010x1200 to Brisbane under CIF terms for order 252541. The shipment was loaded onto the OOCL TEXAS during week 39, with a sailing date of October 2, 2025. The container weighed 12,150 kg and was sealed with OOL KAG 9343. The shipment was completed on October 4, 2025.
+
+DMW supplied SHOTCRETE MESH 3.00MX1.17M 4MM WIRE - GAL IMG4D-66-3012 to Brisbane under CIF terms for order 252540. The shipment was loaded onto the OOCL TEXAS during week 39, with a sailing date of October 3, 2025. The container weighed 10,721.7 kg and was sealed with OOL KAG 8185. The shipment was completed on October 4, 2025.
+
+DMW supplied Wooden Pallet 3010x1200 to Brisbane under CIF terms for order 252540. The shipment was loaded onto the OOCL TEXAS during week 39, with a sailing date of October 3, 2025. The container weighed 10,721.7 kg and was sealed with OOL KAG 8185. The shipment was completed on October 4, 2025.
+
+DMW supplied MESH MINE 4.0MX2.4M 100X100 APT 5.6MM WIRE - GAL IMG5H-44-4024 to Adelaide under CIF terms for order 251635. The shipment was loaded onto the OOCL PANAMA during week 39, with a sailing date of September 23, 2025. The container weighed 23,886.6 kg and was sealed with OOL KAG 9350. The shipment was completed on September 25, 2025.
+
+DMW supplied Glut 90x90x300 to Adelaide under CIF terms for order 251635. The shipment was loaded onto the OOCL PANAMA during week 39, with a sailing date of September 23, 2025. The container weighed 23,886.6 kg and was sealed with OOL KAG 9350. The shipment was completed on September 25, 2025.
+
+DMW supplied MESH MINE 4.0MX2.4M 100X100 APT 5.6MM WIRE - GAL IMG5H-44-4024 to Adelaide under CIF terms for order 251635. The shipment was loaded onto the OOCL PANAMA during week 39, with a sailing date of September 24, 2025. The container weighed 23,886.6 kg and was sealed with OOL KAG 9275. The shipment was completed on September 25, 2025.
+
+DMW supplied Glut 90x90x300 to Adelaide under CIF terms for order 251635. The shipment was loaded onto the OOCL PANAMA during week 39, with a sailing date of September 24, 2025. The container weighed 23,886.6 kg and was sealed with OOL KAG 9275. The shipment was completed on September 25, 2025.
+
+DMW supplied 5.55mm Galv Wire In Coils COILGW5.6 to Fremantle under CIF terms for order 253133. The shipment was loaded onto the OOCL CHICAGO during week 40, with a sailing date of October 4, 2025. The container weighed 24,224 kg and was sealed with OOL KAG 7849. The shipment was completed on October 8, 2025.
+
+DMW supplied 5.55mm Galv Wire In Coils COILGW5.6 to Fremantle under CIF terms for order 253133. The shipment was loaded onto the OOCL CHICAGO during week 40, with a sailing date of October 4, 2025. The container weighed 24,224 kg and was sealed with OOL KAG 7849. The shipment was completed on October 8, 2025.
+
+DMW supplied 5.55mm Galv Wire In Coils COILGW5.6 to Fremantle under CIF terms for order 253133. The shipment was loaded onto the OOCL CHICAGO during week 40, with a sailing date of October 4, 2025. The container weighed 24,224 kg and was sealed with OOL KAG 7849. The shipment was completed on October 8, 2025.
+
+DMW supplied 24mm PET BLACK STRAP to Fremantle under CIF terms for order 253133. The shipment was loaded onto the OOCL CHICAGO during week 40, with a sailing date of October 5, 2025. The container weighed 24,217 kg and was sealed with OOL KAG 7861. The shipment was completed on October 8, 2025.
+
+DMW supplied 24mm PET BLACK STRAP to Fremantle under CIF terms for order 253133. The shipment was loaded onto the OOCL CHICAGO during week 40, with a sailing date of October 5, 2025. The container weighed 24,217 kg and was sealed with OOL KAG 7861. The shipment was completed on October 8, 2025.
+
+DMW supplied 5.55mm Galv Wire In Coils COILGW5.6 to Fremantle under CIF terms for order 253133. The shipment was loaded onto the OOCL CHICAGO during week 40, with a sailing date of October 5, 2025. The container weighed 24,217 kg and was sealed with OOL KAG 7860. The shipment was completed on October 8, 2025.
+
+DMW supplied 5.55mm Galv Wire In Coils COILGW5.6 to Fremantle under CIF terms for order 253133. The shipment was loaded onto the OOCL CHICAGO during week 40, with a sailing date of October 5, 2025. The container weighed 24,217 kg and was sealed with OOL KAG 7860. The shipment was completed on October 8, 2025.
+
+DMW supplied 5.0mm Bright Wire In Coils R500L5.0-Coils to Fremantle under CIF terms for order 252812. The shipment was loaded onto the OOCL CHICAGO during week 40, with a sailing date of October 4, 2025. The container weighed 24,196 kg and was sealed with OOL KAG 8153. The shipment was completed on October 8, 2025.
+
+FCIU5908520 is loaded onto the OOCL Chicago for the voyage 114S. The shipment is scheduled to sail on October 4, 2025, and the instructions were given on October 3, 2025. The container holds 20 feet of 24mm PET Black Strap, weighing 24,196 kilograms. The supplier is DMW, and the destination is Fremantle. The shipping terms are CIF, and the shipment was shipped on August 7, 2025, with documentation completed on the same day. The closing date is set for October 8, 2025.
+
+CSNU1433509 is also loaded onto the OOCL Chicago for the voyage 114S. The shipment is scheduled to sail on October 4, 2025, and the instructions were given on October 3, 2025. The container holds 20 feet of 5.0mm Bright Wire In Coils R500L5.0-Coils, weighing 24,259 kilograms. The supplier is DMW, and the destination is Fremantle. The shipping terms are CIF, and the shipment was shipped on August 7, 2025, with documentation completed on the same day. The closing date is set for October 8, 2025.
+
+CSNU1433509 is loaded again with 20 feet of 24mm PET Black Strap, weighing 24,259 kilograms. The supplier is DMW, and the destination is Fremantle. The shipping terms are CIF, and the shipment was shipped on August 7, 2025, with documentation completed on the same day. The closing date is set for October 8, 2025.
+
+CAIU7854148 is loaded onto the Rio Grande for the voyage 037S. The shipment is scheduled to sail on October 3, 2025, and the instructions were given on October 3, 2025. The container holds 40 feet of GX Mesh 4.8m x 1.11m 100x100 apt 4.00mm wire - gal, weighing 10,854 kilograms. The supplier is DMW, and the destination is Brisbane. The shipping terms are CIF, and the shipment was shipped on August 7, 2025, with documentation completed on the same day. The closing date is set for October 8, 2025.
+
+CAIU7854148 is loaded again with 40 feet of Mesh Rib 2m x 1.5m 100 x 100 apt 4.0mm wire gal, weighing 10,854 kilograms. The supplier is DMW, and the destination is Brisbane. The shipping terms are CIF, and the shipment was shipped on August 7, 2025, with documentation completed on the same day. The closing date is set for October 8, 2025.
+
+CSNU6380206 is loaded onto the Rio Grande for the voyage 037S. The shipment is scheduled to sail on October 6, 2025, and the instructions were given on October 3, 2025. The container holds 40 feet of GX Mesh Roof 5.60m x 1.70m wire - gal, weighing 10,425.6 kilograms. The supplier is DMW, and the destination is Brisbane. The shipping terms are CIF, and the shipment was shipped on August 7, 2025, with documentation completed on the same day. The closing date is set for October 8, 2025.
+
+CSNU6380206 is loaded again with 40 feet of Glut 90x90x1200, weighing 10,425.6 kilograms. The supplier is DMW, and the destination is Brisbane. The shipping terms are CIF, and the shipment was shipped on August 7, 2025, with documentation completed on the same day. The closing date is set for October 8, 2025.
+
+OOCU7955224 is loaded onto the Rio Grande for the voyage 037S. The shipment is scheduled to sail on October 3, 2025, and the instructions were given on October 3, 2025. The container holds 40 feet of MESH Roof 5.00m x 1.75m 100x100 apt 5.0mm wire - gal, weighing 14,636.7 kilograms. The supplier is DMW, and the destination is Brisbane. The shipping terms are CIF, and the shipment was shipped on August 7, 2025, with documentation completed on the same day. The closing date is set for October 8, 2025.
+
+OOCU7955224 is loaded again with 40 feet of MESH Mine 5.7m x 1.6m 100x100 apt 5mm wire - blk, weighing 14,636.7 kilograms. The supplier is DMW, and the destination is Brisbane. The shipping terms are CIF, and the shipment was shipped on August 7, 2025, with documentation completed on the same day. The closing date is set for October 8, 2025.
+
+CSNU6413130 is loaded onto the Rio Grande for the voyage 037S. The shipment is scheduled to sail on October 7, 2025, and the instructions were given on October 3, 2025. The container holds 40 feet of MESH Mine 5.7m x 1.6m 100x100 apt 5mm wire - gal, weighing 19,266.95 kilograms. The supplier is DMW, and the destination is Brisbane. The shipping terms are CIF, and the shipment was shipped on August 7, 2025, with documentation completed on the same day. The closing date is set for October 8, 2025.
+
+CSNU6413130 is loaded again with 40 feet of Glut 90x90x300, weighing 19,266.95 kilograms. The supplier is DMW, and the destination is Brisbane. The shipping terms are CIF, and the shipment was shipped on August 7, 2025, with documentation completed on the same day. The closing date is set for October 8, 2025.
+
+CBHU9592216 is loaded onto the Rio Grande for the voyage 037S. The shipment is scheduled to sail on October 3, 2025, and the instructions were given on October 3, 2025. The container holds 40 feet of MESH Roof 5.00m x 1.75m 100x100 apt 5.0mm wire - gal, weighing 13,569.6 kilograms. The supplier is DMW, and the destination is Brisbane. The shipping terms are CIF, and the shipment was shipped on August 7, 2025, with documentation completed on the same day. The closing date is set for October 8, 2025.
+
+CSNU7368329 is loaded onto the Rio Grande for the voyage 037S. The shipment is scheduled to sail on October 3, 2025, and the instructions were given on October 3, 2025. The container holds 40 feet of MESH Roof 5.00m x 1.75m 100x100 apt 5.0mm wire - gal, weighing 15,703.8 kilograms. The supplier is DMW, and the destination is Brisbane. The shipping terms are CIF, and the shipment was shipped on August 7, 2025, with documentation completed on the same day. The closing date is set for October 8, 2025.
+
+CSNU7368329 is loaded again with 40 feet of MESH Mine 5.7m x 1.6m 100x100 apt 5mm wire - blk, weighing 15,703.8 kilograms. The supplier is DMW, and the destination is Brisbane. The shipping terms are CIF, and the shipment was shipped on August 7, 2025, with documentation completed on the same day. The closing date is set for October 8, 2025.
+
+GCXU5441505 is loaded onto the Rio Grande for the voyage 037S. The shipment is scheduled to sail on September 30, 2025, and the instructions were given on October 3, 2025. The container holds 40 feet of MESH Mine 4.5m x 2.4m 100x100 ap, weighing 24,131.6 kilograms. The supplier is DMW, and the destination is Adelaide. The shipping terms are CIF, and the shipment was shipped on October 1, 2025, with documentation completed on the same day. The closing date is set for October 3, 2025.
+
+GCXU5441505 is loaded again with 40 feet of Glut 90x90x300, weighing 24,131.6 kilograms. The supplier is DMW, and the destination is Adelaide. The shipping terms are CIF, and the shipment was shipped on October 1, 2025, with documentation completed on the same day. The closing date is set for October 3, 2025.
+
+CSNU7674782 is loaded onto the Rio Grande for the voyage 037S. The shipment is scheduled to sail on October 1, 2025, and the instructions were given on October 3, 2025. The container holds 40 feet of MESH Mine 4.5m x 2.4m 100x100 ap, weighing 24,131.6 kilograms. The supplier is DMW, and the destination is Adelaide. The shipping terms are CIF, and the shipment was shipped on October 1, 2025, with documentation completed on the same day. The closing date is set for October 3, 2025.
+
+CSNU7674782 is loaded again with 40 feet of Glut 90x90x300, weighing 24,131.6 kilograms. The supplier is DMW, and the destination is Adelaide. The shipping terms are CIF, and the shipment was shipped on October 1, 2025, with documentation completed on the same day. The closing date is set for October 3, 2025.
+
+CSNU7821564 is loaded onto the Rio Grande for the voyage 037S. The shipment is scheduled to sail on October 1, 2025, and the instructions were given on October 3, 2025. The container holds 40 feet of MESH Mine 4.5m x 2.4m 100x100 ap, weighing 24,131.6 kilograms. The supplier is DMW, and the destination is Adelaide. The shipping terms are CIF, and the shipment was shipped on October 1, 2025, with documentation completed on the same day. The closing date is set for October 3, 2025.
+
+CSNU7821564 is loaded again with 40 feet of Glut 90x90x300, weighing 24,131.6 kilograms. The supplier is DMW, and the destination is Adelaide. The shipping terms are CIF, and the shipment was shipped on October 1, 2025, with documentation completed on the same day. The closing date is set for October 3, 2025.
+
+DMW shipped an order of 720 units of part 150x150x5100x1150x4x5 - DEN2 IMB45-66-5111-DEN2 to Brisbane under CIF terms. The shipment was loaded onto the COSCO ISTANBUL during voyage 087S. The container OOLU8913683 was sealed with OOL KAG 2389. Shipping instructions were given on October 10, 2025, and the container was weighed at 9787.2 kg. The shipment was completed on October 16, 2025.
+
+DMW shipped 100 units of part Glut 90x90x1200 to Brisbane under CIF terms. The shipment was loaded onto the COSCO ISTANBUL during voyage 087S. The container OOLU8913683 was sealed with OOL KAG 2389. Shipping instructions were given on October 10, 2025, and the container was weighed at 9787.2 kg. The shipment was completed on October 16, 2025.
+
+DMW shipped 600 units of part GX MESH 4.8M X 1.11M 100X100 APT 4.00MM WIRE - GAL to Brisbane under CIF terms. The shipment was loaded onto the COSCO ISTANBUL during voyage 087S. The container CBHU9447835 was sealed with OOL KJQ 0609. Shipping instructions were given on October 10, 2025, and the container was weighed at 10854.0 kg. The shipment was completed on October 16, 2025.
+
+DMW shipped 300 units of part Mesh Rib 2M x 1.5M 100 x 100 Apt 4.0mm wire Gal IMG4-44-2015-JNA to Brisbane under CIF terms. The shipment was loaded onto the COSCO ISTANBUL during voyage 087S. The container CBHU9447835 was sealed with OOL KJQ 0609. Shipping instructions were given on October 10, 2025, and the container was weighed at 10854.0 kg. The shipment was completed on October 16, 2025.
+
+DMW shipped 600 units of part GX MESH 4.8M X 1.11M 100X100 APT 4.00MM WIRE - GAL to Brisbane under CIF terms. The shipment was loaded onto the COSCO ISTANBUL during voyage 087S. The container CSNU7582900 was sealed with OOL KAG 2307. Shipping instructions were given on October 10, 2025, and the container was weighed at 10326.0 kg. The shipment was completed on October 16, 2025.
+
+DMW shipped 100 units of part Glut 90x90x1600 to Brisbane under CIF terms. The shipment was loaded onto the COSCO ISTANBUL during voyage 087S. The container CSNU7582900 was sealed with OOL KAG 2307. Shipping instructions were given on October 10, 2025, and the container was weighed at 10326.0 kg. The shipment was completed on October 16, 2025.
+
+DMW shipped 200 units of part GX MESH 4.8M X 1.11M 100X100 APT 4.00MM WIRE - GAL to Brisbane under CIF terms. The shipment was loaded onto the COSCO ISTANBUL during voyage 087S. The container TGBU8555274 was sealed with OOL KAG 2264. Shipping instructions were given on October 10, 2025, and the container was weighed at 9606.4 kg. The shipment was completed on October 16, 2025.
+
+DMW shipped 360 units of part 150x150x5100x1150x4x5 - DEN2 IMB45-66-5111-DEN2 to Brisbane under CIF terms. The shipment was loaded onto the COSCO ISTANBUL during voyage 087S. The container TGBU8555274 was sealed with OOL KAG 2264. Shipping instructions were given on October 10, 2025, and the container was weighed at 9606.4 kg. The shipment was completed on October 16, 2025.
+
+DMW shipped 100 units of part Glut 90x90x1200 to Brisbane under CIF terms. The shipment was loaded onto the COSCO ISTANBUL during voyage 087S. The container TGBU8555274 was sealed with OOL KAG 2264. Shipping instructions were given on October 10, 2025, and the container was weighed at 9606.4 kg. The shipment was completed on October 16, 2025.
+
+DMW shipped 80 units of part IMGX4H4-46-5012-JKE to Brisbane under CIF terms. The shipment was loaded onto the COSCO ISTANBUL during voyage 087S. The container TGBU8555274 was sealed with OOL KAG 2264. Shipping instructions were given on October 10, 2025, and the container was weighed at 9606.4 kg. The shipment was completed on October 16, 2025.
+
+DMW shipped 4 units of part Wooden Pallet 3000x2400 to Brisbane under CIF terms. The shipment was loaded onto the COSCO ISTANBUL during voyage 087S. The container TGBU8555274 was sealed with OOL KAG 2264. Shipping instructions were given on October 10, 2025, and the container was weighed at 9606.4 kg. The shipment was completed on October 16, 2025.
+
+DMW shipped 3800 units of part Mesh Rib 2M x 1.5M 100 x 100 Apt 4.0mm wire Gal IMG4-44-2015-JNA to Brisbane under CIF terms. The shipment was loaded onto the COSCO ISTANBUL during voyage 087S. The container OOCU7226428 was sealed with OOL KJQ 0448. Shipping instructions were given on October 10, 2025, and the container was weighed at 23788.0 kg. The shipment was completed on October 16, 2025.
+
+DMW shipped 2200 units of part Mesh Rib 2M x 1.5M 100 x 100 Apt 4.0mm wire Gal IMG4-44-2015-JNA to Brisbane under CIF terms. The shipment was loaded onto the COSCO ISTANBUL during voyage 087S. The container CSNU6156876 was sealed with OOL KJQ 0446. Shipping instructions were given on October 10, 2025, and the container was weighed at 14999.6 kg. The shipment was completed on October 16, 2025.
+
+DMW shipped 60 units of part GX MESH ROOF 5.60M X 1.40M 100X100 APT 4.0MM WIRE - GAL to Brisbane under CIF terms. The shipment was loaded onto the COSCO ISTANBUL during voyage 087S. The container CSNU6156876 was sealed with OOL KJQ 0446. Shipping instructions were given on October 10, 2025, and the container was weighed at 14999.6 kg. The shipment was completed on October 16, 2025.
+
+DMW shipped 8 units of part Bright Wire 6GA A1064 to Pakistan under FOB terms. The shipment was loaded onto the WAN HAI 502 during voyage E138. The container UETU2800133 was sealed with HLC3945825. Shipping instructions were given on October 10, 2025, and the container was weighed at 19231.0 kg. The shipment was completed on October 19, 2025.
+
+DMW shipped 8 units of part Bright Wire 6GA A1064 to Pakistan under FOB terms. The shipment was loaded onto the WAN HAI 502 during voyage E138. The container HLXU1280947 was sealed with HLC3945140. Shipping instructions were given on October 10, 2025, and the container was weighed at 19221.0 kg. The shipment was completed on October 19, 2025.
+
+DMW shipped 8 units of part Bright Wire 6GA A1064 to Pakistan under FOB terms. The shipment was loaded onto the WAN HAI 502 during voyage E138. The container HLBU1504762 was sealed with HLC3945940. Shipping instructions were given on October 10, 2025, and the container was weighed at 19201.0 kg. The shipment was completed on October 19, 2025.
+
+DMW shipped 8 units of part Bright Wire 6GA A1064 to Pakistan under FOB terms. The shipment was loaded onto the WAN HAI 502 during voyage E138. The container HLXU1053500 was sealed with HLC3945049. Shipping instructions were given on October 10, 2025, and the container was weighed at 19034.0 kg. The shipment was completed on October 19, 2025.
+
+DMW shipped 8 units of part Bright Wire 6GA A1064 to Pakistan under FOB terms. The shipment was loaded onto the WAN HAI 502 during voyage E138. The container CAIU3285207 was sealed with HLC3945137. Shipping instructions were given on October 10, 2025, and the container was weighed at 19272.0 kg. The shipment was completed on October 19, 2025.
+
+DMW shipped 8 units of part Bright Wire 6GA A1064 to Pakistan under FOB terms. The shipment was loaded onto the WAN HAI 502 during voyage E138. The container TGBU2359952 was sealed with HLC3945859. Shipping instructions were given on October 10, 2025, and the container was weighed at 19378.0 kg. The shipment was completed on October 19, 2025.
+
+Bright Wire 6GA A1064, ordered under shipment 581529, was loaded into containers UACU3949678, HAMU1012680, DFSU1191754, TEMU3930752, HLBU3721474, BSIU3316221, HLBU3730136, HLXU1055972, BMOU2727095, and CPSU1712403. All containers were sealed with HLC seals and transported aboard the WAN HAI 502 during voyages E138, with instructions given on October 10, 2025. The containers were loaded in week 41 and shipped out starting from October 18, 2025. Each container held 8 pieces of Bright Wire 6GA A1064, weighing 2400 kg per piece, totaling between 19,191 kg and 19,391 kg. The shipments were marked as shipped and closed on October 19, 2025.
+
+Bright Wire 6GA A1064, ordered under shipment 581529, was loaded into containers FCIU4750050, CSLU2118973, and CSNU6143626. All containers were sealed with OOL KJQ seals and transported aboard the OOCL CHICAGO during voyages 114S, with instructions given on October 10, 2025. The containers were loaded in week 41 and shipped out starting from October 8, 2025. Each container held 8 pieces of Bright Wire 6GA A1064, weighing 2400 kg per piece, totaling between 24,037 kg and 8,184.4 kg. The shipments were marked as shipped and closed on October 14, 2025.
+
+Bright Wire 6GA A1064, ordered under shipment 581529, was loaded into containers FCIU4750050, CSLU2118973, and CSNU6143626. All containers were sealed with OOL KJQ seals and transported aboard the OOCL CHICAGO during voyages 114S, with instructions given on October 10, 2025. The containers were loaded in week 41 and shipped out starting from October 9, 2025. Each container held 8 pieces of Bright Wire 6GA A1064, weighing 2400 kg per piece, totaling between 24,037 kg and 10,430 kg. The shipments were marked as shipped and closed on October 14, 2025.
+
+GX MESH ROOF 5.60M X 1.40M 100X100 APT 4.0MM & 5.0MM WIRE - GAL, ordered under shipment 5816.0, was loaded into container CSNU6143626. The container was sealed with OOL KJQ 9844 and transported aboard the COSCO ISTANBUL during voyage 087S, with instructions given on October 17, 2025. The container was loaded in week 42 and shipped out starting from October 9, 2025. The container held 40 pieces of GX MESH ROOF, weighing 20.46 kg per piece, totaling 818.4 kg. The shipment was marked as shipped and closed on October 20, 2025.
+
+MESH ROOF 5.00MX1.35M 100X100 APT 5.0MM WIRE IMB5-44-5014-JNA, ordered under shipment 5816.0, was loaded into container CSNU6143626. The container was sealed with OOL KJQ 9844 and transported aboard the COSCO ISTANBUL during voyage 087S, with instructions given on October 17, 2025. The container was loaded in week 42 and shipped out starting from October 9, 2025. The container held 374 pieces of MESH ROOF, weighing 25.25 kg per piece, totaling 9,443.5 kg. The shipment was marked as shipped and closed on October 20, 2025.
+
+8mm Wire 6m long (425 pcs) 6MBW8, ordered under shipment 5816.0, was loaded into container CSNU6143626. The container was sealed with OOL KJQ 9844 and transported aboard the COSCO ISTANBUL during voyage 087S, with instructions given on October 17, 2025. The container was loaded in week 42 and shipped out starting from October 9, 2025. The container held 1 piece of 8mm Wire, weighing 1043 kg per piece, totaling 1043 kg. The shipment was marked as shipped and closed on October 20, 2025.
+
+Black Mesh -IMB5-64-5113-JMOL, ordered under shipment 5816.0, was loaded into container CSNU6143626. The container was sealed with OOL KJQ 9844 and transported aboard the COSCO ISTANBUL during voyage 087S, with instructions given on October 17, 2025. The container was loaded in week 42 and shipped out starting from October 9, 2025. The container held 88 pieces of Black Mesh, weighing 22.2 kg per piece, totaling 1,953.6 kg. The shipment was marked as shipped and closed on October 20, 2025.
+
+DMW shipped a container (CSNU7195882) from Istanbul to Brisbane under CIF terms. The container included parts such as MESH ROOF 5.00MX1.35M 100X100 APT 5.0MM WIRE IMB5-44-5014-JNA and Glut 90x90x1600. The shipment was completed on October 19, 2025, and the closing date was October 20, 2025.
+
+DMW shipped another container (CSNU7195882) from Istanbul to Brisbane under CIF terms. The container included parts such as Glut 90x90x1050. The shipment was completed on October 19, 2025, and the closing date was October 20, 2025.
+
+DMW shipped a container (OOLU6942023) from Istanbul to Brisbane under CIF terms. The container included parts such as MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN and Glut 90x90x1400. The shipment was completed on October 19, 2025, and the closing date was October 20, 2025.
+
+DMW shipped a container (OOLU6942023) from Istanbul to Brisbane under CIF terms. The container included parts such as IMG4-44-3024 and Wooden Pallet 3000x2400. The shipment was completed on October 19, 2025, and the closing date was October 20, 2025.
+
+DMW shipped a container (FFAU6282809) from Istanbul to Brisbane under CIF terms. The container included parts such as IMG4-44-3024 and Wooden Pallet 3000x2400. The shipment was completed on October 19, 2025, and the closing date was October 20, 2025.
+
+DMW shipped a container (CBHU9581145) from Istanbul to Brisbane under CIF terms. The container included parts such as MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN and Glut 90x90x1400. The shipment was completed on October 19, 2025, and the closing date was October 20, 2025.
+
+DMW shipped a container (CBHU9581145) from Istanbul to Brisbane under CIF terms. The container included parts such as IMG4-44-3024 and Wooden Pallet 3000x2400. The shipment was completed on October 19, 2025, and the closing date was October 20, 2025.
+
+DMW shipped a container (OOCU8883495) from Istanbul to Brisbane under CIF terms. The container included parts such as IMG4-44-3024 and Wooden Pallet 3000x2400. The shipment was completed on October 19, 2025, and the closing date was October 20, 2025.
+
+DMW shipped a container (OOCU8883495) from Istanbul to Brisbane under CIF terms. The container included parts such as IMG4-44-3024 and Wooden Pallet 3000x2400. The shipment was completed on October 19, 2025, and the closing date was October 20, 2025.
+
+DMW shipped a container (FFAU9019996) from Istanbul to Brisbane under CIF terms. The container included parts such as IMG4-44-3024 and Wooden Pallet 3000x2400. The shipment was completed on October 19, 2025, and the closing date was October 20, 2025.
+
+DMW shipped a container (FFAU9019996) from Istanbul to Brisbane under CIF terms. The container included parts such as IMG4-44-3024 and Wooden Pallet 3000x2400. The shipment was completed on October 19, 2025, and the closing date was October 20, 2025.
+
+DMW shipped a container (FFAU9019996) from Istanbul to Brisbane under CIF terms. The container included parts such as IMGX44H-44-5012-VGUW and Wooden Pallet 3000x2400. The shipment was completed on October 19, 2025, and the closing date was October 20, 2025.
+
+DMW shipped a container (FFAU9019996) from Istanbul to Brisbane under CIF terms. The container included parts such as IMGX44H-44-5012-VGOC and Wooden Pallet 3000x2400. The shipment was completed on October 19, 2025, and the closing date was October 20, 2025.
+
+DMW shipped a container (FFAU3376822) from Istanbul to Fremantle under CIF terms. The container included parts such as 100x100x2400x1200x5.6 Ind Mesh IMG5H-44-2412 and 7.10mm Bright Wire In Coils R500L7.1-Coils. The shipment was completed on October 19, 2025, and the closing date was October 21, 2025.
+
+DMW shipped a container (CSNU6265732) from Istanbul to Fremantle under CIF terms. The container included parts such as 100x100x2400x1200x5.6 Ind Mesh IMG5H-44-2412 and 7.10mm Bright Wire In Coils R500L7.1-Coils. The shipment was completed on October 19, 2025, and the closing date was October 21, 2025.
+
+DMW shipped a container (CSNU7320897) from Istanbul to Adelaide under CIF terms. The container included parts such as MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN and Glut 90x90x300. The shipment was completed on October 20, 2025, and the closing date was October 21, 2025.
+
+DMW shipped a container (CSNU7320897) from Istanbul to Adelaide under CIF terms. The container included parts such as MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN and Glut 90x90x300. The shipment was completed on October 20, 2025, and the closing date was October 21, 2025.
+
+DMW shipped a container (CSNU7727769) from Istanbul to Adelaide under CIF terms. The container included parts such as MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN and Glut 90x90x300. The shipment was completed on October 20, 2025, and the closing date was October 21, 2025.
+
+DMW shipped a container (CSNU7727769) from Istanbul to Adelaide under CIF terms. The container included parts such as MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN and Glut 90x90x300. The shipment was completed on October 20, 2025, and the closing date was October 21, 2025.
+
+DMW supplied MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Adelaide with a total weight of 23705.0 kg. The shipment was made via container OOCU8404817 on the JOGELA vessel during voyage 208S. The shipping instructions were given on October 17, 2025, and the container was loaded on week 42. The shipment was completed on October 19, 2025, and the shipping documents were issued on October 20, 2025. The closing date was October 21, 2025.
+
+DMW shipped Glut 90x90x300 parts to Adelaide with a total weight of 426.6 kg. The shipment was made via container OOCU8404817 on the JOGELA vessel during voyage 208S. The shipping instructions were given on October 17, 2025, and the container was loaded on week 42. The shipment was completed on October 19, 2025, and the shipping documents were issued on October 20, 2025. The closing date was October 21, 2025.
+
+DMW sent MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Brisbane with a total weight of 23705.0 kg. The shipment was made via container TRHU5894339 on the COSCO ADEN vessel during voyage 136S. The shipping instructions were given on October 24, 2025, and the container was loaded on week 43. The shipment was completed on October 24, 2025, and the shipping documents were issued on October 24, 2025. The closing date was October 25, 2025.
+
+DMW shipped Glut 90x90x300 parts to Brisbane with a total weight of 474.0 kg. The shipment was made via container TRHU5894339 on the COSCO ADEN vessel during voyage 136S. The shipping instructions were given on October 24, 2025, and the container was loaded on week 43. The shipment was completed on October 24, 2025, and the shipping documents were issued on October 24, 2025. The closing date was October 25, 2025.
+
+DMW dispatched Buckle parts to Brisbane with a total weight of 10.0 kg. The shipment was made via container TRHU5894339 on the COSCO ADEN vessel during voyage 136S. The shipping instructions were given on October 24, 2025, and the container was loaded on week 43. The shipment was completed on October 24, 2025, and the shipping documents were issued on October 24, 2025. The closing date was October 25, 2025.
+
+DMW shipped 19M White Strapping parts to Brisbane with a total weight of 10.0 kg. The shipment was made via container TRHU5894339 on the COSCO ADEN vessel during voyage 136S. The shipping instructions were given on October 24, 2025, and the container was loaded on week 43. The shipment was completed on October 24, 2025, and the shipping documents were issued on October 24, 2025. The closing date was October 25, 2025.
+
+DMW sent IMGX44H-44-5012-VGUW parts to Brisbane with a total weight of 11361.6 kg. The shipment was made via container SEKU4656599 on the COSCO ADEN vessel during voyage 136S. The shipping instructions were given on October 24, 2025, and the container was loaded on week 43. The shipment was completed on October 24, 2025, and the shipping documents were issued on October 24, 2025. The closing date was October 25, 2025.
+
+DMW shipped Glut 90x90x1400 parts to Brisbane with a total weight of 1110.0 kg. The shipment was made via container SEKU4656599 on the COSCO ADEN vessel during voyage 136S. The shipping instructions were given on October 24, 2025, and the container was loaded on week 43. The shipment was completed on October 22, 2025, and the shipping documents were issued on October 24, 2025. The closing date was October 25, 2025.
+
+DMW dispatched IMGX44H-44-5012-VGUW parts to Brisbane with a total weight of 11361.6 kg. The shipment was made via container FCIU9860317 on the COSCO ADEN vessel during voyage 136S. The shipping instructions were given on October 24, 2025, and the container was loaded on week 43. The shipment was completed on October 22, 2025, and the shipping documents were issued on October 24, 2025. The closing date was October 25, 2025.
+
+DMW shipped Glut 90x90x1400 parts to Brisbane with a total weight of 1110.0 kg. The shipment was made via container FCIU9860317 on the COSCO ADEN vessel during voyage 136S. The shipping instructions were given on October 24, 2025, and the container was loaded on week 43. The shipment was completed on October 22, 2025, and the shipping documents were issued on October 24, 2025. The closing date was October 25, 2025.
+
+DMW sent IMGX44H-44-5012-VGOC parts to Brisbane with a total weight of 10267.2 kg. The shipment was made via container OOCU8187080 on the COSCO ADEN vessel during voyage 136S. The shipping instructions were given on October 24, 2025, and the container was loaded on week 43. The shipment was completed on October 23, 2025, and the shipping documents were issued on October 24, 2025. The closing date was October 25, 2025.
+
+DMW shipped Glut 90x90x300 parts to Brisbane with a total weight of 711.0 kg. The shipment was made via container OOCU8187080 on the COSCO ADEN vessel during voyage 136S. The shipping instructions were given on October 24, 2025, and the container was loaded on week 43. The shipment was completed on October 23, 2025, and the shipping documents were issued on October 24, 2025. The closing date was October 25, 2025.
+
+DMW dispatched IMGX44H-44-5012-VGOC parts to Brisbane with a total weight of 10267.2 kg. The shipment was made via container TGBU8845890 on the COSCO ADEN vessel during voyage 136S. The shipping instructions were given on October 24, 2025, and the container was loaded on week 43. The shipment was completed on October 23, 2025, and the shipping documents were issued on October 24, 2025. The closing date was October 25, 2025.
+
+DMW shipped Glut 90x90x300 parts to Brisbane with a total weight of 711.0 kg. The shipment was made via container TGBU8845890 on the COSCO ADEN vessel during voyage 136S. The shipping instructions were given on October 24, 2025, and the container was loaded on week 43. The shipment was completed on October 23, 2025, and the shipping documents were issued on October 24, 2025. The closing date was October 25, 2025.
+
+DMW sent IMGX44H-44-5012-VGUW parts to Brisbane with a total weight of 11361.6 kg. The shipment was made via container OOLU8975026 on the COSCO ADEN vessel during voyage 136S. The shipping instructions were given on October 24, 2025, and the container was loaded on week 43. The shipment was completed on October 24, 2025, and the shipping documents were issued on October 24, 2025. The closing date was October 25, 2025.
+
+DMW shipped MESH RIB 2.40MX1.50M 100X100 APT 3.0/4.0MM WIRE -G IMG34-44-2415-JAS parts to Brisbane with a total weight of 9536.0 kg. The shipment was made via container OOCU7632670 on the COSCO ADEN vessel during voyage 136S. The shipping instructions were given on October 24, 2025, and the container was loaded on week 43. The shipment was completed on October 25, 2025, and the shipping documents were issued on October 24, 2025. The closing date was October 25, 2025.
+
+DMW dispatched MESH RIB 2.40MX1.50M 100X100 APT 3.0/4.0MM WIRE -G IMG34-44-2415-JAS parts to Brisbane with a total weight of 8940.0 kg. The shipment was made via container OOCU7632670 on the COSCO ADEN vessel during voyage 136S. The shipping instructions were given on October 24, 2025, and the container was loaded on week 43. The shipment was completed on October 25, 2025, and the shipping documents were issued on October 24, 2025. The closing date was October 25, 2025.
+
+DMW sent 5.0mm Bright Wire In Coils R500L5.0-Coils parts to Fremantle with a total weight of 24113.0 kg. The shipment was made via container OOLU2181008 on the COSCO GENOA vessel during voyage 096S. The shipping instructions were given on October 24, 2025, and the container was loaded on week 43. The shipment was completed on October 24, 2025, and the shipping documents were issued on October 21, 2025. The closing date was October 26, 2025.
+
+DMW shipped 5.0mm Bright Wire In Coils R500L5.0-Coils parts to Fremantle with a total weight of 24184.0 kg. The shipment was made via container CBHU4464212 on the COSCO GENOA vessel during voyage 096S. The shipping instructions were given on October 24, 2025, and the container was loaded on week 43. The shipment was completed on October 24, 2025, and the shipping documents were issued on October 21, 2025. The closing date was October 26, 2025.
+
+DMW dispatched 5.0mm Bright Wire In Coils R500L5.0-Coils parts to Fremantle with a total weight of 24186.0 kg. The shipment was made via container CSNU1376287 on the COSCO GENOA vessel during voyage 096S. The shipping instructions were given on October 24, 2025, and the container was loaded on week 43. The shipment was completed on October 24, 2025, and the shipping documents were issued on October 21, 2025. The closing date was October 26, 2025.
+
+DMW shipped 24.0 units of 5.0mm Bright Wire In Coils R500L5.0-Coils to Fremantle under CIF terms. The shipment was loaded onto the COSCO GENOA during week 43, with a sailing date of October 24, 2025. The container OOLU0889174 was sealed with OOL JLT 3864 and weighed 24,145.0 kg. The documents were prepared on October 21, 2025, and the order was placed on 253610.
+
+DMW shipped 4.0 units of Bright Wire 8GA A 1064 to Pakistan under FOB terms. The shipment was loaded onto the NORDSERAPHINA during week 43, with a sailing date of October 28, 2025. The container NIDU2378808 was sealed with HLC3939530 and weighed 19,302.0 kg. The documents were prepared on October 21, 2025, and the order was placed on 581529.
+
+DMW shipped 2.0 units of Bright Wire 6.5GA A1064 to Pakistan under FOB terms. The shipment was loaded onto the NORDSERAPHINA during week 43, with a sailing date of October 28, 2025. The container NIDU2378808 was sealed with HLC3939530 and weighed 19,302.0 kg. The documents were prepared on October 21, 2025, and the order was placed on 581529.
+
+DMW shipped 2.0 units of Galv Wire 6GA A1064 to Pakistan under FOB terms. The shipment was loaded onto the NORDSERAPHINA during week 43, with a sailing date of October 28, 2025. The container NIDU2378808 was sealed with HLC3939530 and weighed 19,302.0 kg. The documents were prepared on October 21, 2025, and the order was placed on 581529.
+
+DMW shipped 8.0 units of Bright Wire 6.5GA A1064 to Pakistan under FOB terms. The shipment was loaded onto the NORDSERAPHINA during week 43, with a sailing date of October 27, 2025. The container BSIU2104130 was sealed with HLC3939422 and weighed 19,271.0 kg. The documents were prepared on October 21, 2025, and the order was placed on 581529.
+
+DMW shipped 8.0 units of Bright Wire 6.5GA A1064 to Pakistan under FOB terms. The shipment was loaded onto the NORDSERAPHINA during week 43, with a sailing date of October 25, 2025. The container TEMU1467079 was sealed with HLC3939517 and weighed 19,209.0 kg. The documents were prepared on October 21, 2025, and the order was placed on 581529.
+
+DMW shipped 8.0 units of Bright Wire 6.5GA A1064 to Pakistan under FOB terms. The shipment was loaded onto the NORDSERAPHINA during week 43, with a sailing date of October 25, 2025. The container CAIU2661552 was sealed with HLC3939483 and weighed 19,316.0 kg. The documents were prepared on October 21, 2025, and the order was placed on 581529.
+
+DMW shipped 8.0 units of Bright Wire 6.5GA A1064 to Pakistan under FOB terms. The shipment was loaded onto the NORDSERAPHINA during week 43, with a sailing date of October 27, 2025. The container TEMU2212724 was sealed with HLC3939468 and weighed 19,259.0 kg. The documents were prepared on October 21, 2025, and the order was placed on 581529.
+
+DMW shipped 8.0 units of Bright Wire 6.5GA A1064 to Pakistan under FOB terms. The shipment was loaded onto the NORDSERAPHINA during week 43, with a sailing date of October 27, 2025. The container DFSU2695220 was sealed with HLC3939423 and weighed 18,984.0 kg. The documents were prepared on October 21, 2025, and the order was placed on 581529.
+
+DMW shipped 11.0 units of IMZG4-305H-35H24H, 24.0 units of IMZG4-305H-42H24H, 10.0 units of IMZG4-305H-43H24H, 61.0 units of IMZG4-305H-45H24H, and 20.0 units of IMZG4-305H-46H24H to Fremantle under CIF terms. The shipment was loaded onto the NORDSERAPHINA during week 43, with a sailing date of October 21, 2025. The container TLLU1503562 was sealed with HLC3939423 and weighed 12,534.62 kg. The documents were prepared on October 21, 2025, and the order was placed on 253297.
+
+DMW shipped 572.0 units of MESH ROOF 5.00MX1.55M 100X100 APT 5.0MM WIRE SLG IMB5-46-5016-JNA and 400.0 units of IMG3H-44-1716 to Brisbane under CIF terms. The shipment was loaded onto the SINGAPORE during week 44, with a sailing date of October 28, 2025. The containers CMAU9157741 and CMAU9157741 were sealed with M2715853 and M2715853 respectively and weighed 15,448.88 kg. The documents were prepared on October 30, 2025, and the orders were placed on 251543 and 253448.
+
+DMW shipped 462.0 units of MESH ROOF 5.00MX1.55M 100X100 APT 5.0MM WIRE SLG IMB5-46-5016-JNA and 400.0 units of IMG3H-44-1716 to Brisbane under CIF terms. The shipment was loaded onto the SINGAPORE during week 44, with a sailing date of October 30, 2025. The containers FFAU4506807 and FFAU4506807 were sealed with M2715854 and M2715854 respectively and weighed 12,749.48 kg. The documents were prepared on October 30, 2025, and the orders were placed on 251543 and 253448.
+
+DMW shipped 440.0 units of MESH ROOF 5.00MX1.55M 100X100 APT 5.0MM WIRE SLG IMB5-46-5016-JNA and 80.0 units of OSH106H-5803 to Brisbane under CIF terms. The shipment was loaded onto the SINGAPORE during week 44, with a sailing date of October 28, 2025. The containers TEMU7573503 and TEMU7573503 were sealed with M2717786 and M2717786 respectively and weighed 12,621.6 kg. The documents were prepared on October 30, 2025, and the orders were placed on 251543 and 253497.
+
+DMW supplied parts to Brisbane under CIF terms for order 252349. The part IMGX44H-44-5012-VGOC was shipped in container CAAU6346474 with seal M2717753 aboard the vessel SINGAPORE on voyage 204S. The shipping instructions were given on November 1, 2025, and the load week was 44. The quantity was 720 pieces, each weighing 14.26 kg, totaling 10267.2 kg. The container weight was 11679.2 kg, and the shipment was marked as shipped. The shipping documents were issued on October 30, 2025, and the closing date was November 1, 2025.
+
+DMW supplied part IMG3H-44-1716 to Brisbane under CIF terms for order 253448. The part was shipped in container CAAU6346474 with seal M2717753 aboard the vessel SINGAPORE on voyage 204S. The shipping instructions were given on November 1, 2025, and the load week was 44. The quantity was 400 pieces, each weighing 3.53 kg, totaling 1412 kg. The container weight was 11679.2 kg, and the shipment was marked as shipped. The shipping documents were issued on October 30, 2025, and the closing date was November 1, 2025.
+
+DMW supplied parts to Brisbane under CIF terms for order 253629. The first part, MESH ROOF 5.00MX1.35M 100X100 APT 5.0MM WIRE IMB5-44-5014-JNA, was shipped in container GESU6916438 with seal M2715206 aboard the vessel SINGAPORE on voyage 204S. The shipping instructions were given on November 1, 2025, and the load week was 44. The quantity was 611 pieces, each weighing 25.25 kg, totaling 15427.75 kg. The container weight was 15544.3 kg, and the shipment was marked as shipped. The shipping documents were issued on October 30, 2025, and the closing date was November 1, 2025.
+
+The second part, IMB44-66-1711-JULW, was also shipped in container GESU6916438 with seal M2715206 aboard the vessel SINGAPORE on voyage 204S. The shipping instructions were given on November 1, 2025, and the load week was 44. The quantity was 37 pieces, each weighing 3.15 kg, totaling 116.55 kg. The container weight was 15544.3 kg, and the shipment was marked as shipped. The shipping documents were issued on October 30, 2025, and the closing date was November 1, 2025.
+
+DMW supplied parts to Brisbane under CIF terms for order 253429. The first part, MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN, was shipped in container CMAU8752863 with seal M2718046 aboard the vessel SINGAPORE on voyage 204S. The shipping instructions were given on November 1, 2025, and the load week was 44. The quantity was 550 pieces, each weighing 43.1 kg, totaling 23705 kg. The container weight was 23705 kg, and the shipment was marked as shipped. The shipping documents were issued on October 30, 2025, and the closing date was November 1, 2025.
+
+The second part, MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN, was also shipped in container TCNU5300006 with seal M2715298 aboard the vessel SINGAPORE on voyage 204S. The shipping instructions were given on November 1, 2025, and the load week was 44. The quantity was 550 pieces, each weighing 43.1 kg, totaling 23705 kg. The container weight was 23705 kg, and the shipment was marked as shipped. The shipping documents were issued on October 30, 2025, and the closing date was November 1, 2025.
+
+The third part, MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN, was also shipped in container CMAU6568245 with seal M2718242 aboard the vessel SINGAPORE on voyage 204S. The shipping instructions were given on November 1, 2025, and the load week was 44. The quantity was 550 pieces, each weighing 43.1 kg, totaling 23705 kg. The container weight was 23705 kg, and the shipment was marked as shipped. The shipping documents were issued on October 30, 2025, and the closing date was November 1, 2025.
+
+The fourth part, MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN, was also shipped in container BMOU5421745 with seal M2717956 aboard the vessel SINGAPORE on voyage 204S. The shipping instructions were given on November 1, 2025, and the load week was 44. The quantity was 550 pieces, each weighing 43.1 kg, totaling 23705 kg. The container weight was 23705 kg, and the shipment was marked as shipped. The shipping documents were issued on October 30, 2025, and the closing date was November 1, 2025.
+
+The fifth part, MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN, was also shipped in container FFAU4412312 with seal M2715875 aboard the vessel SINGAPORE on voyage 204S. The shipping instructions were given on November 1, 2025, and the load week was 44. The quantity was 550 pieces, each weighing 43.1 kg, totaling 23705 kg. The container weight was 23705 kg, and the shipment was marked as shipped. The shipping documents were issued on October 30, 2025, and the closing date was November 1, 2025.
+
+DMW supplied part 5.55mm Galv Wire In Coils COILGW5.6 to Fremantle under CIF terms for order 253133. The part was shipped in container UETU2532067 with seal OOL KTX 3421 aboard the vessel OOCL PANAMA on voyage 328S. The shipping instructions were given on November 1, 2025, and the load week was 44. The quantity was 24 pieces, each weighing 1000 kg, totaling 24492 kg. The container weight was 24492 kg, and the shipment was marked as shipped. The shipping documents were issued on October 29, 2025, and the closing date was November 1, 2025.
+
+DMW supplied part MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Adelaide under CIF terms for order 253427. The part was shipped in container CSNU7234947 with seal OOL KAG 5149 aboard the vessel OOCL PANAMA on voyage 328S. The shipping instructions were given on November 1, 2025, and the load week was 44. The quantity was 550 pieces, each weighing 43.1 kg, totaling 23705 kg. The container weight was 24131.6 kg, and the shipment was marked as shipped. The shipping documents were issued on October 30, 2025, and the closing date was November 1, 2025.
+
+The second part, Glut 90x90x300, was also shipped in container CSNU7234947 with seal OOL KAG 5149 aboard the vessel OOCL PANAMA on voyage 328S. The shipping instructions were given on November 1, 2025, and the load week was 44. The quantity was 180 pieces, each weighing 2.37 kg, totaling 426.6 kg. The container weight was 24131.6 kg, and the shipment was marked as shipped. The shipping documents were issued on October 30, 2025, and the closing date was November 1, 2025.
+
+The third part, MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN, was also shipped in container CSNU6010794 with seal OOL KAG 5228 aboard the vessel OOCL PANAMA on voyage 328S. The shipping instructions were given on November 1, 2025, and the load week was 44. The quantity was 550 pieces, each weighing 43.1 kg, totaling 23705 kg. The container weight was 24131.6 kg, and the shipment was marked as shipped. The shipping documents were issued on October 30, 2025, and the closing date was November 1, 2025.
+
+The fourth part, Glut 90x90x300, was also shipped in container CSNU6010794 with seal OOL KAG 5228 aboard the vessel OOCL PANAMA on voyage 328S. The shipping instructions were given on November 1, 2025, and the load week was 44. The quantity was 180 pieces, each weighing 2.37 kg, totaling 426.6 kg. The container weight was 24131.6 kg, and the shipment was marked as shipped. The shipping documents were issued on October 30, 2025, and the closing date was November 1, 2025.
+
+The fifth part, MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN, was also shipped in container TGBU4120247 with seal OOL KAG 5227 aboard the vessel OOCL PANAMA on voyage 328S. The shipping instructions were given on November 1, 2025, and the load week was 44. The quantity was 550 pieces, each weighing 43.1 kg, totaling 23705 kg. The container weight was 24131.6 kg, and the shipment was marked as shipped. The shipping documents were issued on October 30, 2025, and the closing date was November 1, 2025.
+
+The sixth part, Glut 90x90x300, was also shipped in container TGBU4120247 with seal OOL KAG 5227 aboard the vessel OOCL PANAMA on voyage 328S. The shipping instructions were given on November 1, 2025, and the load week was 44. The quantity was 180 pieces, each weighing 2.37 kg, totaling 426.6 kg. The container weight was 24131.6 kg, and the shipment was marked as shipped. The shipping documents were issued on October 30, 2025, and the closing date was November 1, 2025.
+
+The seventh part, MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN, was also shipped in container FSCU8827587 with seal OOL HUM 3680 aboard the vessel OOCL PANAMA on voyage 328S. The shipping instructions were given on November 1, 2025, and the load week was 44. The quantity was 550 pieces, each weighing 43.1 kg, totaling 23705 kg. The container weight was 24131.6 kg, and the shipment was marked as shipped. The shipping documents were issued on October 30, 2025, and the closing date was November 1, 2025.
+
+The eighth part, Glut 90x90x300, was also shipped in container FSCU8827587 with seal OOL HUM 3680 aboard the vessel OOCL PANAMA on voyage 328S. The shipping instructions were given on November 1, 2025, and the load week was 44. The quantity was 180 pieces, each weighing 2.37 kg, totaling 426.6 kg. The container weight was 24131.6 kg, and the shipment was marked as shipped. The shipping documents were issued on October 30, 2025, and the closing date was November 1, 2025.
+
+DMW supplied MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Adelaide under CIF terms. The order number is 253427, with a quantity of 550 pieces, each weighing 43.1 kg, totaling 23705 kg. The container weighs 24131.6 kg. The shipment was completed on November 1, 2025.
+
+DMW also shipped Glut 90x90x300 parts to Adelaide under CIF terms. The order number is 253427, with a quantity of 180 pieces, each weighing 2.37 kg, totaling 426.6 kg. The container weighs 24131.6 kg. The shipment was completed on November 1, 2025.
+
+DMW sent MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Adelaide under CIF terms. The order number is 252809, with a quantity of 600 pieces, each weighing 30.93 kg, totaling 18558 kg. The container weighs 24131.6 kg. The shipment was completed on November 8, 2025.
+
+DMW also shipped Glut 90x90x300 parts to Adelaide under CIF terms. The order number is 252809, with a quantity of 180 pieces, each weighing 2.37 kg, totaling 426.6 kg. The container weighs 24131.6 kg. The shipment was completed on November 8, 2025.
+
+DMW dispatched 100x100x5000x2400x4.50 IndMesh IMB4H-44-5024 parts to Adelaide under CIF terms. The order number is 252809, with a quantity of 600 pieces, each weighing 30.93 kg, totaling 18558 kg. The container weighs 18984.6 kg. The shipment was completed on November 8, 2025.
+
+DMW also shipped Glut 90x90x300 parts to Adelaide under CIF terms. The order number is 252809, with a quantity of 180 pieces, each weighing 2.37 kg, totaling 426.6 kg. The container weighs 18984.6 kg. The shipment was completed on November 8, 2025.
+
+DMW sent 100x100x5000x2400x4.50 IndMesh IMB4H-44-5024 parts to Adelaide under CIF terms. The order number is 252809, with a quantity of 600 pieces, each weighing 30.93 kg, totaling 18558 kg. The container weighs 18984.6 kg. The shipment was completed on November 8, 2025.
+
+DMW also shipped Glut 90x90x300 parts to Adelaide under CIF terms. The order number is 252809, with a quantity of 180 pieces, each weighing 2.37 kg, totaling 426.6 kg. The container weighs 18984.6 kg. The shipment was completed on November 8, 2025.
+
+DMW dispatched 100x100x5000x2400x4.50 IndMesh IMB4H-44-5024 parts to Adelaide under CIF terms. The order number is 252809, with a quantity of 600 pieces, each weighing 30.93 kg, totaling 18558 kg. The container weighs 18984.6 kg. The shipment was completed on November 8, 2025.
+
+DMW also shipped Glut 90x90x300 parts to Adelaide under CIF terms. The order number is 252809, with a quantity of 180 pieces, each weighing 2.37 kg, totaling 426.6 kg. The container weighs 18984.6 kg. The shipment was completed on November 8, 2025.
+
+DMW sent MESH MINE 4.0MX2.4M 100X100 APT 5.6MM WIRE - GAL IMG5H-44-4024 parts to Adelaide under CIF terms. The order number is 251635, with a quantity of 600 pieces, each weighing 39.1 kg, totaling 23460 kg. The container weighs 23886.6 kg. The shipment was completed on November 8, 2025.
+
+DMW also shipped Glut 90x90x300 parts to Adelaide under CIF terms. The order number is 251635, with a quantity of 180 pieces, each weighing 2.37 kg, totaling 426.6 kg. The container weighs 23886.6 kg. The shipment was completed on November 8, 2025.
+
+DMW dispatched MESH MINE 4.0MX2.4M 100X100 APT 5.6MM WIRE - GAL IMG5H-44-4024 parts to Adelaide under CIF terms. The order number is 251635, with a quantity of 600 pieces, each weighing 39.1 kg, totaling 23460 kg. The container weighs 23886.6 kg. The shipment was completed on November 8, 2025.
+
+DMW also shipped Glut 90x90x300 parts to Adelaide under CIF terms. The order number is 251635, with a quantity of 180 pieces, each weighing 2.37 kg, totaling 426.6 kg. The container weighs 23886.6 kg. The shipment was completed on November 8, 2025.
+
+DMW sent MESH MINE 4.0MX2.4M 100X100 APT 5.6MM WIRE - GAL IMG5H-44-4024 parts to Adelaide under CIF terms. The order number is 251635, with a quantity of 600 pieces, each weighing 39.1 kg, totaling 23460 kg. The container weighs 23886.6 kg. The shipment was completed on November 8, 2025.
+
+DMW also shipped Glut 90x90x300 parts to Adelaide under CIF terms. The order number is 251635, with a quantity of 180 pieces, each weighing 2.37 kg, totaling 426.6 kg. The container weighs 23886.6 kg. The shipment was completed on November 8, 2025.
+
+DMW dispatched MESH MINE 4.0MX2.4M 100X100 APT 5.6MM WIRE - GAL IMG5H-44-4024 parts to Adelaide under CIF terms. The order number is 251635, with a quantity of 600 pieces, each weighing 39.1 kg, totaling 23460 kg. The container weighs 23886.6 kg. The shipment was completed on November 8, 2025.
+
+DMW also shipped Glut 90x90x300 parts to Adelaide under CIF terms. The order number is 251635, with a quantity of 180 pieces, each weighing 2.37 kg, totaling 426.6 kg. The container weighs 23886.6 kg. The shipment was completed on November 8, 2025.
+
+NORFOLK transported Galvanized Mesh - IMG3H-33-2516 parts to Auckland under CIF terms. The order number is 252907, with a quantity of 1500 pieces, each weighing 6.6 kg, totaling 9900 kg. The container weighs 9900 kg. The shipment was completed on November 8, 2025.
+
+DMW shipped 5.6mm Bright Wire In Coils R500L5.6-Coils parts to Fremantle under CIF terms. The order number is 253599, with a quantity of 24 pieces, each weighing 1000 kg, totaling 24256 kg. The container weighs 24256 kg. The shipment was completed on November 8, 2025.
+
+DMW dispatched 5.55mm Galv Wire In Coils COILGW5.6 parts to Fremantle under CIF terms. The order number is 253133, with a quantity of 10 pieces, each weighing 2400 kg, totaling 24175 kg. The container weighs 24190 kg. The shipment was completed on November 8, 2025.
+
+DMW also shipped Clifford C2 Parts to Fremantle under CIF terms. The order number is 253133, with a quantity of 1 piece, each weighing 15 kg, totaling 15 kg. The container weighs 24190 kg. The shipment was completed on November 8, 2025.
+
+DMW shipped 5.55mm Galv Wire In Coils (COILGW5.6) to Fremantle under CIF terms. The shipment was loaded onto the KOTA LAMBAI during voyage 182S, with a sailing date of November 4, 2025. The container weighed 24,376 kg and was sealed with OOL KTU 5111. The shipment was completed on November 8, 2025.
+
+DMW shipped IMGX44H-44-5012-VGUW to Brisbane under CIF terms. The shipment was loaded onto the OOCL TEXAS during voyage 224S, with a sailing date of November 8, 2025. The container weighed 14,370.4 kg and was sealed with OOL KAG 0518. The shipment was completed on November 8, 2025.
+
+DMW shipped 150x150x5100x1150x4x5 - DEN2 IMB45-66-5111-DEN2 to Brisbane under CIF terms. The shipment was loaded onto the OOCL TEXAS during voyage 224S, with a sailing date of November 8, 2025. The container weighed 14,370.4 kg and was sealed with OOL KAG 0518. The shipment was completed on November 8, 2025.
+
+DMW shipped Ausro Strap 4.0 x 0.3 OSH106H-4003 to Brisbane under CIF terms. The shipment was loaded onto the OOCL TEXAS during voyage 224S, with a sailing date of November 8, 2025. The container weighed 14,370.4 kg and was sealed with OOL KAG 0518. The shipment was completed on November 8, 2025.
+
+DMW shipped IMGX44H-44-5012-VGOC to Brisbane under CIF terms. The shipment was loaded onto the OOCL TEXAS during voyage 224S, with a sailing date of November 8, 2025. The container weighed 14,370.4 kg and was sealed with OOL KAG 0518. The shipment was completed on November 8, 2025.
+
+DMW shipped IMG3H-44-2518 to Brisbane under CIF terms. The shipment was loaded onto the OOCL TEXAS during voyage 224S, with a sailing date of November 4, 2025. The container weighed 17,535.03 kg and was sealed with OOL KJR 2946. The shipment was completed on November 8, 2025.
+
+DMW shipped 150x150x5100x1150x4x5 - DEN2 IMB45-66-5111-DEN2 to Brisbane under CIF terms. The shipment was loaded onto the OOCL TEXAS during voyage 224S, with a sailing date of November 5, 2025. The container weighed 8,827.2 kg and was sealed with OOL KAH 1997. The shipment was completed on November 8, 2025.
+
+DMW shipped IMGX44H-44-5012-VGUW to Brisbane under CIF terms. The shipment was loaded onto the OOCL TEXAS during voyage 224S, with a sailing date of November 6, 2025. The container weighed 12,773.6 kg and was sealed with OOL KAG 4708. The shipment was completed on November 8, 2025.
+
+DMW shipped IMG3H-44-1716 to Brisbane under CIF terms. The shipment was loaded onto the OOCL TEXAS during voyage 224S, with a sailing date of November 6, 2025. The container weighed 12,773.6 kg and was sealed with OOL KAG 4708. The shipment was completed on November 8, 2025.
+
+DMW shipped Bright Wire 8GA A 1064 to Pakistan under FOB terms. The shipment was loaded onto the MSC BIANCA SILVA during voyage FV548N, with a sailing date of November 23, 2025. The container weighed 19,364 kg and was sealed with FJ24423285. The shipment was completed on November 27, 2025.
+
+DMW shipped Bright Wire 8GA A 1064 to Pakistan under FOB terms. The shipment was loaded onto the MSC BIANCA SILVA during voyage FV548N, with a sailing date of November 23, 2025. The container weighed 19,193 kg and was sealed with FJ24423284. The shipment was completed on November 27, 2025.
+
+DMW shipped Bright Wire 8GA A 1064 to Pakistan under FOB terms. The shipment was loaded onto the MSC BIANCA SILVA during voyage FV548N, with a sailing date of November 22, 2025. The container weighed 19,329 kg and was sealed with FJ24423083. The shipment was completed on November 27, 2025.
+
+DMW shipped Bright Wire 8GA A 1064 to Pakistan under FOB terms. The shipment was loaded onto the MSC BIANCA SILVA during voyage FV548N, with a sailing date of November 22, 2025. The container weighed 19,321 kg and was sealed with FJ24423088. The shipment was completed on November 27, 2025.
+
+DMW shipped Bright Wire 8GA A 1064 to Pakistan under FOB terms. The shipment was loaded onto the MSC BIANCA SILVA during voyage FV548N, with a sailing date of November 23, 2025. The container weighed 19,175 kg and was sealed with FJ24423342. The shipment was completed on November 27, 2025.
+
+DMW shipped Bright Wire 8GA A 1064 to Pakistan under FOB terms. The shipment was loaded onto the MSC BIANCA SILVA during voyage FV548N, with a sailing date of November 22, 2025. The container weighed 19,349 kg and was sealed with FJ24423008. The shipment was completed on November 27, 2025.
+
+DMW shipped Bright Wire 8GA A 1064 to Pakistan under FOB terms. The shipment was loaded onto the MSC BIANCA SILVA during voyage FV548N, with a sailing date of November 23, 2025. The container weighed 19,121 kg and was sealed with FJ24423343. The shipment was completed on November 27, 2025.
+
+DMW shipped Bright Wire 8GA A 1064 to Pakistan under FOB terms. The shipment was loaded onto the MSC BIANCA SILVA during voyage FV548N, with a sailing date of November 26, 2025. The container weighed 19,456 kg and was sealed with FJ24423282. The shipment was completed on November 27, 2025.
+
+DMW shipped Bright Wire 8GA A 1064 to Pakistan under FOB terms. The shipment was loaded onto the MSC BIANCA SILVA during voyage FV548N, with a sailing date of November 26, 2025. The container weighed 19,332 kg and was sealed with FJ24423281. The shipment was completed on November 27, 2025.
+
+DMW shipped Bright Wire 8GA A 1064 to Pakistan under FOB terms. The shipment was loaded onto the MSC BIANCA SILVA during voyage FV548N, with a sailing date of November 22, 2025. The container weighed 19,165 kg and was sealed with FJ24423007. The shipment was completed on November 27, 2025.
+
+DMW shipped Bright Wire 8GA A 1064 to Pakistan under FOB terms. The shipment was loaded onto the MSC BIANCA SILVA during voyage FV548N, with a sailing date of November 22, 2025. The container weighed 19,205 kg and was sealed with FJ24423038. The shipment was completed on November 27, 2025.
+
+DMW shipped Bright Wire 8GA A 1064 to PK under FOB terms via MSC BIANCA SILVA. The shipment was completed on November 22, 2025, with a total weight of 19,280 kg. The order number is 581529, and the quantity is 8 pieces.
+
+DMW shipped IMGX44H-44-5012-VGUW to Brisbane under CIF terms via RIO GRANDE. The voyage was 038S, and the shipment was completed on November 11, 2025. The order number is 252742, and the quantity is 720 pieces.
+
+DMW shipped IMB4-66-2118 to Brisbane under CIF terms via RIO GRANDE. The voyage was 038S, and the shipment was completed on November 11, 2025. The order number is 252741, and the quantity is 500 pieces.
+
+DMW shipped IMGX44H-44-5012-VGUW to Brisbane under CIF terms via RIO GRANDE. The voyage was 038S, and the shipment was completed on November 11, 2025. The order number is 252742, and the quantity is 720 pieces.
+
+DMW shipped IMB4-66-2118 to Brisbane under CIF terms via RIO GRANDE. The voyage was 038S, and the shipment was completed on November 11, 2025. The order number is 252741, and the quantity is 500 pieces.
+
+DMW shipped IMGX44H-44-5012-VGUW to Brisbane under CIF terms via RIO GRANDE. The voyage was 038S, and the shipment was completed on November 11, 2025. The order number is 252742, and the quantity is 720 pieces.
+
+DMW shipped IMB4-66-2118 to Brisbane under CIF terms via RIO GRANDE. The voyage was 038S, and the shipment was completed on November 11, 2025. The order number is 252741, and the quantity is 500 pieces.
+
+DMW shipped IMGX44H-44-5012-VGUW to Brisbane under CIF terms via RIO GRANDE. The voyage was 038S, and the shipment was completed on November 12, 2025. The order number is 252742, and the quantity is 360 pieces.
+
+DMW shipped IMB4-66-2118 to Brisbane under CIF terms via RIO GRANDE. The voyage was 038S, and the shipment was completed on November 12, 2025. The order number is 252741, and the quantity is 500 pieces.
+
+DMW shipped MESH RIB 2.20MX1.40M 100X100 APT 4.0MM WIRE IMB4-44-2214-JMOL to Brisbane under CIF terms via RIO GRANDE. The voyage was 038S, and the shipment was completed on November 12, 2025. The order number is 253127, and the quantity is 800 pieces.
+
+DMW shipped Mine Mesh 4800X2400mm 100x100mm Apt 5.6mm wire Galv IMG5H-44-4824 to Brisbane under CIF terms via RIO GRANDE. The voyage was 038S, and the shipment was completed on November 12, 2025. The order numbers are 253622 and 253132, and the quantities are 500 and 60 pieces respectively.
+
+DMW shipped Mine Mesh 4800X2400mm 100x100mm Apt 5.6mm wire Galv IMG5H-44-4824 to Brisbane under CIF terms via RIO GRANDE. The voyage was 038S, and the shipment was completed on November 12, 2025. The order numbers are 253622 and 253132, and the quantities are 500 and 60 pieces respectively.
+
+DMW shipped Ausro Strap 4.0 x 0.3 OSH106H-4003 to Brisbane under CIF terms via RIO GRANDE. The voyage was 038S, and the shipment was completed on November 12, 2025. The order number is 253132, and the quantity is 60 pieces.
+
+DMW shipped MESH 100X100X4800X1400X4MM BLACK to Tas/Burnie under CIF terms via MAERSK SHEKOU. The voyage was 546S, and the shipment was completed on November 13, 2025. The order number is 252562, and the quantity is 720 pieces.
+
+DMW shipped Glut 90x90x1400 to Tas/Burnie under CIF terms via MAERSK SHEKOU. The voyage was 546S, and the shipment was completed on November 13, 2025. The order number is 252562, and the quantity is 80 pieces.
+
+DMW shipped MESH 100X100X4800X1400X4MM BLACK to Tas/Burnie under CIF terms via MAERSK SHEKOU. The voyage was 546S, and the shipment was completed on November 14, 2025. The order number is 252562, and the quantity is 720 pieces.
+
+DMW shipped Glut 90x90x1400 to Tas/Burnie under CIF terms via MAERSK SHEKOU. The voyage was 546S, and the shipment was completed on November 14, 2025. The order number is 252562, and the quantity is 80 pieces.
+
+DMW shipped MESH MINE 4.0MX2.4M 100X100 APT 5.6MM WIRE - GAL IMG5H-44-4024 to Adelaide under CIF terms. The voyage was 038S, and the shipment was completed on November 8, 2025. The order number is 251635, and the quantity is 600 pieces.
+
+DMW shipped Glut 90x90x300 to Adelaide under CIF terms. The voyage was 038S, and the shipment was completed on November 8, 2025. The order number is 251635, and the quantity is 180 pieces.
+
+TCNU5354609 is loaded onto the RIO GRANDE for voyage 038S. The shipping instructions were given on November 15, 2025, and the container was loaded in week 46. The vessel sailed on November 7, 2025, and the shipping documents were finalized on November 13, 2025. The container weighs 23,886.6 kg and contains 600 units of MESH MINE 4.0MX2.4M 100X100 APT 5.6MM WIRE - GAL IMG5H-44-4024, with a total weight of 23,460 kg. The shipment was completed and shipped to Adelaide under CIF terms.
+
+TCNU5354609 is also loaded with 180 units of Glut 90x90x300, weighing 426.6 kg, for the same voyage and vessel. The shipment was completed and shipped to Adelaide under CIF terms.
+
+OOCU6725398 is loaded onto the RIO GRANDE for voyage 038S. The shipping instructions were given on November 15, 2025, and the container was loaded in week 46. The vessel sailed on November 9, 2025, and the shipping documents were finalized on November 13, 2025. The container weighs 23,886.6 kg and contains 600 units of MESH MINE 4.0MX2.4M 100X100 APT 5.6MM WIRE - GAL IMG5H-44-4024, with a total weight of 23,460 kg. The shipment was completed and shipped to Adelaide under CIF terms.
+
+OOCU6725398 is also loaded with 180 units of Glut 90x90x300, weighing 426.6 kg, for the same voyage and vessel. The shipment was completed and shipped to Adelaide under CIF terms.
+
+DFSU7388801 is loaded onto the RIO GRANDE for voyage 038S. The shipping instructions were given on November 15, 2025, and the container was loaded in week 46. The vessel sailed on November 9, 2025, and the shipping documents were finalized on November 13, 2025. The container weighs 23,886.6 kg and contains 600 units of MESH MINE 4.0MX2.4M 100X100 APT 5.6MM WIRE - GAL IMG5H-44-4024, with a total weight of 23,460 kg. The shipment was completed and shipped to Adelaide under CIF terms.
+
+DFSU7388801 is also loaded with 180 units of Glut 90x90x300, weighing 426.6 kg, for the same voyage and vessel. The shipment was completed and shipped to Adelaide under CIF terms.
+
+TLLU2692394 is loaded onto the OLYMPIC BAY for voyage 140S. The shipping instructions were given on November 15, 2025, and the container was loaded in week 46. The vessel sailed on November 8, 2025, and the shipping documents were finalized on November 13, 2025. The container weighs 23,943 kg and contains 10 units of 5.55mm Galv Wire In Coils COILGW5.6, with a total weight of 23,943 kg. The shipment was completed and shipped to Fremantle under CIF terms.
+
+BSIU2592143 is loaded onto the OLYMPIC BAY for voyage 140S. The shipping instructions were given on November 15, 2025, and the container was loaded in week 46. The vessel sailed on November 8, 2025, and the shipping documents were finalized on November 13, 2025. The container weighs 24,219 kg and contains 10 units of 5.55mm Galv Wire In Coils COILGW5.6, with a total weight of 24,219 kg. The shipment was completed and shipped to Fremantle under CIF terms.
+
+OOLU0671156 is loaded onto the OLYMPIC BAY for voyage 140S. The shipping instructions were given on November 15, 2025, and the container was loaded in week 46. The vessel sailed on November 9, 2025, and the shipping documents were finalized on November 13, 2025. The container weighs 24,124 kg and contains 10 units of 5.55mm Galv Wire In Coils COILGW5.6, with a total weight of 24,124 kg. The shipment was completed and shipped to Fremantle under CIF terms.
+
+CSLU1856993 is loaded onto the OLYMPIC BAY for voyage 140S. The shipping instructions were given on November 15, 2025, and the container was loaded in week 46. The vessel sailed on November 9, 2025, and the shipping documents were finalized on November 13, 2025. The container weighs 24,052 kg and contains 10 units of 5.55mm Galv Wire In Coils COILGW5.6, with a total weight of 24,052 kg. The shipment was completed and shipped to Fremantle under CIF terms.
+
+OOLU0185787 is loaded onto the OLYMPIC BAY for voyage 140S. The shipping instructions were given on November 15, 2025, and the container was loaded in week 46. The vessel sailed on November 9, 2025, and the shipping documents were finalized on November 13, 2025. The container weighs 24,198 kg and contains 24 units of 5.6mm Bright Wire In Coils R500L5.6-Coils, with a total weight of 24,198 kg. The shipment was completed and shipped to Fremantle under CIF terms.
+
+CBHU4413215 is loaded onto the OLYMPIC BAY for voyage 140S. The shipping instructions were given on November 15, 2025, and the container was loaded in week 46. The vessel sailed on November 11, 2025, and the shipping documents were finalized on November 13, 2025. The container weighs 24,080 kg and contains 10 units of 5.55mm Galv Wire In Coils COILGW5.6, with a total weight of 24,080 kg. The shipment was completed and shipped to Fremantle under CIF terms.
+
+TEMU4101885 is loaded onto the OLYMPIC BAY for voyage 140S. The shipping instructions were given on November 15, 2025, and the container was loaded in week 46. The vessel sailed on November 12, 2025, and the shipping documents were finalized on November 13, 2025. The container weighs 24,136 kg and contains 24 units of 6.3mm Bright Wire In Coils R500L6.3-Coils, with a total weight of 24,136 kg. The shipment was completed and shipped to Fremantle under CIF terms.
+
+UETU2552850 is loaded onto the OLYMPIC BAY for voyage 140S. The shipping instructions were given on November 15, 2025, and the container was loaded in week 46. The vessel sailed on November 11, 2025, and the shipping documents were finalized on November 13, 2025. The container weighs 24,013 kg and contains 10 units of 5.55mm Galv Wire In Coils COILGW5.6, with a total weight of 24,013 kg. The shipment was completed and shipped to Fremantle under CIF terms.
+
+TEMU0200257 is loaded onto the OLYMPIC BAY for voyage 140S. The shipping instructions were given on November 15, 2025, and the container was loaded in week 46. The vessel sailed on November 11, 2025, and the shipping documents were finalized on November 13, 2025. The container weighs 24,030 kg and contains 10 units of 5.55mm Galv Wire In Coils COILGW5.6, with a total weight of 24,030 kg. The shipment was completed and shipped to Fremantle under CIF terms.
+
+OOLU0343096 is loaded onto the SINGAPORE for voyage 205S. The shipping instructions were given on November 22, 2025, and the container was loaded in week 47. The vessel sailed on November 15, 2025, and the shipping documents were finalized on November 21, 2025. The container weighs 24,187 kg and contains 24 units of 6.3mm Bright Wire In Coils R500L6.3-Coils, with a total weight of 24,187 kg. The shipment was completed and shipped to Fremantle under CIF terms.
+
+CSLU1998940 is loaded onto the SINGAPORE for voyage 205S. The shipping instructions were given on November 22, 2025, and the container was loaded in week 47. The vessel sailed on November 15, 2025, and the shipping documents were finalized on November 21, 2025. The container weighs 24,032 kg and contains 24 units of 5.0mm Bright Wire In Coils R500L5.0-Coils, with a total weight of 24,032 kg. The shipment is planned but not yet shipped to Fremantle under CIF terms.
+
+UETU2124609 is loaded onto the SINGAPORE for voyage 205S. The shipping instructions were given on November 22, 2025, and the container was loaded in week 47. The vessel sailed on November 18, 2025, and the shipping documents were finalized on November 21, 2025. The container weighs 24,060 kg and contains 24 units of 5.0mm Bright Wire In Coils R500L5.0-Coils, with a total weight of 24,060 kg. The shipment is planned but not yet shipped to Fremantle under CIF terms.
+
+SLSU2029853 is loaded onto the SINGAPORE for voyage 205S. The shipping instructions were given on November 22, 2025, and the container was loaded in week 47. The vessel sailed on November 18, 2025, and the shipping documents were finalized on November 21, 2025. The container weighs 24,056 kg and contains 10 units of 5.55mm Galv Wire In Coils COILGW5.6, with a total weight of 24,056 kg. The shipment is planned but not yet shipped to Fremantle under CIF terms.
+
+CSLU1880500 is loaded onto the SINGAPORE for voyage 205S. The shipping instructions were given on November 22, 2025, and the container was loaded in week 47. The vessel sailed on November 18, 2025, and the shipping documents were finalized on November 21, 2025. The container weighs 24,110 kg and contains 10 units of 5.55mm Galv Wire In Coils COILGW5.6, with a total weight of 24,110 kg. The shipment is planned but not yet shipped to Fremantle under CIF terms.
+
+FCIU4855663, loaded with 24.0 units of 7.60mm Ribbed Wire in Spools D500L7.6-Spools, was shipped from Fremantle under CIF terms. The shipment was documented on November 21, 2025, and closed on November 22, 2025.
+
+TRHU3965449, containing 24.0 units of 8.60mm Ribbed Wire in Spools D500L8.6-Spools, was also shipped from Fremantle under CIF terms. The shipment was documented on November 21, 2025, and closed on November 22, 2025.
+
+CSLU2071897, packed with 10.0 units of 5.55mm Galv Wire In Coils COILGW5.6, was shipped from Fremantle under CIF terms. The shipment was documented on November 21, 2025, and closed on November 22, 2025.
+
+CSNU1529540, holding 10.0 units of 5.55mm Galv Wire In Coils COILGW5.6, was shipped from Fremantle under CIF terms. The shipment was documented on November 21, 2025, and closed on November 22, 2025.
+
+FCIU9128707, carrying 500.0 units of Mine Mesh 4800X2400mm 100x100mm Apt 5.6mm wire Galv IMG5H-44-4824 and 40.0 units of Ausro Strap 4.0 x 0.3 OSH106H-4003, was shipped from Fremantle to Brisbane under CIF terms. The shipment was documented on November 13, 2025, and closed on November 22, 2025.
+
+OOCU7851955, containing 500.0 units of Mine Mesh 4800X2400mm 100x100mm Apt 5.6mm wire Galv IMG5H-44-4824 and 60.0 units of Ausro Strap 4.0 x 0.3 OSH106H-4003, was shipped from Fremantle to Brisbane under CIF terms. The shipment was documented on November 13, 2025, and closed on November 22, 2025.
+
+FFAU2452487, packed with 3036.0 units of IMG3H-44-2516, was shipped from Fremantle to Brisbane under CIF terms. The shipment was documented on November 21, 2025, and closed on November 22, 2025.
+
+CSNU7902481, holding 720.0 units of 150x150x5100x1150x4x5 - DEN2 IMB45-66-5111-DEN2 and 300.0 units of MESH RIB 2.20MX1.40M 100X100 APT 4.0MM WIRE IMB4-44-2214-JMOL, was shipped from Fremantle to Brisbane under CIF terms. The shipment was documented on November 21, 2025, and closed on November 22, 2025.
+
+DFSU7632163, containing 720.0 units of 150x150x5100x1150x4x5 - DEN2 IMB45-66-5111-DEN2 and 300.0 units of MESH RIB 2.20MX1.40M 100X100 APT 4.0MM WIRE IMB4-44-2214-JMOL, was shipped from Fremantle to Brisbane under CIF terms. The shipment was documented on November 21, 2025, and closed on November 22, 2025.
+
+OOCU8247554, packed with 720.0 units of 150x150x5100x1150x4x5 - DEN2 IMB45-66-5111-DEN2 and 300.0 units of MESH RIB 2.20MX1.40M 100X100 APT 4.0MM WIRE IMB4-44-2214-JMOL, was shipped from Fremantle to Brisbane under CIF terms. The shipment was documented on November 21, 2025, and closed on November 22, 2025.
+
+OOCU6528655, holding 720.0 units of 150x150x5100x1150x4x5 - DEN2 IMB45-66-5111-DEN2 and 300.0 units of MESH RIB 2.20MX1.40M 100X100 APT 4.0MM WIRE IMB4-44-2214-JMOL, was shipped from Fremantle to Brisbane under CIF terms. The shipment was documented on November 21, 2025, and closed on November 22, 2025.
+
+OOCU6528655, packed with 360.0 units of 150x150x5100x1150x4x5 - DEN2 IMB45-66-5111-DEN2 and 330.0 units of Ausro Strap 4.0 x 0.3 OSH106H-4003, was shipped from Fremantle to Brisbane under CIF terms. The shipment was documented on November 21, 2025, and closed on November 22, 2025.
+
+FFAU2727753, containing 360.0 units of 150x150x5100x1150x4x5 - DEN2 IMB45-66-5111-DEN2 and 330.0 units of Ausro Strap 4.0 x 0.3 OSH106H-4003, was shipped from Fremantle to Brisbane under CIF terms. The shipment was documented on November 21, 2025, and closed on November 22, 2025.
+
+DMW shipped 100 units of Galvanized Mesh - IMG3H-33-2516 to Brisbane under CIF terms. The shipment was loaded onto the COSCO ISTANBUL during voyage 088S. The container was sealed with OOL KAG 2112 and the shipping instructions were given on November 22, 2025. The shipment was scheduled to sail on November 20, 2025, and the documents were finalized on November 21, 2025.
+
+DMW shipped 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Seattle under FOB terms. The shipment was loaded onto the MSC ANNABELLA during voyage FW541E. The container was sealed with FJ24422447 and the shipping instructions were given on November 22, 2025. The shipment was scheduled to sail on November 20, 2025, and the documents were finalized on November 21, 2025.
+
+DMW shipped 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Seattle under FOB terms. The shipment was loaded onto the MSC ANNABELLA during voyage FW541E. The container was sealed with FJ24394387 and the shipping instructions were given on November 22, 2025. The shipment was scheduled to sail on November 20, 2025, and the documents were finalized on November 21, 2025.
+
+DMW shipped 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Seattle under FOB terms. The shipment was loaded onto the MSC ANNABELLA during voyage FW541E. The container was sealed with FJ24394388 and the shipping instructions were given on November 22, 2025. The shipment was scheduled to sail on November 19, 2025, and the documents were finalized on November 21, 2025.
+
+DMW shipped 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Seattle under FOB terms. The shipment was loaded onto the MSC ANNABELLA during voyage FW541E. The container was sealed with FJ24394389 and the shipping instructions were given on November 22, 2025. The shipment was scheduled to sail on November 19, 2025, and the documents were finalized on November 21, 2025.
+
+DMW shipped 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Seattle under FOB terms. The shipment was loaded onto the MSC ANNABELLA during voyage FW541E. The container was sealed with FJ24394391 and the shipping instructions were given on November 22, 2025. The shipment was scheduled to sail on November 20, 2025, and the documents were finalized on November 21, 2025.
+
+DMW shipped 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Seattle under FOB terms. The shipment was loaded onto the NORDSERAPHINA during voyage 2548S. The container was sealed with HLC3943480 and the shipping instructions were given on November 22, 2025. The shipment was scheduled to sail on November 23, 2025, and the documents were finalized on November 22, 2025.
+
+DMW shipped 10 units of 5.55mm Galv Wire In Coils COILGW5.6 to Fremantle under CIF terms. The shipment was loaded onto the COSCO GENOA during voyage 097S. The container was sealed with OOL KAG 2233 and the shipping instructions were given on November 29, 2025. The shipment was scheduled to sail on November 24, 2025, and the documents were finalized on December 2, 2025.
+
+DMW shipped 10 units of 5.55mm Galv Wire In Coils COILGW5.6 to Fremantle under CIF terms. The shipment was loaded onto the COSCO GENOA during voyage 097S. The container was sealed with OOL KAG 2236 and the shipping instructions were given on November 29, 2025. The shipment was scheduled to sail on November 24, 2025, and the documents were finalized on December 2, 2025.
+
+DMW shipped 10 units of 5.55mm Galv Wire In Coils COILGW5.6 to Fremantle under CIF terms. The shipment was loaded onto the COSCO GENOA during voyage 097S. The container was sealed with OOL JST 5744 and the shipping instructions were given on November 29, 2025. The shipment was scheduled to sail on November 25, 2025, and the documents were finalized on December 2, 2025.
+
+DMW shipped 10 units of 5.55mm Galv Wire In Coils COILGW5.6 to Fremantle under CIF terms. The shipment was loaded onto the COSCO GENOA during voyage 097S. The container was sealed with OOL JST 4701 and the shipping instructions were given on November 29, 2025. The shipment was scheduled to sail on November 25, 2025, and the documents were finalized on December 2, 2025.
+
+DMW shipped 10 units of 5.55mm Galv Wire In Coils COILGW5.6 to Fremantle under CIF terms. The shipment was loaded onto the COSCO GENOA during voyage 097S. The container was sealed with OOL JST 4755 and the shipping instructions were given on November 29, 2025. The shipment was scheduled to sail on November 26, 2025, and the documents were finalized on December 2, 2025.
+
+DMW shipped 10 units of 5.55mm Galv Wire In Coils COILGW5.6 to Fremantle under CIF terms. The shipment was loaded onto the COSCO GENOA during voyage 097S. The container was sealed with OOL JST 4736 and the shipping instructions were given on November 29, 2025. The shipment was scheduled to sail on November 26, 2025, and the documents were finalized on December 2, 2025.
+
+DMW shipped 10 units of 5.6mm Bright Wire In Coils R500L5.6-Coils to Fremantle under CIF terms. The shipment was loaded onto the COSCO GENOA during voyage 097S. The container was sealed with OOL JST 4777 and the shipping instructions were given on November 29, 2025. The shipment was scheduled to sail on November 26, 2025, and the documents were finalized on December 2, 2025.
+
+DMW shipped 24 units of 5.6mm Bright Wire In Coils R500L5.6-Coils to Fremantle under CIF terms. The shipment was loaded onto the COSCO GENOA during voyage 097S. The container was sealed with OOL JST 6686 and the shipping instructions were given on November 29, 2025. The shipment was scheduled to sail on November 27, 2025, and the documents were finalized on December 2, 2025.
+
+DMW shipped 370 units of Tie Wire 3.15mmx2.3m Lenght Tie-3.15mm-2.3m to Fremantle under CIF terms. The shipment was loaded onto the COSCO GENOA during voyage 097S. The container was sealed with OOL JST 6702 and the shipping instructions were given on November 29, 2025. The shipment was scheduled to sail on December 2, 2025, and the documents were finalized on December 2, 2025.
+
+DMW shipped 74 units of Tie Wire 3.15mmx2.3m Lenght Tie-3.15mm-2.3m to Fremantle under CIF terms. The shipment was loaded onto the COSCO GENOA during voyage 097S. The container was sealed with OOL JST 6702 and the shipping instructions were given on November 29, 2025. The shipment was scheduled to sail on December 2, 2025, and the documents were finalized on December 2, 2025.
+
+DMW shipped 250 units of 50x50x2000x1200x3.5mm Ind Mesh IMG3H-22-2012 to Fremantle under CIF terms. The shipment was loaded onto the COSCO GENOA during voyage 097S. The container was sealed with OOL JST 6702 and the shipping instructions were given on November 29, 2025. The shipment was scheduled to sail on December 2, 2025, and the documents were finalized on December 2, 2025.
+
+DMW shipped 400 units of 50x50x2400x1200x4mm Ind Mesh IMG4-22-2412 to Fremantle under CIF terms. The shipment was loaded onto the COSCO GENOA during voyage 097S. The container was sealed with OOL JST 6702 and the shipping instructions were given on November 29, 2025. The shipment was scheduled to sail on December 2, 2025, and the documents were finalized on December 2, 2025.
+
+DMW shipped 300 units of 100x100x2400x1200x5.6 Ind Mesh IMG5H-44-2412 to Fremantle under CIF terms. The shipment was loaded onto the COSCO GENOA during voyage 097S. The container was sealed with OOL JST 6702 and the shipping instructions were given on November 29, 2025. The shipment was scheduled to sail on December 2, 2025, and the documents were finalized on December 2, 2025.
+
+DMW shipped 350 units of 100x100x2400x1200x4mm Gal Mesh IMG4-44-2412 to Fremantle under CIF terms. The shipment was loaded onto container CSLU6018020 on December 2, 2025, with a seal number OOL JST 6702. The voyage was aboard the COSCO GENOA, with voyage number 097S. The shipping instructions were given on November 29, 2025, and the documents were issued on December 2, 2025. The closing date was December 3, 2025.
+
+DMW shipped 24 units of 9.50mm Ribbed Wire in Spools D500L9.5-Spools to Fremantle under CIF terms. The shipment was loaded onto container CAIU6105124 on December 4, 2025, with a seal number OOL JSP 7037. The voyage was aboard the COSCO GENOA, with voyage number 097S. The shipping instructions were given on December 5, 2025, and the documents were issued on December 4, 2025. The closing date was December 7, 2025.
+
+DMW shipped 24 units of 9.50mm Ribbed Wire in Spools D500L9.5-Spools to Fremantle under CIF terms. The shipment was loaded onto container CSLU1564332 on December 4, 2025, with a seal number OOL JSP 7024. The voyage was aboard the COSCO GENOA, with voyage number 097S. The shipping instructions were given on December 5, 2025, and the documents were issued on December 4, 2025. The closing date was December 7, 2025.
+
+DMW shipped 24 units of 5.6mm Bright Wire In Coils R500L5.6-Coils to Fremantle under CIF terms. The shipment was loaded onto container TEMU3215625 on December 1, 2025, with a seal number OOL JST 2714. The voyage was aboard the COSCO GENOA, with voyage number 097S. The shipping instructions were given on December 5, 2025, and the documents were issued on December 4, 2025. The closing date was December 7, 2025.
+
+DMW shipped 24 units of 6.0mm Bright Wire in Coils R500L6.0-Coils to Fremantle under CIF terms. The shipment was loaded onto container OOLU0402985 on December 1, 2025, with a seal number OOL JST 2706. The voyage was aboard the COSCO GENOA, with voyage number 097S. The shipping instructions were given on December 5, 2025, and the documents were issued on December 4, 2025. The closing date was December 7, 2025.
+
+DMW shipped 10 units of 5.55mm Galv Wire In Coils COILGW5.6 to Fremantle under CIF terms. The shipment was loaded onto container FTAU1940078 on December 5, 2025, with a seal number OOL JSS 4440. The voyage was aboard the COSCO GENOA, with voyage number 097S. The shipping instructions were given on December 5, 2025, and the documents were issued on December 4, 2025. The closing date was December 7, 2025.
+
+DMW shipped 10 units of 5.55mm Galv Wire In Coils COILGW5.6 to Fremantle under CIF terms. The shipment was loaded onto container TEMU4649729 on December 5, 2025, with a seal number OOL JSS 4436. The voyage was aboard the COSCO GENOA, with voyage number 097S. The shipping instructions were given on December 5, 2025, and the documents were issued on December 4, 2025. The closing date was December 7, 2025.
+
+DMW shipped 10 units of 5.55mm Galv Wire In Coils COILGW5.6 to Fremantle under CIF terms. The shipment was loaded onto container OOLU0240755 on December 5, 2025, with a seal number OOL JSP 6983. The voyage was aboard the COSCO GENOA, with voyage number 097S. The shipping instructions were given on December 5, 2025, and the documents were issued on December 4, 2025. The closing date was December 7, 2025.
+
+DMW shipped 10 units of 5.55mm Galv Wire In Coils COILGW5.6 to Fremantle under CIF terms. The shipment was loaded onto container CSNU1481620 on December 5, 2025, with a seal number OOL JSP 6990. The voyage was aboard the COSCO GENOA, with voyage number 097S. The shipping instructions were given on December 5, 2025, and the documents were issued on December 4, 2025. The closing date was December 7, 2025.
+
+DMW shipped 600 units of 100x100x5000x2400x4.50 IndMesh IMB4H-44-5024 and 180 units of Glut 90x90x300 to Adelaide under CIF terms. The shipment was loaded onto container MAGU5590250 on December 1, 2025, with a seal number OOL KAJ 1546. The voyage was aboard the COSCO ADEN, with voyage number 137S. The shipping instructions were given on December 5, 2025, and the documents were issued on December 4, 2025. The closing date was December 7, 2025.
+
+DMW shipped 600 units of 100x100x5000x2400x4.50 IndMesh IMB4H-44-5024 and 180 units of Glut 90x90x300 to Adelaide under CIF terms. The shipment was loaded onto container CAAU6133669 on December 2, 2025, with a seal number OOL KAH 9553. The voyage was aboard the COSCO ADEN, with voyage number 137S. The shipping instructions were given on December 5, 2025, and the documents were issued on December 4, 2025. The closing date was December 7, 2025.
+
+DMW shipped 600 units of 100x100x5000x2400x4.50 IndMesh IMB4H-44-5024 and 180 units of Glut 90x90x300 to Adelaide under CIF terms. The shipment was loaded onto container CSNU6347656 on December 2, 2025, with a seal number OOL KAJ 1555. The voyage was aboard the COSCO ADEN, with voyage number 137S. The shipping instructions were given on December 5, 2025, and the documents were issued on December 4, 2025. The closing date was December 7, 2025.
+
+DMW shipped 600 units of 100x100x5000x2400x4.50 IndMesh IMB4H-44-5024 and 180 units of Glut 90x90x300 to Adelaide under CIF terms. The shipment was loaded onto container OOLU6837630 on December 2, 2025, with a seal number OOL JST 2742. The voyage was aboard the COSCO ADEN, with voyage number 137S. The shipping instructions were given on December 5, 2025, and the documents were issued on December 4, 2025. The closing date was December 7, 2025.
+
+DMW shipped 600 units of 100x100x5000x2400x4.50 IndMesh IMB4H-44-5024 and 180 units of Glut 90x90x300 to Adelaide under CIF terms. The shipment was loaded onto container CSNU6048871 on December 2, 2025, with a seal number OOL KAJ 1485. The voyage was aboard the COSCO ADEN, with voyage number 137S. The shipping instructions were given on December 5, 2025, and the documents were issued on December 4, 2025. The closing date was December 7, 2025.
+
+DMW shipped 600 units of 100x100x5000x2400x4.50 IndMesh IMB4H-44-5024 and 180 units of Glut 90x90x300 to Adelaide under CIF terms. The shipment was loaded onto container CSNU8356153 on December 3, 2025, with a seal number OOL JST 6751. The voyage was aboard the COSCO ADEN, with voyage number 137S. The shipping instructions were given on December 5, 2025, and the documents were issued on December 4, 2025. The closing date was December 7, 2025.
+
+DMW shipped a container of Black Mesh -IMB5-64-5113-JMOL parts to Adelaide via the COSCO ADEN vessel on December 3, 2025. The container weighed 18,984.6 kg and was sealed with OOL JST 6751. The shipment was completed on December 4, 2025, and the closing date was December 7, 2025.
+
+DMW shipped a container of Black Mesh -IMB5-64-5113-JMOL parts to Brisbane via the OLYMPIC BAY vessel on December 5, 2025. The container weighed 14,262.0 kg and was sealed with M2723198. The shipment was completed on December 5, 2025, and the closing date was December 7, 2025.
+
+DMW shipped a container of OSH106H-5803 parts to Brisbane via the OLYMPIC BAY vessel on December 5, 2025. The container weighed 14,262.0 kg and was sealed with M2723198. The shipment was completed on December 5, 2025, and the closing date was December 7, 2025.
+
+DMW shipped a container of 100x100x2600x1800x3.15 Ind Mes IMB3H-44-2618-DAIR parts to Brisbane via the OLYMPIC BAY vessel on December 3, 2025. The container weighed 14,495.52 kg and was sealed with M2720505. The shipment was completed on December 5, 2025, and the closing date was December 7, 2025.
+
+DMW shipped a container of 100x100x2600x1800x3.15 Ind Mes IMB3H-44-2618-DAIR parts to Brisbane via the OLYMPIC BAY vessel on December 3, 2025. The container weighed 14,495.52 kg and was sealed with M2720505. The shipment was completed on December 5, 2025, and the closing date was December 7, 2025.
+
+DMW shipped a container of Black Mesh -IMB5-64-5113-JMOL parts to Brisbane via the OLYMPIC BAY vessel on December 5, 2025. The container weighed 13,675.2 kg and was sealed with M2723092. The shipment was completed on December 5, 2025, and the closing date was December 7, 2025.
+
+DMW shipped a container of Black Mesh -IMB5-64-5113-JMOL parts to Brisbane via the OLYMPIC BAY vessel on December 5, 2025. The container weighed 13,675.2 kg and was sealed with M2723178. The shipment was completed on December 5, 2025, and the closing date was December 7, 2025.
+
+DMW shipped a container of Mesh Rib 2M x 1.5M 100 x 100 Apt 4.0mm wire Gal IMG4-44-2015-JNA parts to Brisbane via the SINGAPORE vessel on December 8, 2025. The container weighed 21,910.0 kg and was sealed with M2567424. The shipment was completed on December 10, 2025, and the closing date was December 12, 2025.
+
+DMW shipped a container of Mesh Rib 2M x 1.5M 100 x 100 Apt 4.0mm wire Gal IMG4-44-2015-JNA parts to Brisbane via the SINGAPORE vessel on December 9, 2025. The container weighed 17,929.76 kg and was sealed with M2564725. The shipment was completed on December 10, 2025, and the closing date was December 12, 2025.
+
+DMW shipped a container of Mesh Rib 2M x 1.5M 100 x 100 Apt 4.0mm wire Gal IMG4-44-2015-JNA parts to Brisbane via the SINGAPORE vessel on December 9, 2025. The container weighed 17,929.76 kg and was sealed with M2564725. The shipment was completed on December 10, 2025, and the closing date was December 12, 2025.
+
+DMW shipped a container of Black Mesh -IMB5-64-5113-JMOL parts to Brisbane via the SINGAPORE vessel on December 9, 2025. The container weighed 17,929.76 kg and was sealed with M2564725. The shipment was completed on December 10, 2025, and the closing date was December 12, 2025.
+
+DMW shipped a container of GX MESH ROOF 5.60M X 1.40M 100X100 APT 4.0MM & 5.0MM WIRE - GAL parts to Brisbane via the SINGAPORE vessel on December 9, 2025. The container weighed 12,173.7 kg and was sealed with M2564667. The shipment was completed on December 10, 2025, and the closing date was December 12, 2025.
+
+DMW shipped a container of 100x100x2400x2000x3.15 Ind Mes IMB3H-44-2420-DCLA parts to Brisbane via the SINGAPORE vessel on December 9, 2025. The container weighed 20,202.75 kg and was sealed with M2564759. The shipment was completed on December 10, 2025, and the closing date was December 12, 2025.
+
+DMW shipped a container of 100x100x2400x2000x3.15 Ind Mes IMB3H-44-2420-DCLA parts to Brisbane via the SINGAPORE vessel on December 9, 2025. The container weighed 20,202.75 kg and was sealed with M2564759. The shipment was completed on December 10, 2025, and the closing date was December 12, 2025.
+
+DMW shipped a container of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Brisbane via the SINGAPORE vessel on December 10, 2025. The container weighed 23,705.0 kg and was sealed with M2567338. The shipment was completed on December 10, 2025, and the closing date was December 12, 2025.
+
+DMW shipped a container of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Brisbane via the SINGAPORE vessel on December 10, 2025. The container weighed 23,705.0 kg and was sealed with M2567338. The shipment was completed on December 10, 2025, and the closing date was December 12, 2025.
+
+DMW shipped a container of IMGX44H-44-5012-VGOC parts to Brisbane via the SINGAPORE vessel on December 12, 2025. The container weighed 11,842.2 kg and was sealed with M2567418. The shipment was completed on December 10, 2025, and the closing date was December 12, 2025.
+
+DMW shipped a container of IMGX44H-44-5012-VGOC parts to Brisbane via the SINGAPORE vessel on December 12, 2025. The container weighed 11,842.2 kg and was sealed with M2567418. The shipment was completed on December 10, 2025, and the closing date was December 12, 2025.
+
+DMW shipped a container of IMB44-66-1711-JULW parts to Brisbane via the SINGAPORE vessel on December 12, 2025. The container weighed 11,842.2 kg and was sealed with M2564744. The shipment was completed on December 10, 2025, and the closing date was December 12, 2025.
+
+DMW shipped a container of IMB44-66-1711-JULW parts to Brisbane via the SINGAPORE vessel on December 12, 2025. The container weighed 11,842.2 kg and was sealed with M2564744. The shipment was completed on December 10, 2025, and the closing date was December 12, 2025.
+
+DMW shipped a container of IMGX44H-44-5012-VGOC parts to Brisbane via the SINGAPORE vessel on December 15, 2025. The container weighed 11,842.2 kg and was sealed with M2564680. The shipment was completed on December 10, 2025, and the closing date was December 12, 2025.
+
+DMW shipped a container of IMGX44H-44-5012-VGOC parts to Brisbane via the SINGAPORE vessel on December 15, 2025. The container weighed 11,842.2 kg and was sealed with M2564680. The shipment was completed on December 10, 2025, and the closing date was December 12, 2025.
+
+DMW shipped a container of IMB44-66-1711-JULW parts to Brisbane via the SINGAPORE vessel on December 15, 2025. The container weighed 11,842.2 kg and was sealed with M2564744. The shipment was completed on December 10, 2025, and the closing date was December 12, 2025.
+
+DMW shipped a container of IMB44-66-1711-JULW parts to Brisbane via the SINGAPORE vessel on December 15, 2025. The container weighed 11,842.2 kg and was sealed with M2564744. The shipment was completed on December 10, 2025, and the closing date was December 12, 2025.
+
+DMW shipped 320 units of IMGX44H-44-5012-VGOC to Brisbane under CFR terms. The shipment was loaded on December 12, 2025, and the container weighed 14,586.7 kg. The shipping instructions were given on December 10, 2025, and the documents were prepared on the same day. The order number is 253626.
+
+DMW shipped 400 units of OSH106H-5803 to Brisbane under CFR terms. The shipment was loaded on December 12, 2025, and the container weighed 14,586.7 kg. The shipping instructions were given on December 10, 2025, and the documents were prepared on the same day. The order number is 253787.
+
+DMW shipped 50 units of IMGX45-4812 to Brisbane under CFR terms. The shipment was loaded on December 12, 2025, and the container weighed 14,586.7 kg. The shipping instructions were given on December 10, 2025, and the documents were prepared on the same day. The order number is 253296.
+
+DMW shipped 24 units of 5.6mm Bright Wire In Coils R500L5.6-Coils to Fremantle under CFR terms. The shipment was loaded on December 8, 2025, and the container weighed 24,081 kg. The shipping instructions were given on December 12, 2025, and the documents were prepared on December 10, 2025. The order number is 254449.
+
+DMW shipped 24 units of 5.6mm Bright Wire In Coils R500L5.6-Coils to Fremantle under CFR terms. The shipment was loaded on December 8, 2025, and the container weighed 24,153 kg. The shipping instructions were given on December 12, 2025, and the documents were prepared on December 10, 2025. The order number is 254449.
+
+DMW shipped 10 units of 5.55mm Galv Wire In Coils COILGW5.6 to Fremantle under CFR terms. The shipment was loaded on December 8, 2025, and the container weighed 23,970 kg. The shipping instructions were given on December 12, 2025, and the documents were prepared on December 10, 2025. The order number is 253133.
+
+DMW shipped 10 units of 5.55mm Galv Wire In Coils COILGW5.6 to Fremantle under CFR terms. The shipment was loaded on December 10, 2025, and the container weighed 23,980 kg. The shipping instructions were given on December 12, 2025, and the documents were prepared on December 10, 2025. The order number is 253133.
+
+DMW shipped 10 units of 5.55mm Galv Wire In Coils COILGW5.6 to Fremantle under CFR terms. The shipment was loaded on December 10, 2025, and the container weighed 23,995 kg. The shipping instructions were given on December 12, 2025, and the documents were prepared on December 10, 2025. The order number is 254548.
+
+DMW shipped 10 units of 5.55mm Galv Wire In Coils COILGW5.6 to Fremantle under CFR terms. The shipment was loaded on December 13, 2025, and the container weighed 24,085 kg. The shipping instructions were given on December 19, 2025, and the documents were prepared on December 19, 2025. The order number is 254548.
+
+DMW shipped 10 units of 5.55mm Galv Wire In Coils COILGW5.6 to Fremantle under CFR terms. The shipment was loaded on December 13, 2025, and the container weighed 24,085 kg. The shipping instructions were given on December 19, 2025, and the documents were prepared on December 19, 2025. The order number is 254548.
+
+DMW shipped 10 units of 5.55mm Galv Wire In Coils COILGW5.6 to Fremantle under CFR terms. The shipment was loaded on December 15, 2025, and the container weighed 24,035 kg. The shipping instructions were given on December 19, 2025, and the documents were prepared on December 19, 2025. The order number is 254548.
+
+DMW shipped 10 units of 5.55mm Galv Wire In Coils COILGW5.6 to Fremantle under CFR terms. The shipment was loaded on December 15, 2025, and the container weighed 24,075 kg. The shipping instructions were given on December 19, 2025, and the documents were prepared on December 19, 2025. The order number is 254548.
+
+DMW shipped 10 units of 5.55mm Galv Wire In Coils COILGW5.6 to Fremantle under CFR terms. The shipment was loaded on December 17, 2025, and the container weighed 24,283 kg. The shipping instructions were given on December 19, 2025, and the documents were prepared on December 19, 2025. The order number is 254548.
+
+DMW shipped 1 unit of Tensile Tester to Fremantle under CFR terms. The shipment was loaded on December 17, 2025, and the container weighed 24,283 kg. The shipping instructions were given on December 19, 2025, and the documents were prepared on December 19, 2025. The order number is 254548.
+
+DMW shipped 5 units of 5.55mm Galv Wire In Coils COILGW5.6 to Fremantle under CFR terms. The shipment was loaded on December 17, 2025, and the container weighed 23,273 kg. The shipping instructions were given on December 19, 2025, and the documents were prepared on December 19, 2025. The order number is 254548.
+
+DMW shipped 444 units of Tie Wire 3.15mmx2.3m Lenght Tie-3.15mm-2.3m to Fremantle under CFR terms. The shipment was loaded on December 17, 2025, and the container weighed 23,273 kg. The shipping instructions were given on December 19, 2025, and the documents were prepared on December 19, 2025. The order number is 254166.
+
+DMW shipped 720 units of 150x150x5100x1150x4x5 - DEN2 IMB45-66-5111-DEN2 to Brisbane under CFR terms. The shipment was loaded on December 17, 2025, and the container weighed 10,402.2 kg. The shipping instructions were given on December 19, 2025, and the documents were prepared on December 19, 2025. The order number is 253867.
+
+DMW shipped 500 units of IMB44-66-1711-JULW to Brisbane under CFR terms. The shipment was loaded on December 17, 2025, and the container weighed 10,402.2 kg. The shipping instructions were given on December 19, 2025, and the documents were prepared on December 19, 2025. The order number is 253633.
+
+DMW shipped 720 units of 150x150x5100x1150x4x5 - DEN2 IMB45-66-5111-DEN2 to Brisbane under CFR terms. The shipment was loaded on December 17, 2025, and the container weighed 10,402.2 kg. The shipping instructions were given on December 19, 2025, and the documents were prepared on December 19, 2025. The order number is 253867.
+
+DMW shipped 500 units of IMB44-66-1711-JULW to Brisbane under CFR terms. The shipment was loaded on December 17, 2025, and the container weighed 10,402.2 kg. The shipping instructions were given on December 19, 2025, and the documents were prepared on December 19, 2025. The order number is 253633.
+
+DMW shipped 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Brisbane under CFR terms. The shipment was loaded onto the OOCL TEXAS during week 51, with a sailing date of December 15, 2025. The container weight is 23705 kg. The shipment was completed on December 19, 2025.
+
+DMW shipped 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Brisbane under CFR terms. The shipment was loaded onto the OOCL TEXAS during week 51, with a sailing date of December 13, 2025. The container weight is 23705 kg. The shipment was completed on December 19, 2025.
+
+DMW shipped 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Brisbane under CFR terms. The shipment was loaded onto the OOCL TEXAS during week 51, with a sailing date of December 13, 2025. The container weight is 23705 kg. The shipment was completed on December 19, 2025.
+
+DMW shipped 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Brisbane under CFR terms. The shipment was loaded onto the OOCL TEXAS during week 51, with a sailing date of December 15, 2025. The container weight is 23705 kg. The shipment was completed on December 19, 2025.
+
+DMW shipped 720 units of 150x150x5100x1150x4x5 - DEN2 IMB45-66-5111-DEN2 to Brisbane under CFR terms. The shipment was loaded onto the OOCL TEXAS during week 51, with a sailing date of December 19, 2025. The container weight is 8827.2 kg. The shipment was completed on December 19, 2025.
+
+DMW shipped 720 units of 150x150x5100x1150x4x5 - DEN2 IMB45-66-5111-DEN2 to Brisbane under CFR terms. The shipment was loaded onto the OOCL TEXAS during week 51, with a sailing date of December 19, 2025. The container weight is 8827.2 kg. The shipment was completed on December 19, 2025.
+
+DMW shipped 427 units of Black Mesh -IMB5-64-5113-JMOL to Brisbane under CFR terms. The shipment was loaded onto the OOCL TEXAS during week 51, with a sailing date of December 16, 2025. The container weight is 13675.2 kg. The shipment was completed on December 19, 2025.
+
+DMW shipped 189 units of Black Mesh -IMB5-64-5113-JMOL to Brisbane under CFR terms. The shipment was loaded onto the OOCL TEXAS during week 51, with a sailing date of December 16, 2025. The container weight is 13675.2 kg. The shipment was completed on December 19, 2025.
+
+DMW shipped 616 units of Black Mesh -IMB5-64-5113-JMOL to Brisbane under CFR terms. The shipment was loaded onto the OOCL TEXAS during week 51, with a sailing date of December 16, 2025. The container weight is 13675.2 kg. The shipment was completed on December 19, 2025.
+
+DMW shipped 600 units of MESH MINE 4.0MX2.4M 100X100 APT 5.6MM WIRE - GAL IMG5H-44-4024 and 180 units of Glut 90x90x300 to Adelaide under CFR terms. The shipment was loaded onto the OOCL TEXAS during week 51, with a sailing date of December 16, 2025. The container weight is 23886.6 kg. The shipment was completed on December 19, 2025.
+
+DMW shipped 600 units of MESH MINE 4.0MX2.4M 100X100 APT 5.6MM WIRE - GAL IMG5H-44-4024 and 180 units of Glut 90x90x300 to Adelaide under CFR terms. The shipment was loaded onto the OOCL TEXAS during week 51, with a sailing date of December 15, 2025. The container weight is 23886.6 kg. The shipment was completed on December 19, 2025.
+
+DMW shipped 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Seattle under CFR terms. The shipment was loaded onto the NORDSERAPHINA during week 51, with a sailing date of December 20, 2025. The container weight is 23705 kg. The shipment was completed on December 19, 2025.
+
+DMW shipped 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Seattle under CFR terms. The shipment was loaded onto the NORDSERAPHINA during week 51, with a sailing date of December 20, 2025. The container weight is 23705 kg. The shipment was completed on December 19, 2025.
+
+DMW shipped 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Seattle under CFR terms. The shipment was loaded onto the NORDSERAPHINA during week 51, with a sailing date of December 20, 2025. The container weight is 23705 kg. The shipment was completed on December 19, 2025.
+
+DMW shipped 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Seattle under CFR terms. The shipment was loaded onto the NORDSERAPHINA during week 51, with a sailing date of December 21, 2025. The container weight is 23705 kg. The shipment was completed on December 19, 2025.
+
+DMW shipped 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Seattle under CFR terms. The shipment was loaded onto the NORDSERAPHINA during week 51, with a sailing date of December 21, 2025. The container weight is 23705 kg. The shipment was completed on December 19, 2025.
+
+DMW shipped 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Seattle under CFR terms. The shipment was loaded onto the NORDSERAPHINA during week 51, with a sailing date of December 21, 2025. The container weight is 23705 kg. The shipment was completed on December 19, 2025.
+
+DMW shipped 550 units of MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN to Seattle under CFR terms. The shipment was loaded onto the NORDSERAPHINA during week 51, with a sailing date of December 21, 2025. The container weight is 23705 kg. The shipment was completed on December 19, 2025.
+
+DMW shipped 10 units of 5.55mm Galv Wire In Coils COILGW5.6 to Fremantle under CFR terms. The shipment was loaded onto the OOCL CHICAGO during week 52, with a sailing date of December 22, 2025. The container weight is 24097 kg. The shipment was completed on December 26, 2025.
+
+DMW shipped 10.0 units of 5.55mm Galvanized Wire in Coils (COILGW5.6) to Fremantle under CFR terms. The shipment was loaded on December 22, 2025, and sailed on December 22, 2025, aboard the OOCL Chicago for voyage 116S. The container weighed 24228.0 kg and was sealed with OOL KTV 9019. The shipment was completed on December 26, 2025.
+
+DMW shipped 10.0 units of 5.55mm Galvanized Wire in Coils (COILGW5.6) to Fremantle under CFR terms. The shipment was loaded on December 22, 2025, and sailed on December 22, 2025, aboard the OOCL Chicago for voyage 116S. The container weighed 24216.0 kg and was sealed with OOL KTV 8890. The shipment was completed on December 26, 2025.
+
+DMW shipped 10.0 units of 5.55mm Galvanized Wire in Coils (COILGW5.6) to Fremantle under CFR terms. The shipment was loaded on December 22, 2025, and sailed on December 22, 2025, aboard the OOCL Chicago for voyage 116S. The container weighed 24180.0 kg and was sealed with OOL KTV 8886. The shipment was completed on December 26, 2025.
+
+DMW shipped 10.0 units of 5.55mm Galvanized Wire in Coils (COILGW5.6) to Fremantle under CFR terms. The shipment was loaded on December 29, 2025, and sailed on December 29, 2025, aboard the OOCL Chicago for voyage 116S. The container weighed 24046.0 kg and was sealed with OOL JSQ 6347. The shipment was completed on December 26, 2025.
+
+DMW shipped 24.0 units of 6.0mm Bright Wire in Coils (R500L6.0-Coils) to Fremantle under CFR terms. The shipment was loaded on December 29, 2025, and sailed on December 29, 2025, aboard the OOCL Chicago for voyage 116S. The container weighed 24224.0 kg and was sealed with OOL JSQ 6351. The shipment was completed on December 26, 2025.
+
+DMW shipped 600.0 units of GX MESH ROOF (5.60M X 1.40M 100X100 APT 4.0MM & 5.0MM WIRE - GAL) to Brisbane under CFR terms. The shipment was loaded on December 24, 2025, and sailed on December 24, 2025, aboard the Rio Grande for voyage 039S. The container weighed 12276.0 kg and was sealed with OOL JSR 7501. The shipment was completed on December 26, 2025.
+
+DMW shipped 600.0 units of GX MESH ROOF (5.60M X 1.40M 100X100 APT 4.0MM & 5.0MM WIRE - GAL) to Brisbane under CFR terms. The shipment was loaded on December 24, 2025, and sailed on December 24, 2025, aboard the Rio Grande for voyage 039S. The container weighed 12276.0 kg and was sealed with OOL JSR 7470. The shipment was completed on December 26, 2025.
+
+DMW shipped 360.0 units of GX MESH ROOF (5.60M X 1.40M 100X100 APT 4.0MM & 5.0MM WIRE - GAL) to Brisbane under CFR terms. The shipment was loaded on December 27, 2025, and sailed on December 27, 2025, aboard the Rio Grande for voyage 039S. The container weighed 13713.0 kg and was sealed with OOL JSS 1887. The shipment was completed on December 26, 2025.
+
+DMW shipped 110.0 units of MESH ROOF (5.00MX1.55M 100X100 APT 5.0MM WIRE SLG IMB5-46-5016-JNA) to Brisbane under CFR terms. The shipment was loaded on December 27, 2025, and sailed on December 27, 2025, aboard the Rio Grande for voyage 039S. The container weighed 13713.0 kg and was sealed with OOL JSS 1887. The shipment was completed on December 26, 2025.
+
+DMW shipped 160.0 units of OSH106H-5803 to Brisbane under CFR terms. The shipment was loaded on December 27, 2025, and sailed on December 27, 2025, aboard the Rio Grande for voyage 039S. The container weighed 13713.0 kg and was sealed with OOL JSS 1887. The shipment was completed on December 26, 2025.
+
+DMW shipped 330.0 units of IMGX44H-44-5012-VGUW to Brisbane under CFR terms. The shipment was loaded on December 26, 2025, and sailed on December 26, 2025, aboard the Rio Grande for voyage 039S. The container weighed 11207.4 kg and was sealed with OOL JSS 1882. The shipment was completed on December 26, 2025.
+
+DMW shipped 240.0 units of Tie Wire (3.15mmx2.4m Length Tie-3.15mm-2.4m) to Brisbane under CFR terms. The shipment was loaded on December 26, 2025, and sailed on December 26, 2025, aboard the Rio Grande for voyage 039S. The container weighed 11207.4 kg and was sealed with OOL JSS 1882. The shipment was completed on December 26, 2025.
+
+DMW shipped 360.0 units of 150x150x5100x1150x4x5 - DEN2 IMB45-66-5111-DEN2 to Brisbane under CFR terms. The shipment was loaded on December 26, 2025, and sailed on December 26, 2025, aboard the Rio Grande for voyage 039S. The container weighed 11251.2 kg and was sealed with OOL JSS 1948. The shipment was completed on December 26, 2025.
+
+DMW shipped 308.0 units of Black Mesh (IMB5-64-5113-JMOL) to Brisbane under CFR terms. The shipment was loaded on December 26, 2025, and sailed on December 26, 2025, aboard the Rio Grande for voyage 039S. The container weighed 11251.2 kg and was sealed with OOL JSS 1948. The shipment was completed on December 26, 2025.
+
+DMW shipped 2200.0 units of Mesh Rib (2M x 1.5M 100 x 100 Apt 4.0mm wire Gal IMG4-44-2015-JNA) to Brisbane under CFR terms. The shipment was loaded on December 24, 2025, and sailed on December 24, 2025, aboard the Rio Grande for voyage 039S. The container weighed 20609.6 kg and was sealed with OOL JSS 1946. The shipment was completed on December 26, 2025.
+
+DMW shipped 308.0 units of Black Mesh (IMB5-64-5113-JMOL) to Brisbane under CFR terms. The shipment was loaded on December 24, 2025, and sailed on December 24, 2025, aboard the Rio Grande for voyage 039S. The container weighed 20609.6 kg and was sealed with OOL JSS 1946. The shipment was completed on December 26, 2025.
+
+DMW shipped 3800.0 units of Mesh Rib (2M x 1.5M 100 x 100 Apt 4.0mm wire Gal IMG4-44-2015-JNA) to Brisbane under CFR terms. The shipment was loaded on December 26, 2025, and sailed on December 26, 2025, aboard the Rio Grande for voyage 039S. The container weighed 23788.0 kg and was sealed with OOL JSS 1954. The shipment was completed on December 26, 2025.
+
+DMW shipped 550.0 units of MESH MINE (4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN) to Adelaide under CFR terms. The shipment was loaded on December 26, 2025, and sailed on December 26, 2025, aboard the Rio Grande for voyage 039S. The container weighed 24131.6 kg and was sealed with OOL KAH 9526. The shipment was completed on December 26, 2025.
+
+DMW shipped 180.0 units of Glut (90x90x300) to Adelaide under CFR terms. The shipment was loaded on December 26, 2025, and sailed on December 26, 2025, aboard the Rio Grande for voyage 039S. The container weighed 24131.6 kg and was sealed with OOL KAH 9526. The shipment was completed on December 26, 2025.
+
+DMW shipped 550.0 units of MESH MINE (4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN) to Adelaide under CFR terms. The shipment was loaded on December 26, 2025, and sailed on December 26, 2025, aboard the Rio Grande for voyage 039S. The container weighed 24131.6 kg and was sealed with OOL KAH 9526. The shipment was completed on December 26, 2025.
+
+Glut 90x90x300 parts were shipped from DMW to Adelaide under CFR terms. The shipment was made via the RIO GRANDE on voyage 039S, with the container FCIU9813779 sealed at OOL KAH 9523. The shipping instructions were given on December 26, 2025, and the sailing date was the same day. The total weight of the parts was 426.6 kg, and the shipment was marked as shipped.
+
+Mesh Mine 4.5mx2.4m 100x100 parts were shipped from DMW to Adelaide under CFR terms. The shipment was made via the RIO GRANDE on voyage 039S, with the container FFAU3539160 sealed at OOL JSS 2012. The shipping instructions were given on December 26, 2025, and the sailing date was the same day. The total weight of the parts was 23705 kg, and the shipment was marked as shipped.
+
+Glut 90x90x300 parts were shipped from DMW to Adelaide under CFR terms. The shipment was made via the RIO GRANDE on voyage 039S, with the container FFAU3539160 sealed at OOL JSS 2012. The shipping instructions were given on December 26, 2025, and the sailing date was the same day. The total weight of the parts was 426.6 kg, and the shipment was marked as shipped.
+
+Mesh Mine 4.5mx2.4m 100x100 parts were shipped from DMW to Adelaide under CFR terms. The shipment was made via the RIO GRANDE on voyage 039S, with the container OOLU9338402 sealed at OOL KAJ 0640. The shipping instructions were given on December 26, 2025, and the sailing date was December 29, 2025. The total weight of the parts was 23705 kg, and the shipment was marked as shipped.
+
+Glut 90x90x300 parts were shipped from DMW to Adelaide under CFR terms. The shipment was made via the RIO GRANDE on voyage 039S, with the container OOLU9338402 sealed at OOL KAJ 0640. The shipping instructions were given on December 26, 2025, and the sailing date was December 29, 2025. The total weight of the parts was 426.6 kg, and the shipment was marked as shipped.
+
+Mesh Mine 4.5mx2.4m 100x100 parts were shipped from DMW to Adelaide under CFR terms. The shipment was made via the RIO GRANDE on voyage 039S, with the container CSNU6432568 sealed at OOL KAH 9532. The shipping instructions were given on December 26, 2025, and the sailing date was the same day. The total weight of the parts was 23705 kg, and the shipment was marked as shipped.
+
+Glut 90x90x300 parts were shipped from DMW to Adelaide under CFR terms. The shipment was made via the RIO GRANDE on voyage 039S, with the container CSNU6432568 sealed at OOL KAH 9532. The shipping instructions were given on December 26, 2025, and the sailing date was the same day. The total weight of the parts was 426.6 kg, and the shipment was marked as shipped.
+
+6.0mm Bright Wire in Coils R500L6.0-Coils parts were shipped from DMW to Fremantle under CFR terms. The shipment was made via the OOCL CHICAOGO on voyage 116S, with the container TGBU2067328 sealed at OOL LBM 1674. The shipping instructions were given on January 2, 2026, and the sailing date was December 31, 2025. The total weight of the parts was 24224 kg, and the shipment was marked as shipped.
+
+Gear Box Drive parts were shipped from DMW to Fremantle under CFR terms. The shipment was made via the OOCL CHICAOGO on voyage 116S, with the container TGBU2067328 sealed at OOL LBM 1674. The shipping instructions were given on January 2, 2026, and the sailing date was December 31, 2025. The total weight of the parts was 200 kg, and the shipment was marked as shipped.
+
+150x150x5100x1700x4x5 IMB45-66-5117-DEN parts were shipped from DMW to Brisbane under CFR terms. The shipment was made via the COSCO ISTANBUL on voyage 089S, with the container OOLU9731575 sealed at OOL KAH 6493. The shipping instructions were given on January 2, 2026, and the sailing date was January 2, 2026. The total weight of the parts was 10427.4 kg, and the shipment was marked as shipped.
+
+OSH106H-5803 parts were shipped from DMW to Brisbane under CFR terms. The shipment was made via the COSCO ISTANBUL on voyage 089S, with the container OOLU9731575 sealed at OOL KAH 6493. The shipping instructions were given on January 2, 2026, and the sailing date was January 2, 2026. The total weight of the parts was 3420 kg, and the shipment was marked as shipped.
+
+150x150x5100x1700x4x5 IMB45-66-5117-DEN parts were shipped from DMW to Brisbane under CFR terms. The shipment was made via the COSCO ISTANBUL on voyage 089S, with the container OOLU9729412 sealed at OOL KAJ 1138. The shipping instructions were given on January 2, 2026, and the sailing date was January 2, 2026. The total weight of the parts was 10427.4 kg, and the shipment was marked as shipped.
+
+6mm Wire 6m long (750 pcs) 6MBW6 parts were shipped from DMW to Brisbane under CFR terms. The shipment was made via the COSCO ISTANBUL on voyage 089S, with the container OOLU9729412 sealed at OOL KAJ 1138. The shipping instructions were given on January 2, 2026, and the sailing date was January 2, 2026. The total weight of the parts was 4140 kg, and the shipment was marked as shipped.
+
+Black Mesh -IMB5-64-5113-JMOL parts were shipped from DMW to Brisbane under CFR terms. The shipment was made via the COSCO ISTANBUL on voyage 089S, with the container OOCU7597706 sealed at OOL KAH 9128. The shipping instructions were given on January 2, 2026, and the sailing date was December 31, 2025. The total weight of the parts was 13675.2 kg, and the shipment was marked as shipped.
+
+MESH ROOF 5.00MX1.35M 100X100 APT 5.0MM WIRE IMB5-44-5014-JNA parts were shipped from DMW to Brisbane under CFR terms. The shipment was made via the COSCO ISTANBUL on voyage 089S, with the container OOLU9497699 sealed at OOL KAH 9206. The shipping instructions were given on January 2, 2026, and the sailing date was December 31, 2025. The total weight of the parts was 15554 kg, and the shipment was marked as shipped.
+
+MESH ROOF 5.00MX1.35M 100X100 APT 5.0MM WIRE IMB5-44-5014-JNA parts were shipped from DMW to Brisbane under CFR terms. The shipment was made via the COSCO ISTANBUL on voyage 089S, with the container MAGU5220511 sealed at OOL KAJ 1135. The shipping instructions were given on January 2, 2026, and the sailing date was January 2, 2026. The total weight of the parts was 12221 kg, and the shipment was marked as shipped.
+
+Tie Wire 3.15mmx2.4m Length Tie-3.15mm-2.4m parts were shipped from DMW to Brisbane under CFR terms. The shipment was made via the COSCO ISTANBUL on voyage 089S, with the container MAGU5220511 sealed at OOL KAJ 1135. The shipping instructions were given on January 2, 2026, and the sailing date was January 2, 2026. The total weight of the parts was 3000 kg, and the shipment was marked as shipped.
+
+MESH ROOF 5.00MX1.35M 100X100 APT 5.0MM WIRE IMB5-44-5014-JNA parts were shipped from DMW to Brisbane under CFR terms. The shipment was made via the COSCO ISTANBUL on voyage 089S, with the container TGBU7691872 sealed at OOL KAH 9117. The shipping instructions were given on January 2, 2026, and the sailing date was December 31, 2025. The total weight of the parts was 2222 kg, and the shipment was marked as shipped.
+
+MESH ROOF 5.00MX1.35M 100X100 APT 5.0MM WIRE IMB5-44-5014-JNA parts were shipped from DMW to Brisbane under CFR terms. The shipment was made via the COSCO ISTANBUL on voyage 089S, with the container TGBU7691872 sealed at OOL KAH 9117. The shipping instructions were given on January 2, 2026, and the sailing date was December 31, 2025. The total weight of the parts was 13332 kg, and the shipment was marked as shipped.
+
+MESH ROOF 5.00MX1.35M 100X100 APT 5.0MM WIRE IMB5-44-5014-JNA parts were shipped from DMW to Brisbane under CFR terms. The shipment was made via the COSCO ISTANBUL on voyage 089S, with the container TRHU4642266 sealed at OOL KAH 9214. The shipping instructions were given on January 2, 2026, and the sailing date was December 31, 2025. The total weight of the parts was 15554 kg, and the shipment was marked as shipped.
+
+DMW supplied MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Adelaide with a ROSS part code of CCP45241010056G. The shipment was made via container OOCU6724703 on the COSCO ISTANBUL during voyage 089S. The shipping instructions were given on January 2, 2026, and the shipment was loaded in week 1. The sailing date was December 31, 2025, and the shipment weight was 24,131.6 kg. The total quantity was 550 pieces, each weighing 43.1 kg, making the total weight 23,705 kg. The status is Shipped, and the ship documents date and closing date were both January 2, 2026.
+
+DMW also shipped Glut 90x90x300 parts to Adelaide. The shipment was made via container OOCU6724703 on the COSCO ISTANBUL during voyage 089S. The shipping instructions were given on January 2, 2026, and the shipment was loaded in week 1. The sailing date was December 31, 2025, and the shipment weight was 24,131.6 kg. The total quantity was 180 pieces, each weighing 2.37 kg, making the total weight 426.6 kg. The status is Shipped, and the ship documents date and closing date were both January 2, 2026.
+
+DMW shipped MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Adelaide with a ROSS part code of CCP45241010056G. The shipment was made via container OOCU6913374 on the COSCO ISTANBUL during voyage 089S. The shipping instructions were given on January 2, 2026, and the shipment was loaded in week 1. The sailing date was December 31, 2025, and the shipment weight was 24,131.6 kg. The total quantity was 550 pieces, each weighing 43.1 kg, making the total weight 23,705 kg. The status is Shipped, and the ship documents date and closing date were both January 2, 2026.
+
+DMW also shipped Glut 90x90x300 parts to Adelaide. The shipment was made via container OOCU6913374 on the COSCO ISTANBUL during voyage 089S. The shipping instructions were given on January 2, 2026, and the shipment was loaded in week 1. The sailing date was December 31, 2025, and the shipment weight was 24,131.6 kg. The total quantity was 180 pieces, each weighing 2.37 kg, making the total weight 426.6 kg. The status is Shipped, and the ship documents date and closing date were both January 2, 2026.
+
+DMW shipped MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Adelaide with a ROSS part code of CCP45241010056G. The shipment was made via container CSNU7411636 on the COSCO ISTANBUL during voyage 089S. The shipping instructions were given on January 2, 2026, and the shipment was loaded in week 1. The sailing date was December 31, 2025, and the shipment weight was 24,131.6 kg. The total quantity was 550 pieces, each weighing 43.1 kg, making the total weight 23,705 kg. The status is Shipped, and the ship documents date and closing date were both January 2, 2026.
+
+DMW also shipped Glut 90x90x300 parts to Adelaide. The shipment was made via container CSNU7411636 on the COSCO ISTANBUL during voyage 089S. The shipping instructions were given on January 2, 2026, and the shipment was loaded in week 1. The sailing date was December 31, 2025, and the shipment weight was 24,131.6 kg. The total quantity was 180 pieces, each weighing 2.37 kg, making the total weight 426.6 kg. The status is Shipped, and the ship documents date and closing date were both January 2, 2026.
+
+DMW shipped MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Adelaide with a ROSS part code of CCP45241010056G. The shipment was made via container OOLU9695040 on the COSCO ISTANBUL during voyage 089S. The shipping instructions were given on January 2, 2026, and the shipment was loaded in week 1. The sailing date was January 2, 2026, and the shipment weight was 24,131.6 kg. The total quantity was 550 pieces, each weighing 43.1 kg, making the total weight 23,705 kg. The status is Shipped, and the ship documents date and closing date were both January 2, 2026.
+
+DMW also shipped Glut 90x90x300 parts to Adelaide. The shipment was made via container OOLU9695040 on the COSCO ISTANBUL during voyage 089S. The shipping instructions were given on January 2, 2026, and the shipment was loaded in week 1. The sailing date was January 2, 2026, and the shipment weight was 24,131.6 kg. The total quantity was 180 pieces, each weighing 2.37 kg, making the total weight 426.6 kg. The status is Shipped, and the ship documents date and closing date were both January 2, 2026.
+
+DMW shipped MESH MINE 4.5MX2.4M 100X100 AP IMG5H-44-4524_JEN parts to Adelaide with a ROSS part code of CCP45241010056G. The shipment was made via container OOLU8854364 on the COSCO ISTANBUL during voyage 089S. The shipping instructions were given on January 2, 2026, and the shipment was loaded in week 1. The sailing date was January 2, 2026, and the shipment weight was 24,131.6 kg. The total quantity was 550 pieces, each weighing 43.1 kg, making the total weight 23,705 kg. The status is Shipped, and the ship documents date and closing date were both January 2, 2026.
+
+DMW also shipped Glut 90x90x300 parts to Adelaide. The shipment was made via container OOLU8854364 on the COSCO ISTANBUL during voyage 089S. The shipping instructions were given on January 2, 2026, and the shipment was loaded in week 1. The sailing date was January 2, 2026, and the shipment weight was 24,131.6 kg. The total quantity was 180 pieces, each weighing 2.37 kg, making the total weight 426.6 kg. The status is Shipped, and the ship documents date and closing date were both January 2, 2026.

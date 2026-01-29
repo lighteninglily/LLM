@@ -1,0 +1,1343 @@
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on May 30, 2025. Achieved 3,980 units on the same day.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 10,195 units of R500L5.6-Coils identified by CW500L5.6 on May 31, 2025. Achieved 10,195 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 14,218 units of R500L5.6-Coils identified by CW500L5.6 on June 1, 2025. Achieved 14,218 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 16,260 units of R500L5.6-Coils identified by CW500L5.6 on June 2, 2025. Achieved 16,260 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 0 units of R500L5.6-Coils identified by CW500L5.6 on June 3, 2025.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 0 units of R500L5.6-Coils identified by CW500L5.6 on June 4, 2025.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 15,810 units of R500L5.6-Coils identified by CW500L5.6 on June 5, 2025. Achieved 15,810 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 8,977 units of R500L5.6-Coils identified by CW500L5.6 on June 6, 2025. Achieved 8,977 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 8,125 units of R500L5.6-Coils identified by CW500L5.6 on June 7, 2025. Achieved 8,125 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 3,430 units of R500L5.6-Coils identified by CW500L5.6 on June 8, 2025. Achieved 3,430 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 4,075 units of R500L5.6-Coils identified by CW500L5.6 on June 10, 2025. Achieved 4,075 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 8,176 units of R500L5.6-Coils identified by CW500L5.6 on June 11, 2025. Achieved 8,176 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 8,490 units of R500L5.6-Coils identified by CW500L5.6 on June 12, 2025. Achieved 8,490 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 6,310 units of R500L5.6-Coils identified by CW500L5.6 on June 13, 2025. Achieved 6,310 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 4,081 units of R500L5.6-Coils identified by CW500L5.6 on June 14, 2025. Achieved 4,081 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 8,190 units of R500L5.6-Coils identified by CW500L5.6 on June 15, 2025. Achieved 8,190 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,715 units of R500L5.6-Coils identified by CW500L5.6 on June 16, 2025. Achieved 7,715 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 5,730 units of R500L5.6-Coils identified by CW500L5.6 on June 17, 2025. Achieved 5,730 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 6,285 units of R500L5.6-Coils identified by CW500L5.6 on June 18, 2025. Achieved 6,285 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 6,200 units of R500L5.6-Coils identified by CW500L5.6 on June 19, 2025. Achieved 9,060 units with 1,000 kg sheet.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,660 units of R500L5.6-Coils identified by CW500L5.6 on June 20, 2025. Achieved 10,365 units with 1,000 kg sheet.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on June 20, 2025. Achieved 6,080 units with 1,000 kg sheet.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 16,644 units of R500L5.6-Coils identified by CW500L5.6 on June 21, 2025. Achieved 18,675 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 17,390 units of R500L5.6-Coils identified by CW500L5.6 on June 22, 2025. Belongs to week 26.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 6,195 units of R500L5.6-Coils identified by CW500L5.6 on June 23, 2025. Achieved 11,905 units with 1,000 kg sheet.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 11,840 units of R500L5.6-Coils identified by CW500L5.6 on June 24, 2025. Achieved 9,548 units with 1,000 kg sheet.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,870 units of R500L5.6-Coils identified by CW500L5.6 on June 25, 2025. Achieved 7,555 units with 1,000 kg sheet.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 18,290 units of R500L5.6-Coils identified by CW500L5.6 on June 26, 2025. Achieved 13,685 units with 1,000 kg sheet.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 16,010 units of R500L5.6-Coils identified by CW500L5.6 on June 27, 2025. Achieved 16,010 units with 1,000 kg sheet.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 6,030 units of R500L5.6-Coils identified by CW500L5.6 on June 28, 2025. Achieved 11,640 units with 1,000 kg sheet.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 18,595 units of R500L5.6-Coils identified by CW500L5.6 on June 29, 2025. Achieved 18,595 units with 1,000 kg sheet.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 5,715 units of R500L5.6-Coils identified by CW500L5.6 on June 30, 2025. Achieved 20,230 units with 1,000 kg sheet.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,957 units of R500L5.6-Coils identified by CW500L5.6 on July 1, 2025. Achieved 18,650 units with 1,000 kg sheet.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 10,025 units of R500L5.6-Coils identified by CW500L5.6 on July 2, 2025. Achieved 12,355 units with 1,000 kg sheet.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 10,007 units of R500L5.6-Coils identified by CW500L5.6 on July 3, 2025. Achieved 18,495 units with 1,000 kg sheet.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 11,871 units of R500L5.6-Coils identified by CW500L5.6 on July 4, 2025. Achieved 32,552 units with 1,000 kg sheet.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 11,871 units of R500L5.6-Coils identified by CW500L5.6 on July 4, 2025. Achieved 32,552 units with 1,000 kg sheet.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 0 units of R500L5.6-Coils identified by CW500L5.6 on July 5, 2025. Achieved 0 units with 1,000 kg sheet.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 0 units of R500L5.6-Coils identified by CW500L5.6 on July 6, 2025. Achieved 0 units with 1,000 kg sheet.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 6,190 units on July 7, 2025. Week 28.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 2,326 units on July 8, 2025. Week 28.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 1,755 units on July 9, 2025. Week 28.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+6.5/7.0mm C12D, ross_order: WIP, dmw_product: R500L5.6-Coils, ross_code: CW500L5.6, produced 120,000 units on July 9, 2025. Week 28. Achieved 4,020 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 6,230 units on July 10, 2025. Week 28.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 8,365 units on July 11, 2025. Week 28.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 8,415 units on July 12, 2025. Week 28.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 6,230 units on July 13, 2025. Week 29.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 8,545 units on July 16, 2025. Week 29.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+7.0mm C12D, ross_order: WIP, dmw_product: R500L5.6-Coils, ross_code: CW500L5.6, produced 120,000 units on July 17, 2025. Week 29. Achieved 2,160 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 6,305 units on July 17, 2025. Week 29.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 8,545 units on July 16, 2025. Week 29.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 6,230 units on July 13, 2025. Week 29.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 2,030 units on July 18, 2025. Week 29.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 15,260 units on July 21, 2025. Week 30.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 20,796 units on July 22, 2025. Week 30.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 11,740 units on July 23, 2025. Week 30.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Rework on hold dia5.6Galv, ross_order: WIP, dmw_product: COILGW5.0, ross_code: COILGW5, produced 12,000 units on July 24, 2025. Week 30. Achieved 5,430 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 735.0 units on July 26, 2025. Week 30.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 970.0 units on July 27, 2025. Week 31.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 985.0 units on August 1, 2025. Week 31.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+5.5mm C12D, ross_order: WIP, dmw_product: R500L4.5-Coils, ross_code: CW500L4.5, qty: 45,000.0 units, achieved: 6,190.0 units on August 2, 2025. Week 31.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 6,090.0 units on August 3, 2025. Week 32.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 8,970.0 units on August 4, 2025. Week 32.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 10,681.0 units on August 5, 2025. Week 32.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 3,215.0 units on August 6, 2025. Week 32.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+5.5mm C12D, ross_order: WIP, dmw_product: R500L4.5-Coils, ross_code: CW500L4.5, qty: 51,000.0 units, achieved_1: 9,523.0 units on August 6, 2025. Week 32.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 9,375.0 units on August 7, 2025. Week 32.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 5,855.0 units on August 8, 2025. Week 32.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+6.5mm C12D, ross_order: WIP, dmw_product: R500L5.0-Coils, ross_code: CW500L5, qty: 9,000.0 units, achieved: 3,300.0 units, achieved_1: 6,995.0 units on August 8, 2025. Week 32.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+7.0mm C12D, ross_order: WIP, dmw_product: R500L5.6-Coils, ross_code: CW500L5.6, achieved_1: 8,315.0 units on August 8, 2025. Week 32.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 8,275.0 units on August 9, 2025. Week 32.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+7.0mm C12D, ross_order: WIP, dmw_product: R500L5.6-Coils, ross_code: CW500L5.6, qty: 120,000.0 units, achieved: 10,215.0 units, achieved_1: 20,638.0 units on August 9, 2025. Week 32.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 6,395.0 units of DMW_PRODUCT R500L4.5-Coils identified by ROSS_CODE CW500L4.5 on August 10, 2025. Week 33.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 4,585.0 units of DMW_PRODUCT R500L4.5-Coils identified by ROSS_CODE CW500L4.5 on August 11, 2025. Week 33.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 6,250.0 units of DMW_PRODUCT R500L4.5-Coils identified by ROSS_CODE CW500L4.5 on August 11, 2025. Week 33.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 10,730.0 units of DMW_PRODUCT R500L4.5-Coils identified by ROSS_CODE CW500L4.5 on August 12, 2025. Week 33.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 10,800.0 units of DMW_PRODUCT R500L4.5-Coils identified by ROSS_CODE CW500L4.5 on August 12, 2025. Week 33.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 12,360.0 units of DMW_PRODUCT R500L5.6-Coils identified by ROSS_CODE CW500L5.6 on August 12, 2025. Week 33.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 8,370.0 units of DMW_PRODUCT R500L4.5-Coils identified by ROSS_CODE CW500L4.5 on August 13, 2025. Week 33.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 5,550.0 units of DMW_PRODUCT R500L4.5-Coils identified by ROSS_CODE CW500L4.5 on August 13, 2025. Week 33.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 970.0 units of DMW_PRODUCT R500L4.5-Coils identified by ROSS_CODE CW500L4.5 on August 14, 2025. Week 33.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 11,785.0 units of DMW_PRODUCT R500L5.6-Coils identified by ROSS_CODE CW500L5.6 on August 14, 2025. Week 33.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 20,315.0 units of DMW_PRODUCT R500L5.6-Coils identified by ROSS_CODE CW500L5.6 on August 15, 2025. Week 33.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000.0 units of DMW_PRODUCT R500L5.6-Coils identified by ROSS_CODE CW500L5.6 on August 15, 2025. Week 33.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 14,555.0 units of DMW_PRODUCT R500L5.6-Coils identified by ROSS_CODE CW500L5.6 on August 22, 2025. Week 34.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 9,780.0 units of DMW_PRODUCT R500L5.6-Coils identified by ROSS_CODE CW500L5.6 on August 18, 2025. Week 34.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 16,645.0 units of DMW_PRODUCT R500L5.6-Coils identified by ROSS_CODE CW500L5.6 on August 19, 2025. Week 34.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 18,855.0 units of DMW_PRODUCT R500L5.6-Coils identified by ROSS_CODE CW500L5.6 on August 20, 2025. Week 34.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 14,510.0 units of DMW_PRODUCT R500L5.6-Coils identified by ROSS_CODE CW500L5.6 on August 21, 2025. Week 34.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 8,265.0 units of DMW_PRODUCT R500L5.6-Coils identified by ROSS_CODE CW500L5.6 on August 21, 2025. Week 34.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 14,555.0 units of DMW_PRODUCT R500L5.6-Coils identified by ROSS_CODE CW500L5.6 on August 22, 2025. Week 34.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 22,945.0 units of DMW_PRODUCT Unknown identified by ROSS_CODE CW500L7.05 on August 23, 2025. Achieved 22,945.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 2,130.0 units of DMW_PRODUCT Unknown identified by ROSS_CODE CW500L7.05 on August 24, 2025. Achieved 2,130.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 20,663.0 units of DMW_PRODUCT Unknown identified by ROSS_CODE CW500L7.05 on August 24, 2025. Achieved 20,663.0 units with 86% yield.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 8,300.0 units of DMW_PRODUCT Unknown identified by ROSS_CODE CW500L7.05 on August 25, 2025. Achieved 8,300.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 14,560.0 units of DMW_PRODUCT R500L5.6-Coils identified by ROSS_CODE CW500L5.6 on August 25, 2025. Achieved 14,560.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 2,105.0 units of DMW_PRODUCT Unknown identified by ROSS_CODE CW500L6.30 on August 25, 2025. Achieved 2,105.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 20,920.0 units of DMW_PRODUCT R500L5.6-Coils identified by ROSS_CODE CW500L5.6 on August 26, 2025. Achieved 20,920.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 20,790.0 units of DMW_PRODUCT R500L5.6-Coils identified by ROSS_CODE CW500L5.6 on August 27, 2025. Achieved 20,790.0 units with 83% yield.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 10,260.0 units of DMW_PRODUCT R500L5.6-Coils identified by ROSS_CODE CW500L5.6 on August 29, 2025. Achieved 10,260.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 2,125.0 units of DMW_PRODUCT Unknown identified by ROSS_CODE CW500L7.05 on August 30, 2025. Achieved 2,125.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 20,133.0 units of DMW_PRODUCT R500L5.6-Coils identified by ROSS_CODE CW500L5.6 on September 2, 2025. Achieved 20,133.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 20,700.0 units of DMW_PRODUCT R500L5.6-Coils identified by ROSS_CODE CW500L5.6 on September 3, 2025. Achieved 20,700.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 4,010.0 units of DMW_PRODUCT R500L5.6-Coils identified by ROSS_CODE CW500L5.6 on September 4, 2025. Achieved 4,010.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 127,350.0 units of DMW_PRODUCT R500L5.6-Coils identified by ROSS_CODE CW500L5.6 on September 4, 2025. Achieved 127,350.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 18,660.0 units of DMW_PRODUCT R500L5.6-Coils identified by ROSS_CODE CW500L5.6 on September 5, 2025. Achieved 18,660.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 20,700.0 units of DMW_PRODUCT R500L5.6-Coils identified by ROSS_CODE CW500L5.6 on September 6, 2025. Achieved 20,700.0 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 120,000 units of R500L5.6-Coils on September 11, 2025. Ross order WIP achieved 8,416 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 120,000 units of R500L5.6-Coils on September 20, 2025. Ross order WIP achieved 8,310 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 19,142 units of R500L5.6-Coils on September 10, 2025. Ross order WIP achieved 18,811 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 4,260 units of R500L5.6-Coils on September 11, 2025. Ross order WIP achieved 4,260 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 2,020 units of R500L5.6-Coils on September 12, 2025. Ross order WIP achieved 2,020 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 14,485 units of R500L5.6-Coils on September 17, 2025. Ross order WIP achieved 16,125 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 23,355 units of R500L5.6-Coils on September 18, 2025. Ross order WIP achieved 22,439 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 22,934 units of R500L5.6-Coils on September 19, 2025. Ross order WIP achieved 22,280 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 1,700 units of R500L5.6-Coils on September 24, 2025. Ross order WIP achieved 1,700 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 14,385 units of R500L5.6-Coils on September 21, 2025. Ross order WIP achieved 20,373 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 20,345 units of R500L5.6-Coils on September 22, 2025. Ross order WIP achieved 16,206 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 18,170 units of R500L5.6-Coils on September 23, 2025. Ross order WIP achieved 17,485 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 1,448.5 units of R500L5.6-Coils on September 17, 2025. Ross order WIP achieved 1,612.5 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 23,355 units of R500L5.6-Coils on September 18, 2025. Ross order WIP achieved 22,439 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 22,934 units of R500L5.6-Coils on September 19, 2025. Ross order WIP achieved 22,280 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 1,700 units of R500L5.6-Coils on September 24, 2025. Ross order WIP achieved 1,700 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 1,438.5 units of R500L5.6-Coils on September 21, 2025. Ross order WIP achieved 2,037.3 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 2,034.5 units of R500L5.6-Coils on September 22, 2025. Ross order WIP achieved 1,620.6 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 1,817.0 units of R500L5.6-Coils on September 23, 2025. Ross order WIP achieved 1,748.5 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 1,700 units of R500L5.6-Coils on September 24, 2025. Ross order WIP achieved 1,700 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 1,438.5 units of R500L5.6-Coils on September 21, 2025. Ross order WIP achieved 2,037.3 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 2,034.5 units of R500L5.6-Coils on September 22, 2025. Ross order WIP achieved 1,620.6 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 1,817.0 units of R500L5.6-Coils on September 23, 2025. Ross order WIP achieved 1,748.5 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 1,700 units of R500L5.6-Coils on September 24, 2025. Ross order WIP achieved 1,700 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 12,000 units of COILGW5.0 - Coil GW5 on October 8, 2025. Achieved 3,046 units with 25.4% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 6,000 units of COILGW5.0 - Coil GW5 on October 13, 2025. Achieved 6,399 units with 106.65% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils - Rebar 500L 5.6m Black on October 14, 2025. Achieved 13,111 units with 10.93% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 7,000 units of CW500L5.6 - 7.0mm C12D on October 14, 2025. Achieved 13,111 units with 187.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 20,000 units of DMW_PRODUCT R500L4.0-Coils identified by ROSS_CODE CW500L4 on October 16, 2025. Week 42.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 9,000 units of DMW_PRODUCT R500L3.15-Coils identified by ROSS_CODE CW500L3.15 on October 16, 2025. Week 42.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 21,966.0 units of DMW_PRODUCT R500L4.0-Coils identified by ROSS_CODE CW500L4 on October 15, 2025. Week 42.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 2,260.0 units of DMW_PRODUCT R500L4.0-Coils identified by ROSS_CODE CW500L4 on October 16, 2025. Week 42.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 3,021.0 units of DMW_PRODUCT R500L3.15-Coils identified by ROSS_CODE CW500L3.15 on October 16, 2025. Week 42.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 2,195.0 units of DMW_PRODUCT R500L4.0-Coils identified by ROSS_CODE CW500L4 on October 17, 2025. Week 42.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 2,112.0 units of DMW_PRODUCT R500L4.0-Coils identified by ROSS_CODE CW500L4 on October 18, 2025. Week 42.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 2,262.0 units of DMW_PRODUCT R500L4.0-Coils identified by ROSS_CODE CW500L4 on October 19, 2025. Week 43.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 10,03.0 units of DMW_PRODUCT R500L4.0-Coils identified by ROSS_CODE CW500L4 on October 21, 2025. Week 43.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 1,009.0 units of DMW_PRODUCT R500L4.0-Coils identified by ROSS_CODE CW500L4 on October 23, 2025. Week 43.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 129,540 units of DMW_PRODUCT R500L5.6-Coils identified by ROSS_CODE CW500L5.6 on October 24, 2025. Week 43.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 15,172.0 units of DMW_PRODUCT R500L5.6-Coils identified by ROSS_CODE CW500L5.6 on October 25, 2025. Week 43.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 17,019.0 units of DMW_PRODUCT R500L5.6-Coils identified by ROSS_CODE CW500L5.6 on October 27, 2025. Week 44.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 17,018.0 units of DMW_PRODUCT R500L5.6-Coils identified by ROSS_CODE CW500L5.6 on October 30, 2025. Week 44.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of DMW_PRODUCT R500L5.6-Coils identified by ROSS_CODE CW500L5.6 on October 29, 2025. Week 44.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 15,039.0 units of DMW_PRODUCT R500L5.6-Coils identified by ROSS_CODE CW500L5.6 on October 28, 2025. Week 44.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 23,778.0 units of DMW_PRODUCT R500L5.6-Coils identified by ROSS_CODE CW500L5.6 on October 29, 2025. Week 44.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 17,018.0 units of DMW_PRODUCT R500L5.6-Coils identified by ROSS_CODE CW500L5.6 on October 30, 2025. Week 44.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 17,018.0 units of DMW_PRODUCT R500L5.6-Coils identified by ROSS_CODE CW500L5.6 on October 31, 2025. Week 44.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 17,018.0 units of DMW_PRODUCT R500L5.6-Coils identified by ROSS_CODE CW500L5.6 on November 1, 2025. Week 44.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 17,018.0 units of DMW_PRODUCT R500L5.6-Coils identified by ROSS_CODE CW500L5.6 on November 2, 2025. Week 45.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 6, 2025. Achieved 6,288 units with 8,242 units after first shift. Week 45.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6-Coils identified by CW500L5.6 on November 12, 2025. Achieved 4,137 units with 18,280 units after first shift. Week 46.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+ROSS_ORDER WIP produced 120,000 units of R500L5.6
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 10,278 units on November 22, 2025. Week 47.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 12,293 units on November 24, 2025. Week 48.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 7,956 units on November 25, 2025. Week 48.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 142,170 units on November 27, 2025. Week 48.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 16,330 units on November 28, 2025. Week 48.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 10,274 units on November 29, 2025. Week 48.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 18,634 units on November 30, 2025. Week 49.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 10,181 units on December 1, 2025. Week 49.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 14,225 units on December 2, 2025. Week 49.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 14,484 units on December 3, 2025. Week 49.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 14,610 units on December 4, 2025. Week 49.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 14,506 units on December 5, 2025. Week 49.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 20,680 units on December 11, 2025. Week 50.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 10,429 units on December 8, 2025. Week 50.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 16,620 units on December 9, 2025. Week 50.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 12,437 units on December 10, 2025. Week 50.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 20,680 units on December 11, 2025. Week 50.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 10,429 units on December 8, 2025. Week 50.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 16,620 units on December 9, 2025. Week 50.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 12,437 units on December 10, 2025. Week 50.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 20,680 units on December 11, 2025. Week 50.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 8,258 units on December 12, 2025. Week 50.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 120,000 units of R500L5.6-Coils on December 12, 2025. Week 50. Ross order WIP achieved 2,067 units. Next day target: 18,744 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 24,594 units on December 13, 2025. Week 50.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 20,611 units on December 14, 2025. Week 51.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 16,628 units on December 15, 2025. Week 51.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 14,477 units on December 16, 2025. Week 51.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 18,506 units on December 17, 2025. Week 51.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 22,285 units on December 18, 2025. Week 51. Ross order WIP achieved 4,163 units. Next day target: 16,593 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 18,656 units on December 19, 2025. Week 51. Ross order WIP achieved 24,793 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 10,435 units on December 20, 2025. Week 51. Ross order WIP achieved 20,511 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 16,355 units on December 21, 2025. Week 52. Ross order WIP achieved 20,310 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 8,158 units on December 22, 2025. Week 52. Ross order WIP achieved 20,280 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 20,557 units on December 23, 2025. Week 52. Ross order WIP achieved 20,847 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 24,438 units on December 27, 2025. Week 52. Ross order WIP achieved 16,300 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 20,497 units on December 28, 2025. Week 53. Ross order WIP achieved 22,537 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 12,135 units on December 29, 2025. Week 53. Ross order WIP achieved 16,281 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 22,188.0 units of R500L5.6-Coils on January 5, 2026. Ross code CW500L5.6 achieved 28,538.0 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 120,000.0 units of R500L5.6-Coils on January 7, 2026. Ross code CW500L5.6 achieved 28,529.0 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 120,000.0 units of R500L5.6-Coils on January 8, 2026. Ross code CW500L5.6 achieved 20,360.0 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 120,000.0 units of R500L5.6-Coils on January 9, 2026. Ross code CW500L5.6 achieved 28,463.0 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 120,000.0 units of R500L5.6-Coils on January 10, 2026. Ross code CW500L5.6 achieved 24,470.0 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 120,000.0 units of R500L5.6-Coils on January 11, 2026. Ross code CW500L5.6 achieved 16,603.0 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 120,000.0 units of R500L5.6-Coils on January 12, 2026. Ross code CW500L5.6 achieved 20,241.0 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 120,000.0 units of R500L5.6-Coils on January 13, 2026. Ross code CW500L5.6 achieved 30,508.0 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 120,000.0 units of R500L5.6-Coils on January 14, 2026. Ross code CW500L5.6 achieved 10,164.0 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 120,000.0 units of R500L5.6-Coils on January 15, 2026. Ross code CW500L5.6 achieved 4,047.0 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 120,000.0 units of R500L5.6-Coils on January 16, 2026. Ross code CW500L5.6 achieved 10,185.0 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 120,000.0 units of R500L5.6-Coils on January 17, 2026. Ross code CW500L5.6 achieved 14,381.0 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 120,000.0 units of R500L5.6-Coils on January 13, 2026. Ross code CW500L5.6 achieved 20,241.0 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 120,000.0 units of R500L5.6-Coils on January 14, 2026. Ross code CW500L5.6 achieved 30,508.0 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 120,000.0 units of R500L5.6-Coils on January 15, 2026. Ross code CW500L5.6 achieved 10,164.0 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 120,000.0 units of R500L5.6-Coils on January 16, 2026. Ross code CW500L5.6 achieved 4,047.0 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 120,000.0 units of R500L5.6-Coils on January 17, 2026. Ross code CW500L5.6 achieved 14,381.0 units.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 1,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 18, 2026. Week 4.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 1,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 19, 2026. Week 4.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 1,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 20, 2026. Week 4.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 1,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 21, 2026. Week 4.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 1,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 22, 2026. Week 4.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 1,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 23, 2026. Week 4.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 1,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 24, 2026. Week 4.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 1,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 25, 2026. Week 5.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 1,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 26, 2026. Week 5.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 1,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 27, 2026. Week 5.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 1,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 28, 2026. Week 5.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 1,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 29, 2026. Week 5.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 1,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 30, 2026. Week 5.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 1,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 31, 2026. Week 5.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 1,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 1, 2026. Week 6.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 1,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 2, 2026. Week 6.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 1,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 3, 2026. Week 6.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 1,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 4, 2026. Week 6.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 1,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 5, 2026. Week 6.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 1,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 6, 2026. Week 6.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 2,000 units on February 7, 2026. Week 6.
+Drawing GZ2 produced 2,000 units on February 8, 2026. Week 7.
+Drawing GZ2 produced 2,000 units on February 9, 2026. Week 7.
+Drawing GZ2 produced 2,000 units on February 10, 2026. Week 7.
+Drawing GZ2 produced 2,000 units on February 11, 2026. Week 7.
+Drawing GZ2 produced 2,000 units on February 12, 2026. Week 7.
+Drawing GZ2 produced 2,000 units on February 13, 2026. Week 7.
+Drawing GZ2 produced 2,000 units on February 14, 2026. Week 7.
+Drawing GZ2 produced 2,000 units on February 15, 2026. Week 8.
+Drawing GZ2 produced 2,000 units on February 16, 2026. Week 8.
+Drawing GZ2 produced 2,000 units on February 17, 2026. Week 8.
+Drawing GZ2 produced 2,000 units on February 18, 2026. Week 8.
+Drawing GZ2 produced 2,000 units on February 19, 2026. Week 8.
+Drawing GZ2 produced 2,000 units on February 20, 2026. Week 8.
+Drawing GZ2 produced 2,000 units on February 21, 2026. Week 8.
+Drawing GZ2 produced 2,000 units on February 22, 2026. Week 9.
+Drawing GZ2 produced 2,000 units on February 23, 2026. Week 9.
+Drawing GZ2 produced 2,000 units on February 24, 2026. Week 9.
+Drawing GZ2 produced 2,000 units on February 25, 2026. Week 9.
+Drawing GZ2 produced 2,000 units on February 26, 2026. Week 9.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 27, 2026. Week 9.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on February 28, 2026. Week 9.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 1, 2026. Week 10.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 2, 2026. Week 10.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 3, 2026. Week 10.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 4, 2026. Week 10.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 5, 2026. Week 10.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 6, 2026. Week 10.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 7, 2026. Week 10.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 8, 2026. Week 11.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 9, 2026. Week 11.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 10, 2026. Week 11.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 11, 2026. Week 11.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 12, 2026. Week 11.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 13, 2026. Week 11.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 14, 2026. Week 11.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 15, 2026. Week 12.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 16, 2026. Week 12.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 17, 2026. Week 12.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on March 18, 2026. Week 12.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 0 units on March 19, 2026. Week 12.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 0 units on March 20, 2026. Week 12.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 0 units on March 21, 2026. Week 12.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 0 units on March 22, 2026. Week 13.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 0 units on March 23, 2026. Week 13.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 0 units on March 24, 2026. Week 13.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 0 units on March 25, 2026. Week 13.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 0 units on March 26, 2026. Week 13.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 0 units on March 27, 2026. Week 13.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 0 units on March 28, 2026. Week 13.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 0 units on March 29, 2026. Week 14.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 0 units on March 30, 2026. Week 14.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 0 units on March 31, 2026. Week 14.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 0 units on April 1, 2026. Week 14.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 0 units on April 2, 2026. Week 14.
+
+[Source: Daily Production Report v1.xlsm_Drawing GZ2.csv | Type: production_record]
+Drawing GZ2 produced 0 units on April 3, 2026. Week 14.

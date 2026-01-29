@@ -1,0 +1,9 @@
+2026-01-27 08:43:32,013 [INFO] Analyzing data in: /home/ryan/Documents/VSMS/ragflow_automation/test_data
+2026-01-27 08:43:32,014 [INFO] Sampling: ASW - DW - Open Sales Orders.csv
+2026-01-27 08:43:32,018 [INFO]   Schema: 20 columns, 0 likely FKs
+2026-01-27 08:43:32,018 [INFO] Found 1 files
+2026-01-27 08:43:32,018 [INFO] Calling LLM: Qwen/Qwen2.5-7B-Instruct-AWQ at http://localhost:8000/v1
+2026-01-27 08:43:32,018 [DEBUG] Prompt length: 8179 chars
+2026-01-27 08:43:34,058 [INFO] LLM response received: 711 chars
+2026-01-27 08:43:34,058 [INFO] Parsed analysis: 3 entity types, 1 files
+2026-01-27 08:43:34,059 [INFO] Analysis saved to: /home/ryan/Documents/VSMS/ragflow_automation/config/analysis_output.json

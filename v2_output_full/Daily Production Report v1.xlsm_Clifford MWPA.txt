@@ -1,0 +1,974 @@
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on April 30, 2025. Seattle - May Batch 2 recorded production.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on May 1, 2025. Seattle - May Batch 2 recorded production.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on May 2, 2025. Seattle - May Batch 2 recorded production.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+No production scheduled on May 3, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+No production scheduled on May 4, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on May 5, 2025. Seattle - May Batch 2 recorded production.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on May 6, 2025. Seattle - May Batch 2 recorded production.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on May 7, 2025. Seattle - May Batch 2 recorded production.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Adelaide produced 2,400 units of IMG5H-44-4024 on May 7, 2025. Seattle - May Batch 2 recorded production.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Adelaide produced 2,400 units of IMG5H-44-4024 on May 8, 2025. Seattle - May Batch 2 recorded production.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Adelaide produced 2,400 units of IMG5H-44-4024 on May 9, 2025. Seattle - May Batch 2 recorded production.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+No production scheduled on May 10, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+No production scheduled on May 11, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Adelaide produced 2,400 units of IMG5H-44-4024 on May 12, 2025. Seattle - May Batch 2 recorded production.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Adelaide produced 2,400 units of IMG5H-44-4024 on May 13, 2025. Seattle - May Batch 2 recorded production.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+For Brisbane, CLIFFORD MWPA produced 3,300 units of IMG5H-44-4024 on May 13, 2025. Seattle - May Batch 2 recorded production.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+For Brisbane, CLIFFORD MWPA produced 3,300 units of IMG5H-44-4024 on May 14, 2025. Seattle - May Batch 2 recorded production.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+For Brisbane, CLIFFORD MWPA produced 3,300 units of IMG5H-44-4024 on May 15, 2025. Seattle - May Batch 2 recorded production.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+For Brisbane, CLIFFORD MWPA produced 3,300 units of IMG5H-44-4024 on May 16, 2025. Seattle - May Batch 2 recorded production.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+For Perth, CLIFFORD MWPA produced 500 units of IMG5H-44-3612 on May 16, 2025. Week 20 of 2025 recorded production.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+For Perth, Ross Order 251127 produced IMG5H-44-3612 coded as SMF36121010056G on May 17, 2025. Produced 500 units with 67.35 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+For Perth, Ross Order 251127 produced IMG5H-44-3612 coded as SMF36121010056G on May 18, 2025. Produced 500 units with 67.35 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+For Brisbane, Ross Order 250672 produced IMG5H-44-4824 coded as CCP48241010056G on May 19, 2025. Produced 300 units with 67.35 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+For Brisbane, Ross Order 250672 produced IMG5H-44-4824 coded as CCP48241010056G on May 20, 2025. Produced 300 units with 67.35 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+For Brisbane, Ross Order 250672 produced IMG5H-44-4824 coded as CCP48241010056G on May 20, 2025. Produced 250 units with 67.35 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+For Brisbane, Ross Order 250672 produced IMG5H-44-4824 coded as CCP48241010056G on May 21, 2025. Produced 600 units with 67.35 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+For Brisbane, Ross Order 250672 produced IMG5H-44-4824 coded as CCP48241010056G on May 22, 2025. Produced 250 units with 67.35 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+For Adelaide, Ross Order 251083 produced IMG5H-44-4524 coded as CCP45241010056G on May 22, 2025. Produced 75 units with 71.74 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+For Adelaide, Ross Order 251083 produced IMG5H-44-4524 coded as CCP45241010056G on May 23, 2025. Produced 400 units with 71.74 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+For Adelaide, Ross Order 251083 produced IMG5H-44-4524 coded as CCP45241010056G on May 24, 2025. Produced 75 units with 71.74 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+For Adelaide, Ross Order 251083 produced IMG5H-44-4524 coded as CCP45241010056G on May 25, 2025. Produced 425 units with 71.74 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+For Seattle - June Batch 1, Ross Order SEA2277 produced IMG5H-44-4524 coded as CCP45241010056G on May 26, 2025. Produced 475 units with 71.74 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+For Seattle - June Batch 1, Ross Order SEA2277 produced IMG5H-44-4524 coded as CCP45241010056G on May 27, 2025. Produced 475 units with 71.74 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+For Seattle - June Batch 1, Ross Order SEA2277 produced IMG5H-44-4524 coded as CCP45241010056G on May 28, 2025. Produced 475 units with 71.74 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+For Seattle - June Batch 1, Ross Order SEA2277 produced IMG5H-44-4524 coded as CCP45241010056G on May 29, 2025. Produced 425 units with 71.74 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+For Seattle - June Batch 1, Ross Order SEA2277 produced IMG5H-44-4524 coded as CCP45241010056G on May 30, 2025. Produced 475 units with 71.74 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+For Brisbane, Ross Order 251084 produced IMG5H-44-4529 coded as CCP45241010056G on May 30, 2025. Produced 475 units with 71.74 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+For Brisbane, Ross Order 251084 produced IMG5H-44-4529 coded as CCP45241010056G on May 31, 2025. Produced 475 units with 71.74 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+For Brisbane, Ross Order 251084 produced IMG5H-44-4529 coded as CCP45241010056G on June 1, 2025. Produced 475 units with 71.74 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on June 2, 2025. Ross order 251084 recorded production of IMG5H-44-4524.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 475 units of IMG5H-44-4524 on June 3, 2025. Ross order 251084 recorded production of IMG5H-44-4524.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 500 units of IMG5H-44-4524 on June 4, 2025. Ross order 251084 recorded production of IMG5H-44-4524.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 475 units of IMG5H-44-4524 on June 5, 2025. Ross order 251084 recorded production of IMG5H-44-4524.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 0 units of IMG5H-44-4524 on June 6, 2025. Ross order 251084 recorded production of IMG5H-44-4524.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 0 units of IMG5H-44-4524 on June 7, 2025. No production recorded.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 0 units of IMG5H-44-4524 on June 8, 2025. No production recorded.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3300 units of IMG5H-44-4524 on June 9, 2025. Ross order SEA2278 recorded production of IMG5H-44-4524.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 475 units of IMG5H-44-4524 on June 10, 2025. Ross order SEA2278 recorded production of IMG5H-44-4524.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 350 units of IMG5H-44-4524 on June 11, 2025. Ross order SEA2278 recorded production of IMG5H-44-4524.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 125 units of IMG5H-44-4524 on June 12, 2025. Ross order SEA2278 recorded production of IMG5H-44-4524.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 1000 units of IMG5H-44-4824 on June 12, 2025. Ross order 251128 recorded production of IMG5H-44-4824.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 250 units of IMG5H-44-4824 on June 13, 2025. Ross order 251128 recorded production of IMG5H-44-4824.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 550 units of IMG5H-44-4524 on June 13, 2025. Ross order SEA2278 recorded production of IMG5H-44-4524.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 200 units of IMG5H-44-4824 on June 16, 2025. Ross order 251330 recorded production of IMG5H-44-4824.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 450 units of IMG5H-44-4824 on June 17, 2025. Ross order 251330 recorded production of IMG5H-44-4824.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 450 units of IMG5H-44-4824 on June 18, 2025. Ross order 251330 recorded production of IMG5H-44-4824.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3300 units of IMG5H-44-4524 on June 18, 2025. Ross order 250600 recorded production of IMG5H-44-4524.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on June 19, 2025. Recorded production for Seattle - July Batch 1.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on June 20, 2025. Recorded production for Seattle - July Batch 1.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+No production on June 21, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+No production on June 22, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on June 23, 2025. Recorded production for Seattle - July Batch 1.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on June 24, 2025. Recorded production for Seattle - July Batch 1.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+For Adelaide, CLIFFORD MWPA produced 2,200 units of IMG5H-44-4524 on June 24, 2025. Same day shipment.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+For Adelaide, CLIFFORD MWPA produced 2,200 units of IMG5H-44-4524 on June 25, 2025. Recorded production.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+For Adelaide, CLIFFORD MWPA produced 2,200 units of IMG5H-44-4524 on June 26, 2025. Recorded production.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+For Adelaide, CLIFFORD MWPA produced 2,200 units of IMG5H-44-4524 on June 27, 2025. No production.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+No production on June 28, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+No production on June 29, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+For Adelaide, CLIFFORD MWPA produced 2,200 units of IMG5H-44-4524 on June 30, 2025. Recorded production.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+For Brisbane, CLIFFORD MWPA produced 1,650 units of IMG5H-44-4524 on June 30, 2025. Same day shipment.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+For Brisbane, CLIFFORD MWPA produced 1,650 units of IMG5H-44-4524 on July 1, 2025. Recorded production.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+For Brisbane, CLIFFORD MWPA produced 1,650 units of IMG5H-44-4524 on July 2, 2025. Recorded production.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+For Brisbane, CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on July 2, 2025. Recorded production.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+For Brisbane, CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on July 3, 2025. Recorded production.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+For Brisbane, CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on July 4, 2025. Recorded production.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+No production on July 5, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on July 7, 2025. Recorded production of CCP45241010056G with 80% achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on July 8, 2025. Recorded production of CCP45241010056G with 20% achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on July 8, 2025. Recorded production of CCP45241010056G with 500 units achieved next day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on July 9, 2025. Recorded production of CCP45241010056G with 425 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on July 10, 2025. Recorded production of CCP45241010056G with 200 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on July 11, 2025. Recorded production of CCP45241010056G with no production.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 0 units of IMG5H-44-4524 on July 12, 2025. Recorded production of CCP45241010056G with no production.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 0 units of IMG5H-44-4524 on July 13, 2025. Recorded production of CCP45241010056G with no production.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on July 14, 2025. Recorded production of CCP45241010056G with 475 units achieved next day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on July 14, 2025. Recorded production of CCP45241010056G with 300 units achieved next day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on July 15, 2025. Recorded production of CCP45241010056G with 475 units achieved next day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on July 16, 2025. Recorded production of CCP45241010056G with 500 units achieved next day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on July 17, 2025. Recorded production of CCP45241010056G with 325 units achieved next day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on July 18, 2025. Recorded production of CCP45241010056G with 350 units achieved next day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on July 19, 2025. Recorded production of CCP45241010056G with 550 units achieved next day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 1,200 units of IMG5H-44-4024 on July 20, 2025. Recorded production of CCP40241010056G with 500 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 1,200 units of IMG5H-44-4024 on July 21, 2025. Recorded production of CCP40241010056G with 530 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 2,200 units of IMG5H-44-4524 on July 21, 2025. Recorded production of CCP45241010056G with 200 units achieved next day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 2,200 units of IMG5H-44-4524 on July 22, 2025. Recorded production of CCP45241010056G with 400 units achieved next day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 2,200 units of IMG5H-44-4524 on July 23, 2025. Achieved 350 units with 475 units remaining for the day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 2,200 units of IMG5H-44-4524 on July 24, 2025. Achieved 130 units with 50 units remaining for the day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 2,200 units of IMG5H-44-4524 on July 25, 2025. Achieved 95 units with no units remaining for the day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 1,000 units of IMG5H-44-4824 on July 25, 2025. Achieved 250 units with 400 units remaining for the day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 1,000 units of IMG5H-44-4824 on July 28, 2025. Achieved 275 units with no units remaining for the day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 500 units of IMG5H-44-4824 on July 28, 2025. Achieved 200 units with 400 units remaining for the day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 300 units of IMG5H-44-4524 on July 28, 2025. Achieved 150 units with no units remaining for the day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 600 units of IMG5H-44-4024 on July 29, 2025. Achieved 300 units with 300 units remaining for the day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 1,000 units of IMG5H-44-4824 on July 29, 2025. Achieved 0 units with 100 units remaining for the day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 1,000 units of IMG5H-44-4824 on July 30, 2025. Achieved 300 units with 450 units remaining for the day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 1,000 units of IMG5H-44-4824 on July 31, 2025. Achieved 100 units with 175 units remaining for the day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 1,000 units of IMG5H-44-4824 on August 1, 2025. Achieved 0 units with no units remaining for the day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 1,000 units of IMG5H-44-4824 on August 2, 2025. Achieved 0 units with no units remaining for the day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 1,000 units of IMG5H-44-4824 on August 3, 2025. Achieved 0 units with no units remaining for the day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 1,000 units of IMG5H-44-4824 on August 4, 2025. Achieved 0 units with no units remaining for the day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 1,000 units of IMG5H-44-4824 on August 5, 2025. Achieved 0 units with no units remaining for the day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 1,000 units of IMG5H-44-4824 on August 6, 2025. Achieved 0 units with no units remaining for the day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Clifford MWPA produced 0.0 units of DMW product on August 7, 2025. Sheets per hour was 71.74 and spm was 55.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Clifford MWPA produced 0.0 units of DMW product on August 8, 2025. Sheets per hour was 71.74 and spm was 55.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Clifford MWPA produced 0.0 units of DMW product on August 9, 2025. Sheets per hour was 71.74 and spm was 55.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Clifford MWPA produced 0.0 units of DMW product on August 10, 2025. Sheets per hour was 71.74 and spm was 55.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Clifford MWPA produced 0.0 units of DMW product on August 11, 2025. Sheets per hour was 71.74 and spm was 55.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Clifford MWPA produced 0.0 units of DMW product on August 12, 2025. Sheets per hour was 71.74 and spm was 55.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Clifford MWPA produced 0.0 units of DMW product on August 13, 2025. Sheets per hour was 71.74 and spm was 55.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Clifford MWPA produced 0.0 units of DMW product on August 14, 2025. Sheets per hour was 71.74 and spm was 55.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Clifford MWPA produced 0.0 units of DMW product on August 15, 2025. Sheets per hour was 71.74 and spm was 55.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Clifford MWPA produced 0.0 units of DMW product on August 16, 2025. Sheets per hour was 71.74 and spm was 55.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Clifford MWPA produced 0.0 units of DMW product on August 17, 2025. Sheets per hour was 71.74 and spm was 55.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Clifford MWPA produced 0.0 units of DMW product on August 18, 2025. Sheets per hour was 71.74 and spm was 55.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Clifford MWPA produced 0.0 units of DMW product on August 19, 2025. Sheets per hour was 71.74 and spm was 55.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Clifford MWPA produced 0.0 units of DMW product on August 20, 2025. Sheets per hour was 71.74 and spm was 55.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Clifford MWPA produced 0.0 units of DMW product on August 21, 2025. Sheets per hour was 71.74 and spm was 55.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Seattle - Aug Batch 2 placed order ROSS-250600 on August 22, 2025. Order contains 3,300 units of IMG5H-44-4524 for delivery to APPIN MINE, NSW.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Seattle - Aug Batch 2 placed order ROSS-250600 on August 23, 2025. Order contains 3,300 units of IMG5H-44-4524 for delivery to APPIN MINE, NSW. Production achieved 400 units and 450 units respectively.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Clifford MWPA produced 475 units of DMW product on August 24, 2025. Sheets per hour was 71.74 and spm was 55.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Seattle - Aug Batch 2 placed order ROSS-250600 on August 25, 2025. Order contains 3,300 units of IMG5H-44-4524 for delivery to APPIN MINE, NSW. Production achieved 475 units.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Clifford MWPA produced 500 units of DMW product on August 26, 2025. Sheets per hour was 71.74 and spm was 55.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 2,200 units of IMG5H-44-4524 on August 27, 2025. Achieved 200 units, 475 units remaining for the day.
+
+CLIFFORD MWPA produced 2,200 units of IMG5H-44-4524 on August 28, 2025. Achieved 500 units, 475 units remaining for the day.
+
+CLIFFORD MWPA produced 2,200 units of IMG5H-44-4524 on August 29, 2025. Achieved 200 units, 450 units remaining for the day.
+
+CLIFFORD MWPA produced 2,200 units of IMG5H-44-4524 on August 30, 2025. Achieved 75 units, 100 units remaining for the day.
+
+CLIFFORD MWPA produced 1,100 units of IMG5H-44-4524 on August 30, 2025. Achieved 350 units, no units remaining for the next day.
+
+CLIFFORD MWPA produced 1,100 units of IMG5H-44-4524 on August 31, 2025. No units produced, no units remaining for the next day.
+
+CLIFFORD MWPA produced 1,100 units of IMG5H-44-4524 on September 1, 2025. Achieved 475 units, no units remaining for the day.
+
+CLIFFORD MWPA produced 1,100 units of IMG5H-44-4524 on September 2, 2025. Achieved 475 units, no units remaining for the day.
+
+CLIFFORD MWPA produced 1,100 units of IMG5H-44-4524 on September 3, 2025. Achieved 275 units, no units remaining for the day.
+
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on September 4, 2025. Achieved 125 units, no units remaining for the day.
+
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on September 6, 2025. Achieved 500 units, no units remaining for the day.
+
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on September 7, 2025. Achieved 500 units, no units remaining for the day.
+
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on September 8, 2025. Achieved 235 units, 475 units remaining for the day.
+
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on September 9, 2025. Achieved 500 units, 475 units remaining for the day.
+
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on September 10, 2025. Achieved 325 units, 120 units remaining for the day.
+
+CLIFFORD MWPA produced 2,000 units of IMG5H-44-4824 on September 10, 2025. Achieved 0 units, 250 units remaining for the day.
+
+CLIFFORD MWPA produced 2,000 units of IMG5H-44-4824 on September 11, 2025. Achieved 285 units, 450 units remaining for the day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 2,000 units of IMG5H-44-4824 on September 12, 2025. Brisbane recorded production of IMG5H-44-4824 on September 12, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 2,000 units of IMG5H-44-4824 on September 13, 2025. Brisbane recorded production of IMG5H-44-4824 on September 13, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 2,000 units of IMG5H-44-4824 on September 14, 2025. Brisbane recorded production of IMG5H-44-4824 on September 14, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 1,200 units of IMG5H-44-4024 on September 14, 2025. Adelaide recorded production of IMG5H-44-4024 on September 14, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on September 20, 2025. Adelaide recorded production of IMG5H-44-4524 on September 20, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 1,200 units of IMG5H-44-4024 on September 17, 2025. Adelaide recorded production of IMG5H-44-4024 on September 17, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 1,200 units of IMG5H-44-4024 on September 18, 2025. Adelaide recorded production of IMG5H-44-4024 on September 18, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 1,200 units of IMG5H-44-4024 on September 19, 2025. Adelaide recorded production of IMG5H-44-4024 on September 19, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 1,200 units of IMG5H-44-4024 on September 20, 2025. Adelaide recorded production of IMG5H-44-4024 on September 20, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on September 20, 2025. Adelaide recorded production of IMG5H-44-4524 on September 20, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on September 21, 2025. Adelaide recorded production of IMG5H-44-4524 on September 21, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on September 22, 2025. Adelaide recorded production of IMG5H-44-4524 on September 22, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on September 23, 2025. Adelaide recorded production of IMG5H-44-4524 on September 23, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on September 24, 2025. Adelaide recorded production of IMG5H-44-4524 on September 24, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on September 25, 2025. Adelaide recorded production of IMG5H-44-4524 on September 25, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on September 26, 2025. Adelaide recorded production of IMG5H-44-4524 on September 26, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 0 units of IMG5H-44-4524 on September 27, 2025. Adelaide recorded production of IMG5H-44-4524 on September 27, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 0 units of IMG5H-44-4524 on September 28, 2025. Adelaide recorded production of IMG5H-44-4524 on September 28, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 0 units of IMG5H-44-4524 on September 29, 2025. Adelaide recorded production of IMG5H-44-4524 on September 29, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 0 units of unspecified product on September 30, 2025. Week 40.0, kg_sht: 43.1, sheets_per_hour: 71.74, spm: 55, c_wires: 46.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 0 units of unspecified product on October 1, 2025. Week 40.0, kg_sht: 43.1, sheets_per_hour: 71.74, spm: 55, c_wires: 46.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 0 units of unspecified product on October 2, 2025. Week 40.0, kg_sht: 43.1, sheets_per_hour: 71.74, spm: 55, c_wires: 46.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 0 units of unspecified product on October 3, 2025. Week 40.0, kg_sht: 43.1, sheets_per_hour: 71.74, spm: 55, c_wires: 46.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 0 units of unspecified product on October 4, 2025. Week 40.0, kg_sht: 43.1, sheets_per_hour: 71.74, spm: 55, c_wires: 46.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 0 units of unspecified product on October 5, 2025. Week 41.0, kg_sht: 43.1, sheets_per_hour: 71.74, spm: 55, c_wires: 46.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 0 units of unspecified product on October 6, 2025. Week 41.0, kg_sht: 43.1, sheets_per_hour: 71.74, spm: 55, c_wires: 46.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 0 units of unspecified product on October 7, 2025. Week 41.0, kg_sht: 43.1, sheets_per_hour: 71.74, spm: 55, c_wires: 46.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 0 units of unspecified product on October 8, 2025. Week 41.0, kg_sht: 43.1, sheets_per_hour: 71.74, spm: 55, c_wires: 46.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 0 units of unspecified product on October 9, 2025. Week 41.0, kg_sht: 43.1, sheets_per_hour: 71.74, spm: 55, c_wires: 46.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 0 units of unspecified product on October 10, 2025. Week 41.0, kg_sht: 43.1, sheets_per_hour: 71.74, spm: 55, c_wires: 46.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 0 units of unspecified product on October 11, 2025. Week 41.0, kg_sht: 43.1, sheets_per_hour: 71.74, spm: 55, c_wires: 46.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Adelaide placed order ROSS_ORDER_252133 on October 13, 2025. Order contains 3,300 units of IMG5H-44-4524, kg_sht: 43.1, sheets_per_hour: 71.74, spm: 55, c_wires: 46.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Adelaide placed order ROSS_ORDER_252133 on October 14, 2025. Order contains 3,300 units of IMG5H-44-4524, kg_sht: 43.1, sheets_per_hour: 71.74, spm: 55, c_wires: 46.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Adelaide placed order ROSS_ORDER_252133 on October 15, 2025. Order contains 3,300 units of IMG5H-44-4524, kg_sht: 43.1, sheets_per_hour: 71.74, spm: 55, c_wires: 46.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Adelaide placed order ROSS_ORDER_252133 on October 16, 2025. Order contains 3,300 units of IMG5H-44-4524, kg_sht: 43.1, sheets_per_hour: 71.74, spm: 55, c_wires: 46.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Brisbane placed order ROSS_ORDER_253429 on October 16, 2025. Order contains 4,400 units of IMG5H-44-4524, kg_sht: 43.1, sheets_per_hour: 71.74, spm: 55, c_wires: 46.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Brisbane placed order ROSS_ORDER_253429 on October 17, 2025. Order contains 4,400 units of IMG5H-44-4524, kg_sht: 43.1, sheets_per_hour: 71.74, spm: 55, c_wires: 46.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Brisbane placed order ROSS_ORDER_253429 on October 18, 2025. Order contains 4,400 units of IMG5H-44-4524, kg_sht: 43.1, sheets_per_hour: 71.74, spm: 55, c_wires: 46.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ROSS_ORDER 253429 produced IMG5H-44-4524 coded as CCP45241010056G on October 20, 2025. No production recorded.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ROSS_ORDER 253429 produced 4,400 units of IMG5H-44-4524 coded as CCP45241010056G on October 21, 2025. Achieved 350 units, kg/sht 43.1, planned totals 40.945, actual totals 38.79.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ROSS_ORDER 253429 produced 4,400 units of IMG5H-44-4524 coded as CCP45241010056G on October 22, 2025. Achieved 150 units, kg/sht 43.1, planned totals 40.945, actual totals 21.55.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ROSS_ORDER 253429 produced 4,400 units of IMG5H-44-4524 coded as CCP45241010056G on October 23, 2025. Achieved 250 units, kg/sht 43.1, planned totals 20.4725, actual totals 31.2475.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ROSS_ORDER 253429 produced 4,400 units of IMG5H-44-4524 coded as CCP45241010056G on October 24, 2025. Achieved 0 units, kg/sht 43.1, planned totals 7.1115, actual totals 5.8185.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ROSS_ORDER 253427 produced 3,300 units of IMG5H-44-4524 coded as CCP45241010056G on October 24, 2025. Same next day, kg/sht 43.1, planned totals 20.4725, actual totals 7.1115.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ROSS_ORDER 253427 produced 3,300 units of IMG5H-44-4524 coded as CCP45241010056G on October 25, 2025. Achieved 475 units, kg/sht 43.1, planned totals 40.945, actual totals 42.0225.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ROSS_ORDER 253427 produced 3,300 units of IMG5H-44-4524 coded as CCP45241010056G on October 26, 2025. No production recorded.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ROSS_ORDER 253427 produced 3,300 units of IMG5H-44-4524 coded as CCP45241010056G on October 27, 2025. Achieved 550 units, kg/sht 43.1, planned totals 47.41, actual totals 49.565.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ROSS_ORDER 253427 produced 3,300 units of IMG5H-44-4524 coded as CCP45241010056G on October 28, 2025. Achieved 500 units, kg/sht 43.1, planned totals 47.41, actual totals 34.48.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ROSS_ORDER 253427 produced 3,300 units of IMG5H-44-4524 coded as CCP45241010056G on October 29, 2025. Achieved 400 units, kg/sht 43.1, planned totals 26.9375, actual totals 21.55.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ROSS_ORDER 252133 produced 1,800 units of IMG5H-44-4024 coded as CCP40241010056G on October 30, 2025. Achieved 250 units, kg/sht 39.1, planned totals 39.1, actual totals 29.325.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ROSS_ORDER 251635 produced 1,800 units of IMG5H-44-4024 coded as CCP40241010056G on October 31, 2025. Achieved 0 units, kg/sht 39.1, planned totals 39.1, actual totals 9.775.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ROSS_ORDER 251635 produced 1,015 units of IMG5H-44-4024 coded as CCP40241010056G on November 3, 2025. Achieved 300 units, kg/sht 39.1, planned totals 0, actual totals 5.865.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ROSS_ORDER 251635 produced 1,015 units of IMG5H-44-4024 coded as CCP40241010056G on November 4, 2025. Achieved 0 units, kg/sht 39.1, planned totals 39.1, actual totals 28.3475.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ROSS_ORDER 251635 produced 1,015 units of IMG5H-44-4024 coded as CCP40241010056G on November 5, 2025. Achieved 140 units, kg/sht 39.1, planned totals 39.1, actual totals 0.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ROSS_ORDER 251635 produced 2,400 units of IMG5H-44-4024 coded as CCP40241010056G on November 5, 2025. Achieved 200 units, kg/sht 39.1, planned totals 0, actual totals 19.55.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 2,400 units of IMG5H-44-4024 on November 6, 2025. Achieved 250 units in the first shift and 325 units in the second shift.
+
+CLIFFORD MWPA produced 2,400 units of IMG5H-44-4024 on November 7, 2025. Achieved 325 units in the first shift and 250 units in the second shift.
+
+CLIFFORD MWPA produced 2,400 units of IMG5H-44-4024 on November 8, 2025. Achieved 250 units in the first shift and no units in the second shift.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 2,000 units of IMG5H-44-4824 on November 8, 2025. Achieved 425 units in the first shift and no units in the second shift.
+
+CLIFFORD MWPA produced 2,000 units of IMG5H-44-4824 on November 10, 2025. Achieved 425 units in the first shift and no units in the second shift.
+
+CLIFFORD MWPA produced 2,000 units of IMG5H-44-4824 on November 11, 2025. Achieved 350 units in the first shift and 450 units in the second shift.
+
+CLIFFORD MWPA produced 2,000 units of IMG5H-44-4824 on November 12, 2025. Achieved 400 units in the first shift and no units in the second shift.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on November 12, 2025. Achieved 450 units in the first shift and no units in the second shift.
+
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on November 13, 2025. Achieved 450 units in the first shift and no units in the second shift.
+
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on November 14, 2025. Achieved 0 units in the first shift and 250 units in the second shift.
+
+CLIFFORD MWPA produced 1,800 units of IMB4H-44-5024 on November 19, 2025. Achieved 0 units in the first shift and 40 units in the second shift.
+
+CLIFFORD MWPA produced 1,800 units of IMB4H-44-5024 on November 20, 2025. Achieved 200 units in the first shift and 400 units in the second shift.
+
+CLIFFORD MWPA produced 1,800 units of IMB4H-44-5024 on November 21, 2025. Achieved 424 units in the first shift and 400 units in the second shift.
+
+CLIFFORD MWPA produced 1,800 units of IMB4H-44-5024 on November 22, 2025. Achieved 269 units in the first shift and no units in the second shift.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 600 units of IMB4H-44-5024 on November 22, 2025. Achieved 131 units in the first shift and 400 units in the second shift.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 600 units of IMB4H-44-5024 on November 24, 2025. Recorded production of IMB4H-44-5024 on week 48.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 1,200 units of IMB4H-44-5024 on November 24, 2025. Recorded production of IMB4H-44-5024 on week 48. Achieved 216 units with 150 units produced in the day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 1,200 units of IMB4H-44-5024 on November 25, 2025. Recorded production of IMB4H-44-5024 on week 48. Achieved 0 units with 350 units remaining.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 1,200 units of IMB4H-44-5024 on November 26, 2025. Recorded production of IMB4H-44-5024 on week 48. Achieved 0 units with 350 units remaining.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 1,200 units of IMB4H-44-5024 on November 27, 2025. Recorded production of IMB4H-44-5024 on week 48. Achieved 0 units with 300 units remaining.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on November 28, 2025. Recorded production of IMG5H-44-4524 on week 48. Achieved 475 units with 40 units produced in the day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 475 units of IMG5H-44-4524 on November 29, 2025. Recorded production of IMG5H-44-4524 on week 48. Achieved 475 units with 250 units remaining.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3300 units of IMG5H-44-4524 on November 30, 2025. Recorded production of IMG5H-44-4524 on week 49. Achieved 270 units.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on December 1, 2025. Recorded production of IMG5H-44-4524 on week 49. Achieved 506 units with 475 units remaining.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on December 2, 2025. Recorded production of IMG5H-44-4524 on week 49. Achieved 301 units with 475 units remaining.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on December 3, 2025. Recorded production of IMG5H-44-4524 on week 49. Achieved 250 units with 0 units remaining.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ADelaide placed order PO-2025-002 on December 3, 2025. Order contains 1,200 units of IMG5H-44-4024 for delivery to APPIN MINE, NSW. Achieved 250 units with 450 units remaining.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ADelaide placed order PO-2025-002 on December 4, 2025. Order contains 1,200 units of IMG5H-44-4024 for delivery to APPIN MINE, NSW. Achieved 600 units with 100 units remaining.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Seattle Dec Shipment placed order PO-2025-003 on December 4, 2025. Order contains 3,300 units of IMG5H-44-4524 for delivery to APPIN MINE, NSW. Achieved 400 units with 450 units remaining.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 450 units of IMG5H-44-4524 on December 5, 2025. Recorded production of IMG5H-44-4524 on week 49. Achieved 200 units with 450 units remaining.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 450 units of IMG5H-44-4524 on December 6, 2025. Recorded production of IMG5H-44-4524 on week 49.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 250 units of IMG5H-44-4024 on December 3, 2025. Recorded production of IMG5H-44-4024 on week 49. Achieved 250 units with 0 units remaining.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 450 units of IMG5H-44-4524 on December 4, 2025. Recorded production of IMG5H-44-4524 on week 49. Achieved 200 units with 450 units remaining.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 450 units of IMG5H-44-4524 on December 5, 2025. Recorded production of IMG5H-44-4524 on week 49. Achieved 200 units with 450 units remaining.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 450 units of IMG5H-44-4524 on December 6, 2025. Recorded production of IMG5H-44-4524 on week 49. Achieved 200 units with 450 units remaining.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 450 units of IMG5H-44-4524 on December 7, 2025. Recorded production of IMG5H-44-4524 on week 50.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 450 units of IMG5H-44-4524 on December 8, 2025. Recorded production of IMG5H-44-4524 on week 50.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 450 units of IMG5H-44-4524 on December 9, 2025. Recorded production of IMG5H-44-4524 on week 50.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 0.0 kg of product on December 10, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 0.0 kg of product on December 11, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 0.0 kg of product on December 12, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 0.0 kg of product on December 13, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 0.0 kg of product on December 14, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ROSS ORDER 253436 produced 3,300 units of IMG5H-44-4524 on December 15, 2025. Achieved 400 units on the same day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ROSS ORDER 253436 produced 3,300 units of IMG5H-44-4524 on December 16, 2025. Achieved 250 units on the same day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ROSS ORDER 253436 produced 3,300 units of IMG5H-44-4524 on December 17, 2025. Achieved 350 units on the same day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ROSS ORDER 253436 produced 3,300 units of IMG5H-44-4524 on December 18, 2025. Achieved 600 units, with 400 units remaining after the shift.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 0.0 kg of product on December 19, 2025. Achieved 300 units on the same day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ROSS ORDER 254991 produced 5,500 units of IMG5H-44-4524 on December 19, 2025. Achieved 475 units on the same day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ROSS ORDER 254991 produced 5,500 units of IMG5H-44-4524 on December 20, 2025. Achieved 350 units on the same day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 0.0 kg of product on December 21, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ROSS ORDER 254991 produced 5,500 units of IMG5H-44-4524 on December 22, 2025. Achieved 300 units, with 475 units remaining after the shift.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ROSS ORDER 254991 produced 5,500 units of IMG5H-44-4524 on December 23, 2025. Achieved 250 units, with 475 units remaining after the shift.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ROSS ORDER 254991 produced 5,500 units of IMG5H-44-4524 on December 24, 2025. Achieved 425 units, with 475 units remaining after the shift.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ROSS ORDER 254991 produced 5,500 units of IMG5H-44-4524 on December 25, 2025. Achieved 500 units on the same day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ROSS ORDER 254991 produced 5,500 units of IMG5H-44-4524 on December 26, 2025. Achieved 350 units, with 475 units remaining after the shift.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 0.0 kg of product on December 27, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 0.0 kg of product on December 28, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 5,500 units of IMG5H-44-4524 on December 29, 2025. Achieved 425 units in the first shift and 350 units in the second shift.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 5,500 units of IMG5H-44-4524 on December 30, 2025. Achieved 350 units in the first shift and 25 units in the second shift.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 5,500 units of IMG5H-44-4524 on December 31, 2025. Achieved 325 units in the first shift and no units in the second shift.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ST2202 placed order 254634 - Broken Hill on January 1, 2026. CLIFFORD MWPA produced 600 units of IMB5-44-4524 on the same day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ST2202 placed order 254634 - Broken Hill on January 2, 2026. CLIFFORD MWPA produced 50 units of IMB5-44-4524 on the same day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ST2205 placed order 254898 - Broken Hill on January 2, 2026. CLIFFORD MWPA produced 1,200 units of IMB5-44-4524. Achieved 300 units in the first shift and 475 units in the second shift.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+No production on January 3, 2026.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+No production on January 4, 2026.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ST2205 placed order 254898 - Broken Hill on January 5, 2026. CLIFFORD MWPA produced 425 units of IMB5-44-4524 on the same day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ST2200 placed order 254061 - Broken Hill on January 5, 2026. CLIFFORD MWPA produced 600 units of IMB5-44-4024. Achieved 75 units in the first shift and 475 units in the second shift.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ST2200 placed order 254061 - Broken Hill on January 6, 2026. CLIFFORD MWPA produced 600 units of IMB5-44-4024. Achieved 75 units in the first shift and 50 units in the second shift.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ST2201 placed order 254633 - Broken Hill on January 6, 2026. CLIFFORD MWPA produced 600 units of IMB5-44-4024. Achieved 450 units in the first shift and 450 units in the second shift.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ST2201 placed order 254633 - Broken Hill on January 7, 2026. CLIFFORD MWPA produced 600 units of IMB5-44-4024. Achieved 150 units in the first shift and no units in the second shift.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ST2207 placed order 254844 - Olympic on January 7, 2026. CLIFFORD MWPA produced 3,600 units of IMB4H-44-5024. Achieved 75 units in the first shift and 350 units in the second shift.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ST2207 placed order 254844 - Olympic on January 8, 2026. CLIFFORD MWPA produced 3,600 units of IMB4H-44-5024. Achieved 350 units in the first shift and 350 units in the second shift.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ST2207 placed order 254844 - Olympic on January 9, 2026. CLIFFORD MWPA produced 3,600 units of IMB4H-44-5024. Achieved 275 units in the first shift and 400 units in the second shift.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+No production on January 10, 2026.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+No production on January 11, 2026.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ST2207 placed order 254966 - Olympic on January 12, 2026. CLIFFORD MWPA produced 3,600 units of IMB4H-44-5024. Achieved 75 units in the first shift and 400 units in the second shift.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ST2207 placed order 254966 - Olympic on January 13, 2026. CLIFFORD MWPA produced 3,600 units of IMB4H-44-5024. Achieved 225 units in the first shift and 350 units in the second shift.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,600 units of IMB4H-44-5024 on January 14, 2026. Achieved 100% of planned totals with 64.7 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,600 units of IMB4H-44-5024 on January 15, 2026. Achieved 325 units with 64.7 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,600 units of IMB4H-44-5024 on January 16, 2026. Achieved 375 units with 64.7 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,600 units of IMB4H-44-5024 on January 17, 2026. Achieved 375 units with 64.7 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 400 units of IMB4H-44-5024 on January 18, 2026. Achieved 250 units with 64.7 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 175 units of IMB4H-44-5024 on January 19, 2026. Achieved 150 units with 64.7 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ST2206 placed order 255006 - DSI on January 20, 2026. Order contains 2,400 units of IMG5H-44-4517 for delivery to Adelaide.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 2,400 units of IMG5H-44-4517 on January 21, 2026. Achieved 275 units with 71.7 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 2,400 units of IMG5H-44-4517 on January 22, 2026. Achieved 475 units with 71.7 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 2,400 units of IMG5H-44-4517 on January 23, 2026. Achieved 250 units with 71.7 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 2,400 units of IMG5H-44-4517 on January 24, 2026. Achieved 75 units with 71.7 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Adelaide placed order 254957 - Broken Hill on January 24, 2026. Order contains 3,300 units of IMG5H-44-4524 for delivery to Adelaide.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on January 26, 2026. Achieved 475 units with 71.7 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on January 27, 2026. Achieved 475 units with 71.7 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on January 28, 2026. Achieved 475 units with 71.7 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on January 29, 2026. Achieved 475 units with 71.7 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on January 30, 2026. Achieved 50 units with 71.7 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+ST2237 placed order 254958 - Cannington on January 31, 2026. Order contains 3,300 units of IMG5H-44-4524 for delivery to Brisbane.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on February 1, 2026. Achieved 475 units with 71.7 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on February 2, 2026. Recorded production of CCP45241010056G with 450 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on February 3, 2026. Recorded production of CCP45241010056G with 450 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 3,300 units of IMG5H-44-4524 on February 4, 2026. Recorded production of CCP45241010056G with 150 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 2,200 units of IMG5H-44-4524 on February 5, 2026. Recorded production of CCP45241010056G with 450 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 2,200 units of IMG5H-44-4524 on February 6, 2026. Recorded production of CCP45241010056G with 450 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA did not produce any units on February 7, 2026.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA did not produce any units on February 8, 2026.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+CLIFFORD MWPA produced 2,200 units of IMG5H-44-4524 on February 9, 2026. Recorded production of CCP45241010056G with 400 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Adelaide placed order 254967 - Olympic on February 10, 2026. Order contains 1,800 units of IMB4H-44-5024 with 50 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Adelaide placed order 254967 - Olympic on February 11, 2026. Order contains 1,800 units of IMB4H-44-5024 with 400 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Adelaide placed order 254967 - Olympic on February 12, 2026. Order contains 1,800 units of IMB4H-44-5024 with 150 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Adelaide placed order 254968 - Olympic on February 13, 2026. Order contains 1,800 units of IMB4H-44-5024 with 400 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Adelaide did not produce any units on February 14, 2026.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Adelaide did not produce any units on February 15, 2026.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Adelaide placed order 254968 - Olympic on February 16, 2026. Order contains 1,800 units of IMB4H-44-5024 with 200 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Brisbane placed order 254959 - Tommingley on February 17, 2026. Order contains 2,000 units of IMG5H-44-4824 with 450 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Brisbane placed order 254959 - Tommingley on February 18, 2026. Order contains 2,000 units of IMG5H-44-4824 with 450 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Brisbane placed order 254959 - Tommingley on February 19, 2026. Order contains 2,000 units of IMG5H-44-4824 with 200 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Adelaide placed order 253623 on February 20, 2026. Order contains 3,000 units of IMG5H-44-4024 with 500 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Adelaide did not produce any units on February 21, 2026.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Clifford MWPA produced 3000 units of IMG5H-44-4024 coded as CCP40241010056G on February 23, 2026. Production achieved 500 units in the day with 80.49 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Clifford MWPA produced 3000 units of IMG5H-44-4024 coded as CCP40241010056G on February 24, 2026. Production achieved 500 units in the day with 80.49 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Clifford MWPA produced 1800 units of IMG5H-44-4024 coded as CCP40241010056G on February 25, 2026. Production achieved 450 units in the day with 80.49 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Clifford MWPA produced 1800 units of IMG5H-44-4024 coded as CCP40241010056G on February 26, 2026. Production achieved 450 units in the day with 80.49 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Clifford MWPA produced 3000 units of IMG5H-44-4024 coded as CCP40241010056G on February 27, 2026. Production achieved 450 units in the day with 80.49 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Clifford MWPA produced 0 units on February 28, 2026.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Clifford MWPA produced 0 units on March 1, 2026.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Clifford MWPA produced 3000 units of IMG5H-44-4024 coded as CCP40241010056G on March 2, 2026. Production achieved 450 units in the day with 80.49 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Clifford MWPA produced 3000 units of IMG5H-44-4024 coded as CCP40241010056G on March 3, 2026. Production achieved 450 units in the day with 80.49 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Clifford MWPA produced 3000 units of IMG5H-44-4024 coded as CCP40241010056G on March 4, 2026. Production achieved 300 units in the day with 80.49 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Clifford MWPA produced 0 units on March 5, 2026.
+
+[Source: Daily Production Report v1.xlsm_Clifford MWPA.csv | Type: production_record]
+Schefflera plant produced 0 units on March 6, 2026.

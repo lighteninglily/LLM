@@ -1,0 +1,1490 @@
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 74 units of IMB45-66-5117-DEN on May 30, 2025. The production run achieved 74 units with 28.27 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 610 units of IMG5-44-5716 on May 30, 2025. The production run achieved 610 units with 35.57 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 510 units of IMG5-44-5716 on May 31, 2025. The production run achieved 510 units with 35.57 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 510 units of IMG5-44-5716 on June 1, 2025. The production run achieved 510 units with 35.57 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 510 units of IMG5-44-5716 on June 2, 2025. The production run achieved 510 units with 35.57 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 90 units of IMG5-44-5716 on June 3, 2025. The production run achieved 90 units with 35.57 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 900 units of IMG3H-44-2417-DQL on June 3, 2025. The production run achieved 900 units with 5.25 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 1300 units of IMG3H-44-2417-DQL on June 4, 2025. The production run achieved 1300 units with 5.25 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 450 units of IMG5-44-5716 on June 5, 2025. The production run achieved 450 units with 35.57 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 500 units of IMG3H-44-2417-DQL on June 5, 2025. The production run achieved 500 units with 5.25 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 650 units of IMG3H-44-2417-DQL on June 6, 2025. The production run achieved 650 units with 5.25 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 700 units of IMB3H-44-2420 on June 6, 2025. The production run achieved 700 units with 9.15 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 90 units of IMG5-44-5716 on June 6, 2025. The production run achieved 90 units with 35.57 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 88 units of IMB5-44-5014-JNA on June 9, 2025. The production run achieved 88 units with 25.25 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 440 units of IMB5-44-5014-JNA on June 10, 2025. The production run achieved 440 units with 25.25 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 630 units of IMG5-44-5716 on June 10, 2025. The production run achieved 630 units with 35.57 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 418 units of IMB5-44-5014-JNA on June 11, 2025. The production run achieved 418 units with 25.25 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 308 units of IMB5-44-5014-JNA on June 12, 2025. Job number CC5014101005 was processed with 25.25 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG28 produced 360 units of IMG5-44-5716 on June 12, 2025. Job number SMF5716101005G was processed with 35.57 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG28 produced 360 units of IMG5-44-5716 on June 13, 2025. Job number SMF5716101005G was processed with 35.57 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG28 produced 180 units of IMG5-44-5716 on June 13, 2025. Job number SMF5716101005G was processed with 35.57 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG28 produced 510 units of IMG5-44-5716 on June 14, 2025. Job number SMF5716101005G was processed with 35.57 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 510 units of IMB5-44-4814-JCR on June 15, 2025. Job number SMB48141015045 was processed with 24.76 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 570 units of IMB5-44-4814-JCR on June 16, 2025. Job number SMB48141015045 was processed with 24.76 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG28 produced 360 units of IMG5-44-5716 on June 16, 2025. Job number SMF5716101005G was processed with 35.57 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG28 produced 360 units of IMG5-44-5716 on June 17, 2025. Job number SMF5716101005G was processed with 35.57 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 1400 units of IMG5H-44-4524 on June 18, 2025. Job number CCP45241010056G was processed with 49.5 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG28 produced 506 units of IMB5-64-5113 on June 18, 2025. Job number SMB5113515105S was processed with 22.2 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG28 produced 704 units of IMB5-64-5113 on June 18, 2025. Job number SMB5113515105S was processed with 22.2 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG28 produced 396 units of IMB5-64-5113 on June 19, 2025. Job number SMB5113515105S was processed with 22.2 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG28 produced 350 units of IMB4H-44-5024 on June 19, 2025. Job number SMB4H50241010 was processed with 30.9 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG28 produced 450 units of IMB4H-44-5024 on June 20, 2025. Job number SMB4H50241010 was processed with 30.9 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG28 produced 450 units of IMB4H-44-5024 on June 21, 2025. Job number SMB4H50241010 was processed with 30.9 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG28 produced 150 units of IMB4H-44-5024 on June 22, 2025. Job number SMB4H50241010 was processed with 30.9 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG28 produced 220 units of IMB5-64-5113 on June 22, 2025. Job number SMB5113515105S was processed with 22.2 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG28 produced 550 units of IMB5-64-5113 on June 23, 2025. Job number SMB5113515105S was processed with 22.2 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG28 produced 286 units of IMB5-64-5113 on June 24, 2025. Job number SMB5113515105S was processed with 22.2 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 35.57 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on June 24, 2025. Ross order IMB5-44-5716 for DMW product IMG5-44-5716 achieved 90 units with 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 35.57 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on June 25, 2025. Ross order IMB5-44-5716 for DMW product IMG5-44-5716 achieved 450 units with 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 35.57 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on June 26, 2025. Ross order IMB5-44-5716 for DMW product IMG5-44-5716 achieved 300 units with 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 24.76 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on June 26, 2025. Ross order IMB5-44-4814-JCR for DMW product IMB45-44-4814-JCR achieved 30 units with 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 5.25 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on June 26, 2025. Ross order IMG3H-44-2417-DQL for DMW product IMG3H-44-2417-DQL achieved 1000 units with 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 5.25 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on June 27, 2025. Ross order IMG3H-44-2417-DQL for DMW product IMG3H-44-2417-DQL achieved 1000 units with 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 5.25 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on June 28, 2025. Ross order IMG3H-44-2417-DQL for DMW product IMG3H-44-2417-DQL achieved 1200 units with 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 5.25 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on June 29, 2025. Ross order IMG3H-44-2417-DQL for DMW product IMG3H-44-2417-DQL achieved 1200 units with 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 5.25 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on June 30, 2025. Ross order IMG3H-44-2417-DQL for DMW product IMG3H-44-2417-DQL achieved 1000 units with 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 35.57 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on June 30, 2025. Ross order IMB5-44-5716 for DMW product IMG5-44-5716 achieved 600 units with 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 35.57 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on July 1, 2025. Ross order IMB5-44-5716 for DMW product IMG5-44-5716 achieved 390 units with 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 5.25 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on July 2, 2025. Ross order IMG3H-44-2417-DQL for DMW product IMG3H-44-2417-DQL achieved 500 units with 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 49.5 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on July 2, 2025. Ross order IMG5H44-4524-packing for loading for DMW product IMG5H-44-4524 achieved 550 units with 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 49.5 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on July 3, 2025. Ross order IMG5H44-4524-packing for loading for DMW product IMG5H-44-4524 achieved 100 units with 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 22.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on July 3, 2025. Ross order IMG5H44-4524-packing for loading for DMW product IMG5H-44-4524 achieved 75 units with 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 5.25 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on July 3, 2025. Ross order IMG3H-44-2417-DQL for DMW product IMG3H-44-2417-DQL achieved 350 units with 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 5.25 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on July 4, 2025. Ross order IMG3H-44-2417-DQL for DMW product IMG3H-44-2417-DQL achieved 1050 units with 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 22.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on July 4, 2025. Ross order IMB5-44-5716 for DMW product IMG5-44-5716 achieved 30 units with 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 5.25 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on July 5, 2025. Ross order IMG3H-44-2417-DQL for DMW product IMG3H-44-2417-DQL achieved 50 units with 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 22.2 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on July 5, 2025. Ross order IMB5-64-5113 for DMW product IMB5-64-5113 JMOL (new) achieved 462 units with 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 506 units of IMB5-64-5113 JMOL (new) on July 6, 2025. Job number IMB5-64-5113 was processed with 22.2 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 462 units of IMB5-64-5113 JMOL (new) on July 7, 22025. Job number IMB5-64-5113 was processed with 22.2 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 506 units of IMB5-64-5113 JMOL (new) on July 8, 2025. Job number IMB5-64-5113 was processed with 22.2 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 700 units of IMG3H-44-2417-DQL on July 8, 2025. Job number IMG3H-44-2417-DQL was processed with 5.25 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 400 units of R500SL41 on July 9, 2025. Job number R500SL41 was processed with 30.0 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 700 units of IMG3H-44-2417-DQL on July 9, 2025. Job number IMG3H-44-2417-DQL was processed with 5.25 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 50 units of IMG3H-44-2417-DQL on July 10, 2025. Job number IMG3H-44-2417-DQL was processed with 5.25 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 100 units of R500SL41 on July 10, 2025. Job number R500SL41 was processed with 30.0 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 400 units of IMB544-4524 on July 10, 2025. Job number IMB544-4524 was processed with 30.55 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 528 units of IMB544-5014 JNA on July 10, 2025. Job number IMB544-5014 JNA was processed with 25.25 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 506 units of IMB544-5014 JNA on July 11, 2025. Job number IMB544-5014 JNA was processed with 25.25 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 100 units of R500SL41 on July 11, 2025. Job number R500SL41 was processed with 30.0 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 450 units of IMB544-4524 on July 11, 2025. Job number IMB544-4524 was processed with 30.55 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 506 units of IMB544-5014 JNA on July 12, 2025. Job number IMB544-5014 JNA was processed with 25.25 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 100 units of R500SL41 on July 12, 2025. Job number R500SL41 was processed with 30.0 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 506 units of IMB544-5014 JNA on July 12, 2025. Job number IMB544-5014 JNA was processed with 25.25 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 66 units of IMB546-5016-JNA on July 12, 2025. Job number IMB546-5016-JNA was processed with 24.54 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 506 units of IMB546-5016-JNA on July 13, 2025. Job number IMB546-5016-JNA was processed with 24.54 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 132 units of IMB5-64-5113 JMOL (new) on July 13, 2025. Job number IMB5-64-5113 was processed with 22.2 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 286 units of IMB5-64-5113 JMOL (new) on July 13, 2025. Job number IMB5-64-5113 was processed with 22.2 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 374 units of IMB546-5016-JNA on July 14, 2025. Job number IMB546-5016-JNA was processed with 24.54 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 220 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on July 15, 2025. The production run achieved 24.54 kg/sheet with 25 sheets processed per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 242 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on July 15, 2025. The production run achieved 25.25 kg/sheet with 25 sheets processed per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 660 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on July 15, 2025. The production run achieved 25.84 kg/sheet with 25 sheets processed per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 390 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on July 16, 2025. The production run achieved 25.84 kg/sheet with 25 sheets processed per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 660 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on July 17, 2025. The production run achieved 28.27 kg/sheet with 25 sheets processed per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 120 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on July 17, 2025. The production run achieved 28.27 kg/sheet with 25 sheets processed per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 30 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on July 17, 2025. The production run achieved 25.84 kg/sheet with 25 sheets processed per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 66 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on July 17, 2025. The production run achieved 25.25 kg/sheet with 25 sheets processed per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 600 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on July 17, 2025. The production run achieved 28.27 kg/sheet with 25 sheets processed per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 660 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on July 18, 2025. The production run achieved 28.27 kg/sheet with 25 sheets processed per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 22 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on July 18, 2025. The production run achieved 24.54 kg/sheet with 25 sheets processed per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 66 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on July 18, 2025. The production run achieved 25.25 kg/sheet with 25 sheets processed per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 88 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on July 18, 2025. The production run achieved 22.2 kg/sheet with 25 sheets processed per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 90 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on July 18, 2025. The production run achieved 14.39 kg/sheet with 25 sheets processed per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 30 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on July 19, 2025. The production run achieved 14.39 kg/sheet with 25 sheets processed per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+IMG3H-44-2516 produced 900 units of IMG3H-33-2516 on July 19, 2025. The production run achieved 6.6 kg/sheet with 25 sheets processed per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+IMG3H-44-2516 produced 1200 units of IMG3H-33-2516 on July 20, 2025. The production run achieved 6.6 kg/sheet with 25 sheets processed per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+IMG3H-44-2516 produced 450 units of IMG3H-33-2516 on July 21, 2025. The production run achieved 6.6 kg/sheet with 25 sheets processed per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+IMG3H-44-2516 produced 700 units of IMG3H-33-2516 on July 21, 2025. The production run achieved 6.6 kg/sheet with 25 sheets processed per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 2516 units of IMG3H-33-2516 on July 22, 2025. Job number IMG3H-44-2516 was processed with 6.6 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 4524 units of IMG5H-44-4524 on July 22, 2025. Job number IMG5H44-4524 was processed with 43.1 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 4814 units of IMB4-44-4814-CCC on July 22, 2025. Job number IMB4-44-4814CCC was processed with 14.39 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 2516 units of IMG3H-33-2516 on July 23, 2025. Job number IMG3H-44-2516 was processed with 6.6 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 5716 units of IMB5-44-5716 on July 23, 2025. Job number IMB544-5716 was processed with 35.57 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 4814 units of IMB45-46-4814-JCR on July 23, 2025. Job number IMB544-5414 JCR was processed with 24.76 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 5414 units of IMB5-44-5414 JCR on July 23, 2025. Job number IMB544-5414 JCR was processed with 27.85 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 5117 units of IMB45-66-5117-DEN on July 24, 2025. Job number IMB45-66-5117-DEN was processed with 28.27 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 5113 units of IMB5-64-5113 JMOL (new) on July 24, 2025. Job number IMLG5-64-5113 was processed with 22.2 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 5113 units of IMB5-64-5113 JMOL (new) on July 25, 2025. Job number IMLG5-64-5113 was processed with 22.2 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 5113 units of IMB5-64-5113 JMOL (new) on July 26, 2025. Job number IMLG5-64-5113 was processed with 22.2 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 5113 units of IMB5-64-5113 JMOL (new) on July 27, 2025. Job number IMLG5-64-5113 was processed with 22.2 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 2618 units of IMB3H44-2618-DAIR on July 27, 2025. Job number IMB3H44-2618 was processed with 5.98 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 2516 units of IMG3H-33-2516 on July 27, 2025. Job number IMG3H-44-2516 was processed with 6.6 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 2415 units of IMG34-44-2415 JASH on July 28, 2025. Job number IMG34-44-2415 was processed with 5.96 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 2618 units of IMB3H44-2618-DAIR on July 28, 2025. Job number IMB3H44-2618 was processed with 5.98 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 5716 units of IMB5-44-5716 on July 28, 2025. Job number IMB5-44-5716 was processed with 35.57 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 5716 units of IMB5-44-5716 on July 29, 2025. Job number IMB5-44-5716 was processed with 35.57 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 5716 units of IMB5-44-5716 on July 30, 2025. Job number IMB5-44-5716 was processed with 35.57 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 270 units of OSH106H-5803 on July 30, 2025. Job number JA001 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 270 units of IMB5-44-5716 on July 31, 2025. Job number JA002 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 630 units of IMB5-44-5716 on August 1, 2025. Job number JA003 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 510 units of IMB5-44-5716 on August 2, 2025. Job number JA004 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 420 units of IMB5-44-5716 on August 3, 2025. Job number JA005 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 130 units of OSH106H-5803 on August 3, 2025. Job number JA006 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+FLOK WELD LINE produced 506 units of IMB5-64-5113 JMOL (new) on August 3, 2025. Job number JA007 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+FLOK WELD LINE produced 44 units of IMB5-64-5113 JMOL (new) on August 4, 2025. Job number JA008 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROLL FORM LINE produced 275 units of R500SL41 on August 4, 2025. Job number JA009 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROLL FORM LINE produced 700 units of R500SL41 on August 5, 2025. Job number JA010 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROLL FORM LINE produced 120 units of R500SL41 on August 6, 2025. Job number JA011 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROLL FORM LINE produced 107 units of R500SL41 on August 6, 2025. Job number JA012 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROLL FORM LINE produced 40 units of OSH106H-5803 on August 6, 2025. Job number JA013 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROLL FORM LINE produced 60 units of IMB5-44-5414 JCR on August 7, 2025. Job number JA014 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROLL FORM LINE produced 300 units of IMG5H-44-4824 on August 8, 2025. Job number JA015 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+FLOK WELD LINE produced 198 units of IMB5-64-5113 JMOL (new) on August 8, 2025. Job number JA016 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+FLOK WELD LINE produced 506 units of IMB5-64-5113 JMOL (new) on August 8, 2025. Job number JA017 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROLL FORM LINE produced 630 units of IMB5-44-5716 on August 9, 2025. Job number JA018 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER IMB5-44-5716 produced DMW_PRODUCT IMG5-44-5716 on August 9, 2025. SCHLATTER PG12 processed 510 units with 35.57 kg/sheet on the day. Achieved 18.1407 act_totals with 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER IMLG5-64-5113 produced DMW_PRODUCT IMB5-64-5113 JMOL (new) on August 10, 2025. SCHLATTER PG12 processed 176 units with 22.2 kg/sheet on the day. Achieved 3.9072 act_totals with 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER IMB4H44-5024 produced DMW_PRODUCT IMB4H-44-5024 on August 10, 2025. SCHLATTER PG12 processed 325 units with 30.93 kg/sheet on the day. Achieved 20.87775 act_totals with 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER IMLG5-64-5113 produced DMW_PRODUCT IMB5-64-5113 JMOL (new) on August 13, 2025. SCHLATTER PG12 processed 154 units with 22.2 kg/sheet on the day. Achieved 3.4188 act_totals with 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER IMB544-4824 produced DMW_PRODUCT IMB5-44-4824 on August 14, 2025. SCHLATTER PG12 processed 425 units with 36.6 kg/sheet on the day. Achieved 33.855 act_totals with 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER IMB5-44-4824 produced DMW_PRODUCT IMB5-44-4824 on August 15, 2025. SCHLATTER PG12 processed 450 units with 7.94 kg/sheet on the day. Achieved 3.573 act_totals with 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER IMB4H44-5024 produced DMW_PRODUCT IMB4H-44-5024 on August 15, 2025. SCHLATTER PG12 processed 100 units with 30.93 kg/sheet on the day. Achieved 3.093 act_totals with 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER IMG4D-66-3012 produced DMW_PRODUCT IMG4D-66-3012 on August 15, 2025. SCHLATTER PG12 processed 550 units with 7.94 kg/sheet on the day. Achieved 4.367 act_totals with 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER IMB4H44-5024 produced DMW_PRODUCT IMB4H-44-5024 on August 16, 2025. SCHLATTER PG12 processed 21 units with 30.93 kg/sheet on the day. Achieved 0.6495299999999999 act_totals with 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER IMB5-44-4824 produced DMW_PRODUCT IMB5-44-4824 on August 17, 2025. No production totals recorded.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER IMB5-44-4824 produced DMW_PRODUCT IMB5-44-4824 on August 18, 2025. No production totals recorded.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER IMB5-44-4824 produced DMW_PRODUCT IMB5-44-4824 on August 19, 2025. No production totals recorded.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER IMB5-44-4824 produced DMW_PRODUCT IMB5-44-4824 on August 20, 2025. No production totals recorded.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER IMB5-44-4824 produced DMW_PRODUCT IMB5-44-4824 on August 21, 2025. No production totals recorded.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER IMB5-44-4824 produced DMW_PRODUCT IMB5-44-4824 on August 22, 2025. No production totals recorded.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER IMB5-44-4824 produced DMW_PRODUCT IMB5-44-4824 on August 23, 2025. No production totals recorded.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on August 24, 2025. Sheets processed were 0.0 at 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on August 25, 2025. Sheets processed were 0.0 at 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on August 26, 2025. Sheets processed were 0.0 at 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on August 27, 2025. Sheets processed were 0.0 at 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on August 28, 2025. Sheets processed were 0.0 at 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on August 29, 2025. Sheets processed were 0.0 at 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on August 30, 2025. Sheets processed were 0.0 at 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on August 31, 2025. Sheets processed were 0.0 at 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 1, 2025. Sheets processed were 0.0 at 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ST2084, ROSS_ORDER: 251543, DMW_PRODUCT: IMG4-44-2015-JNA, ROSS_CODE: CC2015101004G, produced 400 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 2, 2025. Achieved 1500 kg with 6.15 kg/sheet, processed 11.685 kg at 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 1000 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 3, 2025. Achieved 1600 kg with 6.15 kg/sheet, processed 15.99 kg at 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 1400 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 4, 2025. Achieved 2300 kg with 6.15 kg/sheet, processed 22.755 kg at 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 5, 2025. Sheets processed were 0.0 at 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 200 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 6, 2025. Achieved 1.23 kg with 6.15 kg/sheet, processed 1.23 kg at 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 7, 2025. Sheets processed were 0.0 at 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 8, 2025. Sheets processed were 0.0 at 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ST2099, ROSS_ORDER: 251956, DMW_PRODUCT: IMGX4H4-44-5614-JMA, ROSS_CODE: GXB5614101004G, produced 220 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 9, 2025. Achieved 480 kg with 22.73 kg/sheet, processed 15.911 kg at 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 320 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 10, 2025. Achieved 560 kg with 22.73 kg/sheet, processed 20.0024 kg at 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 280 kg of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 11, 2025. Achieved 280 kg with 22.73 kg/sheet, processed 6.3644 kg at 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+TRIM 100 pcs achieved on MESH TRIM LINE on September 11, 2025, for ROSS_ORDER: 251956, DMW_PRODUCT: IMG5-44-5716, ROSS_CODE: SMF5716101005G. Sheets processed were 1.23 kg at 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 240 units of IMG5H-44-4824 on September 12, 2025. Yield was 93.6%.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 300 units of IMG5H-44-4024 on September 13, 2025. Yield was 80.0%.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 270 units of IMG5-46-6011 on September 14, 2025. Yield was 76.8%.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 270 units of IMG5-46-6011 on September 15, 2025. No actual total recorded.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 360 units of IMG5-46-6011 on September 17, 2025. Yield was 51.2%.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+IMG5H-44-4824 produced 250 units on September 17, 2025. Ross order 252545, processed 25 sheets per hour. Yield was 55.0%.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+IMG5H-44-4024 produced 200 units on September 17, 2025. Ross order 251635, processed 25 sheets per hour. Yield was 31.2%.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+IMG5-46-6011 produced 400 units on September 18, 2025. Ross order 252249, processed 25 sheets per hour. Yield was 35.2%.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+IMGX4H4-44-5614-JMA produced 620 units on September 18, 2025. Ross order 251956, processed 25 sheets per hour. Yield was 63.6%.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+IMG5-46-6011 produced 320 units on September 19, 2025. Ross order 252249, processed 25 sheets per hour. Yield was 68.0%.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+IMG5-46-6011 produced 400 units on September 20, 2025. Ross order 252249, processed 25 sheets per hour. Yield was 35.2%.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+IMG55H-46-5017-JAS produced 200 units on September 21, 2025. Ross order 252886, processed 25 sheets per hour. Yield was 88.0%.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+IMG5H-44-4024 produced 225 units on September 22, 2025. Ross order 251635, processed 25 sheets per hour. Yield was 89.6%.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+IMB5-44-5716 produced 60 units on September 23, 2025. Ross order 251330, processed 25 sheets per hour. Yield was 21.3%.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+IMG5-44-5716 produced 270 units on September 23, 2025. Ross order 251956, processed 25 sheets per hour. Yield was 35.2%.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+IMGX4H4-44-5614-JMA produced 360 units on September 24, 2025. Ross order 251956, processed 25 sheets per hour. Yield was 64.8%.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+IMGX4H4-44-5614-JMA produced 120 units on September 24, 2025. Ross order 251956, processed 25 sheets per hour. Yield was 48.0%.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 120 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 24, 2025. Job number IMB5-44-5716 was processed with 92% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 380 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 25, 2025. Job number 251956 was processed with 91% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 240 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 25, 2025. Job number 252886 was processed with 85% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 120 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 26, 2025. Job number 251956 was processed with 90% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 280 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 27, 2025. Job number 252886 was processed with 92% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 120 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 27, 2025. Job number 251956 was processed with 90% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+No production scheduled on September 28, 2025.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 240 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 29, 2025. Job number 252886 was processed with 92% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 300 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on September 29, 2025. Job number 252134 was processed with 93% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 300 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 1, 2025. Job number 252886 was processed with 92% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 175 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 2, 2025. Job number 252886 was processed with 87% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 30 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 2, 2025. Job number IMB5-44-5716 was processed with 91% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 30 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 2, 2025. Job number IMB5-44-5716 was processed with 91% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 400 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 2, 2025. Job number 252134 was processed with 93% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 90 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 3, 2025. Job number 251956 was processed with 90% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 60 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 3, 2025. Job number 251956 was processed with 81% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+No production scheduled on October 4, 2025.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 700 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 4, 2025. Job number 252134 was processed with 93% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 700 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 5, 2025. Job number 252134 was processed with 93% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 800 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 6, 2025. Achieved 800 units with 6.15 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ST2116 produced 570 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 7, 2025. Achieved 570 units with 12.26 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ST2103 produced 100 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 8, 2025. Achieved 100 units with 14.98 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ST2132 produced 400 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 8, 2025. Achieved 400 units with 14.74 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 550 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 9, 2025. Achieved 550 units with 14.74 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ST2133 produced 1200 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 9, 2025. Achieved 1200 units with 3.15 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 400 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 10, 2025. Achieved 400 units with 3.15 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ST2085 produced 100 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 10, 2025. Achieved 100 units with 6.15 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ST2099 produced 100 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 10, 2025. Achieved 100 units with 22.73 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ST2115 produced 50 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 10, 2025. Achieved 50 units with 14.63 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ST2125 produced 510 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 10, 2025. Achieved 510 units with 15.78 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ST2133 produced 900 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 11, 2025. Achieved 900 units with 3.15 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 700 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 12, 2025. Achieved 700 units with 3.15 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ST2103 produced 75 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 12, 2025. Achieved 75 units with 14.98 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ST2133 produced 900 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 13, 2025. Achieved 900 units with 3.15 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 130 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 14, 2025. Achieved 130 units with 25.25 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ST2103 produced 25 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 14, 2025. Achieved 25 units with 14.98 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ST2115 produced 50 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on October 14, 2025. Achieved 50 units with 14.63 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 240 units of IMGX44H-44-5012-JOA on October 15, 2025. Job number 252349 was processed with 92.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 200 units of IMGX44H-44-5012-JOA on October 16, 2025. Job number 252349 was processed with 84% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 25 units of IMGX4H4-44-4811-JUL on October 16, 2025. Job number 252348 was processed with 1.498 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 300 units of IMGX44H-44-5012-JOA on October 17, 2025. Job number 252349 was processed with 10.8376 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SOUTH32 placed order 251543 on October 17, 2025. Order contains 66 units of IMB5-64-5113 JMOL (new) for delivery to SPRINGVALE MINE, NSW.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 20 units of IMGX44H-44-5012-JOA on October 18, 2025. Job number 252349 was processed with 0.2852 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 330 units of IMGX44H-44-5012-VGUW on October 18, 2025. Job number 252742 was processed with 10.8882 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 300 units of IMG34-44-2415 JASH on October 19, 2025. Job number 252542 was processed with 3.576 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 1200 units of IMG34-44-2415 JASH on October 20, 2025. Job number 252542 was processed with 7.152 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 500 units of IMG34-44-2415 JASH on October 21, 2025. Job number 252542 was processed with 2.98 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 360 units of IMGX44H-44-5012-VGUW on October 21, 2025. Job number 252742 was processed with 5.6808 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 300 units of IMG34-44-2415 JASH on October 22, 2025. Job number 252542 was processed with 4.47 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 400 units of IMGX44H-44-5012-JOA on October 22, 2025. Job number 252349 was processed with 5.704 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 300 units of IMG3H-44-1716 on October 23, 2025. Job number 253448 was processed with 1.059 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 510 units of IMGX44H-44-5012-VGUW on October 23, 2025. Job number 252742 was processed with 8.0478 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 620 units of IMGX44H-44-5012-JOA on October 24, 2025. Job number 252349 was processed with 8.8412 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SOUTH32 placed order 253497 on October 24, 2025. Order contains 80 units of JOS5803B for delivery to SPRINGVALE MINE, NSW.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 200 units of IMG3H-44-1716 on October 24, 2025. Job number 253448 was processed with 0.706 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 400 units of IMG34-44-2415 JASH on October 25, 2025. Yield was 400 kg/sheet with 25 sheets per hour processed.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 100 units of IMG34-44-2415 JASH on October 25, 2205. Yield was 100 kg/sheet with 25 sheets per hour processed.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 396 units of IMB5-44-5014-JNA on October 25, 2025. Yield was 396 kg/sheet with 25 sheets per hour processed.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 110 units of IMB5-46-5016-JNA on October 25, 2025. Yield was 110 kg/sheet with 25 sheets per hour processed.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 506 units of IMB5-46-5016-JNA on October 26, 2025. Yield was 506 kg/sheet with 25 sheets per hour processed.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 506 units of IMB5-46-5016-JNA on October 27, 2025. Yield was 506 kg/sheet with 25 sheets per hour processed.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 400 units of IMG3H-44-1716 on October 28, 2025. Yield was 400 kg/sheet with 25 sheets per hour processed.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 60 units of IMB5-44-5014-JNA on October 28, 2025. Yield was 60 kg/sheet with 25 sheets per hour processed.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 330 units of IMB5-46-5016-JNA on October 28, 2025. Yield was 330 kg/sheet with 25 sheets per hour processed.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 180 units of IMGX44H-44-5012-VGUW on October 28, 2025. Yield was 180 kg/sheet with 25 sheets per hour processed.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 30 units of IMGX44H-44-5012-JOA on October 28, 2025. Yield was 30 kg/sheet with 25 sheets per hour processed.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 17 units of IMB5-44-5014-JNA on October 29, 2025. Yield was 17 kg/sheet with 25 sheets per hour processed.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 200 units of IMG3H-44-1716 on October 29, 2025. Yield was 200 kg/sheet with 25 sheets per hour processed.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 1,225 units of IMG3H-33-2516 on October 29, 2025. Yield was 1,225 kg/sheet with 25 sheets per hour processed.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 300 units of IMG3H-44-1716 on October 30, 2025. Yield was 300 kg/sheet with 25 sheets per hour processed.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 36 units of IMG3H-44-1716 on October 30, 2025. Yield was 36 kg/sheet with 25 sheets per hour processed.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 600 units of IMB4H-44-5024 on October 30, 2025. Yield was 600 kg/sheet with 25 sheets per hour processed.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 400 units of IMG3H-44-2518 on October 31, 2025. Yield was 400 kg/sheet with 25 sheets per hour processed.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 800 units of IMG3H-44-2518 on November 1, 2025. Yield was 800 kg/sheet with 25 sheets per hour processed.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 1,150 units of IMG3H-44-2518 on November 2, 2025. Yield was 1,150 kg/sheet with 25 sheets per hour processed.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 660 units of imb45-66-5111 on November 3, 2025. The job was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 360 units of IMG3H-44-2518 on November 4, 2025. The job was processed with 90.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 50 units of IMG3H-44-2518 on November 4, 2025. The job was processed with 20.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 75 units of IMB4H-44-5024 on November 4, 2025. The job was processed with 30.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 90 units of IMGX44H-44-5012-VGUW on November 4, 2025. The job was processed with 40.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 90 units of IMGX44H-44-5012-VGUW on November 5, 2025. The job was processed with 40.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 75 units of IMB4H-44-5024 on November 5, 2025. The job was processed with 30.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 25 units of IMG3H-44-2516 on November 5, 2025. The job was processed with 10.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 100 units of IMG3H-44-1716 on November 5, 2025. The job was processed with 40.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 80 units of IMGX44H-44-5012-JOA on November 6, 2025. The job was processed with 28.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 540 units of IMGX44H-44-5012-VGUW on November 6, 2025. The job was processed with 80.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 600 units of IMGX44H-44-5012-VGUW on November 7, 2025. The job was processed with 80.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 660 units of imb45-66-5111 on November 7, 2025. The job was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 60 units of JOS4003B on November 7, 2025. The job was processed with 17.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 1000 units of IMB4-66-2118-JUL on November 8, 2025. The job was processed with 100.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 300 units of IMGX44H-44-5012-VGUW on November 9, 2025. The job was processed with 50.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 660 units of IMGX44H-44-5012-VGUW on November 10, 2025. The job was processed with 80.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 520 units of IMGX44H-44-5012-VGUW on November 11, 2025. The job was processed with 65.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 500 units of IMB4-44-2214 on November 11, 2025. The job was processed with 80.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 300 units on November 12, 2025. Ross order 252562 processed IMB4-44-4814-CCC with 6.43 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ST2164, Ross order 252562 produced 500 units on November 12, 2025. DMW product IMB4-44-4814-CCC coded with ROSS code SMF4814101004, processed 14.39 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 700 units on November 13, 2025.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 260 units on November 14, 2025.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ST2167, Ross order 253127 produced 1000 units on November 14, 2025. DMW product IMB4-44-2214 coded with ROSS code SMF2214101004, processed 6.43 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 200 units on November 15, 2025.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+JOS4003B, Ross order 100009 produced 120 units on November 15, 2025. DMW product JOS4003B coded with ROSS code JOS4003B-packing, processed 17.69 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ST2140, Ross order 252493 produced 900 units on November 15, 2025. DMW product IMG3H-44-2516 coded with ROSS code SMF2516101031G, achieved 1250 units, processed 5.14 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 800 units on November 16, 2025.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ST2162, Ross order 253866 produced 270 units on November 16, 2025. DMW product imb45-66-5111 coded with ROSS code SMB5112151504, processed 12.26 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 690 units on November 17, 2025.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ST2148, Ross order 252907 produced 25 units on November 17, 2025. DMW product IMG3H-33-2516 coded with ROSS code SMF2516757503G, processed 6.6 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ST2162, Ross order 253866 produced 720 units on November 18, 2025. DMW product imb45-66-5111 coded with ROSS code SMB5112151504, processed 12.26 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ST2161, Ross order 252741 produced 700 units on November 18, 2025. DMW product IMB4-66-2118-JUL coded with ROSS code SMF2118151504U3, processed 5.95 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ST2162, Ross order 253866 produced 630 units on November 19, 2025. DMW product imb45-66-5111 coded with ROSS code SMB5112151504, processed 12.26 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ST2109, Ross order 252249 produced 24 units on November 20, 2025. DMW product IMG5-46-6011 coded with ROSS code SYARD601110155G, processed 18.8 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ST2132, Ross order 252744 produced 24 units on November 20, 2025. DMW product IMG4-44-3024-JOA coded with ROSS code SMF302410104GOC, processed 14.74 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ST2167, Ross order 253127 produced 41 units on November 20, 2025. DMW product IMB4-44-2214 coded with ROSS code SMF2214101004, processed 6.43 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ST2140, Ross order 252493 produced 9 units on November 20, 2025. DMW product IMG3H-44-2516 coded with ROSS code SMF2516101031G, processed 5.14 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+IMG3H-44-2516, Ross order 252281 produced 11 units on November 20, 2025. DMW product IMG3H-33-2516 coded with ROSS code SMF2516757503G, processed 6.6 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 252134 produced IMG4-44-2015-JNA on November 20, 2025. SCHLATTER PG12 processed 25 sheets per hour with 9 kg/sheet. Achieved 9 units with 6.15 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 253866 produced imb45-66-5111 on November 21, 2025. SCHLATTER PG12 processed 25 sheets per hour with 12.26 kg/sheet. Achieved 660 units with 8.0916 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 250600 produced IMG5H-44-4524 on November 21, 2025. SCHLATTER PG12 processed 25 sheets per hour with 43.1 kg/sheet. Achieved 75 units with 3.2325 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 253866 produced imb45-66-5111 on November 22, 2025. SCHLATTER PG12 processed 25 sheets per hour with 12.26 kg/sheet. Achieved 450 units with 5.517 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 252810 produced IMB4H-44-5024 on November 22, 2025. SCHLATTER PG12 processed 25 sheets per hour with 30.93 kg/sheet. Achieved 100 units with 12.372 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 252810 produced IMB4H-44-5024 on November 23, 2025. SCHLATTER PG12 processed 25 sheets per hour with 30.93 kg/sheet. Achieved 550 units with 17.0115 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 252810 produced IMB4H-44-5024 on November 24, 2025. SCHLATTER PG12 processed 25 sheets per hour with 30.93 kg/sheet. Achieved 700 units with 21.651 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 252811 produced IMB4H-44-5024 on November 25, 2025. SCHLATTER PG12 processed 25 sheets per hour with 30.93 kg/sheet. Achieved 700 units with 21.651 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 250600 produced IMG5H-44-4524 on November 26, 2025. SCHLATTER PG12 processed 25 sheets per hour with 43.1 kg/sheet. Achieved 45 units with 1.9395 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 252742 produced IMGX44H-44-5012-VGUW on November 26, 2025. SCHLATTER PG12 processed 25 sheets per hour with 15.78 kg/sheet. Achieved 150 units with 2.367 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 252544 produced IMB3H-44-2618-DAIR on November 27, 2025. SCHLATTER PG12 processed 25 sheets per hour with 5.98 kg/sheet. Achieved 290 units with 1.7342 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 252544 produced IMB3H-44-2618-DAIR on November 28, 2025. SCHLATTER PG12 processed 25 sheets per hour with 5.98 kg/sheet. Achieved 152 units with 0.90896 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 252636 produced IMB3H-44-2420-DCLA on November 30, 2025. SCHLATTER PG12 processed 25 sheets per hour with 6.15 kg/sheet. Achieved 650 units with 3.9975 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 252636 produced IMB3H-44-2420-DCLA on December 1, 2025. SCHLATTER PG12 processed 25 sheets per hour with 6.15 kg/sheet. Achieved 650 units with 8.61 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 252544 produced IMB3H-44-2618-DAIR on December 1, 2025. SCHLATTER PG12 processed 25 sheets per hour with 5.98 kg/sheet. Achieved 50 units with 0.299 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 252636 produced IMB3H-44-2420-DCLA on December 1, 2025. SCHLATTER PG12 processed 25 sheets per hour with 6.15 kg/sheet. Achieved 1058 units with 6.32684 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 252636 produced IMB3H-44-2420-DCLA on December 1, 2025. SCHLATTER PG12 processed 25 sheets per hour with 6.15 kg/sheet. Achieved 450 units with 2.691 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 252636 produced IMB3H-44-2420-DCLA on December 1, 2025. SCHLATTER PG12 processed 25 sheets per hour with 6.15 kg/sheet. Achieved 650 units with 3.9975 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 252636 produced IMB3H-44-2420-DCLA on December 1, 2025. SCHLATTER PG12 processed 25 sheets per hour with 6.15 kg/sheet. Achieved 650 units with 8.61 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 252636 produced IMB3H-44-2420-DCLA on December 1, 2025. SCHLATTER PG12 processed 25 sheets per hour with 6.15 kg/sheet. Achieved 650 units with 8.61 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 252636 produced IMB3H-44-2420-DCLA on December 1, 2025. SCHLATTER PG12 processed 25 sheets per hour with 6.15 kg/sheet. Achieved 650 units with 8.61 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 252636 produced IMB3H-44-2420-DCLA on December 1, 2025. SCHLATTER PG12 processed 25 sheets per hour with 6.15 kg/sheet. Achieved 650 units with 8.61 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 119 units of IMB5-46-5016-JNA on December 1, 2025. Job number IMB546-5016-JNA was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 616 units of IMB5-64-5113 JMOL (new) on December 2, 2025. Job number 252543 was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 2400 units of IMB3H-44-2618-DAIR on December 3, 2025. Job number 252544 was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 180 units of IMGX4H4-44-5614-JMA on December 3, 2025. Job number 253128 was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 352 units of IMB5-64-5113 JMOL (new) on December 3, 2025. Job number 252543 was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 682 units of IMB5-64-5113 JMOL (new) on December 4, 2025. Job number 252543 was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 180 units of IMGX4H4-44-5614-JMA on December 4, 2025. Job number 253128 was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 50 units of IMB3H-44-2420-DCLA on December 4, 2025. Job number 252636 was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 1000 units of IMG4-44-2015 on December 5, 2025. Job number 252546 was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 60 units of IMGX4H4-44-5614-JMA on December 5, 2025. Job number 253128 was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 700 units of IMG4-44-2015 on December 6, 2025. Job number 252546 was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 35 units of IMGX4H4-44-5614-JMA on December 6, 2025. Job number 253128 was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 44 units of IMB5-64-5113 JMOL (new) on December 6, 2025. Job number 252543 was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 50 units of IMGX45-44-4812 on December 6, 2025. Job number 253296 was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 34 units of IMB3H-44-2420-DCLA on December 7, 2025. Job number 252636 was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 1200 units of IMG4-44-2015 on December 7, 2025. Job number 252546 was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 1100 units of IMG4-44-2015 on December 8, 2025. Job number 252546 was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 92 units of IMG5H-44-4024 on December 8, 2025. Job number 253428 was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 640 units of IMGX44H-44-5012-JOA on December 9, 2025. Job number 253626 was processed with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 300 units on December 10, 2025. Ross order 253633 achieved 640 units with 14.26 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 500 units on December 10, 2025. Ross order 253633 achieved 640 units with 3.15 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 1,500 units on December 11, 2025. Ross order 253633 achieved 1,500 units with 3.15 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 500 units on December 11, 2025. Ross order 253626 achieved 500 units with 14.26 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 530 units on December 12, 2025. Ross order 253633 achieved 530 units with 14.26 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 616 units on December 12, 2025. Ross order 252543 achieved 616 units with 22.2 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 484 units on December 13, 2025. Ross order 253633 achieved 484 units with 22.2 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 63 units on December 13, 2025. Ross order 253633 achieved 63 units with 3.15 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 510 units on December 13, 2025. Ross order 253867 achieved 510 units with 12.26 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 600 units on December 14, 2025. Ross order 253633 achieved 300 units with 12.26 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 750 units on December 15, 2025. Ross order 253633 achieved 510 units with 12.26 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 480 units on December 16, 2025. Ross order 253633 achieved 480 units with 12.26 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 540 units on December 16, 2025. Ross order 253128 achieved 540 units with 24.22 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 360 units on December 17, 2025. Ross order 253633 achieved 360 units with 24.22 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 400 units on December 17, 2025. Ross order 253867 achieved 400 units with 6.15 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 950 units on December 18, 2025. Ross order 253633 achieved 950 units with 6.15 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 40 units on December 18, 2025. Ross order 253128 achieved 40 units with 24.22 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 120 units on December 18, 2025. Ross order 253867 achieved 120 units with 12.26 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 44 units on December 18, 2025. Ross order 252543 achieved 44 units with 22.2 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 308 units on December 19, 2025. Ross order 253633 achieved 308 units with 24.22 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 440 units of IMGX45-44-5614 JMA on December 19, 2025. Job number ST2159 was processed with 97.74% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 506 units of IMB5-64-5113 JMOL (new) on December 20, 2025. Job number ST2186 was processed with 97.44% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 400 units of IMG4-44-2015 on December 20, 2025. Job number ST2183 was processed with 6.36% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 1200 units of IMG4-44-2015 on December 21, 2025. Job number ST2183 was processed with 7.38% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 1000 units of IMG4-44-2015 on December 22, 2025. Job number ST2183 was processed with 10.455% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 88 units of IMGX44H-44-5012-JOA on December 22, 2025. Job number ST2168 was processed with 1.25488% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 83 units of IMB5-64-5113 JMOL (new) on December 22, 2025. Job number ST2186 was processed with 1.8426% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 308 units of IMG4-44-2015 on December 23, 2025. Job number ST2183 was processed with 6.8376% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 33 units of IMGX45-44-5614 JMA on December 23, 2025. Job number ST2159 was processed with 0.20295% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 29 units of IMGX45-44-5614 JMA on December 23, 2025. Job number ST2159 was processed with 0.70238% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 37 units of IMGX44H-44-5012-JOA on December 23, 2025. Job number ST2168 was processed with 0.52762% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 374 units of IMB5-44-5014-JNA on December 23, 2025. Job number ST2190 was processed with 9.4435% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 616 units of IMB5-44-5014-JNA on December 24, 2025. Job number ST2190 was processed with 15.554% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 660 units of IMB45-66-5117-DEN on December 26, 2025. Job number ST2189 was processed with 22.8987% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 264 units of IMB5-44-5014-JNA on December 27, 2025. Job number ST2190 was processed with 13.332% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 240 units of IMB45-66-5117-DEN on December 28, 2025. Job number ST2189 was processed with 6.7848% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 440 units of IMB5-44-5014-JNA on December 28, 2025. Job number ST2190 was processed with 11.11% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER MESH TRIM LINE produced 220 units of IMB5-44-5014-JNA on December 29, 2025. Job number ST2190 was processed with 5.555% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 200 units of IMB4-44-4814-CCC on December 29, 2025. The production run achieved 200 units with 14.39 kg per sheet and 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 242 units of IMB5-64-5113 JMOL (new) on December 29, 2025. The production run achieved 242 units with 22.2 kg per sheet and 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 484 units of IMB5-64-5113 JMOL (new) on December 30, 2025. The production run achieved 484 units with 22.2 kg per sheet and 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 66 units of IMB5-44-5014-JNA on December 30, 2025. The production run achieved 66 units with 25.25 kg per sheet and 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 160 units of IMB4-44-4814-CCC on December 30, 2025. The production run achieved 160 units with 14.39 kg per sheet and 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 460 units of IMB4-44-4814-CCC on December 31, 2025. The production run achieved 460 units with 14.39 kg per sheet and 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 22 units of IMB5-44-5014-JNA on December 31, 2025. The production run achieved 22 units with 25.25 kg per sheet and 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 175 units of IMGX4H4-44-4811-JUL on December 31, 2025. The production run achieved 175 units with 14.98 kg per sheet and 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 1500 units of IMB4-44-2214 on January 1, 2026. The production run achieved 1500 units with 6.43 kg per sheet and 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 850 units of IMB4-44-2214 on January 2, 2026. The production run achieved 850 units with 6.43 kg per sheet and 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 30 units of IMB45-66-5117-DEN on January 2, 2026. The production run achieved 30 units with 28.27 kg per sheet and 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 500 units of IMGX4H4-44-4811-JUL on January 3, 2026. The production run achieved 500 units with 14.98 kg per sheet and 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 225 units of IMGX4H4-44-4811-JUL on January 5, 2026. The production run achieved 225 units with 14.98 kg per sheet and 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 300 units of IMB5-44-5716 on January 6, 2026. The production run achieved 300 units with 35.57 kg per sheet and 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 390 units of IMB5-44-5716 on January 7, 2026. The production run achieved 390 units with 35.57 kg per sheet and 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 110 units of IMB5-64-5113 JMOL (new) on January 7, 2026. The production run achieved 110 units with 22.2 kg per sheet and 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 38 units of IMG5H-44-4524 on January 8, 2026. The production run achieved 38 units with 28.9 kg per sheet and 25 sheets per hour.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 690 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on January 8, 2026. Job number ST2204 was processed for ENSHAM with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 570 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on January 9, 2026. Job number ST2204 was processed for ENSHAM with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 25 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on January 9, 2026. Job number ST2169 was processed for GLENCORE with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 30 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on January 9, 2026. Job number ST2208 was processed for DSI with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 510 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on January 10, 2026. Job number ST2204 was processed for ENSHAM with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 510 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on January 11, 2026. Job number ST2204 was processed for ENSHAM with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 120 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on January 12, 2026. Job number ST2204 was processed for ENSHAM with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 22 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on January 12, 2026. Job number ST2186 was processed for GLENCORE with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 440 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on January 12, 2026. Job number ST2209 was processed for DSI with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 550 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on January 13, 2026. Job number ST2204 was processed for ENSHAM with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 464 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on January 14, 2026. Job number ST2204 was processed for ENSHAM with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 19 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on January 14, 2026. Job number ST2198 was processed for CORNWALL with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 18 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on January 14, 2026. Job number ST2190 was processed for DSI with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 1200 units of IMG3H-33-2516 - Industrial Mesh Panel on January 15, 2026. Job number ST2186 was processed for GLENCORE with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 1200 units of IMG3H-33-2516 - Industrial Mesh Panel on January 16, 2026. Job number ST2186 was processed for GLENCORE with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 352 units of IMG3H-33-2516 - Industrial Mesh Panel on January 16, 2026. Job number ST2186 was processed for GLENCORE with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 200 units of IMGX44H-44-5012-JOA - Industrial Mesh Panel on January 16, 2026. Job number ST2210 was processed for OAKEY with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 520 units of IMGX44H-44-5012-JOA - Industrial Mesh Panel on January 17, 2026. Job number ST2210 was processed for OAKEY with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 470 units of IMGX44H-44-5012-JOA - Industrial Mesh Panel on January 18, 2026. Job number ST2210 was processed for OAKEY with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 254993 produced IMG3H-33-2516 on January 18, 2026. Processed 25 sheets per hour with 6.6 kg per sheet. Achieved 400 units with 8.25 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 254993 produced IMG3H-33-2516 on January 21, 2026. Processed 25 sheets per hour with 6.6 kg per sheet. Achieved 650 units with 8.25 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 254979 - OAKEY produced IMGX44H-44-5012-JOA on January 19, 2026. Processed 25 sheets per hour with 14.26 kg per sheet. Achieved 200 units with 2.852 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 254979 - OAKEY produced IMGX44H-44-5012-JOA on January 20, 2026. Processed 25 sheets per hour with 14.26 kg per sheet. Achieved 240 units with 7.7004 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 254979 - OAKEY produced IMGX44H-44-5012-JOA on January 21, 2026. Processed 25 sheets per hour with 14.26 kg per sheet. Achieved 180 units with 2.5668 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 254993 produced IMG3H-33-2516 on January 21, 2026. Processed 25 sheets per hour with 6.6 kg per sheet. Achieved 650 units with 8.25 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 254979 - OAKEY produced IMGX44H-44-5012-JOA on January 22, 2026. Processed 25 sheets per hour with 14.26 kg per sheet. Achieved 650 units with 9.269 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 252543 produced IMB5-64-5113 JMOL (new) on January 22, 2026. Processed 25 sheets per hour with 22.2 kg per sheet. Achieved 154 units with 3.4188 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 255302 - Ensham produced IMB45-66-5117-DEN on January 22, 2026. Processed 25 sheets per hour with 19.31 kg per sheet. Achieved 390 units with 7.5309 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 254979 - OAKEY produced IMGX44H-44-5012-JOA on January 23, 2026. Processed 25 sheets per hour with 14.26 kg per sheet. Achieved 600 units with 8.556 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 254979 - OAKEY produced IMGX44H-44-5012-JOA on January 24, 2026. Processed 25 sheets per hour with 14.26 kg per sheet. Achieved 600 units with 8.556 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 254987 - ENSHAM produced IMB45-421-5002-DEN on January 24, 2026. Processed 25 sheets per hour with 7.02 kg per sheet. Achieved 120 units with 0.8424 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 254979 - OAKEY produced IMGX44H-44-5012-JOA on January 25, 2026. Processed 25 sheets per hour with 14.26 kg per sheet. Achieved 600 units with 8.556 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 254979 - OAKEY produced IMGX44H-44-5012-JOA on January 26, 2026. Processed 25 sheets per hour with 14.26 kg per sheet. Achieved 600 units with 8.556 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 254979 - OAKEY produced IMGX44H-44-5012-JOA on January 27, 2026. Processed 25 sheets per hour with 14.26 kg per sheet. Achieved 600 units with 8.556 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 254979 - OAKEY produced IMGX44H-44-5012-JOA on January 28, 2026. Processed 25 sheets per hour with 14.26 kg per sheet. Achieved 600 units with 8.556 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 254979 - OAKEY produced IMGX44H-44-5012-JOA on January 29, 2026. Processed 25 sheets per hour with 14.26 kg per sheet. Achieved 600 units with 8.556 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 254979 - OAKEY produced IMGX44H-44-5012-JOA on January 30, 2026. Processed 25 sheets per hour with 14.26 kg per sheet. Achieved 600 units with 8.556 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+ROSS_ORDER 254979 - OAKEY produced IMGX44H-44-5012-JOA on January 31, 2026. Processed 25 sheets per hour with 14.26 kg per sheet. Achieved 600 units with 8.556 kg per sheet.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on February 1, 2026. Sheets processed per hour were 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on February 2, 2026. Sheets processed per hour were 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on February 3, 2026. Sheets processed per hour were 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on February 4, 2026. Sheets processed per hour were 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on February 5, 2026. Sheets processed per hour were 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on February 6, 2026. Sheets processed per hour were 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on February 7, 2026. Sheets processed per hour were 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on February 8, 2026. Sheets processed per hour were 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on February 9, 2026. Sheets processed per hour were 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on February 10, 2026. Sheets processed per hour were 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on February 11, 2026. Sheets processed per hour were 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on February 12, 2026. Sheets processed per hour were 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on February 13, 2026. Sheets processed per hour were 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on February 14, 2026. Sheets processed per hour were 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on February 15, 2026. Sheets processed per hour were 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on February 16, 2026. Sheets processed per hour were 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on February 17, 2026. Sheets processed per hour were 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on February 18, 2026. Sheets processed per hour were 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on February 19, 2026. Sheets processed per hour were 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on February 20, 2026. Sheets processed per hour were 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on February 21, 2026. Sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on February 22, 2026. Sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on February 23, 2026. Sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on February 24, 2026. Sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on February 25, 2026. Sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on February 26, 2026. Sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on February 27, 2026. Sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on February 28, 2026. Sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on March 1, 2026. Sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on March 2, 2026. Sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on March 3, 2026. Sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on March 4, 2026. Sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on March 5, 2026. Sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on March 6, 2026. Sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on March 7, 2026. Sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on March 8, 2026. Sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on March 9, 2026. Sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on March 10, 2026. Sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on March 11, 2026. Sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on March 12, 2026. Sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on March 13, 2026. Week 11, sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on March 14, 2026. Week 11, sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on March 15, 2026. Week 12, sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on March 16, 2026. Week 12, sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on March 17, 2026. Week 12, sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on March 18, 2026. Week 12, sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on March 19, 2026. Week 12, sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on March 20, 2026. Week 12, sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on March 21, 2026. Week 12, sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on March 22, 2026. Week 13, sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on March 23, 2026. Week 13, sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on March 24, 2026. Week 13, sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on March 25, 2026. Week 13, sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on March 26, 2026. Week 13, sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on March 27, 2026. Week 13, sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on March 28, 2026. Week 13, sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on March 29, 2026. Week 14, sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on March 30, 2026. Week 14, sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on March 31, 2026. Week 14, sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units on April 1, 2026. Week 14, sheets processed per hour: 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on April 2, 2026. Week 14 planned totals were 0.0 units, with actual totals also at 0.0 units. Sheets processed per hour were 25.
+
+[Source: Daily Production Report v1.xlsm_Mesh Trim.csv | Type: production_record]
+MESH TRIM LINE produced 0.0 units of MESH-50x50x2400x1200x4mm - Industrial Mesh Panel on April 2, 2026. Week 14 planned totals were 0.0 units, with actual totals also at 0.0 units. Sheets processed per hour were 25.

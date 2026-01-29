@@ -1,0 +1,11 @@
+2026-01-27 08:25:17,842 [INFO] Analyzing data in: /home/ryan/Documents/VSMS/ragflow_automation/sample_data
+2026-01-27 08:25:17,842 [INFO] Sampling: counties.csv
+2026-01-27 08:25:17,845 [INFO]   Schema: 5 columns, 1 likely FKs
+2026-01-27 08:25:17,845 [INFO] Sampling: stations.csv
+2026-01-27 08:25:17,846 [INFO]   Schema: 10 columns, 2 likely FKs
+2026-01-27 08:25:17,846 [INFO] Found 2 files
+2026-01-27 08:25:17,846 [INFO] Calling LLM: Qwen/Qwen2.5-7B-Instruct-AWQ at http://localhost:8000/v1
+2026-01-27 08:25:17,846 [DEBUG] Prompt length: 4200 chars
+2026-01-27 08:25:20,053 [INFO] LLM response received: 1044 chars
+2026-01-27 08:25:20,053 [INFO] Parsed analysis: 4 entity types, 2 files
+2026-01-27 08:25:20,053 [INFO] Analysis saved to: /home/ryan/Documents/VSMS/ragflow_automation/config/analysis_output.json

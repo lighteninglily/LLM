@@ -1,0 +1,77 @@
+Analyze these data files for Knowledge Graph extraction and RAG ingestion.
+
+DOMAIN CONTEXT: This is manufacturing/mining supply chain data including:
+- Sales orders, purchase orders, customer records
+- Production reports from machines (Schlatter, Roll Form, Mesh, Drawing, Galvanizing)
+- Shipping schedules, inventory, forecasts
+- Products: rebar, mesh, bolts, cables, mining consumables
+
+I need to understand:
+1. What entity types exist in this data (see suggested types below)
+2. Which files need transformation from tabular/relational format to narrative text
+3. Which files are lookup/reference tables that map IDs to names
+4. Key relationships between entities
+
+SUGGESTED ENTITY TYPES FOR THIS DOMAIN:
+- customer: Mining companies, distributors, end users (e.g., SOUTH32, BHP, GLENCORE)
+- product: Manufactured items with codes (e.g., R500L5.60Blk, J-LOK, mesh products)
+- order: Sales orders, purchase orders with job numbers
+- machine: Production equipment (Schlatter PG12, Roll Form, Mesh Trim)
+- warehouse: Storage locations
+- mine_site: Customer delivery locations (Appin Mine, Dendrobium)
+- shipment: Shipping records with dates and quantities
+- production_run: Daily production records with quantities
+
+FILES PROVIDED:
+{file_samples}
+
+Return your analysis as JSON in this exact format:
+```json
+{
+  "entity_types": ["person", "organization", "location", "event"],
+  "relationships": [
+    {"from": "person", "to": "organization", "type": "works_at"},
+    {"from": "incident", "to": "location", "type": "occurred_at"}
+  ],
+  "files": [
+    {
+      "name": "filename.csv",
+      "transform": true,
+      "type": "relational",
+      "priority": "high",
+      "estimated_records": 1000,
+      "key_columns": ["id", "name", "organization_id"],
+      "description": "Contains person records with foreign key references"
+    },
+    {
+      "name": "readme.txt", 
+      "transform": false,
+      "type": "narrative",
+      "priority": "low",
+      "description": "Already human-readable documentation"
+    }
+  ],
+  "lookup_tables": [
+    {
+      "file": "countries.csv",
+      "key_column": "country_id",
+      "value_column": "country_name",
+      "description": "Maps country IDs to country names"
+    }
+  ],
+  "recommended_chunk_strategy": "row_based",
+  "domain_notes": "Brief description of the domain and any special terminology"
+}
+```
+
+Rules:
+- Set transform=true if data is tabular with IDs, codes, or foreign keys that need resolution
+- Set transform=false if already human-readable narrative text
+- Identify 3-10 entity types that are most important for knowledge extraction
+- Identify key relationships between entity types
+- Lookup tables are small reference files that map IDs/codes to human-readable names
+- Set priority: "high" for main data files, "medium" for supporting data, "low" for documentation
+- Be specific about what each file contains and key columns
+- recommended_chunk_strategy: "row_based" for tabular data, "semantic" for text documents
+
+Return ONLY the JSON, no additional explanation.

@@ -1,0 +1,1107 @@
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 6,500 units of IMG3H-44-2417-DQL coded as SMF3H24171010G on May 31, 2025. Production record for ROSS_ORDER 250356 shows 300 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 6,500 units of IMG3H-44-2417-DQL coded as SMF3H24171010G on June 1, 2025. Production record for ROSS_ORDER 250356 shows 750 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 6,500 units of IMG3H-44-2417-DQL coded as SMF3H24171010G on June 2, 2025. Production record for ROSS_ORDER 250356 shows 750 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 6,500 units of IMG3H-44-2417-DQL coded as SMF3H24171010G on June 3, 2025. Production record for ROSS_ORDER 250356 shows 900 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 6,500 units of IMG3H-44-2417-DQL coded as SMF3H24171010G on June 4, 2025. Production record for ROSS_ORDER 250356 shows 820 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 6,500 units of IMG3H-44-2417-DQL coded as SMF3H24171010G on June 5, 2025. Production record for ROSS_ORDER 250356 shows 900 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 6,500 units of IMG3H-44-2417-DQL coded as SMF3H24171010G on June 6, 2025. Production record for ROSS_ORDER 250356 shows 630 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,848 units of IMB5-44-5014-JNA coded as CC5014101005 on June 7, 2025. Production record for ROSS_ORDER 251084 shows 70 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,848 units of IMB5-44-5014-JNA coded as CC5014101005 on June 8, 2025. Production record for ROSS_ORDER 251084 shows 340 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,848 units of IMB5-44-5014-JNA coded as CC5014101005 on June 9, 2025. Production record for ROSS_ORDER 251084 shows 190 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,848 units of IMB5-44-5014-JNA coded as CC5014101005 on June 10, 2025. Production record for ROSS_ORDER 251084 shows 290 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,848 units of IMB5-44-5014-JNA coded as CC5014101005 on June 11, 2025. Production record for ROSS_ORDER 251084 shows 53 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 792 units of IMB5-44-5014-JNA coded as CC5014101005 on June 11, 2025. Production record for ROSS_ORDER 251330 shows 295 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,848 units of IMB5-44-5014-JNA coded as CC5014101005 on June 12, 2025. Production record for ROSS_ORDER 251084 shows 350 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,600 units of IMB5-44-48414 JCR coded as SMB4814101005C on June 13, 2025. Production record for ROSS_ORDER 251084 shows 250 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,600 units of IMB5-44-48414 JCR coded as SMB4814101005C on June 14, 2025. Production record for ROSS_ORDER 251084 shows 360 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,600 units of IMB5-44-48414 JCR coded as SMB4814101005C on June 15, 2025. Production record for ROSS_ORDER 251084 shows 360 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,600 units of IMB5-44-48414 JCR coded as SMB4814101005C on June 16, 2025. Production record for ROSS_ORDER 251084 shows 240 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,696 units of IMB5-64-5113 JMOL (new) coded as SMB5113515105S on June 17, 2025. Production record for ROSS_ORDER 251084 shows 200 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,696 units of IMB5-64-5113 JMOL (new) coded as SMB5113515105S on June 18, 2025. Production record for ROSS_ORDER 251084 shows 390 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,696 units of IMB5-64-5113 JMOL (new) coded as SMB5113515105S on June 19, 2025. Achieved 380 units with 400 units planned for the day.
+
+CLIFFORD MMW produced 3,696 units of IMB5-64-5113 JMOL (new) coded as SMB5113515105S on June 20, 22, 21, 2025. Achieved 380, 420, 420 units respectively with 400 units planned for the day.
+
+CLIFFORD MMW produced 13,500 units of IMG3H-44-2417-DQL coded as SMF3H24171010G on June 23, 24, 25, 26, 27, 28, 29, 30, 31, July 1, 2, 3, 2025. Achieved 800, 800, 800, 650, 0, 800, 750, 950, 950, 950, 950, 950 units respectively with 800 units planned for the day.
+
+CLIFFORD MMW produced 1,000 units of R500SL41 coded as SL41 on July 5, 2025. Achieved 225 units with 320 units planned for the day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,600 units of IMG3H-44-2417-DQL coded as SMF3H24171010G on July 3, 2025. Achieved 600 units with 800 units planned for the day.
+
+CLIFFORD MMW produced 1,600 units of IMG3H-44-2417-DQL coded as SMF3H24171010G on July 4, 2025. Achieved 210 units with 200 units planned for the day.
+
+CLIFFORD MMW produced 1,000 units of R500SL41 coded as SL41 on July 7, 2025. Achieved 320 units with 320 units planned for the day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,000 units of R500SL41 on July 7, 2025. ST2065 recorded the production for ROSS_ORDER 251279 in WEEK 28.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,000 units of R500SL41 on July 8, 2025. ST2065 recorded the production for ROSS_ORDER 251279 in WEEK 28.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,000 units of R500SL41 on July 9, 2025. ST2065 recorded the production for ROSS_ORDER 251279 in WEEK 28.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,000 units of IMB5-44-4524 on July 9, 2025. ST2044 recorded the production for ROSS_ORDER 251083 in WEEK 28.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,000 units of IMB5-44-4524 on July 10, 2025. ST2044 recorded the production for ROSS_ORDER 251083 in WEEK 28.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,000 units of IMB5-44-4524 on July 11, 2025. ST2044 recorded the production for ROSS_ORDER 251083 in WEEK 28.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,080 units of IMB45-66-5111 on July 11, 2025. ST2066 recorded the production for ROSS_ORDER 251084 in WEEK 28.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,080 units of IMB45-66-5111 on July 12, 2025. ST2066 recorded the production for ROSS_ORDER 251084 in WEEK 28.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+No production on July 13, 2025. WEEK 29.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,080 units of IMB45-66-5111 on July 14, 2025. ST2066 recorded the production for ROSS_ORDER 251084 in WEEK 29.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 70 units of IMG5-46-1100C30 on July 15, 2025. ST2046 recorded the production for ROSS_ORDER 251082 in WEEK 29.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 70 units of IMG5-46-1100C30 on July 16, 2025. ST2046 recorded the production for ROSS_ORDER 251081 in WEEK 29.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 6,800 units of IMG3H-33-2516 on July 17, 2025. ST2067 / ST2069 Heavy Galv recorded the production for ROSS_ORDER 251281 in WEEK 29.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 6,800 units of IMG3H-33-2516 on July 18, 2025. ST2067 / ST2069 Heavy Galv recorded the production for ROSS_ORDER 251281 in WEEK 29.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 6,800 units of IMG3H-33-2516 on July 19, 2025. ST2067 / ST2069 Heavy Galv recorded the production for ROSS_ORDER 251281 in WEEK 29.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 6,800 units of IMG3H-33-2516 on July 20, 2025. ST2067 / ST2069 Heavy Galv recorded the production for ROSS_ORDER 251281 in WEEK 30.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 6,800 units of IMG3H-33-2516 on July 21, 2025. ST2067 / ST2069 Heavy Galv recorded the production for ROSS_ORDER 251281 in WEEK 30.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 6,800 units of IMG3H-33-2516 on July 22, 2025. ST2067 / ST2069 Heavy Galv recorded the production for ROSS_ORDER 251281 in WEEK 30.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 6,800 units of IMG3H-33-2516 on July 23, 2025. ST2067 / ST2069 Heavy Galv recorded the production for ROSS_ORDER 251281 in WEEK 30.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,200 units of IMB3H-44-2618-DAIR on July 23, 2025. ST2083 recorded the production for ROSS_ORDER 252165 in WEEK 30.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,200 units of IMB3H-44-2618-DAIR coded as SMF2618101003 on July 24, 2025. Production record shows 850 units achieved with 5.98 kg/sheet and 122.22 sheets/hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,500 units of IMG34-44-2415 JASH coded as SMF24151010034G on July 24, 2025. Production record shows 0 units achieved with 5.96 kg/sheet and 80.49 sheets/hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,500 units of IMG34-44-2415 JASH coded as SMF24151010034G on July 25, 2025. Production record shows 850 units achieved with 5.96 kg/sheet and 80.49 sheets/hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,000 units of R500SL41 coded as SL41 on July 26, 2025. Production record shows 320 units achieved with 30 kg/sheet and 54 sheets/hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,000 units of R500SL41 coded as SL41 on July 27, 2025. Production record shows 320 units achieved with 30 kg/sheet and 54 sheets/hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,000 units of R500SL41 coded as SL41 on July 28, 2025. Production record shows 237 units achieved with 30 kg/sheet and 54 sheets/hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,150 units of IMB5-64-5113 JMOL (new) coded as SMB5113515105S on July 29, 2025. Production record shows 60 units achieved with 22.2 kg/sheet and 58.82 sheets/hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,150 units of IMB5-64-5113 JMOL (new) coded as SMB5113515105S on July 30, 2025. Production record shows 445 units achieved with 22.2 kg/sheet and 58.82 sheets/hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+No production on July 31, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+No production on August 1, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+No production on August 2, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+No production on August 3, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+No production on August 4, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+No production on August 5, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+No production on August 6, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+No production on August 7, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+No production on August 8, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+No production on August 9, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+No production on August 10, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+No production on August 11, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+Clifford MMW produced 10,000 units of IMG4-44-2015-JNA coded as CC2015101004G on August 18, 2025. Production record for ROSS_ORDER 251543 shows 6.15 kg/sheet and 157.14285714285714 sheets/hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+Clifford MMW produced 800 units of IMG4-44-2015-JNA coded as CC2015101004G on August 19, 2025. Production record for ROSS_ORDER 251543 shows 6.15 kg/sheet and 157.14285714285714 sheets/hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+Clifford MMW produced 800 units of IMG4-44-2015-JNA coded as CC2015101004G on August 20, 2025. Production record for ROSS_ORDER 251543 shows 350 units achieved, 6.15 kg/sheet and 157.14285714285714 sheets/hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+Clifford MMW produced 800 units of IMG4-44-2015-JNA coded as CC2015101004G on August 21, 2025. Production record for ROSS_ORDER 251543 shows 720 units achieved, 6.15 kg/sheet and 157.14285714285714 sheets/hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+Clifford MMW produced 800 units of IMG4-44-2015-JNA coded as CC2015101004G on August 22, 2025. Production record for ROSS_ORDER 251543 shows 800 units achieved, 6.15 kg/sheet and 157.14285714285714 sheets/hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+Clifford MMW produced 800 units of IMG4-44-2015-JNA coded as CC2015101004G on August 23, 2025. Production record for ROSS_ORDER 251543 shows 800 units achieved, 6.15 kg/sheet and 157.14285714285714 sheets/hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+Clifford MMW produced 800 units of IMG4-44-2015-JNA coded as CC2015101004G on August 24, 2025. Production record for ROSS_ORDER 251543 shows 800 units achieved, 6.15 kg/sheet and 157.14285714285714 sheets/hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+Clifford MMW produced 800 units of IMG4-44-2015-JNA coded as CC2015101004G on August 25, 2025. Production record for ROSS_ORDER 251543 shows 800 units achieved, 6.15 kg/sheet and 157.14285714285714 sheets/hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+Clifford MMW produced 90 units of IMG4-44-2015-JNA coded as CC2015101004G on August 26, 2025. Production record for ROSS_ORDER 251543 shows 6.15 kg/sheet and 157.14285714285714 sheets/hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+Clifford MMW produced 680 units of IMG4-44-2015-JNA coded as CC2015101004G on August 27, 2025. Production record for ROSS_ORDER 251543 shows 6.15 kg/sheet and 157.14285714285714 sheets/hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+Clifford MMW produced 800 units of IMG4-44-2015-JNA coded as CC2015101004G on August 28, 2025. Production record for ROSS_ORDER 251543 shows 800 units achieved, 6.15 kg/sheet and 157.14285714285714 sheets/hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+Clifford MMW produced 400 units of IMG4-44-2015-JNA coded as CC2015101004G on August 29, 2025. Production record for ROSS_ORDER 251543 shows 800 units achieved, 6.15 kg/sheet and 157.14285714285714 sheets/hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+Clifford MMW produced 800 units of IMG4-44-2015-JNA coded as CC2015101004G on August 30, 2025. Production record for ROSS_ORDER 251543 shows 800 units achieved, 6.15 kg/sheet and 157.14285714285714 sheets/hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+Clifford MMW produced 0 units of IMG4-44-2015-JNA coded as CC2015101004G on August 31, 2025. Production record for ROSS_ORDER 251543 shows 6.15 kg/sheet and 157.14285714285714 sheets/hour.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 10,000 units of IMG4-44-2015-JNA coded as CC2015101004G on September 2, 2025. Production record shows 800 units achieved with 800 kg sheet weight.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 10,000 units of IMG4-44-2015-JNA coded as CC2015101004G on September 3, 2025. Production record shows 800 units achieved with 800 kg sheet weight.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 540 units of IMB5-44-5716 coded as SMF5716101005 on September 4, 2025. Production record shows 40 units achieved with 40 kg sheet weight.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 540 units of IMB5-44-5716 coded as SMF5716101005 on September 5, 2025. Production record shows 320 units achieved with 320 kg sheet weight.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 210 units of IMB5-44-5716 coded as SMF5716101005 on September 6, 2025. Production record shows 210 kg sheet weight.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 81 units of IMB5-44-5716 coded as SMF5716101005 on September 7, 2025. Production record shows 81 kg sheet weight.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 240 units of IMG5-44-5716 coded as SMF5716101005G on September 8, 2025. Production record shows 100 units achieved with 100 kg sheet weight.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 320 units of IMG5-44-5716 coded as SMF5716101005G on September 9, 2025. Production record shows 200 units achieved with 200 kg sheet weight.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 320 units of IMG5-44-5716 coded as SMF5716101005G on September 10, 2025. Production record shows 100 units achieved with 100 kg sheet weight.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 280 units of IMG5-44-5716 coded as SMF5716101005G on September 11, 2025. Production record shows 165 units achieved with 165 kg sheet weight.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 320 units of IMG5-44-5716 coded as SMF5716101005G on September 12, 2025. Production record shows 100 units achieved with 100 kg sheet weight.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 150 units of IMG5-44-5716 coded as SMF5716101005G on September 13, 2025. Production record shows 175 units achieved with 175 kg sheet weight.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of IMG5-44-5716 coded as SMF5716101005G on September 14, 2025. Production record shows 52 units achieved with 52 kg sheet weight.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of IMG5-44-5716 coded as SMF5716101005G on September 15, 2025. Production record shows 0 units achieved with 0 kg sheet weight.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of IMG5-44-5716 coded as SMF5716101005G on September 16, 2025. Production record shows 0 units achieved with 0 kg sheet weight.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of IMG5-44-5716 coded as SMF5716101005G on September 17, 2025. Production record shows 0 units achieved with 0 kg sheet weight.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 420 units of IMG5-44-5716 coded as SMF5716101005G on September 18, 2025. Production record shows 400 units achieved with 400 kg sheet weight.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 40 units of IMG55H-46-5017-JAS coded as SMB5016151005G on September 19, 2025. Production record shows 40 units achieved with 40 kg sheet weight.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,920 units of IMG55H-46-5017-JAS on September 20, 2025. Week 38 production record shows 400 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of IMG55H-46-5017-JAS on September 21, 2025. Week 39 production record shows 800 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,920 units of IMG55H-46-5017-JAS on September 22, 2025. Week 39 production record shows 300 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,920 units of IMG55H-46-5017-JAS on September 23, 2025. Week 39 production record shows 0 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 6,000 units of IMG4-44-2015-JNA on September 24, 2025. Week 39 production record shows 800 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of IMG4-44-2015-JNA on September 25, 2025. Week 39 production record shows 800 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of IMG4-44-2015-JNA on September 26, 2025. Week 39 production record shows 800 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of IMG4-44-2015-JNA on September 27, 2025. Week 39 production record shows 800 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of IMG4-44-2015-JNA on September 28, 2025. Week 40 production record shows 0 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 500 units of IMG4-44-2015-JNA on September 29, 2025. Week 40 production record shows 500 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 350 units of IMG4-44-2015-JNA on September 30, 2025. Week 40 production record shows 350 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 40 units of IMB45-66-5111 on October 1, 2025. Week 40 production record shows 40 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 280 units of IMB45-66-5111 on October 2, 2025. Week 40 production record shows 280 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of IMB45-66-5111 on October 3, 2025. Week 40 production record shows 0 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 380 units of IMG4-44-3024-JOA on October 5, 2025. Week 41 production record shows 50 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 380 units of IMG4-44-3024-JOA on October 6, 2025. Week 41 production record shows 400 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 190 units of IMG4-44-3024-JOA on October 7, 2025. Week 41 production record shows 210 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,000 units of IMB4-626-1117-JULW on October 8, 2025. Week 41 production record shows 520 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,200 units of IMB4-626-1117-JULW on October 9, 2025. Week 41 production record shows 1,080 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 6,000 units of IMB4-626-1117-JULW on October 10, 2025. Week 41 production achieved 1,000 units with 820 kg of scrap.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,600 units of IMG34-44-2415 JASH on October 11, 2025. Week 41 production achieved 100 units with 596 kg of scrap.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,600 units of IMG34-44-2415 JASH on October 13, 2025. Week 42 production achieved 800 units with 894 kg of scrap.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,500 units of IMG34-44-2415 JASH on October 13, 2025. Week 42 production achieved 800 units with 1,788 kg of scrap.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,500 units of IMG34-44-2415 JASH on October 14, 2025. Week 42 production achieved 800 units with 7,241 kg of scrap.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,584 units of IMB5-46-5016-JNA on October 15, 2025. Week 42 production achieved 40 units with 12,024 kg of scrap.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,584 units of IMB5-46-5016-JNA on October 16, 2025. Week 42 production achieved 400 units with 21,104 kg of scrap.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,584 units of IMB5-46-5016-JNA on October 17, 2025. Week 42 production achieved 250 units with 6,135 kg of scrap.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,600 units of IMG3H-44-1716 on October 18, 2025. Week 42 production achieved 100 units with 353 kg of scrap.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,600 units of IMG3H-44-1716 on October 21, 2025. Week 43 production achieved 100 units with 3,530 kg of scrap.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,600 units of IMG3H-44-1716 on October 22, 2025. Week 43 production achieved 512 units with 3,530 kg of scrap.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,000 units of IMG3H-44-2518 on October 22, 2025. Week 43 production achieved 950 units with 4,616 kg of scrap.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,000 units of IMG3H-44-2518 on October 23, 2025. Week 43 production achieved 950 units with 9,001 kg of scrap.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,000 units of IMG3H-44-2518 on October 24, 2025. Week 43 production achieved 670 units with 3,866 kg of scrap.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,500 units of IMG3H-33-2516 on October 27, 2025. Week 44 production achieved 100 units with 5,940 kg of scrap.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,500 units of IMG3H-33-2516 on October 28, 2025. Week 44 production achieved 0 units with 0 kg of scrap.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,500 units of IMG3H-33-2516 on October 29, 2025. Week 44 production achieved 0 units with 0 kg of scrap.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,500 units of IMG3H-33-2516 on October 30, 2025. Week 44 production achieved 0 units with 0 kg of scrap.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,500 units of IMG3H-33-2516 on October 31, 2025. Week 44 production achieved 0 units with 0 kg of scrap.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,500 units of IMG3H-33-2516 on November 1, 2025. Week 44 production achieved 0 units with 0 kg of scrap.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,500 units of IMG3H-33-2516 on October 28, 2025. Production record shows 600 units achieved with 6.6 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,080 units of imb45-66-5111 on October 29, 2025. Production record shows 300 units achieved with 12.26 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,080 units of imb45-66-5111 on October 30, 2025. Production record shows 340 units achieved with 12.26 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 2,000 units of IMB4-66-2118-JUL on October 31, 2025. Production record shows 0 units achieved with 5.95 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 100 units of IMB4-66-2118-JUL on November 1, 2025. Production record shows 0 units achieved with 5.95 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 100 units of IMB4-66-2118-JUL on November 2, 2025. Production record shows 0 units achieved with 5.95 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,000 units of IMB4-66-2118-JUL on November 3, 2025. Production record shows 300 units achieved with 5.95 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 700 units of IMB4-66-2118-JUL on November 4, 2025. Production record shows 520 units achieved with 5.95 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+SOUTH32 placed order PO-2025-045 on November 4, 2025. Order contains 3,000 units of IMG3H-44-2516 for delivery to APPIN MINE, NSW.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of IMG3H-44-2516 on November 5, 2025. Production record shows 650 units achieved with 5.14 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of IMG3H-44-2516 on November 6, 2025. Production record shows 800 units achieved with 5.14 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 800 units of IMG3H-44-2516 on November 7, 2025. Production record shows 700 units achieved with 5.14 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 100 units of IMB4-44-2214 on November 10, 2025. Production record shows 150 units achieved with 6.43 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 700 units of IMB4-44-2214 on November 11, 2025. Production record shows 800 units achieved with 6.43 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of imb45-66-5111 on November 12, 2025. Production record shows 250 units achieved with 12.26 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 380 units of imb45-66-5111 on November 13, 2025. Production record shows 400 units achieved with 12.26 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 380 units of imb45-66-5111 on November 14, 2025. Production record shows 200 units achieved with 12.26 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 100 units of IMB4-44-2214 on November 15, 2025. Production record shows 150 units achieved with 6.43 kg/sheet.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 380.0 units of imb45-66-5111 coded as SMB5112151504 on November 17, 2025. Achieved 400.0 units with 95.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 180.0 units of imb45-66-5111 coded as SMB5112151504 on November 18, 2025. Achieved 225.0 units with 75.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 40.0 units of IMB3H-44-2618-DAIR coded as SMF2618101003 on November 19, 2025. Achieved 53.0 units with 82.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 400.0 units of IMB3H-44-2618-DAIR coded as SMF2618101003 on November 20, 2025. Achieved 480.0 units with 80.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 400.0 units of IMB3H-44-2618-DAIR coded as SMF2618101003 on November 20, 2025. Achieved 300.0 units with 75.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 800.0 units of IMB3H-44-2618-DAIR coded as SMF2618101003 on November 21, 2025. Achieved 450.0 units with 56.25% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 100.0 units of IMB3H-44-2420-DCLA coded as SMF2420101003 on November 22, 2025. Achieved 500.0 units with 80.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 800.0 units of IMB3H-44-2420-DCLA coded as SMF2420101003 on November 23, 2025. Achieved 660.0 units with 82.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 800.0 units of IMB3H-44-2420-DCLA coded as SMF2420101003 on November 24, 2025. Achieved 650.0 units with 81.25% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 240.0 units of IMB3H-44-2420-DCLA coded as SMF2420101003 on November 25, 2025. Achieved 652.0 units with 81.25% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 600.0 units of IMG4-44-2015 coded as CC2015101004G on November 26, 2025. Achieved 365.0 units with 60.83% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 800.0 units of IMG4-44-2015 coded as CC2015101004G on November 27, 2025. Achieved 685.0 units with 85.625% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 800.0 units of IMG4-44-2015 coded as CC2015101004G on November 28, 2025. Achieved 707.0 units with 88.375% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 800.0 units of IMG4-44-2015 coded as CC2015101004G on November 29, 2025. Achieved 0.0 units with 0.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 700.0 units of IMG4-44-2015 coded as CC2015101004G on December 1, 2025. Achieved 820.0 units with 90.29% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 800.0 units of IMG4-44-2015 coded as CC2015101004G on December 2, 2025. Achieved 400.0 units with 50.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 800.0 units of IMG4-44-2015 coded as CC2015101004G on December 3, 2025. Achieved 994.0 units with 124.25% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 800.0 units of IMG4-44-2015 coded as CC2015101004G on December 4, 2025. Achieved 0.0 units with 0.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 2,000 units of IMB4-626-1117-JULW on December 5, 2025. Ross order 253633 was coded as SMF1711151504UW with 1200 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 2,000 units of IMB4-626-1117-JULW on December 6, 2025. Ross order 253633 was coded as SMF1711151504UW with 860 units achieved.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 on December 8, 2025. Ross order 253867 was coded as SMB5112151504 with 450 units achieved on December 10, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 on December 11, 2025. Ross order 253867 was coded as SMB5112151504 with 350 units achieved on December 12, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 6,000 units of IMG4-44-2015 on December 16, 2025. Ross order 253628 was coded as CC2015101004G with 400 units achieved on December 18, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 6,000 units of IMG4-44-2015 on December 17, 2025. Ross order 253628 was coded as CC2015101004G with 900 units achieved on December 18, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 6,000 units of IMG4-44-2015 on December 18, 2025. Ross order 253628 was coded as CC2015101004G with 900 units achieved on December 19, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,080 units of IMB45-66-5117-DEN on December 23, 2025. Ross order 253124 was coded as SMB5118151505 with 150 units achieved on December 24, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,080 units of IMB45-66-5117-DEN on December 24, 2025. Ross order 253124 was coded as SMB5118151505 with 380 units achieved on December 24, 2025.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,080 units of IMB45-66-5117-DEN coded as SMB5118151505 on December 25, 2025. Achieved 160 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,440 units of IMB4-44-4814-CCC coded as SMF4814101004 on December 26, 2025. Achieved 350 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,440 units of IMB4-44-4814-CCC coded as SMF4814101004 on December 29, 2025. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,440 units of IMB4-44-4814-CCC coded as SMF4814101004 on December 30, 2025. Achieved 140 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,000 units of IMB4-44-2214 coded as SMF2214101004 on December 30, 2025. Achieved 420 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,000 units of IMB4-44-2214 coded as SMF2214101004 on December 31, 2025. Achieved 900 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on January 2, 2026. Achieved 400 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on January 6, 2026. Achieved 400 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on January 7, 2026. Achieved 350 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on January 8, 2026. Achieved 400 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on January 9, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,400 units of IMG3H-33-2516 coded as SMF2516757503G on January 12, 2026. Achieved 150 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on January 10, 2026. Achieved 451 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on January 11, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on January 12, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on January 13, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on January 14, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on January 15, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on January 16, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on January 17, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on January 18, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on January 19, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on January 20, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on January 21, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on January 22, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on January 23, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on January 24, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on January 25, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on January 26, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on January 27, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on January 28, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on January 29, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on January 30, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on January 31, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on February 1, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on February 2, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on February 3, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on February 4, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on February 5, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on February 6, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on February 7, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on February 8, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on February 9, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on February 10, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on February 11, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on February 12, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on February 13, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on February 14, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on February 15, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on February 16, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on February 17, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on February 18, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on February 19, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on February 20, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on February 21, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on February 22, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on February 23, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on February 24, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on February 25, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on February 26, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on February 27, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on February 28, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on February 29, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on March 1, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on March 2, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on March 3, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on March 4, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on March 5, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on March 6, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on March 7, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on March 8, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on March 9, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on March 10, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on March 11, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on March 12, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on March 13, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on March 14, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on March 15, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on March 16, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on March 17, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on March 18, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on March 19, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on March 20, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on March 21, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on March 22, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on March 23, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on March 24, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on March 25, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on March 26, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on March 27, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on March 28, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on March 29, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on March 30, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on March 31, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on April 1, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on April 2, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB5112151504 on April 3, 2026. Achieved 450 units after processing.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,240 units of IMB45-66-5111 coded as SMB511215150
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,400 units of IMG3H-33-2516 coded as SMF2516757503G on January 13, 2026. Production record for ROSS_ORDER 254993 shows 750 units produced.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,400 units of IMG3H-33-2516 coded as SMF2516757503G on January 14, 22026. Production record for ROSS_ORDER 254993 shows 700 units produced.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,400 units of IMG3H-33-2516 coded as SMF2516757503G on January 15, 2026. Production record for ROSS_ORDER 254993 shows 0 units produced.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,400 units of IMG3H-33-2516 coded as SMF2516757503G on January 15, 2026. Production record for ROSS_ORDER 255008 - ATF shows 0 units produced.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,400 units of IMG3H-33-2516 coded as SMF2516757503G on January 16, 2026. Production record for ROSS_ORDER 255008 - ATF shows 750 units produced.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 750 units of IMG3H-33-2516 coded as SMF2516757503G on January 17, 2026. Production record for ROSS_ORDER 255008 - ATF shows 600 units produced.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 750 units of IMG3H-33-2516 coded as SMF2516757503G on January 18, 2026. Production record for ROSS_ORDER 255008 - ATF shows 0 units produced.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 750 units of IMG3H-33-2516 coded as SMF2516757503G on January 19, 2026. Production record for ROSS_ORDER 255008 - ATF shows 577 units produced.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 750 units of IMG3H-33-2516 coded as SMF2516757503G on January 20, 2026. Production record for ROSS_ORDER 255008 - ATF shows 600 units produced.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 130 units of IMG3H-33-2516 coded as SMF2516757503G on January 21, 2026. Production record for ROSS_ORDER 255008 - ATF shows 140 units produced.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,620 units of IMB45-66-5117-DEN coded as SMB5118151505 on January 22, 2026. Production record for ROSS_ORDER 254980 - ENSHAM shows 400 units produced.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,620 units of IMB45-66-5117-DEN coded as SMB5118151505 on January 23, 2026. Production record for ROSS_ORDER 254980 - ENSHAM shows 400 units produced.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,620 units of IMB45-66-5117-DEN coded as SMB5118151505 on January 24, 2026. Production record for ROSS_ORDER 254980 - ENSHAM shows 0 units produced.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 2,160 units of IMB45-66-5117-DEN coded as SMB5118151505 on January 26, 2026. Production record for ROSS_ORDER 255302 - Ensham shows 380 units produced.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 2,160 units of IMB45-66-5117-DEN coded as SMB5118151505 on January 27, 2026. Production record for ROSS_ORDER 255302 - Ensham shows 380 units produced.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 2,160 units of IMB45-66-5117-DEN coded as SMB5118151505 on January 28, 2026. Production record for ROSS_ORDER 255302 - Ensham shows 380 units produced.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 2,160 units of IMB45-66-5117-DEN coded as SMB5118151505 on January 29, 2026. Production record for ROSS_ORDER 255302 - Ensham shows 260 units produced.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 6,000 units of IMG4-44-2015 coded as CC2015101004G on January 30, 2026. Production record for ROSS_ORDER 254971 - Narrabri shows 100 units produced.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units on January 31, 2026. Planned totals were 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units on February 1, 2026. Planned totals were 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 6,000 units of IMG4-44-2015 on February 2, 2026. Production record shows 800 units produced in day shift. Planned totals were 9.84 units.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 6,000 units of IMG4-44-2015 on February 3, 2026. Production record shows 800 units produced in day shift. Planned totals were 9.84 units.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 6,000 units of IMG4-44-2015 on February 4, 2026. Production record shows 800 units produced in day shift. Planned totals were 9.84 units.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 6,000 units of IMG4-44-2015 on February 5, 2026. Production record shows 300 units produced in day shift. Planned totals were 1.845 units.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 2,000 units of IMB4-626-1821-JUL on February 6, 2026. Production record shows 100 units produced in day shift. Planned totals were 6.545 units.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units on February 7, 2026. Planned totals were 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units on February 8, 2026. Planned totals were 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 2,000 units of IMB4-626-1821-JUL on February 9, 2026. Production record shows 1,000 units produced in day shift. Planned totals were 5.95 units.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,000 units of IMB4-626-1821-JUL on February 9, 2026. Production record shows 0 units produced in day shift. Planned totals were 5.95 units.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,920 units of IMB55H-46-5017 JASH on February 10, 2026. Production record shows 40 units produced in day shift. Planned totals were 0.888 units.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,920 units of IMB55H-46-5017 JASH on February 11, 2026. Production record shows 380 units produced in day shift. Planned totals were 16.872 units.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,920 units of IMB55H-46-5017 JASH on February 12, 2026. Production record shows 380 units produced in day shift. Planned totals were 16.428 units.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,920 units of IMB55H-46-5017 JASH on February 13, 2026. Production record shows 380 units produced in day shift. Planned totals were 16.428 units.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units on February 14, 2026. Planned totals were 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units on February 15, 2026. Planned totals were 0.0 units.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 2,200 units of IMB4-626-1117-JULW on February 16, 2026. Production record shows 0 units produced in day shift. Planned totals were 0.315 units.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 2,200 units of IMB4-626-1117-JULW on February 17, 2026. Production record shows 700 units produced in day shift. Planned totals were 4.41 units.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 2,200 units of IMB4-626-1117-JULW on February 18, 2026. Production record shows 700 units produced in day shift. Planned totals were 2.205 units.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,440 units of IMB4-44-4814-CCC coded as SMF4814101004 on February 19, 2026. Week 8 production shows 40 units produced per day.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,440 units of IMB4-44-4814-CCC coded as SMF4814101004 on February 20, 2026. Week 8 production shows 350 units produced in the afternoon.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW did not produce any units on February 21, 2026. Week 8 production shows no activity.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW did not produce any units on February 22, 2026. Week 9 production shows no activity.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,440 units of IMB4-44-4814-CCC coded as SMF4814101004 on February 23, 2026. Week 9 production shows 350 units produced in the afternoon.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,440 units of IMB4-44-4814-CCC coded as SMF4814101004 on February 24, 2026. Week 9 production shows 350 units produced in the afternoon.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,440 units of IMB4-44-4814-CCC coded as SMF4814101004 on February 25, 2026. Week 9 production shows 350 units produced in the afternoon.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,800 units of IMG4-44-3024-JOA coded as SMF302410104GOC on February 26, 2026. Week 9 production shows 40 units produced in the afternoon.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,800 units of IMG4-44-3024-JOA coded as SMF302410104GOC on February 27, 2026. Week 9 production shows 400 units produced in the afternoon.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW did not produce any units on February 28, 2026. Week 9 production shows no activity.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW did not produce any units on March 1, 2026. Week 10 production shows no activity.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,800 units of IMG4-44-3024-JOA coded as SMF302410104GOC on March 2, 2026. Week 10 production shows 400 units produced in the afternoon.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 1,800 units of IMG4-44-3024-JOA coded as SMF302410104GOC on March 3, 2026. Week 10 production shows 160 units produced in the afternoon.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,000 units of IMG3H-44-2516 coded as SMF2516101031G on March 4, 2026. Week 10 production shows 40 units produced in the afternoon.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,000 units of IMG3H-44-2516 coded as SMF2516101031G on March 5, 2026. Week 10 production shows 750 units produced in the afternoon.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,000 units of IMG3H-44-2516 coded as SMF2516101031G on March 6, 2026. Week 10 production shows 710 units produced in the afternoon.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW did not produce any units on March 7, 2026. Week 10 production shows no activity.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW did not produce any units on March 8, 2026. Week 11 production shows no activity.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 3,000 units of IMB4-44-2214 coded as SMF2214101004 on March 9, 2026. Week 11 production shows 100 units produced in the afternoon.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW did not produce any units on March 10, 2026. Week 11 production shows no activity.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 6.43 kg/sheet on March 11, 2026. Sheets per hour were 130.43 and spm was 50.0.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+ROSS_ORDER 254982 - Moolarben produced 3,000 units of IMB4-44-2214 coded as SMF2214101004 on March 12, 2026. Sheets per hour were 130.43 and spm was 50.0.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+ROSS_ORDER 254982 - Moolarben produced 3,000 units of IMB4-44-2214 coded as SMF2214101004 on March 13, 2026. Sheets per hour were 130.43 and spm was 50.0.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+ROSS_ORDER 254994 - DSI produced 2,320 units of IMB3H-44-2420-DCLA coded as SMF2420101003 on March 14, 2026. Sheets per hour were 80.49 and spm was 55.0.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+ROSS_ORDER 254994 - DSI produced 800 units of IMB3H-44-2420-DCLA coded as SMF2420101003 on March 15, 2026. Sheets per hour were 80.49 and spm was 55.0.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+ROSS_ORDER 254994 - DSI produced 680 units of IMB3H-44-2420-DCLA coded as SMF2420101003 on March 16, 2026. Sheets per hour were 80.49 and spm was 55.0.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 6.15 kg/sheet on March 17, 2026. Sheets per hour were 80.49 and spm was 55.0.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 6.15 kg/sheet on March 18, 2026. Sheets per hour were 80.49 and spm was 55.0.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+ROSS_ORDER 254986 - Carbourough Downs produced 6,000 units of IMG3H-44-2518 coded as SMF251803GCD on March 19, 2026. Sheets per hour were 80.49 and spm was 55.0.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+ROSS_ORDER 254986 - Carbourough Downs produced 750 units of IMG3H-44-2518 coded as SMF251803GCD on March 20, 2026. Sheets per hour were 80.49 and spm was 55.0.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+ROSS_ORDER 254986 - Carbourough Downs produced 750 units of IMG3H-44-2518 coded as SMF251803GCD on March 21, 2026. Sheets per hour were 80.49 and spm was 55.0.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+ROSS_ORDER 254986 - Carbourough Downs produced 750 units of IMG3H-44-2518 coded as SMF251803GCD on March 22, 2026. Sheets per hour were 80.49 and spm was 55.0.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+ROSS_ORDER 254986 - Carbourough Downs produced 750 units of IMG3H-44-2518 coded as SMF251803GCD on March 23, 2026. Sheets per hour were 80.49 and spm was 55.0.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 5.77 kg/sheet on March 24, 2026. Sheets per hour were 80.49 and spm was 55.0.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+CLIFFORD MMW produced 5.77 kg/sheet on March 25, 2026. Sheets per hour were 80.49 and spm was 55.0.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+ROSS_ORDER 254995 - DSI produced 3,000 units of IMG3H-44-2218 coded as SMF2218101003G on March 26, 2026. Sheets per hour were 80.49 and spm was 55.0.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+ROSS_ORDER 254995 - DSI produced 750 units of IMG3H-44-2218 coded as SMF2218101003G on March 27, 2026. Sheets per hour were 80.49 and spm was 55.0.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+ROSS_ORDER 254995 - DSI produced 750 units of IMG3H-44-2218 coded as SMF2218101003G on March 28, 2026. Sheets per hour were 80.49 and spm was 55.0.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+ROSS_ORDER 254995 - DSI produced 750 units of IMG3H-44-2218 coded as SMF2218101003G on March 29, 2026. Sheets per hour were 80.49 and spm was 55.0.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+ROSS_ORDER 254995 - DSI produced 750 units of IMG3H-44-2218 coded as SMF2218101003G on March 30, 2026. Sheets per hour were 80.49 and spm was 55.0.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+Clifford MMW produced 750 units of IMG3H-44-2218 coded as SMF2218101003G on April 1, 2026. Week 14 production shows 750 units produced.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+Clifford MMW produced 750 units of IMG3H-44-2218 coded as SMF2218101003G on April 2, 2026. Week 14 production shows 750 units produced.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+Clifford MMW produced 400 units of IMB4-626-1821-JUL coded as SMF2118151504U3 on April 3, 2026. Week 14 production shows 400 units produced.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+Clifford MMW produced 750 units of IMB4-626-1821-JUL coded as SMF2118151504U3 on April 4, 2026. Week 14 production shows 750 units produced.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+Clifford MMW produced 350 units of IMB4-626-1821-JUL coded as SMF2118151504U3 on April 5, 2026. Week 15 production shows 350 units produced.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+Clifford MMW produced 40 units of IMG4-44-3024-JOA coded as SMF302410104GOC on April 6, 2026. Week 15 production shows 40 units produced.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+Clifford MMW produced 350 units of IMG4-44-3024-JOA coded as SMF302410104GOC on April 7, 2026. Week 15 production shows 350 units produced.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+Clifford MMW produced 0 units of IMG4-44-3024-JOA coded as SMF302410104GOC on April 8, 2026. Week 15 production shows 0 units produced.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+Clifford MMW produced 0 units of IMG4-44-3024-JOA coded as SMF302410104GOC on April 9, 2026. Week 15 production shows 0 units produced.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+Clifford MMW produced 750 units of IMB3H-44-2420-DCLA coded as SMF2420101003 on April 10, 2026. Week 15 production shows 750 units produced.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+Clifford MMW produced 750 units of IMB3H-44-2420-DCLA coded as SMF2420101003 on April 11, 2026. Week 15 production shows 750 units produced.
+
+[Source: Daily Production Report v1.xlsm_Clifford MMW.csv | Type: production_record]
+Clifford MMW produced 750 units of IMB3H-44-2420-DCLA coded as SMF2420101003 on April 12, 2026. Week 16 production shows 750 units produced.

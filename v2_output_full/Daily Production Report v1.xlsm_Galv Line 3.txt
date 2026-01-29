@@ -1,0 +1,707 @@
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+SCHLATTER PG12 produced 81,600 units of COILGW4.88-ASTM-1064 on May 31, 2025. Production run achieved 7,200 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+SCHLATTER PG12 produced 81,600 units of COILGW4.88-ASTM-1064 on June 1, 2025. Production run achieved 7,145 units with 87.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+SCHLATTER PG12 produced 81,600 units of COILGW4.88-ASTM-1064 on June 2, 2025. Production run achieved 4,780 units with 59.1% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+SCHLATTER PG12 produced 81,600 units of COILGW4.88-ASTM-1064 on June 3, 2025. Production run achieved 4,785 units with 60.2% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+SCHLATTER PG12 produced 81,600 units of COILGW4.88-ASTM-1064 on June 4, 2025. Production run achieved 4,815 units with 60.8% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+SCHLATTER PG12 produced 81,600 units of COILGW4.88-ASTM-1064 on June 5, 2025. Production run achieved 7,140 units with 87.7% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROLL FORM LINE produced 75,000 units of COILGW5.6 on June 6, 2025. Production run achieved 2,380 units with 31.7% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROLL FORM LINE produced 75,000 units of COILGW5.6 on June 7, 2025. Production run achieved 4,785 units with 63.8% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROLL FORM LINE produced 75,000 units of COILGW5.6 on June 8, 2025. Production run achieved 0 units with 0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROLL FORM LINE produced 75,000 units of COILGW5.6 on June 9, 2025. Production run achieved 2,685 units with 35.8% yield rate due to H2 pipe broken causing obvious black dots.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROLL FORM LINE produced 75,000 units of COILGW5.6 on June 10, 2025. Production run achieved 0 units with 0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROLL FORM LINE produced 75,000 units of COILGW5.6 on June 11, 2025. Production run achieved 2,465 units with 32.9% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROLL FORM LINE produced 75,000 units of COILGW5.6 on June 12, 2025. Production run achieved 7,200 units with 96% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROLL FORM LINE produced 75,000 units of COILGW5.6 on June 13, 2025. Production run achieved 5,940 units with 79.2% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROLL FORM LINE produced 75,000 units of COILGW5.6 on June 14, 2025. Production run achieved 7,255 units with 96.7% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROLL FORM LINE produced 75,000 units of COILGW5.6 on June 15, 2025. Production run achieved 7,270 units with 96.9% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROLL FORM LINE produced 75,000 units of COILGW5.6 on June 16, 2025. Production run achieved 7,320 units with 97.6% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROLL FORM LINE produced 75,000 units of COILGW5.6 on June 17, 2025. Production run achieved 7,300 units with 97.3% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROLL FORM LINE produced 75,000 units of COILGW5.6 on June 18, 2025. Production run achieved 7,285 units with 97.1% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROLL FORM LINE produced 75,000 units of COILGW5.6 on June 19, 2025. Production run achieved 4,835 units with 64.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+SCHLATTER PG12 produced 75,000 units of COILGW5.6 on June 20, 2025. Production record for ROSS_ORDER 251636 shows 75,000 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+SCHLATTER PG12 produced 4,920 units of COILGW5.6 on June 21, 2025. Production record for ROSS_ORDER 251636 shows 4,920 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+SCHLATTER PG12 produced 7,295 units of COILGW5.6 on June 22, 2025. Production record for ROSS_ORDER 251636 shows 7,295 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+SCHLATTER PG12 produced 7,350 units of COILGW5.6 on June 23, 2025. Production record for ROSS_ORDER 251636 shows 7,350 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+SCHLATTER PG12 produced 7,295 units of COILGW5.6 on June 24, 2025. Production record for ROSS_ORDER 251636 shows 7,295 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+SCHLATTER PG12 produced 7,290 units of COILGW5.6 on June 25, 2025. Production record for ROSS_ORDER 251636 shows 7,290 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of COILGW5.6 on June 26, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of COILGW5.6 on June 27, 2025.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+SCHLATTER PG12 produced 4,855 units of COILGW5.6 on June 28, 2025. Production record for ROSS_ORDER 251636 shows 4,855 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+SCHLATTER PG12 produced 4,830 units of COILGW5.6 on June 29, 2025. Production record for ROSS_ORDER 251636 shows 4,830 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+SCHLATTER PG12 produced 9,770 units of COILGW5.6 on June 30, 2025. Production record for ROSS_ORDER 251636 shows 9,770 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+SCHLATTER PG12 produced 7,320 units of COILGW5.6 on July 1, 2025. Production record for ROSS_ORDER 251636 shows 7,320 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+SCHLATTER PG12 produced 7,355 units of COILGW5.6 on July 2, 2025. Production record for ROSS_ORDER 251636 shows 7,355 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+SCHLATTER PG12 produced 7,345 units of COILGW5.6 on July 3, 2025. Production record for ROSS_ORDER 251636 shows 7,345 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+SCHLATTER PG12 produced 7,295 units of COILGW5.6 on July 4, 2025. Production record for ROSS_ORDER 251636 shows 7,295 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+SCHLATTER PG12 produced 7,725 units of COILGW5.6 on July 5, 2025. Production record for ROSS_ORDER 251636 shows 7,725 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+SCHLATTER PG12 produced 4,610 units of COILGW5.6 on July 6, 2025. Production record for ROSS_ORDER 251636 shows 4,610 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+SCHLATTER PG12 produced 72,050 units of COILGW5.6 on July 7, 2025. Production record for ROSS_ORDER 251636 shows 72,050 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+SCHLATTER PG12 produced 7,260 units of COILGW5.6 on July 8, 2025. Production record for ROSS_ORDER 251636 shows 7,260 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+SCHLATTER PG12 produced 7,200 units of COILGW5.6 on July 9, 2025. Production record for ROSS_ORDER 251636 shows 7,200 units produced.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,330 units of COILGW5.6 on July 10, 2025. Achieved 97.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 4,630 units of COILGW5.6 on July 11, 2025. Achieved 68.4% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,320 units of COILGW5.6 on July 12, 2025. Achieved 48.6% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 5,020 units of COILGW5.6 on July 16, 2025. Planned totals were 5,020 units.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,350 units of COILGW5.6 on July 17, 2025. Achieved 73.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+South32 placed order ROSS_ORDER_251636 on July 17, 2025. Contains 67,500 units of COILGW5.6 for delivery to APPIN MINE, NSW. Achieved 8,105 units.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 4,845 units of COILGW4.88-ASTM-1064 on July 21, 2025. Achieved 4,845 units.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 4,805 units of COILGW4.88-ASTM-1064 on July 22, 2025. Achieved 4,805 units.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 2,085 units of COILGW4.88-ASTM-1064 on July 23, 2025. Achieved 2,085 units.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 4,700 units of COILGW4.88-ASTM-1064 on July 24, 2025. Achieved 4,700 units.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 4,840 units of COILGW4.88-ASTM-1064 on July 25, 2025. Achieved 4,840 units.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 2,430 units of COILGW4.88-ASTM-1064 on July 26, 2025. Achieved 2,430 units.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 4,885 units of COILGW4.88-ASTM-1064 on July 27, 2025. Achieved 4,885 units.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 2,420 units of COILGW4.88-ASTM-1064 on July 28, 2025. Achieved 2,420 units.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 4,785 units of Unknown product on July 29, 2025. Achieved 4,785 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 4,785 units of Unknown product on July 30, 2025. Achieved 4,895 units with 99.9% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 4,800 units of Unknown product on July 31, 2025. Achieved 4,810 units with 99.8% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 4,795 units of Unknown product on August 1, 2025. Achieved 4,795 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 84,000 units of COILGW4.88-ASTM-1064 on August 1, 2025. Achieved 4,820 units with 99.2% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 4,800 units of Unknown product on August 2, 2025. Achieved 4,845 units with 99.8% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 4,835 units of Unknown product on August 3, 2025. Achieved 4,830 units with 99.4% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 2,443 units of Unknown product on August 4, 2025. Achieved 2,443 units with 99.8% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 4,865 units of Unknown product on August 5, 2025. Achieved 4,850 units with 99.4% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 4,820 units of Unknown product on August 6, 2025. Achieved 4,880 units with 99.6% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 4,815 units of Unknown product on August 7, 2025. Achieved 4,830 units with 99.4% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 4,805 units of Unknown product on August 8, 2025. Achieved 4,850 units with 99.4% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 2,400 units of Unknown product on August 9, 2025. Achieved 4,805 units with 99.4% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 4,830 units of Unknown product on August 10, 2025. Achieved 4,860 units with 99.6% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 21,600 units of Unknown product on August 11, 2025. Achieved 4,860 units with 99.6% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 4,475 units of Unknown product on August 12, 2025. Achieved 4,475 units with 99.4% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 4,345 units of Unknown product on August 13, 2025. Achieved 1,095 units with 25.1% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 2,440 units of Unknown product on August 14, 2025. Achieved 2,440 units with 100.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 28,880 units of Unknown product on August 15, 2025. Achieved 2,400 units with 8.3% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,270 units of COILGW5.6 - Coil GW5.6 on August 19, 2025. Achieved 4,935 units with 68.1% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,270 units of COILGW5.6 - Coil GW5.6 on August 20, 2025. Achieved 7,305 units with 100.4% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,220 units of COILGW5.6 - Coil GW5.6 on August 21, 2025. Achieved 9,700 units with 133.3% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROSS_ORDER 251636 produced 2,400 units of COILGW5.6 - Coil GW5.6 on August 22, 2025. Achieved 7,350 units with 306.2% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROSS_ORDER 251636 produced 9,705 units of COILGW5.6 - Coil GW5.6 on August 23, 2025. Achieved 7,345 units with 75.8% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,315 units of COILGW5.6 - Coil GW5.6 on August 24, 2025. Achieved 9,770 units with 133.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,270 units of COILGW5.6 - Coil GW5.6 on August 25, 2025. Achieved 9,795 units with 134.7% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,300 units of COILGW5.6 - Coil GW5.6 on August 26, 2025. Achieved 7,320 units with 99.7% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROSS_ORDER 251636 produced 9,690 units of COILGW5.6 - Coil GW5.6 on August 27, 2025. Achieved 7,300 units with 75.1% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,290 units of COILGW5.6 - Coil GW5.6 on August 28, 2025. Achieved 7,360 units with 101.1% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROSS_ORDER 251636 produced 9,750 units of COILGW5.6 - Coil GW5.6 on August 29, 2025. Achieved 7,340 units with 75.3% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,240 units of COILGW5.6 - Coil GW5.6 on August 30, 2025. Achieved 2,435 units with 33.9% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROSS_ORDER 251636 produced 10,800 units of COILGW5.6 - Coil GW5.6 on August 26, 2025. Achieved 7,300 units with 67.4% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROSS_ORDER 251636 produced 9,690 units of COILGW5.6 - Coil GW5.6 on August 27, 2025. Achieved 7,300 units with 74.8% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,290 units of COILGW5.6 - Coil GW5.6 on August 28, 2025. Achieved 9,810 units with 134.6% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,240 units of COILGW5.6 - Coil GW5.6 on August 30, 2025. Achieved 2,435 units with 33.9% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROSS_ORDER 251636 produced 4,890 units of COILGW5.6 - Coil GW5.6 on September 2, 2025. Achieved 7,345 units with 149.9% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,290 units of COILGW5.6 - Coil GW5.6 on September 3, 2025. Achieved 9,810 units with 134.6% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROSS_ORDER 251636 produced 4,890 units of COILGW5.6 - Coil GW5.6 on September 2, 2025. Achieved 7,345 units with 149.9% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROSS_ORDER 251636 produced 7,290 units of COILGW5.6 - Coil GW5.6 on September 3, 2025. Achieved 9,810 units with 134.6% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,210 units of COILGW5.6 - Rebar 5.6mm on September 5, 2025. Achieved 7,225 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,260 units of COILGW5.6 - Rebar 5.6mm on September 6, 2025. Achieved 7,260 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 4,870 units of COILGW5.6 - Rebar 5.6mm on September 7, 2025. Achieved 4,840 units with 99.2% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,210 units of COILGW5.6 - Rebar 5.6mm on September 8, 2025. Achieved 7,205 units with 99.7% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 10,800 units of COILGW5.6 - Rebar 5.6mm on September 9, 2025. Ross order 251636 achieved 7,200 units with 66.7% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,215 units of COILGW5.6 - Rebar 5.6mm on September 10, 2025. Achieved 7,185 units with 99.6% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 4,825 units of COILGW5.6 - Rebar 5.6mm on September 11, 2025. Achieved 7,180 units with 148.9% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,225 units of COILGW5.6 - Rebar 5.6mm on September 12, 2025. Achieved 7,240 units with 100.3% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,180 units of COILGW5.6 - Rebar 5.6mm on September 13, 2025. Ross order 251636 achieved 7,240 units with 102.4% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,200 units of COILGW5.6 - Rebar 5.6mm on September 14, 2025. Achieved 7,270 units with 100.9% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 4,840 units of COILGW5.6 - Rebar 5.6mm on September 15, 2025. Achieved 9,660 units with 200% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,255 units of COILGW5.6 - Rebar 5.6mm on September 16, 2025. Achieved 4,840 units with 67.1% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 9,800 units of COILGW5.6 - Rebar 5.6mm on September 17, 2025. Achieved 7,305 units with 74.6% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 8,375 units of COILGW5.6 - Rebar 5.6mm on September 18, 2025. Achieved 7,425 units with 88.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 8,340 units of COILGW5.6 - Rebar 5.6mm on September 19, 2025. Ross order 251636 achieved 8,000 units with 95.8% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,000 units of COILGW5.6 - Rebar 5.6mm on September 20, 2025. Achieved 8,000 units with 114.3% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 6,000 units of COILGW5.6 - Rebar 5.6mm on September 21, 2025. Achieved 7,000 units with 116.7% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 8,000 units of COILGW5.6 - Rebar 5.6mm on September 22, 2025. Achieved 8,000 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 8,000 units of COILGW5.6 - Rebar 5.6mm on September 23, 2025. Achieved 8,000 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 8,000 units of COILGW5.6 - Rebar 5.6mm on September 24, 2025. Achieved 8,000 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 25, 2025. Job number GL3-001 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 26, 2025. Job number GL3-002 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 27, 2025. Job number GL3-003 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 28, 2025. Job number GL3-004 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 29, 2025. Job number GL3-005 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on September 30, 2025. Job number GL3-006 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 1, 2025. Job number GL3-007 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 2, 2025. Job number GL3-008 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 3, 2025. Job number GL3-009 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 4, 2025. Job number GL3-010 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 5, 2025. Job number GL3-011 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 6, 2025. Job number GL3-012 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 7, 2025. Job number GL3-013 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 8, 2025. Job number GL3-014 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 9, 2025. Job number GL3-015 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 10, 2025. Job number GL3-016 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 11, 2025. Job number GL3-017 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 12, 2025. Job number GL3-018 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 13, 2025. Job number GL3-019 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on October 14, 2025. Job number GL3-020 was processed for SOUTH32 with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROSS_ORDER 253133 produced 163,200.0 units of DMW_PRODUCT COILGW5.6 on October 22, 2025. Achieved 4,988.0 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROSS_ORDER 253133 produced 2,490.0 units of DMW_PRODUCT COILGW5.6 on October 23, 2025. Achieved 2,490.0 units with 100.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROSS_ORDER 253133 produced 4,859.0 units of DMW_PRODUCT COILGW5.6 on October 24, 2025. Achieved 4,859.0 units with 99.9% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROSS_ORDER 253133 produced 4,855.0 units of DMW_PRODUCT COILGW5.6 on October 25, 2025. Achieved 4,855.0 units with 99.9% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROSS_ORDER 253133 produced 2,380.0 units of DMW_PRODUCT COILGW5.6 on October 26, 2025. Achieved 2,380.0 units with 100.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROSS_ORDER 253133 produced 4,860.0 units of DMW_PRODUCT COILGW5.6 on October 27, 2025. Achieved 4,860.0 units with 99.9% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROSS_ORDER 253133 produced 9,591.0 units of DMW_PRODUCT COILGW5.6 on October 28, 2025. Achieved 9,591.0 units with 100.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROSS_ORDER 253133 produced 7,209.0 units of DMW_PRODUCT COILGW5.6 on October 29, 2025. Achieved 7,209.0 units with 99.9% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROSS_ORDER 253133 produced 7,210.0 units of DMW_PRODUCT COILGW5.6 on October 30, 2025. Achieved 7,210.0 units with 100.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROSS_ORDER 253133 produced 7,247.0 units of DMW_PRODUCT COILGW5.6 on October 31, 2025. Achieved 7,247.0 units with 99.9% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROSS_ORDER 253133 produced 7,248.0 units of DMW_PRODUCT COILGW5.6 on November 3, 2025. Achieved 7,248.0 units with 100.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROSS_ORDER 253133 produced 0.0 units of DMW_PRODUCT COILGW5.6 on November 1, 2025. No production recorded.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROSS_ORDER 253133 produced 0.0 units of DMW_PRODUCT COILGW5.6 on November 2, 2025. No production recorded.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+ROSS_ORDER 253133 produced 7,248.0 units of DMW_PRODUCT COILGW5.6 on November 3, 2025. Achieved 7,248.0 units with 100.0% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,155 units of 5.6mm Galve Wire in Coils on November 4, 2025. Achieved 7,155 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,255 units of 5.6mm Galve Wire in Coils on November 5, 2025. Achieved 7,255 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 2,350 units of 5.6mm Galve Wire in Coils on November 6, 2025. Achieved 2,350 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 4,738 units of 5.6mm Galve Wire in Coils on November 7, 2025. Achieved 4,738 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,222 units of 5.6mm Galve Wire in Coils on November 8, 2025. Achieved 7,222 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,220 units of 5.6mm Galve Wire in Coils on November 9, 2025. Achieved 7,220 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,209 units of 5.6mm Galve Wire in Coils on November 10, 2025. Achieved 7,209 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 9,608 units of 5.6mm Galve Wire in Coils on November 11, 2025. Achieved 9,608 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 9,635 units of 5.6mm Galve Wire in Coils on November 12, 2025. Achieved 9,635 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 2,370 units of 5.6mm Galve Wire in Coils on November 13, 2025. Achieved 2,370 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,160 units of 5.6mm Galve Wire in Coils on November 14, 2025. Achieved 7,160 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,200 units of 5.6mm Galve Wire in Coils on November 15, 2025. Achieved 7,200 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+South32 placed order 253133 on November 15, 2025. Order contains 163,200 units of 5.6mm Galve Wire in Coils for delivery to Appin Mine, NSW.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,220 units of new sinker replacement on November 16, 2025. Achieved 7,220 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,265 units of new sinker replacement on November 17, 2025. Achieved 7,265 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,230 units of new sinker replacement on November 18, 2025. Achieved 7,230 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,210 units of new sinker replacement on November 19, 2025. Achieved 7,210 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 2,350 units of new sinker replacement on November 20, 2025. Achieved 2,350 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 4,810 units of new sinker replacement on November 21, 2025. Achieved 4,810 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 4,790 units of new sinker replacement on November 22, 2025. Achieved 4,790 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,280 units of 5.6mm Galve Wire in Coils on November 23, 2025. Achieved 7,280 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 2,405 units of 5.6mm Galve Wire in Coils on November 24, 2025. Achieved 2,405 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 4,780 units of 5.6mm Galve Wire in Coils on November 26, 2025. Achieved 4,780 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 4,760 units of 5.6mm Galve Wire in Coils on November 27, 2025. Achieved 4,760 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 4,545 units of 5.6mm Galve Wire in Coils on November 28, 2025. Achieved 4,545 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 4,775 units of 5.6mm Galve Wire in Coils on November 29, 2025. Achieved 4,775 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,270 units of 5.6mm Galve Wire in Coils on November 30, 2025. Achieved 7,270 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 2,380 units of 5.6mm Galve Wire in Coils on December 1, 2025. Achieved 2,380 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 4,785 units of 5.6mm Galve Wire in Coils on December 2, 2025. Achieved 4,785 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 4,750 units of 5.6mm Galve Wire in Coils on December 3, 2025. Achieved 4,750 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,140 units of 5.6mm Galve Wire in Coils on December 4, 2025. Achieved 7,140 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 2,360 units of 5.6mm Galve Wire in Coils on December 5, 2025. Achieved 2,360 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,220 units of 5.6mm Galve Wire in Coils on December 6, 2025. Achieved 7,220 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,150 units of 5.6mm Galve Wire in Coils on December 7, 2025. Achieved 7,150 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,220 units of 5.6mm Galve Wire in Coils on December 8, 2025. Achieved 7,220 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,165 units of 5.6mm Galve Wire in Coils on December 9, 2025. Achieved 7,165 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 4,755 units of 5.6mm Galve Wire in Coils on December 10, 2025. Achieved 4,755 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 4,858 units of 5.6mm Galve Wire in Coils on December 11, 2025. Achieved 4,858 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 4,820 units of 5.6mm Galve Wire in Coils on December 12, 2025. Achieved 4,820 units with 100% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,310 units of unspecified product on December 13, 2025. Achieved 7,310 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 9,575 units of unspecified product on December 14, 2025. Achieved 9,575 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,325 units of unspecified product on December 15, 2025. Achieved 7,325 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 9,603 units of unspecified product on December 16, 2025. Achieved 9,603 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 4,830 units of unspecified product on December 17, 2025. Achieved 4,830 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,220 units of unspecified product on December 18, 2025. Achieved 7,220 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced unspecified product on December 19, 2025. No specific quantity or achievement recorded.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced unspecified product on December 20, 2025. No specific quantity or achievement recorded.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced unspecified product on December 21, 2025. No specific quantity or achievement recorded.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced unspecified product on December 22, 2025. No specific quantity or achievement recorded.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 9,624 units of unspecified product on December 23, 2025. Achieved 9,624 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,289 units of unspecified product on December 24, 2025. Achieved 7,289 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 9,710 units of unspecified product on December 25, 2025. Achieved 9,710 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 2,440 units of unspecified product on December 26, 2025. Achieved 2,440 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 9,650 units of unspecified product on December 27, 2025. Achieved 9,650 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 9,645 units of unspecified product on December 28, 2025. Achieved 9,645 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,180 units of unspecified product on December 29, 2025. Achieved 7,180 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 9,565 units of unspecified product on December 30, 2025. Achieved 9,565 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 9,660 units of unspecified product on December 31, 2025. Achieved 9,660 units with 100% yield.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced unspecified product on January 1, 2026. No specific quantity or achievement recorded.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 192,000 units of 5.6mm Galve Wire in Coils on January 8, 2026. Achieved 2,335 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 4,750 units of 5.6mm Galve Wire in Coils on January 5, 2026. Achieved 2,390 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 2,180 units of 5.6mm Galve Wire in Coils on January 6, 2026. Achieved 2,335 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 2,374 units of 5.6mm Galve Wire in Coils on January 9, 2026. Achieved 2,374 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 9,730 units of 5.6mm Galve Wire in Coils on January 10, 2026. Achieved 7,275 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 9,682 units of 5.6mm Galve Wire in Coils on January 11, 2026. Achieved 9,682 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 9,677 units of 5.6mm Galve Wire in Coils on January 12, 2026. Achieved 9,677 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,232 units of 5.6mm Galve Wire in Coils on January 13, 2026. Achieved 9,320 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,281 units of 5.6mm Galve Wire in Coils on January 14, 2026. Achieved 9,510 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,270 units of 5.6mm Galve Wire in Coils on January 15, 2026. Achieved 9,620 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 4,830 units of 5.6mm Galve Wire in Coils on January 16, 2026. Achieved 7,205 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 9,690 units of 5.6mm Galve Wire in Coils on January 17, 2026. Achieved 9,656 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,266 units of 5.6mm Galve Wire in Coils on January 18, 2026. Achieved 9,405 units with 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,267 units of 5.6mm Galve Wire in Coils on January 19, 2026. Achieved 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 9,690 units of New Sinker replacement on January 20, 2026. Achieved 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 9,677 units of New Sinker replacement on January 21, 2026. Achieved 98.5% yield rate.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 2,100 units of unspecified product on January 23, 2026. Achieved 9590 units on the same day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 7,250 units of unspecified product on January 24, 2026. Achieved 7,250 units on the same day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 4,984 units of unspecified product on January 25, 2026. Achieved 4,984 units on the same day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced 9,590 units of unspecified product on January 25, 2026. Achieved 4,984 units on the same day.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced unspecified quantity of unspecified product on January 26, 2026.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced unspecified quantity of unspecified product on January 27, 2026.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced unspecified quantity of unspecified product on January 28, 2026.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced unspecified quantity of unspecified product on January 29, 2026.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced unspecified quantity of unspecified product on January 30, 2026.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced unspecified quantity of unspecified product on January 31, 2026.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced unspecified quantity of unspecified product on February 1, 2026.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced unspecified quantity of unspecified product on February 2, 2026.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced unspecified quantity of unspecified product on February 3, 2026.
+
+[Source: Daily Production Report v1.xlsm_Galv Line 3.csv | Type: production_record]
+Galv Line 3 produced unspecified quantity of unspecified product on February 4, 2026.

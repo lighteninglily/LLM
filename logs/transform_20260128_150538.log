@@ -1,0 +1,156 @@
+2026-01-28 15:05:38,884 [WARNING] File not found: Daily Production Report v1.xlsm_Clifford CLW12.csv
+2026-01-28 15:05:38,884 [WARNING] File not found: ASW - Ross - Open POs.csv
+2026-01-28 15:05:38,884 [WARNING] File not found: Daily Production Report v1.xlsm_Clifford CLW12-2.csv
+2026-01-28 15:05:38,884 [WARNING] File not found: Daily Production Report v1.xlsm_Annld Wire.csv
+2026-01-28 15:05:38,884 [WARNING] File not found: Daily Production Report v1.xlsm_Ausro.csv
+2026-01-28 15:05:38,884 [WARNING] File not found: ASW - DW - Open Sales Orders.csv
+2026-01-28 15:05:38,884 [WARNING] File not found: Daily Production Report v1.xlsm_Drawing GZ2.csv
+2026-01-28 15:05:38,884 [WARNING] File not found: Daily Production Report v1.xlsm_FLOK Weld.csv
+2026-01-28 15:05:38,884 [WARNING] File not found: Daily Production Report v1.xlsm_Galv Line 3.csv
+2026-01-28 15:05:38,884 [WARNING] File not found: Daily Production Report v1.xlsm_Galv Line 2.csv
+2026-01-28 15:05:38,884 [WARNING] File not found: Daily Production Report v1.xlsm_Drawing GZ1.csv
+2026-01-28 15:05:38,884 [WARNING] File not found: Daily Production Report v1.xlsm_Drawing GZ3.csv
+2026-01-28 15:05:38,884 [WARNING] File not found: Daily Production Report v1.xlsm_Galv Line 1.csv
+2026-01-28 15:05:38,884 [WARNING] File not found: Daily Production Report v1.xlsm_Clifford MWPA.csv
+2026-01-28 15:05:38,884 [WARNING] File not found: Daily Production Report v1.xlsm_Mesh Trim.csv
+2026-01-28 15:05:38,884 [WARNING] File not found: Daily Production Report v1.xlsm_Clifford MMW.csv
+2026-01-28 15:05:38,892 [INFO]   Read from 1 sheet(s)
+2026-01-28 15:05:38,892 [INFO] Read 119 records from Inv Move Feb 25.xls
+2026-01-28 15:05:38,892 [INFO]   Normalized entity names for 119 records
+2026-01-28 15:05:38,893 [INFO]   Analyzing file schema...
+2026-01-28 15:05:40,530 [INFO]   File analysis: sales_order - 4 entities
+2026-01-28 15:05:40,531 [INFO] Transforming Inv Move Feb 25.xls: 119 records in 6 batches
+2026-01-28 15:06:39,249 [INFO]   Wrote 111 paragraphs to Inv Move Feb 25.txt
+2026-01-28 15:06:39,252 [INFO]   Read from 1 sheet(s)
+2026-01-28 15:06:39,252 [INFO] Read 149 records from Inv Move July 24.xls
+2026-01-28 15:06:39,252 [INFO]   Normalized entity names for 149 records
+2026-01-28 15:06:39,252 [INFO]   Analyzing file schema...
+2026-01-28 15:06:41,002 [INFO]   File analysis: sales_order - 4 entities
+2026-01-28 15:06:41,003 [INFO] Transforming Inv Move July 24.xls: 149 records in 8 batches
+2026-01-28 15:08:07,522 [INFO]   Wrote 154 paragraphs to Inv Move July 24.txt
+2026-01-28 15:08:07,527 [INFO]   Read from 1 sheet(s)
+2026-01-28 15:08:07,527 [INFO] Read 131 records from Inv Move June 25.xls
+2026-01-28 15:08:07,528 [INFO]   Normalized entity names for 131 records
+2026-01-28 15:08:07,528 [INFO]   Analyzing file schema...
+2026-01-28 15:08:09,032 [INFO]   File analysis: sales_order - 4 entities
+2026-01-28 15:08:09,032 [INFO] Transforming Inv Move June 25.xls: 131 records in 7 batches
+2026-01-28 15:09:28,085 [INFO]   Wrote 135 paragraphs to Inv Move June 25.txt
+2026-01-28 15:09:28,088 [INFO] Read 265 records from Daily Production Report v1.xlsm_Roll Form.csv
+2026-01-28 15:09:28,089 [INFO]   Normalized entity names for 265 records
+2026-01-28 15:09:28,089 [INFO]   Analyzing file schema...
+2026-01-28 15:09:32,370 [INFO]   File analysis: production_report - 10 entities
+2026-01-28 15:09:32,371 [INFO] Transforming Daily Production Report v1.xlsm_Roll Form.csv: 265 records in 14 batches
+2026-01-28 15:13:53,536 [INFO]   Wrote 476 paragraphs to Daily Production Report v1.xlsm_Roll Form.txt
+2026-01-28 15:13:53,540 [INFO] Read 358 records from Daily Production Report v1.xlsm_Schlatter PG28.csv
+2026-01-28 15:13:53,545 [INFO]   Normalized entity names for 358 records
+2026-01-28 15:13:53,545 [INFO]   Analyzing file schema...
+2026-01-28 15:13:55,688 [INFO]   File analysis: production_report - 5 entities
+2026-01-28 15:13:55,688 [INFO] Transforming Daily Production Report v1.xlsm_Schlatter PG28.csv: 358 records in 18 batches
+2026-01-28 15:17:53,521 [INFO]   Wrote 336 paragraphs to Daily Production Report v1.xlsm_Schlatter PG28.txt
+2026-01-28 15:17:53,524 [INFO]   Read from 1 sheet(s)
+2026-01-28 15:17:53,524 [INFO] Read 130 records from Inv Move Apr 25.xls
+2026-01-28 15:17:53,524 [INFO]   Normalized entity names for 130 records
+2026-01-28 15:17:53,525 [INFO]   Analyzing file schema...
+2026-01-28 15:17:55,164 [INFO]   File analysis: sales_order - 4 entities
+2026-01-28 15:17:55,164 [INFO] Transforming Inv Move Apr 25.xls: 130 records in 7 batches
+2026-01-28 15:19:01,372 [INFO]   Wrote 119 paragraphs to Inv Move Apr 25.txt
+2026-01-28 15:19:01,375 [INFO]   Read from 1 sheet(s)
+2026-01-28 15:19:01,375 [INFO] Read 141 records from Inv Move Nov 24.xls
+2026-01-28 15:19:01,376 [INFO]   Normalized entity names for 141 records
+2026-01-28 15:19:01,376 [INFO]   Analyzing file schema...
+2026-01-28 15:19:03,112 [INFO]   File analysis: sales_order - 4 entities
+2026-01-28 15:19:03,113 [INFO] Transforming Inv Move Nov 24.xls: 141 records in 8 batches
+2026-01-28 15:20:16,904 [INFO]   Wrote 132 paragraphs to Inv Move Nov 24.txt
+2026-01-28 15:20:16,907 [INFO]   Read from 1 sheet(s)
+2026-01-28 15:20:16,907 [INFO] Read 130 records from Inv Move Mar 25.xls
+2026-01-28 15:20:16,907 [INFO]   Normalized entity names for 130 records
+2026-01-28 15:20:16,907 [INFO]   Analyzing file schema...
+2026-01-28 15:20:18,507 [INFO]   File analysis: sales_order - 4 entities
+2026-01-28 15:20:18,507 [INFO] Transforming Inv Move Mar 25.xls: 130 records in 7 batches
+2026-01-28 15:22:10,199 [INFO]   Wrote 208 paragraphs to Inv Move Mar 25.txt
+2026-01-28 15:22:10,202 [INFO] Read 249 records from Daily Production Report v1.xlsm_Schlatter PG12.csv
+2026-01-28 15:22:10,204 [INFO]   Normalized entity names for 249 records
+2026-01-28 15:22:10,204 [INFO]   Analyzing file schema...
+2026-01-28 15:22:11,797 [INFO]   File analysis: production_report - 3 entities
+2026-01-28 15:22:11,797 [INFO] Transforming Daily Production Report v1.xlsm_Schlatter PG12.csv: 249 records in 13 batches
+2026-01-28 15:25:32,462 [INFO]   Wrote 249 paragraphs to Daily Production Report v1.xlsm_Schlatter PG12.txt
+2026-01-28 15:25:32,465 [INFO]   Read from 1 sheet(s)
+2026-01-28 15:25:32,466 [INFO] Read 169 records from Inv Move Aug 24.xls
+2026-01-28 15:25:32,466 [INFO]   Normalized entity names for 169 records
+2026-01-28 15:25:32,466 [INFO]   Analyzing file schema...
+2026-01-28 15:25:34,711 [INFO]   File analysis: sales_order - 6 entities
+2026-01-28 15:25:34,711 [INFO] Transforming Inv Move Aug 24.xls: 169 records in 9 batches
+2026-01-28 15:27:13,692 [INFO]   Wrote 168 paragraphs to Inv Move Aug 24.txt
+2026-01-28 15:27:13,702 [INFO] Read 838 records from Mine_Forecast.xlsx_Forecast_Data.csv
+2026-01-28 15:27:13,713 [INFO]   Normalized entity names for 838 records
+2026-01-28 15:27:13,713 [INFO]   Analyzing file schema...
+2026-01-28 15:27:19,693 [INFO]   File analysis: forecast - 9 entities
+2026-01-28 15:27:19,693 [INFO] Transforming Mine_Forecast.xlsx_Forecast_Data.csv: 838 records in 42 batches
+2026-01-28 15:40:42,977 [INFO]   Splitting into 2 files (max 500 records each)
+2026-01-28 15:40:42,977 [INFO]   Wrote 500 paragraphs to Mine_Forecast.xlsx_Forecast_Data_001.txt
+2026-01-28 15:40:42,977 [INFO]   Wrote 452 paragraphs to Mine_Forecast.xlsx_Forecast_Data_002.txt
+2026-01-28 15:40:42,979 [INFO] Read 255 records from Production Sheet.xlsm_Production C2.csv
+2026-01-28 15:40:42,980 [INFO]   Normalized entity names for 255 records
+2026-01-28 15:40:42,980 [INFO]   Analyzing file schema...
+2026-01-28 15:40:44,314 [INFO]   File analysis: production_report - 3 entities
+2026-01-28 15:40:44,315 [INFO] Transforming Production Sheet.xlsm_Production C2.csv: 255 records in 13 batches
+2026-01-28 15:43:00,484 [INFO]   Wrote 254 paragraphs to Production Sheet.xlsm_Production C2.txt
+2026-01-28 15:43:00,523 [INFO]   Read from 15 sheet(s)
+2026-01-28 15:43:00,523 [INFO] Read 2543 records from Inv Move July24-june25.xls
+2026-01-28 15:43:00,541 [INFO]   Normalized entity names for 2543 records
+2026-01-28 15:43:00,541 [INFO]   Analyzing file schema...
+2026-01-28 15:43:02,199 [INFO]   File analysis: sales_order - 4 entities
+2026-01-28 15:43:02,199 [INFO] Transforming Inv Move July24-june25.xls: 2543 records in 128 batches
+2026-01-28 16:07:07,748 [INFO]   Splitting into 5 files (max 500 records each)
+2026-01-28 16:07:07,748 [INFO]   Wrote 500 paragraphs to Inv Move July24-june25_001.txt
+2026-01-28 16:07:07,748 [INFO]   Wrote 500 paragraphs to Inv Move July24-june25_002.txt
+2026-01-28 16:07:07,749 [INFO]   Wrote 500 paragraphs to Inv Move July24-june25_003.txt
+2026-01-28 16:07:07,749 [INFO]   Wrote 500 paragraphs to Inv Move July24-june25_004.txt
+2026-01-28 16:07:07,749 [INFO]   Wrote 444 paragraphs to Inv Move July24-june25_005.txt
+2026-01-28 16:07:07,752 [INFO]   Read from 1 sheet(s)
+2026-01-28 16:07:07,752 [INFO] Read 159 records from Inv Move May 25.xls
+2026-01-28 16:07:07,753 [INFO]   Normalized entity names for 159 records
+2026-01-28 16:07:07,753 [INFO]   Analyzing file schema...
+2026-01-28 16:07:09,498 [INFO]   File analysis: sales_order - 4 entities
+2026-01-28 16:07:09,499 [INFO] Transforming Inv Move May 25.xls: 159 records in 8 batches
+2026-01-28 16:08:28,554 [INFO]   Wrote 145 paragraphs to Inv Move May 25.txt
+2026-01-28 16:08:28,557 [INFO]   Read from 1 sheet(s)
+2026-01-28 16:08:28,557 [INFO] Read 165 records from Inv Move Sept 24.xls
+2026-01-28 16:08:28,558 [INFO]   Normalized entity names for 165 records
+2026-01-28 16:08:28,558 [INFO]   Analyzing file schema...
+2026-01-28 16:08:30,203 [INFO]   File analysis: sales_order - 4 entities
+2026-01-28 16:08:30,203 [INFO] Transforming Inv Move Sept 24.xls: 165 records in 9 batches
+2026-01-28 16:09:55,810 [INFO]   Wrote 156 paragraphs to Inv Move Sept 24.txt
+2026-01-28 16:09:55,816 [INFO] Read 391 records from Orders Booking Sheet v2.xlsm_DMW Orders.csv
+2026-01-28 16:09:55,822 [INFO]   Normalized entity names for 391 records
+2026-01-28 16:09:55,822 [INFO]   Analyzing file schema...
+2026-01-28 16:09:57,860 [INFO]   File analysis: sales_order - 4 entities
+2026-01-28 16:09:57,860 [INFO] Transforming Orders Booking Sheet v2.xlsm_DMW Orders.csv: 391 records in 20 batches
+2026-01-28 16:14:43,671 [INFO]   Wrote 482 paragraphs to Orders Booking Sheet v2.xlsm_DMW Orders.txt
+2026-01-28 16:14:43,673 [INFO]   Read from 1 sheet(s)
+2026-01-28 16:14:43,673 [INFO] Read 105 records from Inv Move Dec 24.xls
+2026-01-28 16:14:43,674 [INFO]   Normalized entity names for 105 records
+2026-01-28 16:14:43,674 [INFO]   Analyzing file schema...
+2026-01-28 16:14:45,421 [INFO]   File analysis: sales_order - 4 entities
+2026-01-28 16:14:45,422 [INFO] Transforming Inv Move Dec 24.xls: 105 records in 6 batches
+2026-01-28 16:15:37,123 [INFO]   Wrote 97 paragraphs to Inv Move Dec 24.txt
+2026-01-28 16:15:37,126 [INFO]   Read from 1 sheet(s)
+2026-01-28 16:15:37,126 [INFO] Read 199 records from Inv Move Oct 24.xls
+2026-01-28 16:15:37,127 [INFO]   Normalized entity names for 199 records
+2026-01-28 16:15:37,127 [INFO]   Analyzing file schema...
+2026-01-28 16:15:38,880 [INFO]   File analysis: sales_order - 4 entities
+2026-01-28 16:15:38,880 [INFO] Transforming Inv Move Oct 24.xls: 199 records in 10 batches
+2026-01-28 16:17:35,214 [INFO]   Wrote 190 paragraphs to Inv Move Oct 24.txt
+2026-01-28 16:17:35,216 [INFO] Read 532 records from Production Sheet.xlsm_Production Pittini.csv
+2026-01-28 16:17:35,218 [INFO]   Normalized entity names for 532 records
+2026-01-28 16:17:35,218 [INFO]   Analyzing file schema...
+2026-01-28 16:17:36,633 [INFO]   File analysis: production_report - 3 entities
+2026-01-28 16:17:36,633 [INFO] Transforming Production Sheet.xlsm_Production Pittini.csv: 532 records in 27 batches
+2026-01-28 16:24:42,216 [INFO]   Wrote 467 paragraphs to Production Sheet.xlsm_Production Pittini.txt
+2026-01-28 16:24:42,219 [INFO]   Read from 1 sheet(s)
+2026-01-28 16:24:42,219 [INFO] Read 195 records from Inv Move Jan 25.xls
+2026-01-28 16:24:42,220 [INFO]   Normalized entity names for 195 records
+2026-01-28 16:24:42,220 [INFO]   Analyzing file schema...
+2026-01-28 16:24:43,823 [INFO]   File analysis: sales_order - 4 entities
+2026-01-28 16:24:43,823 [INFO] Transforming Inv Move Jan 25.xls: 195 records in 10 batches
+2026-01-28 16:26:34,547 [INFO]   Wrote 188 paragraphs to Inv Move Jan 25.txt

@@ -1,0 +1,999 @@
+M5 - CSPD Paddington Gold warehouse, located in Australia, maintains SL 41 Square Mesh 6X2.4R500SL41 (Part Code: SL41) with zero inventory levels and status code QOH.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, stores 100x100x3600x2400x5.6 Ind Mesh IMG5H-44-3624 (Part Code: SM5H36241010FG) with 500 units in stock and status code CONFIN.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, keeps DNU (Description Not Updated) steel mesh product CCP40241010056G (Part Code: SM5H40241010FG) with zero inventory levels and status code QOH.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, maintains 100x100x5000x1600x5.6 4mm Galv IMG5H4-44-5016-WLC (Part Code: SM5H501610104G) with zero inventory levels and status code QOH.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, stores DNU (Description Not Updated) steel mesh product CCP402410105 (Part Code: SMB4024101005) with zero inventory levels and status code QOH.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, keeps 200x200x1800x1100x5mm LDMesh IMB5-88-1811 (Part Code: SMB1811202005) with zero inventory levels and status code QOH.
+
+M5 - CSPD Paddington Gold warehouse, located in London, holds steel mesh parts including SMB4517101005, described as 100x100x4500x1700x5mm Bright MIMB5-44-4517. The inventory status indicates zero units at all levels, with the current quantity available being zero.
+
+M5 - CSPD Paddington Gold warehouse, located in London, holds steel mesh parts including SMB4524101005, described as 100x100x4500x2400x5mm Black IMB5-44-4524. The inventory status indicates zero units at all levels, with the current quantity available being zero.
+
+M5 - CSPD Paddington Gold warehouse, located in London, holds steel mesh parts including SMB4814100505, described as 100x100x4800x1400x4x5 IMB45-44-4814-CCC. The inventory status indicates zero units at all levels, with the current quantity available being zero.
+
+M5 - CSPD Paddington Gold warehouse, located in London, holds steel mesh parts including SMB4814101505, described as 100x150x4800x1400x5mm IMB5-46-4814-MCO. The inventory status indicates zero units at all levels, with the current quantity available being zero.
+
+M5 - CSPD Paddington Gold warehouse, located in London, holds steel mesh parts including SMB4H45171010, described as 100x100x4500x1700x4.24mm Black IMB4H-44-4517. The inventory status indicates zero units at all levels, with the current quantity available being zero.
+
+M5 - CSPD Paddington Gold warehouse, located in London, holds steel mesh parts including SMB4H50241010, described as 100x100x5000x2400x4.50 IMB4H-44-5024. The inventory status indicates zero units at all levels, with the current quantity available being zero.
+
+M5 - CSPD Paddington Gold warehouse, located in London, holds steel mesh parts including SMB5002100505, described as DNU - see SMB5002101004. The inventory status indicates zero units at all levels, with the current quantity available being zero.
+
+M5 - CSPD Paddington Gold warehouse, located in London, holds steel mesh parts including SMB5002101004, described as 100x50x25x5000x250x4x5 IMB45-421-5002-DEN. The inventory status indicates zero units at all levels, with the current quantity available being zero.
+
+M5 - CSPD Paddington Gold warehouse, located in London, holds steel mesh parts including SMB5011101005, described as 100x100x5000x1100x5mm - DWAI IMB5-44-5011-DWA. The inventory status indicates zero units at all levels, with the current quantity available being zero.
+
+M5 - CSPD Paddington Gold warehouse, located in London, holds steel mesh parts including SMB5014101005, described as DNU - see CC5014101005. The inventory status indicates zero units at all levels, with the current quantity available being zero.
+
+M5 - CSPD Paddington Gold warehouse, located in London, holds steel mesh parts including SMB5016101005, described as 100x100x5000x1600x5mm - JNAI IMB5-44-5016-JNA. The inventory status indicates zero units at all levels, with the current quantity available being zero.
+
+M5 - CSPD Paddington Gold warehouse, located in London, holds steel mesh parts including SMB5016101505, described as DNU - see SMB5016151005S. The inventory status indicates zero units at all levels, with the current quantity available being zero.
+
+M5 - CSPD Paddington Gold warehouse, located in London, holds steel mesh parts including SMB5112151504, described as 150x150x5100x1150x4x5 - DEN2 IMB45-66-5111-DEN2. The inventory status indicates zero units at all levels, with the current quantity available being zero.
+
+M5 - CSPD Paddington Gold warehouse, located in London, holds steel mesh parts including SMB5114151005, described as DNU - see SMB5113515105S. The inventory status indicates zero units at all levels, with the current quantity available being zero.
+
+M5 - CSPD Paddington Gold warehouse, located in London, holds steel mesh parts including SMB5117151504, described as DNU - see SMB5118151505. The inventory status indicates zero units at all levels, with the current quantity available being zero.
+
+M5 - CSPD Paddington Gold warehouse, located in London, holds steel mesh parts including SMB5118151505, described as 150x150x5100x1700x4x5 IMB45-66-5117-DEN. The inventory status indicates zero units at all levels, with the current quantity available being zero.
+
+M5 - CSPD Paddington Gold warehouse, located in London, holds steel mesh parts including SMB5616151005, described as 100x100x5600x1600x5mm Ind Mesh IMB5-44-5616. The inventory status indicates zero units at all levels, with the current quantity available being zero.
+
+M5 - CSPD Paddington Gold warehouse, located in London, holds steel mesh parts including SMB5H482410100, described as 100x100x4800x2400x5.6mm Ind Me IMB5H-44-4824. The inventory status indicates zero units at all levels, with the current quantity available being zero.
+
+M5 - CSPD Paddington Gold warehouse, located in London, holds steel mesh parts including SMB5H50171015, described as DNU - see SMB5018101005. The inventory status indicates zero units at all levels, with the current quantity available being zero.
+
+M5 - CSPD Paddington Gold warehouse, located in London, holds steel mesh parts including SMB6012101505, described as 100x150x6000x1200x4x5 Ind Mesh IMB45-46-6012-DPI. The inventory status indicates zero units at all levels, with the current quantity available being zero.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, holds steel mesh products including SMBS3003101008, a 100x100x3000x300x8 Black Strap with part description IMB8-44-3003. The inventory status indicates zero units available across all stages of the supply chain.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, stores steel mesh products such as SMBS6003101008, a 100x100x6000x300x8mm Mesh with part description IMB8-44-6003. The inventory status shows zero units available across all stages of the supply chain.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, keeps track of steel mesh products including SMC303H1200510G, a 50x100x3.15x1200x30m IMG3H-24-1200C30 with part description. The inventory status indicates zero units available across all stages of the supply chain.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, maintains steel mesh products such as SMC603H1200510G, a 50x100x3.15x1200x60m IMG3H-24-1200C60 with part description. The inventory status shows zero units available across all stages of the supply chain.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, has steel mesh products like SMESH1200850505, a DNU product with part description referencing SMESH300011704. The inventory status indicates zero units available across all stages of the supply chain.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, stores steel mesh products including SMF11090505004G, a 50x50x1150x950x4mm Weld Mesh with part description IMG4-22-1109. The inventory status shows zero units available across all stages of the supply chain.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, keeps track of steel mesh products such as SMF12080505005G, a 50x50x1200x800x5mm Ind Mesh with part description IMG5-22-1208. The inventory status indicates zero units available across all stages of the supply chain.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, maintains steel mesh products including SMF1614101005, a DNU product with part description referencing SMF1614101004. The inventory status shows zero units available across all stages of the supply chain.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, has steel mesh products like SMF17121001004G, a 100x100x1700x1200x4mm Ind Mesh with part description IMG4-44-1712-WLC. The inventory status indicates zero units available across all stages of the supply chain.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, stores steel mesh products including SMF1814101004, a 100x150x1800x1400x4mm DME with part description IMB4-46-1814-DME. The inventory status shows zero units available across all stages of the supply chain.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, keeps track of steel mesh products such as SMF20120505004G, a 50x50x2000x1200x4mm Ind Mesh with part description IMG4-22-2012. The inventory status indicates zero units available across all stages of the supply chain.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, maintains steel mesh products including SMF20120507504G, a 50x75x2000x1200x4mm Ind Mesh with part description IMG4-23-2012. The inventory status shows zero units available across all stages of the supply chain.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, has steel mesh products like SMF20151001004G, a DNU product with part description referencing CC2015101004G. The inventory status indicates zero units available across all stages of the supply chain.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, stores steel mesh products including SMF23110102005G, a 100x200x2.3x1.1x5mm Weld Mesh with part description IMG5-48-2311. The inventory status shows zero units available across all stages of the supply chain.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, keeps track of steel mesh products such as SMF24090505004G, a 50x50x2350x950x4mm Weld Mesh with part description IMG4-22-2309. The inventory status indicates zero units available across all stages of the supply chain.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, maintains steel mesh products including SMF24120505004G, a 50x50x2400x1200x4mm Ind Mesh with part description IMG4-22-2412. The inventory status shows zero units available across all stages of the supply chain.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, has steel mesh products like SMF24120505005G, a 50x50x2400x1200x5 Ind Mesh with part description IMG5-22-2412. The inventory status indicates zero units available across all stages of the supply chain.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, stores steel mesh products including SMF24120507504G, a 50x75x2400x1200x4mm Ind Mesh with part description IMG4-23-2412. The inventory status shows zero units available across all stages of the supply chain.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, keeps track of steel mesh products such as SMF24120575005G, a 50x75x2400x1200x5 Ind Mesh with part description IMG5-23-2412. The inventory status indicates zero units available across all stages of the supply chain.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, maintains steel mesh products including SMF24120755004G, a 75x50x2400x1200x4mm Ind Mesh with part description IMG4-32-2412. The inventory status shows zero units available across all stages of the supply chain.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, has steel mesh products including SMF24120755005G, described as 75x50x2400x1200x5m Ind MeshIMG5-32-2412. The inventory status indicates zero units available across all metrics such as picked, despatched, reserved, awaiting confirm out, unconfirmed, and available.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, has steel mesh products including SMF24120757504G, described as 75x75x2400x1200x4mm Ind MeshIMG4-33-2412. The inventory status indicates zero units available across all metrics such as picked, despatched, reserved, awaiting confirm out, unconfirmed, and available.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, has steel mesh products including SMF24121001004G, described as 100x100x2400x1200x4mm Gal MeshIMG4-44-2412. The inventory status indicates zero units available across all metrics such as picked, despatched, reserved, awaiting confirm out, unconfirmed, and available.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, has steel mesh products including SMF24121001005G, described as 100x100x2400x1200x5mm Ind MeshIMG5-44-2412. The inventory status indicates zero units available across all metrics such as picked, despatched, reserved, awaiting confirm out, unconfirmed, and available.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, has steel mesh products including SMF241575504, described as 50x75x2400x1500x4 Ind MeshIMB4-23-2415-RTF. The inventory status indicates zero units available across all metrics such as picked, despatched, reserved, awaiting confirm out, unconfirmed, and available.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, has steel mesh products including SMF2420101003, described as 100x100x2400x2000x3.15 Ind MesIMB3H-44-2420-DCLA. The inventory status indicates zero units available across all metrics such as picked, despatched, reserved, awaiting confirm out, unconfirmed, and available.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, has steel mesh products including SMF2512040404G, described as 40x40x2500x1200x4mm Ind MeshIMG4-1H1H-2512. The inventory status indicates zero units available across all metrics such as picked, despatched, reserved, awaiting confirm out, unconfirmed, and available.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, has steel mesh products including SMF2618101003, described as 100x100x2600x1800x3.15 Ind MesIMB3H-44-2618-DAIR. The inventory status indicates zero units available across all metrics such as picked, despatched, reserved, awaiting confirm out, unconfirmed, and available.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, has steel mesh products including SMF29110102005G, described as 100x200x2.9x1.1x 5mm Weld meshIMG5-48-2911. The inventory status indicates zero units available across all metrics such as picked, despatched, reserved, awaiting confirm out, unconfirmed, and available.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, has steel mesh products including SMF2H201202525G, described as 25x25x2000x1200x2.5mm Ind meshIMG2H-11-2012. The inventory status indicates zero units available across all metrics such as picked, despatched, reserved, awaiting confirm out, unconfirmed, and available.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, has steel mesh products including SMF2H241202525G, described as 25x25x2400x1200x2.5mm Ind MeshIMG2H-11-2412. The inventory status indicates zero units available across all metrics such as picked, despatched, reserved, awaiting confirm out, unconfirmed, and available.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, has steel mesh products including SMF2H302402525G, described as 25x25x3000x2400x2.5mm Ind MeshIMG2H-11-3024. The inventory status indicates zero units available across all metrics such as picked, despatched, reserved, awaiting confirm out, unconfirmed, and available.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, has steel mesh products including SMF30121501004G, described as 150x100x3000x1200x4mm Gal MeshIMG4-46-3012-DPI. The inventory status indicates zero units available across all metrics such as picked, despatched, reserved, awaiting confirm out, unconfirmed, and available.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, has steel mesh products including SMF30240505004G, described as 50x50x3000x2400x4mm Weld MeshIMG4-22-3024. The inventory status indicates zero units available across all metrics such as picked, despatched, reserved, awaiting confirm out, unconfirmed, and available.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, has steel mesh products including SMF30240505005G, described as 50x50x3000x2400x5mm Weld meshIMG5-22-3024. The inventory status indicates zero units available across all metrics such as picked, despatched, reserved, awaiting confirm out, unconfirmed, and available.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, has steel mesh products including SMF30240507504G, described as 50x75x3000x2400x4mm Ind MeshIMG4-23-3024. The inventory status indicates zero units available across all metrics such as picked, despatched, reserved, awaiting confirm out, unconfirmed, and available.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, has steel mesh products including SMF30240575005G, described as 50x75x3000x2400x5 Ind MeshIMG5-23-3024. The inventory status indicates zero units available across all metrics such as picked, despatched, reserved, awaiting confirm out, unconfirmed, and available.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, has steel mesh products including SMF30240755005G, described as 75x50x3000x2400x5mm Ind MeshIMG5-32-3024. The inventory status indicates zero units available across all metrics such as picked, despatched, reserved, awaiting confirm out, unconfirmed, and available.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, has steel mesh products including SMF30241001005G, described as 100x100x3000x2400x5 Ind MeshIMG5-44-3024. The inventory status indicates zero units available across all metrics such as picked, despatched, reserved, awaiting confirm out, unconfirmed, and available.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, has steel mesh products including SMF35110102005G, described as 100x200x3.5x1.1x 5mm Weld MeshIMG5-48-3511. The inventory status indicates zero units available across all metrics such as picked, despatched, reserved, awaiting confirm out, unconfirmed, and available.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, holds steel mesh products. Part code SMF3H20084040G describes a 40x40x2020x865x3.15mm galvanized steel mesh, with an inventory count of 0 units.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, holds steel mesh products. Part code SMF3H20125050G describes a 50x50x2000x1200x3.5mm indented mesh, with an inventory count of 0 units.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, holds steel mesh products. Part code SMF3H24121010G describes a 100x100x2400x1200x3.15mm galvanized steel mesh, with an inventory count of 0 units.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, holds steel mesh products. Part code SMF3H24122525G describes a 25x25x2400x1200x3.15mm indented mesh, with an inventory count of 0 units.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, holds steel mesh products. Part code SMF3H24122550G describes a 25x50x2400x1200x3.15mm indented mesh, with an inventory count of 0 units.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, holds steel mesh products. Part code SMF3H24125025G describes a 50x25x2400x1200x3.15mm indented mesh, with an inventory count of 0 units.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, holds steel mesh products. Part code SMF3H24125050G describes a 50x50x2400x1200x3.15mm indented mesh, with an inventory count of 0 units.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, holds steel mesh products. Part code SMF3H24125075G describes a 50x75x2400x1200x3.15mm indented mesh, with an inventory count of 0 units.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, holds steel mesh products. Part code SMF3H24157575G describes a 75x75x2400x1500x3.15mm thin-film heat (TFH) mesh, with an inventory count of 0 units.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, holds steel mesh products. Part code SMF3H24171010G describes a 100x100x2400x1700x3.15mm indented mesh, with an inventory count of 0 units.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, holds steel mesh products. Part code SMF3H25267575G describes a 75x75x2500x1600x3.15mm mesh, with an inventory count of 0 units.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, holds steel mesh products. Part code SMF3H30242525G describes a 25x25x3000x2400x3.15mm indented mesh, with an inventory count of 0 units.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, holds steel mesh products. Part code SMF3H30242550G describes a 25x50x3000x2400x3.15mm indented mesh, with an inventory count of 0 units.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, holds steel mesh products. Part code SMF3H30245025G describes a 50x25x3000x2400x3.15mm indented mesh, with an inventory count of 0 units.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, holds steel mesh products. Part code SMF3H30245050G describes a 50x50x3000x2400x3.15mm indented mesh, with an inventory count of 0 units.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, holds steel mesh products. Part code SMF3H30245075G describes a 50x75x3000x2400x3.15mm indented mesh, with an inventory count of 0 units.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, holds steel mesh products. Part code SMF3H44155050G describes a 50x50x4400x1500x3.15mm indented mesh, with an inventory count of 0 units.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, holds steel mesh products. Part code SMF4024505004G describes a 50x50x4000x2000x4mm galvanized mesh, with an inventory count of 0 units.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, holds steel mesh products. Part code SMF41110102005G describes a 100x200x4.1x1.1x5mm welded mesh, with an inventory count of 0 units.
+
+M5 - CSPD Paddington Gold warehouse, located in Australia, holds steel mesh products. Part code SMF45121000504G describes a 100x50x4500x1200x4mm indented mesh, with an inventory count of 0 units.
+
+M5 - CSPD Paddington Gold warehouse, located in the United Kingdom, holds steel mesh products. The warehouse contains part code SMF45121001005G, described as 100x100x4500x1200 Ind mesh, with an inventory status of QOH (Quantity On Hand), and zero units in all tracked quantities.
+
+M5 - CSPD Paddington Gold warehouse also stores part code SMF45281010056G, which is 100x100x4500x2800x5.6 Ind mesh, under the same inventory conditions.
+
+Part code SMF46110102005G, described as 100x200x4.6x1.1x5mm Weld Mesh, is present in M5 - CSPD Paddington Gold warehouse, with inventory status QOH and zero units across all tracked quantities.
+
+The warehouse includes part code SMF46150102005G, which is 100x200x4600x1500 Ind mesh, under similar inventory conditions.
+
+Part code SMF4814101004, described as MESH 100X100X4800X1400X4MM BLACK, is stored in M5 - CSPD Paddington Gold warehouse, with inventory status QOH and zero units in all tracked quantities.
+
+SMF48150102005G, part code, is 100x200x4750x1100 Ind mesh, and it shares the same inventory status and zero units in all tracked quantities.
+
+Part code SMF48241010056G, with a description of DNU- see CCP48241010056G, is present in M5 - CSPD Paddington Gold warehouse, with inventory status QOH and zero units in all tracked quantities.
+
+SMF50241010056G, part code, has a description of DNU- see CCP50241010056G, and it is stored in M5 - CSPD Paddington Gold warehouse, with inventory status QOH and zero units in all tracked quantities.
+
+Part code SMF55H50171015G, with a description of DNU- see SMB5018101005G, is present in M5 - CSPD Paddington Gold warehouse, with inventory status QOH and zero units in all tracked quantities.
+
+SMF5H240301010G, part code, is 100x100x2400x300x5.6, and it is stored in M5 - CSPD Paddington Gold warehouse, with inventory status QOH and zero units in all tracked quantities.
+
+Part code SMF5H241201010G, described as 100x100x2400x1200x5.6 Ind mesh, is present in M5 - CSPD Paddington Gold warehouse, with inventory status QOH and zero units in all tracked quantities.
+
+SMF5H242401010G, part code, uses the code CCP24241010056G, and it is stored in M5 - CSPD Paddington Gold warehouse, with inventory status QOH and zero units in all tracked quantities.
+
+Part code SMF5H30241010G, described as 100x100x3000x2400x5.6 Ind mesh, is present in M5 - CSPD Paddington Gold warehouse, with inventory status QOH and zero units in all tracked quantities.
+
+SMF5H352401010G, part code, has a description of DNU- see CCP35241010056G, and it is stored in M5 - CSPD Paddington Gold warehouse, with inventory status QOH and zero units in all tracked quantities.
+
+Part code SMF5H35241010G, described as 100x100x3500x2400x5.6 Ind mesh, is present in M5 - CSPD Paddington Gold warehouse, with inventory status QOH and zero units in all tracked quantities.
+
+SMF5H40241010G, part code, has a description of DNU- see CCP40241010056G, and it is stored in M5 - CSPD Paddington Gold warehouse, with inventory status QOH and zero units in all tracked quantities.
+
+Part code SMF5H45181010G, described as 100x100x4500x1800x5.6 Ind mesh, is present in M5 - CSPD Paddington Gold warehouse, with inventory status QOH and zero units in all tracked quantities.
+
+SMF5H45241010G, part code, has a description of DNU- see CCP45241010056G, and it is stored in M5 - CSPD Paddington Gold warehouse, with inventory status QOH and zero units in all tracked quantities.
+
+Part code SMF5H60151515G, described as 150x150x6000x1500x5.6 Ctl, is present in M5 - CSPD Paddington Gold warehouse, with inventory status QOH and zero units in all tracked quantities.
+
+SMF60121000504G, part code, is 100x50x6000x1200x4mm Ind mesh, and it is stored in M5 - CSPD Paddington Gold warehouse, with inventory status QOH and zero units in all tracked quantities.
+
+M5 - CSPD Paddington Gold warehouse, managed by Company Code 3, stores various steel mesh products. The warehouse holds part codes SMF60121001005G and SMF60150102005G, both described as steel mesh products but with different dimensions and part descriptions. Both parts have an inventory status code of QOH, indicating they are tracked by quantity on hand. There is no inventory level set for either part, and all related quantities such as picked, despatched, reserved, awaiting confirm out, unconfirmed, and available are zero.
+
+Similarly, the warehouse contains part code SROL11005C305G, a 100x150x30mx1100x5 shpyrd coil, and part code SROL1500C305G, a 100x200x1500x30mx5mm shpyrd coil. Both parts have an inventory status code of QOH and no inventory levels set. All related quantities are zero.
+
+Part code SROLL1800C60 represents mesh rolls measuring 1800x60m, stored in the same warehouse. It also has an inventory status code of QOH and no inventory levels set. All related quantities are zero.
+
+The warehouse also stocks part codes SSM2412101004, SSM2412101005, and SSM2412252503, which are steel mesh products with specific dimensions and part descriptions. All these parts have an inventory status code of QOH and no inventory levels set. Related quantities are zero.
+
+Part code SSM2412505003 and SSM2412505004 represent 50x50x3x2400x1200x3 and 50x50x2400x1200x4 steel mesh products, respectively. Both have an inventory status code of QOH and no inventory levels set. Related quantities are zero.
+
+Part code SSM2412505005 is a 50x50x2400x1200x5mm SS316 steel mesh product, also stored in the warehouse. It has an inventory status code of QOH and no inventory levels set. Related quantities are zero.
+
+Part code SSM2H24122525 is another steel mesh product, a 25x25x2400x1200x2.5mm SS316, stored in the same warehouse. It has an inventory status code of QOH and no inventory levels set. Related quantities are zero.
+
+The warehouse also contains part codes SYARD091015C30G, SYARD600910155G, and SYARD601110155G, which are sheepyard and shpyard coil products with specific dimensions and part descriptions. All these parts have an inventory status code of QOH and no inventory levels set. Related quantities are zero.
+
+Parts TCHDRND1 and TCHDRND2 represent heavy duty gate high round posts with different weights and dimensions, stored in the warehouse. They have an inventory status code of QOH and no inventory levels set. Related quantities are zero.
+
+The warehouse also holds part codes TMESH1200C60 and TMESH1550C60, which are tank mesh rolls with specific dimensions and part descriptions. Both parts have an inventory status code of QOH and no inventory levels set. Related quantities are zero.
+
+Lastly, part code VMESH240024024G represents a VEE mesh 2400 long product, stored in the warehouse. It has an inventory status code of QOH and no inventory levels set. Related quantities are zero.
+
+M5 - CSPD Paddington Gold warehouse stocks Truss Girder parts including TG100X9M, TG135X9M, TG180X9M, TG230X9M, and TG270X9M. All parts have an inventory control status of QOH, indicating they are currently in stock. The units of measure are each counted as individual items (EA). Currently, there is no inventory movement recorded for any of these parts.
+
+M6 - CSMJB MJB Industries warehouse manages various mesh products such as BDBOT9423.390, BDTOP9423.390, CCP40241010056G, CCP42241010056G, CCP45241010056G, CCP4824101005, CCP48241010056G, JOS4003B, JOS4003G, JOS5803B, JOS6000B, JOS6003B, JOS6003G, and SMB5414101005. Similar to the previous warehouse, all parts have an inventory control status of QOH, indicating they are currently in stock. The units of measure are each counted as individual items (EA). Currently, there is no inventory movement recorded for any of these parts.
+
+MJB Industries operates at warehouse M6, which is described as M6 - CSMJB MJB INDUSTRIES. The company maintains inventory for mesh products, including MESH RIB 2.20MX1.40M 100X100 APT 4.0MM WIRE IMB4-44-2214-JMOL with part code SMF2214101004. This product has an inventory status of QOH (Quantity On Hand) and is measured in units of EA (each). Currently, there is no stock available for this item.
+
+Similarly, MJB Industries keeps track of another mesh product, MESH RIB 2.40MX1.50M 100X100 APT 3.0/4.0MM WIRE -GIMG34-44-2415-JAS, with part code SMF24151010034G. Like the previous product, it also has an inventory status of QOH and is measured in units of EA. There is no stock available for this item either.
+
+The company also manages inventory for galvanized wire coils, such as 4mm Galv Wire In Coils with part code COILGW4. This product is measured in TONN (tons) and currently has no stock available. Another similar product is P COILGW4 Very High Tensile with part code COILGW4VHT, also measured in TONN and with no stock available.
+
+Galvanized wire in various diameters is also managed, including Galve Wire 5mm with part code COILGW5, measured in TONN and with no stock available. Another variant is 5.55mm Galv Wire In Coils with part code COILGW5.6, also measured in TONN and with no stock available.
+
+Further products include 6.3mm Galv Wire In Coils with part code COILGW6.3, measured in TONN and with no stock available. Additionally, 2.0mm Galfan Wire is available with part code COILZG2, measured in TONN and with no stock available. Another variant is 4.0mm Galfan Wire in Coils with part code COILZG4, also measured in TONN and with no stock available.
+
+Bright wire in coils is also managed, starting with 10mm Bright Wire In Coils with part code CW500L10MM, measured in TONN and with no stock available. Another variant is Hard Drawn Wire 3.97mm black with part code CW500L3.97HD, also measured in TONN and with no stock available. Other variants include 4.0mm Bright Wire In Coils with part code CW500L4, 5.0mm Bright Wire In Coils with part code CW500L5, 5.6mm Bright Wire In Coils with part code CW500L5.6, 6.0mm Bright Wire in Coils with part code CW500L6, 6.3mm Bright Wire In Coils with part code CW500L6.3, 7.10mm Bright Wire In Coils with part code CW500L7.1, and 8.0mm Bright Wire In coils with part code CW500L8, all measured in TONN and with no stock available.
+
+Lastly, ribbed wire in spools is managed, including 6.0mm Ribbed Wire in Spools with part code D500L06.0SP, and 6.3mm Ribbed wire in Spools with part code D500L06.3SP, both measured in TONN and with no stock available.
+
+M6 - CSMJB MJB Industries has Mesh Components Coil, Rod, Wire products with part code D500L07.6SP, described as 7.60mm Ribbed Wire in SpoolsD500L7.6-Spools. The inventory status is QOH with zero units at minimum and maximum levels, and no quantities picked, in despatch, reserved, awaiting confirm out, unconfirmed, or available.
+
+M6 - CSMJB MJB Industries also stocks Mesh Components Coil, Rod, Wire with part code D500L08.6SP, described as 8.60mm Ribbed Wire in SpoolsD500L8.6-Spools. Similar to the previous product, the inventory status is QOH with zero units at minimum and maximum levels, and no quantities picked, in despatch, reserved, awaiting confirm out, unconfirmed, or available.
+
+M6 - CSMJB MJB Industries carries Mesh Components Coil, Rod, Wire with part code D500L09.5SP, described as 9.50mm Ribbed Wire in SpoolsD500L9.5-Spools. The inventory status is QOH with zero units at minimum and maximum levels, and no quantities picked, in despatch, reserved, awaiting confirm out, unconfirmed, or available.
+
+M6 - CSMJB MJB Industries has Mesh Components Coil, Rod, Wire with part code D500L12.0SP, described as 12mm Rib Wire in SpoolsD500L12.0-Spools. The inventory status is QOH with zero units at minimum and maximum levels, and no quantities picked, in despatch, reserved, awaiting confirm out, unconfirmed, or available.
+
+M6 - CSMJB MJB Industries stocks Bar Chairs with part code FCBR25, described as 25mm x 4mm Bar Chairs SuitFCBR25. The inventory status is QOH with zero units at minimum and maximum levels, and no quantities picked, in despatch, reserved, awaiting confirm out, unconfirmed, or available.
+
+M6 - CSMJB MJB Industries also has Bar Chairs with part code FCBR40, described as 40mm x 4mm Bar Chairs SuitFCBR40. The inventory status is QOH with zero units at minimum and maximum levels, and no quantities picked, in despatch, reserved, awaiting confirm out, unconfirmed, or available.
+
+M6 - CSMJB MJB Industries carries Bar Chairs with part code FCBR50, described as 50mm x 4mm Bar Chairs SuitFCBR50. The inventory status is QOH with zero units at minimum and maximum levels, and no quantities picked, in despatch, reserved, awaiting confirm out, unconfirmed, or available.
+
+M6 - CSMJB MJB Industries stocks Bar Chairs with part code FCBR75, described as 75mm x 4mm Bar Chairs SuitFCBR75. The inventory status is QOH with zero units at minimum and maximum levels, and no quantities picked, in despatch, reserved, awaiting confirm out, unconfirmed, or available.
+
+M6 - CSMJB MJB Industries has Fast Clip Mesh Chairs with part code FCMR20, described as 20mm Fast Clip Mesh ChairsFCMR20. The inventory status is QOH with zero units at minimum and maximum levels, and no quantities picked, in despatch, reserved, awaiting confirm out, unconfirmed, or available.
+
+M6 - CSMJB MJB Industries also stocks Fast Clip Mesh Chairs with part code FCMR25, described as 25mm Fast Clip Mesh ChairsFCMR25. The inventory status is QOH with zero units at minimum and maximum levels, and no quantities picked, in despatch, reserved, awaiting confirm out, unconfirmed, or available.
+
+M6 - CSMJB MJB Industries carries Fast Clip Mesh Chairs with part code FCMR40, described as 40mm Fast Clip Mesh ChairsFCMR40. The inventory status is QOH with zero units at minimum and maximum levels, and no quantities picked, in despatch, reserved, awaiting confirm out, unconfirmed, or available.
+
+M6 - CSMJB MJB Industries stocks Fast Clip Mesh Chairs with part code FCMR50, described as 50mm Fast Clip Mesh ChairsFCMR50. The inventory status is QOH with zero units at minimum and maximum levels, and no quantities picked, in despatch, reserved, awaiting confirm out, unconfirmed, or available.
+
+M6 - CSMJB MJB Industries also has Fast Clip Mesh Chairs with part code FCMR60, described as 60mm Fast Clip Mesh ChairsFCMR60. The inventory status is QOH with zero units at minimum and maximum levels, and no quantities picked, in despatch, reserved, awaiting confirm out, unconfirmed, or available.
+
+M6 - CSMJB MJB Industries carries Fast Clip Mesh Chairs with part code FCMR65, described as 65mm Fast Clip Mesh ChairsFCMR65. The inventory status is QOH with zero units at minimum and maximum levels, and no quantities picked, in despatch, reserved, awaiting confirm out, unconfirmed, or available.
+
+M6 - CSMJB MJB Industries stocks Fast Clip Mesh Chairs with part code FCMR75, described as 75mm Fast Clip Mesh ChairsFCMR75. The inventory status is QOH with zero units at minimum and maximum levels, and no quantities picked, in despatch, reserved, awaiting confirm out, unconfirmed, or available.
+
+M6 - CSMJB MJB Industries has 1.2Kg Rolls for Belt Packs with part code TIE1.4MM, described as Tie-1.4mm. The inventory status is QOH with zero units at minimum and maximum levels, and no quantities picked, in despatch, reserved, awaiting confirm out, unconfirmed, or available.
+
+M6 - CSMJB MJB Industries also stocks Tie wire with part code TIE3.15X1.2MM, described as Tie-3.15mm-1.2m. The inventory status is QOH with zero units at minimum and maximum levels, and no quantities picked, in despatch, reserved, awaiting confirm out, unconfirmed, or available.
+
+M6 - CSMJB MJB Industries carries Tie wire with part code TIE3.15X2.3MM, described as Tie-3.15mm-2.3m. The inventory status is QOH with zero units at minimum and maximum levels, and no quantities picked, in despatch, reserved, awaiting confirm out, unconfirmed, or available.
+
+M6 - CSMJB MJB Industries also stocks Tie wire with part code TIE3.15X2.4MM, described as Tie-3.15mm-2.4m. The inventory status is QOH with zero units at minimum and maximum levels, and no quantities picked, in despatch, reserved, awaiting confirm out, unconfirmed, or available.
+
+M6 - CSMJB MJB Industries has 6mm Wire 6m long (750 pcs) with part code 6MBW6, described as 6MBW6. The inventory status is QOH with zero units at minimum and maximum levels, and no quantities picked, in despatch, reserved, awaiting confirm out, unconfirmed, or available.
+
+M6 - CSMJB MJB INDUSTRIES operates under company code 3. The warehouse holds smooth rod raw materials, including parts such as 8mm Wire 6m long (425 pcs), described by part code 6MBW8. The inventory status indicates zero levels across all categories, reflecting an immediate availability of zero units.
+
+M6 - CSMJB MJB INDUSTRIES also manages S&C Brt Wire 4.0x2395mm 500Kgs, identified by part code SCBW4X2.3M. Similar to the previous item, the inventory status shows zero levels across all categories, indicating no units available.
+
+The warehouse further stocks S&C Brt Wire 4.0x6000mm 500kgs, part code SCBW4X6.0M, with identical zero levels across all inventory categories.
+
+Another variant is S&C Brt Wire 10x6000mm 500kgs, part code SCBW4X6M, again showing zero levels across all inventory categories.
+
+M6 - CSMJB MJB INDUSTRIES also holds S&C Brt Wire 5.6x2395mm 500Kgs, part code SCBW5.6X2.3MK50, with zero levels across all inventory categories.
+
+S&C Brt Wire 5.6x2410mm 500Kgs, part code SCBW5.6X2.41M, is another variant managed by the warehouse, with zero levels across all inventory categories.
+
+The warehouse also stocks S&C Brt Wire 5.0x2395mm 500Kgs, part code SCBW5X2.3M, with zero levels across all inventory categories.
+
+S&C Brt Wire 5.0x2410mm 500kgs, part code SCBW5X2.41M, is another variant managed by the warehouse, with zero levels across all inventory categories.
+
+M6 - CSMJB MJB INDUSTRIES also manages S&C Brt Wire 6.3x2395mm 500Kgs, part code SCBW6.3X2.3M, with zero levels across all inventory categories.
+
+S&C Brt Wire 6.3x2420mm 500Kgs, part code SCBW6.3X2.42M, is another variant managed by the warehouse, with zero levels across all inventory categories.
+
+The warehouse further stocks S&C Brt Wire 6.3x6000mm 500kgs, part code SCBW6.3X6M, with zero levels across all inventory categories.
+
+S&C Brt Wire 6.0x6000mm 500Kgs, part code SCBW6X6M, is another variant managed by the warehouse, with zero levels across all inventory categories.
+
+M6 - CSMJB MJB INDUSTRIES also holds S&C Brt Wire 8X2600mm 500Kgs, part code SCBW8X2.6, with zero levels across all inventory categories.
+
+S&C Brt Wire 8x6000mm 500kgs, part code SCBW8X6.0, is another variant managed by the warehouse, with zero levels across all inventory categories.
+
+The warehouse also stocks S&C Rib Wire 6.0x1800mm 500kgs, part code SCRW6X1.8M, with zero levels across all inventory categories.
+
+S&C Rib Wire 6.0x6000mm 500kgs, part code SCRW6X6M, is another variant managed by the warehouse, with zero levels across all inventory categories.
+
+S&C Rib Wire 6.0x7200mm 500kgs, part code SCRW6X7.2M, is another variant managed by the warehouse, with zero levels across all inventory categories.
+
+M6 - CSMJB MJB INDUSTRIES also manages S&C Galv 1.25mmx300mmx2.85kg, part code SCW1.25X300G, with zero levels across all inventory categories.
+
+S&C Galv 1.25mmX400mmX3.8Kg, part code SCW1.25X400G, is another variant managed by the warehouse, with zero levels across all inventory categories.
+
+The warehouse further stocks S&C Wire 10mmx3500mm, part code SCW10X3.5M, with zero levels across all inventory categories.
+
+M6 - CSMJB MJB Industries houses smooth rod raw materials, including S&C Galv Wire 6.3x1000mm (Part Code: SCW6.3X1MG), which is described as S&C Galv Wire 6.3x1000mm SCGW6.3-1000. The inventory status indicates zero units at both minimum and maximum levels, with all inventory-related quantities at zero.
+
+M6 - CSMJB MJB Industries also stores S&C Gal Wire 6.3x6000mm (Part Code: SCW6.3X6MG), described as S&C Gal Wire 6.3x6000mm 500kgs SCGW6.3-6000-500kgs. Similar to the previous item, it has zero units at both minimum and maximum levels, with all inventory-related quantities at zero.
+
+M6 - CSMJB MJB Industries keeps stock of S&C Galv Wire 6.3x6000mm (Part Code: SCW6.3X6MP500G), described as S&C Galv Wire 6.3x6000mm 500Pcs SCGW6.3-6000-500Pcs. It also has zero units at both minimum and maximum levels, with all inventory-related quantities at zero.
+
+M6 - CSMJB MJB Industries maintains a supply of S&C Wire 8.0x6000mm (Part Code: SCW8X6M), described as S&C Wire 8.0x6000mm 500 Kg SCBW8.0-6000-500Kg. Like the others, it has zero units at both minimum and maximum levels, with all inventory-related quantities at zero.
+
+M6 - CSMJB MJB Industries stocks Crimping Pliers - Type 001 (Part Code: ACCCRIMP001), described as Crimping Pliers - Type 001 ACCCCRIMP001-CRIMPPLIERS. It has zero units at both minimum and maximum levels, with all inventory-related quantities at zero.
+
+M6 - CSMJB MJB Industries also holds Fence Pliers Type 001 (Part Code: ACCFPLIER001), described as Fence Pliers Type 001 ACCCFPLIER001-FENCEPLIER. It has zero units at both minimum and maximum levels, with all inventory-related quantities at zero.
+
+M6 - CSMJB MJB Industries keeps Joint Clamp 5mm (Part Code: ACCJCLAMP005), described as Joint Clamp 5mm ACCJCLAMP005-JOINTCLAMP. It has zero units at both minimum and maximum levels, with all inventory-related quantities at zero.
+
+M6 - CSMJB MJB Industries also stores Joint Clamp 6mm (Part Code: ACCJCLAMP006), described as Joint Clamp 6mm ACCJCLAMP006-JOINTCLAMP. It has zero units at both minimum and maximum levels, with all inventory-related quantities at zero.
+
+M6 - CSMJB MJB Industries maintains Joint Clamp 8mm (Part Code: ACCJCLAMP008), described as Joint Clamp 8mm ACCJCLAMP008-JOINTCLAMP. It has zero units at both minimum and maximum levels, with all inventory-related quantities at zero.
+
+M6 - CSMJB MJB Industries keeps Joint Clamp Bolt Type 100 (Part Code: ACCJCLAMP100), described as Joint Clamp Bolt Type 100 ACCJCLAMP100-JOINTCLAMP. It has zero units at both minimum and maximum levels, with all inventory-related quantities at zero.
+
+M6 - CSMJB MJB Industries stocks Y Post Caps - Yellow (Part Code: ACCPCAP001), described simply as Y Post Caps - Yellow ACCPCAP001. It has zero units at both minimum and maximum levels, with all inventory-related quantities at zero.
+
+M6 - CSMJB MJB Industries also holds Post Driver Type 001 (Part Code: ACCPDRIVE1), described as Post Driver Type 001 ACCPDRIVE-001. It has zero units at both minimum and maximum levels, with all inventory-related quantities at zero.
+
+M6 - CSMJB MJB Industries keeps Post Driver Type 002 (Part Code: ACCPDRIVE2), described as Post Driver Type 002 ACCPDRIVE002-POSTDRIVER. It has zero units at both minimum and maximum levels, with all inventory-related quantities at zero.
+
+M6 - CSMJB MJB Industries stocks Ratchet Strainer 001 (Part Code: ACCRAT001), described as Ratchet Strainer 001 ACCRAT001. It has zero units at both minimum and maximum levels, with all inventory-related quantities at zero.
+
+M6 - CSMJB MJB Industries also holds Staple Gun 001 (Part Code: ACCSTAPLEGUN001), described as Staple Gun 001 ACCSTAPLEGUN001. It has zero units at both minimum and maximum levels, with all inventory-related quantities at zero.
+
+M6 - CSMJB MJB Industries keeps Chain Strainer - Type 001 (Part Code: ACCSTRAIN1CHN), described as Chain Strainer - Type 001 ACCSTRAIN001-CHAIN. It has zero units at both minimum and maximum levels, with all inventory-related quantities at zero.
+
+M6 - CSMJB MJB Industries also stores Tensioning Handle Type 001 (Part Code: ACCTENS1HAND), described as Tensioning Handle Type 001 ACCTENS001-TENSIONHANDLE. It has zero units at both minimum and maximum levels, with all inventory-related quantities at zero.
+
+M6 - CSMJB MJB Industries stocks Wire Twisting Tool 001 (Part Code: ACCWTWIST001), described as Wire Twisting Tool 001 ACCWTWIST001. It has zero units at both minimum and maximum levels, with all inventory-related quantities at zero.
+
+M6 - CSMJB MJB Industries maintains a supply of BDBOT-8723/280 (Part Code: BDBOT8723.280), described as BDBOT-8723/280-8774X2274XN12 BDBOT-8723/280. It has zero units at both minimum and maximum levels, with all inventory-related quantities at zero.
+
+M6 - CSMJB MJB Industries also holds BDBOT-8724/230 (Part Code: BDBOT8724.230), described as BDBOT-8724/230-8734X2354XN10 BDBOT-8724/230. It has zero units at both minimum and maximum levels, with all inventory-related quantities at zero.
+
+CSMJB MJB Industries operates at warehouse M6, which is described as M6 - CSMJB MJB Industries. The warehouse primarily stocks steel mesh products. Part code BDBOT8923.340, known as BDBOT-8923/340-8934X2334XN12BDBOT-8923/340, has an inventory status of QOH (Quantity On Hand), with zero units available across all inventory levels.
+
+Part code BDBOT9323.390, also known as BDBOT-9323/390-9364X2364XN12BDBOT-9323/390, shares similar inventory characteristics with part BDBOT8923.340, indicating zero units available in any inventory level.
+
+Part code BDTOP8723.280, named BDTOP-8723/280-8794X2294XN8BDTOP-8723/280, has an inventory status of QOH, with zero units available in all inventory levels.
+
+Part code BDTOP8724.230, known as BDTOP-8724/230-8744X2364XN8BDTOP-8724/230, also has an inventory status of QOH, with zero units available in all inventory levels.
+
+Part code BDTOP8923.340, named BDTOP-8923/340-8944X2344XN10BDTOP-8923/340, has an inventory status of QOH, with zero units available in all inventory levels.
+
+Part code BDTOP9323.390, known as BDTOP-9323/390-9374x2374xN12BDTOP-9323/390, shares the same inventory status of QOH, with zero units available in all inventory levels.
+
+Part code CCP30241010056G, described as 100x100x3000x2400x5.6 Ind MeshP IMG5H-44-3024_JEN, has an inventory status of QOH, with zero units available in all inventory levels.
+
+Part code CCP45171010056G, described as DNU- see SMF45171010056G, has an inventory status of QOH, with zero units available in all inventory levels.
+
+Part code CFPCLAMPS12.5, named Spider Clamps 12.5mmCFPCLAMPS-12.5, has an inventory status of QOH, with zero units available in all inventory levels.
+
+Part code CFPSCREWSM12X25, known as Nut&Bolt - M12x25CFPSCREWS-M12x25, has an inventory status of QOH, with zero units available in all inventory levels.
+
+Part code CFPSCREWSM8X25, described as Anti Theft Nut&Bolt - M8X25CFPSCREWS-M8X25, has an inventory status of QOH, with zero units available in all inventory levels.
+
+Part code CFPSCREWSM8X30, known as Anti Theft Nut&Bolt - M8x30CFPSCREWS-M8x30, has an inventory status of QOH, with zero units available in all inventory levels.
+
+Part code CGATEBPVC, named 6x1.8+3B CGates BPVC 1x6mCGATEBPVC600180B3, has an inventory status of QOH, with zero units available in all inventory levels.
+
+Part code CGATEG900180B3, described as 9000x1800+3Barb CGates GalvCGATEG900180B3, has an inventory status of QOH, with zero units available in all inventory levels.
+
+Part code CGATESPEC, named Spl GateCGATE Special, has an inventory status of QOH, with zero units available in all inventory levels.
+
+Part code CHCWB4PVC35H, known as Helical PVCB 4mm-35Kg(315m)CHCWBPVC4-35H, has an inventory status of QOH, with zero units available in all inventory levels.
+
+Part code CIFPG7044.260, described as I Fence Post Galv - 2.6mCIFPG7044-260, has an inventory status of QOH, with zero units available in all inventory levels.
+
+Part code CIFPG7044.340, known as I Fence Post Galv - 3.4mCIFPG7044-340, has an inventory status of QOH, with zero units available in all inventory levels.
+
+Part code CLW2PVCB5, described as T/L Wire HG-PVCB 2mm-5kg(180m)CLWPVCB2-5, has an inventory status of QOH, with zero units available in all inventory levels.
+
+Part code CM1200C3002G, named 25x25x1200x30000x2.0 Mesh CoilIMG2-11-12C30, has an inventory status of QOH, with zero units available in all inventory levels.
+
+CSMJB MJB Industries, located in M6 warehouse, has a product group described as Steel Mesh. The company holds inventory records for various part codes including CTHRUIMG4H2325, CTHRUIMG4H2412, CTHRUIMG4H2418, CTWBPVC1.57, D500LSL62, D500LSL72, D500N10COIL, D500N12X6M, D500N12XCOIL, D500N16X6M, D500N20X6M, D500N8.0COIL, D500RL1018, D500RL1218, D500SL81, D500SL82, D500SL92, DFA8.5WASHER, and DFABWAD5L. All these parts have an inventory control status of QOH, indicating they are tracked based on quantity on hand. The unit of measure for most items is each (EA), except for D500N10COIL, D500N12XCOIL, D500N16X6M, D500N20X6M, and D500N8.0COIL, which use tonn (TONN). The inventory levels for all parts are zero across various statuses such as picked, in despatch, reserved, awaiting confirm out, unconfirmed, and available.
+
+CSMJB MJB Industries, located in M6 warehouse, has a product group described as Steel Mesh. The company holds inventory records for various part codes including CTHRUIMG4H2325, CTHRUIMG4H2412, CTHRUIMG4H2418, CTWBPVC1.57, D500LSL62, D500LSL72, D500N10COIL, D500N12X6M, D500N12XCOIL, D500N16X6M, D500N20X6M, D500N8.0COIL, D500RL1018, D500RL1218, D500SL81, D500SL82, D500SL92, DFA8.5WASHER, and DFABWAD5L. All these parts have an inventory control status of QOH, indicating they are tracked based on quantity on hand. The unit of measure for most items is each (EA), except for D500N10COIL, D500N12XCOIL, D500N16X6M, D500N20X6M, and D500N8.0COIL, which use tonn (TONN). The inventory levels for all parts are zero across various statuses such as picked, in despatch, reserved, awaiting confirm out, unconfirmed, and available.
+
+CSMJB MJB Industries, located in M6 warehouse, has a product group described as Steel Mesh. The company holds inventory records for various part codes including CTHRUIMG4H2325, CTHRUIMG4H2412, CTHRUIMG4H2418, CTWBPVC1.57, D500LSL62, D500LSL72, D500N10COIL, D500N12X6M, D500N12XCOIL, D500N16X6M, D500N20X6M, D500N8.0COIL, D500RL1018, D500RL1218, D500SL81, D500SL82, D500SL92, DFA8.5WASHER, and DFABWAD5L. All these parts have an inventory control status of QOH, indicating they are tracked based on quantity on hand. The unit of measure for most items is each (EA), except for D500N10COIL, D500N12XCOIL, D500N16X6M, D500N20X6M, and D500N8.0COIL, which use tonn (TONN). The inventory levels for all parts are zero across various statuses such as picked, in despatch, reserved, awaiting confirm out, unconfirmed, and available.
+
+CSMJB MJB Industries, located in M6 warehouse, has a product group described as Steel Mesh. The company holds inventory records for various part codes including CTHRUIMG4H2325, CTHRUIMG4H2412, CTHRUIMG4H2418, CTWBPVC1.57, D500LSL62, D500LSL72, D500N10COIL, D500N12X6M, D500N12XCOIL, D500N16X6M, D500N20X6M, D500N8.0COIL, D500RL1018, D500RL1218, D500SL81, D500SL82, D500SL92, DFA8.5WASHER, and DFABWAD5L. All these parts have an inventory control status of QOH, indicating they are tracked based on quantity on hand. The unit of measure for most items is each (EA), except for D500N10COIL, D500N12XCOIL, D500N16X6M, D500N20X6M, and D500N8.0COIL, which use tonn (TONN). The inventory levels for all parts are zero across various statuses such as picked, in despatch, reserved, awaiting confirm out, unconfirmed, and available.
+
+CSMJB MJB Industries, located in M6 warehouse, has a product group described as Steel Mesh. The company holds inventory records for various part codes including CTHRUIMG4H2325, CTHRUIMG4H2412, CTHRUIMG4H2418, CTWBPVC1.57, D500LSL62, D500LSL72, D500N10COIL, D500N12X6M, D500N12XCOIL, D500N16X6M, D500N20X6M, D500N8.0COIL, D500RL1018, D500RL1218, D500SL81, D500SL82, D500SL92, DFA8.5WASHER, and DFABWAD5L. All these parts have an inventory control status of QOH, indicating they are tracked based on quantity on hand. The unit of measure for most items is each (EA), except for D500N10COIL, D500N12XCOIL, D500N16X6M, D500N20X6M, and D500N8.0COIL, which use tonn (TONN). The inventory levels for all parts are zero across various statuses such as picked, in despatch, reserved, awaiting confirm out, unconfirmed, and available.
+
+CSMJB MJB Industries, located in M6 warehouse, has a product group described as Steel Mesh. The company holds inventory records for various part codes including CTHRUIMG4H2325, CTHRUIMG4H2412, CTHRUIMG4H2418, CTWBPVC1.57, D500LSL62, D500LSL72, D500N10COIL, D500N12X6M, D500N12XCOIL, D500N16X6M, D500N20X6M, D500N8.0COIL, D500RL1018, D500RL1218, D500SL81, D500SL82, D500SL92, DFA8.5WASHER, and DFABWAD5L. All these parts have an inventory control status of QOH, indicating they are tracked based on quantity on hand. The unit of measure for most items is each (EA), except for D500N10COIL, D500N12XCOIL, D500N16X6M, D500N20X6M, and D500N8.0COIL, which use tonn (TONN). The inventory levels for all parts are zero across various statuses such as picked, in despatch, reserved, awaiting confirm out, unconfirmed, and available.
+
+CSMJB MJB Industries, located in M6 warehouse, has a product group described as Steel Mesh. The company holds inventory records for various part codes including CTHRUIMG4H2325, CTHRUIMG4H2412, CTHRUIMG4H2418, CTWBPVC1.57, D500LSL62, D500LSL72, D500N10COIL, D500N12X6M, D500N12XCOIL, D500N16X6M, D500N20X6M, D500N8.0COIL, D500RL1018, D500RL1218, D500SL81, D500SL82, D500SL92, DFA8.5WASHER, and DFABWAD5L. All these parts have an inventory control status of QOH, indicating they are tracked based on quantity on hand. The unit of measure for most items is each (EA), except for D500N10COIL, D500N12XCOIL, D500N16X6M, D500N20X6M, and D500N8.0COIL, which use tonn (TONN). The inventory levels for all parts are zero across various statuses such as picked, in despatch, reserved, awaiting confirm out, unconfirmed, and available.
+
+CSMJB MJB Industries, located in M6 warehouse, has a product group described as Steel Mesh. The company holds inventory records for various part codes including CTHRUIMG4H2325, CTHRUIMG4H2412, CTHRUIMG4H2418, CTWBPVC1.57, D500LSL62, D500LSL72, D500N10COIL, D500N12X6M, D500N12XCOIL, D500N16X6M, D500N20X6M, D500N8.0COIL, D500RL1018, D500RL1218, D500SL81, D500SL82, D500SL92, DFA8.5WASHER, and DFABWAD5L. All these parts have an inventory control status of QOH, indicating they are tracked based on quantity on hand. The unit of measure for most items is each (EA), except for D500N10COIL, D500N12XCOIL, D500N16X6M, D500N20X6M, and D500N8.0COIL, which use tonn (TONN). The inventory levels for all parts are zero across various statuses such as picked, in despatch, reserved, awaiting confirm out, unconfirmed, and available.
+
+CSMJB MJB Industries, located in M6 warehouse, has a product group described as Steel Mesh. The company holds inventory records for various part codes including CTHRUIMG4H2325, CTHRUIMG4H2412, CTHRUIMG4H2418, CTWBPVC1.57, D500LSL62, D500LSL72, D500N10COIL, D500N12X6M, D500N12XCOIL, D500N16X6M, D500N20X6M, D500N8.0COIL, D500RL1018, D500RL1218, D500SL81, D500SL82, D500SL92, DFA8.5WASHER, and DFABWAD5L. All these parts have an inventory control status of QOH, indicating they are tracked based on quantity on hand. The unit of measure for most items is each (EA), except for D500N10COIL, D500N12XCOIL, D500N16X6M, D500N20X6M, and D500N8.0COIL, which use tonn (TONN). The inventory levels for all parts are zero across various statuses such as picked, in despatch, reserved, awaiting confirm out, unconfirmed, and available.
+
+CSMJB MJB Industries, located in M6 warehouse, has a product group described as Steel Mesh. The company holds inventory records for various part codes including CTHRUIMG4H2325, CTHRUIMG4H2412, CTHRUIMG4H2418, CTWBPVC1.57, D500LSL62, D500LSL72, D500N10COIL, D500N12X6M, D500N12XCOIL, D500N16X6M, D500N20X6M, D500N8.0COIL, D500RL1018, D500RL1218, D500SL81, D500SL82, D500SL92, DFA8.5WASHER, and DFABWAD5L. All these parts have an inventory control status of QOH, indicating they are tracked based on quantity on hand. The unit of measure for most items is each (EA), except for D500N10COIL, D500N12XCOIL, D500N16X6M, D500N20X6M, and D500N8.0COIL, which use tonn (TONN). The inventory levels for all parts are zero across various statuses such as picked, in despatch, reserved, awaiting confirm out, unconfirmed, and available.
+
+CSMJB MJB Industries, located in M6 warehouse, has a product group described as Steel Mesh. The company holds inventory records for various part codes including CTHRUIMG4H2325, CTHRUIMG4H2412, CTHRUIMG4H2418, CTWBPVC1.57, D500LSL62, D500LSL72, D500N10COIL, D500N12X6M, D500N12XCOIL, D500N16X6M, D500N20X6M, D500N8.0COIL, D500RL1018, D500RL1218, D500SL81, D500SL82, D500SL92, DFA8.5WASHER, and DFABWAD5L. All these parts have an inventory control status of QOH, indicating they are tracked based on quantity on hand. The unit of measure for most items is each (EA), except for D500N10COIL, D500N12XCOIL, D500N16X6M, D500N20X6M, and D500N8.0COIL, which use tonn (TONN). The inventory levels for all parts are zero across various statuses such as picked, in despatch, reserved, awaiting confirm out, unconfirmed, and available.
+
+CSMJB MJB Industries, located in M6 warehouse, has a product group described as Steel Mesh. The company holds inventory records for various part codes including CTHRUIMG4H2325, CTHRUIMG4H2412, CTHRUIMG4H2418, CTWBPVC1.57, D500LSL62, D500LSL72, D500N10COIL, D500N12X6M, D500N12XCOIL, D500N16X6M, D500N20X6M, D500N8.0COIL, D500RL1018, D500RL1218, D500SL81, D500SL82, D500SL92, DFA8.5WASHER, and DFABWAD5L. All these parts have an inventory control status of QOH, indicating they are tracked based on quantity on hand. The unit of measure for most items is each (EA), except for D500N10COIL, D500N12XCOIL, D500N16X6M, D500N20X6M, and D500N8.0COIL, which use tonn (TONN). The inventory levels for all parts are zero across various statuses such as picked, in despatch, reserved, awaiting confirm out, unconfirmed, and available.
+
+CSMJB MJB Industries, located in M6 warehouse, has a product group described as Steel Mesh. The company holds inventory records for various part codes including CTHRUIMG4H2325, CTHRUIMG4H2412, CTHRUIMG4H2418, CTWBPVC1.57, D500LSL62, D500LSL72, D500N10COIL, D500N12X6M, D500N12XCOIL, D500N16X6M, D500N20X6M, D500N8.0COIL, D500RL1018, D500RL1218, D500SL81, D500SL82, D500SL92, DFA8.5WASHER, and DFABWAD5L. All these parts have an inventory control status of QOH, indicating they are tracked based on quantity on hand. The unit of measure for most items is each (EA), except for D500N10COIL, D500N12XCOIL, D500N16X6M, D500N20X6M, and D500N8.0COIL, which use tonn (TONN). The inventory levels for all parts are zero across various statuses such as picked, in despatch, reserved, awaiting confirm out, unconfirmed, and available.
+
+M6 - CSMJB MJB INDUSTRIES houses a variety of steel mesh products. The company stock includes Single Aluminum 5-line Barb Wire Bracket (Part Code: DFABWAS5L), Single Aluminum 5-line Corner Bar Wire Broken (Part Code: DFABWASC5L), Barb Wire Broken for Gates - Start (Part Code: DFABWGS5L), Start 5-line Barb Wire Bracket (Part Code: DFABWS5L), Start 5-line Corner Barb Wire Broken (Part Code: DFABWSC5L), 45-degree Corner Plates - Left Hand Side (Part Code: DFACNRPlATELHS), 45-degree Corner Plates - Right Hand Side (Part Code: DFACNRPlATERHS), 2.4m Double-sided Alligtr Top Rail (Part Code: DFADBLE2400), 1m Ped Gate Frame (Part Code: DFADFPG1HFR), 1m Ped Gate - Heavy Left Hand Side/Right Hand Side (Part Code: DFADFPG1HLR), 1m Ped Gate - LHS Hinges Included (Part Code: DFADFPG1ML), 1m Ped Gate Complete - RH Hinges (Part Code: DFADFPG1MR), 2.4m Wide Heavy Vehicle Gate Left Hand Side/Right Hand Side (Part Code: DFADFVG24HLR), 3.0m Wide Vehicle Gate Left Hand Side (Part Code: DFADFVG30SLH), 3.0m Wide Vehicle Gate Right Hand Side (Part Code: DFADFVG30SRH), Heavy Gate Post Left Hand Side (Part Code: DFADFVGPHLH), Heavy Gate Post Right Hand Side (Part Code: DFADFVGPHRH), Standard Gate Post Left Hand Side (Part Code: DFADFVGPSLH), Standard Gate Post Right Hand Side (Part Code: DFADFVGPSLR), and 2.4m Single Ad Alligtr Top Rail (Part Code: DFASGLE2400). All these items have an inventory control status code of QOH, indicating they are currently in stock, with zero quantities in various stages of inventory management.
+
+CSMJB MJB Industries operates at warehouse M6, which is described as M6 - CSMJB MJB INDUSTRIES. The company stocks various steel mesh products. The first product is Ausro Strap 3.0 x 0.3 OSH106H-3003, with part code JOS3003B. It has an inventory count of zero across all statuses.
+
+The second product is Ausro Straps Gal 3.0 x 0.3 OSH106H-3003G, with part code JOS3003G. Similar to the first, it also has an inventory count of zero.
+
+The third product is 358 Mesh 1.2 x 2.4 IMZG4-305-1224, with part code MP122404G. Again, the inventory count is zero.
+
+The fourth product is 358 Panels 2.4m x 2.4m IMZG4-305-2424, with part code MP242404G. It too has an inventory count of zero.
+
+The fifth product is 358 panels 2.5m x 2.4m IMZG4-305-2524, with part code MP252404G. Its inventory count is also zero.
+
+The sixth product is 50x75x3000x1200x4mm Ind Mesh IMZG4-23-3012, with part code MP3012507504G. It has an inventory count of zero.
+
+The seventh product is 358 Panels 3.0m x 2.4m IMZG4-305-3024, with part code MP302404G. Its inventory count is zero.
+
+The eighth product is 358 Panel 3.1m x 2.4m IMZG4-305-3124, with part code MP312404G. It also has an inventory count of zero.
+
+The ninth product is 358 Panels 3.6m x 2.4m IMZG4-305-3624, with part code MP362404G. Its inventory count is zero.
+
+The tenth product is 358 Panels 4050x1895 IMZG4-305-4H19, with part code MP411904G. It has an inventory count of zero.
+
+The eleventh product is 358 Panels 4050x1950 IMZG4-305-4H19H, with part code MP412004G. Its inventory count is zero.
+
+The twelfth product is 358 Panels 4.5m x 2.4m IMZG4-305-4524, with part code MP452404G. It has an inventory count of zero.
+
+The thirteenth product is DNU- see MS45241010056G, with part code MS15H45241010G. Its inventory count is zero.
+
+The fourteenth product is DNU- see MS45241010056G2, with part code MS25H45241010G. It also has an inventory count of zero.
+
+The fifteenth product is 100x100x4500x2400x5.6 SM Mesh IMG5H-44-4524-JEN-SM, with part code MS5H45241010G. Its inventory count is zero.
+
+The sixteenth product is DNU- see MS50241010056G, with part code MS5H50241010G. It has an inventory count of zero.
+
+The seventeenth product is DNU- see CCP300310108G, with part code MSTRAP300308G. Its inventory count is zero.
+
+The eighteenth product is 17x50x2000x1500x6.3mm Pig Mesh IMG6H-207-2015G, with part code PMES6H2015G. It has an inventory count of zero.
+
+The nineteenth product is 17x50x2400x1500x6.3mm Pig Mesh IMG6H-207-2415G, with part code PMES6H2415G. It also has an inventory count of zero.
+
+The twentieth product is 550mm Concertina Barbed Tape RAZ550CON, with part code RAZ550CON. Its inventory count is zero.
+
+CSMJB MJB Industries, located in M6 warehouse, has a stock of steel mesh products. The company holds an inventory of HT Trellis Wire-2.5-1 Ton Coil, with part code RFWZAL25HT1T, and another variant of HT Trellis Wire3.15-1 Ton Coil, part code RFWZAL315HT1T. Both products have an inventory status indicating they are in Quick On Hand (QOH) condition, with zero units available across all stages of the supply chain. Similarly, the company maintains stock of Self Tapp Screw 30mm, part code SESCREW0425X30, and SL 41 Square Mesh 6X2.4, part code SL41, both in Quick On Hand condition. The inventory levels for these items are also zero. Additionally, the company stocks various types of Ind Mesh and Bright Mesh products, including 100x100x3600x2400x5.6 Ind Mesh, part code SM5H36241010FG, and 100x100x5000x1600x5.6 4mm Galv Ind Mesh, part code SM5H501610104G, both in Quick On Hand condition with zero units available. Other products such as 200x200x1800x1100x5mm LDMesh, part code SMB1811202005, and 100x100x4500x1700x5mm Bright Mesh, part code SMB4517101005, are also in Quick On Hand condition with zero units available. The company also stocks various Black and Bright Mesh products, including 100x100x4500x2400x5mm Black Mesh, part code SMB4524101005, and 100x100x4800x1400x4x5 Mesh, part code SMB4814100505, both in Quick On Hand condition with zero units available. Lastly, the company maintains stock of 100x100x5000x1100x5mm DWAI Mesh, part code SMB5011101005, in Quick On Hand condition with zero units available.
+
+CSMJB MJB Industries, located in M6 warehouse, has a stock of steel mesh products. The company holds an inventory of HT Trellis Wire3.15-1 Ton Coil, with part code RFWZAL315HT1T, and another variant of HT Trellis Wire-2.5-1 Ton Coil, part code RFWZAL25HT1T. Both products have an inventory status indicating they are in Quick On Hand (QOH) condition, with zero units available across all stages of the supply chain. Similarly, the company maintains stock of Self Tapp Screw 30mm, part code SESCREW0425X30, and SL 41 Square Mesh 6X2.4, part code SL41, both in Quick On Hand condition. The inventory levels for these items are also zero. Additionally, the company stocks various types of Ind Mesh and Bright Mesh products, including 100x100x3600x2400x5.6 Ind Mesh, part code SM5H36241010FG, and 100x100x5000x1600x5.6 4mm Galv Ind Mesh, part code SM5H501610104G, both in Quick On Hand condition with zero units available. Other products such as 200x200x1800x1100x5mm LDMesh, part code SMB1811202005, and 100x100x4500x1700x5mm Bright Mesh, part code SMB4517101005, are also in Quick On Hand condition with zero units available. The company also stocks various Black and Bright Mesh products, including 100x100x4500x2400x5mm Black Mesh, part code SMB4524101005, and 100x100x4800x1400x4x5 Mesh, part code SMB4814100505, both in Quick On Hand condition with zero units available. Lastly, the company maintains stock of 100x100x5000x1100x5mm DWAI Mesh, part code SMB5011101005, in Quick On Hand condition with zero units available.
+
+CSMJB MJB Industries, located in M6 warehouse, has a stock of steel mesh products. The company holds an inventory of Self Tapp Screw 30mm, with part code SESCREW0425X30, and SL 41 Square Mesh 6X2.4, part code SL41, both in Quick On Hand (QOH) condition, with zero units available across all stages of the supply chain. The inventory levels for these items are also zero. Additionally, the company stocks various types of Ind Mesh and Bright Mesh products, including 100x100x3600x2400x5.6 Ind Mesh, part code SM5H36241010FG, and 100x100x5000x1600x5.6 4mm Galv Ind Mesh, part code SM5H501610104G, both in Quick On Hand condition with zero units available. Other products such as 200x200x1800x1100x5mm LDMesh, part code SMB1811202005, and 100x100x4500x1700x5mm Bright Mesh, part code SMB4517101005, are also in Quick On Hand condition with zero units available. The company also stocks various Black and Bright Mesh products, including 100x100x4500x2400x5mm Black Mesh, part code SMB4524101005, and 100x100x4800x1400x4x5 Mesh, part code SMB4814100505, both in Quick On Hand condition with zero units available. Lastly, the company maintains stock of 100x100x5000x1100x5mm DWAI Mesh, part code SMB5011101005, in Quick On Hand condition with zero units available.
+
+CSMJB MJB Industries, located in M6 warehouse, has a stock of steel mesh products. The company holds an inventory of SL 41 Square Mesh 6X2.4, with part code SL41, in Quick On Hand (QOH) condition, with zero units available across all stages of the supply chain. The inventory levels for this item are also zero. Additionally, the company stocks various types of Ind Mesh and Bright Mesh products, including 100x100x3600x2400x5.6 Ind Mesh, part code SM5H36241010FG, and 100x100x5000x1600x5.6 4mm Galv Ind Mesh, part code SM5H501610104G, both in Quick On Hand condition with zero units available. Other products such as 200x200x1800x1100x5mm LDMesh, part code SMB1811202005, and 100x100x4500x1700x5mm Bright Mesh, part code SMB4517101005, are also in Quick On Hand condition with zero units available. The company also stocks various Black and Bright Mesh products, including 100x100x4500x2400x5mm Black Mesh, part code SMB4524101005, and 100x100x4800x1400x4x5 Mesh, part code SMB4814100505, both in Quick On Hand condition with zero units available. Lastly, the company maintains stock of 100x100x5000x1100x5mm DWAI Mesh, part code SMB5011101005, in Quick On Hand condition with zero units available.
+
+CSMJB MJB Industries, located in M6 warehouse, has a stock of steel mesh products. The company holds an inventory of 100x100x3600x2400x5.6 Ind Mesh, with part code SM5H36241010FG, in Quick On Hand (QOH) condition, with zero units available across all stages of the supply chain. The inventory levels for this item are also zero. Additionally, the company stocks various types of Ind Mesh and Bright Mesh products, including 100x100x5000x1600x5.6 4mm Galv Ind Mesh, part code SM5H501610104G, and 100x100x5000x1100x5mm DWAI Mesh, part code SMB5011101005, both in Quick On Hand condition with zero units available. Other products such as 200x200x1800x1100x5mm LDMesh, part code SMB1811202005, and 100x100x4500x1700x5mm Bright Mesh, part code SMB4517101005, are also in Quick On Hand condition with zero units available. The company also stocks various Black and Bright Mesh products, including 100x100x4500x2400x5mm Black Mesh, part code SMB4524101005, and 100x100x4800x1400x4x5 Mesh, part code SMB4814100505, both in Quick On Hand condition with zero units available. Lastly, the company maintains stock of 100x100x5000x1100x5mm DWAI Mesh, part code SMB5011101005, in Quick On Hand condition with zero units available.
+
+CSMJB MJB Industries, located in M6 warehouse, has a stock of steel mesh products. The company holds an inventory of 100x100x5000x1600x5.6 4mm Galv Ind Mesh, with part code SM5H501610104G, in Quick On Hand (QOH) condition, with zero units available across all stages of the supply chain. The inventory levels for this item are also zero. Additionally, the company stocks various types of Ind Mesh and Bright Mesh products, including 100x100x5000x1100x5mm DWAI Mesh, part code SMB5011101005, and 100x100x4500x1700x5mm Bright Mesh, part code SMB4517101005, both in Quick On Hand condition with zero units available. Other products such as 200x200x1800x1100x5mm LDMesh, part code SMB1811202005, and 100x100x4500x2400x5mm Black Mesh, part code SMB4524101005, are also in Quick On Hand condition with zero units available. The company also stocks various Black and Bright Mesh products, including 100x100x4800x1400x4x5 Mesh, part code SMB4814100505, and 100x100x5000x1100x5mm DWAI Mesh, part code SMB5011101005, both in Quick On Hand condition with zero units available. Lastly, the company maintains stock of 100x100x5000x1100x5mm DWAI Mesh, part code SMB5011101005, in Quick On Hand condition with zero units available.
+
+CSMJB MJB Industries, located in M6 warehouse, has a stock of steel mesh products. The company holds an inventory of 100x100x5000x1100x5mm DWAI Mesh, with part code SMB5011101005, in Quick On Hand (QOH) condition, with zero units available across all stages of the supply chain. The inventory levels for this item are also zero. Additionally, the company stocks various types of Ind Mesh and Bright Mesh products, including 100x100x4500x1700x5mm Bright Mesh, part code SMB4517101005, and 100x100x4500x2400x5mm Black Mesh, part code SMB4524101005, both in Quick On Hand condition with zero units available. Other products such as 200x200x1800x1100x5mm LDMesh, part code SMB1811202005, and 100x100x4800x1400x4x5 Mesh, part code SMB4814100505, are also in Quick On Hand condition with zero units available. The company also stocks various Black and Bright Mesh products, including 100x100x4800x1400x4x5 Mesh, part code SMB4814100505, and 100x100x5000x1100x5mm DWAI Mesh, part code SMB5011101005, both in Quick On Hand condition with zero units available. Lastly, the company maintains stock of 100x100x5000x1100x5mm DWAI Mesh, part code SMB5011101005, in Quick On Hand condition with zero units available.
+
+CSMJB MJB Industries, located in M6 warehouse, has a stock of steel mesh products. The company holds an inventory of 100x100x4500x1700x5mm Bright Mesh, with part code SMB4517101005, in Quick On Hand (QOH) condition, with zero units available across all stages of the supply chain. The inventory levels for this item are also zero. Additionally, the company stocks various types of Ind Mesh and Bright Mesh products, including 100x100x4500x2400x5mm Black Mesh, part code SMB4524101005, and 100x100x4800x1400x4x5 Mesh, part code SMB4814100505, both in Quick On Hand condition with zero units available. Other products such as 200x200x1800x1100x5mm LDMesh, part code SMB1811202005, and 100x100x5000x1100x5mm DWAI Mesh, part code SMB5011101005, are also in Quick On Hand condition with zero units available. The company also stocks various Black and Bright Mesh products, including 100x100x4800x1400x4x5 Mesh, part code SMB4814100505, and 100x100x5000x1100x5mm DWAI Mesh, part code SMB5011101005, both in Quick On Hand condition with zero units available. Lastly, the company maintains stock of 100x100x5000x1100x5mm DWAI Mesh, part code SMB5011101005, in Quick On Hand condition with zero units available.
+
+CSMJB MJB Industries, located in M6 warehouse, has a stock of steel mesh products. The company holds an inventory of 100x100x4500x2400x5mm Black Mesh, with part code SMB4524101005, in Quick On Hand (QOH) condition, with zero units available across all stages of the supply chain. The inventory levels for this item are also zero. Additionally, the company stocks various types of Ind Mesh and Bright Mesh products, including 100x100x4800x1400x4x5 Mesh, part code SMB4814100505, and 100x100x5000x1100x5mm DWAI Mesh, part code SMB5011101005, both in Quick On Hand condition with zero units available. Other products such as 200x200x1800x1100x5mm LDMesh, part code SMB1811202005, and 100x100x5000x1100x5mm DWAI Mesh, part code SMB5011101005, are also in Quick On Hand condition with zero units available. The company also stocks various Black and Bright Mesh products, including 100x100x4800x1400x4x5 Mesh, part code SMB4814100505, and 100x100x5000x1100x5mm DWAI Mesh, part code SMB5011101005, both in Quick On Hand condition with zero units available. Lastly, the company maintains stock of 100x100x5000x1100x5mm DWAI Mesh, part code SMB5011101005, in Quick On Hand condition with zero units available.
+
+CSMJB MJB Industries, located in M6 warehouse, has a stock of steel mesh products. The company holds an inventory of 100x100x4800x1400x4x5 Mesh, with part code SMB4814100505, in Quick On Hand (QOH) condition, with zero units available across all stages of the supply chain. The inventory levels for this item are also zero. Additionally, the company stocks various types of Ind Mesh and Bright Mesh products, including 100x100x5000x1100x5mm DWAI Mesh, part code SMB5011101005, and 100x100x5000x1100x5mm DWAI Mesh, part code SMB5011101005, both in Quick On Hand condition with zero units available. Other products such as 200x200x1800x1100x5mm LDMesh, part code SMB1811202005, and 100x100x5000x1100x5mm DWAI Mesh, part code SMB5011101005, are also in Quick On Hand condition with zero units available. The company also stocks various Black and Bright Mesh products, including 100x100x5000x1100x5mm DWAI Mesh, part code SMB5011101005, and 100x100x5000x1100x5mm DWAI Mesh, part code SMB5011101005, both in Quick On Hand condition with zero units available. Lastly, the company maintains stock of 100x100x5000x1100x5mm DWAI Mesh, part code SMB5011101005, in Quick On Hand condition with zero units available.
+
+M6 - CSMJB MJB Industries, located in M6, holds steel mesh products. Part code SMB5014101005, described as DNU- see CC5014101005, has an inventory status of QOH with zero units available.
+
+M6 - CSMJB MJB Industries, located in M6, holds steel mesh products. Part code SMB5016101005, described as 100x100x5000x1600x5mm - JNAIMB5-44-5016-JNA, has an inventory status of QOH with zero units available.
+
+M6 - CSMJB MJB Industries, located in M6, holds steel mesh products. Part code SMB5016101505, described as DNU- see SMB5016151005S, has an inventory status of QOH with zero units available.
+
+M6 - CSMJB MJB Industries, located in M6, holds steel mesh products. Part code SMB5112151504, described as 150x150x5100x1150x4x5 - DEN2IMB45-66-5111-DEN2, has an inventory status of QOH with zero units available.
+
+M6 - CSMJB MJB Industries, located in M6, holds steel mesh products. Part code SMB5114151005, described as DNU- see SMB5113515105S, has an inventory status of QOH with zero units available.
+
+M6 - CSMJB MJB Industries, located in M6, holds steel mesh products. Part code SMB5117151504, described as DNU- see SMB5118151505, has an inventory status of QOH with zero units available.
+
+M6 - CSMJB MJB Industries, located in M6, holds steel mesh products. Part code SMB5118151505, described as 150x150x5100x1700x4x5IMB45-66-5117-DEN, has an inventory status of QOH with zero units available.
+
+M6 - CSMJB MJB Industries, located in M6, holds steel mesh products. Part code SMB5616151005, described as 100x100x5600x1600x5mm Ind MeshIMB5-44-5616, has an inventory status of QOH with zero units available.
+
+M6 - CSMJB MJB Industries, located in M6, holds steel mesh products. Part code SMB5H482410100, described as 100x100x4800x2400x5.6mm Ind MeIMB5H-44-4824, has an inventory status of QOH with zero units available.
+
+M6 - CSMJB MJB Industries, located in M6, holds steel mesh products. Part code SMB5H50171015, described as DNU- see SMB5018101005, has an inventory status of QOH with zero units available.
+
+M6 - CSMJB MJB Industries, located in M6, holds steel mesh products. Part code SMB6012101505, described as 100x150x6000x1200x4x5 Ind MeshIMB45-46-6012-DPI, has an inventory status of QOH with zero units available.
+
+M6 - CSMJB MJB Industries, located in M6, holds steel mesh products. Part code SMBS3003101008, described as 100x100x3000x300x8 Black StrapIMB8-44-3003, has an inventory status of QOH with zero units available.
+
+M6 - CSMJB MJB Industries, located in M6, holds steel mesh products. Part code SMBS6003101008, described as 100x100x6000x300x8mm Mesh StraIMB8-44-6003, has an inventory status of QOH with zero units available.
+
+M6 - CSMJB MJB Industries, located in M6, holds steel mesh products. Part code SMC303H1200510G, described as 50x100x3.15x1200x30mIMG3H-24-1200C30, has an inventory status of QOH with zero units available.
+
+M6 - CSMJB MJB Industries, located in M6, holds steel mesh products. Part code SMC603H1200510G, described as 50x100x3.15x1200x60mIMG3H-24-1200C60, has an inventory status of QOH with zero units available.
+
+M6 - CSMJB MJB Industries, located in M6, holds steel mesh products. Part code SMESH1200850505, described as DNU- see SMESH300011704, has an inventory status of QOH with zero units available.
+
+M6 - CSMJB MJB Industries, located in M6, holds steel mesh products. Part code SMF11090505004G, described as 50x50x1150x950x4mm Weld MeshIMG4-22-1109, has an inventory status of QOH with zero units available.
+
+M6 - CSMJB MJB Industries, located in M6, holds steel mesh products. Part code SMF12080505005G, described as 50x50x1200x800x5mm Ind MeshIMG5-22-1208, has an inventory status of QOH with zero units available.
+
+M6 - CSMJB MJB Industries, located in M6, holds steel mesh products. Part code SMF1614101005, described as DNU- see SMF1614101004, has an inventory status of QOH with zero units available.
+
+M6 - CSMJB MJB Industries, located in M6, holds steel mesh products. Part code SMF17121001004G, described as 100x100x1700x1200x4mm Ind MeshIMG4-44-1712-WLC, has an inventory status of QOH with zero units available.
+
+MJB Industries, located in M6 warehouse, has a product group named Steel Mesh. The company maintains inventory records for various part codes, including SMF1814101004, which describes a 100x150x1800x1400x4mm Steel Mesh panel. This part is currently in stock quantity of zero and has an inventory status code indicating it is available based on current on-hand quantities.
+
+Similarly, SMF20120505004G represents a 50x50x2000x1200x4mm Ind Mesh panel, also with zero inventory levels. The part description includes IMG4-22-2012, indicating the creation date was December 22, 2012.
+
+SMF20120507504G denotes a 50x75x2000x1200x4mm Ind Mesh panel, again with zero inventory levels. The creation date for this part is December 23, 2012.
+
+Part code SMF20151001004G is described as DNU- see CC2015101004G, indicating it is not uniquely identifiable without additional documentation. It too has zero inventory levels.
+
+SMF23110102005G is a 100x200x2.3x1.1x5mm Weld Mesh panel, with zero inventory levels. The creation date for this part is November 23, 2015.
+
+SMF24090505004G represents a 50x50x2350x950x4mm Weld Mesh panel, with zero inventory levels. The creation date for this part is September 23, 2023.
+
+SMF24120505004G is a 50x50x2400x1200x4mm Ind Mesh panel, with zero inventory levels. The creation date for this part is December 22, 2023.
+
+SMF24120505005G is a 50x50x2400x1200x5mm Ind Mesh panel, with zero inventory levels. The creation date for this part is December 22, 2023.
+
+SMF241205075004G is a 50x75x2400x1200x4mm Ind Mesh panel, with zero inventory levels. The creation date for this part is December 23, 2023.
+
+SMF24120575005G is a 50x75x2400x1200x5mm Ind Mesh panel, with zero inventory levels. The creation date for this part is December 23, 2023.
+
+SMF24120755004G is a 75x50x2400x1200x4mm Ind Mesh panel, with zero inventory levels. The creation date for this part is December 32, 2023.
+
+SMF24120755005G is a 75x50x2400x1200x5mm Ind Mesh panel, with zero inventory levels. The creation date for this part is December 32, 2023.
+
+SMF241207575004G is a 75x75x2400x1200x4mm Ind Mesh panel, with zero inventory levels. The creation date for this part is December 33, 2023.
+
+SMF24121001004G is a 100x100x2400x1200x4mm Gal Mesh panel, with zero inventory levels. The creation date for this part is December 44, 2023.
+
+SMF24121001005G is a 100x100x2400x1200x5mm Ind Mesh panel, with zero inventory levels. The creation date for this part is December 44, 2023.
+
+SMF241575504 is a 50x75x2400x1500x4mm Ind Mesh panel, with zero inventory levels. The creation date for this part is December 23, 2023.
+
+SMF2420101003 is a 100x100x2400x2000x3.15mm Ind Mesh panel, with zero inventory levels. The creation date for this part is December 44, 2023.
+
+SMF2512040404G is a 40x40x2500x1200x4mm Ind Mesh panel, with zero inventory levels. The creation date for this part is December 1, 2023.
+
+SMF2618101003 is a 100x100x2600x1800x3.15mm Ind Mesh panel, with zero inventory levels. The creation date for this part is December 18, 2023.
+
+SMF29110102005G is a 100x200x2.9x1.1x5mm Weld Mesh panel, with zero inventory levels. The creation date for this part is November 29, 2023.
+
+MJB Industries operates at warehouse M6, which is described as M6 - CSMJB MJB Industries. The company stocks various steel mesh products. For example, part code SMF2H201202525G, known as 25x25x2000x1200x2.5mm Ind meshIMG2H-11-2012, has an inventory status of QOH (Quantity On Hand) with zero units available across all inventory levels. Similarly, part code SMF2H241202525G, 25x25x2400x1200x2.5mm Ind MeshIMG2H-11-2412, also has zero units available. Part code SMF2H302402525G, 25x25x3000x2400x2.5mm Ind MeshIMG2H-11-3024, follows the same pattern with zero units available. Part code SMF30121501004G, 150x100x3000x1200x4mm Gal MeshIMG4-46-3012-DPI, has zero units available. Part code SMF30240505004G, 50x50x3000x2400x4mm Weld MeshIMG4-22-3024, also has zero units available. Part code SMF30240505005G, 50x50x3000x2400x5mm Weld meshIMG5-22-3024, has zero units available. Part code SMF30240507504G, 50x75x3000x2400x4mm Ind MeshIMG4-23-3024, has zero units available. Part code SMF30240575005G, 50x75x3000x2400x5 Ind MeshIMG5-23-3024, has zero units available. Part code SMF30240755005G, 75x50x3000x2400x5mm Ind MeshIMG5-32-3024, has zero units available. Part code SMF30241001005G, 100x100x3000x2400x5 Ind MeshIMG5-44-3024, has zero units available. Part code SMF35110102005G, 100x200x3.5x1.1x 5mm Weld MeshIMG5-48-3511, has zero units available. Part code SMF3H20084040G, 40x40x2020x865x3.15mm GalveIMG3H-1H1H-2008-C, has zero units available. Part code SMF3H20125050G, 50x50x2000x1200x3.5mm Ind MeshIMG3H-22-2012, has zero units available. Part code SMF3H24121010G, 100x100x2400x1200x3.15mm Gal MIMG3H-44-2412, has zero units available. Part code SMF3H24122525G, 25x25x2400x1200x3.15mm Ind MesIMG3H-11-2412, has zero units available. Part code SMF3H24122550G, 25x50x2400x1200x3.15mm Ind MesIMG3H-12-2412, has zero units available. Part code SMF3H24125025G, 50x25x2400x1200x3.15 Ind MeshIMG3H-21-2412, has zero units available. Part code SMF3H24125050G, 50x50x2400x1200x3.15 Ind MeshIMG3H-22-2412, has zero units available. Part code SMF3H24125075G, 50x75x2400x1200x3.15 Ind MeshIMG3H-23-2412, has zero units available. Part code SMF3H24157575G, 75x75x2400x1500x3.15 TFH MeshIMG3H-33-2415-TFH, has zero units available.
+
+MJB Industries, located in M6 - CSMJB, has a stock of steel mesh products. The company code is 3. The warehouse is described as M6 - CSMJB. The first product is SMF3H24171010G, which is a 100x100x2400x1700x3.15mm steel mesh part with the description "100x100x2400x1700x3.15mm IndIMG3H-44-2417". The inventory control status is QOH, and the unit of measure is EA. There are no quantities recorded for any of the inventory levels.
+
+The second product is SMF3H25267575G, a 75x75x2500x1600x3.15mm steel mesh part with the description "75x75x2500x1600x3.15 MeshIMG3H-33-2516". The inventory control status is QOH, and the unit of measure is EA. Again, there are no quantities recorded for any of the inventory levels.
+
+The third product is SMF3H30242525G, a 25x25x3000x2400x3.15mm steel mesh part with the description "25x25x3000x2400x3.15 Ind MeshIMG3H-11-3024". The inventory control status is QOH, and the unit of measure is EA. There are no quantities recorded for any of the inventory levels.
+
+The fourth product is SMF3H30242550G, a 25x50x3000x2400x3.15mm steel mesh part with the description "25x50x3000x2400x3.15 Ind MeshIMG3H-12-3024". The inventory control status is QOH, and the unit of measure is EA. There are no quantities recorded for any of the inventory levels.
+
+The fifth product is SMF3H30245025G, a 50x25x3000x2400x3.15mm steel mesh part with the description "50x25x3000x2400x3.15 Ind MeshIMG3H-21-3024". The inventory control status is QOH, and the unit of measure is EA. There are no quantities recorded for any of the inventory levels.
+
+The sixth product is SMF3H30245050G, a 50x50x3000x2400x3.15mm steel mesh part with the description "50x50x3000x2400x3.15 Ind MeshIMG3H-22-3024". The inventory control status is QOH, and the unit of measure is EA. There are no quantities recorded for any of the inventory levels.
+
+The seventh product is SMF3H30245075G, a 50x75x3000x2400x3.15mm steel mesh part with the description "50x75x3000x2400x3.15 Ind MeshIMG3H-23-3024". The inventory control status is QOH, and the unit of measure is EA. There are no quantities recorded for any of the inventory levels.
+
+The eighth product is SMF3H44155050G, a 50x50x4400x1500x3.15mm steel mesh part with the description "50x50x4400x1500x3.15 Ind MeshIMG3H-22-4415". The inventory control status is QOH, and the unit of measure is EA. There are no quantities recorded for any of the inventory levels.
+
+The ninth product is SMF4024505004G, a 50x50x4000x2000x4mm galvanized steel mesh part with the description "50x50x4000x2000x4mm Gal MeshIMG5-22-4020". The inventory control status is QOH, and the unit of measure is EA. There are no quantities recorded for any of the inventory levels.
+
+The tenth product is SMF41110102005G, a 100x200x4.1x1.1x5mm welded steel mesh part with the description "100x200x4.1x1.1x5mm Weld meshIMG5-48-4111". The inventory control status is QOH, and the unit of measure is EA. There are no quantities recorded for any of the inventory levels.
+
+The eleventh product is SMF45121000504G, a 100x50x4500x1200x4mm steel mesh part with the description "100x50x4500x1200x4mm Ind MeshIMG4-42-4512". The inventory control status is QOH, and the unit of measure is EA. There are no quantities recorded for any of the inventory levels.
+
+The twelfth product is SMF45121001005G, a 100x100x4500x1200x4mm steel mesh part with the description "100x100x4500x1200 Ind meshIMG5-44-4512". The inventory control status is QOH, and the unit of measure is EA. There are no quantities recorded for any of the inventory levels.
+
+The thirteenth product is SMF45281010056G, a 100x100x4500x2800x5.6mm steel mesh part with the description "100x100x4500x2800x5.6 Ind MeshIMG5H-44-4528". The inventory control status is QOH, and the unit of measure is EA. There are no quantities recorded for any of the inventory levels.
+
+The fourteenth product is SMF46110102005G, a 100x200x4.6x1.1x5mm welded steel mesh part with the description "100x200x4.6x1.1x5mm Weld MeshIMG5-48-4611". The inventory control status is QOH, and the unit of measure is EA. There are no quantities recorded for any of the inventory levels.
+
+The fifteenth product is SMF46150102005G, a 100x200x4600x1500x4mm steel mesh part with the description "100x200x4600x1500 Ind MeshIMG5-48-4615". The inventory control status is QOH, and the unit of measure is EA. There are no quantities recorded for any of the inventory levels.
+
+The sixteenth product is SMF4814101004, a 100x100x4800x1400x4mm black steel mesh part with the description "MESH 100X100X4800X1400X4MM BLACK". The inventory control status is QOH, and the unit of measure is EA. There are no quantities recorded for any of the inventory levels.
+
+The seventeenth product is SMF48150102005G, a 100x200x4750x1100x4mm steel mesh part with the description "100x200x4750x1100 Ind MeshIMG5-48-4711". The inventory control status is QOH, and the unit of measure is EA. There are no quantities recorded for any of the inventory levels.
+
+The eighteenth product is SMF48241010056G, a 100x100x4800x2800x5.6mm steel mesh part with the description "DNU- see CCP48241010056G". The inventory control status is QOH, and the unit of measure is EA. There are no quantities recorded for any of the inventory levels.
+
+The nineteenth product is SMF50241010056G, a 100x100x4800x2400x5.6mm steel mesh part with the description "DNU- see CCP50241010056G". The inventory control status is QOH, and the unit of measure is EA. There are no quantities recorded for any of the inventory levels.
+
+The twentieth product is SMF55H50171015G, a 100x1700x5000x1000x5.6mm steel mesh part with the description "DNU- see SMB5018101005G". The inventory control status is QOH, and the unit of measure is EA. There are no quantities recorded for any of the inventory levels.
+
+M6 - CSMJB MJB INDUSTRIES is the warehouse where the part code SMF5H240301010G, described as 100x100x2400x300x5.6IMG5H-44-2403, is stored. The inventory control status is QOH, indicating the quantity on hand. There are no recorded quantities picked, in despatch, reserved, awaiting confirm out, unconfirmed, or available.
+
+M6 - CSMJB MJB INDUSTRIES also stores part code SMF5H241201010G, described as 100x100x2400x1200x5.6 Ind MeshIMG5H-44-2412. Similar to the previous part, the inventory control status is QOH, and there are no recorded quantities for any other stages of the inventory process.
+
+At M6 - CSMJB MJB INDUSTRIES, part code SMF5H242401010G, described as USE CODE CCP24241010056GIMG5H-44-2424, is stored. The inventory control status is QOH, and there are no recorded quantities for any other stages.
+
+Part code SMF5H30241010G, described as 100x100x3000x2400x5.6 Ind MeshIMG5H-44-3024-IND, is stored at M6 - CSMJB MJB INDUSTRIES. The inventory control status is QOH, and there are no recorded quantities for any other stages.
+
+M6 - CSMJB MJB INDUSTRIES has part code SMF5H352401010G, described as DNU- see CCP35241010056G. The inventory control status is QOH, and there are no recorded quantities for any other stages.
+
+Part code SMF5H35241010G, described as 100x100x3500x2400x5.6 Ind MeshIMG5H-44-3524_JEN, is stored at M6 - CSMJB MJB INDUSTRIES. The inventory control status is QOH, and there are no recorded quantities for any other stages.
+
+Part code SMF5H40241010G, described as DNU- see CCP40241010056G, is stored at M6 - CSMJB MJB INDUSTRIES. The inventory control status is QOH, and there are no recorded quantities for any other stages.
+
+Part code SMF5H45181010G, described as 100x100x4500x1800x5.6 Ind MeshIMG5H-44-4518, is stored at M6 - CSMJB MJB INDUSTRIES. The inventory control status is QOH, and there are no recorded quantities for any other stages.
+
+Part code SMF5H45241010G, described as DNU- see CCP45241010056G, is stored at M6 - CSMJB MJB INDUSTRIES. The inventory control status is QOH, and there are no recorded quantities for any other stages.
+
+Part code SMF5H60151515G, described as 150x150x6000x1500x5.6 CtlIMG5H-66-6015, is stored at M6 - CSMJB MJB INDUSTRIES. The inventory control status is QOH, and there are no recorded quantities for any other stages.
+
+Part code SMF60121000504G, described as 100x50x6000x1200x4mm Ind MeshIMG4-42-6012, is stored at M6 - CSMJB MJB INDUSTRIES. The inventory control status is QOH, and there are no recorded quantities for any other stages.
+
+Part code SMF60121001005G, described as 100x100x6000x1200x5 Ind MeshIMG5-44-6012, is stored at M6 - CSMJB MJB INDUSTRIES. The inventory control status is QOH, and there are no recorded quantities for any other stages.
+
+Part code SMF60150102005G, described as 100x200x6000x1500 Ind MeshIMG5-48-6015, is stored at M6 - CSMJB MJB INDUSTRIES. The inventory control status is QOH, and there are no recorded quantities for any other stages.
+
+Part code SROL11005C305G, described as 100x150x30mx1100x5 Shpyrd coilIMG5-46-1100C30, is stored at M6 - CSMJB MJB INDUSTRIES. The inventory control status is QOH, and there are no recorded quantities for any other stages.
+
+Part code SROL1500C305G, described as 100x200x1500x30mx5mmIMG5-48-15C30, is stored at M6 - CSMJB MJB INDUSTRIES. The inventory control status is QOH, and there are no recorded quantities for any other stages.
+
+Part code SROLL1800C60, described as Mesh Rolls 1800x60mIMB4-44-18C60, is stored at M6 - CSMJB MJB INDUSTRIES. The inventory control status is QOH, and there are no recorded quantities for any other stages.
+
+Part code SSM2412101004, described as 100x100x4x2400x1200x4.0SSIMSS4-44-2412, is stored at M6 - CSMJB MJB INDUSTRIES. The inventory control status is QOH, and there are no recorded quantities for any other stages.
+
+Part code SSM2412101005, described as 100x100x5x2400x1200x5.6 SSIMSS5-44-2412, is stored at M6 - CSMJB MJB INDUSTRIES. The inventory control status is QOH, and there are no recorded quantities for any other stages.
+
+Part code SSM2412252503, described as 25x25x2400x1200x3mm SS316IMSS3-11-2412, is stored at M6 - CSMJB MJB INDUSTRIES. The inventory control status is QOH, and there are no recorded quantities for any other stages.
+
+Part code SSM2412505003, described as 50x50x3x2400x1200x3 SSIMSS3-22-2412, is stored at M6 - CSMJB MJB INDUSTRIES. The inventory control status is QOH, and there are no recorded quantities for any other stages.
+
+MJB Industries operates at warehouse M6, which is described as M6 - CSMJB MJB INDUSTRIES. The company holds various steel mesh products, including SSM2412505004, which is a 50x50x2400x1200x4mm steel mesh with part description SSIMSS4-22-2412. Similarly, SSM2412505005 is a 50x50x2400x1200x5mm steel mesh with part description SS316IMSS5-22-2412. Another product, SSM2H24122525, is a 25x25x2400x1200x2.5mm steel mesh with part description SS316IMSS2H-11-2412. The company also stocks SYARD091015C30G, a 100x150x30mx900x5 sheepyard coil with part description IMG5-46-0900C30. SYARD600910155G is another sheepyard coil, measuring 100x150x6000x900x5 with part description IMG5-46-6009. SYARD601110155G is a similar product, measuring 100x150x6000x1100x5 with part description IMG5-46-6011. Additionally, the company has heavy duty guard posts, including TCHDRND1, which is a 35/41TCHDRND1 post, and TCHDRND2, which is a 60kg 48TCHDRND2 post. Tank mesh rolls, such as TMESH1200C60 (1200x60m) and TMESH1550C60 (1550x60m), are also stored. Lastly, VEE Mesh 2400 long, with part description IMG4-1H3-2402V, is another product.
+
+MJB Industries continues to operate at warehouse M6, which is described as M6 - CSMJB MJB INDUSTRIES. The company also manages truss girders, including TG100X9M, which is a 9m truss with part description TG100-10/6/6 - 9m Trusses. TG135X9M is another truss girder, measuring 9m with part description TG135-10/6/6 - 9m. TG180X9M is a 9m truss with part description TG180-10x6x6 - 9m. TG230X9M is a 9m truss with part description P TG230-10/6/6 - 9m. TG270X9M is a 9m truss with part description P TG270-10/6/8 - 9 meters. These trusses are all stored at warehouse M6.
+
+MJB Industries operates at warehouse M7, which is described as M7 - Cornwall Coal Blackwood Collie. The company stores steel mesh products, including SMB4814100505, which is a 100x100x4800x1400x4x5mm steel mesh with part description IMB45-44-4814-CCC. SMB4814101505 is another steel mesh product, measuring 100x150x4800x1400x5mm with part description IMB5-46-4814-MCO. The company also has a stock of MESH 100X100X4800X1400X4MM BLACK, with part code SMF4814101004, which has a minimum level of 1000 and maximum level of 2000, IC status code CONFIN, and UOM of EA. This product currently has an IC quantity of 1240 and an IC available quantity of 1240.
+
+The warehouse descriptions and product group descriptions provide valuable insights into the inventory management practices of MJB Industries.
+
+MM works at the warehouse MM - ASW Direct Ship from Malaysia. The company code is 3. The product group description is Friction-Lok. The part code is 3FL112G00072, and the part description is FLOK 39MM X 72" GALV FLOK(US ONLY). The inventory control status code is QOH, and the unit of measure is EA. The inventory quantity is 0.
+
+MM operates at the warehouse MM - ASW Direct Ship from Malaysia. The company code is 3. The product group description is Mesh. The part code is CCP300310108G, and the part description is MESH STRAP 3.0MX0.3M 100X100 APT 8.0MM WIRE- GALIMG8-44-3003_MS905778. The inventory control status code is QOH, and the unit of measure is EA. The inventory quantity is 0.
+
+MM functions at the warehouse MM - ASW Direct Ship from Malaysia. The company code is 3. The product group description is Mesh. The part code is CCP45241010056G, and the part description is MESH MINE 4.5MX2.4M 100X100 APIMG5H-44-4524_JEN. The inventory control status code is QOH, and the unit of measure is EA. The inventory quantity is 11000.
+
+MM performs at the warehouse MM - ASW Direct Ship from Malaysia. The company code is 3. The product group description is Mesh. The part code is JOS6003G, and the part description is AUSRO STRAP 6.0MX0.3M 10MM WIRE GALOSH106H-6003G. The inventory control status code is QOH, and the unit of measure is EA. The inventory quantity is 0.
+
+MM operates at the warehouse MM - ASW Direct Ship from Malaysia. The company code is 3. The product group description is Steel Mesh. The part code is 3RM600446108G, and the part description is GALVANISED WIRE MESH 5' X 9' 4X4 6GA. The inventory control status code is QOH, and the unit of measure is EA. The inventory quantity is 0.
+
+MM works at the warehouse MM - ASW Direct Ship from Malaysia. The company code is 3. The product group description is Steel Mesh. The part code is 3RM680448204, and the part description is WIRE MESH 5' 8" X 17' 4X4 8GA. The inventory control status code is QOH, and the unit of measure is EA. The inventory quantity is 0.
+
+MM functions at the warehouse MM - ASW Direct Ship from Malaysia. The company code is 3. The product group description is Steel Mesh. The part code is SMF2516757503G, and the part description is MESH 2.5MX1.6M 75X75 APT 3.15MM WIRE - GALIMG3H-33-2516. The inventory control status code is QOH, and the unit of measure is EA. The inventory quantity is 0.
+
+MT handles goods in transit overseas at the warehouse MT - ASW Goods in Transit Overseas. The company code is 3. The product group description is Friction-Lok. The part code is 3FL112G00072, and the part description is FLOK 39MM X 72" GALV FLOK(US ONLY). The inventory control status code is QOH, and the unit of measure is EA. The inventory quantity is 0.
+
+MT manages goods in transit overseas at the warehouse MT - ASW Goods in Transit Overseas. The company code is 3. The product group description is Friction-Lok. The part code is FBRING47, and the part description is Friction Lok Ring. 47 DiaDrg FL0005 Rev 2. The inventory control status code is QOH, and the unit of measure is EA. The inventory quantity is 0.
+
+MT oversees goods in transit overseas at the warehouse MT - ASW Goods in Transit Overseas. The company code is 3. The product group description is Friction-Lok. The part code is JFL4724G, and the part description is FRICTION LOK BOLT 47MMX2400MM - GAL150 BOLTS PER PACK. The inventory control status code is QOH, and the unit of measure is EA. The inventory quantity is 6150, and the available quantity is 6150.
+
+MT handles goods in transit overseas at the warehouse MT - ASW Goods in Transit Overseas. The company code is 3. The product group description is Jennchem Seals. The part code is SMESH300011704, and the part description is SHOTCRETE MESH 3.00MX1.17M 4MM WIRE - GALIMG4D-66-3012. The inventory control status code is QOH, and the unit of measure is EA. The inventory quantity is 0.
+
+MT manages goods in transit overseas at the warehouse MT - ASW Goods in Transit Overseas. The company code is 3. The product group description is Mesh. The part code is CC2015101004G, and the part description is Mesh Rib 2M x 1.5M 100 x 100 Apt 4.0mm wire GalIMG4-44-2015-JNA. The inventory control status code is QOH, and the unit of measure is EA. The inventory quantity is 6600, and the available quantity is 6600.
+
+MT oversees goods in transit overseas at the warehouse MT - ASW Goods in Transit Overseas. The company code is 3. The product group description is Mesh. The part code is CC402410105, and the part description is MESH MINE 4.0MX2.4M 100X100 APT 5.0MM WIREIMB5-44-4024. The inventory control status code is QOH, and the unit of measure is EA. The inventory quantity is 0.
+
+MT handles goods in transit overseas at the warehouse MT - ASW Goods in Transit Overseas. The company code is 3. The product group description is Mesh. The part code is CC5014101005, and the part description is MESH ROOF 5.00MX1.35M 100X100 APT 5.0MM WIREIMB5-44-5014-JNA. The inventory control status code is QOH, and the unit of measure is EA. The inventory quantity is 1931, and the available quantity is 1931.
+
+MT manages goods in transit overseas at the warehouse MT - ASW Goods in Transit Overseas. The company code is 3. The product group description is Mesh. The part code is CCP300310108G, and the part description is MESH STRAP 3.0MX0.3M 100X100 APT 8.0MM WIRE- GALIMG8-44-3003_MS905778. The inventory control status code is QOH, and the unit of measure is EA. The inventory quantity is 0.
+
+MT oversees goods in transit overseas at the warehouse MT - ASW Goods in Transit Overseas. The company code is 3. The product group description is Mesh. The part code is CCP35241010056G, and the part description is MESH MINE 3.5MX2.4M 100X100 APT 5.6MM WIRE - GALIMG5H-44-3524. The inventory control status code is QOH, and the unit of measure is EA. The inventory quantity is 0.
+
+MT handles goods in transit overseas at the warehouse MT - ASW Goods in Transit Overseas. The company code is 3. The product group description is Mesh. The part code is CCP40241010056G, and the part description is MESH MINE 4.0MX2.4M 100X100 APT 5.6MM WIRE - GALIMG5H-44-4024. The inventory control status code is QOH, and the unit of measure is EA. The inventory quantity is 1200, and the available quantity is 1200.
+
+MT manages goods in transit overseas at the warehouse MT - ASW Goods in Transit Overseas. The company code is 3. The product group description is Mesh. The part code is CCP42241010056G, and the part description is MESH MINE 4.2MX2.4M 100X100 APT 5.6MM WIRE - GALIMG5H-44-4224. The inventory control status code is QOH, and the unit of measure is EA. The inventory quantity is 0.
+
+MT oversees goods in transit overseas at the warehouse MT - ASW Goods in Transit Overseas. The company code is 3. The product group description is Mesh. The part code is CCP45241010056G, and the part description is MESH MINE 4.5MX2.4M 100X100 APIMG5H-44-4524_JEN. The inventory control status code is QOH, and the unit of measure is EA. The inventory quantity is 11000, and the available quantity is 11000.
+
+MT handles goods in transit overseas at the warehouse MT - ASW Goods in Transit Overseas. The company code is 3. The product group description is Mesh. The part code is CCP4824101005, and the part description is Mine Mesh 4.8 M x 2.4M 100 x 100 Apt 5mm Wire -BlkIMB5-44-4824. The inventory control status code is QOH, and the unit of measure is EA. The inventory quantity is 0.
+
+MT - ASW Goods in Transit Overseas houses a stock of Mine Mesh 4800X2400mm 100x100mm Apt 5.6mm wire GalvIMG5H-44-4824, with an inventory count of 2000 units. This product is part of the Mesh category and is currently available with no pending orders or reservations.
+
+MT - ASW Goods in Transit Overseas does not hold any stock of GX MESH 4.80MX1.125M 100X100 APT 4.0MM WIRE - GAL, indicating a zero inventory count.
+
+MT - ASW Goods in Transit Overseas maintains a stock of GX MESH - ROOF 4.8M X 1.1M GALGLENCORE COAL MAT # 400124620 - ULAN NO.3, with an inventory count of 2000 units. This product is part of the Mesh category and is currently available with no pending orders or reservations.
+
+MT - ASW Goods in Transit Overseas does not hold any stock of GX MESH ROOF 4.80X1.21M 100X100 APT 4.0MM WIRE - GALV, indicating a zero inventory count.
+
+MT - ASW Goods in Transit Overseas does not hold any stock of GX MESH - ROOF 4.8M X 1.2M GALAPPIN WEST MAT # 10992135, indicating a zero inventory count.
+
+MT - ASW Goods in Transit Overseas does not hold any stock of GX MESH - ROOF 4.8M X 1.2M GALDENDROBIUM MAT # 10992135, indicating a zero inventory count.
+
+MT - ASW Goods in Transit Overseas does not hold any stock of GX MESH ROOF 5.00MX1.20M 100X100APT 4.0MM WIRE GAL, indicating a zero inventory count.
+
+MT - ASW Goods in Transit Overseas does not hold any stock of GX MESH 5.0M X 1.16M 100X100 APT 4.00MM WIRE - GAL, indicating a zero inventory count.
+
+MT - ASW Goods in Transit Overseas maintains a stock of GX MESH - ROOF 5.0M X 1.2M GALGLENCORE COAL MAT # 400037854 - OAKY CREEK, with an inventory count of 3120 units. This product is part of the Mesh category and is currently available with no pending orders or reservations.
+
+MT - ASW Goods in Transit Overseas maintains a stock of GX MESH - ROOF 5.0M X 1.2M GALGLENCORE COAL MAT # 400195486 - ULAN WEST, with an inventory count of 2280 units. This product is part of the Mesh category and is currently available with no pending orders or reservations.
+
+MT - ASW Goods in Transit Overseas maintains a stock of GX MESH 5.0MX1.2M 100X150 APT VARIABLE WIRE - GAL, with an inventory count of 80 units. This product is part of the Mesh category and is currently available with no pending orders or reservations.
+
+MT - ASW Goods in Transit Overseas maintains a stock of GX MESH ROOF 5.00M X 1.70M 100X150 APT 4.00MM WIRE - GAL, with an inventory count of 480 units. This product is part of the Mesh category and is currently available with no pending orders or reservations.
+
+MT - ASW Goods in Transit Overseas does not hold any stock of GX MESH ROOF 5.00MX1.75M 150X100 -IMGX44H-46-5017, indicating a zero inventory count.
+
+MT - ASW Goods in Transit Overseas maintains a stock of GX MESH ROOF 5.60M X 1.40M 100X100 APT 4.0MM WIRE - GAL, with an inventory count of 2020 units. This product is part of the Mesh category and is currently available with no pending orders or reservations.
+
+MT - ASW Goods in Transit Overseas does not hold any stock of Ausro Strap 4.0 x 0.3OSH106H-4003, indicating a zero inventory count.
+
+MT - ASW Goods in Transit Overseas maintains a stock of Ausro Strap 5.8 x 0.3OSH106H-5803, with an inventory count of 80 units. This product is part of the Mesh category and is currently available with no pending orders or reservations.
+
+MT - ASW Goods in Transit Overseas does not hold any stock of DNU - SEE JOS6003B, indicating a zero inventory count.
+
+MT - ASW Goods in Transit Overseas does not hold any stock of Ausro STRAP W 300*6000*10MM BLACKOSH106H-6003, indicating a zero inventory count.
+
+MT - ASW Goods in Transit Overseas does not hold any stock of AUSRO STRAP 6.0MX0.3M 10MM WIRE GALOSH106H-6003G, indicating a zero inventory count.
+
+MT - ASW Goods in Transit Overseas does not hold any stock of MESH ROOF 4.8MX1.42M 100X100 APT 5.0MM WIREIMB5-44-4814-JCR, indicating a zero inventory count.
+
+MT - ASW Goods in Transit Overseas houses a mesh roof part code SMB48141015045, known as MESH ROOF 4.80 M X 1.40M 100X150 APT 4.0MM & 5.0MM WIRE. The inventory level is currently at zero units.
+
+MT - ASW Goods in Transit Overseas stores part code SMB5016151005S, described as MESH ROOF 5.00MX1.55M 100X100 APT 5.0MM WIRE SLGIMB5-46-5016-JNA. There are 1474 units available in inventory.
+
+MT - ASW Goods in Transit Overseas has part code SMB5018101005, named MESH ROOF 5.00MX1.75M 100X100 APT 5.0MM WIREIMB55H-46-5017-JAS, with no units in inventory.
+
+MT - ASW Goods in Transit Overseas keeps part code SMB5018101005G, referred to as MESH ROOF 5.00MX1.75M 100X100 APT 5.0MM WIRE-GALIMG55H-46-5017-JAS, with 1440 units available.
+
+MT - ASW Goods in Transit Overseas maintains part code SMB5113515105S, labeled MESH ROOF 5.10MX1.35M 150X100 APT 5.0MM WIRE SLGIMB5-64-5113-JMOL, with 88 units in inventory.
+
+MT - ASW Goods in Transit Overseas does not have part code SMB5414101005C, named MESH ROOF 5.40 M X 1.40M 100X100 APT 5.0MM WIREIMB5-44-5414-JEN, in stock.
+
+MT - ASW Goods in Transit Overseas lacks part code SMB54141015045, described as MESH ROOF 5.40 M X 1.40M 100X150 APT 4.0MM & 5.0MM WIRE, with no units in inventory.
+
+MT - ASW Goods in Transit Overseas does not have part code SMB5612101005, named MESH ROOF 5.60MX1.2M 100X100 APT 5.0MM WIREIMB5-44-5612-JMA, in stock.
+
+MT - ASW Goods in Transit Overseas stores part code SMF1614101004, known as Rib Mesh 1.6 x 1.4M 100x100 Apt 4mm WireIMB4-44-1614-MCO, with no units in inventory.
+
+MT - ASW Goods in Transit Overseas keeps part code SMF1711151504UW, described as MESH - RIB 1.7M X 1.1M 150X150MM APTGLENCORE COAL MAT # 400208837 - ULAN WEST, with 6037 units available.
+
+MT - ASW Goods in Transit Overseas maintains part code SMF1716101003G, labeled RIB MESH 1.7M X 1.6M, 100X100 APT & 3.15MM GAL WIRE, with 1200 units in inventory.
+
+MT - ASW Goods in Transit Overseas does not have part code SMF2115151504U3, named MESH - RIB 2.1M X 1.5M 150X150MM APTGLENCORE COAL MAT # 400024932 - ULAN NO.3, in stock.
+
+MT - ASW Goods in Transit Overseas lacks part code SMF2118151504U3, described as MESH - RIB 2.15M X 1.8M 150X150MM APT 4MM WIRE, with no units in inventory.
+
+MT - ASW Goods in Transit Overseas does not have part code SMF2214101004, named MESH RIB 2.20MX1.40M 100X100 APT 4.0MM WIREIMB4-44-2214-JMOL, in stock.
+
+MT - ASW Goods in Transit Overseas keeps part code SMF24151010034G, described as MESH RIB 2.40MX1.50M 100X100 APT 3.0/4.0MM WIRE -GIMG34-44-2415-JAS, with 3100 units available.
+
+MT - ASW Goods in Transit Overseas maintains part code SMF302410104GOC, labeled MESH - RIB 2.1M X 1.5M 150X150MM APTGLENCORE COAL MAT # 400069557 - OAKY CREEK, with 1800 units in inventory.
+
+MT - ASW Goods in Transit Overseas does not have part code SMF36121010056G, named MESH MINE 3.60MX1.20M 100X100 APT 5.6MM WIRE - GALIMG5H-44-3612, in stock.
+
+MT - ASW Goods in Transit Overseas lacks part code SMF45171010056G, described as MESH MINE 4.5MX1.7M 100X100 APT 5.6MM WIRE - GALIMG5H-44-4517_JEN, with no units in inventory.
+
+MT - ASW Goods in Transit Overseas does not have part code SMF4524101005, named MESH Mine 4.5M X 2.4M 100X100 APT 5.0MM WIRE, in stock.
+
+MT - ASW Goods in Transit Overseas keeps part code SMF5716101005, described as MESH MINE 5.7MX1.6M 100X100 APT 5MM WIRE - BLK, with 600 units available.
+
+MT - ASW Goods in Transit Overseas warehouse holds mesh products, with part SMF5716101005G, known as MESH MINE 5.7MX1.6M 100X100 APT 5MM WIRE - GAL. The inventory level is 2155 units, all available for immediate use.
+
+MT - ASW Goods in Transit Overseas warehouse has no stock of part COILGW4, described as 4mm Galv Wire In CoilsCOILGW4. The inventory status indicates zero units available.
+
+MT - ASW Goods in Transit Overseas warehouse lacks part COILGW5, named Galve Wire 5mmCOILGW5. The inventory status shows zero units available.
+
+MT - ASW Goods in Transit Overseas warehouse has part COILGW5.6, described as 5.55mm Galv Wire In CoilsCOILGW5.6. The inventory status indicates 1038.167 tons available.
+
+MT - ASW Goods in Transit Overseas warehouse has no stock of part COILGW6.3, named 6.3mm Galv Wire In CoilsCOILGW6.3. The inventory status shows zero units available.
+
+MT - ASW Goods in Transit Overseas warehouse has no stock of part CW500L10MM, described as 10mm Bright Wire In CoilsR500L10.0-Coils. The inventory status indicates zero units available.
+
+MT - ASW Goods in Transit Overseas warehouse has no stock of part CW500L3.97HD, named Hard Drawn Wire 3.97mm blackR500L3.97-Coils. The inventory status shows zero units available.
+
+MT - ASW Goods in Transit Overseas warehouse has no stock of part CW500L4, described as 4.0mm Bright Wire In CoilsR500L4.0-Coils. The inventory status indicates zero units available.
+
+MT - ASW Goods in Transit Overseas warehouse has 120.967 tons of part CW500L5, named 5.0mm Bright Wire In CoilsR500L5.0-Coils. The inventory status shows 120.967 tons available.
+
+MT - ASW Goods in Transit Overseas warehouse has no stock of part CW500L5.6, described as 5.6mm Bright Wire In CoilsR500L5.6-Coils. The inventory status indicates zero units available.
+
+MT - ASW Goods in Transit Overseas warehouse has no stock of part CW500L6, named 6.0mm Bright Wire in CoilsR500L6.0-Coils. The inventory status shows zero units available.
+
+MT - ASW Goods in Transit Overseas warehouse has no stock of part CW500L6.3, described as 6.3mm Bright Wire In CoilsR500L6.3-Coils. The inventory status indicates zero units available.
+
+MT - ASW Goods in Transit Overseas warehouse has 12.106 tons of part CW500L7.1, named 7.10mm Bright Wire In CoilsR500L7.1-Coils. The inventory status shows 12.106 tons available.
+
+MT - ASW Goods in Transit Overseas warehouse has no stock of part CW500L8, described as 8.0mm Bright Wire In coilsR500L8.0-Coils. The inventory status indicates zero units available.
+
+MT - ASW Goods in Transit Overseas warehouse has 0.012 tons of part D500L06.0SP, named 6.0mm Ribbed Wire in SpoolsD500L6.0-Spools. The inventory status shows 0.012 tons available.
+
+MT - ASW Goods in Transit Overseas warehouse has no stock of part D500L06.3SP, described as 6.3mm Ribbed wire in SpoolsD500L6.3-Spools. The inventory status indicates zero units available.
+
+MT - ASW Goods in Transit Overseas warehouse has no stock of part D500L07.6SP, named 7.60mm Ribbed Wire in SpoolsD500L7.6-Spools. The inventory status shows zero units available.
+
+MT - ASW Goods in Transit Overseas warehouse has no stock of part D500L08.6SP, described as 8.60mm Ribbed Wire in SpoolsD500L8.6-Spools. The inventory status indicates zero units available.
+
+MT - ASW Goods in Transit Overseas warehouse has no stock of part D500L09.5SP, named 9.50mm Ribbed Wire in SpoolsD500L9.5-Spools. The inventory status shows zero units available.
+
+MT - ASW Goods in Transit Overseas warehouse has no stock of part D500L12.0SP, described as 12mm Rib Wire in SpoolsD500L12.0-Spools. The inventory status indicates zero units available.
+
+MT - ASW Goods in Transit Overseas houses a variety of mesh components and raw materials. The warehouse contains tie wire with part codes TIE3.15X1.2MM, TIE3.15X2.3MM, and TIE3.15X2.4MM, all described as tie wire with specific lengths. Additionally, there is a large coil of 4.0mm black tie wire weighing 1000kg with part code TIE4.0X1000KG. The warehouse also stores smooth rod raw materials including 6mm wire (part code 6MBW6) and 8mm wire (part code 6MBW8), both 6 meters long. Other products include S&C wire mesh (part codes SCW10X3.5M and SCW6.3X1MG) and steel mesh products such as galvanized wire mesh (part codes 3RM600446108G and 3RM680448204) and various ind mesh and ctrhu mesh (part codes CCP30241010056G, CTHRUIMG4H2325, CTHRUIMG4H2412, CTHRUIMG4H2418). Lastly, square mesh (part codes D500LSL62 and D500LSL72) and ribbed reinforcing bar coils (part codes D500N10COIL, D500N10X6M, D500N12X6M, and D500N12XCOIL) are stored in the warehouse.
+
+The warehouse at MT - ASW Goods in Transit Overseas also holds smooth rod raw materials. Part code 6MBW6 describes 6mm wire 6 meters long, containing 750 pieces. Part code 6MBW8 has 8mm wire 6 meters long, with 425 pieces available. The warehouse also includes S&C wire mesh (part codes SCW10X3.5M and SCW6.3X1MG) and steel mesh products such as galvanized wire mesh (part codes 3RM600446108G and 3RM680448204) and various ind mesh and ctrhu mesh (part codes CCP30241010056G, CTHRUIMG4H2325, CTHRUIMG4H2412, CTHRUIMG4H2418). Lastly, square mesh (part codes D500LSL62 and D500LSL72) and ribbed reinforcing bar coils (part codes D500N10COIL, D500N10X6M, D500N12X6M, and D500N12XCOIL) are stored in the warehouse.
+
+The warehouse at MT - ASW Goods in Transit Overseas maintains a diverse inventory of steel mesh products. Part code 3RM600446108G describes a galvanized wire mesh measuring 5 feet by 9 feet with a 4x4 gauge and 6 gauge. Part code 3RM680448204 represents a wire mesh measuring 5 feet 8 inches by 17 feet with a 4x4 gauge and 8 gauge. Other products include ind mesh (part code CCP30241010056G) and ctrhu mesh (part codes CTHRUIMG4H2325, CTHRUIMG4H2412, CTHRUIMG4H2418). Additionally, square mesh (part codes D500LSL62 and D500LSL72) and ribbed reinforcing bar coils (part codes D500N10COIL, D500N10X6M, D500N12X6M, and D500N12XCOIL) are stored in the warehouse.
+
+The warehouse at MT - ASW Goods in Transit Overseas stores various types of steel mesh. Part code CCP30241010056G describes an ind mesh measuring 100x100x3000x2400x5.6 gauge. Part codes CTHRUIMG4H2325, CTHRUIMG4H2412, and CTHRUIMG4H2418 represent ctrhu mesh with specific dimensions. Square mesh (part codes D500LSL62 and D500LSL72) and ribbed reinforcing bar coils (part codes D500N10COIL, D500N10X6M, D500N12X6M, and D500N12XCOIL) are also stored in the warehouse.
+
+The warehouse at MT - ASW Goods in Transit Overseas keeps a supply of steel mesh including part code CTHRUIMG4H2325, which describes a ctrhu mesh measuring 2350mm by 1000mm. Part code CTHRUIMG4H2412 represents a ctrhu mesh measuring 1150mm by 1200mm. Part code CTHRUIMG4H2418 describes a ctrhu mesh measuring 1750mm by 1800mm. Square mesh (part codes D500LSL62 and D500LSL72) and ribbed reinforcing bar coils (part codes D500N10COIL, D500N10X6M, D500N12X6M, and D500N12XCOIL) are also stored in the warehouse.
+
+The warehouse at MT - ASW Goods in Transit Overseas maintains a stock of square mesh with part codes D500LSL62 and D500LSL72, both described as square mesh with 6mm x 2.4m dimensions. The warehouse also stores ribbed reinforcing bar coils with part codes D500N10COIL, D500N10X6M, D500N12X6M, and D500N12XCOIL, all described as specific gauges and lengths.
+
+The warehouse at MT - ASW Goods in Transit Overseas stores ribbed reinforcing bar coils with part codes D500N10COIL and D500N12XCOIL, both described as specific gauges and lengths. The warehouse also maintains a supply of square mesh with part codes D500LSL62 and D500LSL72, both described as square mesh with 6mm x 2.4m dimensions.
+
+The warehouse at MT - ASW Goods in Transit Overseas stores ribbed reinforcing bar coils with part codes D500N10COIL and D500N12XCOIL, both described as specific gauges and lengths. The warehouse also maintains a supply of square mesh with part codes D500LSL62 and D500LSL72, both described as square mesh with 6mm x 2.4m dimensions.
+
+MT - ASW Goods in Transit Overseas is storing steel mesh products. The warehouse holds various part codes including D500N16X6M, which is a 16mm ribbed reinforcing bar, and D500N20X6M, a 20mm ribbed reinforcing bar. Additionally, there are coils of N8 Dbars (D500N8.0COIL) and square mesh panels (D500SL82, D500SL92). The warehouse also stocks metal straps (JOS3003B, JOS3003G) and different mesh panels (MP122404G, MP242404G, MP252404G, MP3012507504G, MP302404G, MP312404G, MP352404G, MP362404G, MP411904G, MP412004G, MP422404G, MP432404G, MP452404G).
+
+The inventory for D500N16X6M and D500N20X6M shows zero quantities across all fields, indicating no current stock. Similarly, D500N8.0COIL, D500SL82, D500SL92, JOS3003B, JOS3003G, MP122404G, MP242404G, MP252404G, MP3012507504G, MP302404G, MP312404G, MP352404G, MP362404G, MP411904G, MP412004G, MP422404G, MP432404G, and MP452404G also have zero quantities except for MP452404G, which has an available quantity of 61 units.
+
+On January 15, 2023, the warehouse reported that MP452404G had an IC Quantity of 61, indicating that 61 units were available for potential dispatch. All other parts show zero quantities in all fields, suggesting they are not currently in stock.
+
+MT - ASW Goods in Transit Overseas is storing steel mesh products. The company code 3 indicates these records pertain to this warehouse. Part code MP462404G, described as 358 Mesh 4.6m x 2.4m IMZG4-305-4624, has an inventory count of 20 units available. No other inventory actions have been recorded for this part.
+
+MT - ASW Goods in Transit Overseas is managing steel mesh products. Part code MP602404G, described as 358 Panels 6m x 2.4m IMZG4-305-6024, currently has no inventory quantity. No movements or reservations have been made for this part.
+
+MT - ASW Goods in Transit Overseas is handling steel mesh products. Part code MP60H204HG, described as 358 Panels 6.4m x 2.395m IMZG4-305H-64H24H, also has no inventory quantity. No movements or reservations have been made for this part.
+
+MT - ASW Goods in Transit Overseas is managing steel mesh products. Part code MP642404G, described as 358 Mesh 6.4m x 2.4m IMZG4-305-6424, similarly has no inventory quantity. No movements or reservations have been made for this part.
+
+MT - ASW Goods in Transit Overseas is storing steel mesh products. Part code SL41, described as SL 41 Square Mesh 6X2.4R500SL41, has no inventory quantity. No movements or reservations have been made for this part.
+
+MT - ASW Goods in Transit Overseas is managing steel mesh products. Part code SL41G, described as SL 41 Square Mesh 6X2.4 GalvR500SL41, also has no inventory quantity. No movements or reservations have been made for this part.
+
+MT - ASW Goods in Transit Overseas is handling steel mesh products. Part code SMB4517101005, described as 100x100x4500x1700x5mm Bright MIMB5-44-4517, has no inventory quantity. No movements or reservations have been made for this part.
+
+MT - ASW Goods in Transit Overseas is managing steel mesh products. Part code SMB4524101005, described as 100x100x4500x2400x5mm BlackIMB5-44-4524, also has no inventory quantity. No movements or reservations have been made for this part.
+
+MT - ASW Goods in Transit Overseas is storing steel mesh products. Part code SMB4814100505, described as 100x100x4800x1400x4x5IMB45-44-4814-CCC, has no inventory quantity. No movements or reservations have been made for this part.
+
+MT - ASW Goods in Transit Overseas is managing steel mesh products. Part code SMB4814101505, described as 100x150x4800x1400x5mmIMB5-46-4814-MCO, also has no inventory quantity. No movements or reservations have been made for this part.
+
+MT - ASW Goods in Transit Overseas is handling steel mesh products. Part code SMB4H45171010, described as 100x100x4500x1700x4.24mm BlackIMB4H-44-4517, has no inventory quantity. No movements or reservations have been made for this part.
+
+MT - ASW Goods in Transit Overseas is managing steel mesh products. Part code SMB4H50241010, described as 100x100x5000x2400x4.50IMB4H-44-5024, also has no inventory quantity. No movements or reservations have been made for this part.
+
+MT - ASW Goods in Transit Overseas is storing steel mesh products. Part code SMB5002101004, described as 100x50x25x5000x250x4x5IMB45-421-5002-DEN, has no inventory quantity. No movements or reservations have been made for this part.
+
+MT - ASW Goods in Transit Overseas is managing steel mesh products. Part code SMB5016101005, described as 100x100x5000x1600x5mm - JNAIMB5-44-5016-JNA, has no inventory quantity. No movements or reservations have been made for this part.
+
+MT - ASW Goods in Transit Overseas is handling steel mesh products. Part code SMB5016101505, described as DNU- see SMB5016151005S, has no inventory quantity. No movements or reservations have been made for this part.
+
+MT - ASW Goods in Transit Overseas is managing steel mesh products. Part code SMB5112151504, described as 150x150x5100x1150x4x5 - DEN2IMB45-66-5111-DEN2, has 1080 units available. No movements or reservations have been made for this part.
+
+MT - ASW Goods in Transit Overseas is handling steel mesh products. Part code SMB5118151505, described as 150x150x5100x1700x4x5IMB45-66-5117-DEN, has no inventory quantity. No movements or reservations have been made for this part.
+
+MT - ASW Goods in Transit Overseas is managing steel mesh products. Part code SMB5616151005, described as 100x100x5600x1600x5mm Ind MeshIMB5-44-5616, has no inventory quantity. No movements or reservations have been made for this part.
+
+MT - ASW Goods in Transit Overseas is handling steel mesh products. Part code SMB6012101505, described as 100x150x6000x1200x4x5 Ind MeshIMB45-46-6012-DPI, has no inventory quantity. No movements or reservations have been made for this part.
+
+MT - ASW Goods in Transit Overseas is managing steel mesh products. Part code SMBS3003101008, described as 100x100x3000x300x8 Black StrapIMB8-44-3003, has no inventory quantity. No movements or reservations have been made for this part.
+
+MT - ASW Goods in Transit Overseas is storing steel mesh products. The part code SMBS6003101008, described as 100x100x6000x300x8mm Mesh StraIMB8-44-6003, has an inventory count of zero across all statuses.
+
+MT - ASW Goods in Transit Overseas is also managing steel mesh products with part code SMC303H1200510G, described as 50x100x3.15x1200x30mIMG3H-24-1200C30. This part has an inventory count of zero across all statuses.
+
+Part code SMC603H1200510G, described as 50x100x3.15x1200x60mIMG3H-24-1200C60, is also stored at MT - ASW Goods in Transit Overseas. Its inventory count is zero across all statuses.
+
+The part code SMF20120505004G, described as 50x50x2000x1200x4mm Ind MeshIMG4-22-2012, is currently available with an inventory count of 200 units.
+
+Part code SMF20120507504G, described as 50x75x2000x1200x4mm Ind MeshIMG4-23-2012, is available with an inventory count of 100 units.
+
+Part code SMF23110102005G, described as 100x200x2.3x1.1x5mm Weld MeshIMG5-48-2311, has an inventory count of zero across all statuses.
+
+Part code SMF24120505004G, described as 50x50x2400x1200x4mm Ind MeshIMG4-22-2412, is available with an inventory count of 250 units.
+
+Part code SMF24120505005G, described as 50x50x2400x1200x5 Ind MeshIMG5-22-2412, has an inventory count of zero across all statuses.
+
+Part code SMF24120507504G, described as 50x75x2400x1200x4mm Ind MeshIMG4-23-2412, is available with an inventory count of 200 units.
+
+Part code SMF24120575005G, described as 50x75x2400x1200x5 Ind MeshIMG5-23-2412, has an inventory count of zero across all statuses.
+
+Part code SMF24120755004G, described as 75x50x2400x1200x4mm Ind MeshIMG4-32-2412, has an inventory count of zero across all statuses.
+
+Part code SMF24120755005G, described as 75x50x2400x1200x5m Ind MeshIMG5-32-2412, has an inventory count of zero across all statuses.
+
+Part code SMF24120757504G, described as 75x75x2400x1200x4mm Ind MeshIMG4-33-2412, has an inventory count of zero across all statuses.
+
+Part code SMF24121001004G, described as 100x100x2400x1200x4mm Gal MeshIMG4-44-2412, has an inventory count of zero across all statuses.
+
+Part code SMF24121001005G, described as 100x100x2400x1200x5mm Ind MeshIMG5-44-2412, has an inventory count of zero across all statuses.
+
+Part code SMF241575504, described as 50x75x2400x1500x4 Ind MeshIMB4-23-2415-RTF, has an inventory count of zero across all statuses.
+
+Part code SMF2420101003, described as 100x100x2400x2000x3.15 Ind MesIMB3H-44-2420-DCLA, has an inventory count of zero across all statuses.
+
+Part code SMF2512040404G, described as 40x40x2500x1200x4mm Ind MeshIMG4-1H1H-2512, has an inventory count of zero across all statuses.
+
+Part code SMF2516101031G, described as MESH RIB 2.5MX1.60M 100X100 APT 3.15MM WIRE GALVIMG3H-44-2516, has an inventory count of zero across all statuses.
+
+Part code SMF2516757503G, described as MESH 2.5MX1.6M 75X75 APT 3.15MM WIRE - GALIMG3H-33-2516, has an inventory count of zero across all statuses.
+
+MT - ASW Goods in Transit Overseas warehouse stores steel mesh products. The part code SMF2518101031G, described as MESH RIB 2.5MX1.80M 100X100 APT 3.15MM WIRE GALVIMG3H-44-2518, has an inventory count of 0 units.
+
+MT - ASW Goods in Transit Overseas warehouse also stores steel mesh products. The part code SMF2618101003, described as 100x100x2600x1800x3.15 Ind MesIMB3H-44-2618-DAIR, has an inventory count of 0 units.
+
+MT - ASW Goods in Transit Overseas warehouse contains steel mesh products. The part code SMF29110102005G, described as 100x200x2.9x1.1x 5mm Weld meshIMG5-48-2911, has an inventory count of 0 units.
+
+MT - ASW Goods in Transit Overseas warehouse holds steel mesh products. The part code SMF2H201202525G, described as 25x25x2000x1200x2.5mm Ind meshIMG2H-11-2012, has an inventory count of 150 units, all available.
+
+MT - ASW Goods in Transit Overseas warehouse stores steel mesh products. The part code SMF2H241202525G, described as 25x25x2400x1200x2.5mm Ind MeshIMG2H-11-2412, has an inventory count of 0 units.
+
+MT - ASW Goods in Transit Overseas warehouse contains steel mesh products. The part code SMF2H302402525G, described as 25x25x3000x2400x2.5mm Ind MeshIMG2H-11-3024, has an inventory count of 0 units.
+
+MT - ASW Goods in Transit Overseas warehouse stores steel mesh products. The part code SMF30121501004G, described as 150x100x3000x1200x4mm Gal MeshIMG4-46-3012-DPI, has an inventory count of 0 units.
+
+MT - ASW Goods in Transit Overseas warehouse holds steel mesh products. The part code SMF30240505004G, described as 50x50x3000x2400x4mm Weld MeshIMG4-22-3024, has an inventory count of 400 units, all available.
+
+MT - ASW Goods in Transit Overseas warehouse contains steel mesh products. The part code SMF30240505005G, described as 50x50x3000x2400x5mm Weld meshIMG5-22-3024, has an inventory count of 100 units, all available.
+
+MT - ASW Goods in Transit Overseas warehouse stores steel mesh products. The part code SMF30240507504G, described as 50x75x3000x2400x4mm Ind MeshIMG4-23-3024, has an inventory count of 0 units.
+
+MT - ASW Goods in Transit Overseas warehouse holds steel mesh products. The part code SMF30240575005G, described as 50x75x3000x2400x5 Ind MeshIMG5-23-3024, has an inventory count of 100 units, all available.
+
+MT - ASW Goods in Transit Overseas warehouse contains steel mesh products. The part code SMF30240755005G, described as 75x50x3000x2400x5mm Ind MeshIMG5-32-3024, has an inventory count of 0 units.
+
+MT - ASW Goods in Transit Overseas warehouse stores steel mesh products. The part code SMF30241001005G, described as 100x100x3000x2400x5 Ind MeshIMG5-44-3024, has an inventory count of 200 units, all available.
+
+MT - ASW Goods in Transit Overseas warehouse holds steel mesh products. The part code SMF30241010056G, described as USE PART CCP30241010056GIMG5H-44-3024_IND, has an inventory count of 0 units.
+
+MT - ASW Goods in Transit Overseas warehouse contains steel mesh products. The part code SMF35110102005G, described as 100x200x3.5x1.1x 5mm Weld MeshIMG5-48-3511, has an inventory count of 0 units.
+
+MT - ASW Goods in Transit Overseas warehouse stores steel mesh products. The part code SMF3H20084040G, described as 40x40x2020x865x3.15mm GalveIMG3H-1H1H-2008-C, has an inventory count of 0 units.
+
+MT - ASW Goods in Transit Overseas warehouse holds steel mesh products. The part code SMF3H20125050G, described as 50x50x2000x1200x3.5mm Ind MeshIMG3H-22-2012, has an inventory count of 0 units.
+
+MT - ASW Goods in Transit Overseas warehouse contains steel mesh products. The part code SMF3H24121010G, described as 100x100x2400x1200x3.15mm Gal MIMG3H-44-2412, has an inventory count of 0 units.
+
+MT - ASW Goods in Transit Overseas warehouse stores steel mesh products. The part code SMF3H24122525G, described as 25x25x2400x1200x3.15mm Ind MesIMG3H-11-2412, has an inventory count of 0 units.
+
+MT - ASW Goods in Transit Overseas warehouse holds steel mesh products. The part code SMF3H24122550G, described as 25x50x2400x1200x3.15mm Ind MesIMG3H-12-2412, has an inventory count of 0 units.
+
+MT - ASW Goods in Transit Overseas warehouse holds steel mesh products. Part code SMF3H24125024G is described as 50x24x2400x1200x3.15 Ind MeshIMG3H-21-2412, with an inventory count of 0 units.
+
+MT - ASW Goods in Transit Overseas warehouse holds steel mesh products. Part code SMF3H24125050G is described as 50x50x2400x1200x3.15 Ind MeshIMG3H-22-2412, with an inventory count of 0 units.
+
+MT - ASW Goods in Transit Overseas warehouse holds steel mesh products. Part code SMF3H24125075G is described as 50x75x2400x1200x3.15 Ind MeshIMG3H-23-2412, with an inventory count of 0 units.
+
+MT - ASW Goods in Transit Overseas warehouse holds steel mesh products. Part code SMF3H24157575G is described as 75x75x2400x1500x3.15 TFH MeshIMG3H-33-2415-TFH, with an inventory count of 0 units.
+
+MT - ASW Goods in Transit Overseas warehouse holds steel mesh products. Part code SMF3H24171010G is described as 100x100x2400x1700x3.15mm IndIMG3H-44-2417, with an inventory count of 0 units.
+
+MT - ASW Goods in Transit Overseas warehouse holds steel mesh products. Part code SMF3H30242525G is described as 25x25x3000x2400x3.15 Ind MeshIMG3H-11-3024, with an inventory count of 34.3 units available.
+
+MT - ASW Goods in Transit Overseas warehouse holds steel mesh products. Part code SMF3H30242550G is described as 25x50x3000x2400x3.15 Ind MeshIMG3H-12-3024, with an inventory count of 0 units.
+
+MT - ASW Goods in Transit Overseas warehouse holds steel mesh products. Part code SMF3H30245025G is described as 50x25x3000x2400x3.15 Ind MeshIMG3H-21-3024, with an inventory count of 0 units.
+
+MT - ASW Goods in Transit Overseas warehouse holds steel mesh products. Part code SMF3H30245050G is described as 50x50x3000x2400x3.15 Ind MeshIMG3H-22-3024, with an inventory count of 200 units available.
+
+MT - ASW Goods in Transit Overseas warehouse holds steel mesh products. Part code SMF3H30245075G is described as 50x75x3000x2400x3.15 Ind MeshIMG3H-23-3024, with an inventory count of 0 units.
+
+MT - ASW Goods in Transit Overseas warehouse holds steel mesh products. Part code SMF3H44155050G is described as 50x50x4400x1500x3.15 Ind MeshIMG3H-22-4415, with an inventory count of 0 units.
+
+MT - ASW Goods in Transit Overseas warehouse holds steel mesh products. Part code SMF40200505005G is described as 50X50X5.00MMX4000X2000MM MESH, with an inventory count of 0 units.
+
+MT - ASW Goods in Transit Overseas warehouse holds steel mesh products. Part code SMF41110102005G is described as 100x200x4.1x1.1x5mm Weld meshIMG5-48-4111, with an inventory count of 0 units.
+
+MT - ASW Goods in Transit Overseas warehouse holds steel mesh products. Part code SMF45121000504G is described as 100x50x4500x1200x4mm Ind MeshIMG4-42-4512, with an inventory count of 0 units.

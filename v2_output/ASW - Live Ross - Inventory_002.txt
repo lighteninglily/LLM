@@ -1,0 +1,999 @@
+South32 Limited placed an order for S&C Brt Wire 5.0x2395mm 500kgs (SCBW5X2.3M) with a quantity of 0 units in the M2 warehouse at ASW Brisbane. The warehouse holds 0 units of this product, and there is no inventory movement recorded yet.
+
+South32 Limited placed an order for S&C Brt Wire 5.0x2410mm 500kgs (SCBW5X2.41M) with a quantity of 0 units in the M2 warehouse at ASW Brisbane. The warehouse holds 0 units of this product, and there is no inventory movement recorded yet.
+
+South32 Limited placed an order for S&C Brt Wire 6.3x2395mm 500kgs (SCBW6.3X2.3M) with a quantity of 0 units in the M2 warehouse at ASW Brisbane. The warehouse holds 0 units of this product, and there is no inventory movement recorded yet.
+
+South32 Limited placed an order for S&C Brt Wire 6.3x2420mm 500kgs (SCBW6.3X2.42M) with a quantity of 0 units in the M2 warehouse at ASW Brisbane. The warehouse holds 0 units of this product, and there is no inventory movement recorded yet.
+
+South32 Limited placed an order for S&C Brt Wire 6.3x6000mm 500kgs (SCBW6.3X6M) with a quantity of 0 units in the M2 warehouse at ASW Brisbane. The warehouse holds 0 units of this product, and there is no inventory movement recorded yet.
+
+South32 Limited placed an order for S&C Brt Wire 6.0x6000mm 500kgs (SCBW6X6M) with a quantity of 0 units in the M2 warehouse at ASW Brisbane. The warehouse holds 0 units of this product, and there is no inventory movement recorded yet.
+
+South32 Limited placed an order for S&C Brt Wire 8x2600mm 500kgs (SCBW8X2.6) with a quantity of 0 units in the M2 warehouse at ASW Brisbane. The warehouse holds 0 units of this product, and there is no inventory movement recorded yet.
+
+South32 Limited placed an order for S&C Brt Wire 8x6000mm 500kgs (SCBW8X6.0) with a quantity of 0 units in the M2 warehouse at ASW Brisbane. The warehouse holds 0 units of this product, and there is no inventory movement recorded yet.
+
+South32 Limited placed an order for S&C Rib Wire 6.0x1800mm 500kgs (SCRW6X1.8M) with a quantity of 0 units in the M2 warehouse at ASW Brisbane. The warehouse holds 0 units of this product, and there is no inventory movement recorded yet.
+
+South32 Limited placed an order for S&C Rib Wire 6.0x6000mm 500kgs (SCRW6X6M) with a quantity of 0 units in the M2 warehouse at ASW Brisbane. The warehouse holds 0 units of this product, and there is no inventory movement recorded yet.
+
+South32 Limited placed an order for S&C Rib Wire 6.0x7200mm 500kgs (SCRW6X7.2M) with a quantity of 0 units in the M2 warehouse at ASW Brisbane. The warehouse holds 0 units of this product, and there is no inventory movement recorded yet.
+
+South32 Limited placed an order for S&C Galv 1.25mmx300mmx2.85kg (SCW1.25X300G) with a quantity of 0 units in the M2 warehouse at ASW Brisbane. The warehouse holds 0 units of this product, and there is no inventory movement recorded yet.
+
+M2 - ASW Brisbane Warehouse holds 0 units of S & C Galv 1.25mmX400mmX3.8KgSCGW1.25-400-3.8Kg. The product group is Smooth Rod Raw Materials.
+
+M2 - ASW Brisbane Warehouse holds 0 units of S&C Wire 10mmx3500mmSCBW10-3500. The product group is Smooth Rod Raw Materials.
+
+M2 - ASW Brisbane Warehouse holds 0 units of S&C Galv Wire 6.3x1000mmSCGW6.3-1000. The product group is Smooth Rod Raw Materials.
+
+M2 - ASW Brisbane Warehouse holds 0 units of S&C Gal Wire 6.3x6000mm 500kgsSCGW6.3-6000-500kgs. The product group is Smooth Rod Raw Materials.
+
+M2 - ASW Brisbane Warehouse holds 0 units of S&C Galv Wire 6.3x6000mm 500PcSCGW6.3-6000-500Pcs. The product group is Smooth Rod Raw Materials.
+
+M2 - ASW Brisbane Warehouse holds 0 units of S&C Wire 8.0X6000mm 500 KgSCBW8.0-6000-500Kg. The product group is Smooth Rod Raw Materials.
+
+M2 - ASW Brisbane Warehouse holds 0 units of Crimping Pliers - Type 001ACCCRIMP001-CRIMPPLIERS. The product group is Steel Mesh.
+
+M2 - ASW Brisbane Warehouse holds 0 units of Fence Pliers Type 001ACCFPLIER001-FENCEPLIER. The product group is Steel Mesh.
+
+M2 - ASW Brisbane Warehouse holds 0 units of Joint Clamp 5mmACCJCLAMP005-JOINTCLAMP. The product group is Steel Mesh.
+
+M2 - ASW Brisbane Warehouse holds 0 units of Joint Clamp 6mmACCJCLAMP006-JOINTCLAMP. The product group is Steel Mesh.
+
+M2 - ASW Brisbane Warehouse holds 0 units of Joint Clamp 8mmACCJCLAMP008-JOINTCLAMP. The product group is Steel Mesh.
+
+M2 - ASW Brisbane Warehouse holds 0 units of Joint Clamp Bolt Type100ACCJCLAMP100-JOINTCLAMP. The product group is Steel Mesh.
+
+M2 - ASW Brisbane Warehouse holds 0 units of Y Post Caps - YellowACCPCAP001. The product group is Steel Mesh.
+
+M2 - ASW Brisbane Warehouse holds 0 units of Post Driver Type 001ACCPDRIVE-001. The product group is Steel Mesh.
+
+M2 - ASW Brisbane Warehouse holds 0 units of Post Driver Type 002ACCPDRIVE002-POSTDRIVER. The product group is Steel Mesh.
+
+M2 - ASW Brisbane Warehouse holds 0 units of Ratchet Strainer 001ACCRAT001. The product group is Steel Mesh.
+
+M2 - ASW Brisbane Warehouse holds 0 units of Staple Gun 001ACCSTAPLEGUN001. The product group is Steel Mesh.
+
+M2 - ASW Brisbane Warehouse holds 0 units of Chain Strainer - Type 001ACCSTRAIN001-CHAIN. The product group is Steel Mesh.
+
+M2 - ASW Brisbane Warehouse holds 0 units of Tensioning Handle Type 001ACCTENS001-TENSIONHANDLE. The product group is Steel Mesh.
+
+M2 - ASW Brisbane Warehouse holds 0 units of Wire Twisting Tool 001ACCWTWIST001. The product group is Steel Mesh.
+
+M2 - ASW Brisbane warehouse holds 0 units of BDBOT-8723/280-8774X2274XN12BDBOT-8723/280, with an IC Status Code of QOH. The part code is BDBOT8723.280, and the unit of measure is EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of BDBOT-8724/230-8734X2354XN10BDBOT-8724/230, with an IC Status Code of QOH. The part code is BDBOT8724.230, and the unit of measure is EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of BDBOT-8923/340-8934X2334XN12BDBOT-8923/340, with an IC Status Code of QOH. The part code is BDBOT8923.340, and the unit of measure is EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of BDBOT-9323/390-9364X2364XN12BDBOT-9323/390, with an IC Status Code of QOH. The part code is BDBOT9323.390, and the unit of measure is EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of BDTOP-8723/280-8794X2294XN8BDTOP-8723/280, with an IC Status Code of QOH. The part code is BDTOP8723.280, and the unit of measure is EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of BDTOP-8724/230-8744X2364XN8BDTOP-8724/230, with an IC Status Code of QOH. The part code is BDTOP8724.230, and the unit of measure is EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of BDTOP-8923/340-8944X2344XN10BDTOP-8923/340, with an IC Status Code of QOH. The part code is BDTOP8923.340, and the unit of measure is EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of BDTOP-9323/390-9374x2374xN12BDTOP-9323/390, with an IC Status Code of QOH. The part code is BDTOP9323.390, and the unit of measure is EA.
+
+M2 - ASW Brisbane warehouse holds 940 units of 100x100x3000x2400x5.6 Ind MeshP IMG5H-44-3024_JEN, with an IC Status Code of QOH. The part code is CCP30241010056G, and the unit of measure is EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of DNU- see SMF45171010056G, with an IC Status Code of QOH. The part code is CCP45171010056G, and the unit of measure is EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of Spider Clamps 12.5mm, with an IC Status Code of QOH. The part code is CFPCLAMPS12.5, and the unit of measure is EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of Nut&Bolt - M12x25, with an IC Status Code of QOH. The part code is CFPSCREWSM12X25, and the unit of measure is EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of Anti Theft Nut&Bolt - M8X25, with an IC Status Code of QOH. The part code is CFPSCREWSM8X25, and the unit of measure is EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of Anti Theft Nut&Bolt - M8x30, with an IC Status Code of QOH. The part code is CFPSCREWSM8X30, and the unit of measure is EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of 6x1.8+3B CGates BPVC 1x6m, with an IC Status Code of QOH. The part code is CGATEBPVC, and the unit of measure is EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of 9000x1800+3Barb CGates Galv, with an IC Status Code of QOH. The part code is CGATEG900180B3, and the unit of measure is EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of Spl GateCGATE Special, with an IC Status Code of QOH. The part code is CGATESPEC, and the unit of measure is EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of Helical PVCB 4mm-35Kg(315m), with an IC Status Code of QOH. The part code is CHCWB4PVC35H, and the unit of measure is EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of I Fence Post Galv - 2.6m, with an IC Status Code of QOH. The part code is CIFPG7044.260, and the unit of measure is EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of I Fence Post Galv - 3.4m, with an IC Status Code of QOH. The part code is CIFPG7044.340, and the unit of measure is EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of T/L Wire HG-PVCB 2mm-5kg(180m)CLWPVCB2-5 (Part Code: CLW2PVCB5). The inventory status is QOH with UOM as EA.
+
+M2 - ASW Brisbane warehouse holds 45 units of 25x25x1200x30000x2.0 Mesh CoilIMG2-11-12C30 (Part Code: CM1200C3002G). The inventory status is QOH with UOM as EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of Cthru Mesh 2350-IMG4H-2325CTHRU-2350-IMG4H-2325 (Part Code: CTHRUIMG4H2325). The inventory status is QOH with UOM as EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of Ctrhu Mesh 1150-IMG4H-2412CTHRU-1150-IMG4H-2412 (Part Code: CTHRUIMG4H2412). The inventory status is QOH with UOM as EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of Cthru mesh 1750-IMG4H-2418CTHRU-1750-IMG4H-2418 (Part Code: CTHRUIMG4H2418). The inventory status is QOH with UOM as EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of T Wire BPVC 1.57mm-5kg (325m)CTWBPVC1.57-5 (Part Code: CTWBPVC1.57). The inventory status is QOH with UOM as EA.
+
+M2 - ASW Brisbane warehouse holds 380 units of SL62 Square Mesh 6x2.4D500LSL62 (Part Code: D500LSL62). The inventory status is QOH with UOM as EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of SL72 Square Mesh 6x2.4D500LSL72 (Part Code: D500LSL72). The inventory status is QOH with UOM as EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of N10 Dbar in CoilsD500N10-Coils (Part Code: D500N10COIL). The inventory status is QOH with UOM as TONN.
+
+M2 - ASW Brisbane warehouse holds 1.61 TONN of 12MM Ribbed Reinforcing Bar 6MD500N12-6M (Part Code: D500N12X6M). The inventory status is QOH with UOM as TONN.
+
+M2 - ASW Brisbane warehouse holds 0 units of N12 Dbar In CoilsD500N12-Coils (Part Code: D500N12XCOIL). The inventory status is QOH with UOM as TONN.
+
+M2 - ASW Brisbane warehouse holds 0 units of 16MM Ribbed Reinforcing Bar 6MD500N16-6M (Part Code: D500N16X6M). The inventory status is QOH with UOM as TONN.
+
+M2 - ASW Brisbane warehouse holds 0 units of N20x6m lengthsD500N20-6m (Part Code: D500N20X6M). The inventory status is QOH with UOM as TONN.
+
+M2 - ASW Brisbane warehouse holds 0 units of N8 Dbar in CoilD500N8.0-Coils (Part Code: D500N8.0COIL). The inventory status is QOH with UOM as TONN.
+
+M2 - ASW Brisbane warehouse holds 0 units of RL1018 Rectangular Mesh 6x2.4D500RL1018 (Part Code: D500RL1018). The inventory status is QOH with UOM as EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of RL1218 Rectangular Mesh 6x2.4D500RL1218 (Part Code: D500RL1218). The inventory status is QOH with UOM as EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of SL81 Square MeshD500SL81 (Part Code: D500SL81). The inventory status is QOH with UOM as EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of SL82 Square Mesh 6x2.4D500SL82 (Part Code: D500SL82). The inventory status is QOH with UOM as EA.
+
+M2 - ASW Brisbane warehouse holds 336 units of SL92 Square Mesh 6x2.4D500SL92 (Part Code: D500SL92). The inventory status is QOH with UOM as EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of Flat Washer with 8.5mm SlotDFA-8.5Washer (Part Code: DFA8.5WASHER). The inventory status is QOH with UOM as EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of Dble Angle 5 Ln Barb Wire BrakDFA-BWAD-5Line (Part Code: DFABWAD5L). The inventory status is QOH, with unit of measure EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of Dble Angle 5 Ln Cnr Bar Wir BkDFA-BWADC-5Line (Part Code: DFABWADC5L). The inventory status is QOH, with unit of measure EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of Sngle Ale 5 line Barb Wi BKDFA-BWAS-5Line (Part Code: DFABWAS5L). The inventory status is QOH, with unit of measure EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of Sngle Ale 5 Ln Cnr Bar Wir BrkDFA-BWADC-5Line (Part Code: DFABWASC5L). The inventory status is QOH, with unit of measure EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of Barb Wr Brk for Gates - StrtDFA-BWGS-5Line (Part Code: DFABWGS5L). The inventory status is QOH, with unit of measure EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of Strt 5 Line Barb Wire BracketDFA-BWS-5Line (Part Code: DFABWS5L). The inventory status is QOH, with unit of measure EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of Strt 5 Line Cnr Barb Wire BrkDFA-BWSC-5Line (Part Code: DFABWSC5L). The inventory status is QOH, with unit of measure EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of 45 Degree Cnr Plates - LHSDFA-CnrPlate-LHS (Part Code: DFACNRPlATELHS). The inventory status is QOH, with unit of measure EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of 45 Degree Cnr Plates - RHSDFA-CnrPlate-RHS (Part Code: DFACNRPlATERHS). The inventory status is QOH, with unit of measure EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of 2.4m Dble Sid Alligtr Top RailDFA-Allig-Dble-2400 (Part Code: DFADBLE2400). The inventory status is QOH, with unit of measure EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of 1M Ped Gate FrameDFA-DFPG1HFR (Part Code: DFADFPG1HFR). The inventory status is QOH, with unit of measure EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of 1m Ped Gate - Heavy LHS/RHSDFA-DFPG1HLR (Part Code: DFADFPG1HLR). The inventory status is QOH, with unit of measure EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of 1m Ped Gate - LHS Hinges InclDFA-DFPG1ML (Part Code: DFADFPG1ML). The inventory status is QOH, with unit of measure EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of 1m Ped Gate Compl - RH HingesDFA-DFPG1MR (Part Code: DFADFPG1MR). The inventory status is QOH, with unit of measure EA.
+
+M2 - ASW Brisbane warehouse holds 2 units of 2.4m Wide Hvy Veh Gt LHS/RHSDFA-DFVG24HLR (Part Code: DFADFVG24HLR). The inventory status is QOH, with unit of measure EA.
+
+M2 - ASW Brisbane warehouse holds 1 unit of 3.0m Wide Veh Gate LHSDFA-DFVG30SLH (Part Code: DFADFVG30SLH). The inventory status is QOH, with unit of measure EA.
+
+M2 - ASW Brisbane warehouse holds 1 unit of 3.0m Wide Veh Gate RHSDFA-DFVG30SRH (Part Code: DFADFVG30SRH). The inventory status is QOH, with unit of measure EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of Heavy Gate Post LHSDFA-DFVGPHLH (Part Code: DFADFVGPHLH). The inventory status is QOH, with unit of measure EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of Heavy Gate Post RHSDFA-DFVGPHRH (Part Code: DFADFVGPHRH). The inventory status is QOH, with unit of measure EA.
+
+M2 - ASW Brisbane warehouse holds 0 units of Standard Gate Post LHSDFA-DFVGPSLH (Part Code: DFADFVGPSLH). The inventory status is QOH, with unit of measure EA.
+
+South32 Limited placed order for Standard Gate Post RHSDFA-DFVGPSLR (Part Code: DFADFVGPSLR) at M2 - ASW Brisbane Warehouse. The warehouse holds 0 units of this product, indicating no current inventory.
+
+South32 Limited placed order for 2.4m Single Allied Top Rail (Part Code: DFASGLE2400) at M2 - ASW Brisbane Warehouse. The warehouse holds 0 units of this product, indicating no current inventory.
+
+South32 Limited placed order for Ausro Strap 3.0 x 0.3 OSH106H-3003 (Part Code: JOS3003B) at M2 - ASW Brisbane Warehouse. The warehouse holds 198 units of this product, indicating sufficient inventory.
+
+South32 Limited placed order for Ausro Strap 3.0 x 0.3 OSH106H-3003 (Part Code: JOS3003B) at M2 - ASW Brisbane Warehouse. The warehouse holds 440 units of this product, indicating sufficient inventory.
+
+South32 Limited placed order for 358 Mesh 1.2 x 2.4 IMZG4-305-1224 (Part Code: MP122404G) at M2 - ASW Brisbane Warehouse. The warehouse holds 0 units of this product, indicating no current inventory.
+
+South32 Limited placed order for 358 Panels 2.4m x 2.4m IMZG4-305-2424 (Part Code: MP242404G) at M2 - ASW Brisbane Warehouse. The warehouse holds 237 units of this product, indicating sufficient inventory.
+
+South32 Limited placed order for 358 Panels 2.5m x 2.4m IMZG4-305-2524 (Part Code: MP252404G) at M2 - ASW Brisbane Warehouse. The warehouse holds 235 units of this product, indicating sufficient inventory.
+
+South32 Limited placed order for 50x75x3000x1200x4mm Ind Mesh IMZG4-23-3012 (Part Code: MP3012507504G) at M2 - ASW Brisbane Warehouse. The warehouse holds 83 units of this product, indicating sufficient inventory.
+
+South32 Limited placed order for 358 Panels 3.0m x 2.4m IMZG4-305-3024 (Part Code: MP302404G) at M2 - ASW Brisbane Warehouse. The warehouse holds 189 units of this product, indicating sufficient inventory.
+
+South32 Limited placed order for 358 Panel 3.1m x 2.4m IMZG4-305-3124 (Part Code: MP312404G) at M2 - ASW Brisbane Warehouse. The warehouse holds 142 units of this product, indicating sufficient inventory.
+
+South32 Limited placed order for 358 Panels 3.6m x 2.4m IMZG4-305-3624 (Part Code: MP362404G) at M2 - ASW Brisbane Warehouse. The warehouse holds 11 units of this product, indicating sufficient inventory.
+
+South32 Limited placed order for 358 Panels 4050x1895 IMZG4-305-4H19 (Part Code: MP411904G) at M2 - ASW Brisbane Warehouse. The warehouse holds 140 units of this product, indicating sufficient inventory.
+
+South32 Limited placed order for 358 Panels 4050x1950 IMZG4-305-4H19H (Part Code: MP412004G) at M2 - ASW Brisbane Warehouse. The warehouse holds 70 units of this product, indicating sufficient inventory.
+
+South32 Limited placed order for 358 Panels 4.5m x 2.4m IMZG4-305-4524 (Part Code: MP452404G) at M2 - ASW Brisbane Warehouse. The warehouse holds 95 units of this product, indicating sufficient inventory.
+
+South32 Limited placed order for DNU- see MS45241010056G (Part Code: MS15H45241010G) at M2 - ASW Brisbane Warehouse. The warehouse holds 0 units of this product, indicating no current inventory.
+
+South32 Limited placed order for DNU- see MS45241010056G2 (Part Code: MS25H45241010G) at M2 - ASW Brisbane Warehouse. The warehouse holds 0 units of this product, indicating no current inventory.
+
+South32 Limited placed order for 100x100x4500x2400x5.6 SM Mesh IMG5H-44-4524-JEN-SM (Part Code: MS5H45241010G) at M2 - ASW Brisbane Warehouse. The warehouse holds 0 units of this product, indicating no current inventory.
+
+South32 Limited placed order for DNU- see MS50241010056G (Part Code: MS5H50241010G) at M2 - ASW Brisbane Warehouse. The warehouse holds 0 units of this product, indicating no current inventory.
+
+South32 Limited placed order for DNU- see CCP300310108G (Part Code: MSTRAP300308G) at M2 - ASW Brisbane Warehouse. The warehouse holds 0 units of this product, indicating no current inventory.
+
+South32 Limited placed order PMES6H2015G for 17x50x2000x1500x6.3mm Pig MeshIMG6H-207-2015G on January 15, 2025. The order quantity was 20 units for delivery to M2 - ASW Brisbane Warehouse.
+
+South32 Limited placed order PMES6H2415G for 17x50x2400x1500x6.3mm Pig MeshIMG6H-207-2415G on January 15, 2025. The order quantity was 42 units for delivery to M2 - ASW Brisbane Warehouse.
+
+South32 Limited placed order RAZ550CON for 550mm Concertina Barbed TapeRAZ550CON on January 15, 2025. The order quantity was 34 units for delivery to M2 - ASW Brisbane Warehouse.
+
+South32 Limited placed order RFWZAL25HT1T for HT Trellis Wire-2.5-1 Ton CoilRFWZAL25HT-1 TON COILS on January 15, 2025. No units were available for this order.
+
+South32 Limited placed order RFWZAL315HT1T for HT Trellis Wire3.15-1 Ton CoilRFWZAL315HT-1 TON COILS on January 15, 2025. No units were available for this order.
+
+South32 Limited placed order SESCREW0425X30 for Self Tapp Screw 30mm- 100 boxSESCREW0425-30mm on January 15, 2025. No units were available for this order.
+
+South32 Limited placed order SL41 for SL 41 Square Mesh 6X2.4R500SL41 on January 15, 2025. No units were available for this order.
+
+South32 Limited placed order SM5H36241010FG for 100x100x3600x2400x5.6 Ind MeshIMG5H-44-3624 on January 15, 2025. No units were available for this order.
+
+South32 Limited placed order SM5H40241010FG for DNU- see CCP40241010056G on January 15, 2025. No units were available for this order.
+
+South32 Limited placed order SM5H501610104G for 100x100x5000x1600x5.6 4mm GalvIMG5H4-44-5016-WLC on January 15, 2025. The warehouse holds 6,191 units of this product.
+
+South32 Limited placed order SM5H50241010G for DNU- see MS50241010056G on January 15, 2025. No units were available for this order.
+
+South32 Limited placed order SMB1811202005 for 200x200x1800x1100x5mm LDMeshIMB5-88-1811 on January 15, 2025. No units were available for this order.
+
+South32 Limited placed order SMB4024101005 for DNU- see CC402410105 on January 15, 2025. No units were available for this order.
+
+South32 Limited placed order SMB4517101005 for 100x100x4500x1700x5mm Bright MIMB5-44-4517 on January 15, 2025. No units were available for this order.
+
+South32 Limited placed order SMB4524101005 for 100x100x4500x2400x5mm BlackIMB5-44-4524 on January 15, 2025. No units were available for this order.
+
+South32 Limited placed order SMB4814100505 for 100x100x4800x1400x4x5IMB45-44-4814-CCC on January 15, 2025. No units were available for this order.
+
+South32 Limited placed order SMB4814101005 for DNU- see SMB4814101005C on January 15, 2025. No units were available for this order.
+
+South32 Limited placed order SMB4814101505 for 100x150x4800x1400x5mmIMB5-46-4814-MCO on January 15, 2025. The warehouse holds 88 units of this product.
+
+South32 Limited placed order SMB4H45171010 for 100x100x4500x1700x4.24mm BlackIMB4H-44-4517 on January 15, 2025. No units were available for this order.
+
+South32 Limited placed order SMB4H50241010 for 100x100x5000x2400x4.50IMB4H-44-5024 on January 15, 2025. No units were available for this order.
+
+South32 Limited placed an order for SMB5002100505 DNU-see SMB5002101004 on M2 - ASW Brisbane Warehouse. The order quantity was 0 units.
+
+South32 Limited placed an order for SMB5002101004 100x50x25x5000x250x4x5IMB45-421-5002-DEN on M2 - ASW Brisbane Warehouse. The order quantity was 2,687 units.
+
+South32 Limited placed an order for SMB5011101005 100x100x5000x1100x5mm - DWAIMB5-44-5011-DWA on M2 - ASW Brisbane Warehouse. The order quantity was 0 units.
+
+South32 Limited placed an order for SMB5014101005 DNU-see CC5014101005 on M2 - ASW Brisbane Warehouse. The order quantity was 0 units.
+
+South32 Limited placed an order for SMB5016101005 100x100x5000x1600x5mm - JNAIMB5-44-5016-JNA on M2 - ASW Brisbane Warehouse. The order quantity was 0 units.
+
+South32 Limited placed an order for SMB5016101505 DNU-see SMB5016151005S on M2 - ASW Brisbane Warehouse. The order quantity was 0 units.
+
+South32 Limited placed an order for SMB5112151504 150x150x5100x1150x4x5 - DEN2IMB45-66-5111-DEN2 on M2 - ASW Brisbane Warehouse. The order quantity was 420 units.
+
+South32 Limited placed an order for SMB5114151005 DNU-see SMB5113515105S on M2 - ASW Brisbane Warehouse. The order quantity was 0 units.
+
+South32 Limited placed an order for SMB5117151504 DNU-see SMB5118151505 on M2 - ASW Brisbane Warehouse. The order quantity was 0 units.
+
+South32 Limited placed an order for SMB5118151505 150x150x5100x1700x4x5IMB45-66-5117-DEN on M2 - ASW Brisbane Warehouse. The order quantity was 4,304 units.
+
+South32 Limited placed an order for SMB5616151005 100x100x5600x1600x5mm Ind MeshIMB5-44-5616 on M2 - ASW Brisbane Warehouse. The order quantity was 30 units.
+
+South32 Limited placed an order for SMB5H482410100 100x100x4800x2400x5.6mm Ind MeIMB5H-44-4824 on M2 - ASW Brisbane Warehouse. The order quantity was 0 units.
+
+South32 Limited placed an order for SMB5H50171015 DNU-see SMB5018101005 on M2 - ASW Brisbane Warehouse. The order quantity was 0 units.
+
+South32 Limited placed an order for SMB6012101505 100x150x6000x1200x4x5 Ind MeshIMB45-46-6012-DPI on M2 - ASW Brisbane Warehouse. The order quantity was 20 units.
+
+South32 Limited placed an order for SMBS3003101008 100x100x3000x300x8 Black StrapIMB8-44-3003 on M2 - ASW Brisbane Warehouse. The order quantity was 0 units.
+
+South32 Limited placed an order for SMBS6003101008 100x100x6000x300x8mm Mesh StraIMB8-44-6003 on M2 - ASW Brisbane Warehouse. The order quantity was 31 units.
+
+South32 Limited placed an order for SMC303H1200510G 50x100x3.15x1200x30mIMG3H-24-1200C30 on M2 - ASW Brisbane Warehouse. The order quantity was 12 units.
+
+South32 Limited placed an order for SMC603H1200510G 50x100x3.15x1200x60mIMG3H-24-1200C60 on M2 - ASW Brisbane Warehouse. The order quantity was 6 units.
+
+South32 Limited placed an order for SMESH1200850505 DNU-see SMESH300011704 on M2 - ASW Brisbane Warehouse. The order quantity was 0 units.
+
+South32 Limited placed an order for SMF11090505004G 50x50x1150x950x4mm Weld MeshIMG4-22-1109 on M2 - ASW Brisbane Warehouse. The order quantity was 348 units.
+
+South32 Limited holds 10,575 units of SMF17121001004G (100x100x1700x1200x4mm Ind MeshIMG4-44-1712-WLC) in M2 - ASW Brisbane Warehouse as of the current inventory status. The quantity available is exactly 10,575 units.
+
+South32 Limited holds 150 units of SMF1814101004 (100x150x1800x1400x4mm - DMEIMB4-46-1814-DME) in M2 - ASW Brisbane Warehouse as of the current inventory status. The quantity available is exactly 150 units.
+
+South32 Limited holds 388 units of SMF20120505004G (50x50x2000x1200x4mm Ind MeshIMG4-22-2012) in M2 - ASW Brisbane Warehouse as of the current inventory status. The quantity available is exactly 388 units.
+
+South32 Limited holds 200 units of SMF20120507504G (50x75x2000x1200x4mm Ind MeshIMG4-23-2012) in M2 - ASW Brisbane Warehouse as of the current inventory status. The quantity available is exactly 200 units.
+
+South32 Limited holds 379 units of SMF24090505004G (50x50x2350x950x4mm Weld MeshIMG4-22-2309) in M2 - ASW Brisbane Warehouse as of the current inventory status. The quantity available is exactly 379 units.
+
+South32 Limited holds 2100 units of SMF24120505004G (50x50x2400x1200x4mm Ind MeshIMG4-22-2412) in M2 - ASW Brisbane Warehouse as of the current inventory status. However, 575 units have been despatched, leaving 1525 units available.
+
+South32 Limited holds 528 units of SMF24120505005G (50x50x2400x1200x5 Ind MeshIMG5-22-2412) in M2 - ASW Brisbane Warehouse as of the current inventory status. The quantity available is exactly 528 units.
+
+South32 Limited holds 83 units of SMF24120575005G (50x75x2400x1200x5 Ind MeshIMG5-23-2412) in M2 - ASW Brisbane Warehouse as of the current inventory status. The quantity available is exactly 83 units.
+
+South32 Limited holds 299 units of SMF24120755004G (75x50x2400x1200x4mm Ind MeshIMG4-32-2412) in M2 - ASW Brisbane Warehouse as of the current inventory status. The quantity available is exactly 299 units.
+
+South32 Limited holds 299 units of SMF24120755005G (75x50x2400x1200x5m Ind MeshIMG5-32-2412) in M2 - ASW Brisbane Warehouse as of the current inventory status. The quantity available is exactly 299 units.
+
+South32 Limited holds 395 units of SMF24120757504G (75x75x2400x1200x4mm Ind MeshIMG4-33-2412) in M2 - ASW Brisbane Warehouse as of the current inventory status. The quantity available is exactly 395 units.
+
+South32 Limited holds 247 units of SMF24121001004G (100x100x2400x1200x4mm Gal MeshIMG4-44-2412) in M2 - ASW Brisbane Warehouse as of the current inventory status. The quantity available is exactly 247 units.
+
+South32 Limited holds 100 units of SMF24121001005G (100x100x2400x1200x5mm Ind MeshIMG5-44-2412) in M2 - ASW Brisbane Warehouse as of the current inventory status. The quantity available is exactly 100 units.
+
+South32 Limited holds 300 units of SMF241575504 (50x75x2400x1500x4 Ind MeshIMB4-23-2415-RTF) in M2 - ASW Brisbane Warehouse as of the current inventory status. The quantity available is exactly 300 units.
+
+South32 Limited holds 379 units of SMF2420101003 (100x100x2400x2000x3.15 Ind MesIMB3H-44-2420-DCLA) in M2 - ASW Brisbane Warehouse as of the current inventory status. The quantity available is exactly 379 units.
+
+South32 Limited holds 200 units of 40x40x2500x1200x4mm Ind Mesh (Part Code: SMF2512040404G) in M2 - ASW Brisbane Warehouse. The inventory status is QOH (Quantity On Hand), and there are no pending or reserved quantities.
+
+South32 Limited does not hold any units of MESH RIB 2.5MX1.60M 100X100 APT 3.15MM WIRE GALV (Part Code: SMF2516101031G) in M2 - ASW Brisbane Warehouse. The inventory status is QOH, and all quantities are zero.
+
+South32 Limited does not hold any units of MESH 2.5MX1.6M 75X75 APT 3.15MM WIRE - GAL (Part Code: SMF2516757503G) in M2 - ASW Brisbane Warehouse. The inventory status is QOH, and all quantities are zero.
+
+South32 Limited does not hold any units of MESH RIB 2.5MX1.80M 100X100 APT 3.15MM WIRE GALV (Part Code: SMF2518101031G) in M2 - ASW Brisbane Warehouse. The inventory status is QOH, and all quantities are zero.
+
+M2 - ASW Brisbane Warehouse holds 300 units of 100x100x2600x1800x3.15 Ind Mesh (Part Code: SMF2618101003). The inventory status is QOH, and there are no pending or reserved quantities.
+
+South32 Limited does not hold any units of 100x200x2.9x1.1x 5mm Weld mesh (Part Code: SMF29110102005G) in M2 - ASW Brisbane Warehouse. The inventory status is QOH, and all quantities are zero.
+
+M2 - ASW Brisbane Warehouse does not hold any units of 25x25x1475x2375x2.5mm Ind Mesh (Part Code: SMF2H152402525G). The inventory status is QOH, and all quantities are zero.
+
+M2 - ASW Brisbane Warehouse does not hold any units of 25x25x2000x1200x2.5mm Ind mesh (Part Code: SMF2H201202525G). The inventory status is QOH, and all quantities are zero.
+
+M2 - ASW Brisbane Warehouse holds 80 units of 25x25x2400x1200x2.5mm Ind Mesh (Part Code: SMF2H241202525G). The inventory status is QOH, and there are 80 units available for despatch. There are 80 units awaiting confirmation out.
+
+M2 - ASW Brisbane Warehouse does not hold any units of 25x25x3000x2400x2.5mm Ind Mesh (Part Code: SMF2H302402525G). The inventory status is QOH, and all quantities are zero.
+
+M2 - ASW Brisbane Warehouse does not hold any units of 150x100x3000x1200x4mm Gal Mesh (Part Code: SMF30121501004G). The inventory status is QOH, and all quantities are zero.
+
+M2 - ASW Brisbane Warehouse holds 606 units of 50x50x3000x2400x4mm Weld Mesh (Part Code: SMF30240505004G). The inventory status is QOH, and there are 250 units in despatch. There are 356 units available for despatch. There are 250 units awaiting confirmation out.
+
+M2 - ASW Brisbane Warehouse holds 121 units of 50x50x3000x2400x5mm Weld mesh (Part Code: SMF30240505005G). The inventory status is QOH, and there are 12 units in despatch. There are 109 units available for despatch. There are 12 units awaiting confirmation out.
+
+M2 - ASW Brisbane Warehouse holds 566 units of 50x75x3000x2400x4mm Ind Mesh (Part Code: SMF30240507504G). The inventory status is QOH, and there are no pending or reserved quantities.
+
+M2 - ASW Brisbane Warehouse holds 77 units of 50x75x3000x2400x5 Ind Mesh (Part Code: SMF30240575005G). The inventory status is QOH, and there are no pending or reserved quantities.
+
+M2 - ASW Brisbane Warehouse does not hold any units of 75x50x3000x2400x5mm Ind Mesh (Part Code: SMF30240755005G). The inventory status is QOH, and all quantities are zero.
+
+M2 - ASW Brisbane Warehouse holds 969 units of 100x100x3000x2400x5 Ind Mesh (Part Code: SMF30241001005G). The inventory status is QOH, and there are 50 units in despatch. There are 919 units available for despatch. There are 50 units awaiting confirmation out.
+
+M2 - ASW Brisbane Warehouse does not hold any units of USE PART CCP30241010056G (Part Code: SMF30241010056G). The inventory status is QOH, and all quantities are zero.
+
+M2 - ASW Brisbane Warehouse holds 67 units of 100x200x3.5x1.1x 5mm Weld Mesh (Part Code: SMF35110102005G). The inventory status is QOH, and there are no pending or reserved quantities.
+
+M2 - ASW Brisbane Warehouse holds 400 units of 40x40x2020x865x3.15mm Galve (Part Code: SMF3H20084040G). The inventory status is QOH, and there are no pending or reserved quantities.
+
+South32 Limited placed order for 50x50x2400x1200x3.15mm Industrial Mesh (IMG3H-22-2412) from M2 - ASW Brisbane Warehouse. The warehouse holds 1,967 units available as of the current inventory status.
+
+South32 Limited placed order for 50x50x2400x1200x3.15mm Industrial Mesh (IMG3H-22-2412) from M2 - ASW Brisbane Warehouse. The warehouse holds 779 units available as of the current inventory status.
+
+South32 Limited placed order for 25x25x2400x1200x3.15mm Industrial Mesh (IMG3H-11-2412) from M2 - ASW Brisbane Warehouse. The warehouse holds 318 units available as of the current inventory status, with 100 units awaiting confirm out.
+
+South32 Limited placed order for 25x50x2400x1200x3.15mm Industrial Mesh (IMG3H-12-2412) from M2 - ASW Brisbane Warehouse. The warehouse holds 582 units available as of the current inventory status.
+
+South32 Limited placed order for 50x25x2400x1200x3.15mm Industrial Mesh (IMG3H-21-2412) from M2 - ASW Brisbane Warehouse. The warehouse holds 49 units available as of the current inventory status.
+
+South32 Limited placed order for 50x50x2400x1200x3.15mm Industrial Mesh (IMG3H-22-2412) from M2 - ASW Brisbane Warehouse. The warehouse holds 1,967 units available as of the current inventory status, with 50 units awaiting confirm out.
+
+South32 Limited placed order for 50x75x2400x1200x3.15mm Industrial Mesh (IMG3H-23-2412) from M2 - ASW Brisbane Warehouse. The warehouse holds 153 units available as of the current inventory status.
+
+South32 Limited placed order for 75x75x2400x1500x3.15mm Transverse Flow Mesh (TFH Mesh IMG3H-33-2415-TFH) from M2 - ASW Brisbane Warehouse. The warehouse holds 0 units available as of the current inventory status.
+
+South32 Limited placed order for 100x100x2400x1700x3.15mm Industrial Mesh (IMG3H-44-2417) from M2 - ASW Brisbane Warehouse. The warehouse holds 18,000 units available as of the current inventory status.
+
+South32 Limited placed order for 75x75x2500x1600x3.15mm Industrial Mesh (IMG3H-33-2516) from M2 - ASW Brisbane Warehouse. The warehouse holds 0 units available as of the current inventory status.
+
+South32 Limited placed order for 25x25x3000x2400x3.15mm Industrial Mesh (IMG3H-11-3024) from M2 - ASW Brisbane Warehouse. The warehouse holds 910 units available as of the current inventory status.
+
+South32 Limited placed order for 25x50x3000x2400x3.15mm Industrial Mesh (IMG3H-12-3024) from M2 - ASW Brisbane Warehouse. The warehouse holds 232 units available as of the current inventory status.
+
+South32 Limited placed order for 50x25x3000x2400x3.15mm Industrial Mesh (IMG3H-21-3024) from M2 - ASW Brisbane Warehouse. The warehouse holds 0 units available as of the current inventory status, with 304 units in despatch and 304 units awaiting confirm out.
+
+South32 Limited placed order for 50x50x3000x2400x3.15mm Industrial Mesh (IMG3H-22-3024) from M2 - ASW Brisbane Warehouse. The warehouse holds 1,088 units available as of the current inventory status.
+
+South32 Limited placed order for 50x75x3000x2400x3.15mm Industrial Mesh (IMG3H-23-3024) from M2 - ASW Brisbane Warehouse. The warehouse holds 209 units available as of the current inventory status.
+
+South32 Limited placed order for 50x50x4400x1500x3.15mm Industrial Mesh (IMG3H-22-4415) from M2 - ASW Brisbane Warehouse. The warehouse holds 15 units available as of the current inventory status.
+
+South32 Limited placed order for 50x50x5000x4000x4mm Galvanized Mesh (IMG5-22-4020) from M2 - ASW Brisbane Warehouse. The warehouse holds 0 units available as of the current inventory status.
+
+South32 Limited placed order for 100x200x4.1x1.1x5mm Welded Mesh (IMG5-48-4111) from M2 - ASW Brisbane Warehouse. The warehouse holds 184 units available as of the current inventory status.
+
+South32 Limited placed order for 100x50x4500x1200x4mm Industrial Mesh (IMG4-42-4512) from M2 - ASW Brisbane Warehouse. The warehouse holds 91 units available as of the current inventory status.
+
+South32 Limited placed order for SMF45121001005G (100x100x4500x1200 Ind mesh) with an inventory quantity of 194 units at M2 - ASW Brisbane Warehouse. No other transactions were recorded for this part.
+
+South32 Limited placed order for SMF45281010056G (100x100x4500x2800x5.6 Ind mesh) with an inventory quantity of 0 units at M2 - ASW Brisbane Warehouse. No other transactions were recorded for this part.
+
+South32 Limited placed order for SMF46110102005G (100x200x4.6x1.1x5mm Weld Mesh) with an inventory quantity of 423 units at M2 - ASW Brisbane Warehouse. No other transactions were recorded for this part.
+
+South32 Limited placed order for SMF46150102005G (100x200x4600x1500 Ind mesh) with an inventory quantity of 80 units at M2 - ASW Brisbane Warehouse. No other transactions were recorded for this part.
+
+South32 Limited placed order for SMF4814101004 (MESH 100X100X4800X1400X4MM BLACK) with an inventory quantity of 0 units at M2 - ASW Brisbane Warehouse. No other transactions were recorded for this part.
+
+South32 Limited placed order for SMF48150102005G (100x200x4750x1100 Ind mesh) with an inventory quantity of 235 units at M2 - ASW Brisbane Warehouse. No other transactions were recorded for this part.
+
+South32 Limited placed order for SMF48241010056G (DNU- see CCP48241010056G) with an inventory quantity of 0 units at M2 - ASW Brisbane Warehouse. No other transactions were recorded for this part.
+
+South32 Limited placed order for SMF50241010056G (DNU- see CCP50241010056G) with an inventory quantity of 0 units at M2 - ASW Brisbane Warehouse. No other transactions were recorded for this part.
+
+South32 Limited placed order for SMF55H50171015G (DNU- see SMB5018101005G) with an inventory quantity of 0 units at M2 - ASW Brisbane Warehouse. No other transactions were recorded for this part.
+
+South32 Limited placed order for SMF5H240301010G (100x100x2400x300x5.6 IMG5H-44-2403) with an inventory quantity of 80 units at M2 - ASW Brisbane Warehouse. No other transactions were recorded for this part.
+
+South32 Limited placed order for SMF5H241201010G (100x100x2400x1200x5.6 Ind mesh IMG5H-44-2412) with an inventory quantity of 238 units at M2 - ASW Brisbane Warehouse. No other transactions were recorded for this part except for a minimum level of 34 and maximum level of 45.
+
+South32 Limited placed order for SMF5H242401010G (USE CODE CCP24241010056G IMG5H-44-2424) with an inventory quantity of 0 units at M2 - ASW Brisbane Warehouse. No other transactions were recorded for this part.
+
+South32 Limited placed order for SMF5H30241010G (100x100x3000x2400x5.6 Ind mesh IMG5H-44-3024-IND) with an inventory quantity of 0 units at M2 - ASW Brisbane Warehouse. No other transactions were recorded for this part.
+
+South32 Limited placed order for SMF5H352401010G (DNU- see CCP35241010056G) with an inventory quantity of 0 units at M2 - ASW Brisbane Warehouse. No other transactions were recorded for this part.
+
+South32 Limited placed order for SMF5H35241010G (100x100x3500x2400x5.6 Ind mesh IMG5H-44-3524-JEN) with an inventory quantity of 0 units at M2 - ASW Brisbane Warehouse. No other transactions were recorded for this part.
+
+South32 Limited placed order for SMF5H40241010G (DNU- see CCP40241010056G) with an inventory quantity of 0 units at M2 - ASW Brisbane Warehouse. No other transactions were recorded for this part.
+
+South32 Limited placed order for SMF5H45181010G (100x100x4500x1800x5.6 Ind mesh IMG5H-44-4518) with an inventory quantity of 0 units at M2 - ASW Brisbane Warehouse. No other transactions were recorded for this part.
+
+South32 Limited placed order for SMF5H45241010G (DNU- see CCP45241010056G) with an inventory quantity of 0 units at M2 - ASW Brisbane Warehouse. No other transactions were recorded for this part.
+
+South32 Limited placed order for SMF5H60151515G (150x150x6000x1500x5.6 Ctl IMG5H-66-6015) with an inventory quantity of 41 units at M2 - ASW Brisbane Warehouse. No other transactions were recorded for this part.
+
+South32 Limited placed order for SMF60121000504G (100x50x6000x1200x4mm Ind mesh IMG4-42-6012) with an inventory quantity of 88 units at M2 - ASW Brisbane Warehouse. No other transactions were recorded for this part.
+
+M2 - ASW Brisbane warehouse holds 85 units of 100x100x6000x1200x5 Ind Mesh (Part Code: SMF60121001005G) as of inventory count. The part description is 100x100x6000x1200x5 Ind MeshIMG5-44-6016.
+
+M2 - ASW Brisbane warehouse holds 79 units of 100x200x6000x1500 Ind Mesh (Part Code: SMF60150102005G) as of inventory count. The part description is 100x200x6000x1500 Ind MeshIMG5-48-6015.
+
+M2 - ASW Brisbane warehouse does not hold any units of 100x150mm 5mm 1100x30000mm Black mild steel, steel rolls (Part Code: SROL11005C305B). The part description is 100x150mm 5mm 1100x30000mm Black mild steel, steel rolls.
+
+M2 - ASW Brisbane warehouse holds 36 units of 100x150x30mx1100x5 Shpyrd coil (Part Code: SROL11005C305G) as of inventory count. The part description is 100x150x30mx1100x5 Shpyrd coilIMG5-46-1100C30. The minimum level is set to 18 and maximum level to 26.
+
+M2 - ASW Brisbane warehouse does not hold any units of 100x150mm 5mm 1500x30000mm black mild steel, steel rolls (Part Code: SROL15005C305B). The part description is 100x150mm 5mm 1500x30000mm black mild steel, steel rolls.
+
+M2 - ASW Brisbane warehouse does not hold any units of 100x200x1500x30mx5mm (Part Code: SROL1500C305G). The part description is 100x200x1500x30mx5mmIMG5-48-15C30.
+
+M2 - ASW Brisbane warehouse holds 9 units of Mesh Rolls 1800x60m (Part Code: SROLL1800C60) as of inventory count. The part description is Mesh Rolls 1800x60mIMB4-44-18C60.
+
+M2 - ASW Brisbane warehouse holds 50 units of 100x100x4x2400x1200x4.0SS (Part Code: SSM2412101004) as of inventory count. The part description is 100x100x4x2400x1200x4.0SSIMSS4-44-2412.
+
+M2 - ASW Brisbane warehouse holds 49 units of 100x100x5x2400x1200x5.6 SS (Part Code: SSM2412101005) as of inventory count. The part description is 100x100x5x2400x1200x5.6 SSIMSS5-44-2412.
+
+M2 - ASW Brisbane warehouse does not hold any units of 25x25x2400x1200x3mm SS316 (Part Code: SSM2412252503). The part description is 25x25x2400x1200x3mm SS316IMSS3-11-2412.
+
+M2 - ASW Brisbane warehouse holds 179 units of 50x50x3x2400x1200x3 SS (Part Code: SSM2412505003) as of inventory count. The part description is 50x50x3x2400x1200x3 SSIMSS3-22-2412.
+
+M2 - ASW Brisbane warehouse holds 80 units of 50x50x2400x1200x4 SS (Part Code: SSM2412505004) as of inventory count. The part description is 50x50x2400x1200x4 SSIMSS4-22-2412.
+
+M2 - ASW Brisbane warehouse holds 63 units of 50x50x2400x1200x5mm SS316 (Part Code: SSM2412505005) as of inventory count. The part description is 50x50x2400x1200x5mm SS316IMSS5-22-2412.
+
+M2 - ASW Brisbane warehouse holds 86 units of 25x25x2400x1200x2.5mm SS316 (Part Code: SSM2H24122525) as of inventory count. The part description is 25x25x2400x1200x2.5mm SS316IMSS2H-11-2412.
+
+M2 - ASW Brisbane warehouse holds 25 units of 100x150x30mx900x5 Shpyard Coil (Part Code: SYARD091015C30G) as of inventory count. The part description is 100x150x30mx900x5 Shpyard CoilIMG5-46-0900C30. The minimum level is set to 18 and maximum level to 24.
+
+M2 - ASW Brisbane warehouse holds 711 units of 100x150x6000x900x5 Sheepyard (Part Code: SYARD600910155G) as of inventory count. The part description is 100x150x6000x900x5 SheepyardIMG5-46-6009. The minimum level is set to 123 and maximum level to 163.
+
+M2 - ASW Brisbane warehouse holds 908 units of 100x150x6000x1100x5 Sheepyard (Part Code: SYARD601110155G) as of inventory count. The part description is 100x150x6000x1100x5 SheepyardIMG5-46-6011. The minimum level is set to 285 and maximum level to 380.
+
+M2 - ASW Brisbane warehouse does not hold any units of Hvy Dty Gt Hg Rd Post 35/41 (Part Code: TCHDRND1). The part description is Hvy Dty Gt Hg Rd Post 35/41TCHDRND1.
+
+M2 - ASW Brisbane warehouse does not hold any units of Hvy Dty Gt Hng Rd Post 60kg 48 (Part Code: TCHDRND2). The part description is Hvy Dty Gt Hng Rd Post 60kg 48TCHDRND2.
+
+M2 - ASW Brisbane warehouse does not hold any units of Tank Mesh Rolls 1200x60m (Part Code: TMESH1200C60). The part description is Tank Mesh Rolls 1200x60mIMB4-44-1200C60.
+
+Steel Mesh Tank Mesh Rolls 1550x60mIMB4-44-1550C60 is stored in M2 - ASW Brisbane warehouse. The part code is TMESH1550C60, and the inventory status shows zero units available.
+
+VEE Mesh 2400 longIMG4-1H3-2402V is stored in M2 - ASW Brisbane warehouse. The part code is VMESH240024024G, and there are 733 units available.
+
+9m Trusses TG100-10/6/6 are stored in M2 - ASW Brisbane warehouse. The part code is TG100X9M, and there are 50 units available.
+
+9m Trusses TG135-10/6/6 are stored in M2 - ASW Brisbane warehouse. The part code is TG135X9M, and there are no units available.
+
+9m Trusses TG180-10/6/6 are stored in M2 - ASW Brisbane warehouse. The part code is TG180X9M, and there are no units available.
+
+10m Trusses TG230-10/6/6 are stored in M2 - ASW Brisbane warehouse. The part code is TG230X9M, and there are no units available.
+
+10m Trusses TG270-10/6/8 are stored in M2 - ASW Brisbane warehouse. The part code is TG270X9M, and there are no units available.
+
+Part XXXXXX with no description is stored in M2 - ASW Brisbane warehouse. There are no units available.
+
+Shotcrete Mesh 3.00mx1.17m 4mm wire - galvIMG4D-66-3012 is stored in M3 - ASW Adelaide warehouse. The part code is SMESH300011704, and there are no units available.
+
+BDBOT-9423/390-9384x2384xN12 is stored in M3 - ASW Adelaide warehouse. The part code is BDBOT9423.390, and there are no units available.
+
+BDTOP-9423/390-9394x2394xN12 is stored in M3 - ASW Adelaide warehouse. The part code is BDTOP9423.390, and there are no units available.
+
+Mine Mesh 4.0mx2.4m 100x100 apt 5.0mm wire is stored in M3 - ASW Adelaide warehouse. The part code is CC402410105, and there are 1,100 units available.
+
+Mine Mesh 4.0mx2.4m 100x100 apt 5.6mm wire - galvIMG5H-44-4024 is stored in M3 - ASW Adelaide warehouse. The part code is CCP40241010056G, and there are 2,200 units available.
+
+Mine Mesh 4.2mx2.4m 100x100 apt 5.6mm wire - galvIMG5H-44-4224 is stored in M3 - ASW Adelaide warehouse. The part code is CCP42241010056G, and there are no units available.
+
+Mine Mesh 4.5mx2.4m 100x100 apt 5.6mm wire - galvIMG5H-44-4524 is stored in M3 - ASW Adelaide warehouse. The part code is CCP45241010056G, and there are 250 units available.
+
+Mine Mesh 4.8mx2.4m 100x100 apt 5mm wire - blk is stored in M3 - ASW Adelaide warehouse. The part code is CCP4824101005, and there are no units available.
+
+Mine Mesh 4800x2400mm 100x100mm apt 5.6mm wire - galvIMG5H-44-4824 is stored in M3 - ASW Adelaide warehouse. The part code is CCP48241010056G, and there are no units available.
+
+Ausro Strap 4.0x0.3osh106h-4003 is stored in M3 - ASW Adelaide warehouse. The part code is JOS4003B, and there are no units available.
+
+Ausro Strap W 4000*300*10osh106h-4003g is stored in M3 - ASW Adelaide warehouse. The part code is JOS4003G, and there are no units available.
+
+Ausro Strap 5.8x0.3osh106h-5803 is stored in M3 - ASW Adelaide warehouse. The part code is JOS5803B, and there are no units available.
+
+M3 - ASW Adelaide warehouse holds 0 units of Mesh product JOS6000B (DNU - SEE JOS6003B). The inventory status is QOH with an IC Quantity of 0, IC Qty Picked, IC Qty In Despatch, IC Qty Reserved, IC Qty Awaiting Confirm Out, IC Unconfirmed Qty, and IC Qty Available all at 0.
+
+M3 - ASW Adelaide warehouse holds 0 units of Mesh product JOS6003B (Ausro STRAP W 300*6000*10MM BLACKOSH106H-6003). The inventory status is QOH with an IC Quantity of 0, IC Qty Picked, IC Qty In Despatch, IC Qty Reserved, IC Qty Awaiting Confirm Out, IC Unconfirmed Qty, and IC Qty Available all at 0.
+
+M3 - ASW Adelaide warehouse holds 0 units of Mesh product JOS6003G (AUSRO STRAP 6.0MX0.3M 10MM WIRE GALOSH106H-6003G). The inventory status is QOH with an IC Quantity of 0, IC Qty Picked, IC Qty In Despatch, IC Qty Reserved, IC Qty Awaiting Confirm Out, IC Unconfirmed Qty, and IC Qty Available all at 0.
+
+M3 - ASW Adelaide warehouse holds 0 units of Mesh product SMB5414101005 (DNU- see SMB5414101005C). The inventory status is QOH with an IC Quantity of 0, IC Qty Picked, IC Qty In Despatch, IC Qty Reserved, IC Qty Awaiting Confirm Out, IC Unconfirmed Qty, and IC Qty Available all at 0.
+
+M3 - ASW Adelaide warehouse holds 0 units of Mesh product SMB5612101005 (MESH ROOF 5.60MX1.2M 100X100 APT 5.0MM WIREIMB5-44-5612-JMA). The inventory status is QOH with an IC Quantity of 0, IC Qty Picked, IC Qty In Despatch, IC Qty Reserved, IC Qty Awaiting Confirm Out, IC Unconfirmed Qty, and IC Qty Available all at 0.
+
+M3 - ASW Adelaide warehouse holds 0 units of Mesh product SMF2214101004 (MESH RIB 2.20MX1.40M 100X100 APT 4.0MM WIREIMB4-44-2214-JMOL). The inventory status is QOH with an IC Quantity of 0, IC Qty Picked, IC Qty In Despatch, IC Qty Reserved, IC Qty Awaiting Confirm Out, IC Unconfirmed Qty, and IC Qty Available all at 0.
+
+M3 - ASW Adelaide warehouse holds 0 units of Mesh product SMF24151010034G (MESH RIB 2.40MX1.50M 100X100 APT 3.0/4.0MM WIRE -GIMG34-44-2415-JAS). The inventory status is QOH with an IC Quantity of 0, IC Qty Picked, IC Qty In Despatch, IC Qty Reserved, IC Qty Awaiting Confirm Out, IC Unconfirmed Qty, and IC Qty Available all at 0.
+
+M3 - ASW Adelaide warehouse holds 1,397 units of Mesh product SMF4524101005 (MESH Mine 4.5M X 2.4M 100X100 APT 5.0MM WIRE). The inventory status is QOH with an IC Quantity of 1,397, IC Qty Picked, IC Qty In Despatch, IC Qty Reserved, IC Qty Awaiting Confirm Out, IC Unconfirmed Qty, and IC Qty Available all at 0.
+
+M3 - ASW Adelaide warehouse holds 0 units of Mesh Components Coil, Rod, Wire product COILGW4 (4mm Galv Wire In CoilsCOILGW4). The inventory status is QOH with an IC Quantity of 0, IC Qty Picked, IC Qty In Despatch, IC Qty Reserved, IC Qty Awaiting Confirm Out, IC Unconfirmed Qty, and IC Qty Available all at 0.
+
+M3 - ASW Adelaide warehouse holds 0 units of Mesh Components Coil, Rod, Wire product COILGW4VHT (P COILGW4 Very High TensileCOILGW4VHT). The inventory status is QOH with an IC Quantity of 0, IC Qty Picked, IC Qty In Despatch, IC Qty Reserved, IC Qty Awaiting Confirm Out, IC Unconfirmed Qty, and IC Qty Available all at 0.
+
+M3 - ASW Adelaide warehouse holds 0 units of Mesh Components Coil, Rod, Wire product COILGW5 (Galve Wire 5mmCOILGW5). The inventory status is QOH with an IC Quantity of 0, IC Qty Picked, IC Qty In Despatch, IC Qty Reserved, IC Qty Awaiting Confirm Out, IC Unconfirmed Qty, and IC Qty Available all at 0.
+
+M3 - ASW Adelaide warehouse holds 0 units of Mesh Components Coil, Rod, Wire product COILGW5.6 (5.55mm Galv Wire In CoilsCOILGW5.6). The inventory status is QOH with an IC Quantity of 0, IC Qty Picked, IC Qty In Despatch, IC Qty Reserved, IC Qty Awaiting Confirm Out, IC Unconfirmed Qty, and IC Qty Available all at 0.
+
+M3 - ASW Adelaide warehouse holds 0 units of Mesh Components Coil, Rod, Wire product COILGW6.3 (6.3mm Galv Wire In CoilsCOILGW6.3). The inventory status is QOH with an IC Quantity of 0, IC Qty Picked, IC Qty In Despatch, IC Qty Reserved, IC Qty Awaiting Confirm Out, IC Unconfirmed Qty, and IC Qty Available all at 0.
+
+M3 - ASW Adelaide warehouse holds 0 units of Mesh Components Coil, Rod, Wire product COILZG2 (2.0mm Galfan WireCOILZG2.0). The inventory status is QOH with an IC Quantity of 0, IC Qty Picked, IC Qty In Despatch, IC Qty Reserved, IC Qty Awaiting Confirm Out, IC Unconfirmed Qty, and IC Qty Available all at 0.
+
+M3 - ASW Adelaide warehouse holds 0 units of Mesh Components Coil, Rod, Wire product COILZG4 (4.0mm Galfan Wire in CoilsCOILZG4). The inventory status is QOH with an IC Quantity of 0, IC Qty Picked, IC Qty In Despatch, IC Qty Reserved, IC Qty Awaiting Confirm Out, IC Unconfirmed Qty, and IC Qty Available all at 0.
+
+M3 - ASW Adelaide warehouse holds 0 units of Mesh Components Coil, Rod, Wire product CW500L10MM (10mm Bright Wire In CoilsR500L10.0-Coils). The inventory status is QOH with an IC Quantity of 0, IC Qty Picked, IC Qty In Despatch, IC Qty Reserved, IC Qty Awaiting Confirm Out, IC Unconfirmed Qty, and IC Qty Available all at 0.
+
+M3 - ASW Adelaide warehouse holds 0 units of Mesh Components Coil, Rod, Wire product CW500L3.97HD (Hard Drawn Wire 3.97mm blackR500L3.97-Coils). The inventory status is QOH with an IC Quantity of 0, IC Qty Picked, IC Qty In Despatch, IC Qty Reserved, IC Qty Awaiting Confirm Out, IC Unconfirmed Qty, and IC Qty Available all at 0.
+
+M3 - ASW Adelaide warehouse holds 0 units of Mesh Components Coil, Rod, Wire product CW500L4 (4.0mm Bright Wire In CoilsR500L4.0-Coils). The inventory status is QOH with an IC Quantity of 0, IC Qty Picked, IC Qty In Despatch, IC Qty Reserved, IC Qty Awaiting Confirm Out, IC Unconfirmed Qty, and IC Qty Available all at 0.
+
+M3 - ASW Adelaide warehouse holds 0 units of Mesh Components Coil, Rod, Wire product CW500L5 (5.0mm Bright Wire In CoilsR500L5.0-Coils). The inventory status is QOH with an IC Quantity of 0, IC Qty Picked, IC Qty In Despatch, IC Qty Reserved, IC Qty Awaiting Confirm Out, IC Unconfirmed Qty, and IC Qty Available all at 0.
+
+M3 - ASW Adelaide warehouse holds 0 units of Mesh Components Coil, Rod, Wire product CW500L5.6 (5.6mm Bright Wire In CoilsR500L5.6-Coils). The inventory status is QOH with an IC Quantity of 0, IC Qty Picked, IC Qty In Despatch, IC Qty Reserved, IC Qty Awaiting Confirm Out, IC Unconfirmed Qty, and IC Qty Available all at 0.
+
+M3 - ASW Adelaide warehouse holds 0 units of 6.0mm Bright Wire in Coils (CW500L6) with an IC Status Code of QOH and UOM of TONN. No inventory is available for this product.
+
+M3 - ASW Adelaide warehouse holds 0 units of 6.3mm Bright Wire in Coils (CW500L6.3) with an IC Status Code of QOH and UOM of TONN. No inventory is available for this product.
+
+M3 - ASW Adelaide warehouse holds 0 units of 7.10mm Bright Wire in Coils (CW500L7.1) with an IC Status Code of QOH and UOM of TONN. No inventory is available for this product.
+
+M3 - ASW Adelaide warehouse holds 0 units of 8.0mm Bright Wire in Coils (CW500L8) with an IC Status Code of QOH and UOM of TONN. No inventory is available for this product.
+
+M3 - ASW Adelaide warehouse holds 0 units of 6.0mm Ribbed Wire in Spools (D500L06.0SP) with an IC Status Code of QOH and UOM of TONN. No inventory is available for this product.
+
+M3 - ASW Adelaide warehouse holds 0 units of 6.3mm Ribbed Wire in Spools (D500L06.3SP) with an IC Status Code of QOH and UOM of TONN. No inventory is available for this product.
+
+M3 - ASW Adelaide warehouse holds 0 units of 7.60mm Ribbed Wire in Spools (D500L07.6SP) with an IC Status Code of QOH and UOM of TONN. No inventory is available for this product.
+
+M3 - ASW Adelaide warehouse holds 0 units of 8.60mm Ribbed Wire in Spools (D500L08.6SP) with an IC Status Code of QOH and UOM of TONN. No inventory is available for this product.
+
+M3 - ASW Adelaide warehouse holds 0 units of 9.50mm Ribbed Wire in Spools (D500L09.5SP) with an IC Status Code of QOH and UOM of TONN. No inventory is available for this product.
+
+M3 - ASW Adelaide warehouse holds 0 units of 12mm Rib Wire in Spools (D500L12.0SP) with an IC Status Code of QOH and UOM of TONN. No inventory is available for this product.
+
+M3 - ASW Adelaide warehouse holds 0 units of 25mm x 4mm Bar Chairs (FCBR25) with an IC Status Code of QOH and UOM of EA. No inventory is available for this product.
+
+M3 - ASW Adelaide warehouse holds 0 units of 40mm x 4mm Bar Chairs (FCBR40) with an IC Status Code of QOH and UOM of EA. No inventory is available for this product.
+
+M3 - ASW Adelaide warehouse holds 0 units of 50mm x 4mm Bar Chairs (FCBR50) with an IC Status Code of QOH and UOM of EA. No inventory is available for this product.
+
+M3 - ASW Adelaide warehouse holds 0 units of 75mm x 4mm Bar Chairs (FCBR75) with an IC Status Code of QOH and UOM of EA. No inventory is available for this product.
+
+M3 - ASW Adelaide warehouse holds 0 units of 20mm Fast Clip Mesh Chairs (FCMR20) with an IC Status Code of QOH and UOM of EA. No inventory is available for this product.
+
+M3 - ASW Adelaide warehouse holds 0 units of 25mm Fast Clip Mesh Chairs (FCMR25) with an IC Status Code of QOH and UOM of EA. No inventory is available for this product.
+
+M3 - ASW Adelaide warehouse holds 0 units of 40mm Fast Clip Mesh Chairs (FCMR40) with an IC Status Code of QOH and UOM of EA. No inventory is available for this product.
+
+M3 - ASW Adelaide warehouse holds 0 units of 50mm Fast Clip Mesh Chairs (FCMR50) with an IC Status Code of QOH and UOM of EA. No inventory is available for this product.
+
+M3 - ASW Adelaide warehouse holds 0 units of 60mm Fast Clip Mesh Chairs (FCMR60) with an IC Status Code of QOH and UOM of EA. No inventory is available for this product.
+
+M3 - ASW Adelaide warehouse holds 0 units of 65mm Fast Clip Mesh Chairs (FCMR65) with an IC Status Code of QOH and UOM of EA. No inventory is available for this product.
+
+M3 - ASW Adelaide holds 0 units of 75mm Fast Clip Mesh Chairs FCMR75. The inventory status is QOH with an UOM of EA. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+M3 - ASW Adelaide holds 0 units of 1.2Kg Rolls for Belt Packs Tie-1.4mm. The inventory status is QOH with an UOM of EA. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+M3 - ASW Adelaide holds 0 units of Tie wire - 3.15mm -1.2m Length Tie-3.15mm-1.2m. The inventory status is QOH with an UOM of TONN. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+M3 - ASW Adelaide holds 0 units of Tie Wire 3.15mmx2.3m Lenght Tie-3.15mm-2.3m. The inventory status is QOH with an UOM of TONN. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+M3 - ASW Adelaide holds 0 units of Tie Wire 3.15mmx2.4m Length Tie-3.15mm-2.4m. The inventory status is QOH with an UOM of TONN. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+M3 - ASW Adelaide holds 0 units of 6mm Wire 6m long (750 pcs) 6MBW6. The inventory status is QOH with an UOM of EA. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+M3 - ASW Adelaide holds 0 units of 8mm Wire 6m long (425 pcs) 6MBW8. The inventory status is QOH with an UOM of EA. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+M3 - ASW Adelaide holds 0 units of S&C Brt Wire 4.0x2395mm 500Kgs SCBW4.0-2395-500Kgs. The inventory status is QOH with an UOM of EA. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+M3 - ASW Adelaide holds 0 units of S&C Brt Wire 4.0x6000mm 500kgs SCBW4.0-6000-500Kgs. The inventory status is QOH with an UOM of EA. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+M3 - ASW Adelaide holds 0 units of S&C Brt Wire 10x6000mm 500kgs SCBW10-6000-500kgs. The inventory status is QOH with an UOM of EA. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+M3 - ASW Adelaide holds 0 units of S&C Brt Wire 5.6x2395mm 500kgs SCBW5.6-2395-500Kgs. The inventory status is QOH with an UOM of EA. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+M3 - ASW Adelaide holds 0 units of S&C Brt Wire 5.6x2410mm 500Kgs SCBW5.6-2410-500Kgs. The inventory status is QOH with an UOM of EA. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+M3 - ASW Adelaide holds 0 units of S&C Brt Wire 5.0x2395mm 500Kgs SCBW5.0-2395-500Kgs. The inventory status is QOH with an UOM of EA. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+M3 - ASW Adelaide holds 0 units of S&C Brt Wire 5.0x2410mm 500kgs SCBW5.0-2410-500kgs. The inventory status is QOH with an UOM of EA. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+M3 - ASW Adelaide holds 0 units of S&C Brt Wire 6.3x2395mm 500kgs SCBW6.3-2395-500Kgs. The inventory status is QOH with an UOM of EA. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+M3 - ASW Adelaide holds 0 units of S&C Brt Wire 6.3x2420mm 500Kgs SCBW6.3-2420-500Kgs. The inventory status is QOH with an UOM of EA. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+M3 - ASW Adelaide holds 0 units of S&C Brt Wire 6.3x6000mm 500kgs SCBW6.3-6000-500kgs. The inventory status is QOH with an UOM of EA. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+M3 - ASW Adelaide holds 0 units of S&C Brt Wire 6.0x6000mm 500Kgs SCBW6.0-6000-500Kgs. The inventory status is QOH with an UOM of EA. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+M3 - ASW Adelaide holds 0 units of S&C Brt Wire 8X2600mm 500Kgs SCBW8-2600-500Kgs. The inventory status is QOH with an UOM of EA. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+M3 - ASW Adelaide holds 0 units of S&C Brt Wire 8x6000mm 500kgs SCBW8-6000-500Kgs. The inventory status is QOH with an UOM of EA. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+South32 Limited placed order for S&C Rib Wire 6.0x1800mm 500kgs SCN6.0-1800-500kgs in M3 - ASW Adelaide warehouse. The part code is SCRW6X1.8M, with an inventory count of 0 units. The product group is Smooth Rod Raw Materials.
+
+South32 Limited placed order for S&C Rib Wire 6.0x6000mm 500kgs SCN6.0-6000-500kgs in M3 - ASW Adelaide warehouse. The part code is SCRW6X6M, with an inventory count of 0 units. The product group is Smooth Rod Raw Materials.
+
+South32 Limited placed order for S&C Rib Wire 6.0x7200mm 500kgs SCN6.0-7200-500kgs in M3 - ASW Adelaide warehouse. The part code is SCRW6X7.2M, with an inventory count of 0 units. The product group is Smooth Rod Raw Materials.
+
+South32 Limited placed order for S&C Galv 1.25mmx300mmx2.85kg SCN6.0-300-2.85Kg in M3 - ASW Adelaide warehouse. The part code is SCW1.25X300G, with an inventory count of 0 units. The product group is Smooth Rod Raw Materials.
+
+South32 Limited placed order for S&C Galv 1.25mmx400mmx3.8kg SCN6.0-400-3.8Kg in M3 - ASW Adelaide warehouse. The part code is SCW1.25X400G, with an inventory count of 0 units. The product group is Smooth Rod Raw Materials.
+
+South32 Limited placed order for S&C Wire 10mmx3500mm SCBW10-3500 in M3 - ASW Adelaide warehouse. The part code is SCW10X3.5M, with an inventory count of 0 units. The product group is Smooth Rod Raw Materials.
+
+South32 Limited placed order for S&C Galv Wire 6.3x1000mm SCN6.0-1000 in M3 - ASW Adelaide warehouse. The part code is SCW6.3X1MG, with an inventory count of 0 units. The product group is Smooth Rod Raw Materials.
+
+South32 Limited placed order for S&C Galv Wire 6.3x6000mm 500kgs SCN6.0-6000-500kgs in M3 - ASW Adelaide warehouse. The part code is SCW6.3X6MG, with an inventory count of 0 units. The product group is Smooth Rod Raw Materials.
+
+South32 Limited placed order for S&C Galv Wire 6.3x6000mm 500Pcs SCN6.0-6000-500Pcs in M3 - ASW Adelaide warehouse. The part code is SCW6.3X6MP500G, with an inventory count of 0 units. The product group is Smooth Rod Raw Materials.
+
+South32 Limited placed order for S&C Wire 8.0x6000mm 500 Kg SCN6.0-6000-500Kg in M3 - ASW Adelaide warehouse. The part code is SCW8X6M, with an inventory count of 0 units. The product group is Smooth Rod Raw Materials.
+
+South32 Limited placed order for Crimping Pliers - Type 001 ACCCRIMP001 in M3 - ASW Adelaide warehouse. The part code is ACCCRIMP001, with an inventory count of 0 units. The product group is Steel Mesh.
+
+South32 Limited placed order for Fence Pliers Type 001 ACCFPLIER001 in M3 - ASW Adelaide warehouse. The part code is ACCFPLIER001, with an inventory count of 0 units. The product group is Steel Mesh.
+
+South32 Limited placed order for Joint Clamp 5mm ACCJCLAMP005 in M3 - ASW Adelaide warehouse. The part code is ACCJCLAMP005, with an inventory count of 0 units. The product group is Steel Mesh.
+
+South32 Limited placed order for Joint Clamp 6mm ACCJCLAMP006 in M3 - ASW Adelaide warehouse. The part code is ACCJCLAMP006, with an inventory count of 0 units. The product group is Steel Mesh.
+
+South32 Limited placed order for Joint Clamp 8mm ACCJCLAMP008 in M3 - ASW Adelaide warehouse. The part code is ACCJCLAMP008, with an inventory count of 0 units. The product group is Steel Mesh.
+
+South32 Limited placed order for Joint Clamp Bolt Type100 ACCJCLAMP100 in M3 - ASW Adelaide warehouse. The part code is ACCJCLAMP100, with an inventory count of 0 units. The product group is Steel Mesh.
+
+South32 Limited placed order for Y Post Caps - Yellow ACCPCAP001 in M3 - ASW Adelaide warehouse. The part code is ACCPCAP001, with an inventory count of 0 units. The product group is Steel Mesh.
+
+South32 Limited placed order for Post Driver Type 001 ACCPDRIVE-001 in M3 - ASW Adelaide warehouse. The part code is ACCPDRIVE1, with an inventory count of 0 units. The product group is Steel Mesh.
+
+South32 Limited placed order for Post Driver Type 002 ACCPDRIVE002 in M3 - ASW Adelaide warehouse. The part code is ACCPDRIVE2, with an inventory count of 0 units. The product group is Steel Mesh.
+
+South32 Limited placed order for Ratchet Strainer 001 ACCRAT001 in M3 - ASW Adelaide warehouse. The part code is ACCRAT001, with an inventory count of 0 units. The product group is Steel Mesh.
+
+South32 Limited placed order for ACCSTAPLEGUN001 (Staple Gun 001) in M3 - ASW Adelaide warehouse. The order quantity was 0 units, indicating no stock movement.
+
+South32 Limited placed order for ACCSTRAIN1CHN (Chain Strainer - Type 001) in M3 - ASW Adelaide warehouse. The order quantity was 0 units, indicating no stock movement.
+
+South32 Limited placed order for ACCTENS1HAND (Tensioning Handle Type 001) in M3 - ASW Adelaide warehouse. The order quantity was 0 units, indicating no stock movement.
+
+South32 Limited placed order for ACCWTWIST001 (Wire Twisting Tool 001) in M3 - ASW Adelaide warehouse. The order quantity was 0 units, indicating no stock movement.
+
+South32 Limited placed order for BDBOT8723.280 (BDBOT-8723/280-8774X2274XN12) in M3 - ASW Adelaide warehouse. The order quantity was 0 units, indicating no stock movement.
+
+South32 Limited placed order for BDBOT8724.230 (BDBOT-8724/230-8734X2354XN10) in M3 - ASW Adelaide warehouse. The order quantity was 0 units, indicating no stock movement.
+
+South32 Limited placed order for BDBOT8923.340 (BDBOT-8923/340-8934X2334XN12) in M3 - ASW Adelaide warehouse. The order quantity was 0 units, indicating no stock movement.
+
+South32 Limited placed order for BDBOT9323.390 (BDBOT-9323/390-9364X2364XN12) in M3 - ASW Adelaide warehouse. The order quantity was 0 units, indicating no stock movement.
+
+South32 Limited placed order for BDTOP8723.280 (BDTOP-8723/280-8794X2294XN8) in M3 - ASW Adelaide warehouse. The order quantity was 0 units, indicating no stock movement.
+
+South32 Limited placed order for BDTOP8724.230 (BDTOP-8724/230-8744X2364XN8) in M3 - ASW Adelaide warehouse. The order quantity was 0 units, indicating no stock movement.
+
+South32 Limited placed order for BDTOP8923.340 (BDTOP-8923/340-8944X2344XN10) in M3 - ASW Adelaide warehouse. The order quantity was 0 units, indicating no stock movement.
+
+South32 Limited placed order for BDTOP9323.390 (BDTOP-9323/390-9374x2374xN12) in M3 - ASW Adelaide warehouse. The order quantity was 0 units, indicating no stock movement.
+
+South32 Limited placed order for CCP30241010056G (100x100x3000x2400x5.6 Ind Mesh) in M3 - ASW Adelaide warehouse. The order quantity was 0 units, indicating no stock movement.
+
+South32 Limited placed order for CCP45171010056G (DNU- see SMF45171010056G) in M3 - ASW Adelaide warehouse. The order quantity was 0 units, indicating no stock movement.
+
+South32 Limited placed order for CFPCLAMPS12.5 (Spider Clamps 12.5mm) in M3 - ASW Adelaide warehouse. The order quantity was 0 units, indicating no stock movement.
+
+South32 Limited placed order for CFPSCREWSM12X25 (Nut&Bolt - M12x25) in M3 - ASW Adelaide warehouse. The order quantity was 0 units, indicating no stock movement.
+
+South32 Limited placed order for CFPSCREWSM8X25 (Anti Theft Nut&Bolt - M8X25) in M3 - ASW Adelaide warehouse. The order quantity was 0 units, indicating no stock movement.
+
+South32 Limited placed order for CFPSCREWSM8X30 (Anti Theft Nut&Bolt - M8x30) in M3 - ASW Adelaide warehouse. The order quantity was 0 units, indicating no stock movement.
+
+South32 Limited placed order for CGATEBPVC (6x1.8+3B CGates BPVC 1x6m) in M3 - ASW Adelaide warehouse. The order quantity was 0 units, indicating no stock movement.
+
+South32 Limited placed order for CGATEG900180B3 (9000x1800+3Barb CGates Galv) in M3 - ASW Adelaide warehouse. The order quantity was 0 units, indicating no stock movement.
+
+South32 Limited placed order for CGATESPEC (Spl GateCGATE Special) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available. The unit of measure is EA.
+
+South32 Limited placed order for CHCWB4PVC35H (Helical PVCB 4mm-35Kg(315m)) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available. The unit of measure is EA.
+
+South32 Limited placed order for CIFPG7044.260 (I Fence Post Galv - 2.6m) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available. The unit of measure is EA.
+
+South32 Limited placed order for CIFPG7044.340 (I Fence Post Galv - 3.4m) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available. The unit of measure is EA.
+
+South32 Limited placed order for CLW2PVCB5 (T/L Wire HG-PVCB 2mm-5kg(180m)) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available. The unit of measure is EA.
+
+South32 Limited placed order for CM1200C3002G (25x25x1200x30000x2.0 Mesh CoilIMG2-11-12C30) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available. The unit of measure is EA.
+
+South32 Limited placed order for CTHRUIMG4H2325 (Cthru Mesh 2350-IMG4H-2325) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available. The unit of measure is EA.
+
+South32 Limited placed order for CTHRUIMG4H2412 (Ctrhu Mesh 1150-IMG4H-2412) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available. The unit of measure is EA.
+
+South32 Limited placed order for CTHRUIMG4H2418 (Cthru mesh 1750-IMG4H-2418) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available. The unit of measure is EA.
+
+South32 Limited placed order for CTWBPVC1.57 (T Wire BPVC 1.57mm-5kg (325m)) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available. The unit of measure is EA.
+
+South32 Limited placed order for D500LSL62 (SL62 Square Mesh 6x2.4) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available. The unit of measure is EA.
+
+South32 Limited placed order for D500LSL72 (SL72 Square Mesh 6x2.4) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available. The unit of measure is EA.
+
+South32 Limited placed order for D500N10COIL (N10 Dbar in Coils) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available. The unit of measure is TONN.
+
+South32 Limited placed order for D500N12X6M (12MM Ribbed Reinforcing Bar 6M) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available. The unit of measure is TONN.
+
+South32 Limited placed order for D500N12XCOIL (N12 Dbar In Coils) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available. The unit of measure is TONN.
+
+South32 Limited placed order for D500N16X6M (16MM Ribbed Reinforcing Bar 6M) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available. The unit of measure is TONN.
+
+South32 Limited placed order for D500N20X6M (N20x6m lengths) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available. The unit of measure is TONN.
+
+South32 Limited placed order for D500N8.0COIL (N8 Dbar in Coil) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available. The unit of measure is TONN.
+
+South32 Limited placed order for D500RL1018 (RL1018 Rectangular Mesh 6x2.4) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available. The unit of measure is EA.
+
+South32 Limited placed order for D500RL1218 (RL1218 Rectangular Mesh 6x2.4) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available. The unit of measure is EA.
+
+M3 - ASW Adelaide warehouse holds 0 units of SL81 Square Mesh D500SL81. The inventory status is QOH with unit of measure EA. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+M3 - ASW Adelaide warehouse holds 0 units of SL82 Square Mesh D500SL82. The inventory status is QOH with unit of measure EA. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+M3 - ASW Adelaide warehouse holds 0 units of SL92 Square Mesh D500SL92. The inventory status is QOH with unit of measure EA. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+M3 - ASW Adelaide warehouse holds 0 units of Flat Washer with 8.5mm Slot DFA-8.5Washer. The inventory status is QOH with unit of measure EA. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+M3 - ASW Adelaide warehouse holds 0 units of Dble Angle 5 Ln Barb Wire Brak DFA-BWAD-5Line. The inventory status is QOH with unit of measure EA. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+M3 - ASW Adelaide warehouse holds 0 units of Dble Angle 5 Ln Cnr Bar Wir Bk DFA-BWADC-5Line. The inventory status is QOH with unit of measure EA. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+M3 - ASW Adelaide warehouse holds 0 units of Sngle Ale 5 line Barb Wi BK DFA-BWAS-5Line. The inventory status is QOH with unit of measure EA. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+M3 - ASW Adelaide warehouse holds 0 units of Sngle Ale 5 Ln Cnr Bar Wir Brk DFA-BWADC-5Line. The inventory status is QOH with unit of measure EA. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+M3 - ASW Adelaide warehouse holds 0 units of Barb Wr Brk for Gates - Strt DFA-BWGS-5Line. The inventory status is QOH with unit of measure EA. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+M3 - ASW Adelaide warehouse holds 0 units of Strt 5 Line Barb Wire Bracket DFA-BWS-5Line. The inventory status is QOH with unit of measure EA. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+M3 - ASW Adelaide warehouse holds 0 units of Strt 5 Line Cnr Barb Wire Brk DFA-BWSC-5Line. The inventory status is QOH with unit of measure EA. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+M3 - ASW Adelaide warehouse holds 0 units of 45 Degree Cnr Plates - LHSDFA-CnrPlate-LHS. The inventory status is QOH with unit of measure EA. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+M3 - ASW Adelaide warehouse holds 0 units of 45 Degree Cnr Plates - RHSDFA-CnrPlate-RHS. The inventory status is QOH with unit of measure EA. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+M3 - ASW Adelaide warehouse holds 0 units of 2.4m Dble Sid Alligtr Top Rail DFA-Allig-Dble-2400. The inventory status is QOH with unit of measure EA. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+M3 - ASW Adelaide warehouse holds 0 units of 1M Ped Gate Frame DFA-DFPG1HFR. The inventory status is QOH with unit of measure EA. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+M3 - ASW Adelaide warehouse holds 0 units of 1m Ped Gate - Heavy LHS/RHSDFA-DFPG1HLR. The inventory status is QOH with unit of measure EA. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+M3 - ASW Adelaide warehouse holds 0 units of 1m Ped Gate - LHS Hinges Incl DFA-DFPG1ML. The inventory status is QOH with unit of measure EA. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+M3 - ASW Adelaide warehouse holds 0 units of 1m Ped Gate Compl - RH Hinges DFA-DFPG1MR. The inventory status is QOH with unit of measure EA. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+M3 - ASW Adelaide warehouse holds 0 units of 2.4m Wide Hvy Veh Gt LHS/RHSDFA-DFVG24HLR. The inventory status is QOH with unit of measure EA. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+M3 - ASW Adelaide warehouse holds 0 units of 3.0m Wide Veh Gate LHSDFA-DFVG30SLH. The inventory status is QOH with unit of measure EA. No quantities have been picked, despatched, reserved, awaiting confirm out, unconfirmed, or available.
+
+M3 - ASW Adelaide warehouse holds 0 units of 3.0m Wide Veh Gate RHSDFA-DFVG30SRH (Part Code: DFADFVG30SRH). The inventory status is QOH with EA as the unit of measure.
+
+M3 - ASW Adelaide warehouse holds 0 units of Heavy Gate Post LHSDFA-DFVGPHLH (Part Code: DFADFVGPHLH). The inventory status is QOH with EA as the unit of measure.
+
+M3 - ASW Adelaide warehouse holds 0 units of Heavy Gate Post RHSDFA-DFVGPHRH (Part Code: DFADFVGPHRH). The inventory status is QOH with EA as the unit of measure.
+
+M3 - ASW Adelaide warehouse holds 0 units of Standard Gate Post LHSDFA-DFVGPSLH (Part Code: DFADFVGPSLH). The inventory status is QOH with EA as the unit of measure.
+
+M3 - ASW Adelaide warehouse holds 0 units of Standard Gate Post RHSDFA-DFVGPSLR (Part Code: DFADFVGPSLR). The inventory status is QOH with EA as the unit of measure.
+
+M3 - ASW Adelaide warehouse holds 0 units of 2.4m Sgle Ad Alligtr Top RailDFA-Alllig-Sgle-2400 (Part Code: DFASGLE2400). The inventory status is QOH with EA as the unit of measure.
+
+M3 - ASW Adelaide warehouse holds 0 units of Ausro Strap 3.0 x 0.3OSH106H-3003 (Part Code: JOS3003B). The inventory status is QOH with EA as the unit of measure.
+
+M3 - ASW Adelaide warehouse holds 0 units of Ausro Straps Gal 3.0 x 0.3OSH106H-3003G (Part Code: JOS3003G). The inventory status is QOH with EA as the unit of measure.
+
+M3 - ASW Adelaide warehouse holds 0 units of 358 Mesh 1.2 x 2.4IMZG4-305-1224 (Part Code: MP122404G). The inventory status is QOH with EA as the unit of measure.
+
+M3 - ASW Adelaide warehouse holds 0 units of 358 Panels 2.4m x 2.4mIMZG4-305-2424 (Part Code: MP242404G). The inventory status is QOH with EA as the unit of measure.
+
+M3 - ASW Adelaide warehouse holds 0 units of 358 panels 2.5m x 2.4mIMZG4-305-2524 (Part Code: MP252404G). The inventory status is QOH with EA as the unit of measure.
+
+M3 - ASW Adelaide warehouse holds 0 units of 50x75x3000x1200x4mm Ind MeshIMZG4-23-3012 (Part Code: MP3012507504G). The inventory status is QOH with EA as the unit of measure.
+
+M3 - ASW Adelaide warehouse holds 0 units of 358 Panels 3.0m x 2.4mIMZG4-305-3024 (Part Code: MP302404G). The inventory status is QOH with EA as the unit of measure.
+
+M3 - ASW Adelaide warehouse holds 0 units of 358 Panel 3.1m x 2.4mIMZG4-305-3124 (Part Code: MP312404G). The inventory status is QOH with EA as the unit of measure.
+
+M3 - ASW Adelaide warehouse holds 0 units of 358 Panels 3.6m x 2.4mIMZG4-305-3624 (Part Code: MP362404G). The inventory status is QOH with EA as the unit of measure.
+
+M3 - ASW Adelaide warehouse holds 0 units of 358 Panels 4050x1895IMZG4-305-4H19 (Part Code: MP411904G). The inventory status is QOH with EA as the unit of measure.
+
+M3 - ASW Adelaide warehouse holds 0 units of 358 Panels 4050x1950IMZG4-305-4H19H (Part Code: MP412004G). The inventory status is QOH with EA as the unit of measure.
+
+M3 - ASW Adelaide warehouse holds 0 units of 358 Panels 4.5m x 2.4mIMZG4-305-4524 (Part Code: MP452404G). The inventory status is QOH with EA as the unit of measure.
+
+M3 - ASW Adelaide warehouse holds 0 units of DNU- see MS45241010056G (Part Code: MS15H45241010G). The inventory status is QOH with EA as the unit of measure.
+
+M3 - ASW Adelaide warehouse holds 0 units of DNU- see MS45241010056G2 (Part Code: MS25H45241010G). The inventory status is QOH with EA as the unit of measure.
+
+South32 Limited placed order for MS5H45241010G (100x100x4500x2400x5.6 SM Mesh) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available.
+
+South32 Limited placed order for MS5H50241010G (DNU - see MS50241010056G) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available.
+
+South32 Limited placed order for MSTRAP300308G (DNU - see CCP300310108G) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available.
+
+South32 Limited placed order for PMES6H2015G (17x50x2000x1500x6.3mm Pig Mesh) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available.
+
+South32 Limited placed order for PMES6H2415G (17x50x2400x1500x6.3mm Pig Mesh) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available.
+
+South32 Limited placed order for RAZ550CON (550mm Concertina Barbed Tape) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available.
+
+South32 Limited placed order for RFWZAL25HT1T (HT Trellis Wire - 2.5 - 1 Ton Coil) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available.
+
+South32 Limited placed order for RFWZAL315HT1T (HT Trellis Wire 3.15 - 1 Ton Coil) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available.
+
+South32 Limited placed order for SESCREW0425X30 (Self Tapp Screw 30mm - 100 box) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available.
+
+South32 Limited placed order for SL41 (SL 41 Square Mesh 6X2.4R500) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available.
+
+South32 Limited placed order for SM5H36241010FG (100x100x3600x2400x5.6 Ind Mesh) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available.
+
+South32 Limited placed order for SM5H40241010FG (DNU - see CCP40241010056G) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available.
+
+South32 Limited placed order for SM5H501610104G (100x100x5000x1600x5.6 4mm Galv) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available.
+
+South32 Limited placed order for SM5H50241010G (DNU - see MS50241010056G) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available.
+
+South32 Limited placed order for SMB1811202005 (200x200x1800x1100x5mm LDMesh) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available.
+
+South32 Limited placed order for SMB4024101005 (DNU - see CC402410105) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available.
+
+South32 Limited placed order for SMB4517101005 (100x100x4500x1700x5mm Bright M) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available.
+
+South32 Limited placed order for SMB4524101005 (100x100x4500x2400x5mm Black) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available.
+
+South32 Limited placed order for SMB4814100505 (100x100x4800x1400x4x5IMB45) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available.
+
+South32 Limited placed order for SMB4814101505 (100x150x4800x1400x5mm) from M3 - ASW Adelaide warehouse. The inventory status is QOH with 0 units available.
+
+M3 - ASW Adelaide warehouse holds 0 units of 100x100x4500x1700x4.24mm Black IMB4H-44-4517 (Part Code: SMB4H45171010). The inventory status is QOH (Quantity On Hand).
+
+M3 - ASW Adelaide warehouse holds between 3,000 and 4,500 units of 100x100x5000x2400x4.50 IMB4H-44-5024 (Part Code: SMB4H50241010). The inventory status is QOH (Quantity On Hand).
+
+M3 - ASW Adelaide warehouse holds 0 units of DNU - see SMB5002101004 (Part Code: SMB5002100505). The inventory status is QOH (Quantity On Hand).
+
+M3 - ASW Adelaide warehouse holds 0 units of 100x50x25x5000x250x4x5 IMB45-421-5002-DEN (Part Code: SMB5002101004). The inventory status is QOH (Quantity On Hand).
+
+M3 - ASW Adelaide warehouse holds 0 units of 100x100x5000x1100x5mm - DWAI IMB5-44-5011-DWA (Part Code: SMB5011101005). The inventory status is QOH (Quantity On Hand).
+
+M3 - ASW Adelaide warehouse holds 0 units of DNU - see CC5014101005 (Part Code: SMB5014101005). The inventory status is QOH (Quantity On Hand).
+
+M3 - ASW Adelaide warehouse holds 0 units of 100x100x5000x1600x5mm - JNAI IMB5-44-5016-JNA (Part Code: SMB5016101005). The inventory status is QOH (Quantity On Hand).
+
+M3 - ASW Adelaide warehouse holds 0 units of DNU - see SMB5016151005S (Part Code: SMB5016101505). The inventory status is QOH (Quantity On Hand).
+
+M3 - ASW Adelaide warehouse holds 0 units of 150x150x5100x1150x4x5 - DEN2 IMB45-66-5111-DEN2 (Part Code: SMB5112151504). The inventory status is QOH (Quantity On Hand).
+
+M3 - ASW Adelaide warehouse holds 0 units of DNU - see SMB5113515105S (Part Code: SMB5114151005). The inventory status is QOH (Quantity On Hand).
+
+M3 - ASW Adelaide warehouse holds 0 units of DNU - see SMB5118151505 (Part Code: SMB5117151504). The inventory status is QOH (Quantity On Hand).
+
+M3 - ASW Adelaide warehouse holds 0 units of 150x150x5100x1700x4x5 IMB45-66-5117-DEN (Part Code: SMB5118151505). The inventory status is QOH (Quantity On Hand).
+
+M3 - ASW Adelaide warehouse holds 0 units of 100x100x5600x1600x5mm Ind Mesh IMB5-44-5616 (Part Code: SMB5616151005). The inventory status is QOH (Quantity On Hand).
+
+M3 - ASW Adelaide warehouse holds 0 units of 100x100x4800x2400x5.6mm Ind Me IMB5H-44-4824 (Part Code: SMB5H482410100). The inventory status is QOH (Quantity On Hand).
+
+M3 - ASW Adelaide warehouse holds 0 units of DNU - see SMB5018101005 (Part Code: SMB5H50171015). The inventory status is QOH (Quantity On Hand).
+
+M3 - ASW Adelaide warehouse holds 0 units of 100x150x6000x1200x4x5 Ind Mesh IMB45-46-6012-DPI (Part Code: SMB6012101505). The inventory status is QOH (Quantity On Hand).
+
+M3 - ASW Adelaide warehouse holds 0 units of 100x100x3000x300x8 Black Strap IMB8-44-3003 (Part Code: SMBS3003101008). The inventory status is QOH (Quantity On Hand).
+
+M3 - ASW Adelaide warehouse holds 0 units of 100x100x6000x300x8mm Mesh Str IMB8-44-6003 (Part Code: SMBS6003101008). The inventory status is QOH (Quantity On Hand).
+
+M3 - ASW Adelaide warehouse holds 0 units of 50x100x3.15x1200x30m IMG3H-24-1200C30 (Part Code: SMC303H1200510G). The inventory status is QOH (Quantity On Hand).
+
+M3 - ASW Adelaide warehouse holds 0 units of 50x100x3.15x1200x60m IMG3H-24-1200C60 (Part Code: SMC603H1200510G). The inventory status is QOH (Quantity On Hand).
+
+M3 - ASW Adelaide warehouse holds 0 units of Steel Mesh product SMESH1200850505 described as DNU- see SMESH300011704. The inventory status is QOH with unit of measure EA.
+
+M3 - ASW Adelaide warehouse holds 0 units of Steel Mesh product SMF11090505004G described as 50x50x1150x950x4mm Weld MeshIMG4-22-1109. The inventory status is QOH with unit of measure EA.
+
+M3 - ASW Adelaide warehouse holds 0 units of Steel Mesh product SMF12080505005G described as 50x50x1200x800x5mm Ind MeshIMG5-22-1208. The inventory status is QOH with unit of measure EA.
+
+M3 - ASW Adelaide warehouse holds 0 units of Steel Mesh product SMF1614101005 described as DNU- see SMF1614101004. The inventory status is QOH with unit of measure EA.
+
+M3 - ASW Adelaide warehouse holds 0 units of Steel Mesh product SMF17121001004G described as 100x100x1700x1200x4mm Ind MeshIMG4-44-1712-WLC. The inventory status is QOH with unit of measure EA.
+
+M3 - ASW Adelaide warehouse holds 0 units of Steel Mesh product SMF1814101004 described as 100x150x1800x1400x4mm - DMEIMB4-46-1814-DME. The inventory status is QOH with unit of measure EA.
+
+M3 - ASW Adelaide warehouse holds 0 units of Steel Mesh product SMF20120505004G described as 50x50x2000x1200x4mm Ind MeshIMG4-22-2012. The inventory status is QOH with unit of measure EA.
+
+M3 - ASW Adelaide warehouse holds 0 units of Steel Mesh product SMF20120507504G described as 50x75x2000x1200x4mm Ind MeshIMG4-23-2012. The inventory status is QOH with unit of measure EA.
+
+M3 - ASW Adelaide warehouse holds 0 units of Steel Mesh product SMF20151001004G described as DNU- see CC2015101004G. The inventory status is QOH with unit of measure EA.
+
+M3 - ASW Adelaide warehouse holds 0 units of Steel Mesh product SMF23110102005G described as 100x200x2.3x1.1x5mm Weld MeshIMG5-48-2311. The inventory status is QOH with unit of measure EA.
+
+M3 - ASW Adelaide warehouse holds 0 units of Steel Mesh product SMF24090505004G described as 50x50x2350x950x4mm Weld MeshIMG4-22-2309. The inventory status is QOH with unit of measure EA.
+
+M3 - ASW Adelaide warehouse holds 0 units of Steel Mesh product SMF24120505004G described as 50x50x2400x1200x4mm Ind MeshIMG4-22-2412. The inventory status is QOH with unit of measure EA.
+
+M3 - ASW Adelaide warehouse holds 0 units of Steel Mesh product SMF24120505005G described as 50x50x2400x1200x5 Ind MeshIMG5-22-2412. The inventory status is QOH with unit of measure EA.
+
+M3 - ASW Adelaide warehouse holds 0 units of Steel Mesh product SMF24120507504G described as 50x75x2400x1200x4mm Ind MeshIMG4-23-2412. The inventory status is QOH with unit of measure EA.
+
+M3 - ASW Adelaide warehouse holds 0 units of Steel Mesh product SMF24120575005G described as 50x75x2400x1200x5 Ind MeshIMG5-23-2412. The inventory status is QOH with unit of measure EA.
+
+M3 - ASW Adelaide warehouse holds 0 units of Steel Mesh product SMF24120755004G described as 75x50x2400x1200x4mm Ind MeshIMG4-32-2412. The inventory status is QOH with unit of measure EA.
+
+M3 - ASW Adelaide warehouse holds 0 units of Steel Mesh product SMF24120755005G described as 75x50x2400x1200x5m Ind MeshIMG5-32-2412. The inventory status is QOH with unit of measure EA.
+
+M3 - ASW Adelaide warehouse holds 0 units of Steel Mesh product SMF24120757504G described as 75x75x2400x1200x4mm Ind MeshIMG4-33-2412. The inventory status is QOH with unit of measure EA.
+
+M3 - ASW Adelaide warehouse holds 0 units of Steel Mesh product SMF24121001004G described as 100x100x2400x1200x4mm Gal MeshIMG4-44-2412. The inventory status is QOH with unit of measure EA.
+
+M3 - ASW Adelaide warehouse holds 0 units of Steel Mesh product SMF24121001005G described as 100x100x2400x1200x5mm Ind MeshIMG5-44-2412. The inventory status is QOH with unit of measure EA.
+
+M3 - ASW Adelaide warehouse holds 0 units of 50x75x2400x1500x4 Ind MeshIMB4-23-2415-RTF (Part Code: SMF241575504). The inventory status is QOH, with all quantities at 0.
+
+M3 - ASW Adelaide warehouse holds 0 units of 100x100x2400x2000x3.15 Ind MesIMB3H-44-2420-DCLA (Part Code: SMF2420101003). The inventory status is QOH, with all quantities at 0.
+
+M3 - ASW Adelaide warehouse holds 0 units of 40x40x2500x1200x4mm Ind MeshIMG4-1H1H-2512 (Part Code: SMF2512040404G). The inventory status is QOH, with all quantities at 0.
+
+M3 - ASW Adelaide warehouse holds 0 units of 100x100x2600x1800x3.15 Ind MesIMB3H-44-2618-DAIR (Part Code: SMF2618101003). The inventory status is QOH, with all quantities at 0.
+
+M3 - ASW Adelaide warehouse holds 0 units of 100x200x2.9x1.1x 5mm Weld meshIMG5-48-2911 (Part Code: SMF29110102005G). The inventory status is QOH, with all quantities at 0.
+
+M3 - ASW Adelaide warehouse holds 0 units of 25x25x2000x1200x2.5mm Ind meshIMG2H-11-2012 (Part Code: SMF2H201202525G). The inventory status is QOH, with all quantities at 0.
+
+M3 - ASW Adelaide warehouse holds 0 units of 25x25x2400x1200x2.5mm Ind MeshIMG2H-11-2412 (Part Code: SMF2H241202525G). The inventory status is QOH, with all quantities at 0.
+
+M3 - ASW Adelaide warehouse holds 0 units of 25x25x3000x2400x2.5mm Ind MeshIMG2H-11-3024 (Part Code: SMF2H302402525G). The inventory status is QOH, with all quantities at 0.
+
+M3 - ASW Adelaide warehouse holds 0 units of 150x100x3000x1200x4mm Gal MeshIMG4-46-3012-DPI (Part Code: SMF30121501004G). The inventory status is QOH, with all quantities at 0.
+
+M3 - ASW Adelaide warehouse holds 0 units of 50x50x3000x2400x4mm Weld MeshIMG4-22-3024 (Part Code: SMF30240505004G). The inventory status is QOH, with all quantities at 0.
+
+M3 - ASW Adelaide warehouse holds 0 units of 50x50x3000x2400x5mm Weld meshIMG5-22-3024 (Part Code: SMF30240505005G). The inventory status is QOH, with all quantities at 0.
+
+M3 - ASW Adelaide warehouse holds 0 units of 50x75x3000x2400x4mm Ind MeshIMG4-23-3024 (Part Code: SMF30240575004G). The inventory status is QOH, with all quantities at 0.
+
+M3 - ASW Adelaide warehouse holds 0 units of 50x75x3000x2400x5 Ind MeshIMG5-23-3024 (Part Code: SMF30240575005G). The inventory status is QOH, with all quantities at 0.
+
+M3 - ASW Adelaide warehouse holds 0 units of 75x50x3000x2400x5mm Ind MeshIMG5-32-3024 (Part Code: SMF30240755005G). The inventory status is QOH, with all quantities at 0.
+
+M3 - ASW Adelaide warehouse holds 0 units of 100x100x3000x2400x5 Ind MeshIMG5-44-3024 (Part Code: SMF30241001005G). The inventory status is QOH, with all quantities at 0.

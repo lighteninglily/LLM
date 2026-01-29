@@ -1,0 +1,455 @@
+TIE4.0X-Kgools is currently in production with the order status marked as WIP. The product is scheduled for delivery on June 3, 2025, with a quantity of 4000.0 units. The actual production achieved so far is 2055.0 units. The planned total production for the day is 3600.0 units, while the actual total production stands at 2055.0 units.
+
+The order for TIE4.0X-Kgools remains WIP, with production scheduled for June 4, 2025. The planned total production for the day is 3600.0 units, but no production has been recorded yet, making the actual total production 0.0 units.
+
+Tie-3.15mm-2.3m is being produced under the order status WIP. The first production run for this product is scheduled for June 5, 2025, with a planned total production of 3600.0 units. No production has been recorded yet, making the actual total production 0.0 units.
+
+The second production run for Tie-3.15mm-2.3m is scheduled for June 6, 2025, with the same planned total production of 3600.0 units. Again, no production has been recorded, keeping the actual total production at 0.0 units.
+
+The third production run for Tie-3.15mm-2.3m is scheduled for June 7, 2025, with the same planned total production of 3600.0 units. No production has been recorded, maintaining the actual total production at 0.0 units.
+
+The fourth production run for Tie-3.15mm-2.3m is scheduled for June 8, 2025, moving into week 24. The planned total production for the day is 3600.0 units, with no production recorded yet, keeping the actual total production at 0.0 units.
+
+The fifth production run for Tie-3.15mm-2.3m is scheduled for June 9, 2025, also moving into week 24. The planned total production for the day is 3600.0 units, with no production recorded yet, keeping the actual total production at 0.0 units.
+
+The sixth production run for Tie-3.15mm-2.3m is scheduled for June 10, 2025, still in week 24. The planned total production for the day is 3600.0 units, with no production recorded yet, keeping the actual total production at 0.0 units.
+
+The seventh production run for Tie-3.15mm-2.3m is scheduled for June 11, 2025, continuing into week 24. The planned total production for the day is 3600.0 units, with no production recorded yet, keeping the actual total production at 0.0 units.
+
+The eighth production run for Tie-3.15mm-2.3m is scheduled for June 12, 2025, still in week 24. The planned total production for the day is 3600.0 units, with no production recorded yet, keeping the actual total production at 0.0 units.
+
+The ninth production run for Tie-3.15mm-2.3m is scheduled for June 13, 2025, entering week 24. The planned total production for the day is 3600.0 units, with no production recorded yet, keeping the actual total production at 0.0 units.
+
+The tenth production run for Tie-3.15mm-2.3m is scheduled for June 14, 2025, still in week 24. The planned total production for the day is 3600.0 units, with no production recorded yet, keeping the actual total production at 0.0 units.
+
+The eleventh production run for Tie-3.15mm-2.3m is scheduled for June 15, 2025, moving into week 25. The planned total production for the day is 3600.0 units, with no production recorded yet, keeping the actual total production at 0.0 units.
+
+The twelfth production run for Tie-3.15mm-2.3m is scheduled for June 16, 2025, continuing into week 25. The planned total production for the day is 3600.0 units, with no production recorded yet, keeping the actual total production at 0.0 units.
+
+The thirteenth production run for Tie-3.15mm-2.3m is scheduled for June 17, 2025, still in week 25. The planned total production for the day is 3600.0 units, with no production recorded yet, keeping the actual total production at 0.0 units.
+
+The fourteenth production run for Tie-3.15mm-2.3m is scheduled for June 18, 2025, continuing into week 25. The planned total production for the day is 3600.0 units, with no production recorded yet, keeping the actual total production at 0.0 units.
+
+The fifteenth production run for Tie-3.15mm-2.3m is scheduled for June 19, 2025, still in week 25. The planned total production for the day is 3600.0 units, with no production recorded yet, keeping the actual total production at 0.0 units.
+
+The sixteenth production run for Tie-3.15mm-2.3m is scheduled for June 20, 2025, continuing into week 25. The planned total production for the day is 3600.0 units, with no production recorded yet, keeping the actual total production at 0.0 units.
+
+The seventeenth production run for Tie-3.15mm-2.3m is scheduled for June 21, 2025, still in week 25. The planned total production for the day is 3600.0 units, with no production recorded yet, keeping the actual total production at 0.0 units.
+
+The eighteenth production run for Tie-3.15mm-2.3m is scheduled for June 22, 2025, moving into week 26. The planned total production for the day is 3600.0 units, with no production recorded yet, keeping the actual total production at 0.0 units.
+
+WIP is scheduled to produce Tie-3.15mm-2.3m products under the code Tie3.15X2.3mm. No same-day shipping is planned for these orders. The first order was placed on June 23, 2025, with a total quantity of 3600.0 units and a weight of 1000.0 kg. This order is expected to continue through June 28, 2025, with identical quantities and weights each day. On June 29, 2025, the order transitions to week 27, continuing with the same parameters. Orders continue through July 3, 2025, with no changes in planned totals or actual totals reported.
+
+On July 4, 2025, the order enters week 27 again, maintaining the same parameters. By July 6, 2025, the order moves to week 28, continuing with the same planned totals and weights. Orders continue through July 9, 2025, with no changes in planned totals or actual totals reported. On July 9, 2025, the same-day shipping status changes to 'S', indicating a shift in logistics strategy. Orders continue through July 11, 2025, with no changes in planned totals or actual totals reported.
+
+On July 12, 2025, the system recorded a day where no short-term changes were expected (same_next_day: N). The week was identified as week 28.
+
+On the same day, another record indicated that short-term changes were expected (same_next_day: S).
+
+The following day, July 13, 2025, two records were logged. For the first, no short-term changes were anticipated (same_next_day: N), while for the second, changes were expected (same_next_day: S). Both records were part of week 29.
+
+On July 14, 2025, two more records were added. In both cases, no short-term changes were expected (same_next_day: N), and they were part of week 29.
+
+July 15, 2025, saw another day with no short-term changes expected (same_next_day: N) and was categorized under week 29.
+
+On July 16, 2025, the system noted another day with no short-term changes expected (same_next_day: N), still within week 29.
+
+July 17, 2025, recorded another day with no short-term changes expected (same_next_day: N), continuing in week 29.
+
+On July 18, 2025, the system again noted no short-term changes expected (same_next_day: N), still in week 29.
+
+July 19, 2025, recorded another day with no short-term changes expected (same_next_day: N), continuing in week 29.
+
+On July 20, 2025, the system noted no short-term changes expected (same_next_day: N), moving into week 30.
+
+July 21, 2025, recorded another day with no short-term changes expected (same_next_day: N), also in week 30.
+
+On July 22, 2025, the system noted no short-term changes expected (same_next_day: N), continuing in week 30.
+
+July 23, 2025, recorded another day with no short-term changes expected (same_next_day: N), still in week 30.
+
+On July 24, 2025, the system noted no short-term changes expected (same_next_day: N), continuing in week 30.
+
+July 25, 2025, recorded another day with no short-term changes expected (same_next_day: N), still in week 30.
+
+On July 26, 2025, the system noted no short-term changes expected (same_next_day: N), continuing in week 30.
+
+Finally, on July 27, 2025, the system recorded another day with no short-term changes expected (same_next_day: N), moving into week 31.
+
+On July 28, 2025, the system noted another day with no short-term changes expected (same_next_day: N), concluding in week 31.
+
+On July 29, 2025, no same-day occurrence was noted. The week number was 31.
+
+On July 30, 2025, no same-day occurrence was noted. The week number remained 31.
+
+On July 31, 2025, no same-day occurrence was noted. The week number stayed at 31.
+
+On August 1, 2025, no same-day occurrence was noted. The week number increased to 31.
+
+On August 2, 2025, no same-day occurrence was noted. The week number progressed to 31.
+
+On August 3, 2025, no same-day occurrence was noted. The week number changed to 32.
+
+On August 4, 2025, no same-day occurrence was noted. The week number remained 32.
+
+On August 5, 2025, no same-day occurrence was noted. The week number stayed at 32.
+
+On August 6, 2025, no same-day occurrence was noted. The week number continued to be 32.
+
+On August 7, 2025, no same-day occurrence was noted. The week number remained 32.
+
+On August 8, 2025, no same-day occurrence was noted. The week number stayed at 32.
+
+On August 9, 2025, no same-day occurrence was noted. The week number continued to be 32.
+
+On August 10, 2025, no same-day occurrence was noted. The week number changed to 33.
+
+On August 11, 2025, no same-day occurrence was noted. The week number remained 33.
+
+On August 12, 2025, no same-day occurrence was noted. The week number stayed at 33.
+
+On August 13, 2025, no same-day occurrence was noted. The week number continued to be 33.
+
+On August 14, 2025, no same-day occurrence was noted. The week number remained 33.
+
+On August 15, 2025, no same-day occurrence was noted. The week number stayed at 33.
+
+On August 16, 2025, no same-day occurrence was noted. The week number continued to be 33.
+
+On August 17, 2025, no same-day occurrence was noted. The week number changed to 34.
+
+On August 18, 2025, an event occurred where the next day was not the same as the current day, indicating a change in conditions or status. This event was recorded in week 34.
+
+On August 19, 2025, another similar event was noted, continuing the pattern of a change in conditions or status, still within week 34.
+
+On August 20, 2025, the same type of event was observed, maintaining the continuity of the pattern within week 34.
+
+On August 21, 2025, the event continued, showing no change in the next day's condition, still within week 34.
+
+On August 22, 2025, the event persisted, indicating no change in the next day's condition, continuing into week 34.
+
+On August 23, 2025, the event was recorded again, showing no change in the next day's condition, still within week 34.
+
+On August 24, 2025, the event changed, marking the transition to week 35.
+
+On August 25, 2025, the event continued, showing no change in the next day's condition, now in week 35.
+
+On August 26, 2025, the event persisted, indicating no change in the next day's condition, still within week 35.
+
+On August 27, 2025, the event continued, showing no change in the next day's condition, still within week 35.
+
+On August 28, 2025, the event persisted, indicating no change in the next day's condition, still within week 35.
+
+On August 29, 2025, the event continued, showing no change in the next day's condition, still within week 35.
+
+On August 30, 2025, the event persisted, indicating no change in the next day's condition, still within week 35.
+
+On August 31, 2025, the event changed, marking the transition to week 36.
+
+On September 1, 2025, the event continued, showing no change in the next day's condition, now in week 36.
+
+On September 2, 2025, the event persisted, indicating no change in the next day's condition, still within week 36.
+
+On September 3, 2025, the event continued, showing no change in the next day's condition, still within week 36.
+
+On September 4, 2025, the event persisted, indicating no change in the next day's condition, still within week 36.
+
+On September 5, 2025, the event continued, showing no change in the next day's condition, still within week 36.
+
+On September 6, 2025, the event concluded, showing no change in the next day's condition, still within week 36.
+
+On September 7, 2025, an event occurred where the next day was not the same as the current day, indicating a potential time zone difference or daylight saving change. This event took place during week 37.
+
+On September 8, 2025, another similar event was recorded, continuing the pattern observed the previous day. The week number remained at 37.
+
+On September 9, 2025, the same pattern continued, with the next day not being the same as the current day. The week number stayed at 37.
+
+On September 10, 2025, the event repeated, showing no change in the next day status. The week number remained at 37.
+
+On September 11, 2025, the event continued, with the next day not being the same as the current day. The week number stayed at 37.
+
+On September 12, 2025, the pattern persisted, with the next day not matching the current day. The week number remained at 37.
+
+On September 13, 2025, the event continued, with the next day not being the same as the current day. The week number increased to 38.
+
+On September 14, 2025, the same pattern was observed, with the next day not matching the current day. The week number remained at 38.
+
+On September 15, 2025, the event continued, with the next day not being the same as the current day. The week number stayed at 38.
+
+On September 16, 2025, the pattern persisted, with the next day not matching the current day. The week number remained at 38.
+
+On September 17, 2025, the event continued, with the next day not being the same as the current day. The week number stayed at 38.
+
+On September 18, 2025, the same pattern was observed, with the next day not matching the current day. The week number remained at 38.
+
+On September 19, 2025, the event continued, with the next day not being the same as the current day. The week number stayed at 38.
+
+On September 20, 2025, the pattern persisted, with the next day not matching the current day. The week number remained at 38.
+
+On September 21, 2025, the event continued, with the next day not being the same as the current day. The week number increased to 39.
+
+On September 22, 2025, the same pattern was observed, with the next day not matching the current day. The week number remained at 39.
+
+On September 23, 2025, the event continued, with the next day not being the same as the current day. The week number stayed at 39.
+
+On September 24, 2025, the same pattern was observed, with the next day not matching the current day. The week number remained at 39.
+
+On September 25, 2025, the event continued, with the next day not being the same as the current day. The week number stayed at 39.
+
+On September 26, 2025, the pattern persisted, with the next day not matching the current day. The week number remained at 39.
+
+On September 27, 2025, no same-day events were recorded, placing it in week 39.
+
+On September 28, 2025, no same-day events were recorded, moving into week 40.
+
+On September 29, 2025, no same-day events were recorded, continuing in week 40.
+
+On September 30, 2025, no same-day events were recorded, staying in week 40.
+
+On October 1, 2025, no same-day events were recorded, still in week 40.
+
+On October 2, 2025, no same-day events were recorded, maintaining week 40.
+
+On October 3, 2025, no same-day events were recorded, continuing in week 40.
+
+On October 4, 2025, no same-day events were recorded, staying in week 40.
+
+On October 5, 2025, no same-day events were recorded, entering week 41.
+
+On October 6, 2025, no same-day events were recorded, progressing into week 41.
+
+On October 7, 2025, no same-day events were recorded, remaining in week 41.
+
+On October 8, 2025, no same-day events were recorded, continuing in week 41.
+
+On October 9, 2025, no same-day events were recorded, staying in week 41.
+
+On October 10, 2025, no same-day events were recorded, still in week 41.
+
+On October 11, 2025, no same-day events were recorded, continuing in week 41.
+
+On October 12, 2025, no same-day events were recorded, entering week 42.
+
+On October 13, 2025, no same-day events were recorded, progressing into week 42.
+
+On October 14, 2025, no same-day events were recorded, remaining in week 42.
+
+On October 15, 2025, no same-day events were recorded, continuing in week 42.
+
+On October 16, 2025, no same-day events were recorded, staying in week 42.
+
+On October 17, 2025, no orders were placed. The week was numbered 42.
+
+On October 18, 2025, no orders were placed. The week was numbered 42.
+
+On October 19, 2025, no orders were placed. The week was numbered 43.
+
+On October 20, 2025, no orders were placed. The week was numbered 43.
+
+On October 21, 2025, no orders were placed. The week was numbered 43.
+
+On October 22, 2025, no orders were placed. The week was numbered 43.
+
+On October 23, 2025, no orders were placed. The week was numbered 43.
+
+On October 24, 2025, an order for 12,000 units of Tie-3.15mm-2.3m was placed. The order number was 253876, and the Ross code was Tie3.15X2.3mm. No same-next-day orders were placed, and the week was numbered 43. By the end of the day, 1,725 units had been achieved.
+
+On October 25, 2025, no orders were placed. The week was numbered 43.
+
+On October 26, 2025, no orders were placed. The week was numbered 44.
+
+On October 27, 2025, no orders were placed. The week was numbered 44, and 1,545 units were achieved.
+
+On October 28, 2025, no orders were placed. The week was numbered 44.
+
+On October 29, 2025, no orders were placed. The week was numbered 44.
+
+On October 30, 2025, no orders were placed. The week was numbered 44, and 1,825 units were achieved.
+
+On October 31, 2025, no orders were placed. The week was numbered 44.
+
+On November 1, 2025, no orders were placed. The week was numbered 44.
+
+On November 2, 2025, no orders were placed. The week was numbered 45.
+
+On November 3, 2025, no orders were placed. The week was numbered 45, and 1,150 units were achieved.
+
+On November 4, 2025, no orders were placed. The week was numbered 45, and 1,545 units were achieved.
+
+On November 5, 2025, no orders were placed. The week was numbered 45, and 1,541 units were achieved.
+
+On November 6, 2025, no orders were placed and no achievements were reported for week 45.
+
+On November 7, 2025, no orders were placed and no achievements were reported for week 45.
+
+On November 8, 2025, no orders were placed and no achievements were reported for week 45.
+
+On November 9, 2025, no orders were placed but an achievement of 1535.0 was recorded for week 46.
+
+On November 10, 2025, no orders were placed but an achievement of 1535.0 was recorded for week 46.
+
+On November 11, 2025, no orders were placed but an achievement of 1535.0 was recorded for week 46.
+
+On November 12, 2025, an order for 10000.0 units of Tie-3.15mm-2.3m was placed, with no same-day order fulfillment. An achievement of 2280.0 was recorded for week 46.
+
+On November 13, 2025, no orders were placed but an achievement of 1610.0 was recorded for week 46.
+
+On November 14, 2025, no orders were placed but an achievement of 2000.0 was recorded for week 46.
+
+On November 15, 2025, no orders were placed and no achievements were reported for week 46.
+
+On November 16, 2025, no orders were placed and no achievements were reported for week 47.
+
+On November 17, 2025, no orders were placed and no achievements were reported for week 47.
+
+On November 18, 2025, no orders were placed and no achievements were reported for week 47.
+
+On November 19, 2025, no orders were placed and no achievements were reported for week 47.
+
+On November 20, 2025, no orders were placed and no achievements were reported for week 47.
+
+On November 21, 2025, no orders were placed and no achievements were reported for week 47.
+
+On November 22, 2025, no orders were placed and no achievements were reported for week 47.
+
+On November 23, 2025, no orders were placed but an achievement of 1810.0 was recorded for week 48.
+
+On November 24, 2025, no orders were placed but an achievement of 1560.0 was recorded for week 48.
+
+On November 26, 2025, no same-day shipments were made, and the week number was 48. The achievement level was 2425.0.
+
+On November 27, 2025, no same-day shipments were made, and the week number was 48.
+
+On November 28, 2025, no same-day shipments were made, and the week number was 48.
+
+On November 29, 2025, no same-day shipments were made, and the week number was 48.
+
+On November 30, 2025, no same-day shipments were made, and the week number was 49. The achievement level was 2010.0.
+
+On December 1, 2025, no same-day shipments were made, and the week number was 49. The achievement level was 2010.0.
+
+On December 2, 2025, no same-day shipments were made, and the week number was 49.
+
+On December 3, 2025, no same-day shipments were made, and the week number was 49.
+
+On December 4, 2025, no same-day shipments were made, and the week number was 49.
+
+On December 5, 2025, no same-day shipments were made, and the week number was 49.
+
+On December 6, 2025, no same-day shipments were made, and the week number was 49.
+
+On December 7, 2025, no same-day shipments were made, and the week number was 50.
+
+On December 8, 2025, no same-day shipments were made, and the week number was 50. The achievement level was 2104.0.
+
+On December 9, 2025, no same-day shipments were made, and the week number was 50. The achievement level was 2188.0.
+
+On December 10, 2025, no same-day shipments were made, and the week number was 50. The achievement level was 2000.0.
+
+On December 11, 2025, no same-day shipments were made, and the week number was 50.
+
+On December 12, 2025, no same-day shipments were made, and the week number was 50.
+
+On December 13, 2025, no same-day shipments were made, and the week number was 50.
+
+On December 14, 2025, no same-day shipments were made, and the week number was 51.
+
+On December 15, 2025, the product Tie-3.15mm-2.3m with Ross code Tie3.15X2.3mm had a quantity of 50000.0, and no same-day shipments were made. The week number was 51.
+
+On December 16, 2025, the achievement was recorded as 2150.0 during week 51.
+
+On December 17, 2025, the achievement was recorded as 2147.0 during week 51.
+
+On December 18, 2025, the achievement was recorded as 1827.0 during week 51.
+
+On December 19, 2025, no achievement was recorded during week 51.
+
+On December 20, 2025, no achievement was recorded during week 51.
+
+On December 21, 2025, the achievement was recorded as 0.0 during week 52.
+
+On December 22, 2025, the achievement was recorded as 0.0 during week 52.
+
+On December 23, 2025, the achievement was recorded as 2055.0 during week 52.
+
+On December 24, 2025, the achievement was recorded as 2140.0 during week 52.
+
+On December 25, 2025, no achievement was recorded during week 52.
+
+On December 26, 2025, the achievement was recorded as 2010.0 during week 52.
+
+On December 27, 2025, no achievement was recorded during week 52.
+
+On December 28, 2025, the achievement was recorded as 0.0 during week 53.
+
+On December 29, 2025, the achievement was recorded as 1958.0 during week 53.
+
+On December 30, 2025, no achievement was recorded during week 53.
+
+On December 31, 2025, no achievement was recorded during week 53.
+
+On January 1, 2026, no achievement was recorded during week 1.
+
+On January 2, 2026, no achievement was recorded during week 1.
+
+On January 3, 2026, no achievement was recorded during week 1.
+
+On January 4, 2026, the achievement was recorded as 0.0 during week 2.
+
+On January 5, 2026, no specific product was recorded for the day.
+
+Tie-3.15mm-2.3m is listed under the product code Tie3.15X2.3mm with a quantity of 50,000 units on January 6, 2026.
+
+No product was recorded for January 7, 2026.
+
+No product was recorded for January 8, 2026, but an achievement of 1,711 was noted.
+
+No product was recorded for January 9, 2026.
+
+On January 10, 2026, no product was recorded, but an achievement of 2,090 was noted.
+
+No product was recorded for January 11, 2026.
+
+Tie-3.15mm-2.3m is listed under the product code Tie3.15X2.2mm with a quantity of 50,000 units on January 12, 2026, achieving 2,544.
+
+Tie-3.15mm-2.3m is listed under the product code Tie3.15X2.2mm with a quantity of 50,000 units on January 13, 2026, achieving 2,840.
+
+Tie-3.15mm-2.3m is listed under the product code Tie3.15X2.2mm with a quantity of 50,000 units on January 14, 2026, achieving 3,033.
+
+Tie-3.15mm-2.3m is listed under the product code Tie3.15X2.2mm with a quantity of 50,000 units on January 15, 2026, achieving 3,043.
+
+Tie-3.15mm-2.3m is listed under the product code Tie3.15X2.2mm with a quantity of 50,000 units on January 16, 2026, achieving 2,985.
+
+Tie-3.15mm-2.3m is listed under the product code Tie3.15X2.2mm with a quantity of 50,000 units on January 17, 2026, achieving 2,877.
+
+No product was recorded for January 18, 2026.
+
+Tie-3.15mm-2.3m is listed under the product code Tie3.15X2.2mm with a quantity of 50,000 units on January 19, 2026, achieving 2,481.
+
+No product was recorded for January 20, 2026.
+
+No product was recorded for January 21, 2026.
+
+No product was recorded for January 22, 2026.
+
+No product was recorded for January 23, 2026.
+
+No product was recorded for January 24, 2026.
+
+On January 25, 2026, an event occurred where the same day condition was not met, indicating a change or anomaly. This event was recorded in week 5.
+
+On January 26, 2026, another instance of the same day condition not being met was documented, continuing the pattern observed in week 5.
+
+On January 27, 2026, the same day condition was still not met, maintaining the anomaly observed in the previous days of week 5.
+
+On January 28, 2026, the same day condition continued to not be met, extending the anomaly into the fourth day of week 5.
+
+On January 29, 2026, the same day condition remained unmet, persisting the anomaly into the fifth day of week 5.
+
+On January 30, 2026, the same day condition was still not met, continuing the anomaly into the sixth day of week 5.
+
+On January 31, 2026, the same day condition was not met, extending the anomaly into the seventh day of week 5.
+
+On February 1, 2026, the same day condition was not met, marking the transition into week 6.
+
+On February 2, 2026, the same day condition continued to not be met, concluding the anomaly for week 6.

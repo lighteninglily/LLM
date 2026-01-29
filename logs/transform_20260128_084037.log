@@ -1,0 +1,19 @@
+2026-01-28 08:40:37,457 [INFO] Read 2246 records from ASW - Live Ross - Inventory.csv
+2026-01-28 08:40:37,484 [INFO]   Normalized entity names for 2246 records
+2026-01-28 08:40:37,484 [INFO] Transforming ASW - Live Ross - Inventory.csv: 2246 records in 113 batches
+2026-01-28 09:06:48,040 [INFO]   Splitting into 5 files (max 500 records each)
+2026-01-28 09:06:48,040 [INFO]   Wrote 500 paragraphs to ASW - Live Ross - Inventory_001.txt
+2026-01-28 09:06:48,040 [INFO]   Wrote 500 paragraphs to ASW - Live Ross - Inventory_002.txt
+2026-01-28 09:06:48,040 [INFO]   Wrote 500 paragraphs to ASW - Live Ross - Inventory_003.txt
+2026-01-28 09:06:48,041 [INFO]   Wrote 500 paragraphs to ASW - Live Ross - Inventory_004.txt
+2026-01-28 09:06:48,041 [INFO]   Wrote 22 paragraphs to ASW - Live Ross - Inventory_005.txt
+2026-01-28 09:06:48,070 [INFO] Read 959 records from Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv
+2026-01-28 09:06:48,084 [INFO]   Normalized entity names for 959 records
+2026-01-28 09:06:48,085 [INFO] Transforming Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer.csv: 959 records in 48 batches
+2026-01-28 09:32:30,669 [INFO]   Splitting into 3 files (max 500 records each)
+2026-01-28 09:32:30,670 [INFO]   Wrote 500 paragraphs to Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer_001.txt
+2026-01-28 09:32:30,670 [INFO]   Wrote 500 paragraphs to Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer_002.txt
+2026-01-28 09:32:30,670 [INFO]   Wrote 195 paragraphs to Copy of ALL Hardrock - L12M + MTD Sales Qty by Market and Customer_003.txt
+2026-01-28 09:32:30,779 [INFO] Read 4988 records from Copy of AUS - L12M By Market Type.csv
+2026-01-28 09:32:30,835 [INFO]   Normalized entity names for 4988 records
+2026-01-28 09:32:30,836 [INFO] Transforming Copy of AUS - L12M By Market Type.csv: 4988 records in 250 batches

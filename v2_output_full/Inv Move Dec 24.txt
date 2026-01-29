@@ -1,0 +1,290 @@
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 32 units of Luna & Milo CopperBody Classic #0 for $32 each on December 24, 2024.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 96 units of Luna & Milo CopperBody Classic #1 for $32 each on December 24, 2024.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 198 units of Luna & Milo CopperBody Classic #2 for $33 each on December 24, 2024.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 231 units of Luna & Milo CopperBody Classic #3 for $33 each on December 24, 2024.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 198 units of Luna & Milo CopperBody Classic #4 for $33 each on December 24, 2024.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 72 units of Luna & Milo CopperBody Classic #5 for $36 each on December 24, 2024.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 144 units of Luna & Milo CopperBody Classic #6 for $36 each on December 24, 2024.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 144 units of Luna & Milo CopperBody Classic #7 for $36 each on December 24, 2024.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 240 units of Luna & Milo CopperBody Classic #8 for $40 each on December 24, 2024.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 160 units of Luna & Milo CopperBody Classic #9 for $40 each on December 24, 2024.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 240 units of Luna & Milo CopperBody Classic #10 for $40 each on December 24, 2024.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 164 units of Luna & Milo CopperBody Classic #11 for $41 each on December 24, 2024.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 123 units of Luna & Milo CopperBody Classic #12 for $41 each on December 24, 2024.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 123 units of Luna & Milo CopperBody Classic #13 for $41 each on December 24, 2024.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 240 units of Luna & Milo CopperBody Classic #14 for $45 each on December 24, 2024.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered 300016 - Luna & Milo CopperBody Classic #15 on December 24, 2024. Order contains 45 units of Luna & Milo CopperBody Classic #15.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered 300022 - Luna & Milo CopperBody Castration #1 on December 24, 2024. Order contains 32 units of Luna & Milo CopperBody Castration #1.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered 300023 - Luna & Milo CopperBody Castration #2 on December 24, 2024. Order contains 33 units of Luna & Milo CopperBody Castration #2.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered 300024 - Luna & Milo CopperBody Castration #3 on December 24, 2024. Order contains 33 units of Luna & Milo CopperBody Castration #3.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered 300025 - Luna & Milo CopperBody Castration #4 on December 24, 2024. Order contains 33 units of Luna & Milo CopperBody Castration #4.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered 300026 - Luna & Milo CopperBody Castration #5 on December 24, 2024. Order contains 36 units of Luna & Milo CopperBody Castration #5.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered 300027 - Luna & Milo CopperBody Castration #6 on December 24, 2024. Order contains 36 units of Luna & Milo CopperBody Castration #6.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered 300028 - Luna & Milo CopperBody Castration #7 on December 24, 2024. Order contains 36 units of Luna & Milo CopperBody Castration #7.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered 300030 - Luna & Milo CopperBody Castration #9 on December 24, 2024. Order contains 40 units of Luna & Milo CopperBody Castration #9.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered 300031 - Luna & Milo CopperBody Castration #10 on December 24, 2024. Order contains 40 units of Luna & Milo CopperBody Castration #10.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered 300032 - Luna & Milo CopperBody Castration #11 on December 24, 2024. Order contains 41 units of Luna & Milo CopperBody Castration #11.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered 300034 - Luna & Milo CopperBody Castration #13 on December 24, 2024. Order contains 41 units of Luna & Milo CopperBody Castration #13.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered 300035 - Luna & Milo CopperBody Castration #14 on December 24, 2024. Order contains 45 units of Luna & Milo CopperBody Castration #14.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered 300036 - Luna & Milo CopperBody Castration #15 on December 24, 2024. Order contains 45 units of Luna & Milo CopperBody Castration #15.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered 300042 - Luna & Milo CopperBody 4-Legs #1 on December 24, 2024. Order contains 40 units of Luna & Milo CopperBody 4-Legs #1.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered 300043 - Luna & Milo CopperBody 4-Legs #2 on December 24, 2024. Order contains 41 units of Luna & Milo CopperBody 4-Legs #2.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered 300044 - Luna & Milo CopperBody 4-Legs #3 on December 24, 2024. Order contains 41 units of Luna & Milo CopperBody 4-Legs #3.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered 300045 - Luna & Milo CopperBody 4-Legs #4 on December 24, 2024. Order contains 41 units of Luna & Milo CopperBody 4-Legs #4.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered 300046 - Luna & Milo CopperBody 4-Legs #5 on December 24, 2024. Order contains 44 units of Luna & Milo CopperBody 4-Legs #5.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered 300047 - Luna & Milo CopperBody 4-Legs #6 on December 24, 2024. Order contains 44 units of Luna & Milo CopperBody 4-Legs #6.
+
+[Source: Inv Move Dec 24.xls | Type: order_record]
+SOUTH32 placed order on December 24, 2024. Order contains 44 units of Luna & Milo CopperBody 4-Legs #7.
+
+[Source: Inv Move Dec 24.xls | Type: order_record]
+SOUTH32 placed order on December 24, 2024. Order contains 48 units of Luna & Milo CopperBody 4-Legs #8.
+
+[Source: Inv Move Dec 24.xls | Type: order_record]
+SOUTH32 placed order on December 24, 2024. Order contains 48 units of Luna & Milo CopperBody 4-Legs #9.
+
+[Source: Inv Move Dec 24.xls | Type: order_record]
+SOUTH32 placed order on December 24, 2024. Order contains 48 units of Luna & Milo CopperBody 4-Legs #10.
+
+[Source: Inv Move Dec 24.xls | Type: order_record]
+SOUTH32 placed order on December 24, 2024. Order contains 50 units of Luna & Milo CopperBody 4-Legs #11.
+
+[Source: Inv Move Dec 24.xls | Type: order_record]
+SOUTH32 placed order on December 24, 2024. Order contains 50 units of Luna & Milo CopperBody 4-Legs #12.
+
+[Source: Inv Move Dec 24.xls | Type: order_record]
+SOUTH32 placed order on December 24, 2024. Order contains 50 units of Luna & Milo CopperBody 4-Legs #13.
+
+[Source: Inv Move Dec 24.xls | Type: order_record]
+SOUTH32 placed order on December 24, 2024. Order contains 54 units of Luna & Milo CopperBody 4-Legs #14.
+
+[Source: Inv Move Dec 24.xls | Type: order_record]
+SOUTH32 placed order on December 24, 2024. Order contains 54 units of Luna & Milo CopperBody 4-Legs #15.
+
+[Source: Inv Move Dec 24.xls | Type: order_record]
+SOUTH32 placed order on December 24, 2024. Order contains 15 units of CBLO Cortical Screw 2.0mm x 8mm.
+
+[Source: Inv Move Dec 24.xls | Type: order_record]
+SOUTH32 placed order on December 24, 2024. Order contains 15 units of CBLO Cortical Screw 2.0mm x 10mm.
+
+[Source: Inv Move Dec 24.xls | Type: order_record]
+SOUTH32 placed order on December 24, 2024. Order contains 15 units of CBLO Cortical Screw 2.4mm x 14mm.
+
+[Source: Inv Move Dec 24.xls | Type: order_record]
+SOUTH32 placed order on December 24, 2024. Order contains 15 units of CBLO Cortical Screw 2.7mm x 16mm.
+
+[Source: Inv Move Dec 24.xls | Type: order_record]
+SOUTH32 placed order on December 24, 2024. Order contains 15 units of CBLO Cortical Screw 3.5mm x 16mm.
+
+[Source: Inv Move Dec 24.xls | Type: order_record]
+SOUTH32 placed order on December 24, 2024. Order contains 15 units of CBLO Cortical Screw 3.5mm x 18mm.
+
+[Source: Inv Move Dec 24.xls | Type: order_record]
+SOUTH32 placed order on December 24, 2024. Order contains 15 units of CBLO Cortical Screw 3.5mm x 20mm.
+
+[Source: Inv Move Dec 24.xls | Type: order_record]
+SOUTH32 placed order on December 24, 2024. Order contains 15 units of CBLO Cortical Screw 3.5mm x 22mm.
+
+[Source: Inv Move Dec 24.xls | Type: order_record]
+SOUTH32 placed order on December 24, 2024. Order contains 15 units of CBLO Cortical Screw 3.5mm x 24mm.
+
+[Source: Inv Move Dec 24.xls | Type: order_record]
+SOUTH32 placed order on December 24, 2024. Order contains 15 units of CBLO Cortical Screw 3.5mm x 26mm.
+
+[Source: Inv Move Dec 24.xls | Type: order_record]
+SOUTH32 placed order on December 24, 2024. Order contains 15 units of CBLO Cortical Screw 3.5mm x 28mm.
+
+[Source: Inv Move Dec 24.xls | Type: order_record]
+SOUTH32 placed order PO-2025-001 on December 24, 2024. Order contains 15 units of CBLO Cortical Screw 3.5mm x 30mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Dec 24.xls | Type: order_record]
+SOUTH32 placed order PO-2025-002 on December 24, 2024. Order contains 30 units of CBLO Cortical Screw 3.5mm x 36mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Dec 24.xls | Type: order_record]
+SOUTH32 placed order PO-2025-003 on December 24, 2024. Order contains 45 units of CBLO Cortical Screw 3.5mm x 38mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Dec 24.xls | Type: order_record]
+SOUTH32 placed order PO-2025-004 on December 24, 2024. Order contains 45 units of CBLO Cortical Screw 3.5mm x 40mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Dec 24.xls | Type: order_record]
+SOUTH32 placed order PO-2025-005 on December 24, 2024. Order contains 27 units of CBLO Locking Screw 2.0mm x 6mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Dec 24.xls | Type: order_record]
+SOUTH32 placed order PO-2025-006 on December 24, 2024. Order contains 27 units of CBLO Locking Screw 2.0mm x 10mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Dec 24.xls | Type: order_record]
+SOUTH32 placed order PO-2025-007 on December 24, 2024. Order contains 203 units of CBLO Locking Screw 3.5mm x 16mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Dec 24.xls | Type: order_record]
+SOUTH32 placed order PO-2025-008 on December 24, 2024. Order contains 261 units of CBLO Locking Screw 3.5mm x 18mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Dec 24.xls | Type: order_record]
+SOUTH32 placed order PO-2025-009 on December 24, 2024. Order contains 29 units of CBLO Locking Screw 3.5mm x 20mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Dec 24.xls | Type: order_record]
+SOUTH32 placed order PO-2025-010 on December 24, 2024. Order contains 580 units of CBLO Locking Screw 3.5mm x 22mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Dec 24.xls | Type: order_record]
+SOUTH32 placed order PO-2025-011 on December 24, 2024. Order contains 261 units of CBLO Locking Screw 3.5mm x 24mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Dec 24.xls | Type: order_record]
+SOUTH32 placed order PO-2025-012 on December 24, 2024. Order contains 145 units of CBLO Locking Screw 3.5mm x 28mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Dec 24.xls | Type: order_record]
+SOUTH32 placed order PO-2025-013 on December 24, 2024. Order contains 29 units of CBLO Locking Screw 3.5mm x 30mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Dec 24.xls | Type: order_record]
+SOUTH32 placed order PO-2025-014 on December 24, 2024. Order contains 203 units of CBLO Locking Screw 3.5mm x 32mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Dec 24.xls | Type: order_record]
+SOUTH32 placed order PO-2025-015 on December 24, 2024. Order contains 174 units of CBLO Locking Screw 3.5mm x 34mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Dec 24.xls | Type: order_record]
+SOUTH32 placed order PO-2025-016 on December 24, 2024. Order contains 145 units of CBLO Locking Screw 3.5mm x 36mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Dec 24.xls | Type: order_record]
+SOUTH32 placed order PO-2025-017 on December 24, 2024. Order contains 58 units of CBLO Locking Screw 3.5mm x 38mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Dec 24.xls | Type: order_record]
+SOUTH32 placed order PO-2025-018 on December 24, 2024. Order contains 203 units of CBLO Locking Screw 3.5mm x 42mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Dec 24.xls | Type: order_record]
+SOUTH32 placed order PO-2025-019 on December 24, 2024. Order contains 203 units of CBLO Locking Screw 3.5mm x 44mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered LSCBLO3546 - CBLO Locking Screw 3.5mm x 46mm on December 24, 2024. Order contains 29 units for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered LSCBLO3548 - CBLO Locking Screw 3.5mm x 48mm on December 24, 2024. Order contains 29 units for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered LSCBLO3552 - CBLO Locking Screw 3.5mm x 52mm on December 24, 2024. Order contains 29 units for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered LSCBLO3554 - CBLO Locking Screw 3.5mm x 54mm on December 24, 2024. Order contains 29 units for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered LSCBLO3556 - CBLO Locking Screw 3.5mm x 56mm on December 24, 2024. Order contains 29 units for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered PB62L200352 - Anatomical locking CBLO plate 2.0 | LEFT | L 35 | on December 24, 2024. Order contains 245 units for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered PB62L270452 - Anatomical locking CBLO plate 27 | LEFT | L 45 | on December 24, 2024. Order contains 245 units for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered PB62L351002 - Anatomical locking CBLO plate 35 | LEFT | L 100 | on December 24, 2024. Order contains 265 units for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered PB62L35100B2 - Anatomical locking CBLO plate 35 broad | LEFT | L on December 24, 2024. Order contains 275 units for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered PB62R200352 - Anatomical locking CBLO plate 2.0 | RIGHT | L 35 | on December 24, 2024. Order contains 245 units for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered PB62R350562 - Anatomical locking CBLO plate 35 | RIGHT | L 56 | on December 24, 2024. Order contains 245 units for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered PB62R350802 - Anatomical locking CBLO plate 35 | RIGHT | L 80 | on December 24, 2024. Order contains 255 units for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered PB62R351002 - Anatomical locking CBLO plate 35 | RIGHT | L 100 | on December 24, 2024. Order contains 265 units for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered PB62R35100B2 - Anatomical locking CBLO plate 35 broad | RIGHT | L on December 24, 2024. Order contains 275 units for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered SSPDO0 - Polydioxinone (Absorbable) Surgical Suture USP0 75... on December 24, 2024. Order contains 49.5 units for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered SSPDO30 - Polydioxinone (Absorbable) Surgical Suture USP3/0 ... on December 24, 2024. Order contains 48.5 units for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered STDSHIP - Star Track FPP on December 24, 2024. Order contains 17.5 units for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+Total sales value: $15,242 AUD on December 24, 2024.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered 15,242 units of R500L5.60Blk - Rebar 500L 5.6m Black from METROPOLITAN MINE, NSW on December 24, 2024.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered 0 units of Other sales from METROPOLITAN MINE, NSW on December 24, 2024.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered 0 units of Cash sales from METROPOLITAN MINE, NSW on December 24, 2024.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered 0 units of Credits from METROPOLITAN MINE, NSW on December 24, 2024.
+
+[Source: Inv Move Dec 24.xls | Type: sales_record]
+SOUTH32 ordered 15,242 units of Total Sales from METROPOLITAN MINE, NSW on December 24, 2024.

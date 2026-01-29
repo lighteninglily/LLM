@@ -1,0 +1,521 @@
+Seattle processes orders for the May Batch 2, with the ross_order SEA2276 and dmw_product IMG5H-44-4524. The first day, May 30, 2025, sees an order quantity of 3300.0, with no same-day shipping. The next day, May 1, 2025, has a partial shipment of 350.0, achieving 475.0, while the following day, May 2, 2025, shows no activity. On May 5, 2025, the shipment achieves 225.0, with a total of 550.0 after the day. By May 6, 2025, the achievement increases to 475.0, and on May 7, 2025, it reaches 425.0.
+
+Adelaide also handles orders for the May Batch 2, with the ross_order SEA2276 and dmw_product IMG5H-44-4024. On May 7, 2025, it processes 2400.0, with no same-day shipping. The next day, May 8, 2025, it achieves 500.0, while on May 9, 2025, it reaches 1000.0. On May 12, 2025, it processes 2400.0, with no same-day shipping, showing no activity. On May 13, 2025, it achieves 200.0, with a total of 300.0 after the day.
+
+For Brisbane, the ross_order 250672 and dmw_product IMG5H-44-4024 handle the May Batch 2. On May 13, 2025, it processes 3300.0, with no same-day shipping, achieving 135.0, with a total of 100.0 after the day. On May 14, 2025, it achieves 500.0, with a total of 300.0 after the day. On May 15, 2025, it achieves 525.0, with a total of 300.0 after the day. On May 16, 2025, it achieves 500.0, with a total of 215.0 after the day.
+
+Perth receives an order for the May Batch 2, with the ross_order 251127 and dmw_product IMG5H-44-3612. On May 16, 2025, it processes 500.0, with no same-day shipping, achieving 0.0, with a total of 250.0 after the day.
+
+For Perth, Ross Order 251127, DMW Product IMG5H-44-3612, Ross Code SMF36121010056G, quantity 500.0, same next day No, date May 17, 2025, week 20.0, achieved 0.0, achieved 1 500.0, kg/sheet 45.9, planned totals 0.0, actual totals 22.95, sheets per hour 67.35, spm 55, c-wires 49.
+
+For Perth, Ross Order 251127, DMW Product IMG5H-44-3612, Ross Code SMF36121010056G, quantity 500.0, same next day No, date May 18, 2025, week 21.0, achieved 0.0, achieved 1 0.0, kg/sheet 45.9, planned totals 0.0, actual totals 0.0, sheets per hour 67.35, spm 55, c-wires 49.
+
+For Brisbane, Ross Order 250672, DMW Product IMG5H-44-4824, Ross Code CCP48241010056G, quantity 1500.0, same next day No, date May 19, 2025, week 21.0, quantity day 300.0, achieved 225.0, quantity after 600.0, achieved 1 550.0, kg/sheet 45.9, planned totals 41.31, actual totals 35.57, sheets per hour 67.35, spm 55, c-wires 49.
+
+For Brisbane, Ross Order 250672, DMW Product IMG5H-44-4824, Ross Code CCP48241010056G, quantity 1500.0, same next day No, date May 20, 2025, week 21.0, quantity day 300.0, achieved 450.0, quantity after 275.0, achieved 1 275.0, kg/sheet 45.9, planned totals 26.39, actual totals 33.28, sheets per hour 67.35, spm 55, c-wires 49.
+
+For Brisbane, DMW Product IMG5H-44-4824, Ross Code CCP48241010056G, quantity 1500.0, same next day Yes, date May 20, 2025, week 21.0, quantity day 0.0, achieved 0.0, quantity after 250.0, achieved 1 350.0, kg/sheet 45.9, planned totals 11.48, actual totals 16.07, sheets per hour 67.35, spm 55, c-wires 49.
+
+For Brisbane, DMW Product IMG5H-44-4824, Ross Code CCP48241010056G, quantity 1500.0, same next day No, date May 21, 2025, week 21.0, quantity day 300.0, achieved 225.0, quantity after 600.0, achieved 1 600.0, kg/sheet 45.9, planned totals 41.31, actual totals 37.87, sheets per hour 67.35, spm 55, c-wires 49.
+
+For Brisbane, DMW Product IMG5H-44-4824, Ross Code CCP48241010056G, quantity 1500.0, same next day No, date May 22, 2025, week 21.0, quantity day 250.0, achieved 300.0, kg/sheet 45.9, planned totals 11.48, actual totals 13.77, sheets per hour 67.35, spm 55, c-wires 49.
+
+For Adelaide, Ross Order 251083, DMW Product IMG5H-44-4524, Ross Code CCP45241010056G, quantity 2200.0, same next day Yes, date May 22, 2025, week 21.0, quantity day 100.0, achieved 75.0, quantity after 475.0, achieved 1 475.0, kg/sheet 43.1, planned totals 24.78, actual totals 23.71, sheets per hour 71.74, spm 55, c-wires 46.
+
+For Adelaide, Ross Order 251083, DMW Product IMG5H-44-4524, Ross Code CCP45241010056G, quantity 2200.0, same next day No, date May 23, 2025, week 21.0, quantity day 300.0, achieved 400.0, quantity after 600.0, achieved 1 480.0, kg/sheet 43.1, planned totals 38.79, actual totals 37.93, sheets per hour 71.74, spm 55, c-wires 46.
+
+For Adelaide, same next day No, date May 24, 2025, week 21.0, kg/sheet 43.1, planned totals 0.0, actual totals 0.0, sheets per hour 71.74, spm 55, c-wires 46.
+
+For Adelaide, same next day No, date May 25, 2025, week 22.0, kg/sheet 43.1, planned totals 0.0, actual totals 0.0, sheets per hour 71.74, spm 55, c-wires 46.
+
+For Adelaide, DMW Product IMG5H-44-4524, Ross Code CCP45241010056G, quantity 2200.0, same next day No, date May 26, 2025, week 22.0, quantity day 475.0, achieved 425.0, quantity after 300.0, achieved 1 345.0, kg/sheet 43.1, planned totals 33.40, actual totals 33.19, sheets per hour 71.74, spm 55, c-wires 46.
+
+Seattle - June Batch 1, Ross Order SEA2277, DMW Product IMG5H-44-4524, Ross Code CCP45241010056G, quantity 3300.0, same next day Yes, date May 26, 2025, week 22.0, quantity day 0.0, achieved 0.0, quantity after 300.0, achieved 1 55.0, kg/sheet 43.1, planned totals 12.93, actual totals 2.37, sheets per hour 71.74, spm 55, c-wires 46.
+
+Seattle - June Batch 1, Ross Order SEA2277, DMW Product IMG5H-44-4524, Ross Code CCP45241010056G, quantity 3300.0, same next day No, date May 27, 2025, week 22.0, quantity day 475.0, achieved 475.0, quantity after 300.0, achieved 1 475.0, kg/sheet 43.1, planned totals 33.40, actual totals 40.95, sheets per hour 71.74, spm 55, c-wires 46.
+
+Seattle - June Batch 1, Ross Order SEA2277, DMW Product IMG5H-44-4524, Ross Code CCP45241010056G, quantity 3300.0, same next day No, date May 28, 2025, week 22.0, quantity day 475.0, achieved 475.0, quantity after 300.0, achieved 1 450.0, kg/sheet 43.1, planned totals 33.40, actual totals 39.87, sheets per hour 71.74, spm 55, c-wires 46.
+
+Seattle - June Batch 1, Ross Order SEA2277, DMW Product IMG5H-44-4524, Ross Code CCP45241010056G, quantity 3300.0, same next day No, date May 29, 2025, week 22.0, quantity day 475.0, achieved 425.0, quantity after 300.0, achieved 1 475.0, kg/sheet 43.1, planned totals 33.40, actual totals 38.79, sheets per hour 71.74, spm 55, c-wires 46.
+
+Seattle - June Batch 1, Ross Order SEA2277, DMW Product IMG5H-44-4524, Ross Code CCP45241010056G, quantity 3300.0, same next day No, date May 30, 2025, week 22.0, quantity day 475.0, achieved 475.0, quantity after 300.0, achieved 1 0.0, kg/sheet 43.1, planned totals 20.47, actual totals 20.47, sheets per hour 71.74, spm 55, c-wires 46.
+
+For Brisbane, Ross Order 251084, DMW Product IMG5H-44-4529, Ross Code CCP45241010056G, quantity 3300.0, same next day Yes, date May 30, 2025, week 22.0, quantity day 0.0, achieved 0.0, quantity after 475.0, achieved 1 425.0, kg/sheet 43.1, planned totals 20.47, actual totals 18.32, sheets per hour 71.74, spm 55, c-wires 46.
+
+For Brisbane, same next day No, date May 31, 2025, week 22.0, kg/sheet 43.1, planned totals 0.0, actual totals 0.0, sheets per hour 71.74, spm 55, c-wires 46.
+
+For Brisbane, same next day No, date June 1, 2025, week 23.0, kg/sheet 43.1, planned totals 0.0, actual totals 0.0, sheets per hour 71.74, spm 55, c-wires 46.
+
+For Brisbane, Ross Order 251084, DMW Product IMG5H-44-4524, Ross Code CCP45241010056G, quantity 3300.0, same next day No, date June 2, 2025, week 23.0, quantity per day 0.0, achieved 0.0, quantity after 0.0, kilograms per sheet 43.1, planned totals 0.0, actual totals 0.0, sheets per hour 71.73913043478261, spm 55, c-wires 46.
+
+For Brisbane, Ross Order 251084, DMW Product IMG5H-44-4524, Ross Code CCP45241010056G, quantity 3300.0, same next day No, date June 3, 2025, week 23.0, quantity per day 475.0, achieved 400.0, quantity after 300.0, achieved 1 450.0, kilograms per sheet 43.1, planned totals 33.4025, actual totals 36.635, sheets per hour 71.73913043478261, spm 55, c-wires 46.
+
+For Brisbane, Ross Order 251084, DMW Product IMG5H-44-4524, Ross Code CCP45241010056G, quantity 3300.0, same next day No, date June 4, 2025, week 23.0, quantity per day 475.0, achieved 500.0, quantity after 300.0, achieved 1 478.0, kilograms per sheet 43.1, planned totals 33.4025, actual totals 42.1518, sheets per hour 71.73913043478261, spm 55, c-wires 46.
+
+For Brisbane, Ross Order 251084, DMW Product IMG5H-44-4524, Ross Code CCP45241010056G, quantity 3300.0, same next day No, date June 5, 2025, week 23.0, quantity per day 475.0, achieved 475.0, quantity after 400.0, achieved 1 450.0, kilograms per sheet 43.1, planned totals 37.7125, actual totals 39.8675, sheets per hour 71.73913043478261, spm 55, c-wires 46.
+
+For Brisbane, Ross Order 251084, DMW Product IMG5H-44-4524, Ross Code CCP45241010056G, quantity 3300.0, same next day No, date June 6, 2025, week 23.0, quantity per day 0.0, achieved 0.0, quantity after 200.0, achieved 1 475.0, kilograms per sheet 43.1, planned totals 8.62, actual totals 20.4725, sheets per hour 71.73913043478261, spm 55, c-wires 46.
+
+Date June 7, 2025, week 23.0, kilograms per sheet 43.1, planned totals 0.0, actual totals 0.0, sheets per hour 71.73913043478261, spm 55, c-wires 46.
+
+Date June 8, 2025, week 24.0, kilograms per sheet 43.1, planned totals 0.0, actual totals 0.0, sheets per hour 71.73913043478261, spm 55, c-wires 46.
+
+For Seattle - June Batch 2, Ross Order SEA2278, DMW Product IMG5H-44-4524, Ross Code CCP45241010056G, quantity 3300.0, same next day No, date June 9, 2025, week 24.0, quantity per day 450.0, achieved 229.0, quantity after 0.0, kilograms per sheet 43.1, planned totals 19.395, actual totals 9.8699, sheets per hour 71.73913043478261, spm 55, c-wires 46.
+
+For Seattle - June Batch 2, Ross Order SEA2278, DMW Product IMG5H-44-4524, Ross Code CCP45241010056G, quantity 3300.0, same next day No, date June 10, 2025, week 24.0, quantity per day 450.0, achieved 475.0, quantity after 475.0, achieved 1 450.0, kilograms per sheet 45.9, planned totals 42.4575, actual totals 42.4575, sheets per hour 67.34693877551021, spm 55, c-wires 49.
+
+For Seattle - June Batch 2, Ross Order SEA2278, DMW Product IMG5H-44-4524, Ross Code CCP45241010056G, quantity 3300.0, same next day No, date June 11, 2025, week 24.0, quantity per day 450.0, achieved 350.0, quantity after 475.0, achieved 1 475.0, kilograms per sheet 43.1, planned totals 39.8675, actual totals 35.5575, sheets per hour 71.73913043478261, spm 55, c-wires 46.
+
+For Seattle - June Batch 2, Ross Order SEA2278, DMW Product IMG5H-44-4524, Ross Code CCP45241010056G, quantity 3300.0, same next day No, date June 12, 2025, week 24.0, quantity per day 450.0, achieved 125.0, quantity after 475.0, kilograms per sheet 43.1, planned totals 39.8675, actual totals 5.3875, sheets per hour 71.73913043478261, spm 55, c-wires 46.
+
+For Brisbane, Ross Order 251128, DMW Product IMG5H-44-4824, Ross Code CCP48241010056G, quantity 1000.0, same next day S, date June 12, 2025, week 24.0, quantity per day 400.0, achieved 250.0, quantity after 400.0, achieved 1 450.0, kilograms per sheet 45.9, planned totals 36.72, actual totals 32.13, sheets per hour 67.34693877551021, spm 55, c-wires 49.
+
+For Brisbane, Ross Order 251128, DMW Product IMG5H-44-4824, Ross Code CCP48241010056G, quantity 1000.0, same next day N, date June 13, 2025, week 24.0, achieved 250.0, kilograms per sheet 45.9, planned totals 0.0, actual totals 11.475, sheets per hour 67.34693877551021, spm 55, c-wires 49.
+
+For Seattle - June Batch 2, Ross Order SEA2278, DMW Product IMG5H-44-4524, Ross Code CCP45241010056G, quantity 550.0, same next day S, date June 13, 2025, week 24.0, achieved 125.0, achieved 1 425.0, kilograms per sheet 45.9, planned totals 0.0, actual totals 25.245, sheets per hour 67.34693877551021, spm 55, c-wires 49.
+
+For Seattle - June Batch 2, Ross Order SEA2278, DMW Product IMG5H-44-4524, Ross Code CCP45241010056G, quantity 550.0, same next day N, date June 14, 2025, week 24.0, quantity per day 200.0, achieved 0.0, kilograms per sheet 45.9, planned totals 9.18, actual totals 0.0, sheets per hour 67.34693877551021, spm 55, c-wires 49.
+
+For Seattle - June Batch 2, Ross Order SEA2278, DMW Product IMG5H-44-4524, Ross Code CCP45241010056G, quantity 550.0, same next day N, date June 15, 2025, week 25.0, kilograms per sheet 45.9, planned totals 0.0, actual totals 0.0, sheets per hour 67.34693877551021, spm 55, c-wires 49.
+
+For Brisbane, Ross Order 251330, DMW Product IMG5H-44-4824, Ross Code CCP48241010056G, quantity 2000.0, same next day N, date June 16, 2025, week 25.0, quantity per day 200.0, achieved 200.0, quantity after 450.0, achieved 1 494.0, kilograms per sheet 45.9, planned totals 29.835, actual totals 31.8546, sheets per hour 67.34693877551021, spm 55, c-wires 49.
+
+For Brisbane, Ross Order 251330, DMW Product IMG5H-44-4824, Ross Code CCP48241010056G, quantity 2000.0, same next day N, date June 17, 2025, week 25.0, quantity per day 450.0, achieved 450.0, quantity after 450.0, achieved 1 382.0, kilograms per sheet 45.9, planned totals 41.31, actual totals 38.18879999999999, sheets per hour 67.34693877551021, spm 55, c-wires 49.
+
+For Brisbane, Ross Order 251330, DMW Product IMG5H-44-4824, Ross Code CCP48241010056G, quantity 2000.0, same next day N, date June 18, 2025, week 25.0, quantity per day 450.0, achieved 450.0, quantity after 0.0, achieved 1 0.0, kilograms per sheet 45.9, planned totals 20.655, actual totals 20.655, sheets per hour 67.34693877551021, spm 55, c-wires 49.
+
+For Seattle - July Batch 1, Ross Order 250600, DMW Product IMG5H-44-4524, Ross Code CCP45241010056G, quantity 3300.0, same next day S, date June 18, 2025, week 25.0, quantity per day 0.0, achieved 0.0, quantity after 400.0, achieved 1 350.0, kilograms per sheet 43.1, planned totals 17.24, actual totals 15.085, sheets per hour 71.73913043478261, spm 55, c-wires 46.
+
+Seattle processes the July Batch 1 order with a total quantity of 3300. On June 19, 2025, they plan to produce 3300 sheets but achieve only 0 kg per sheet. The next day, June 20, they produce 475 kg, achieving 450 kg, with plans of 40.945 kg and actual production of 38.79 kg. On June 21, no production occurs. On June 22, no production is scheduled for the week 26. On June 23, they produce 425 kg, achieving 475 kg, with plans of 40.945 kg and actual production of 38.79 kg. On June 24, they produce 475 kg, achieving 475 kg, with plans of 32.325 kg and actual production of 32.325 kg.
+
+For Adelaide, the July Batch 1 order involves 2200 sheets. On June 24, 2025, they produce 200 kg, achieving 200 kg, with plans of 8.62 kg and actual production of 8.62 kg. On June 25, they produce 425 kg, achieving 475 kg, with plans of 40.945 kg and actual production of 38.79 kg. On June 26, they produce 450 kg, achieving 300 kg, with plans of 40.945 kg and actual production of 32.325 kg. On June 27, no production occurs. On June 28, no production is scheduled for the week 26. On June 29, no production is scheduled for the week 27. On June 30, they produce 275 kg, achieving 275 kg, with plans of 18.3175 kg and actual production of 14.654 kg.
+
+For Brisbane, the July Batch 1 order involves 1650 sheets. On June 30, 2025, they produce 575 kg, achieving 575 kg, with plans of 17.24 kg and actual production of 24.7825 kg. On July 1, they produce 550 kg, achieving 450 kg, with plans of 40.945 kg and actual production of 43.1 kg. On July 2, they produce 75 kg, achieving 75 kg, with plans of 3.2325 kg and actual production of 3.2325 kg. On July 2, they also process another order with 3300 sheets, producing 400 kg, achieving 400 kg, with plans of 37.7125 kg and actual production of 43.1 kg. On July 3, they produce 500 kg, achieving 450 kg, with plans of 40.945 kg and actual production of 40.945 kg. On July 4, they produce 425 kg, achieving 350 kg, with plans of 33.4025 kg and actual production of 33.4025 kg. On July 5, no production occurs.
+
+For Brisbane, the order is 251330 for the product IMG5H-44-4524, with the Ross code CCP45241010056G. On July 7, 2025, 475 units were produced, achieving 80% of the target, with 100 units remaining for the day. The total kilograms of sheets produced was 43.1, and the sheets per hour rate was 71.74.
+
+For Brisbane, the order is 251330 for the product IMG5H-44-4524, with the Ross code CCP45241010056G. On July 8, 2025, only 25 units were produced, achieving 20% of the target, with no units remaining for the day. The total kilograms of sheets produced was 43.1, and the sheets per hour rate was 71.74.
+
+Seattle - July Batch 2 involves order 250600 for the product IMG5H-44-4524, with the Ross code CCP45241010056G. On July 8, 2025, production was completed the same day, producing 450 units, achieving 500 units, with 475 units remaining for the next day. The total kilograms of sheets produced was 43.1, and the sheets per hour rate was 71.74.
+
+Seattle - July Batch 2 involves order 250600 for the product IMG5H-44-4524, with the Ross code CCP45241010056G. On July 9, 2025, 475 units were produced, achieving 425 units, with 475 units remaining for the next day. The total kilograms of sheets produced was 43.1, and the sheets per hour rate was 71.74.
+
+Seattle - July Batch 2 involves order 250600 for the product IMG5H-44-4524, with the Ross code CCP45241010056G. On July 10, 2025, 250 units were produced, achieving 200 units, with 475 units remaining for the next day. The total kilograms of sheets produced was 43.1, and the sheets per hour rate was 71.74.
+
+Seattle - July Batch 2 involves order 250600 for the product IMG5H-44-4524, with the Ross code CCP45241010056G. On July 11, 2025, no units were produced, achieving 0 units, with 0 units remaining for the next day. The total kilograms of sheets produced was 43.1, and the sheets per hour rate was 71.74.
+
+For July 12, 2025, no units were produced, achieving 0 units, with 0 units remaining for the next day. The total kilograms of sheets produced was 43.1, and the sheets per hour rate was 71.74.
+
+For July 13, 2025, no units were produced, achieving 0 units, with 0 units remaining for the next day. The total kilograms of sheets produced was 43.1, and the sheets per hour rate was 71.74.
+
+Seattle - July Batch 2 involves order 250600 for the product IMG5H-44-4524, with the Ross code CCP45241010056G. On July 14, 2025, 475 units were produced, achieving 475 units, with 400 units remaining for the next day. The total kilograms of sheets produced was 43.1, and the sheets per hour rate was 71.74.
+
+Seattle - August Batch 1 involves order 250600 for the product IMG5H-44-4524, with the Ross code CCP45241010056G. On July 14, 2025, 475 units were produced, achieving 300 units, with 0 units remaining for the next day. The total kilograms of sheets produced was 43.1, and the sheets per hour rate was 71.74.
+
+Seattle - August Batch 1 involves order 250600 for the product IMG5H-44-4524, with the Ross code CCP45241010056G. On July 15, 2025, no units were produced, achieving 0 units, with 475 units remaining for the next day. The total kilograms of sheets produced was 43.1, and the sheets per hour rate was 71.74.
+
+Seattle - August Batch 1 involves order 250600 for the product IMG5H-44-4524, with the Ross code CCP45241010056G. On July 16, 2025, 475 units were produced, achieving 500 units, with 475 units remaining for the next day. The total kilograms of sheets produced was 43.1, and the sheets per hour rate was 71.74.
+
+Seattle - August Batch 1 involves order 250600 for the product IMG5H-44-4524, with the Ross code CCP45241010056G. On July 17, 2025, 475 units were produced, achieving 325 units, with 475 units remaining for the next day. The total kilograms of sheets produced was 43.1, and the sheets per hour rate was 71.74.
+
+Seattle - August Batch 1 involves order 250600 for the product IMG5H-44-4524, with the Ross code CCP45241010056G. On July 18, 2025, 475 units were produced, achieving 350 units, with 325 units remaining for the next day. The total kilograms of sheets produced was 43.1, and the sheets per hour rate was 71.74.
+
+Seattle - August Batch 1 involves order 250600 for the product IMG5H-44-4524, with the Ross code CCP45241010056G. On July 19, 2025, 500 units were produced, achieving 550 units, with 500 units remaining for the next day. The total kilograms of sheets produced was 43.1, and the sheets per hour rate was 71.74.
+
+For Brisbane, the order is 251633 for the product IMG5H-44-4024, with the Ross code CCP40241010056G. On July 20, 2025, 200 units were produced, achieving 500 units, with 7.82 kilograms of sheets produced. The sheets per hour rate was 80.49.
+
+For Brisbane, the order is 251633 for the product IMG5H-44-4024, with the Ross code CCP40241010056G. On July 21, 2025, 500 units were produced, achieving 530 units, with 120 units remaining for the next day. The sheets per hour rate was 80.49.
+
+For Brisbane, the order is 252134 for the product IMG5H-44-4524, with the Ross code CCP45241010056G. On July 21, 2025, no units were produced, achieving 0 units, with 300 units remaining for the next day. The total kilograms of sheets produced was 43.1, and the sheets per hour rate was 71.74.
+
+For Brisbane, the order is 252134 for the product IMG5H-44-4524, with the Ross code CCP45241010056G. On July 22, 2025, 475 units were produced, achieving 400 units, with 475 units remaining for the next day. The total kilograms of sheets produced was 43.1, and the sheets per hour rate was 71.74.
+
+Brisbane experienced an order on July 23, 2025, for the dmw_product IMG5H-44-4524, with a ross_code CCP45241010056G. The quantity ordered was 2200.0 units, and the actual quantity achieved was 350.0 units. The sheets per hour were recorded as 71.74, and the kg/sheet was 43.1. The planned totals were 40.95, while the actual totals were 35.56.
+
+On July 24, 2025, Brisbane had another order for the same product, with a ross_code CCP45241010056G. The quantity was 2200.0 units, but only 130.0 units were achieved. The sheets per hour remained at 71.74, and the kg/sheet was still 43.1. The planned totals were 22.63, while the actual totals were 18.53.
+
+On July 25, 2025, Brisbane processed an order for the dmw_product IMG5H-44-4524, with a ross_code CCP45241010056G. The quantity was 2200.0 units, and only 95.0 units were achieved. The sheets per hour were 71.74, and the kg/sheet was 43.1. The planned totals were 4.09, while the actual totals were also 4.09.
+
+On July 25, 2025, Brisbane received an order for the dmw_product IMG5H-44-4824, with a ross_code CCP48241010056G. The quantity was 1000.0 units, and 250.0 units were achieved, with 400.0 units remaining. The sheets per hour were 67.35, and the kg/sheet was 45.9. The planned totals were 32.13, while the actual totals were 33.28.
+
+On July 26, 2025, Brisbane did not have any orders, and the sheets per hour were 67.35, with the kg/sheet being 45.9.
+
+On July 27, 2025, Brisbane also did not receive any orders, and the sheets per hour were 67.35, with the kg/sheet being 45.9.
+
+On July 28, 2025, Brisbane processed an order for the dmw_product IMG5H-44-4824, with a ross_code CCP48241010056G. The quantity was 1000.0 units, and 275.0 units were achieved, with 0.0 units remaining. The sheets per hour were 67.35, and the kg/sheet was 45.9. The planned totals were 13.08, while the actual totals were 12.62.
+
+On July 28, 2025, Brisbane received an order for the dmw_product IMG5H-44-4824, with a ross_code CCP48241010056G. The quantity was 500.0 units, and 200.0 units were achieved, with 400.0 units remaining. The sheets per hour were 67.35, and the kg/sheet was 45.9. The planned totals were 22.95, while the actual totals were 22.95.
+
+On July 28, 2025, Perth received an order for the dmw_product IMG5H-44-4524, with a ross_code CCP45241010056G. The quantity was 300.0 units, and 150.0 units were achieved, with 0.0 units remaining. The sheets per hour were 71.74, and the kg/sheet was 43.1. The planned totals were 6.47, while the actual totals were 6.47.
+
+On July 29, 2025, Perth processed an order for the same product, with a ross_code CCP45241010056G. The quantity was 300.0 units, and 150.0 units were achieved, with 0.0 units remaining. The sheets per hour were 71.74, and the kg/sheet was 43.1. The planned totals were 6.47, while the actual totals were 6.47.
+
+On July 29, 2025, Brisbane processed an order for the dmw_product IMG5H-44-4024, with a ross_code CCP40241010056G. The quantity was 600.0 units, and 300.0 units were achieved, with 300.0 units remaining. The sheets per hour were 80.49, and the kg/sheet was 39.1. The planned totals were 23.46, while the actual totals were 23.46.
+
+On July 29, 2025, Brisbane processed an order for the dmw_product IMG5H-44-4824, with a ross_code CCP48241010056G. The quantity was 1000.0 units, and 0.0 units were achieved, with 100.0 units remaining. The sheets per hour were 67.35, and the kg/sheet was 45.9. The planned totals were 4.59, while the actual totals were 4.59.
+
+On July 30, 2025, Brisbane processed an order for the dmw_product IMG5H-44-4824, with a ross_code CCP48241010056G. The quantity was 1000.0 units, and 300.0 units were achieved, with 450.0 units remaining. The sheets per hour were 67.35, and the kg/sheet was 45.9. The planned totals were 41.31, while the actual totals were 33.28.
+
+On July 31, 2025, Brisbane processed an order for the dmw_product IMG5H-44-4824, with a ross_code CCP48241010056G. The quantity was 1000.0 units, and 100.0 units were achieved, with 175.0 units remaining. The sheets per hour were 67.35, and the kg/sheet was 45.9. The planned totals were 8.03, while the actual totals were 4.59.
+
+On August 1, 2025, Brisbane did not process any orders, and the sheets per hour were 71.74, with the kg/sheet being 43.1.
+
+On August 2, 2025, Brisbane did not process any orders, and the sheets per hour were 71.74, with the kg/sheet being 43.1.
+
+On August 3, 2025, Brisbane did not process any orders, and the sheets per hour were 71.74, with the kg/sheet being 43.1.
+
+On August 4, 2025, Brisbane did not process any orders, and the sheets per hour were 71.74, with the kg/sheet being 43.1.
+
+On August 5, 2025, Brisbane did not process any orders, and the sheets per hour were 71.74, with the kg/sheet being 43.1.
+
+On August 6, 2025, Brisbane did not process any orders, and the sheets per hour were 71.74, with the kg/sheet being 43.1.
+
+Seattle experienced a consistent production schedule from August 7 to August 21, 2025, with no same-day production adjustments noted. The facility operated at a steady rate of 71.74 sheets per hour and maintained a constant speed of 55 spm. The kilograms of sheet material used were consistently recorded at 43.1 kg. No planned totals were reported for any day during this period, and actual totals remained at zero. The production involved 46 c-wires each day.
+
+On August 22, 2025, Seattle initiated a new batch with order number 250600, involving the DMW product IMG5H-44-4524 and the ROSS code CCP45241010056G. The quantity ordered was 3300.0 units. The facility continued to operate at the same parameters, but planned totals were set at 20.4725. Actual totals remained at zero.
+
+From August 23 to August 26, 2025, Seattle's production showed incremental progress. On August 23, 475 units were produced, achieving 400 units, with an additional 475 units remaining. Achievements were recorded at 450 units. Planned totals were 40.945, and actual totals reached 36.635. On August 24, 475 units were produced, achieving 240 units, with an additional 475 units remaining. Achievements were recorded at 400 units. Planned totals were 40.945, and actual totals reached 27.584. On August 25, all 475 units were achieved, with an additional 475 units remaining. Achievements were recorded at 325 units. Planned totals were 40.945, and actual totals reached 34.48. On August 26, 500 units were achieved, with an additional 450 units remaining. Achievements were recorded at 510 units. Planned totals were 39.8675, and actual totals reached 43.531.
+
+Brisbane experienced an order on August 27, 2025, with Ross Order ID 252134 for the DMW product IMG5H-44-4524, identified by the Ross Code CCP45241010056G. The quantity ordered was 2200 units, with an achievement of 200 units, and the actual total sheets per hour were 71.74. The week number was 35.
+
+On August 28, 2025, Brisbane had another order under Ross Order ID 252134 for the same product, achieving 500 units. The actual total sheets per hour remained consistent at 71.74, and the week number was still 35.
+
+For the order on August 29, 2025, Brisbane recorded a quantity of 2200 units but only achieved 200 units. The actual total sheets per hour were 71.74, and the week number was 35.
+
+On August 30, 2025, Brisbane processed an order of 2200 units, achieving 75 units. The actual total sheets per hour were 71.74, and the week number was 35.
+
+The same day, August 30, 2025, Brisbane handled an order of 1100 units, achieving 350 units the next day. The actual total sheets per hour were 71.74, and the week number was 35.
+
+On August 31, 2025, Brisbane had no orders for the day, with the week number being 35.
+
+For September 1, 2025, Brisbane recorded an order of 1100 units, achieving 475 units the next day. The actual total sheets per hour were 71.74, and the week number was 36.
+
+On September 2, 2025, Brisbane processed an order of 1100 units, achieving 475 units. The actual total sheets per hour were 71.74, and the week number was 36.
+
+For September 3, 2025, Brisbane recorded an order of 1100 units, achieving 275 units. The actual total sheets per hour were 71.74, and the week number was 36.
+
+Seattle, during the September batch 1, processed an order on September 4, 2025, with Ross Order ID 250600 for the DMW product IMG5H-44-4524, identified by the Ross Code CCP45241010056G. The quantity ordered was 3300 units, achieving 125 units. The actual total sheets per hour were 71.74, and the week number was 36.
+
+On September 5, 2025, Seattle had no orders for the day, with the week number being 36.
+
+For September 6, 2025, Seattle processed an order of 3300 units, achieving 500 units. The actual total sheets per hour were 71.74, and the week number was 36.
+
+On September 7, 2025, Seattle processed another order of 3300 units, achieving 500 units. The actual total sheets per hour were 71.74, and the week number was 37.
+
+For September 8, 2025, Seattle processed an order of 3300 units, achieving 235 units, with 475 units remaining. The actual total sheets per hour were 71.74, and the week number was 37.
+
+On September 9, 2025, Seattle processed an order of 3300 units, achieving 500 units, with 475 units remaining. The actual total sheets per hour were 71.74, and the week number was 37.
+
+For September 10, 2025, Seattle processed an order of 3300 units, achieving 325 units, with 120 units remaining. The actual total sheets per hour were 71.74, and the week number was 37.
+
+In Brisbane, on September 10, 2025, Ross Order ID 252545 for the DMW product IMG5H-44-4824, identified by the Ross Code CCP48241010056G, involved a quantity of 2000 units. The order was completed the next day, achieving 285 units, with 250 units remaining. The actual total sheets per hour were 67.35, and the week number was 37.
+
+On September 11, 2025, Brisbane processed an order of 2000 units, achieving 285 units, with 450 units remaining. The actual total sheets per hour were 67.35, and the week number was 37.
+
+Brisbane processed an order for 2000 units of the IMG5H-44-4824 product on September 12, 2025. The order was marked as non-urgent for next day delivery. The actual production quantity was 450 units, which met the target of 450 units. The process involved 45.9 kilograms per sheet, with a planned total of 20.655 hours and an actual total of 20.655 hours. The production rate was 67.347 sheets per hour, and the speed meter reading was 55. The number of control wires used was 49.
+
+Brisbane continued processing the same order for 2000 units of the IMG5H-44-4824 product on September 13, 2025. The actual production quantity was 375 units, achieving 290 units the previous day. The process involved 45.9 kilograms per sheet, with a planned total of 41.31 hours and an actual total of 30.5235 hours. The production rate was 67.347 sheets per hour, and the speed meter reading was 55. The number of control wires used was 49.
+
+Brisbane finished processing the order for 2000 units of the IMG5H-44-4824 product on September 14, 2025. The actual production quantity was 300 units, achieving 290 units the previous day. The process involved 45.9 kilograms per sheet, with a planned total of 3.4425 hours and an actual total of 13.77 hours. The production rate was 67.347 sheets per hour, and the speed meter reading was 55. The number of control wires used was 49.
+
+Adelaide handled an order for 1200 units of the IMG5H-44-4024 product on September 14, 2025. The order was marked as urgent for next day delivery. The actual production quantity was 200 units, achieving 75 units the previous day. The process involved 39.1 kilograms per sheet, with a planned total of 19.55 hours and an actual total of 2.9325 hours. The production rate was 80.488 sheets per hour, and the speed meter reading was 55. The number of control wires used was 41.
+
+Adelaide processed another order for 1200 units of the IMG5H-44-4024 product on September 15, 2025. The actual production quantity was 300 units, achieving 300 units the previous day. The process involved 39.1 kilograms per sheet, with a planned total of 19.55 hours and an actual total of 11.73 hours. The production rate was 80.488 sheets per hour, and the speed meter reading was 55. The number of control wires used was 41.
+
+Adelaide finished processing the order for 1200 units of the IMG5H-44-4024 product on September 16, 2025. The actual production quantity was 240 units, achieving 240 units the previous day. The process involved 39.1 kilograms per sheet, with a planned total of 19.55 hours and an actual total of 9.384 hours. The production rate was 80.488 sheets per hour, and the speed meter reading was 55. The number of control wires used was 41.
+
+Adelaide completed the order for 1200 units of the IMG5H-44-4024 product on September 17, 2025. The actual production quantity was 385 units, achieving 385 units the previous day. The process involved 39.1 kilograms per sheet, with a planned total of 7.82 hours and an actual total of 15.0535 hours. The production rate was 80.488 sheets per hour, and the speed meter reading was 55. The number of control wires used was 41.
+
+Adelaide managed an order for 3300 units of the IMG5H-44-4524 product on September 20, 2025. The order was marked as urgent for next day delivery. The actual production quantity was 40 units, achieving 40 units the previous day. The process involved 43.1 kilograms per sheet, with a planned total of 20.4725 hours and an actual total of 1.724 hours. The production rate was 71.739 sheets per hour, and the speed meter reading was 55. The number of control wires used was 46.
+
+Adelaide processed another order for 3300 units of the IMG5H-44-4524 product on September 21, 2025. The actual production quantity was 0 units, achieving 0 units the previous day. The process involved 43.1 kilograms per sheet, with a planned total of 0 hours and an actual total of 0 hours. The production rate was 71.739 sheets per hour, and the speed meter reading was 55. The number of control wires used was 46.
+
+Adelaide finished processing the order for 3300 units of the IMG5H-44-4524 product on September 22, 2025. The actual production quantity was 0 units, achieving 0 units the previous day. The process involved 43.1 kilograms per sheet, with a planned total of 0 hours and an actual total of 0 hours. The production rate was 71.739 sheets per hour, and the speed meter reading was 55. The number of control wires used was 46.
+
+Adelaide completed the order for 3300 units of the IMG5H-44-4524 product on September 23, 2025. The actual production quantity was 0 units, achieving 0 units the previous day. The process involved 43.1 kilograms per sheet, with a planned total of 0 hours and an actual total of 0 hours. The production rate was 71.739 sheets per hour, and the speed meter reading was 55. The number of control wires used was 46.
+
+Adelaide finished processing the order for 3300 units of the IMG5H-44-4524 product on September 24, 2025. The actual production quantity was 150 units, achieving 300 units the previous day. The process involved 43.1 kilograms per sheet, with a planned total of 40.945 hours and an actual total of 19.395 hours. The production rate was 71.739 sheets per hour, and the speed meter reading was 55. The number of control wires used was 46.
+
+Adelaide processed another order for 3300 units of the IMG5H-44-4524 product on September 25, 2025. The actual production quantity was 250 units, achieving 175 units the previous day. The process involved 43.1 kilograms per sheet, with a planned total of 40.945 hours and an actual total of 18.3175 hours. The production rate was 71.739 sheets per hour, and the speed meter reading was 55. The number of control wires used was 46.
+
+Adelaide finished processing the order for 3300 units of the IMG5H-44-4524 product on September 26, 2025. The actual production quantity was 400 units, achieving 425 units the previous day. The process involved 43.1 kilograms per sheet, with a planned total of 40.945 hours and an actual total of 35.5575 hours. The production rate was 71.739 sheets per hour, and the speed meter reading was 55. The number of control wires used was 46.
+
+Adelaide processed another order for 3300 units of the IMG5H-44-4524 product on September 27, 2025. The actual production quantity was 0 units, achieving 0 units the previous day. The process involved 43.1 kilograms per sheet, with a planned total of 0 hours and an actual total of 0 hours. The production rate was 71.739 sheets per hour, and the speed meter reading was 55. The number of control wires used was 46.
+
+Adelaide finished processing the order for 3300 units of the IMG5H-44-4524 product on September 28, 2025. The actual production quantity was 0 units, achieving 0 units the previous day. The process involved 43.1 kilograms per sheet, with a planned total of 0 hours and an actual total of 0 hours. The production rate was 71.739 sheets per hour, and the speed meter reading was 55. The number of control wires used was 46.
+
+Adelaide completed the order for 3300 units of the IMG5H-44-4524 product on September 29, 2025. The actual production quantity was 0 units, achieving 0 units the previous day. The process involved 43.1 kilograms per sheet, with a planned total of 0 hours and an actual total of 0 hours. The production rate was 71.739 sheets per hour, and the speed meter reading was 55. The number of control wires used was 46.
+
+On September 30, 2025, no production activities were recorded for the week 40. The facility produced 43.1 kilograms of sheets per hour with 71.74 sheets per hour and 55 spm. There were 46 control wires used.
+
+On October 1, 2025, similar to the previous day, no production activities were logged for the week 40. The facility maintained the same parameters as the previous day.
+
+On October 2, 2025, no production activities were recorded for the week 40. The facility continued with the same parameters as the previous days.
+
+On October 3, 2025, no production activities were recorded for the week 40. The facility maintained consistent parameters as before.
+
+On October 4, 2025, no production activities were recorded for the week 40. The facility continued with the same parameters as the previous days.
+
+On October 5, 2025, no production activities were recorded for the week 41. The facility produced 43.1 kilograms of sheets per hour with 71.74 sheets per hour and 55 spm. There were 46 control wires used.
+
+On October 6, 2025, no production activities were recorded for the week 41. The facility maintained the same parameters as the previous days.
+
+On October 7, 2025, no production activities were recorded for the week 41. The facility continued with the same parameters as the previous days.
+
+On October 8, 2025, no production activities were recorded for the week 41. The facility maintained consistent parameters as before.
+
+On October 9, 2025, no production activities were recorded for the week 41. The facility continued with the same parameters as the previous days.
+
+On October 10, 2025, no production activities were recorded for the week 41. The facility maintained consistent parameters as before.
+
+On October 11, 2025, no production activities were recorded for the week 41. The facility continued with the same parameters as the previous days.
+
+On October 12, 2025, no production activities were recorded for the week 42. The facility produced 30.93 kilograms of sheets per hour with 64.71 sheets per hour and 55 spm. There were 51 control wires used.
+
+On October 13, 2025, production activities were recorded for the week 42 in Adelaide. Ross order 252133 involved the dmw product IMG5H-44-4524 with ross code CCP45241010056G. A total of 3300 units were ordered, with 550 units produced on the day. 300 units were achieved, leaving 0 units after. The facility produced 43.1 kilograms of sheets per hour with 71.74 sheets per hour and 55 spm. There were 46 control wires used. Planned totals were 23.71, while actual totals were 12.93.
+
+On October 14, 2025, production activities were recorded for the week 42 in Adelaide. Ross order 252133 involved the dmw product IMG5H-44-4524 with ross code CCP45241010056G. A total of 3300 units were ordered, with 550 units produced on the day. 400 units were achieved, leaving 0 units after. The facility produced 43.1 kilograms of sheets per hour with 71.74 sheets per hour and 55 spm. There were 46 control wires used. Planned totals were 23.71, while actual totals were 17.24.
+
+On October 15, 2025, production activities were recorded for the week 42 in Adelaide. Ross order 252133 involved the dmw product IMG5H-44-4524 with ross code CCP45241010056G. A total of 3300 units were ordered, with 550 units produced on the day. 400 units were achieved, leaving 400 units after. The facility produced 43.1 kilograms of sheets per hour with 71.74 sheets per hour and 55 spm. There were 46 control wires used. Planned totals were 40.95, while actual totals were 34.48.
+
+On October 16, 2025, production activities were recorded for the week 42 in Adelaide. Ross order 252133 involved the dmw product IMG5H-44-4524 with ross code CCP45241010056G. A total of 3300 units were ordered, with 150 units produced on the day. 60 units were achieved, leaving 0 units after. The facility produced 43.1 kilograms of sheets per hour with 71.74 sheets per hour and 55 spm. There were 46 control wires used. Planned totals were 6.47, while actual totals were 2.59.
+
+On October 16, 2025, production activities were recorded for the week 42 in Brisbane. Ross order 253429 involved the dmw product IMG5H-44-4524 with ross code CCP45241010056G. A total of 4400 units were ordered, with 475 units produced on the day. 500 units were achieved, leaving 475 units after. The facility produced 43.1 kilograms of sheets per hour with 71.74 sheets per hour and 55 spm. There were 46 control wires used. Planned totals were 40.95, while actual totals were 38.79.
+
+On October 17, 2025, production activities were recorded for the week 42 in Brisbane. Ross order 253429 involved the dmw product IMG5H-44-4524 with ross code CCP45241010056G. A total of 4400 units were ordered, with 475 units produced on the day. 200 units were achieved, leaving 475 units after. The facility produced 43.1 kilograms of sheets per hour with 71.74 sheets per hour and 55 spm. There were 46 control wires used. Planned totals were 40.95, while actual totals were 17.67.
+
+On October 18, 2025, production activities were recorded for the week 42 in Brisbane. Ross order 253429 involved the dmw product IMG5H-44-4524 with ross code CCP45241010056G. A total of 4400 units were ordered, with 475 units produced on the day. 300 units were achieved, leaving 475 units after. The facility produced 43.1 kilograms of sheets per hour with 71.74 sheets per hour and 55 spm. There were 46 control wires used. Planned totals were 40.95, while actual totals were 19.40.
+
+On October 19, 2025, Brisbane recorded a day with no production, achieving 350 kg of sheets, planned for 20.4725 kg, and actually producing 15.085 kg. The sheets per hour rate was 71.74, and the c-wires count was 46.
+
+On October 20, 2025, Brisbane noted no production again, with planned and actual totals both at zero. The sheets per hour rate remained at 71.74, and the c-wires count was 46.
+
+On October 21, 2025, Brisbane reported 4400 kg of production, achieving 350 kg, with 475 kg remaining. Planned totals were 40.945 kg, and actual totals reached 38.79 kg. The sheets per hour rate was 71.74, and the c-wires count was 46.
+
+On October 22, 2025, Brisbane recorded 4400 kg of production, achieving 150 kg, with 475 kg remaining. Planned totals were 40.945 kg, and actual totals reached 21.55 kg. The sheets per hour rate was 71.74, and the c-wires count was 46.
+
+On October 23, 2025, Brisbane reported 4400 kg of production, achieving 250 kg, with 0 kg remaining. Planned totals were 20.4725 kg, and actual totals reached 31.25 kg. The sheets per hour rate was 71.74, and the c-wires count was 46.
+
+On October 24, 2025, Brisbane noted 4400 kg of production, achieving 0 kg, with 165 kg remaining. Planned totals were 7.1115 kg, and actual totals reached 5.8185 kg. The sheets per hour rate was 71.74, and the c-wires count was 46.
+
+On October 24, 2025, Adelaide recorded 3300 kg of production, achieving 0 kg, with 475 kg remaining. Planned totals were 20.4725 kg, and actual totals reached 7.1115 kg. The sheets per hour rate was 71.74, and the c-wires count was 46.
+
+On October 25, 2025, Adelaide reported 3300 kg of production, achieving 475 kg, with 475 kg remaining. Planned totals were 40.945 kg, and actual totals reached 42.0225 kg. The sheets per hour rate was 71.74, and the c-wires count was 46.
+
+On October 26, 2025, Brisbane recorded no production, with planned and actual totals both at zero. The sheets per hour rate was 71.74, and the c-wires count was 46.
+
+On October 27, 2025, Adelaide reported 3300 kg of production, achieving 550 kg, with 550 kg remaining. Planned totals were 47.41 kg, and actual totals reached 49.565 kg. The sheets per hour rate was 71.74, and the c-wires count was 46.
+
+On October 28, 2025, Adelaide recorded 3300 kg of production, achieving 500 kg, with 550 kg remaining. Planned totals were 47.41 kg, and actual totals reached 34.48 kg. The sheets per hour rate was 71.74, and the c-wires count was 46.
+
+On October 29, 2025, Adelaide reported 3300 kg of production, achieving 400 kg, with 150 kg remaining. Planned totals were 26.9375 kg, and actual totals reached 21.55 kg. The sheets per hour rate was 71.74, and the c-wires count was 46.
+
+On October 30, 2025, Adelaide recorded 1800 kg of production, achieving 250 kg, with 500 kg remaining. Planned totals were 39.1 kg, and actual totals reached 29.325 kg. The sheets per hour rate was 80.49, and the c-wires count was 41.
+
+On October 31, 2025, Adelaide noted 1800 kg of production, achieving 0 kg, with 0 kg remaining. Planned totals were 39.1 kg, and actual totals reached 9.775 kg. The sheets per hour rate was 80.49, and the c-wires count was 41.
+
+On November 1, 2025, Adelaide recorded no production, with planned and actual totals both at zero. The sheets per hour rate was 80.49, and the c-wires count was 41.
+
+On November 2, 2025, Adelaide reported no production, with planned and actual totals both at zero. The sheets per hour rate was 80.49, and the c-wires count was 41.
+
+On November 3, 2025, Adelaide recorded 1015 kg of production, achieving 300 kg, with 500 kg remaining. Planned totals were 0 kg, and actual totals reached 5.865 kg. The sheets per hour rate was 80.49, and the c-wires count was 41.
+
+On November 4, 2025, Adelaide reported 1015 kg of production, achieving 0 kg, with 100 kg remaining. Planned totals were 39.1 kg, and actual totals reached 28.3475 kg. The sheets per hour rate was 80.49, and the c-wires count was 41.
+
+On November 5, 2025, Adelaide recorded 1015 kg of production, achieving 140 kg, with 0 kg remaining. Planned totals were 3.91 kg, and actual totals reached 0 kg. The sheets per hour rate was 80.49, and the c-wires count was 41.
+
+On November 5, 2025, Adelaide reported 2400 kg of production, achieving 200 kg, with 500 kg remaining. Planned totals were 0 kg, and actual totals reached 19.55 kg. The sheets per hour rate was 80.49, and the c-wires count was 41.
+
+Adelaide processes orders for the IMG5H-44-4024 product, with the order number 251635 and the Ross code CCP40241010056G. On November 6, 2025, they ordered 2400 units, achieving 250 units, with a planned total of 39.1 kg per sheet. The actual total was 29.325 kg, and the sheets per hour rate was 80.488.
+
+Adelaide continues processing the same order on November 7, 2025, ordering another 2400 units. They achieve 325 units, with a planned total of 27.37 kg per sheet. The actual total is 28.3475 kg, and the sheets per hour rate remains at 80.488.
+
+Adelaide processes the order further on November 8, 2025, ordering 2400 units. They achieve 250 units, with a planned total of 19.55 kg per sheet. The actual total is 9.775 kg, and the sheets per hour rate is still 80.488.
+
+Brisbane handles order 253622 for the IMG5H-44-4824 product. On November 8, 2025, they order 2000 units, achieving 425 units, with a planned total of 18.36 kg per sheet. The actual total is 29.835 kg, and the sheets per hour rate is 67.347.
+
+On November 9, 2025, Brisbane reports no next-day orders, with a planned total of 0 kg per sheet. The actual total is 14.9175 kg, and the sheets per hour rate is 67.347.
+
+Brisbane continues processing order 253622 on November 10, 2025, ordering 2000 units. They achieve 425 units, with a planned total of 20.655 kg per sheet. The actual total is 11.475 kg, and the sheets per hour rate is 67.347.
+
+Brisbane processes further on November 11, 2025, ordering 2000 units. They achieve 350 units, with a planned total of 41.31 kg per sheet. The actual total is 18.36 kg, and the sheets per hour rate is 67.347.
+
+Brisbane continues on November 12, 2025, ordering 2000 units. They achieve 400 units, with a planned total of 19.5075 kg per sheet. The actual total is 20.655 kg, and the sheets per hour rate is 67.347.
+
+Seattle Nov Shipment processes order 250600 for the IMG5H-44-4524 product. On November 12, 2025, they order 3300 units, achieving 450 units, with a planned total of 20.4725 kg per sheet. The actual total is 6.465 kg, and the sheets per hour rate is 71.739.
+
+Seattle Nov Shipment continues on November 13, 2025, ordering 3300 units. They achieve 450 units, with a planned total of 40.945 kg per sheet. The actual total is 40.945 kg, and the sheets per hour rate is 71.739.
+
+Seattle Nov Shipment processes further on November 14, 2025, ordering 3300 units. They achieve 0 units, with a planned total of 40.945 kg per sheet. The actual total is 10.775 kg, and the sheets per hour rate is 71.739.
+
+Seattle Nov Shipment reports no activity on November 15, 2025, with a planned total of 0 kg per sheet. The actual total is 0 kg, and the sheets per hour rate is 71.739.
+
+Seattle Nov Shipment continues on November 16, 2025, ordering 3300 units. They achieve 0 units, with a planned total of 20.4725 kg per sheet. The actual total is 17.24 kg, and the sheets per hour rate is 71.739.
+
+Seattle Nov Shipment processes further on November 17, 2025, ordering 3300 units. They achieve 200 units, with a planned total of 40.945 kg per sheet. The actual total is 25.86 kg, and the sheets per hour rate is 71.739.
+
+Seattle Nov Shipment continues on November 18, 2025, ordering 3300 units. They achieve 325 units, with a planned total of 40.945 kg per sheet. The actual total is 34.48 kg, and the sheets per hour rate is 71.739.
+
+ST2118 processes order 252810 for the IMB4H-44-5024 product. On November 19, 2025, they order 1800 units, achieving 50 units, with a planned total of 1.2372 kg per sheet. The actual total is 1.5465 kg, and the sheets per hour rate is 64.706.
+
+ST2118 continues on November 20, 2025, ordering 1800 units. They achieve 200 units, with a planned total of 21.651 kg per sheet. The actual total is 18.558 kg, and the sheets per hour rate is 64.706.
+
+ST2118 processes further on November 21, 2025, ordering 1800 units. They achieve 424 units, with a planned total of 21.651 kg per sheet. The actual total is 25.486 kg, and the sheets per hour rate is 64.706.
+
+ST2118 continues on November 22, 2025, ordering 1800 units. They achieve 269 units, with a planned total of 10.083 kg per sheet. The actual total is 8.32 kg, and the sheets per hour rate is 64.706.
+
+ST2119 processes order 252811 for the IMB4H-44-5024 product. On November 22, 2025, they order 600 units, achieving 131 units, with a planned total of 12.372 kg per sheet. The actual total is 16.424 kg, and the sheets per hour rate is 64.706.
+
+On November 23, 2025, no sheets were processed the following day. The operation ran for 48 weeks, with 30.93 kilograms of sheets used per hour. No planned totals were set, and actual totals were also zero. The sheets per hour rate was 64.71, spm was 55, and 51 control wires were used.
+
+ST2119 refers to an order with Ross Order ID 252811, involving DMW product IMB4H-44-5024 and Ross Code SMB4H50241010. A quantity of 600 units was ordered. No sheets were processed the next day. The operation ran for 48 weeks, with 30.93 kilograms of sheets used per hour. No planned totals were set, but actual totals were 2.1342. The sheets per hour rate was 64.71, spm was 55, and 51 control wires were used.
+
+ST2180 is associated with Ross Order ID 253426, involving DMW product IMB4H-44-5024 and Ross Code SMB4H50241010. A quantity of 1200 units was ordered. The operation ran for 48 weeks, with 30.93 kilograms of sheets used per hour. No planned totals were set, but actual totals were 6.6809. The sheets per hour rate was 64.71, spm was 55, and 51 control wires were used. On November 24, 2025, 150 units were achieved, and 350 units remained after processing. On November 25, 2025, 378 units were achieved, and 350 units remained after processing. On November 26, 2025, 283 units were achieved, and 350 units remained after processing. On November 27, 2025, 281 units were achieved, and 300 units remained after processing.
+
+On November 28, 2025, Brisbane received an order with Ross Order ID 253621, involving DMW product IMG5H-44-4524 and Ross Code CCP45241010056G. A quantity of 3300 units was ordered. No sheets were processed the next day. The operation ran for 48 weeks, with 43.1 kilograms of sheets used per hour. No planned totals were set, but actual totals were 6.465. The sheets per hour rate was 71.74, spm was 55, and 46 control wires were used. On November 29, 2025, 475 units were achieved, and 475 units remained after processing. On November 30, 2025, 475 units were achieved, and 475 units remained after processing. On December 1, 2025, 506 units were achieved, and 475 units remained after processing. On December 2, 2025, 301 units were achieved, and 475 units remained after processing. On December 3, 2025, 250 units were achieved, and 0 units remained after processing.
+
+Adelaide received an order with Ross Order ID 253428, involving DMW product IMG5H-44-4024 and Ross Code CCP40241010056G. A quantity of 1200 units was ordered. On December 3, 2025, 200 units were achieved, and 450 units remained after processing. On December 4, 2025, 600 units were achieved, and 100 units remained after processing.
+
+Seattle Dec Shipment received an order with Ross Order ID 253436, involving DMW product IMG5H-44-4524 and Ross Code CCP45251010056G. A quantity of 3300 units was ordered. On December 4, 2025, 400 units were achieved, and 450 units remained after processing.
+
+On December 5, 2025, 200 units were achieved, and 450 units remained after processing. On December 6, 2025, no sheets were processed. On December 7, 2025, no sheets were processed. On December 8, 2025, no sheets were processed. On December 9, 2025, no sheets were processed.
+
+Seattle Dec Shipment is scheduled for December 15, 2025, with a total order quantity of 3300.0 sheets. The shipment will be processed over several days, starting with 200.0 sheets on December 15, followed by 475.0 sheets each on December 16, 17, and 18. By December 18, 600.0 sheets have been achieved, with an additional 400.0 sheets remaining. The processing rate is consistent at 71.73913043478261 sheets per hour, and the shift ends with 46 completed wires. The actual totals for December 18 are 39.8675, while the planned totals were 37.7125.
+
+Seattle Dec Shipment continues on December 16, 2025, with 475.0 sheets processed. On December 17, another 475.0 sheets are added, bringing the total to 950.0 sheets. By December 18, 1050.0 sheets have been achieved, with 350.0 sheets remaining. The actual totals for December 18 are 39.8675, while the planned totals were 37.7125.
+
+Adelaide receives a shipment on December 19, 2025, with a total order quantity of 5500.0 sheets. The shipment is processed over several days, starting with 475.0 sheets on December 19, followed by 350.0 sheets on December 20, and 300.0 sheets on December 21. By December 22, 1000.0 sheets have been achieved, with 475.0 sheets remaining. The actual totals for December 22 are 34.48, while the planned totals were 40.945. On December 23, another 350.0 sheets are added, bringing the total to 1400.0 sheets. By December 24, 1500.0 sheets have been achieved, with 475.0 sheets remaining. The actual totals for December 24 are 39.8675, while the planned totals were 40.945. On December 25, another 500.0 sheets are added, bringing the total to 2000.0 sheets. By December 26, 350.0 sheets have been achieved, with 475.0 sheets remaining. The actual totals for December 26 are 17.24, while the planned totals were 40.945.
+
+Seattle Dec Shipment resumes on December 19, 2025, with 300.0 sheets processed, achieving the same amount. The actual totals for December 19 are 12.93, while the planned totals were 12.93.
+
+Adelaide receives a shipment on December 19, 2025, with a total order quantity of 5500.0 sheets. The shipment is processed over several days, starting with 475.0 sheets on December 19, followed by 350.0 sheets on December 20, and 300.0 sheets on December 21. By December 22, 1000.0 sheets have been achieved, with 475.0 sheets remaining. The actual totals for December 22 are 34.48, while the planned totals were 40.945. On December 23, another 350.0 sheets are added, bringing the total to 1400.0 sheets. By December 24, 1500.0 sheets have been achieved, with 475.0 sheets remaining. The actual totals for December 24 are 39.8675, while the planned totals were 40.945. On December 25, another 500.0 sheets are added, bringing the total to 2000.0 sheets. By December 26, 350.0 sheets have been achieved, with 475.0 sheets remaining. The actual totals for December 26 are 17.24, while the planned totals were 40.945.
+
+Seattle Dec Shipment continues on December 20, 2025, with 475.0 sheets processed, achieving 350.0 sheets. The actual totals for December 20 are 15.085, while the planned totals were 20.4725.
+
+Adelaide receives a shipment on December 20, 2025, with a total order quantity of 5500.0 sheets. The shipment is processed over several days, starting with 475.0 sheets on December 20, followed by 350.0 sheets on December 21, and 300.0 sheets on December 22. By December 23, 1000.0 sheets have been achieved, with 475.0 sheets remaining. The actual totals for December 23 are 25.86, while the planned totals were 40.945. On December 24, another 425.0 sheets are added, bringing the total to 1425.0 sheets. By December 25, 500.0 sheets have been achieved, with 475.0 sheets remaining. The actual totals for December 25 are 21.55, while the planned totals were 20.4725. On December 26, another 350.0 sheets are added, bringing the total to 1775.0 sheets. By December 27, 350.0 sheets have been achieved, with 475.0 sheets remaining. The actual totals for December 27 are 17.24, while the planned totals were 40.945.
+
+Adelaide receives a shipment on December 27, 2025, with a total order quantity of 5500.0 sheets. The shipment is processed over several days, starting with 475.0 sheets on December 27, followed by 350.0 sheets on December 28. By December 28, 775.0 sheets have been achieved, with 475.0 sheets remaining. The actual totals for December 28 are 17.24, while the planned totals were 40.945.
+
+Adelaide receives a shipment on December 28, 2025, with a total order quantity of 5500.0 sheets. The shipment is processed over several days, starting with 475.0 sheets on December 28, followed by 350.0 sheets on December 29. By December 29, 1150.0 sheets have been achieved, with 475.0 sheets remaining. The actual totals for December 29 are 17.24, while the planned totals were 40.945.
+
+Adelaide processed an order for the dmw_product IMG5H-44-4524 with ross_code CCP45241010056G. On December 29, 2025, they produced 5500 sheets, achieving 425 sheets the first day and 475 sheets overall. The next day, December 30, 2025, they produced 475 sheets but only achieved 350 sheets. On December 31, 2025, they produced 325 sheets, achieving the same amount.
+
+ST2202 managed an order for the dmw_product IMB5-44-4524 with ross_code SMF4524101005. On January 1, 2026, they produced 600 sheets but only achieved 550 sheets the following day. On January 2, 2026, they produced 50 sheets, achieving the same amount.
+
+ST2205 oversaw an order for the dmw_product IMB5-44-4524 with ross_code SMF4524101005. On January 2, 2026, they produced 450 sheets, achieving 300 sheets and having 450 sheets left. On January 3, 2026, no production was recorded.
+
+ST2205 continued managing the same order on January 4, 2026, switching to a different dmw_product with sheets per hour increasing to 80.49. On January 5, 2026, they produced 425 sheets, achieving the same amount.
+
+ST2200 handled an order for the dmw_product IMB5-44-4024 with ross_code CC402410105. On January 5, 2026, they produced 600 sheets but achieved only 75 sheets, leaving 125 sheets for the next day. On January 6, 2026, they produced 150 sheets, achieving the same amount.
+
+ST2201 managed another order for the dmw_product IMB5-44-4024 with ross_code CC402410105. On January 6, 2026, they produced 600 sheets but achieved only 150 sheets, leaving 300 sheets for the next day. On January 7, 2026, they produced 150 sheets, achieving the same amount.
+
+ST2207 coordinated an order for the dmw_product IMB4H-44-5024 with ross_code SMB4H50241010. On January 7, 2026, they produced 3600 sheets but achieved only 50 sheets, leaving 75 sheets for the next day. On January 8, 2026, they produced 400 sheets, achieving 350 sheets. On January 9, 2026, they produced 400 sheets, achieving 275 sheets.
+
+ST2207 continued managing the same order on January 10, 2026, producing 400 sheets but achieving only 275 sheets. On January 11, 2026, no production was recorded.
+
+ST2207 resumed managing the order on January 12, 2026, producing 400 sheets, achieving 75 sheets. On January 13, 2026, they produced 400 sheets, achieving 225 sheets, leaving 400 sheets for the next day.
+
+On January 14, 2026, Ross Order 254966 - Olympic received DMW product IMB4H-44-5024 with Ross Code SMB4H50241010. The quantity was 3600.0, and no same-day delivery was requested. The actual production achieved 3600 sheets, with 400 sheets produced per day. The total planned production was 23.97075 sheets, while the actual production was 11.59875 sheets. The sheets were processed at a rate of 64.70588235294117 sheets per hour, with 55 spm and 51 c-wires.
+
+On January 15, 2026, Ross Order 254966 - Olympic continued with the same DMW product IMB4H-44-5024 and Ross Code SMB4H50241010. The quantity remained at 3600.0, and no same-day delivery was requested. The actual production achieved 325 sheets, with 400 sheets produced per day. The total planned production was 12.372 sheets, while the actual production was 10.05225 sheets. The sheets were processed at a rate of 64.70588235294117 sheets per hour, with 55 spm and 51 c-wires.
+
+On January 16, 2026, Ross Order 254966 - Olympic continued with the same DMW product IMB4H-44-5024 and Ross Code SMB4H50241010. The quantity remained at 3600.0, and no same-day delivery was requested. The actual production achieved 375 sheets, with 400 sheets produced per day. The total planned production was 24.744 sheets, while the actual production was 23.1975 sheets. The sheets were processed at a rate of 64.70588235294117 sheets per hour, with 55 spm and 51 c-wires.
+
+On January 17, 2026, Ross Order 254966 - Olympic continued with the same DMW product IMB4H-44-5024 and Ross Code SMB4H50241010. The quantity remained at 3600.0, and no same-day delivery was requested. The actual production achieved 375 sheets, with 400 sheets produced per day. The total planned production was 12.372 sheets, while the actual production was 11.59875 sheets. The sheets were processed at a rate of 64.70588235294117 sheets per hour, with 55 spm and 51 c-wires.
+
+On January 18, 2026, Ross Order 254966 - Olympic continued with the same DMW product IMB4H-44-5024 and Ross Code SMB4H50241010. The quantity remained at 3600.0, and no same-day delivery was requested. The actual production achieved 375 sheets, with 400 sheets produced per day. The total planned production was 24.744 sheets, while the actual production was 23.1975 sheets. The sheets were processed at a rate of 64.70588235294117 sheets per hour, with 55 spm and 51 c-wires.
+
+On January 19, 2026, Ross Order 254966 - Olympic continued with the same DMW product IMB4H-44-5024 and Ross Code SMB4H50241010. The quantity remained at 3600.0, and no same-day delivery was requested. The actual production achieved 375 sheets, with 400 sheets produced per day. The total planned production was 24.744 sheets, while the actual production was 23.1975 sheets. The sheets were processed at a rate of 64.70588235294117 sheets per hour, with 55 spm and 51 c-wires.
+
+On January 20, 2026, Ross Order 255006 - DSI received DMW product IMG5H-44-4517 with Ross Code SMF45171010056G. The quantity was 2400.0, and no same-day delivery was requested. The actual production achieved 150 sheets, with 450 sheets produced per day. The total planned production was 27.72 sheets, while the actual production was 13.86 sheets. The sheets were processed at a rate of 71.73913043478261 sheets per hour, with 55 spm and 46 c-wires.
+
+On January 21, 2026, Ross Order 255006 - DSI continued with the same DMW product IMG5H-44-4517 and Ross Code SMF45171010056G. The quantity remained at 2400.0, and no same-day delivery was requested. The actual production achieved 275 sheets, with 450 sheets produced per day. The total planned production was 27.72 sheets, while the actual production was 20.79 sheets. The sheets were processed at a rate of 71.73913043478261 sheets per hour, with 55 spm and 46 c-wires.
+
+On January 22, 2026, Ross Order 255006 - DSI continued with the same DMW product IMG5H-44-4517 and Ross Code SMF45171010056G. The quantity remained at 2400.0, and no same-day delivery was requested. The actual production achieved 475 sheets, with 450 sheets produced per day. The total planned production was 27.72 sheets, while the actual production was 23.87 sheets. The sheets were processed at a rate of 71.73913043478261 sheets per hour, with 55 spm and 46 c-wires.
+
+On January 23, 2026, Ross Order 255006 - DSI continued with the same DMW product IMG5H-44-4517 and Ross Code SMF45171010056G. The quantity remained at 2400.0, and no same-day delivery was requested. The actual production achieved 250 sheets, with 450 sheets produced per day. The total planned production was 15.4 sheets, while the actual production was 13.09 sheets. The sheets were processed at a rate of 71.73913043478261 sheets per hour, with 55 spm and 46 c-wires.
+
+On January 24, 2026, Ross Order 255006 - DSI continued with the same DMW product IMG5H-44-4517 and Ross Code SMF45171010056G. The quantity remained at 2400.0, and no same-day delivery was requested. The actual production achieved 75 sheets, with 75 sheets produced per day. The total planned production was 2.31 sheets, while the actual production was 2.31 sheets. The sheets were processed at a rate of 71.73913043478261 sheets per hour, with 55 spm and 46 c-wires.
+
+On January 24, 2026, Adelaide Ross Order 254957 - Broken Hill received DMW product IMG5H-44-4524 with Ross Code CCP45241010056G. The quantity was 3300.0, and same-day delivery was requested. No production was achieved on that day, with 0 sheets produced per day. The total planned production was 0 sheets, while the actual production was 0 sheets. The sheets were processed at a rate of 71.73913043478261 sheets per hour, with 55 spm and 46 c-wires.
+
+On January 25, 2026, no Ross Order was recorded, and no production was achieved. The total planned production was 0 sheets, while the actual production was 0 sheets. The sheets were processed at a rate of 71.73913043478261 sheets per hour, with 55 spm and 46 c-wires.
+
+On January 26, 2026, Adelaide Ross Order 254957 - Broken Hill continued with the same DMW product IMG5H-44-4524 and Ross Code CCP45241010056G. The quantity was 3300.0, and no same-day delivery was requested. The actual production achieved 275 sheets, with 450 sheets produced per day. The total planned production was 23.705 sheets, while the actual production was 0 sheets. The sheets were processed at a rate of 71.73913043478261 sheets per hour, with 55 spm and 46 c-wires.
+
+On January 27, 2026, Adelaide Ross Order 254957 - Broken Hill continued with the same DMW product IMG5H-44-4524 and Ross Code CCP45241010056G. The quantity was 3300.0, and no same-day delivery was requested. The actual production achieved 475 sheets, with 450 sheets produced per day. The total planned production was 38.79 sheets, while the actual production was 0 sheets. The sheets were processed at a rate of 71.73913043478261 sheets per hour, with 55 spm and 46 c-wires.
+
+On January 28, 2026, Adelaide Ross Order 254957 - Broken Hill continued with the same DMW product IMG5H-44-4524 and Ross Code CCP45241010056G. The quantity was 3300.0, and no same-day delivery was requested. The actual production achieved 475 sheets, with 450 sheets produced per day. The total planned production was 38.79 sheets, while the actual production was 0 sheets. The sheets were processed at a rate of 71.73913043478261 sheets per hour, with 55 spm and 46 c-wires.
+
+On January 29, 2026, Adelaide Ross Order 254957 - Broken Hill continued with the same DMW product IMG5H-44-4524 and Ross Code CCP45241010056G. The quantity was 3300.0, and no same-day delivery was requested. The actual production achieved 475 sheets, with 450 sheets produced per day. The total planned production was 38.79 sheets, while the actual production was 0 sheets. The sheets were processed at a rate of 71.73913043478261 sheets per hour, with 55 spm and 46 c-wires.
+
+On January 30, 2026, Adelaide Ross Order 254957 - Broken Hill continued with the same DMW product IMG5H-44-4524 and Ross Code CCP45241010056G. The quantity was 3300.0, and no same-day delivery was requested. The actual production achieved 50 sheets, with 50 sheets produced per day. The total planned production was 2.155 sheets, while the actual production was 0 sheets. The sheets were processed at a rate of 71.73913043478261 sheets per hour, with 55 spm and 46 c-wires.
+
+On January 31, 2026, Ross Order 254958 - Cannington received DMW product IMG5H-44-4524 with Ross Code CCP45241010056G. The quantity was 3300.0, and no same-day delivery was requested. The actual production achieved 450 sheets, with 450 sheets produced per day. The total planned production was 38.79 sheets, while the actual production was 0 sheets. The sheets were processed at a rate of 71.73913043478261 sheets per hour, with 55 spm and 46 c-wires.
+
+On February 1, 2026, no Ross Order was recorded, and no production was achieved. The total planned production was 0 sheets, while the actual production was 0 sheets. The sheets were processed at a rate of 71.73913043478261 sheets per hour, with 55 spm and 46 c-wires.
+
+ST2237 - Brisbane, Ross Order: 254958 - Cannington, DMW Product: IMG5H-44-4524, Ross Code: CCP45241010056G, Quantity: 3300.0, Same Next Day: No, Date: February 2, 2026, Week: 6, Quantity per Day: 450.0, Quantity After: 450.0, Kilograms per Sheet: 43.1, Planned Totals: 38.79, Actual Totals: 0.0, Sheets per Hour: 71.74, SPM: 55, C Wires: 46.
+
+ST2237 - Brisbane, Ross Order: 254958 - Cannington, DMW Product: IMG5H-44-4524, Ross Code: CCP45241010056G, Quantity: 3300.0, Same Next Day: No, Date: February 3, 2026, Week: 6, Quantity per Day: 450.0, Quantity After: 450.0, Kilograms per Sheet: 43.1, Planned Totals: 38.79, Actual Totals: 0.0, Sheets per Hour: 71.74, SPM: 55, C Wires: 46.
+
+ST2237 - Brisbane, Ross Order: 254958 - Cannington, DMW Product: IMG5H-44-4524, Ross Code: CCP45241010056G, Quantity: 3300.0, Same Next Day: No, Date: February 4, 2026, Week: 6, Quantity per Day: 450.0, Quantity After: 150.0, Kilograms per Sheet: 43.1, Planned Totals: 25.86, Actual Totals: 0.0, Sheets per Hour: 71.74, SPM: 55, C Wires: 46.
+
+Adelaide, Ross Order: 254965 - Broken Hill, DMW Product: IMG5H-44-4524, Ross Code: CCP45241010056G, Quantity: 2200.0, Same Next Day: No, Date: February 5, 2026, Week: 6, Quantity per Day: 450.0, Quantity After: 450.0, Kilograms per Sheet: 43.1, Planned Totals: 38.79, Actual Totals: 0.0, Sheets per Hour: 71.74, SPM: 55, C Wires: 46.
+
+Adelaide, Ross Order: 254965 - Broken Hill, DMW Product: IMG5H-44-4524, Ross Code: CCP45241010056G, Quantity: 2200.0, Same Next Day: No, Date: February 6, 2026, Week: 6, Quantity per Day: 450.0, Quantity After: 450.0, Kilograms per Sheet: 43.1, Planned Totals: 38.79, Actual Totals: 0.0, Sheets per Hour: 71.74, SPM: 55, C Wires: 46.
+
+Date: February 7, 2026, Week: 6, Kilograms per Sheet: 43.1, Planned Totals: 0.0, Actual Totals: 0.0, Sheets per Hour: 71.74, SPM: 55, C Wires: 46.
+
+Date: February 8, 2026, Week: 7, Kilograms per Sheet: 43.1, Planned Totals: 0.0, Actual Totals: 0.0, Sheets per Hour: 71.74, SPM: 55, C Wires: 46.
+
+Adelaide, Ross Order: 254965 - Broken Hill, DMW Product: IMG5H-44-4524, Ross Code: CCP45241010056G, Quantity: 2200.0, Same Next Day: No, Date: February 9, 2026, Week: 7, Quantity per Day: 400.0, Quantity After: 0.0, Kilograms per Sheet: 43.1, Planned Totals: 17.24, Actual Totals: 0.0, Sheets per Hour: 71.74, SPM: 55, C Wires: 46.
+
+Adelaide, Ross Order: 254967 - Olympic, DMW Product: IMB4H-44-5024, Ross Code: SMB4H50241010, Quantity: 1800.0, Same Next Day: No, Date: February 10, 2026, Week: 7, Quantity per Day: 50.0, Quantity After: 400.0, Kilograms per Sheet: 30.93, Planned Totals: 13.92, Actual Totals: 0.0, Sheets per Hour: 64.71, SPM: 55, C Wires: 51.
+
+Adelaide, Ross Order: 254967 - Olympic, DMW Product: IMB4H-44-5024, Ross Code: SMB4H50241010, Quantity: 1800.0, Same Next Day: No, Date: February 11, 2026, Week: 7, Quantity per Day: 400.0, Quantity After: 400.0, Kilograms per Sheet: 30.93, Planned Totals: 24.74, Actual Totals: 0.0, Sheets per Hour: 64.71, SPM: 55, C Wires: 51.
+
+Adelaide, Ross Order: 254967 - Olympic, DMW Product: IMB4H-44-5024, Ross Code: SMB4H50241010, Quantity: 1800.0, Same Next Day: No, Date: February 12, 2026, Week: 7, Quantity per Day: 400.0, Quantity After: 150.0, Kilograms per Sheet: 30.93, Planned Totals: 17.01, Actual Totals: 0.0, Sheets per Hour: 64.71, SPM: 55, C Wires: 51.
+
+Adelaide, Ross Order: 254968 - Olympic, DMW Product: IMB4H-44-5024, Ross Code: SMB4H50241010, Quantity: 1800.0, Same Next Day: No, Date: February 13, 2026, Week: 7, Quantity per Day: 400.0, Quantity After: 400.0, Kilograms per Sheet: 30.93, Planned Totals: 24.74, Actual Totals: 0.0, Sheets per Hour: 64.71, SPM: 55, C Wires: 51.
+
+Date: February 14, 2026, Week: 7, Kilograms per Sheet: 30.93, Planned Totals: 0.0, Actual Totals: 0.0, Sheets per Hour: 64.71, SPM: 55, C Wires: 51.
+
+Date: February 15, 2026, Week: 8, Kilograms per Sheet: 30.93, Planned Totals: 0.0, Actual Totals: 0.0, Sheets per Hour: 64.71, SPM: 55, C Wires: 51.
+
+Adelaide, Ross Order: 254968 - Olympic, DMW Product: IMB4H-44-5024, Ross Code: SMB4H50241010, Quantity: 1800.0, Same Next Day: No, Date: February 16, 2026, Week: 8, Quantity per Day: 400.0, Quantity After: 200.0, Kilograms per Sheet: 30.93, Planned Totals: 18.56, Actual Totals: 0.0, Sheets per Hour: 64.71, SPM: 55, C Wires: 51.
+
+Brisbane, Ross Order: 254959 - Tommingley, DMW Product: IMG5H-44-4824, Ross Code: CCP48241010056G, Quantity: 2000.0, Same Next Day: No, Date: February 17, 2026, Week: 8, Quantity per Day: 450.0, Quantity After: 450.0, Kilograms per Sheet: 45.9, Planned Totals: 41.31, Actual Totals: 0.0, Sheets per Hour: 67.35, SPM: 55, C Wires: 49.
+
+Brisbane, Ross Order: 254959 - Tommingley, DMW Product: IMG5H-44-4824, Ross Code: CCP48241010056G, Quantity: 2000.0, Same Next Day: No, Date: February 18, 2026, Week: 8, Quantity per Day: 450.0, Quantity After: 450.0, Kilograms per Sheet: 45.9, Planned Totals: 41.31, Actual Totals: 0.0, Sheets per Hour: 67.35, SPM: 55, C Wires: 49.
+
+Brisbane, Ross Order: 254959 - Tommingley, DMW Product: IMG5H-44-4824, Ross Code: CCP48241010056G, Quantity: 2000.0, Same Next Day: No, Date: February 19, 2026, Week: 8, Quantity per Day: 200.0, Quantity After: 0.0, Kilograms per Sheet: 45.9, Planned Totals: 9.18, Actual Totals: 0.0, Sheets per Hour: 67.35, SPM: 55, C Wires: 49.
+
+Adelaide, Ross Order: 253623, DMW Product: IMG5H-44-4024, Ross Code: CCP40241010056G, Quantity: 3000.0, Same Next Day: No, Date: February 20, 2026, Week: 8, Quantity per Day: 500.0, Quantity After: 500.0, Kilograms per Sheet: 39.1, Planned Totals: 39.1, Actual Totals: 0.0, Sheets per Hour: 80.49, SPM: 55, C Wires: 41.
+
+Date: February 21, 2026, Week: 8, Kilograms per Sheet: 39.1, Planned Totals: 0.0, Actual Totals: 0.0, Sheets per Hour: 80.49, SPM: 55, C Wires: 41.
+
+Adelaide experienced a day with a ross_order of 253623, involving the dmw_product IMG5H-44-4024, with a ross_code of CCP40241010056G. The quantity for the day was 3000.0, with 500.0 sheets produced before and after the day. The weight per sheet was 39.1 kg, and the planned totals matched the actual totals of 39.1 kg. The sheets were processed at a rate of 80.48780487804878 sheets per hour, with an SPM of 55 and 41 control wires.
+
+Adelaide continued with another day of production, maintaining the same ross_order of 253623 and dmw_product IMG5H-44-4024, with the ross_code CCP40241010056G. The quantity for the day was 3000.0, with 500.0 sheets produced before and after the day. The weight per sheet was 39.1 kg, and the planned totals matched the actual totals of 39.1 kg. The sheets were processed at a rate of 80.48780487804878 sheets per hour, with an SPM of 55 and 41 control wires.
+
+Adelaide's production continued on February 24, 2026, with the same ross_order of 253623 and dmw_product IMG5H-44-4024, with the ross_code CCP40241010056G. The quantity for the day was 3000.0, with 500.0 sheets produced before and after the day. The weight per sheet was 39.1 kg, and the planned totals matched the actual totals of 39.1 kg. The sheets were processed at a rate of 80.48780487804878 sheets per hour, with an SPM of 55 and 41 control wires.
+
+Adelaide faced a different ross_order of 254960 - endeavour, involving the dmw_product IMG5H-44-4024, with the ross_code CCP40241010056G. The quantity for the day was 1800.0, with 450.0 sheets produced before and after the day. The weight per sheet was 39.1 kg, and the planned totals were 35.19 kg. The sheets were processed at a rate of 80.48780487804878 sheets per hour, with an SPM of 55 and 41 control wires.
+
+Adelaide's production continued on February 26, 2026, with the same ross_order of 254960 - endeavour, involving the dmw_product IMG5H-44-4024, with the ross_code CCP40241010056G. The quantity for the day was 1800.0, with 450.0 sheets produced before and after the day. The weight per sheet was 39.1 kg, and the planned totals were 35.19 kg. The sheets were processed at a rate of 80.48780487804878 sheets per hour, with an SPM of 55 and 41 control wires.
+
+Adelaide's production continued on February 27, 2026, with the same ross_order of 254953, involving the dmw_product IMG5H-44-4024, with the ross_code CCP40241010056G. The quantity for the day was 3000.0, with 450.0 sheets produced before and after the day. The weight per sheet was 39.1 kg, and the planned totals were 35.19 kg. The sheets were processed at a rate of 80.48780487804878 sheets per hour, with an SPM of 55 and 41 control wires.
+
+Adelaide's production did not occur on February 28, 2026, with no planned totals or actual totals recorded. The sheets were processed at a rate of 80.48780487804878 sheets per hour, with an SPM of 55 and 41 control wires.
+
+Adelaide's production resumed on March 1, 2026, with no planned totals or actual totals recorded. The sheets were processed at a rate of 80.48780487804878 sheets per hour, with an SPM of 55 and 41 control wires.
+
+Adelaide's production continued on March 2, 2026, with the same ross_order of 254953, involving the dmw_product IMG5H-44-4024, with the ross_code CCP40241010056G. The quantity for the day was 3000.0, with 450.0 sheets produced before and after the day. The weight per sheet was 39.1 kg, and the planned totals were 35.19 kg. The sheets were processed at a rate of 80.48780487804878 sheets per hour, with an SPM of 55 and 41 control wires.
+
+Adelaide's production continued on March 3, 2026, with the same ross_order of 254953, involving the dmw_product IMG5H-44-4024, with the ross_code CCP40241010056G. The quantity for the day was 3000.0, with 450.0 sheets produced before and after the day. The weight per sheet was 39.1 kg, and the planned totals were 35.19 kg. The sheets were processed at a rate of 80.48780487804878 sheets per hour, with an SPM of 55 and 41 control wires.
+
+Adelaide's production decreased on March 4, 2026, with the same ross_order of 254953, involving the dmw_product IMG5H-44-4024, with the ross_code CCP40241010056G. The quantity for the day was 3000.0, with 300.0 sheets produced before and after the day. The weight per sheet was 39.1 kg, and the planned totals were 11.73 kg. The sheets were processed at a rate of 80.48780487804878 sheets per hour, with an SPM of 55 and 41 control wires.
+
+The production process changed on March 5, 2026, with a different weight per sheet of 43.1 kg, no planned totals or actual totals recorded. The sheets were processed at a rate of 71.73913043478261 sheets per hour, with an SPM of 55 and 46 control wires.

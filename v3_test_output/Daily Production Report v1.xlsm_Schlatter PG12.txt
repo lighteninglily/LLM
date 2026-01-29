@@ -1,0 +1,1248 @@
+### Transforming Records into Narrative Paragraphs
+
+#### Record 1
+[META: date=2025-07-01 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 1,000 units of SMF_2412_0505004G on July 1, 2025. Order 254980 achieved 85.71% yield rate.
+
+#### Record 2
+[META: date=2025-07-02 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of SMF_2412_0505004G on July 2, 2025.
+
+#### Record 3
+[META: date=2025-07-03 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of SMF_2412_0505004G on July 3, 2025.
+
+#### Record 4
+[META: date=2025-07-04 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of SMF_2412_0505004G on July 4, 2025.
+
+#### Record 5
+[META: date=2025-07-05 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of SMF_2412_0505004G on July 5, 2025.
+
+#### Record 6
+[META: date=2025-07-06 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of SMF_2412_0505004G on July 6, 2025. Week 28 started.
+
+#### Record 7
+[META: date=2025-07-07 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of SMF_2412_0505004G on July 7, 2025. Week 28 continued.
+
+#### Record 8
+[META: date=2025-07-08 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of SMF_2412_0505004G on July 8, 2025. Week 28 continued.
+
+#### Record 9
+[META: date=2025-07-09 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of SMF_2412_0505004G on July 9, 2025. Week 28 continued.
+
+#### Record 10
+[META: date=2025-07-10 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of SMF_2412_0505004G on July 10, 2025. Week 28 continued.
+
+#### Record 11
+[META: date=2025-07-11 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of SMF_2412_0505004G on July 11, 2025. Week 28 ended.
+
+#### Record 12
+[META: date=2025-07-12 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of SMF_2412_0505004G on July 12, 2025. Week 28 ended.
+
+#### Record 13
+[META: date=2025-07-13 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of SMF_2412_0505004G on July 13, 2025. Week 29 started.
+
+#### Record 14
+[META: date=2025-07-14 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of SMF_2412_0505004G on July 14, 2025. Week 29 continued.
+
+#### Record 15
+[META: date=2025-07-15 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of SMF_2412_0505004G on July 15, 2025. Week 29 continued.
+
+#### Record 16
+[META: date=2025-07-16 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of SMF_2412_0505004G on July 16, 2025. Week 29 continued.
+
+#### Record 17
+[META: date=2025-07-17 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of SMF_2412_0505004G on July 17, 2025. Week 29 continued.
+
+#### Record 18
+[META: date=2025-07-18 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of SMF_2412_0505004G on July 18, 2025. Week 29 continued.
+
+#### Record 19
+[META: date=2025-07-19 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of SMF_2412_0505004G on July 19, 2025. Week 29 continued.
+
+#### Record 20
+[META: date=2025-07-20 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0 units of SMF_2412_0505004G on July 20, 2025. Week 30 started.
+
+**Record 1**
+[META: date=2025-07-21 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of SMF_2412_0505004G on July 21, 2025. Order 254980 had planned totals of 0.0 and actual totals of 0.0.
+
+**Record 2**
+[META: date=2025-07-22 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of SMF_2412_0505004G on July 22, 2025. Order 254980 had planned totals of 0.0 and actual totals of 0.0.
+
+**Record 3**
+[META: date=2025-07-23 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of SMF_2412_0505004G on July 23, 2025. Order 254980 had planned totals of 0.0 and actual totals of 0.0.
+
+**Record 4**
+[META: date=2025-07-24 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of SMF_2412_0505004G on July 24, 2025. Order 254980 had planned totals of 0.0 and actual totals of 0.0.
+
+**Record 5**
+[META: date=2025-07-25 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of SMF_2412_0505004G on July 25, 2025. Order 254980 had planned totals of 0.0 and actual totals of 0.0.
+
+**Record 6**
+[META: date=2025-07-26 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of SMF_2412_0505004G on July 26, 2025. Order 254980 had planned totals of 0.0 and actual totals of 0.0.
+
+**Record 7**
+[META: date=2025-07-27 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980 | week=31]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of IMG_4_22_2412 on July 27, 2025. Order 254980 had planned totals of 0.0 and actual totals of 0.0.
+
+**Record 8**
+[META: date=2025-07-28 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980 | week=31]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of IMG_4_22_2412 on July 28, 2025. Order 254980 had planned totals of 0.0 and actual totals of 0.0.
+
+**Record 9**
+[META: date=2025-07-29 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980 | week=31]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of IMG_4_22_2412 on July 29, 2025. Order 254980 had planned totals of 0.0 and actual totals of 0.0.
+
+**Record 10**
+[META: date=2025-07-30 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980 | week=31]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of IMG_4_22_2412 on July 30, 2025. Order 254980 had planned totals of 0.0 and actual totals of 0.0.
+
+**Record 11**
+[META: date=2025-07-31 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980 | week=31]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of IMG_4_22_2412 on July 31, 2025. Order 254980 had planned totals of 0.0 and actual totals of 0.0.
+
+**Record 12**
+[META: date=2025-08-01 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980 | week=31]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of IMG_4_22_2412 on August 1, 2025. Order 254980 had planned totals of 0.0 and actual totals of 0.0.
+
+**Record 13**
+[META: date=2025-08-02 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980 | week=31]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of IMG_4_22_2412 on August 2, 2025. Order 254980 had planned totals of 0.0 and actual totals of 0.0.
+
+**Record 14**
+[META: date=2025-08-03 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980 | week=32]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of IMG_4_22_2412 on August 3, 2025. Order 254980 had planned totals of 0.0 and actual totals of 0.0.
+
+**Record 15**
+[META: date=2025-08-04 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980 | week=32]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of IMG_4_22_2412 on August 4, 2025. Order 254980 had planned totals of 0.0 and actual totals of 0.0.
+
+**Record 16**
+[META: date=2025-08-05 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980 | week=32]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of IMG_4_22_2412 on August 5, 2025. Order 254980 had planned totals of 0.0 and actual totals of 0.0.
+
+**Record 17**
+[META: date=2025-08-06 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980 | week=32]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of IMG_4_22_2412 on August 6, 2025. Week 32 kg/sht was 23.2.
+
+**Record 18**
+[META: date=2025-08-07 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980 | week=32]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of IMG_4_22_2412 on August 7, 2025. Week 32 kg/sht was 24.2.
+
+**Record 19**
+[META: date=2025-08-08 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980 | week=32]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of IMG_4_22_2412 on August 8, 2025. Week 32 kg/sht was 25.2.
+
+**Record 20**
+[META: date=2025-08-09 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980 | week=32]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of IMG_4_22_2412 on August 9, 2025. Week 32 kg/sht was 26.2.
+
+**Record 1**
+[META: date=2025-08-10 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of SMF_2412_0505004G on August 10, 2025. Order 254980 did not achieve any production.
+
+**Record 2**
+[META: date=2025-08-11 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of SMF_2412_0505004G on August 11, 2025. Order 254980 did not achieve any production.
+
+**Record 3**
+[META: date=2025-08-12 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of SMF_2412_0505004G on August 12, 2025. Order 254980 did not achieve any production.
+
+**Record 4**
+[META: date=2025-08-13 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of SMF_2412_0505004G on August 13, 2025. Order 254980 did not achieve any production.
+
+**Record 5**
+[META: date=2025-08-14 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of SMF_2412_0505004G on August 14, 2025. Order 254980 did not achieve any production.
+
+**Record 6**
+[META: date=2025-08-15 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of SMF_2412_0505004G on August 15, 2025. Order 254980 did not achieve any production.
+
+**Record 7**
+[META: date=2025-08-16 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of SMF_2412_0505004G on August 16, 2025. Order 254980 did not achieve any production.
+
+**Record 8**
+[META: date=2025-08-17 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of IMG_4_22_2412 on August 17, 2025. Order 254980 did not achieve any production.
+
+**Record 9**
+[META: date=2025-08-18 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of IMG_4_22_2412 on August 18, 2025. Order 254980 did not achieve any production.
+
+**Record 10**
+[META: date=2025-08-19 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of IMG_4_22_2412 on August 19, 2025. Order 254980 did not achieve any production.
+
+**Record 11**
+[META: date=2025-08-20 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of IMG_4_22_2412 on August 20, 2025. Order 254980 did not achieve any production.
+
+**Record 12**
+[META: date=2025-08-21 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of IMG_4_22_2412 on August 21, 2025. Order 254980 did not achieve any production.
+
+**Record 13**
+[META: date=2025-08-22 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of IMG_4_22_2412 on August 22, 2025. Order 254980 did not achieve any production.
+
+**Record 14**
+[META: date=2025-08-23 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of IMG_4_22_2412 on August 23, 2025. Order 254980 did not achieve any production.
+
+**Record 15**
+[META: date=2025-08-24 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of IMG_4_22_2412 on August 24, 2025. Order 254980 did not achieve any production.
+
+**Record 16**
+[META: date=2025-08-25 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of IMG_4_22_2412 on August 25, 2025. Order 254980 did not achieve any production.
+
+**Record 17**
+[META: date=2025-08-26 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of IMG_4_22_2412 on August 26, 2025. Order 254980 did not achieve any production.
+
+**Record 18**
+[META: date=2025-08-27 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of IMG_4_22_2412 on August 27, 2025. Order 254980 did not achieve any production.
+
+**Record 19**
+[META: date=2025-08-28 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of IMG_4_22_2412 on August 28, 2025. Order 254980 did not achieve any production.
+
+**Record 20**
+[META: date=2025-08-29 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of IMG_4_22_2412 on August 29, 2025. Order 254980 did not achieve any production.
+
+**Record 1:**
+[META: date=2025-08-30 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of SMF_2412_0505004G on August 30, 2025. Order 254980 had planned totals of 0.0 units and actual totals of 0.0 units.
+
+**Record 2:**
+[META: date=2025-08-31 | machine=CLIFFORD_MMW | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of IMG_4_22_2412 on August 31, 2025. Order 254980 had planned totals of 0.0 units and actual totals of 0.0 units.
+
+**Record 3:**
+[META: date=2025-09-01 | machine=CLIFFORD_MMW | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of IMG_4_22_2412 on September 1, 2025. Order 254980 had planned totals of 0.0 units and actual totals of 0.0 units.
+
+**Record 4:**
+[META: date=2025-09-02 | machine=CLIFFORD_MMW | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of IMG_4_22_2412 on September 2, 2025. Order 254980 had planned totals of 0.0 units and actual totals of 0.0 units.
+
+**Record 5:**
+[META: date=2025-09-03 | machine=CLIFFORD_MMW | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of IMG_4_22_2412 on September 3, 2025. Order 254980 had planned totals of 0.0 units and actual totals of 0.0 units.
+
+**Record 6:**
+[META: date=2025-09-04 | machine=CLIFFORD_MMW | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of IMG_4_22_2412 on September 4, 2025. Order 254980 had planned totals of 0.0 units and actual totals of 0.0 units.
+
+**Record 7:**
+[META: date=2025-09-05 | machine=CLIFFORD_MMW | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of IMG_4_22_2412 on September 5, 2025. Order 254980 had planned totals of 0.0 units and actual totals of 0.0 units.
+
+**Record 8:**
+[META: date=2025-09-06 | machine=CLIFFORD_MMW | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of IMG_4_22_2412 on September 6, 2025. Order 254980 had planned totals of 0.0 units and actual totals of 0.0 units.
+
+**Record 9:**
+[META: date=2025-09-07 | machine=CLIFFORD_MMW | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of IMG_4_22_2412 on September 7, 2025. Order 254980 had planned totals of 0.0 units and actual totals of 0.0 units.
+
+**Record 10:**
+[META: date=2025-09-08 | machine=CLIFFORD_MMW | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of IMG_4_22_2412 on September 8, 2025. Order 254980 had planned totals of 0.0 units and actual totals of 0.0 units.
+
+**Record 11:**
+[META: date=2025-09-09 | machine=CLIFFORD_MMW | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of IMG_4_22_2412 on September 9, 2025. Order 254980 had planned totals of 0.0 units and actual totals of 0.0 units.
+
+**Record 12:**
+[META: date=2025-09-10 | machine=CLIFFORD_MMW | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of IMG_4_22_2412 on September 10, 2025. Order 254980 had planned totals of 0.0 units and actual totals of 0.0 units.
+
+**Record 13:**
+[META: date=2025-09-11 | machine=CLIFFORD_MMW | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of IMG_4_22_2412 on September 11, 2025. Order 254980 had planned totals of 0.0 units and actual totals of 0.0 units.
+
+**Record 14:**
+[META: date=2025-09-12 | machine=CLIFFORD_MMW | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of IMG_4_22_2412 on September 12, 2025. Order 254980 had planned totals of 0.0 units and actual totals of 0.0 units.
+
+**Record 15:**
+[META: date=2025-09-13 | machine=CLIFFORD_MMW | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of IMG_4_22_2412 on September 13, 2025. Order 254980 had planned totals of 0.0 units and actual totals of 0.0 units.
+
+**Record 16:**
+[META: date=2025-09-14 | machine=CLIFFORD_MMW | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of IMG_4_22_2412 on September 14, 2025. Order 254980 had planned totals of 0.0 units and actual totals of 0.0 units.
+
+**Record 17:**
+[META: date=2025-09-15 | machine=CLIFFORD_MMW | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of IMG_4_22_2412 on September 15, 2025. Order 254980 had planned totals of 0.0 units and actual totals of 0.0 units.
+
+**Record 18:**
+[META: date=2025-09-16 | machine=CLIFFORD_MMW | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of IMG_4_22_2412 on September 16, 2025. Order 254980 had planned totals of 0.0 units and actual totals of 0.0 units.
+
+**Record 19:**
+[META: date=2025-09-17 | machine=CLIFFORD_MMW | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of IMG_4_22_2412 on September 17, 2025. Order 254980 had planned totals of 0.0 units and actual totals of 0.0 units.
+
+**Record 20:**
+[META: date=2025-09-18 | machine=CLIFFORD_MMW | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of IMG_4_22_2412 on September 18, 2025. Order 254980 had planned totals of 0.0 units and actual totals of 0.0 units.
+
+**Record 1**
+[META: date=2025-09-19 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of SMF_2412_0505004G on September 19, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 2**
+[META: date=2025-09-20 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of SMF_2412_0505004G on September 20, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 3**
+[META: date=2025-09-21 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of SMF_2412_0505004G on September 21, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 4**
+[META: date=2025-09-22 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of SMF_2412_0505004G on September 22, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 5**
+[META: date=2025-09-23 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of SMF_2412_0505004G on September 23, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 6**
+[META: date=2025-09-24 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of SMF_2412_0505004G on September 24, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 7**
+[META: date=2025-09-25 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of SMF_2412_0505004G on September 25, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 8**
+[META: date=2025-09-26 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of SMF_2412_0505004G on September 26, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 9**
+[META: date=2025-09-27 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of SMF_2412_0505004G on September 27, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 10**
+[META: date=2025-09-28 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of SMF_2412_0505004G on September 28, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 11**
+[META: date=2025-09-29 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of SMF_2412_0505004G on September 29, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 12**
+[META: date=2025-09-30 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of SMF_2412_0505004G on September 30, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 13**
+[META: date=2025-10-01 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of SMF_2412_0505004G on October 1, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 14**
+[META: date=2025-10-02 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of SMF_2412_0505004G on October 2, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 15**
+[META: date=2025-10-03 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of SMF_2412_0505004G on October 3, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 16**
+[META: date=2025-10-04 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of SMF_2412_0505004G on October 4, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 17**
+[META: date=2025-10-05 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of SMF_2412_0505004G on October 5, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 18**
+[META: date=2025-10-06 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of SMF_2412_0505004G on October 6, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 19**
+[META: date=2025-10-07 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of SMF_2412_0505004G on October 7, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 20**
+[META: date=2025-10-08 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 0.0 units of SMF_2412_0505004G on October 8, 2025. Order 254980 achieved 0.0% yield rate.
+
+**Record 1**
+[META: date=2025-10-09 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 87.2 kg of SMF_2412_0505004G on October 9, 2025. Sheets per hour was 85.71428571428572 and yield was 50%. Order 254980 was processed.
+
+**Record 2**
+[META: date=2025-10-10 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 88.2 kg of SMF_2412_0505004G on October 10, 2025. Sheets per hour was 85.71428571428572 and yield was 50%. Order 254980 was processed.
+
+**Record 3**
+[META: date=2025-10-11 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 89.2 kg of SMF_2412_0505004G on October 11, 2025. Sheets per hour was 85.71428571428572 and yield was 50%. Order 254980 was processed.
+
+**Record 4**
+[META: date=2025-10-12 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 90.2 kg of SMF_2412_0505004G on October 12, 2025. Sheets per hour was 85.71428571428572 and yield was 50%. Order 254980 was processed.
+
+**Record 5**
+[META: date=2025-10-13 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 91.2 kg of SMF_2412_0505004G on October 13, 2025. Sheets per hour was 85.71428571428572 and yield was 50%. Order 254980 was processed.
+
+**Record 6**
+[META: date=2025-10-14 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 92.2 kg of SMF_2412_0505004G on October 14, 2025. Sheets per hour was 85.71428571428572 and yield was 50%. Order 254980 was processed.
+
+**Record 7**
+[META: date=2025-10-15 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 93.2 kg of SMF_2412_0505004G on October 15, 2025. Sheets per hour was 85.71428571428572 and yield was 50%. Order 254980 was processed.
+
+**Record 8**
+[META: date=2025-10-16 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 94.2 kg of SMF_2412_0505004G on October 16, 2025. Sheets per hour was 85.71428571428572 and yield was 50%. Order 254980 was processed.
+
+**Record 9**
+[META: date=2025-10-17 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 95.2 kg of SMF_2412_0505004G on October 17, 2025. Sheets per hour was 85.71428571428572 and yield was 50%. Order 254980 was processed.
+
+**Record 10**
+[META: date=2025-10-18 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 96.2 kg of SMF_2412_0505004G on October 18, 2025. Sheets per hour was 85.71428571428572 and yield was 50%. Order 254980 was processed.
+
+**Record 11**
+[META: date=2025-10-19 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 97.2 kg of SMF_2412_0505004G on October 19, 2025. Sheets per hour was 85.71428571428572 and yield was 50%. Order 254980 was processed.
+
+**Record 12**
+[META: date=2025-10-20 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 98.2 kg of SMF_2412_0505004G on October 20, 2025. Sheets per hour was 85.71428571428572 and yield was 50%. Order 254980 was processed.
+
+**Record 13**
+[META: date=2025-10-21 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 99.2 kg of SMF_2412_0505004G on October 21, 2025. Sheets per hour was 85.71428571428572 and yield was 50%. Order 254980 was processed.
+
+**Record 14**
+[META: date=2025-10-22 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 100.2 kg of SMF_2412_0505004G on October 22, 2025. Sheets per hour was 85.71428571428572 and yield was 50%. Order 254980 was processed.
+
+**Record 15**
+[META: date=2025-10-23 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 101.2 kg of SMF_2412_0505004G on October 23, 2025. Sheets per hour was 85.71428571428572 and yield was 50%. Order 254980 was processed.
+
+**Record 16**
+[META: date=2025-10-24 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 102.2 kg of SMF_2412_0505004G on October 24, 2025. Sheets per hour was 85.71428571428572 and yield was 50%. Order 254980 was processed.
+
+**Record 17**
+[META: date=2025-10-25 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 103.2 kg of SMF_2412_0505004G on October 25, 2025. Sheets per hour was 85.71428571428572 and yield was 50%. Order 254980 was processed.
+
+**Record 18**
+[META: date=2025-10-26 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 104.2 kg of SMF_2412_0505004G on October 26, 2025. Sheets per hour was 85.71428571428572 and yield was 50%. Order 254980 was processed.
+
+**Record 19**
+[META: date=2025-10-27 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 105.2 kg of SMF_2412_0505004G on October 27, 2025. Sheets per hour was 85.71428571428572 and yield was 50%. Order 254980 was processed.
+
+**Record 20**
+[META: date=2025-10-28 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 106.2 kg of SMF_2412_0505004G on October 28, 2025. Sheets per hour was 85.71428571428572 and yield was 50%. Order 254980 was processed.
+
+**Record 1**
+[META: date=2025-10-29 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 107.2 kg of SMF_2412_0505004G on October 29, 2025. Order 254980 achieved 0.0 units with 0.0% yield rate.
+
+**Record 2**
+[META: date=2025-10-30 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 108.2 kg of SMF_2412_0505004G on October 30, 2025. Order 254980 achieved 0.0 units with 0.0% yield rate.
+
+**Record 3**
+[META: date=2025-10-31 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 109.2 kg of SMF_2412_0505004G on October 31, 2025. Order 254980 achieved 0.0 units with 0.0% yield rate.
+
+**Record 4**
+[META: date=2025-11-01 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 110.2 kg of SMF_2412_0505004G on November 1, 2025. Order 254980 achieved 0.0 units with 0.0% yield rate.
+
+**Record 5**
+[META: date=2025-11-02 | machine=SCHLATTER_PG28 | product=IMG_4_22_2412 | order=254981]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG28 produced 111.2 kg of IMG_4_22_2412 on November 2, 2025. Order 254981 achieved 0.0 units with 0.0% yield rate.
+
+**Record 6**
+[META: date=2025-11-03 | machine=SCHLATTER_PG28 | product=IMG_4_22_2412 | order=254981]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG28 produced 112.2 kg of IMG_4_22_2412 on November 3, 2025. Order 254981 achieved 0.0 units with 0.0% yield rate.
+
+**Record 7**
+[META: date=2025-11-04 | machine=SCHLATTER_PG28 | product=IMG_4_22_2412 | order=254981]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG28 produced 113.2 kg of IMG_4_22_2412 on November 4, 2025. Order 254981 achieved 0.0 units with 0.0% yield rate.
+
+**Record 8**
+[META: date=2025-11-05 | machine=SCHLATTER_PG28 | product=IMG_4_22_2412 | order=254981]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG28 produced 114.2 kg of IMG_4_22_2412 on November 5, 2025. Order 254981 achieved 0.0 units with 0.0% yield rate.
+
+**Record 9**
+[META: date=2025-11-06 | machine=SCHLATTER_PG28 | product=IMG_4_22_2412 | order=254981]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG28 produced 115.2 kg of IMG_4_22_2412 on November 6, 2025. Order 254981 achieved 0.0 units with 0.0% yield rate.
+
+**Record 10**
+[META: date=2025-11-07 | machine=SCHLATTER_PG28 | product=IMG_4_22_2412 | order=254981]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG28 produced 116.2 kg of IMG_4_22_2412 on November 7, 2025. Order 254981 achieved 0.0 units with 0.0% yield rate.
+
+**Record 11**
+[META: date=2025-11-08 | machine=SCHLATTER_PG28 | product=IMG_4_22_2412 | order=254981]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG28 produced 117.2 kg of IMG_4_22_2412 on November 8, 2025. Order 254981 achieved 0.0 units with 0.0% yield rate.
+
+**Record 12**
+[META: date=2025-11-09 | machine=SCHLATTER_PG28 | product=IMG_4_22_2412 | order=254981]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG28 produced 118.2 kg of IMG_4_22_2412 on November 9, 2025. Order 254981 achieved 0.0 units with 0.0% yield rate.
+
+**Record 13**
+[META: date=2025-11-10 | machine=SCHLATTER_PG28 | product=IMG_4_22_2412 | order=254981]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG28 produced 119.2 kg of IMG_4_22_2412 on November 10, 2025. Order 254981 achieved 0.0 units with 0.0% yield rate.
+
+**Record 14**
+[META: date=2025-11-11 | machine=SCHLATTER_PG28 | product=IMG_4_22_2412 | order=254981]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG28 produced 120.2 kg of IMG_4_22_2412 on November 11, 2025. Order 254981 achieved 0.0 units with 0.0% yield rate.
+
+**Record 15**
+[META: date=2025-11-12 | machine=SCHLATTER_PG28 | product=IMG_4_22_2412 | order=254981]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG28 produced 121.2 kg of IMG_4_22_2412 on November 12, 2025. Order 254981 achieved 0.0 units with 0.0% yield rate.
+
+**Record 16**
+[META: date=2025-11-13 | machine=SCHLATTER_PG28 | product=IMG_4_22_2412 | order=254981]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG28 produced 122.2 kg of IMG_4_22_2412 on November 13, 2025. Order 254981 achieved 0.0 units with 0.0% yield rate.
+
+**Record 17**
+[META: date=2025-11-14 | machine=SCHLATTER_PG28 | product=IMG_4_22_2412 | order=254981]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG28 produced 123.2 kg of IMG_4_22_2412 on November 14, 2025. Order 254981 achieved 0.0 units with 0.0% yield rate.
+
+**Record 18**
+[META: date=2025-11-15 | machine=SCHLATTER_PG28 | product=IMG_4_22_2412 | order=254981]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG28 produced 124.2 kg of IMG_4_22_2412 on November 15, 2025. Order 254981 achieved 0.0 units with 0.0% yield rate.
+
+**Record 19**
+[META: date=2025-11-16 | machine=SCHLATTER_PG28 | product=IMG_4_22_2412 | order=254981]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG28 produced 125.2 kg of IMG_4_22_2412 on November 16, 2025. Order 254981 achieved 0.0 units with 0.0% yield rate.
+
+**Record 20**
+[META: date=2025-11-17 | machine=SCHLATTER_PG28 | product=IMG_4_22_2412 | order=254981]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG28 produced 126.2 kg of IMG_4_22_2412 on November 17, 2025. Order 254981 achieved 0.0 units with 0.0% yield rate.
+
+**Record 1**
+[META: date=2025-11-18 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 127.2 kg of SMF_2412_0505004G on November 18, 2025. Order 254980 achieved 0.0 units with 0.0% yield rate.
+
+**Record 2**
+[META: date=2025-11-19 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 128.2 kg of SMF_2412_0505004G on November 19, 2025. Order 254980 achieved 0.0 units with 0.0% yield rate.
+
+**Record 3**
+[META: date=2025-11-20 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 129.2 kg of SMF_2412_0505004G on November 20, 2025. Order 254980 achieved 0.0 units with 0.0% yield rate.
+
+**Record 4**
+[META: date=2025-11-21 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 130.2 kg of SMF_2412_0505004G on November 21, 2025. Order 254980 achieved 0.0 units with 0.0% yield rate.
+
+**Record 5**
+[META: date=2025-11-22 | machine=SCHLATTER_PG12 | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 131.2 kg of SMF_2412_0505004G on November 22, 2025. Order 254980 achieved 0.0 units with 0.0% yield rate.
+
+**Record 6**
+[META: date=2025-11-23 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 132.2 kg of IMG_4_22_2412 on November 23, 2025. Order 254980 achieved 0.0 units with 0.0% yield rate.
+
+**Record 7**
+[META: date=2025-11-24 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 133.2 kg of IMG_4_22_2412 on November 24, 2025. Order 254980 achieved 0.0 units with 0.0% yield rate.
+
+**Record 8**
+[META: date=2025-11-25 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 134.2 kg of IMG_4_22_2412 on November 25, 2025. Order 254980 achieved 0.0 units with 0.0% yield rate.
+
+**Record 9**
+[META: date=2025-11-26 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 135.2 kg of IMG_4_22_2412 on November 26, 2025. Order 254980 achieved 0.0 units with 0.0% yield rate.
+
+**Record 10**
+[META: date=2025-11-27 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 136.2 kg of IMG_4_22_2412 on November 27, 2025. Order 254980 achieved 0.0 units with 0.0% yield rate.
+
+**Record 11**
+[META: date=2025-11-28 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 137.2 kg of IMG_4_22_2412 on November 28, 2025. Order 254980 achieved 0.0 units with 0.0% yield rate.
+
+**Record 12**
+[META: date=2025-11-29 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 138.2 kg of IMG_4_22_2412 on November 29, 2025. Order 254980 achieved 0.0 units with 0.0% yield rate.
+
+**Record 13**
+[META: date=2025-11-30 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 139.2 kg of IMG_4_22_2412 on November 30, 2025. Order 254980 achieved 0.0 units with 0.0% yield rate.
+
+**Record 14**
+[META: date=2025-12-01 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 140.2 kg of IMG_4_22_2412 on December 1, 2025. Order 254980 achieved 0.0 units with 0.0% yield rate.
+
+**Record 15**
+[META: date=2025-12-02 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 141.2 kg of IMG_4_22_2412 on December 2, 2025. Order 254980 achieved 0.0 units with 0.0% yield rate.
+
+**Record 16**
+[META: date=2025-12-03 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 142.2 kg of IMG_4_22_2412 on December 3, 2025. Order 254980 achieved 0.0 units with 0.0% yield rate.
+
+**Record 17**
+[META: date=2025-12-04 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 143.2 kg of IMG_4_22_2412 on December 4, 2025. Order 254980 achieved 0.0 units with 0.0% yield rate.
+
+**Record 18**
+[META: date=2025-12-05 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 144.2 kg of IMG_4_22_2412 on December 5, 2025. Order 254980 achieved 0.0 units with 0.0% yield rate.
+
+**Record 19**
+[META: date=2025-12-06 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 145.2 kg of IMG_4_22_2412 on December 6, 2025. Order 254980 achieved 0.0 units with 0.0% yield rate.
+
+**Record 20**
+[META: date=2025-12-07 | machine=SCHLATTER_PG12 | product=IMG_4_22_2412 | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 146.2 kg of IMG_4_22_2412 on December 7, 2025. Order 254980 achieved 0.0 units with 0.0% yield rate.
+
+### Transforming Records into Narrative Paragraphs
+
+#### Record 1
+[META: date=2025-12-08 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on December 8, 2025. Order 254980 did not achieve any production.
+
+#### Record 2
+[META: date=2025-12-09 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on December 9, 2025. Order 254980 did not achieve any production.
+
+#### Record 3
+[META: date=2025-12-10 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on December 10, 2025. Order 254980 did not achieve any production.
+
+#### Record 4
+[META: date=2025-12-11 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on December 11, 2025. Order 254980 did not achieve any production.
+
+#### Record 5
+[META: date=2025-12-12 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on December 12, 2025. Order 254980 did not achieve any production.
+
+#### Record 6
+[META: date=2025-12-13 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on December 13, 2025. Order 254980 did not achieve any production.
+
+#### Record 7
+[META: date=2025-12-14 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on December 14, 2025. Order 254980 did not achieve any production.
+
+#### Record 8
+[META: date=2025-12-15 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on December 15, 2025. Order 254980 did not achieve any production.
+
+#### Record 9
+[META: date=2025-12-16 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on December 16, 2025. Order 254980 did not achieve any production.
+
+#### Record 10
+[META: date=2025-12-17 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on December 17, 2025. Order 254980 did not achieve any production.
+
+#### Record 11
+[META: date=2025-12-18 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on December 18, 2025. Order 254980 did not achieve any production.
+
+#### Record 12
+[META: date=2025-12-19 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on December 19, 2025. Order 254980 did not achieve any production.
+
+#### Record 13
+[META: date=2025-12-20 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on December 20, 2025. Order 254980 did not achieve any production.
+
+#### Record 14
+[META: date=2025-12-21 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on December 21, 2025. Order 254980 did not achieve any production.
+
+#### Record 15
+[META: date=2025-12-22 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on December 22, 2025. Order 254980 did not achieve any production.
+
+#### Record 16
+[META: date=2025-12-23 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on December 23, 2025. Order 254980 did not achieve any production.
+
+#### Record 17
+[META: date=2025-12-24 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on December 24, 2025. Order 254980 did not achieve any production.
+
+#### Record 18
+[META: date=2025-12-25 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on December 25, 2025. Order 254980 did not achieve any production.
+
+#### Record 19
+[META: date=2025-12-26 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on December 26, 2025. Order 254980 did not achieve any production.
+
+#### Record 20
+[META: date=2025-12-27 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on December 27, 2025. Order 254980 did not achieve any production.
+
+**Record 1**
+[META: date=2025-12-28 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on December 28, 2025. Order 254980 had 0 kg_sht and 0 planned_totals.
+
+**Record 2**
+[META: date=2025-12-29 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on December 29, 2025. Order 254980 had 0 kg_sht and 0 planned_totals.
+
+**Record 3**
+[META: date=2025-12-30 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on December 30, 2025. Order 254980 had 0 kg_sht and 0 planned_totals.
+
+**Record 4**
+[META: date=2025-12-31 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on December 31, 2025. Order 254980 had 0 kg_sht and 0 planned_totals.
+
+**Record 5**
+[META: date=2026-01-01 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on January 1, 2026. Order 254980 had 0 kg_sht and 0 planned_totals.
+
+**Record 6**
+[META: date=2026-01-02 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on January 2, 2026. Order 254980 had 0 kg_sht and 0 planned_totals.
+
+**Record 7**
+[META: date=2026-01-03 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on January 3, 2026. Order 254980 had 0 kg_sht and 0 planned_totals.
+
+**Record 8**
+[META: date=2026-01-04 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on January 4, 2026. Order 254980 had 0 kg_sht and 0 planned_totals.
+
+**Record 9**
+[META: date=2026-01-05 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on January 5, 2026. Order 254980 had 0 kg_sht and 0 planned_totals.
+
+**Record 10**
+[META: date=2026-01-06 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on January 6, 2026. Order 254980 had 0 kg_sht and 0 planned_totals.
+
+**Record 11**
+[META: date=2026-01-07 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on January 7, 2026. Order 254980 had 0 kg_sht and 0 planned_totals.
+
+**Record 12**
+[META: date=2026-01-08 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on January 8, 2026. Order 254980 had 0 kg_sht and 0 planned_totals.
+
+**Record 13**
+[META: date=2026-01-09 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on January 9, 2026. Order 254980 had 0 kg_sht and 0 planned_totals.
+
+**Record 14**
+[META: date=2026-01-10 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on January 10, 2026. Order 254980 had 0 kg_sht and 0 planned_totals.
+
+**Record 15**
+[META: date=2026-01-11 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on January 11, 2026. Order 254980 had 0 kg_sht and 0 planned_totals.
+
+**Record 16**
+[META: date=2026-01-12 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on January 12, 2026. Order 254980 had 0 kg_sht and 0 planned_totals.
+
+**Record 17**
+[META: date=2026-01-13 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on January 13, 2026. Order 254980 had 0 kg_sht and 0 planned_totals.
+
+**Record 18**
+[META: date=2026-01-14 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on January 14, 2026. Order 254980 had 0 kg_sht and 0 planned_totals.
+
+**Record 19**
+[META: date=2026-01-15 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on January 15, 2026. Order 254980 had 0 kg_sht and 0 planned_totals.
+
+**Record 20**
+[META: date=2026-01-16 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on January 16, 2026. Order 254980 had 0 kg_sht and 0 planned_totals.
+
+**Record 1**
+[META: date=2026-01-07 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of SMF_2412_0505004G on January 7, 2026. Order 254980 achieved 0.0% yield rate.
+
+**Record 2**
+[META: date=2026-01-08 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of SMF_2412_0505004G on January 8, 2026. Order 254980 achieved 0.0% yield rate.
+
+**Record 3**
+[META: date=2026-01-09 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of SMF_2412_0505004G on January 9, 2026. Order 254980 achieved 0.0% yield rate.
+
+**Record 4**
+[META: date=2026-01-10 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of SMF_2412_0505004G on January 10, 2026. Order 254980 achieved 0.0% yield rate.
+
+**Record 5**
+[META: date=2026-01-11 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of SMF_2412_0505004G on January 11, 2026. Order 254980 achieved 0.0% yield rate.
+
+**Record 6**
+[META: date=2026-01-12 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of SMF_2412_0505004G on January 12, 2026. Order 254980 achieved 0.0% yield rate.
+
+**Record 7**
+[META: date=2026-01-13 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of SMF_2412_0505004G on January 13, 2026. Order 254980 achieved 0.0% yield rate.
+
+**Record 8**
+[META: date=2026-01-14 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of SMF_2412_0505004G on January 14, 2026. Order 254980 achieved 0.0% yield rate.
+
+**Record 9**
+[META: date=2026-01-15 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of SMF_2412_0505004G on January 15, 2026. Order 254980 achieved 0.0% yield rate.
+
+**Record 10**
+[META: date=2026-01-16 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of SMF_2412_0505004G on January 16, 2026. Order 254980 achieved 0.0% yield rate.
+
+**Record 11**
+[META: date=2026-01-17 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of SMF_2412_0505004G on January 17, 2026. Order 254980 achieved 0.0% yield rate.
+
+**Record 12**
+[META: date=2026-01-18 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of SMF_2412_0505004G on January 18, 2026. Order 254980 achieved 0.0% yield rate.
+
+**Record 13**
+[META: date=2026-01-02 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of SMF_2412_0505004G on January 2, 2026. Order 254980 achieved 0.0% yield rate.
+
+**Record 14**
+[META: date=2026-01-03 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of SMF_2412_0505004G on January 3, 2026. Order 254980 achieved 0.0% yield rate.
+
+**Record 15**
+[META: date=2026-01-04 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of SMF_2412_0505004G on January 4, 2026. Order 254980 achieved 0.0% yield rate.
+
+**Record 16**
+[META: date=2026-01-05 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of SMF_2412_0505004G on January 5, 2026. Order 254980 achieved 0.0% yield rate.
+
+**Record 17**
+[META: date=2026-01-06 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of SMF_2412_0505004G on January 6, 2026. Order 254980 achieved 0.0% yield rate.
+
+**Record 18**
+[META: date=2026-01-07 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of SMF_2412_0505004G on January 7, 2026. Order 254980 achieved 0.0% yield rate.
+
+**Record 19**
+[META: date=2026-01-08 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of SMF_2412_0505004G on January 8, 2026. Order 254980 achieved 0.0% yield rate.
+
+**Record 20**
+[META: date=2026-01-09 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0.0 units of SMF_2412_0505004G on January 9, 2026. Order 254980 achieved 0.0% yield rate.
+
+**Record 1**
+[META: date=2026-01-10 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on January 10, 2026.
+
+**Record 2**
+[META: date=2026-01-11 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on January 11, 2026.
+
+**Record 3**
+[META: date=2026-01-12 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on January 12, 2026.
+
+**Record 4**
+[META: date=2026-01-13 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on January 13, 2026.
+
+**Record 5**
+[META: date=2026-01-14 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on January 14, 2026.
+
+**Record 6**
+[META: date=2026-01-15 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on January 15, 2026.
+
+**Record 7**
+[META: date=2026-01-16 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on January 16, 2026.
+
+**Record 8**
+[META: date=2026-01-17 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on January 17, 2026.
+
+**Record 9**
+[META: date=2026-01-18 | machine=CLIFFORD_MMW | product=IMB45_421_5002_DEN | order=254987 | location=ENSHAM]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 2,113 units of IMB45_421_5002_DEN on January 18, 2026. Order 254987 for ENSHAM achieved 32.0% yield rate.
+
+**Record 10**
+[META: date=2026-01-19 | machine=CLIFFORD_MMW | product=IMB45_421_5002_DEN | order=254987 | location=ENSHAM]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 2,113 units of IMB45_421_5002_DEN on January 19, 2026. Order 254987 for ENSHAM achieved 140.0% yield rate.
+
+**Record 11**
+[META: date=2026-01-20 | machine=CLIFFORD_MMW | product=IMB45_421_5002_DEN | order=254987 | location=ENSHAM]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 2,113 units of IMB45_421_5002_DEN on January 20, 2026. Order 254987 for ENSHAM achieved 28.0% yield rate.
+
+**Record 12**
+[META: date=2026-01-21 | machine=CLIFFORD_MMW | product=IMB45_421_5002_DEN | order=254987 | location=ENSHAM]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 2,113 units of IMB45_421_5002_DEN on January 21, 2026. Order 254987 for ENSHAM achieved 87.0% yield rate.
+
+**Record 13**
+[META: date=2026-01-22 | machine=CLIFFORD_MMW | product=IMB45_421_5002_DEN | order=254987 | location=ENSHAM]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 2,113 units of IMB45_421_5002_DEN on January 22, 2026. Order 254987 for ENSHAM achieved 90.0% yield rate.
+
+**Record 14**
+[META: date=2026-01-23 | machine=CLIFFORD_MMW | product=IMB45_421_5002_DEN | order=254987 | location=ENSHAM]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 2,113 units of IMB45_421_5002_DEN on January 23, 2026. Order 254987 for ENSHAM achieved 66.0% yield rate.
+
+**Record 15**
+[META: date=2026-01-24 | machine=CLIFFORD_MMW | product=IMB45_421_5002_DEN | order=254987 | location=ENSHAM]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 2,113 units of IMB45_421_5002_DEN on January 24, 2026. Order 254987 for ENSHAM achieved 46.332 kg/sheet.
+
+**Record 16**
+[META: date=2026-01-25 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on January 25, 2026.
+
+**Record 17**
+[META: date=2026-01-26 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980 | location=ENSHAM]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on January 26, 2026.
+
+**Record 18**
+[META: date=2026-01-27 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980 | location=ENSHAM]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on January 27, 2026.
+
+**Record 19**
+[META: date=2026-01-28 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980 | location=ENSHAM]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on January 28, 2026.
+
+**Record 20**
+[META: date=2026-01-29 | machine=CLIFFORD_MMW | product=SMF_2412_0505004G | order=254980 | location=ENSHAM]
+[Source: Daily Production Report v1.xlsm_Schlatter PG12.csv | Type: production_record]
+CLIFFORD MMW produced 0 units of SMF_2412_0505004G on January 29, 2026.
+
+**Record 1:**
+[META: date=2026-01-30 | machine=SCHLATTER_PG12 | product=IMB45-421-5002_DEN | order=254987_ENSHAM]
+[Source: Daily_Production_Report_v1.xlsm_Schlatter_PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 2,113 units of IMB45-421-5002_DEN on January 30, 2026. Order 254987 - ENSHAM achieved 120.0 sheets per hour.
+
+**Record 2:**
+[META: date=2026-01-31 | machine=SCHLATTER_PG12 | product=IMB45-421-5002_DEN | order=254987_ENSHAM]
+[Source: Daily_Production_Report_v1.xlsm_Schlatter_PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 2,113 units of IMB45-421-5002_DEN on January 31, 2026. Order 254987 - ENSHAM achieved 110.0 sheets per hour.
+
+**Record 3:**
+[META: date=2026-02-01 | machine=SCHLATTER_PG12 | product=IMB45-421-5002_DEN | order=254987_ENSHAM]
+[Source: Daily_Production_Report_v1.xlsm_Schlatter_PG12.csv | Type: production_record]
+SCHLATTER PG12 did not produce any units on February 1, 2026.
+
+**Record 4:**
+[META: date=2026-02-02 | machine=SCHLATTER_PG12 | product=IMB45-421-5002_DEN | order=254987_ENSHAM]
+[Source: Daily_Production_Report_v1.xlsm_Schlatter_PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 2,113 units of IMB45-421-5002_DEN on February 2, 2026. Order 254987 - ENSHAM achieved 120.0 sheets per hour.
+
+**Record 5:**
+[META: date=2026-02-03 | machine=SCHLATTER_PG12 | product=IMB45-421-5002_DEN | order=254987_ENSHAM]
+[Source: Daily_Production_Report_v1.xlsm_Schlatter_PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 2,113 units of IMB45-421-5002_DEN on February 3, 2026. Order 254987 - ENSHAM achieved 120.0 sheets per hour.
+
+**Record 6:**
+[META: date=2026-02-04 | machine=SCHLATTER_PG12 | product=IMB45-421-5002_DEN | order=254987_ENSHAM]
+[Source: Daily_Production_Report_v1.xlsm_Schlatter_PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 2,113 units of IMB45-421-5002_DEN on February 4, 2026. Order 254987 - ENSHAM achieved 120.0 sheets per hour.
+
+**Record 7:**
+[META: date=2026-02-05 | machine=SCHLATTER_PG12 | product=IMB45-421-5002_DEN | order=254987_ENSHAM]
+[Source: Daily_Production_Report_v1.xlsm_Schlatter_PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 2,113 units of IMB45-421-5002_DEN on February 5, 2026. Order 254987 - ENSHAM achieved 120.0 sheets per hour.
+
+**Record 8:**
+[META: date=2026-02-06 | machine=SCHLATTER_PG12 | product=IMB45-421-5002_DEN | order=254987_ENSHAM]
+[Source: Daily_Production_Report_v1.xlsm_Schlatter_PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 2,113 units of IMB45-421-5002_DEN on February 6, 2026. Order 254987 - ENSHAM achieved 120.0 sheets per hour.
+
+**Record 9:**
+[META: date=2026-02-07 | machine=SCHLATTER_PG12 | product=IMB45-421-5002_DEN | order=254987_ENSHAM]
+[Source: Daily_Production_Report_v1.xlsm_Schlatter_PG12.csv | Type: production_record]
+SCHLATTER PG12 produced 2,113 units of IMB45-421-5002_DEN on February 7, 2026. Order 254987 - ENSHAM achieved 100.0 sheets per hour.

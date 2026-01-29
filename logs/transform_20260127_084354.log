@@ -1,0 +1,3 @@
+2026-01-27 08:43:54,517 [INFO] Read 246 records from ASW - DW - Open Sales Orders.csv
+2026-01-27 08:43:54,518 [INFO] Transforming ASW - DW - Open Sales Orders.csv: 246 records in 13 batches
+2026-01-27 08:47:37,742 [INFO]   Wrote 221 paragraphs to ASW - DW - Open Sales Orders.txt

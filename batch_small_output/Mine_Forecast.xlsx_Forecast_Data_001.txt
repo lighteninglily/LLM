@@ -1,0 +1,999 @@
+Jennmar operates at the Abel site, producing Coal with Malaysia Mesh. The product code is SMB5018101005G, with a load size of 480.0. Production occurs in Malaysia, and the depot is in Brisbane. No shipments are reported from June 2025 to May 2027.
+
+Jennmar's Agnew site produces Hardrock with Perth Mesh. The product category is Mesh, and the product code is SMF45171010056G. The load size is 700.0, and production happens in Perth. The depot is also in Perth. Shipments are reported from June 2025 to October 2025, with 308.0 units each month.
+
+DSI Centennial's Airly Coal site produces Coal with Malaysia Mesh. The product code is SMF2618101003, and the load size is 3000.0. Production occurs in Malaysia, and the depot is in Brisbane. Shipments are reported in July 2025 and November 2025, with 400.0 units each month.
+
+Jennmar's Ashton site produces Coal with Malaysia Mesh. The product code is SMB5018101005, and the load size is 480.0. Production occurs in Malaysia, and the depot is in Brisbane. Shipments are reported in June 2025, October 2025, and February 2027, with 960.0, 480.0, and 0.0 units respectively.
+
+Jennmar's Ashton site produces Coal with Malaysia Mesh. The product code is SMB5018101005G, and the load size is 480.0. Production occurs in Malaysia, and the depot is in Brisbane. Shipments are reported in June 2025, October 2025, and February 2027, with 480.0, 480.0, and 0.0 units respectively.
+
+Jennmar's Ashton site produces Coal with Malaysia Mesh. The product code is SMF24151010034G, and the load size is 500.0. Production occurs in Malaysia, and the depot is in Brisbane. Shipments are reported in July 2025, September 2025, and January 2026, with 600.0, 600.0, and 600.0 units respectively.
+
+Jennmar's Barminco site produces Coal with Ausro Straps. The product code is JOS6000B, and the load size is 2400.0. Production occurs in Perth, and the depot is in Perth. No shipments are reported from June 2025 to May 2027.
+
+Jennmar's BHP Olympic Dam site produces Coal with Malaysia Mesh. The product code is SMESH300011704, and the load size is 2400.0. Production occurs in Malaysia, and the depot is in Adelaide. No shipments are reported from June 2025 to May 2027.
+
+Jennmar's BHP-RASP site produces Coal with Malaysia Mesh. The product code is SMB4524101005, and the load size is 550.0. Production occurs in Malaysia, and the depot is in Adelaide. No shipments are reported from June 2025 to May 2027.
+
+Jennmar's Black Cat site produces Hardrock with Perth Mesh. The product code is CCP35241010056G, and the load size is 700.0. Production occurs in Perth, and the depot is in Perth. Shipments are reported from June 2025 to February 2026, with 50.0 units each month.
+
+Jennmar's Black Cat site produces Hardrock with Perth Mesh. The product code is CCP45241010056G, and the load size is 550.0. Production occurs in Perth, and the depot is in Perth. Shipments are reported from June 2025 to February 2026, with 500.0 units each month.
+
+Jennmar's Black Cat site produces Coal with Ausro Straps. The product code is JOS6000B, and the load size is 2400.0. Production occurs in Perth, and the depot is in Perth. No shipments are reported from June 2025 to May 2027.
+
+Jennmar's Black Cat site produces Hardrock with Perth Mesh. The product code is SMF5H242401010G, and the load size is 550.0. Production occurs in Perth, and the depot is in Perth. Shipments are reported from June 2025 to February 2026, with 175.0 units each month.
+
+Jennmar's Broken Hill (RASP) site produces Hardrock with Malaysia Mesh. The product code is CCP45241010056G, and the load size is 550.0. Production occurs in Malaysia, and the depot is in Adelaide. Shipments are reported from June 2025 to February 2026, with 1200.0 units each month.
+
+Jennmar's Broken Hill site produces Hardrock with Ausro Straps. The product code is JOS3003G, and the load size is 550.0. Production occurs in Malaysia, and the depot is in Adelaide. No shipments are reported from June 2025 to May 2027.
+
+Jennmar's Broken Hill site produces Hardrock with Malaysia Mesh. The product code is SMF4524101005, and the load size is 550.0. Production occurs in Malaysia, and the depot is in Adelaide. Shipments are reported from June 2025 to February 2026, with 450.0 units each month.
+
+Jennmar's Broken Hill - Perilya site produces Hardrock with Perth Mesh. The product code is CCP40241010056G, and the load size is 600.0. Production occurs in Malaysia, and the depot is in Adelaide. Shipments are reported from June 2025 to February 2026, with 800.0 units each month.
+
+Jennmar's Broken Hill - Perilya site produces Hardrock with Malaysia Mesh. The product code is SMESH300011704, and the load size is 2400.0. Production occurs in Malaysia, and the depot is in Adelaide. No shipments are reported from June 2025 to May 2027.
+
+Jennmar's Broken Hill - Perilya site produces Hardrock with Perth Mesh. The product code is CC402410105, and the load size is 600.0. Production occurs in Perth, and the depot is in Adelaide. Shipments are reported from June 2025 to February 2026, with 400.0 units each month.
+
+Paddington Gold's Bull ant site produces Hardrock with Perth Mesh. The product code is CCP45241010056G, and the load size is 550.0. Production occurs in Perth, and the depot is in Perth. No shipments are reported from June 2025 to May 2027.
+
+Paddington Gold operates at the Bull Ant site in Western Australia (WA). They produce mesh products for hardrock mining, with a load size of 600.0. Production is reported to be located in Perth, and the depot is also in Perth. No production is expected from June 2025 to May 2027.
+
+Jennmar operates at the Cannington site in Queensland (Qld). They produce mesh products for hardrock mining, with a load size of 550.0. Production is reported to be located in Malaysia, and the depot is in Brisbane. Production is expected to be consistent from June 2025 to May 2026, with a volume of 1800.0 units per month.
+
+Jennmar operates at the Cannington site in Queensland (Qld). They produce mesh products for hardrock mining, with a load size of 2400.0. Production is reported to be located in Malaysia, and the depot is in Brisbane. Production is expected to be inconsistent from June 2025 to May 2027, with peaks of 400.0 and 100.0 units in June and July 2025, respectively.
+
+DSI operates at the Centurion site in New South Wales (NSW). They produce mesh products for coal mining, with a load size of 3000.0. Production is reported to be located in Malaysia, and the depot is in Brisbane. No production is expected from June 2025 to May 2027.
+
+DSI Centennial operates at the Clarence Colliery site in New South Wales (NSW). They produce mesh products for coal mining, with a load size of 3000.0. Production is reported to be located in Malaysia, and the depot is in Brisbane. Production is expected to be high from June 2025 to October 2026, with volumes of 4000.0 and 3000.0 units per month, respectively.
+
+Jennmar operates at the Cobar site in New South Wales (NSW). They produce mesh products for hardrock mining using Ausro Straps, with a load size of 800.0. Production is reported to be located in Malaysia, and the depot is in Brisbane. No production is expected from June 2025 to May 2027.
+
+Jennmar operates at the Cobar site in New South Wales (NSW). They produce mesh products for hardrock mining using Malaysia Mesh, with a load size of 550.0. Production is reported to be located in Malaysia, and the depot is in Brisbane. Production is expected to be inconsistent from June 2025 to May 2027, with peaks of 1600.0, 1300.0, and 400.0 units in June, July, and August 2025, respectively.
+
+Jennmar operates at the Cobar site in New South Wales (NSW). They produce mesh products for hardrock mining using Malaysia Mesh, with a load size of 550.0. Production is reported to be located in Malaysia, and the depot is in Brisbane. Production is expected to be consistent from June 2025 to May 2027, with a volume of 400.0 units per month.
+
+Jennmar operates at the Cobar site in New South Wales (NSW). They produce mesh products for hardrock mining using Ausro Straps, with a load size of 800.0. Production is reported to be located in Malaysia, and the depot is in Brisbane. No production is expected from June 2025 to May 2027.
+
+Constellation Mining operates at the Cook Colliery site in Queensland (Qld). They produce mesh products for coal mining, with a load size of 480.0. Production is reported to be located in Malaysia, and the depot is in Brisbane. No production is expected from June 2025 to May 2027.
+
+Constellation Mining operates at the Cook Colliery site in Queensland (Qld). They produce mesh products for coal mining, with a load size of 3000.0. Production is reported to be located in Malaysia, and the depot is in Brisbane. No production is expected from June 2025 to May 2027.
+
+Jennmar operates at the Cooranbong site in New South Wales (NSW). They produce mesh products for coal mining, with a load size of 600.0. Production is reported to be located in Malaysia, and the depot is in Brisbane. No production is expected from June 2025 to May 2027.
+
+Jennmar operates at the Cornwall Coal site in New South Wales (NSW). They produce mesh products for coal mining, with a load size of 600.0. Production is reported to be located in Malaysia, and the depot is in Tasmania. Production is expected to be consistent from June 2025 to February 2026, with a volume of 800.0 units per month.
+
+Jennmar operates at the Crinum site in Queensland (Qld). They produce mesh products for coal mining, with a load size of 480.0. Production is reported to be located in Malaysia, and the depot is in Brisbane. Production is expected to be consistent from June 2025 to January 2027, with a volume of 960.0 units per month.
+
+Jennmar operates at the Crinum site in Queensland (Qld). They produce mesh products for coal mining, with a load size of 480.0. Production is reported to be located in Malaysia, and the depot is in Brisbane. Production is expected to be consistent from June 2025 to May 2027, with a volume of 2400.0 units per month.
+
+Jennmar operates at the Crinum site in Queensland (Qld). They produce mesh products for coal mining, with a load size of 3000.0. Production is reported to be located in Malaysia, and the depot is in Brisbane. Production is expected to be inconsistent from June 2025 to May 2027, with peaks of 3000.0 and 3000.0 units in June and October 2025, respectively.
+
+Splitset SLR operates at the Daisy Milano site in Western Australia (WA). They produce mesh products for hardrock mining using Perth Mesh, with a load size of 700.0. Production is reported to be located in Perth, and the depot is in Perth. No production is expected from June 2025 to May 2027.
+
+Jennmar operates at the Darlot site in Western Australia (WA). They produce mesh products for hardrock mining using Perth Mesh, with a load size of 700.0. Production is reported to be located in Perth, and the depot is in Perth. Production is expected to be consistent from June 2025 to February 2027, with a volume of 100.0 units per month.
+
+Jennmar operates at the Darlot site in Western Australia (WA). They produce mesh products for hardrock mining using Perth Mesh, with a load size of 600.0. Production is reported to be located in Perth, and the depot is in Perth. Production is expected to be consistent from June 2025 to February 2027, with a volume of 500.0 units per month.
+
+Jennmar operates at the Darlot site, producing Hardrock products categorized as Mesh with the Perth Mesh mine type. The product code is CCP45241010056G, with a load size of 550.0. Production occurs in Western Australia, and the depot is located in Perth. The production volume is consistently reported at 217 units from June 2025 to December 2025, then drops to zero from January 2026 onwards.
+
+Jennmar also operates at the Darlot site, producing Hardrock products categorized as Mesh with the Perth Mesh mine type. The product code is CCP50241010056G, with a load size of 400.0. Production occurs in Western Australia, and the depot is located in Perth. The production volume is consistently reported at 300 units from June 2025 to December 2025, then drops to zero from January 2026 onwards.
+
+Jennmar operates at the Dartbrook Mine site, producing Coal products categorized as Mesh with the Malaysia Mesh mine type. The product code is SMB5612101005, with a load size of 600.0. Production occurs in Malaysia, and the depot is located in Brisbane. There is no reported production from June 2025 to May 2027.
+
+Splitset SLR operates at the Deflector site, producing Hardrock products categorized as Mesh with the Perth Mesh mine type. The product code is CCP35241010056G, with a load size of 700.0. Production occurs in Western Australia, and the depot is located in Perth. The production volume is reported at 116 units from June 2025 to December 2025, then drops to zero from January 2026 onwards.
+
+Splitset SLR operates at the Deflector site, producing Hardrock products categorized as Mesh with the Perth Mesh mine type. The product code is CCP40241010056G, with a load size of 600.0. Production occurs in Western Australia, and the depot is located in Perth. The production volume is reported at 100 units from June 2025 to December 2025, then drops to zero from January 2026 onwards.
+
+Splitset SLR operates at the Deflector site, producing Hardrock products categorized as Mesh with the Perth Mesh mine type. The product code is CCP45241010056G, with a load size of 550.0. Production occurs in Western Australia, and the depot is located in Perth. There is no reported production from June 2025 to May 2027.
+
+Splitset MMG operates at the Dugald River site, producing Hardrock products categorized as Mesh with the Malaysia Mesh mine type. The product code is CCP48241010056G, with a load size of 550.0. Production occurs in Malaysia, and the depot is located in Brisbane. There is no reported production from June 2025 to May 2027.
+
+Jennmar operates at the Endeavour Mine site, producing Hardrock products categorized as Mesh with the Perth Mesh mine type. The product code is CCP40241010056G, with a load size of 600.0. Production occurs in Western Australia, and the depot is located in Adelaide. The production volume is reported at 1200 units in June 2025, 1600 units in July and August 2025, 1200 units in October 2025, and 1600 units in November and December 2025. There is no reported production from January 2026 onwards.
+
+Jennmar operates at the Ensham site, producing Coal products categorized as Mesh with the Malaysia Mesh mine type. The product code is SMB5002101004, with a load size of 3000.0. Production occurs in Malaysia, and the depot is located in Brisbane. The production volume is reported at 1800 units in July 2025 and 1800 units in November 2025. There is no reported production from December 2025 to May 2027.
+
+Jennmar operates at the Ensham site, producing Coal products categorized as Mesh with the Malaysia Mesh mine type. The product code is SMB5112151504, with a load size of 540.0. Production occurs in Malaysia, and the depot is located in Brisbane. The production volume is reported at 1080 units from June 2025 to December 2025, then drops to zero from January 2026 onwards.
+
+Jennmar operates at the Ensham site, producing Coal products categorized as Mesh with the Malaysia Mesh mine type. The product code is SMB5118151505, with a load size of 540.0. Production occurs in Malaysia, and the depot is located in Brisbane. The production volume is reported at 1651 units in June 2025, 1928 units in July 2025, 1982 units in August and September 2025, 1651 units in October 2025, and 1928 units in November and December 2025. There is no reported production from January 2026 onwards.
+
+Paddington Gold operates at the Federal site, producing Hardrock products categorized as Mesh with the Perth Mesh mine type. The product code is CCP45241010056G, with a load size of 550.0. Production occurs in Western Australia, and the depot is located in Perth. There is no reported production from June 2025 to May 2027.
+
+DSI operates at the Fero site, producing Coal products categorized as Mesh with the Ausro Straps mine type. The product code is JOS6003G, with a load size of 600.0. Production occurs in Western Australia, and the depot is located in Perth. There is no reported production from June 2025 to May 2027.
+
+DSI Mammoth operates at the Fero Narangba site, producing Coal products categorized as Mesh with the Malaysia Mesh mine type. The product code is SMB5616151005, with a load size of 600.0. Production occurs in Malaysia, and the depot is located in Brisbane. The production volume is reported at 1920 units from June 2025 to December 2025, then drops to zero from January 2026 onwards.
+
+DSI operates at the Fero Narangba site, producing Coal products categorized as Mesh with the Ausro Straps mine type. The product code is JOS3003B, with a load size of 600.0. Production occurs in Malaysia, and the depot is located in Brisbane. There is no reported production from June 2025 to May 2027.
+
+DSI operates at the Fero Narangba site, producing Coal products categorized as Mesh with the Ausro Straps mine type. The product code is JOS4003B, with a load size of 600.0. Production occurs in Malaysia, and the depot is located in Brisbane. There is no reported production from June 2025 to May 2027.
+
+DSI operates at the Fero Narangba site, producing Coal products categorized as Mesh with the Ausro Straps mine type. The product code is JOS5803B, with a load size of 600.0. Production occurs in Malaysia, and the depot is located in Brisbane. There is no reported production from June 2025 to May 2027.
+
+DSI operates at the Fero Narangba site, producing Coal products categorized as Mesh with the Ausro Straps mine type. The product code is JOS6000B, with a load size of 600.0. Production occurs in Malaysia, and the depot is located in Brisbane. There is no reported production from June 2025 to May 2027.
+
+DSI operates at the Fero Narangba site, producing Coal products categorized as Mesh with the Ausro Straps mine type. The product code is JOS6003G, with a load size of 600.0. Production occurs in Malaysia, and the depot is located in Brisbane. There is no reported production from June 2025 to May 2027.
+
+Jennmar operates at the Fish site, producing Hardrock products categorized as Mesh with the Perth Mesh mine type. The product code is CCP40241010056G, with a load size of 600.0. Production occurs in Western Australia, and the depot is located in Perth. There is no reported production from June 2025 to May 2027.
+
+Jennmar operates at the Granny Smith site in Western Australia, producing Hardrock Mesh products. The company's product code CCP50241010056G has a load size of 400.0 and is produced in Perth, with deliveries reported from Perth depot. Production is expected to continue through 2025 and 2026, with consistent monthly volumes of 1600.0 units from June 2025 to February 2026.
+
+Jennmar continues its operations at the Granny Smith site in Western Australia, with product code CCP45241010056G. This product has a load size of 550.0 and is also produced in Perth, with deliveries reported from Perth depot. Production is expected to continue through 2025 and 2026, with consistent monthly volumes of 150.0 units from June 2025 to February 2026.
+
+Jennmar operates at the Granny Smiths site in Western Australia, producing Hardrock Mesh products. The company's product code CCP45241010056G has a load size of 550.0 and is produced in Perth, with deliveries reported from Perth depot. Production is expected to continue through 2025 and 2026, with no reported volumes.
+
+Jennmar operates at the Granny Smiths site in Western Australia, producing Hardrock Mesh products. The company's product code CCP45241010056G has a load size of 550.0 and is produced in Perth, with deliveries reported from Perth depot. Production is expected to continue through 2025 and 2026, with no reported volumes.
+
+Jennmar operates at the Granny Smiths site in Western Australia, producing Hardrock Mesh products. The company's product code CCP50241010056G has a load size of 400.0 and is produced in Perth, with deliveries reported from Perth depot. Production is expected to continue through 2025 and 2026, with no reported volumes.
+
+Jennmar operates at the Granny Smiths site in Western Australia, producing Hardrock Mesh products. The company's product code MS50241010056G has a load size of 400.0 and is produced in Perth, with deliveries reported from Perth depot. Production is expected to continue through 2025 and 2026, with no reported volumes.
+
+Jennmar operates at the Granny Smiths site in Western Australia, producing Hardrock Mesh products. The company's product code MS5H45241010G has a load size of 550.0 and is produced in Perth, with deliveries reported from Perth depot. Production is expected to continue through 2025 and 2026, with no reported volumes.
+
+Jennmar operates at the Granny Smiths site in Western Australia, producing Hardrock Mesh products. The company's product code SMF30240505004G has a load size of 800.0 and is produced in Perth, with deliveries reported from Perth depot. Production is expected to continue through 2025 and 2026, with no reported volumes.
+
+Jennmar operates at the Granny Smiths site in Western Australia, producing Hardrock Mesh products. The company's product code SMF30241010056G has a load size of 800.0 and is produced in Perth, with deliveries reported from Perth depot. Production is expected to continue through 2025 and 2026, with no reported volumes.
+
+Jennmar NSRL operates at the Griffin site in Western Australia, producing Hardrock Mesh products. The company's product code CCP45241010056G has a load size of 550.0 and is produced in Perth, with deliveries reported from Perth depot. Production is expected to continue through 2025 and 2026, with consistent monthly volumes of 150.0 units from June 2025 to February 2026.
+
+Jennmar operates at the Jennmar site in Western Australia, producing Hardrock Mesh products. The company's product code SMF30241010056G has a load size of 800.0 and is produced in Perth, with deliveries reported from Perth depot. Production is expected to continue through 2025 and 2026, with no reported volumes.
+
+Jet Engineering operates at the Jet Eng site in Queensland, producing Hardrock Mesh products. The company's product code SMESH300011704 has a load size of 2400.0 and is produced in Malaysia, with deliveries reported from Brisbane depot. Production is expected to continue through 2025 and 2026, with no reported volumes.
+
+Jennmar operates at the Kanowna Belle site in Western Australia, producing Hardrock Mesh products. The company's product code CCP42241010056G has a load size of 550.0 and is produced in Perth, with deliveries reported from Perth depot. Production is expected to continue through 2025 and 2026, with no reported volumes.
+
+Splitset operates at the King of the Hills site in Western Australia, producing Hardrock Mesh products. The company's product code CCP45241010056G has a load size of 550.0 and is produced in Perth, with deliveries reported from Perth depot. Production is expected to continue through 2025 and 2026, with no reported volumes.
+
+Splitset operates at the King of the Hills site in Western Australia, producing Hardrock Mesh products. The company's product code SMF45171010056G has a load size of 700.0 and is produced in Perth, with deliveries reported from Perth depot. Production is expected to continue through 2025 and 2026, with no reported volumes.
+
+Splitset EVL operates at the Kundana site in Western Australia, producing Hardrock Mesh products. The company's product code CCP45241010056G has a load size of 550.0 and is produced in Perth, with deliveries reported from Perth depot. Production is expected to continue through 2025 and 2026, with no reported volumes.
+
+Splitset EVL operates at the Kundana site in Western Australia, producing Hardrock Mesh products. The company's product code JOS6000B has a load size of 0.0 and is produced in Perth, with deliveries reported from Perth depot. Production is expected to continue through 2025 and 2026, with no reported volumes.
+
+Splitset Glencore operates at the Lady Loretta site in Queensland, producing Hardrock Mesh products. The company's product code CCP48241010056G has a load size of 550.0 and is produced in Malaysia, with deliveries reported from Brisbane depot. Production is expected to continue through 2025 and 2026, with no reported volumes.
+
+Jennmar operates at the Linden Gold site in Western Australia, producing Hardrock Mesh products. The company's product code CCP40241010056G has a load size of 600.0 and is produced in Perth, with deliveries reported from Perth depot. Production is expected to continue through 2025 and 2026, with no reported volumes.
+
+Jennmar operates at the Linden Gold site in Western Australia, producing Hardrock Mesh products. The company's product code SMF45171010056G has a load size of 700.0 and is produced in Perth, with deliveries reported from Perth depot. Production is expected to continue through 2025 and 2026, with no reported volumes.
+
+Jennmar operates at the Mako site in Western Australia, producing Hardrock products categorized as Mesh with a Perth Mesh mine type. The product code is CCP45241010056G, with a load size of 550.0. Production is reported from Perth, with depots also located in Perth. The production schedule shows consistent output of 250.0 units from June 2025 to December 2025, followed by zero units until January 2027.
+
+Jennmar continues operations at the Mako site, producing Hardrock products categorized as Mesh with a Perth Mesh mine type. The product code is SMF30241010056G, with a load size of 800.0. Production is reported from Perth, with depots also located in Perth. There is no production recorded from June 2025 to May 2027.
+
+DSI Mammoth operates at the Mammoth site in Queensland, producing Coal products categorized as Mesh with a Malaysia Mesh mine type. The product code is SMB5716151005G, with a load size of 600.0. Production is reported from Malaysia, with depots in Brisbane. The production schedule shows significant output from June 2025 to November 2025, with lower volumes in December 2025 and January 2026.
+
+DSI Mammoth continues operations at the Mammoth site in Queensland, producing Coal products categorized as Mesh with a Malaysia Mesh mine type. The product code is SMB5716151005, with a load size of 600.0. Production is reported from Malaysia, with depots in Brisbane. The production schedule shows high output from June 2025 to October 2025, with lower volumes in November 2025 and December 2025.
+
+DSI Mammoth operates at the Mammoth site in Queensland, producing Coal products categorized as Mesh with a Malaysia Mesh mine type. The product code is SMF3H24171010G, with a load size of 600.0. Production is reported from Malaysia, with depots in Brisbane. The production schedule shows significant output from July 2025 to October 2025, with lower volumes in November 2025 and December 2025.
+
+Jennmar operates at the Mandalay site in New South Wales, producing Hardrock products categorized as Mesh with a Malaysia Mesh mine type. The product code is CCP45241010056G, with a load size of 550.0. Production is reported from Malaysia, with depots in Brisbane. The production schedule shows inconsistent output from July 2025 to November 2025, with zero units until January 2027.
+
+Jennmar operates at the Mandalong site in New South Wales, producing Coal products categorized as Mesh with a Malaysia Mesh mine type. The product code is SMB5414101005C, with a load size of 480.0. Production is reported from Malaysia, with depots in Brisbane. There is no production recorded from June 2025 to May 2027.
+
+Jennmar continues operations at the Mandalong site in New South Wales, producing Coal products categorized as Mesh with a Malaysia Mesh mine type. The product code is SMB5612101005, with a load size of 600.0. Production is reported from Malaysia, with depots in Brisbane. The production schedule shows consistent output from June 2025 to October 2025, with zero units until January 2027.
+
+Jennmar operates at the Moolarben site in New South Wales, producing Coal products categorized as Mesh with a Malaysia Mesh mine type. The product code is CC5014101005, with a load size of 3000.0. Production is reported from Malaysia, with depots in Brisbane. There is no production recorded from June 2025 to May 2027.
+
+Jennmar continues operations at the Moolarben site in New South Wales, producing Coal products categorized as Mesh with a Malaysia Mesh mine type. The product code is SMB5113515105S, with a load size of 396.0. Production is reported from Malaysia, with depots in Brisbane. The production schedule shows significant output from June 2025 to February 2026, with zero units until January 2027.
+
+Jennmar operates at the Moolarben site in New South Wales, producing Coal products categorized as Mesh with a Malaysia Mesh mine type. The product code is SMF2214101004, with a load size of 3000.0. Production is reported from Malaysia, with depots in Brisbane. The production schedule shows consistent output from June 2025 to February 2026, with zero units until January 2027.
+
+Jennmar continues operations at the Moolarben site in New South Wales, producing Coal products categorized as Mesh with a Malaysia Mesh mine type. The product code is SMF3H24125050G, with a load size of 3000.0. Production is reported from Malaysia, with depots in Brisbane. There is no production recorded from June 2025 to May 2027.
+
+Jennmar operates at the Narrabri site in New South Wales, producing Coal products categorized as Mesh with a Malaysia Mesh mine type. The product code is CC2015101004G, with a load size of 3000.0. Production is reported from Malaysia, with depots in Brisbane. The production schedule shows significant output from June 2025 to February 2026, with zero units until January 2027.
+
+Jennmar continues operations at the Narrabri site in New South Wales, producing Coal products categorized as Mesh with a Malaysia Mesh mine type. The product code is CC5014101005, with a load size of 480.0. Production is reported from Malaysia, with depots in Brisbane. The production schedule shows significant output from June 2025 to February 2026, with zero units until January 2027.
+
+Jennmar operates at the Narrabri site in New South Wales, producing Coal products categorized as Mesh with a Malaysia Mesh mine type. The product code is SMB5016151005S, with a load size of 480.0. Production is reported from Malaysia, with depots in Brisbane. There is no production recorded from June 2025 to May 2027.
+
+Jennmar operates at the North Parkes site in New South Wales, producing Hardrock products categorized as Mesh with a Malaysia Mesh mine type. The product code is CCP40241010056G, with a load size of 600.0. Production is reported from Malaysia, with depots in Brisbane. The production schedule shows significant output from June 2025 to February 2026, with zero units until January 2027.
+
+Jennmar continues operations at the North Parkes site in New South Wales, producing Hardrock products categorized as Mesh with a Malaysia Mesh mine type. The product code is CC402410105, with a load size of 600.0. Production is reported from Malaysia, with depots in Brisbane. The production schedule shows consistent output from June 2025 to February 2026, with zero units until January 2027.
+
+Jennmar operates at the Northparkes site in New South Wales, producing Hardrock products categorized as Mesh with a Malaysia Mesh mine type. The product code is CCP45241010056G, with a load size of 550.0. Production is reported from Malaysia, with depots in Brisbane. The production schedule shows significant output from June 2025 to February 2026, with zero units until January 2027.
+
+Jennmar NSRL operates at the NSR site in Western Australia, producing Hardrock products categorized as Mesh with a Perth Mesh mine type. The product code is CCP42241010056G, with a load size of 550.0. Production is reported from Perth, with depots in Perth. There is no production recorded from June 2025 to May 2027.
+
+Jennmar NSRL continues operations at the NSR FIM site in Western Australia, producing Hardrock products categorized as Mesh with a Perth Mesh mine type. The product code is CCP42241010056G, with a load size of 550.0. Production is reported from Perth, with depots in Perth. There is no production recorded from June 2025 to May 2027.
+
+Jennmar NSRL operates at the NSR KB site, producing Hardrock Mesh products in the Perth Mesh type. The product code is CCP42241010056G, with a load size of 550.0. Production occurs in Perth, and the depot is also in Perth. No shipments are reported from June 2025 to May 2027.
+
+Jennmar NSRL also operates at the NSR MTC site, with identical product specifications and production details. No shipments are reported from June 2025 to May 2027.
+
+BHP operates at the Olympic Dam site, producing Hardrock Mesh products in the Malaysia Mesh type. The product code is CCP45241010056G, with a load size of 550.0. Production occurs in Malaysia, and the depot is in Adelaide. Shipment volumes are reported as follows: 550.0 in June 2025, 1100.0 in July to October 2025, and 1100.0 in December 2025 to January 2026. No shipments are reported from February 2026 to May 2027.
+
+BHP continues operations at the Olympic Dam site with another product code, SMB4H50241010, with a load size of 500.0. Production occurs in Malaysia, and the depot is in Adelaide. Shipment volumes are reported as follows: 1200.0 in July to November 2025, and 1800.0 in August to September 2025. No shipments are reported from October 2025 to May 2027.
+
+Jennmar operates at the Olympic Dam site, producing Hardrock Mesh products in the Perth Mesh type. The product code is SMESH300011704, with a load size of 2400.0. Production occurs in Perth, and the depot is in Adelaide. Shipment volumes are reported as follows: 1200.0 in June to November 2025, and 1200.0 in January 2026. No shipments are reported from February 2026 to May 2027.
+
+BHP continues operations at the Olympic Dam site with another product code, SMF5H45181010G, with a load size of 700.0. Production occurs in Perth, and the depot is in Perth. No shipments are reported from June 2025 to May 2027.
+
+Splitset SSMS operates at the Phoenix Metalform site, producing Hardrock Mesh products in the Perth Mesh type. The product code is CCP45241010056G, with a load size of 550.0. Production occurs in Perth, and the depot is in Perth. Shipment volumes are reported as follows: 2816.0 in June to December 2025, and 2816.0 in January 2026. No shipments are reported from February 2026 to May 2027.
+
+Splitset SSMS continues operations at the Phoenix Metalform site with another product code, JOS3003B, with a load size of 0.0. Production occurs in Perth, and the depot is in Perth. No shipments are reported from June 2025 to May 2027.
+
+Splitset SSMS continues operations at the Phoenix Metalform site with another product code, JOS3003G, with a load size of 0.0. Production occurs in Perth, and the depot is in Perth. No shipments are reported from June 2025 to May 2027.
+
+Splitset SSMS continues operations at the Phoenix Metalform site with another product code, JOS4003G, with a load size of 0.0. Production occurs in Perth, and the depot is in Perth. No shipments are reported from June 2025 to May 2027.
+
+Splitset SSMS continues operations at the Phoenix Metalform site with another product code, JOS6000B, with a load size of 0.0. Production occurs in Perth, and the depot is in Perth. No shipments are reported from June 2025 to May 2027.
+
+Splitset SSMS continues operations at the Phoenix Metalform site with another product code, JOS6003G, with a load size of 0.0. Production occurs in Perth, and the depot is in Perth. No shipments are reported from June 2025 to May 2027.
+
+Splitset SLR operates at the Phoenix Metalform site, producing Hardrock Mesh products in the Perth Mesh type. The product code is SMF45171010056G, with a load size of 700.0. Production occurs in Perth, and the depot is in Perth. Shipment volumes are reported as follows: 200.0 in June to December 2025, and 200.0 in January 2026. No shipments are reported from February 2026 to May 2027.
+
+Splitset operates at the Plutonic site, producing Hardrock Mesh products in the Perth Mesh type. The product code is CCP45241010056G, with a load size of 550.0. Production occurs in Perth, and the depot is in Perth. No shipments are reported from June 2025 to May 2027.
+
+Jennmar operates at the Pogo site, producing Hardrock Mesh products in the Perth Mesh type. The product code is CCP45241010056G, with a load size of 550.0. Production occurs in Perth, and the depot is in Perth. No shipments are reported from June 2025 to May 2027.
+
+Jennmar NSRL operates at the Porphyry Mine site, producing Hardrock Mesh products in the Perth Mesh type. The product code is CCP45241010056G, with a load size of 550.0. Production occurs in Perth, and the depot is in Perth. No shipments are reported from June 2025 to May 2027.
+
+Splitset EVL operates at the Raleigh site, producing Hardrock Mesh products in the Perth Mesh type. The product code is CCP40241010056G, with a load size of 600.0. Production occurs in Perth, and the depot is in Perth. No shipments are reported from June 2025 to May 2027.
+
+Splitset EVL continues operations at the Raleigh site with another product code, CCP45241010056G, with a load size of 550.0. Production occurs in Perth, and the depot is in Perth. No shipments are reported from June 2025 to May 2027.
+
+Jennmar operates at the Ramone Mine Site, producing Hardrock Mesh products in the Perth Mesh type. The product code is CCP40241010056G, with a load size of 600.0. Production occurs in Perth, and the depot is in Perth. No shipments are reported from June 2025 to May 2027.
+
+Jennmar NSRL continues operations at the Ramone Mine Site with another product code, CCP42241010056G, with a load size of 550.0. Production occurs in Perth, and the depot is in Perth. Shipment volumes are reported as follows: 717.0 in June to November 2025, and 717.0 in January 2026. No shipments are reported from February 2026 to May 2027.
+
+Jennmar operates at the Ramone Mine Site in Western Australia, producing mesh products with a load size of 550.0. The production location is Perth, and the depot is also located in Perth. No production is expected from June 2025 to May 2027.
+
+Jennmar supplies mesh products at the Red Path site in Western Australia, with a load size of 2400.0. The production location is Perth, and the depot is also in Perth. No production is expected from June 2025 to May 2027.
+
+Splitset EVL operates at the RHP site in Western Australia, producing mesh products with a load size of 550.0. The production location is Perth, and the depot is also in Perth. Production is expected to be consistent from June 2025 to November 2025, with 733 units reported each month. No production is expected from December 2025 to May 2027.
+
+Splitset SLR operates at the Rothsay site in Western Australia, producing mesh products with a load size of 550.0. The production location is Perth, and the depot is also in Perth. No production is expected from June 2025 to May 2027.
+
+Jennmar operates at the Second Fortune site in Western Australia, producing mesh products with a load size of 800.0. The production location is Perth, and the depot is also in Perth. No production is expected from June 2025 to May 2027.
+
+Jennmar operates at the Smeaton Grange site in New South Wales, producing mesh products with a load size of 2400.0. The production location is Malaysia, and the depot is in Brisbane. No production is expected from June 2025 to May 2027.
+
+Jennmar operates at the Smeaton Grange site in New South Wales, producing mesh products with a load size of 2400.0. The production location is Perth, and the depot is in Brisbane. No production is expected from June 2025 to May 2027.
+
+Jennmar operates at the Spotted Quoll site in Western Australia, producing mesh products with a load size of 800.0. The production location is Perth, and the depot is also in Perth. No production is expected from June 2025 to May 2027.
+
+Jennmar operates at the Stawell site in New South Wales, producing mesh products with a load size of 550.0. The production location is Perth, and the depot is in Adelaide. Production is expected to be consistent from June 2025 to October 2025, with 800 units reported each month. No production is expected from November 2025 to May 2027.
+
+Jennmar NSRL operates at the Thunderbox site in Western Australia, producing mesh products with a load size of 550.0. The production location is Perth, and the depot is also in Perth. No production is expected from June 2025 to May 2027.
+
+Jennmar NSRL operates at the Thunderbox site in Western Australia, producing mesh products with a load size of 550.0. The production location is Perth, and the depot is also in Perth. No production is expected from June 2025 to May 2027.
+
+Jennmar operates at the Tomingley site in New South Wales, producing mesh products with a load size of 550.0. The production location is Perth, and the depot is in Brisbane. Production is expected to be consistent from June 2025 to November 2025, with 350 units reported each month. No production is expected from December 2025 to May 2027.
+
+Jennmar operates at the Tomingley site in New South Wales, producing mesh products with a load size of 550.0. The production location is Malaysia, and the depot is in Brisbane. Production is expected to be consistent from June 2025 to November 2025, with varying monthly reports: 1800, 1600, 1600, 1600, 1800, 1600, 1600. No production is expected from December 2025 to May 2027.
+
+Splitset Mining Systems operates at the Tropicana site in Western Australia, producing mesh products with a load size of 700.0. The production location is Perth, and the depot is also in Perth. No production is expected from June 2025 to May 2027.
+
+Jennmar operates at the Two Boys Higginsville site in Western Australia, producing mesh products with a load size of 800.0. The production location is Perth, and the depot is also in Perth. Production is expected to be consistent from June 2025 to February 2026, with 67 units reported each month. No production is expected from March 2026 to May 2027.
+
+Jennmar operates at the Two Boys Higginsville site in Western Australia, producing mesh products with a load size of 550.0. The production location is Perth, and the depot is also in Perth. Production is expected to be consistent from June 2025 to February 2026, with 250 units reported each month. No production is expected from March 2026 to May 2027.
+
+Jennmar operates at the Two Boys Higginsville site in Western Australia, producing mesh products with a load size of 800.0. The production location is Perth, and the depot is also in Perth. No production is expected from June 2025 to May 2027.
+
+Jennmar operates at the Two Boys Higginsville site in Western Australia, producing mesh products with a load size of 700.0. The production location is Perth, and the depot is also in Perth. No production is expected from June 2025 to May 2027.
+
+Jennmar NSRL operates at the Wonder site in Western Australia, producing mesh products with a load size of 550.0. The production location is Perth, and the depot is also in Perth. Production is expected to be consistent from June 2025 to February 2026, with 167 units reported each month. No production is expected from March 2026 to May 2027.
+
+Jennmar NSRL operates at the Wonder site in Western Australia, producing mesh products with a load size of 550.0. The production location is Perth, and the depot is also in Perth. Production is expected to be consistent from June 2025 to February 2026, with 1117 units reported each month. No production is expected from March 2026 to May 2027.
+
+ABEL site in New South Wales produces Coal with product code JLD120025FS55.
+
+ABEL site in New South Wales produces Coal with product code JK15150538RWG.
+
+ABEL site in New South Wales produces Coal with product code JWW280300G.
+
+ABEL site in New South Wales produces Coal with product code JX2421BP3G.
+
+ASHTON COAL OPERATIONS P/L JA0, located in Ashton, New South Wales, produces Coal with product code ASHPOD, described as POD STEEL 1.8M BOLTS. The company forecasts a production of 45 units in June 2025, decreasing to 35 units in January 2026.
+
+ASHTON COAL OPERATIONS P/L JA0, located in Ashton, New South Wales, produces Coal with product code BRACKET1, described as HANGING BRACKET - 1 KEY H. The company plans to produce 500 units in June 2025, reducing to 300 units in July 2025, then increasing back to 500 units in October 2025.
+
+ASHTON COAL OPERATIONS P/L JA0, located in Ashton, New South Wales, produces Coal with product code BRACKET1C, described as HANGING BRACKET - 1 KEY H. The company will produce 150 units consistently from June 2025 to January 2026.
+
+ASHTON COAL OPERATIONS P/L JA0, located in Ashton, New South Wales, produces Coal with product code BRACKET3C, described as HANGING BRACKET - 3 KEY H. The company will produce 200 units consistently from June 2025 to January 2026.
+
+ASHTON COAL OPERATIONS P/L JA0, located in Ashton, New South Wales, produces Coal with product code BW218MMD, described as BARREL & WEDGE TO SUIT 21. There are no planned productions for this product from June 2025 to January 2026.
+
+ASHTON COAL OPERATIONS P/L JA0, located in Ashton, New South Wales, produces Coal with product code FRASP2802, described as PLASTIC MESH 28.00M X 2.0. The company plans to produce 4 units in June 2025, increasing to 5 units in July 2025, then decreasing back to 4 units in December 2025.
+
+ASHTON COAL OPERATIONS P/L JA0, located in Ashton, New South Wales, produces Coal with product code HIPP230R, described as PLASTIC PLATE 230MM DIA R. The company plans to produce 1500 units consistently from June 2025 to January 2026.
+
+ASHTON COAL OPERATIONS P/L JA0, located in Ashton, New South Wales, produces Coal with product code JBS2412BPR, described as JBS M24X1.2M DOME BALL RE. The company plans to produce 2500 units consistently from June 2025 to January 2026.
+
+ASHTON COAL OPERATIONS P/L JA0, located in Ashton, New South Wales, produces Coal with product code JBS2418BP3, described as Bolt TT M24 x 1.8 JBSDBW. The company plans to produce 200 units in July 2025 and November 2025, then 0 units in August 2025, September 2025, October 2025, and December 2025.
+
+ASHTON COAL OPERATIONS P/L JA0, located in Ashton, New South Wales, produces Coal with product code JCB22041, described as CABLE SUPERSTRAND 21.8MM. There are no planned productions for this product from June 2025 to January 2026.
+
+ASHTON COAL OPERATIONS P/L JA0, located in Ashton, New South Wales, produces Coal with product code JCB22041TEX, described as CABLE SUPERSTRAND 21.8MM TEX. The company plans to produce 150 units consistently from June 2025 to January 2026.
+
+ASHTON COAL OPERATIONS P/L JA0, located in Ashton, New South Wales, produces Coal with product code JCB22061TEX, described as CABLE SUPERSTRAND 21.8MM TEX. The company plans to produce 100 units in June 2025, 100 units in August 2025, and 100 units in October 2025, then 0 units in July 2025, September 2025, and December 2025.
+
+ASHTON COAL OPERATIONS P/L JA0, located in Ashton, New South Wales, produces Coal with product code JFG221200XHTH, described as F/G BOLT 22MMX1200MM XHT. The company plans to produce 1000 units consistently from June 2025 to January 2026.
+
+ASHTON COAL OPERATIONS P/L JA0, located in Ashton, New South Wales, produces Coal with product code JFG221800XHTH, described as F/G BOLT 22MMX1800MM XHT. There are no planned productions for this product from June 2025 to January 2026.
+
+ASHTON COAL OPERATIONS P/L JA0, located in Ashton, New South Wales, produces Coal with product code JFM2415101004, described as F/Glas Mesh 2400*1500*4mm. There are no planned productions for this product from June 2025 to January 2026.
+
+ASHTON COAL OPERATIONS P/L JA0, located in Ashton, New South Wales, produces Coal with product code JK15150538RW, described as KANGA PLATE 150X150X5MM 3. The company plans to produce 1960 units consistently from June 2025 to January 2026.
+
+ASHTON COAL OPERATIONS P/L JA0 operates at the Ashton site in New South Wales. They produce various products including Coal, Cable, Mesh, and Plates. In June 2025, they reported zero units for products such as J-LOK 5* PG CABLE 800X36M (product_code: JL5PG120036MR) and J-LOK 5 STAR SINGLE 440X2 (product_code: JL5S44025F). For J-LOK 5 STAR TENDON CABLE (product_code: JL5T120025S), they started reporting sales in July 2025 with 250 units. The company also produces PLASTIC MESH SHEET 2.4M X 1500 (product_code: JPMM2415) with consistent monthly sales of 200 units starting from June 2025. VOLCANO PLATE 200X200X12M (product_code: JV20201242R) and VOLCANO PLATE 300X300X12M (product_code: JV30301256GI) show increased sales in July and November 2025, respectively, with 400 and 250 units. BUTTERFLY PLATE 280X300X1 has significant sales from July to December 2025, peaking at 3840 units in August. JX M24X1.8M DOME BALL GREEN (product_code: JX2418BP3) is consistently sold with 300 units each month from June 2025. JX M24X1.8M DOME BALL S P (product_code: JX2418BPS) has no reported sales. Cable 6.2m JW10 (product_code: JCB3110062BWG) shows no sales in the first half of 2025. MESH ROOF 5.00MX1.75M 100 (product_codes: SMB5018101005, SMB5018101005G) and MESH RIB 2.40MX1.50M 100X (product_code: SMF24151010034G) have varying sales patterns, with peaks in July and August 2025. J-LOK SPIN2STALL 1000MM X (product_code: STSA10002555) reports high sales from June to January 2026, with 6300 units each month. Top Down 80MPA Cable Grou (product_code: TD80GROUT) starts reporting sales in June 2025 with 112 units each month. J-LOK H TWIN 2200X25.5MM (product_code: H2200255FXXS37C) shows steady sales from June to January 2026, with peaks in July and September 2025. PLASTIC PLATE 230MM DIA R (product_code: HIPP230R) reports consistent sales of 1000 units each month from June 2025. CABLE  SUPERSTRAND 21.8MM (product_code: JCB22038TOS) starts reporting sales in June 2025 with fluctuations in sales throughout the year.
+
+CENTENNIAL AIRLY P/L operates at the Airly Coal site in New South Wales. They produce Cable Superstrands with a product code JCB2206TOS, described as CABLE SUPERSTRAND 21.8MM. The product's demand is expected to peak in January 2026 with a high of 100%.
+
+CENTENNIAL AIRLY P/L also manufactures Dollies with a product code JDO616520TWH, described as DOLLIE 25SQ DRIVE 165MM L. The product's demand shows a steady pattern, with peaks in June, October, and January 2026, reaching a high of 3 units.
+
+CENTENNIAL AIRLY P/L produces another Dollie with a product code JDOTIGER, described as DOLLIE TIGER TO SUIT TOTO. The product's demand remains consistent throughout the period, with a steady count of 2 units from June 2025 to January 2026.
+
+CENTENNIAL AIRLY P/L supplies F/G Bolts with a product code JFG221150BSTH, described as F/G BOLT 22MMX1150MM BLAC. The product's demand is consistently high, with a constant supply of 1000 units from June 2025 to January 2026.
+
+CENTENNIAL AIRLY P/L provides Kanga Plates with a product code JK15150538RW, described as KANGA PLATE 150X150X5MM 3. The product's demand is robust, with a steady supply of 9800 units from June 2025 to January 2026.
+
+CENTENNIAL AIRLY P/L offers J-Lok 5* Dual 880X25MM X- with a product code JL5D88025XFS55, described as J-LOK 5* DUAL 880X25MM X-. The product's demand is moderate, with a consistent supply of 6300 units from June 2025 to January 2026.
+
+CENTENNIAL AIRLY P/L produces J-Lok 5* PG Cables with a product code JL5PG100036MR, described as J-LOK 5* PG CABLE 1000X36. The product's demand fluctuates, with a high in July 2025 and November 2025, reaching a peak of 100%.
+
+CENTENNIAL AIRLY P/L supplies J-Lok Single 600X25MM SLO with a product code JLS60025SH, described as J-LOK SINGLE 600X25MM SLO. The product's demand is low, with a high in September 2025 and January 2026, reaching a peak of 140 units.
+
+CENTENNIAL AIRLY P/L provides Volcano Plates with a product code JV20201242R, described as VOLCANO PLATE 200X200X12M. The product's demand is stable, with a consistent supply of 400 units from June 2025 to January 2026.
+
+CENTENNIAL AIRLY P/L offers Butterfly Plates with a product code JWW280300, described as BUTTERFLY PLATE 280X300X1. The product's demand is high, with a consistent supply of 1920 units from June 2025 to January 2026.
+
+CENTENNIAL AIRLY P/L manufactures Bolt TT M24x0.9JX with a product code JX2409TH, described as Bolt TT M24x0.9JX. The product's demand varies, with peaks in July 2025, September 2025, and January 2026, reaching a high of 100 units.
+
+CENTENNIAL AIRLY P/L supplies JX M24x1.8M Dome Ball Teflon Solid Pin Nut with a product code JX2418BTPS, described as JX M24x1.8M DOME BALL TEF. The product's demand is consistent, with a steady supply of 7250 units from June 2025 to January 2026.
+
+CENTENNIAL AIRLY P/L provides Sentinel Mine Mesh with a product code SMMB4813AIR, described as SENTINEL MINE MESH 4800 x. The product's demand is stable, with a consistent supply of 1080 units from June 2025 to January 2026.
+
+CENTENNIAL AIRLY P/L offers J-Lok Spin2Stall 1400MM X 25MM with a product code STSA14002555, described as J-LOK SPIN2STALL 1400MM X 25MM. The product's demand is moderate, with a consistent supply of 5880 units from June 2025 to January 2026.
+
+CENTENNIAL MANDALONG P/L operates at the Mandalong site in New South Wales. They produce 16MM Grout Guns with a product code GROUTGUN16, described as 16MM GROUT GUN. The product's demand is low, with no supply reported from June 2025 to January 2026.
+
+CENTENNIAL MANDALONG P/L manufactures Hawkeye Bolts with a product code JHE2415BTPS, described as HAWKEYE BOLT M24 x 1.5M D/Ball Teflon Solid Pin Nut. The product's demand is low, with no supply reported from June 2025 to January 2026.
+
+CENTENNIAL MANDALONG P/L supplies Volcano Plates with a product code JV15150646RL, described as Volcano PLATE 150 X 150 X 6MM 46MM HOLE LOOSE. The product's demand is low, with no supply reported from June 2025 to January 2026.
+
+CENTENNIAL MANDALONG P/L provides Kanga Plates with a product code JK15150538RW, described as KANGA PLATE 150X150X5MM 3. The product's demand is high, with a consistent supply of 12000 units from June 2025 to January 2026.
+
+CENTENNIAL MANDALONG P/L offers J-Lok Dual 1200X25MM LV M with a product code JLD120025MVSV46, described as J-LOK DUAL 1200X25MM LV M. The product's demand is low, with no supply reported from June 2025 to January 2026.
+
+CENTENNIAL MANDALONG P/L supplies J-Lok PG Lif Cables with a product code JLLPG120036MR, described as J-LOK PG LIF CABLE 1200X36. The product's demand is moderate, with a consistent supply of 1512 units from June 2025 to January 2026.
+
+Centennial MandalongP/L operates at the Mandalong site in New South Wales, Australia. They produce various coal products including J-LOK SINGLE 650X25MM FAS (product code JLS65025F), which is forecasted to have consistent demand of 8,400 units monthly from June 2025 to January 2026.
+
+Centennial MandalongP/L also manufactures J-LOK TENDON CABLE 1200X2 (product code JLT120025S) for cable applications, but there is no expected demand for this product in the forecast period.
+
+Spin2stall 880mm (product code STSA8802564) is another product category under Centennial MandalongP/L, with no anticipated sales in the forecast period.
+
+JX M24X1.7M DOME BALL S P (product code JX2417BTPS) is projected to sell 12,000 units per month from June 2025 to January 2026.
+
+Centennial MandalongP/L also produces JX M24X1.8M DOME BALL S P (product code JX2418BTPS), but there is no expected demand for this product in the forecast period.
+
+Spin2stall 1000mm (product code STSA10002555) is forecasted to generate steady sales of 10,000 units per month from June 2025 to January 2026.
+
+Sentinel Mine Mesh 4800 x 1200 (product code SMMB4812101004) shows a gradual increase in demand starting from July 2025, with 450 units reported in November 2025.
+
+Sentinel Mine Mesh 5.2 x 1.6 (product code SMMB52161010V) has no expected demand in the forecast period.
+
+5600 x 1200 MINE MESH (product code SMB5612101005) is projected to sell 960 units per month from June 2025 to January 2026.
+
+Centennial Myuna P/L operates at the Myuna site in New South Wales, Australia. They produce JBS M24X1.2M DOME BALL TE (product code JBS2412BTPR), with consistent demand of 1,000 units per month from June 2025 to January 2026.
+
+Cable Superstrands 21.8mm (product codes JCB2204TOS and JCB2206TOS) are forecasted to sell 700 and 300 units respectively, from June 2025 to January 2026.
+
+Dollie 25sq drive 165mm L (product code JDOTIGER) and Dollie 25sq drive 165mm L (product code JDO616520TWH) both report a steady demand of 6 units per month from June 2025 to January 2026.
+
+F/G Bolt 25 x 1200 mm Blu (product code JFG2512STH) is projected to sell 500 units per month from June 2025 to January 2026.
+
+Kanga Plate 150x150x6mm 3 (product code JK15150638RW) is forecasted to generate steady sales of 12,740 units per month from June 2025 to January 2026.
+
+J-LOK SINGLE 440X25MM FAS (product code JLS44025F) is projected to sell 4,480 units per month from June 2025 to January 2026.
+
+Volcano Plate 200x200x12m (product code JV20201242R) reports a fluctuating demand, with 800 units in June, 1,000 units in July, August, and October, and 1,000 units in November and December 2025, and 1,000 units in January 2026.
+
+JX M24X1.8M DOME BALL S P (product code JX2418BPS) is forecasted to sell 9,600 units per month from June 2025 to January 2026.
+
+Rforcing Ribbed Mesh 3.9M (product code SL641) has no expected demand in the forecast period.
+
+Centennial Myuna P/L produces Coal at the Myuna site. They offer products such as Sentinel Mesh 4800 x 1610, which is coded SMMB4816101004. No sales are expected for this product from June 2025 to January 2026.
+
+Centennial Myuna P/L also sells J-LOK SPIN2STALL 1000MM X, coded STSA10002555, at the Myuna site. Sales projections indicate a steady increase from June 2025 to January 2026, with values ranging from 9900.0 to 10800.0.
+
+StrataWeb 150 2.56 x 8.35, coded GEOCELL256835, is another product offered by Centennial Myuna P/L at the Myuna site. It is expected to have consistent sales of 50.0 units from June 2025 to January 2026.
+
+Clarence Colliery P/L operates in the Clarence Colliery site, producing Coal. They supply J-LOK 5* DUAL 1000X25MM S, coded JL5D100025SFS55, with sales projected to remain constant at 11700.0 units from June 2025 to January 2026.
+
+J-LOK 5 STAR TENDON CABLE, coded JL5T120025S, is another product from Clarence Colliery P/L. It is expected to generate 500.0 units of revenue from June 2025 to January 2026.
+
+Clarence Colliery P/L also offers J-LOK SINGLE 440X25MM FAS, coded JLS44025F, but no sales are anticipated from June 2025 to January 2026.
+
+J-LOK SINGLE 650X25MM FAS, coded JLS65025F, is another product from Clarence Colliery P/L. It is expected to generate 440.0 units of revenue from June 2025 to January 2026.
+
+Clarence Colliery P/L provides J-LOK TENDON CABLE 1200X2, coded JLT120025S, with no sales expected from June 2025 to January 2026.
+
+J-LOK TENDON CABLE 880X25, coded JLT88025XXS, is another product from Clarence Colliery P/L. It is expected to generate 0.0 units of revenue from June 2025 to January 2026.
+
+Delta Coal JA357 operates in the Delta Coal site, producing Coal. They supply HB POD 200 JX21BPS, 135 J, coded CVPODHB01, with no sales expected from June 2025 to January 2026.
+
+Delta Coal JA357 also offers POD CUTTABLE 2.1M STEEL, coded CVPODPLAS1, with consistent sales of 70.0 units from June 2025 to January 2026.
+
+Poly Plate Holder, coded CVPPHOLDER, is another product from Delta Coal JA357. It is expected to generate 4.0 units of revenue from June 2025 to January 2026.
+
+Plastic Mesh 28.00M X 2.0, coded FRASP2802, is another product from Delta Coal JA357. It is expected to generate 10.0 units of revenue from June 2025 to January 2026.
+
+200 x 200mm Squ Plastic p, coded HIPSTEELSPP2042, is another product from Delta Coal JA357. It is expected to generate 2000.0 units of revenue from June 2025 to January 2026.
+
+JBS M24X1.2M DOME BALL BL, coded JBS2412BPBR, is another product from Delta Coal JA357. It is expected to generate 200.0 units of revenue from July 2025 to November 2025.
+
+JBS M24X1.5M DOME BALL GR, coded JBS2415BP3TH04, is another product from Delta Coal JA357. No sales are expected from June 2025 to January 2026.
+
+Cable SUPERSTRAND 21.8MM, coded JCB2204TOS, is another product from Delta Coal JA357. It is expected to generate 400.0 units of revenue from June 2025 to January 2026.
+
+Cable SUPERSTRAND 21.8MM, coded JCB2206TOS, is another product from Delta Coal JA357. It is expected to generate 50.0 units of revenue from July 2025 to November 2025.
+
+JW10 6m Hollow, coded JCB3110062G125, is another product from Delta Coal JA357. No sales are expected from June 2025 to January 2026.
+
+Dollie 25SQ DRIVE 165MM L, coded JDO616520TWH, is another product from Delta Coal JA357. It is expected to generate 6.0 units of revenue from June 2025 to January 2026.
+
+Delta Coal operates in the New South Wales region, managing various products including Coal. The company reports that the product JDOTIGER, a DOLLIE TIGER TO SUIT TOTO, is expected to have consistent demand throughout 2025, with a forecast of 4 units per month starting June 2025.
+
+Delta Coal also manages JFG2515STH, a F/G Bolt 25 X 1500 MM Ora, which is projected to maintain a steady supply of 2000 units each month from June 2025 to January 2026.
+
+The product JK15150538RL, a KANGA PLATE 150X150X5MM 3, shows a consistent demand of 980 units in July and November 2025, with peaks in October 2025 and troughs in August and December 2025.
+
+JK20200538H1RW, another KANGA PLATE 200X200X5MM 3, has a stable supply of 600 units each month from June 2025 to January 2026.
+
+JL5PG100036MR, a J-LOK 5* PG CABLE 1000X36, is expected to have a consistent demand of 30 units each month from June 2025 to January 2026.
+
+The product JL5S65025F, a J-LOK DUAL 650X25MM FAST, is forecasted to have a high demand of 84000 units each month from June 2025 to January 2026.
+
+JLS44025S, a J-LOK SINGLE 440X25MM SLO, shows a pattern of low demand in July and October 2025, with spikes in August and November 2025.
+
+JPMM2114, a PLASTIC MESH SHEET 2.1M X, is reported to have no demand from June 2025 to January 2026.
+
+JV20201242C, a VOLCANO PLATE 200X200X14M, is expected to have a consistent supply of 600 units each month from June 2025 to January 2026.
+
+JX2421BPS, a JX M24X2.1M DOME BALL WAS, shows a fluctuating demand pattern with peaks in July and November 2025 and troughs in August and October 2025.
+
+LANYARDSC, a SAFETY LANYARD TO TENSION, has a consistent demand of 2 units each month from June 2025 to January 2026, with a spike in October 2025.
+
+NUTRM24H125DM, a NUT M24 X 125D MOLYCOATED, is expected to have a steady supply of 200 units each month from June 2025 to January 2026.
+
+OPDNW4500, an RIB STRAP HDPE 4500MM X 1, shows a pattern of high demand in June and October 2025, with troughs in July, August, September, and December 2025.
+
+SMMB5016101004, a Sentinel Mine mesh 5000 x 1610 mm 100x100 Apt 4l Wire, is forecasted to have a consistent demand of 1350 units each month from June 2025 to January 2026.
+
+STSZ12002555, a Resin Anchor 1200x25mm ST, is expected to have a high demand of 5040 units each month from June 2025 to January 2026, with a peak in November 2025.
+
+TD80GROUT, a Top Down 80MPA Cable Grou, shows a pattern of low demand in June, August, and October 2025, with a spike in July and September 2025.
+
+TJDA62S, a 10mm Stainless Steel Load, is reported to have no demand from June 2025 to January 2026.
+
+Longwall Bolt-Ups Across All Mines operates at Moolarben mine in New South Wales, producing Coal. The company plans to supply 1.8m mild steel JBS with product code JBS2418BP3, expecting a consistent demand of 1000 units from June 2025 to January 2026.
+
+Longwall Bolt-Ups Across All Mines also operates at Moolarben mine in New South Wales, producing Coal. They plan to supply 2.1m mild steel JBS with product code JBS2421BP3, expecting a consistent demand of 1000 units from June 2025 to January 2026.
+
+Moolarben Coal Operations P/L operates at Moolarben mine in New South Wales, producing Coal. They plan to supply Bottom Up 100MPA Cable Gr with product code BU100GROUT, but have no planned production from June 2025 to January 2026.
+
+Moolarben Coal Operations P/L operates at Moolarben mine in New South Wales, producing Coal. They plan to supply BARREL & WEDGE TO SUIT 21 with product code BW218MMD, expecting a consistent demand of 500 units from June 2025 to January 2026.
+
+Moolarben Coal Operations P/L operates at Moolarben mine in New South Wales, producing Coal. They plan to supply PLASTIC MESH 7.00M X 2.00 with product code FRASP0702, expecting a consistent demand of 10 to 20 units from June 2025 to January 2026.
+
+Moolarben Coal Operations P/L operates at Moolarben mine in New South Wales, producing Coal. They plan to supply 16MM GROUT GUN with product code GROUTGUN16, but have no planned production from June 2025 to January 2026.
+
+Moolarben Coal Operations P/L operates at Moolarben mine in New South Wales, producing Coal. They plan to supply PLASTIC PLATE 230MM DIA R with product code HIPP230R, expecting a consistent demand of 2000 units from June 2025 to January 2026.
+
+Moolarben Coal Operations P/L operates at Moolarben mine in New South Wales, producing Coal. They plan to supply JBS M24X1.2M DOME BALL RE with product code JBS2412BPR, expecting a consistent demand of 5500 units from June 2025 to January 2026.
+
+Moolarben Coal Operations P/L operates at Moolarben mine in New South Wales, producing Coal. They plan to supply JBS M24X1.2M DOME BALL RE GAL with product code JBS2412BPRG, but have no planned production from June 2025 to January 2026.
+
+Moolarben Coal Operations P/L operates at Moolarben mine in New South Wales, producing Coal. They plan to supply JBX M24X1.8M DOME BALL S with product code JBX2418BPS, expecting a consistent demand of 16000 units from June 2025 to January 2026.
+
+Moolarben Coal Operations P/L operates at Moolarben mine in New South Wales, producing Coal. They plan to supply JBX M24X1.8M DOME BALL S GAL with product code JBX2418BPSG, but have no planned production from June 2025 to January 2026.
+
+Moolarben Coal Operations P/L operates at Moolarben mine in New South Wales, producing Coal. They plan to supply JBX M24X2.7M DOME BALL S with product code JBX2427BPS, but have no planned production from June 2025 to January 2026.
+
+Moolarben Coal Operations P/L operates at Moolarben mine in New South Wales, producing Coal. They plan to supply CABLE SUPERSTRAND 21.8MM with product code JCB22041, expecting a consistent demand of 200 units from July 2025 to November 2025.
+
+Moolarben Coal Operations P/L operates at Moolarben mine in New South Wales, producing Coal. They plan to supply CABLE SUPERSTRAND 21.8MM with product code JCB22061, expecting a consistent demand of 500 units from June 2025 to January 2026.
+
+Moolarben Coal Operations P/L operates at Moolarben mine in New South Wales, producing Coal. They plan to supply CABLE SUPERSTRAND 21.8MM with product code JCB2208, but have no planned production from June 2025 to January 2026.
+
+Moolarben Coal Operations P/L operates at Moolarben mine in New South Wales, producing Coal. They plan to supply DOLLIE 25SQ DRIVE 225MM L with product code JDO622528TWH, but have no planned production from June 2025 to January 2026.
+
+Moolarben Coal Operations P/L operates at Moolarben mine in New South Wales, producing Coal. They plan to supply F/G BOLT 22MMX1150MM BLAC with product code JFG221150BSTH, expecting a consistent demand of 3500 units from June 2025 to January 2026.
+
+Moolarben Coal Operations P/L operates at Moolarben mine in New South Wales, producing Coal. They plan to supply J-LOK 5* G DUAL 880X25MM with product code JG5D88025SFS55, expecting a consistent demand of 27000 units from June 2025 to January 2026.
+
+Moolarben Coal Operations P/L operates at Moolarben mine in New South Wales, producing Coal. They plan to supply KANGA PLATE 150X150X6MM 3 with product code JK15150638RW, expecting a consistent demand of 21560 units from June 2025 to January 2026.
+
+Moolarben Coal Operations P/L operates at Moolarben mine in New South Wales, producing Coal. They plan to supply J-LOK 5* PG CABLE 800X36M with product code JL5PG80036MR, but have no planned production from June 2025 to January 2026.
+
+MOOLARBEN COAL OPERATIONS P/L produces J-LOK 5 STAR TENDON CABLE at the Moolarben site in New South Wales. The company reports a consistent demand for this product, with a forecast of 1000 units in June and December 2025, and 500 units in July, August, September, October, and November 2025.
+
+MOOLARBEN COAL OPERATIONS P/L also manufactures PIZZA PAN PLATE 450MM x 450MM at the Moolarben site in New South Wales. There is no expected demand for this product in 2025.
+
+Jennchem Underground Road, identified by the product code JURRGROUT1T, is produced by MOOLARBEN COAL OPERATIONS P/L at the Moolarben site in New South Wales. The company anticipates a steady demand, with 35000 units in June and October 2025, and 15000 units in July, August, September, November, and December 2025.
+
+VOLCANO PLATE 200X200X12M, identified by the product code JV20201242R, is manufactured by MOOLARBEN COAL OPERATIONS P/L at the Moolarben site in New South Wales. The company expects a consistent demand of 600 units per month from June 2025 to January 2026.
+
+BUTTERFLY PLATE 280X300X1, identified by the product code JWW280300, is produced by MOOLARBEN COAL OPERATIONS P/L at the Moolarben site in New South Wales. The company forecasts a demand of 9600 units per month from June 2025 to January 2026.
+
+MESH ROOF 5.10MX1.35M 150, identified by the product code SMB5113515105S, is manufactured by MOOLARBEN COAL OPERATIONS P/L at the Moolarben site in New South Wales. The company reports a consistent demand of 2376 units per month from June 2025 to January 2026.
+
+MESH RIB 2.20MX1.40M 100x, identified by the product code SMF2214101004, is produced by MOOLARBEN COAL OPERATIONS P/L at the Moolarben site in New South Wales. The company anticipates a steady demand of 1000 units per month from June 2025 to January 2026.
+
+Top Down 80MPA Cable Grou, identified by the product code TD80GROUT, is manufactured by MOOLARBEN COAL OPERATIONS P/L at the Moolarben site in New South Wales. There is no expected demand for this product in 2025.
+
+GROUT TUBE 16MM DIA X 300, identified by the product code TUBE16GR, is produced by MOOLARBEN COAL OPERATIONS P/L at the Moolarben site in New South Wales. There is no expected demand for this product in 2025.
+
+NARRABRI COAL OPERATIONS P/L J produces Mesh Rib 2M x 1.5M 100 x, identified by the product code CC2015101004G, at the Narrabri site in New South Wales. The company reports a consistent demand of 6000 units per month from June 2025 to January 2026.
+
+Mesh Roof 5m x 1.4m, identified by the product code CC5014101005, is manufactured by NARRABRI COAL OPERATIONS P/L J at the Narrabri site in New South Wales. The company anticipates a steady demand of 1188 units per month from June 2025 to January 2026.
+
+CCRL918, identified by the product code CCRL918, is produced by NARRABRI COAL OPERATIONS P/L J at the Narrabri site in New South Wales. The company reports a fluctuating demand, with 200 units in June and December 2025, and 400 units in July, August, September, and October 2025.
+
+PLASTIC MESH 28.00M X 2.0, identified by the product code FRASP2214, is manufactured by NARRABRI COAL OPERATIONS P/L J at the Narrabri site in New South Wales. There is no expected demand for this product in 2025.
+
+PLASTIC PLATE 230MM DIA R, identified by the product code HIPP230R, is produced by NARRABRI COAL OPERATIONS P/L J at the Narrabri site in New South Wales. The company reports a consistent demand of 3000 units per month from June 2025 to January 2026.
+
+HIPSTEELSPP2051, identified by the product code HIPSTEELSPP2051, is manufactured by NARRABRI COAL OPERATIONS P/L J at the Narrabri site in New South Wales. The company anticipates a fluctuating demand, with 500 units in July, November, and December 2025, and 0 units in June, August, September, and October 2025.
+
+JBS M24X0.6M 40MM THREADED, identified by the product code JBS2406TH04, is produced by NARRABRI COAL OPERATIONS P/L J at the Narrabri site in New South Wales. The company reports a consistent demand of 100 units in June and July 2025, and 150 units in September and October 2025.
+
+JBS M24X1.1M DOME BALL GR, identified by the product code JBS2411BP3TH10, is manufactured by NARRABRI COAL OPERATIONS P/L J at the Narrabri site in New South Wales. There is no expected demand for this product in 2025.
+
+JBS M24X1.4M DOME BALL GR, identified by the product code JBS24145BP3TH10, is produced by NARRABRI COAL OPERATIONS P/L J at the Narrabri site in New South Wales. The company reports a consistent demand of 7000 units per month from June 2025 to January 2026.
+
+Bolt TT M24 x 1.8 JBSDBW, identified by the product code JBS2418BP3, is manufactured by NARRABRI COAL OPERATIONS P/L J at the Narrabri site in New South Wales. The company anticipates a fluctuating demand, with 200 units in June and August 2025, and 0 units in July, September, and October 2025.
+
+Bolt TT M24 x 2.1 JBSDBW, identified by the product code JBS2421BP3, is produced by NARRABRI COAL OPERATIONS P/L J at the Narrabri site in New South Wales. There is no expected demand for this product in 2025.
+
+NarraBri Coal Operations P/L J operates at the Narrabri site in New South Wales. The company produces various bolts and mesh sheets. For bolts, they manufacture F/G BOLT 22MMX1150MM BLUE (product_code: JFG221150STH), F/G BOLT 22MMX1450MM ORANGE (product_code: JFG221450STH), and F/G BOLT 22MMX1750MM BLACK (product_code: JFG221750STH). In June 2025, they reported zero units for all these products. However, starting from October 2025, they began reporting sales for F/G BOLT 22MMX1450MM ORANGE, with 2000 units in October and November, and 3000 units in November. They also produce F/G Bolt 25 X 1500 MM Orange (product_code: JFG2515STH) and F/G Bolt 25 X 1750 MM Black O/Moulded (product_code: JFG2518STH), with no reported sales until November 2025 when they sold 3000 units. Additionally, they manufacture F/G BOLT 32MMX1800MM SOLID (product_code: JFG321800H), with no reported sales.
+
+The company also produces various mesh sheets and plates. They supply FIBREGLASS MESH SHEET 2.4 (product_code: JFM2415101004) with no reported sales. For plates, they offer KANGA PLATE 150X150X5MM 3 (product_code: JK15150538RW), with consistent sales of 28,000 units every month from June 2025 to January 2026. They also produce J-LOK 5* DUAL 1000X25MM S (product_code: JL5D100025SFS55) and J-LOK 5* DUAL 1200X25MM S (product_code: JL5D120025XFS55), both with consistent sales of 28,000 units every month from June 2025 to January 2026. They also have J-LOK 5* DUAL 880X25MM X- (product_code: JL5D88025XFS55), with sales of 10,000 units in June, 8,100 units in July and October, and 10,000 units in November. They produce J-LOK 5* PG CABLE 1200X36 (product_code: JL5PG120036MR), with sales of 2,268 units in August and December 2025. They also manufacture M24 TENSION INDICATOR WAS (product_code: JTWIM2407TYRS), with sales of 5 units in June, August, and October 2025. They produce JURRGROUT1T (product_code: JURRGROUT1T), with no reported sales. They also supply 15360 (product_code: JWW280300), with consistent sales of 15,360 units every month from June 2025 to January 2026. They produce JX M24X1.8M DOME BALL S P (product_code: JX2418BPS) and JX M24X2.1M DOME BALL WAS (product_code: JX2421BPS), with no reported sales. They also supply MESH ROOF 5.00MX1.55M 150 (product_code: SMB5016151005S), with consistent sales of 1,584 units every month from June 2025 to January 2026. Lastly, they produce Top Down 80MPA Cable Grou (product_code: TD80GROUT), with sales of 1,176 units in June, 1,680 units in July and September, and 1,176 units in October 2025.
+
+NarraBri Coal Operations P/L J also operates at the Tahmoorcoal site in New South Wales. They produce FLOOR BOLT EXTENSION M24 (product_code: ATBM2403LC), with no reported sales.
+
+SIMEC Mining Tahmoorcoal P/L operates at the Tahmoorcoal site in New South Wales. They plan to supply 36 x 300mm threaded bar-boot under the product code ATBM3603LC, but no sales are expected from June 2025 to January 2026.
+
+SIMEC Mining Tahmoorcoal P/L also plans to supply a 16mm grout gun under the product code GROUTGUN16, again with no sales projected from June 2025 to January 2026.
+
+SIMEC Mining Tahmoorcoal P/L will provide plastic plates measuring 300mm square under the product code HIPSTEELSPP36, with a planned supply of 1980 units each in July, August, November, and December 2025, and 1980 units in January 2026.
+
+JBS M24x1.2m dome ball screws with product code JBS2412BPS are scheduled to be supplied by SIMEC Mining Tahmoorcoal P/L, with 500 units each in July, August, and November 2025, and 500 units in December 2025.
+
+JBS M24x1.8m dome ball tees with product code JBS2418BTPBTH30 are set to be supplied by SIMEC Mining Tahmoorcoal P/L, with 850 units each in July, August, and November 2025, and 850 units in December 2025.
+
+SIMEC Mining Tahmoorcoal P/L will supply cable bolts with a diameter of 15.2mm and length of 8 meters under the product code JCB1508TS3, but no sales are expected from June 2025 to December 2025.
+
+Flat plates measuring 100x100x25mm with product code JF10102560 are planned to be supplied by SIMEC Mining Tahmoorcoal P/L, with no sales expected from June 2025 to December 2025.
+
+F/G bolts with a diameter of 22mm and lengths of 1200mm and 1800mm are scheduled to be supplied under the product codes JFG221200XHTH and JFG221800XHTH respectively, with 2000 units each in July, August, and November 2025, and 2000 units in December 2025.
+
+Fibreglass mesh sheets with a thickness of 1.3mm and product code JFM1513101006 are planned to be supplied by SIMEC Mining Tahmoorcoal P/L, with 1000 units each in July, August, September, November, and December 2025, and 1000 units in January 2026.
+
+JSD 3/4x1.2m paddle bolts with product code JSD3412PLSPC3M are scheduled to be supplied by SIMEC Mining Tahmoorcoal P/L, with 2000 units each in July, August, September, November, December 2025, and January 2026.
+
+JSD 3/4x1.8m paddle bolts with product code JSD3418PLSPC3M are planned to be supplied by SIMEC Mining Tahmoorcoal P/L, with 1000 units each in July, August, September, November, and December 2025, and 1000 units in January 2026.
+
+Boot bolts with a diameter of 36mm and lengths of 1200mm and 1800mm are scheduled to be supplied under the product codes JSS3612P9BN and JSS3618P9BN respectively, with 60 units each in July, August, September, November, and December 2025, and 60 units in January 2026.
+
+Volcano plates measuring 150x150x10mm with product code JV15151036G are planned to be supplied by SIMEC Mining Tahmoorcoal P/L, with no sales expected from June 2025 to December 2025.
+
+Volcano plates measuring 150x150x10mm with product code JV15151036RL are scheduled to be supplied by SIMEC Mining Tahmoorcoal P/L, with 500 units each in July, August, September, November, and December 2025, and 500 units in January 2026.
+
+Butterfly plates measuring 280x300x1 with product code JWW280300 are planned to be supplied by SIMEC Mining Tahmoorcoal P/L, with no sales expected from June 2025 to December 2025.
+
+Butterfly plates domed 280 with product code JWW280300D24 are scheduled to be supplied by SIMEC Mining Tahmoorcoal P/L, with 3390 units each in July, August, September, November, and December 2025, and 3390 units in January 2026.
+
+JX M24x1.8m dome ball greases with product code JX2418BP3 are planned to be supplied by SIMEC Mining Tahmoorcoal P/L, with 2000 units each in July, August, September, November, and December 2025, and 2000 units in January 2026.
+
+SIMEC Mining Tahmoorcoal P/L operates at the Tahmoorcoal site in New South Wales, Australia. They produce various products including Coal. In June 2025, they reported no production for several items such as JX M24X1.8M DOME BALL S P (product_code: JX2418BP3G), JX M24X2.1M DOME BALL TEF (product_code: JX2421BTP3), and JX M24X2.1M DOME BALL TEF (product_code: JX2421BTP3G). However, starting from July 2025, they began producing JX M24X2.1M DOME BALL TEF (product_code: JX2421BTP3) with a consistent output of 1000 units per month until January 2026.
+
+SIMEC Mining Tahmoorcoal P/L also produces a variety of bolts and other mining equipment. In July 2025, they started manufacturing NUT M36 BOOT BOLT DRIVE N (product_code: NUTM36DRIVE) with a steady production of 60 units per month until January 2026. Additionally, they produce POD CUTTABLE 2.1M STEEL (product_code: TAHPODPLASXFG) and POD STEEL 2.1M ROOF 1.5M (product_code: TAHPODSTL), both with a consistent production of 25 and 50 units respectively from July 2025 to January 2026.
+
+The company also uses various grouting and sealing materials. In July 2025, they began using TD 80 20kg Top Down (product_code: TD80GROUT) with a consistent production of 2184 units per month until January 2026. They also use BREATHER TUBE 5.0MM DIA X (product_code: TUBE05BRN) and GROUT TUBE 16MM DIA X 300 (product_code: TUBE16GR), both with a consistent production of 2 and 3 units respectively from July 2025 to January 2026.
+
+SIMEC Mining Tahmoorcoal P/L also produces WASHER DOME BALL M24 (product_code: WASHM24DB) with a consistent production of 300 units per month from July 2025 to January 2026.
+
+South32 Appin East Colliery JA operates at the Appin East site in New South Wales, Australia. They produce Coal and various mining plates. In June 2025, they began producing VOLCANO PLATE 150X150X10M (product_code: JV15151036RW) with a consistent production of 1960 units per month until January 2026. They also produce BUTTERFLY PLATE 280X300X1 (product_code: JWW280300) with a consistent production of 1800 units per month from June 2025 to January 2026. Additionally, they produce JX M24X2.1M DOME BALL TEF (product_code: JX2421BTP3G) with a consistent production of 200 units per month from June 2025 to January 2026.
+
+South32 Appin East Colliery JA also produces various bolts and cables. In June 2025, they began producing Bolt TT M24x0.6m JX (product_code: JX2406TH) with no production until January 2026. They also produce CABLE PACK (50 P/PACK) 31 (product_code: TEXSUMO080P5030) with no production from June 2025 to January 2026.
+
+South32 Appin West Colliery JA operates at the Appin West site in New South Wales, Australia. They produce Coal and various mining plates. In June 2025, they began producing PLASTIC PLATE 230MM DIA R (product_code: HIPPSTEEL230) with no production until January 2026. They also produce JBS M24X1.2M DOME BALL TE (product_code: JBS2412BTP3) with a consistent production of 200 units per month from June 2025 to January 2026. Additionally, they produce JBS M24X1.5M DOME BALL TE (product_code: JBS2415BTP3) with a consistent production of 6000 units per month from June 2025 to January 2026. They also produce JBS M24X1.8M DOME BALL TE (product_code: JBS2418BTP3) with a consistent production of 500 units per month from June 2025 to January 2026.
+
+SOUTH32 operates the Appin West colliery in New South Wales, producing coal. The company plans to supply JBS M24x1.8m dome ball tensioners (product code JBS2418BTP3G) with consistent monthly production of 500 units from June 2025 to January 2026.
+
+SOUTH32 continues to produce JBS M24x1.8m dome ball tensioners (product code JBS2418BTP3TH30) with identical monthly production of 500 units from June 2025 to January 2026.
+
+The production of JBS M24x2.1m dome ball tensioners (product code JBS2421BTP3) has ceased, with no planned production from June 2025 onwards.
+
+SOUTH32 manufactures cable bolts (product code JCB1508TS3) for use in coal mining operations in New South Wales. However, there are no plans for production from June 2025 to January 2026.
+
+Cable trusses (product code JCT1511TS3) are another product category produced by SOUTH32. Similar to cable bolts, there are no plans for production from June 2025 to January 2026.
+
+SUPERSTRAND 6m sheathed cables (product code JCB2206B430DBBW) are in high demand, with production scheduled at 1400 units per month from June 2025 to January 2026.
+
+SUPERSTRAND 6m bulbed cables (product code JCB2206B430BW) have a more limited production schedule, with 200 units in June 2025, followed by zero units until October 2025.
+
+SUPERSTRAND 8m sheathed cables (product code JCB2208B430DBBW) are produced with a monthly output of 300 units starting from June 2025, with some months having zero production.
+
+SUPERSTRAND 6m cables (product code JCB2206) are also produced but with no planned production from June 2025 to January 2026.
+
+Dolly 500mm long M42 units (product code JDO650055TWH) are produced with fluctuating monthly production, ranging from 10 to 5 units from June 2025 to January 2026.
+
+Flat plates 100x100x25mm (product code JF10102560) are manufactured with production increasing from July 2025 to November 2025, reaching a peak of 75 units per month.
+
+F/G bolts 22mmx1500mm xht (product code JFG221500XHTH), 22mmx1800mm xht (product code JFG221800XHTH), and 32mmx1500mm (product code JFG321500H) are all produced with no planned production from June 2025 to January 2026.
+
+F/G bolts 32mmx1800mm (product code JFG321800H) are produced with a steady monthly output of 1000 units from June 2025 to January 2026.
+
+F/G bolts 32mm grouting connectors (product code JFG32GROUTCON) are not planned for production from June 2025 to January 2026.
+
+FRICTION LOK 33 x 1800mm (product code JFL3318G) is produced with increased monthly production from July 2025 to November 2025, reaching a peak of 300 units per month.
+
+Fiberglass mesh sheet 1.7 (product code JFM1712101004) is produced with consistent monthly production of 600 units from June 2025 to January 2026.
+
+Kanga plates 200x200x5mm (product code JK20200538H1RW) are produced with fluctuating monthly production, peaking at 8000 units from July 2025 to December 2025.
+
+J-LOK 5* dual 880x25mm x- (product code JL5D88025XFS55) is not planned for production from June 2025 to January 2026.
+
+SOUTH32 operates the Appin West colliery in New South Wales, Australia. In August 2025, they plan to supply 840 units of J-LOK 5* PG cable 800x36m, which is a specific type of cable used in the mining industry. This product is categorized under cables and is reported by the company.
+
+SOUTH32 continues to operate the Appin West colliery in New South Wales, Australia. For the period from June 2025 to January 2026, they will supply J-LOK dual 1200x25mm extr, with varying quantities ranging from 840 to 1680 units. This product is also categorized under cables and is reported by the company.
+
+SOUTH32 operates the Appin West colliery in New South Wales, Australia. They will supply J-LOK dual 1200x32mm medium slow, with consistent quantities of 4000 to 4800 units from June 2025 to January 2026. This product is categorized under cables and is reported by the company.
+
+SOUTH32 operates the Appin West colliery in New South Wales, Australia. They will supply boot bolts 36mm x 1800mm, with a steady supply of 48 units from June 2025 to January 2026. This product is categorized under bolts and is reported by the company.
+
+SOUTH32 operates the Appin West colliery in New South Wales, Australia. They do not plan to supply any Volcano plate 150x150x10mm from June 2025 to January 2026. This product is categorized under plates and is reported by the company.
+
+SOUTH32 operates the Appin West colliery in New South Wales, Australia. They will supply Volcano plate 150x150x10mm, with increasing quantities from 8000 to 16660 units from June 2025 to January 2026. This product is categorized under plates and is reported by the company.
+
+SOUTH32 operates the Appin West colliery in New South Wales, Australia. They do not plan to supply any Volcano plate 12mm g450 from June 2025 to January 2026. This product is categorized under plates and is reported by the company.
+
+SOUTH32 operates the Appin West colliery in New South Wales, Australia. They will supply Volcano plate 12mm g450, with fluctuating quantities from 2000 to 1000 units from June 2025 to January 2026. This product is categorized under plates and is reported by the company.
+
+SOUTH32 operates the Appin West colliery in New South Wales, Australia. They will supply Butterfly plate 280x300x1, with consistent quantities of 5000 units from June 2025 to January 2026. This product is categorized under plates and is reported by the company.
+
+SOUTH32 operates the Appin West colliery in New South Wales, Australia. They will supply Butterfly plate 280x300x1 galvanized, with varying quantities from 500 to 5000 units from June 2025 to January 2026. This product is categorized under plates and is reported by the company.
+
+SOUTH32 operates the Appin West colliery in New South Wales, Australia. They will supply JX m24x2.1m dome ball tef, with consistent quantities of 225 units from June 2025 to January 2026. This product is categorized under bolts and is reported by the company.
+
+SOUTH32 operates the Appin West colliery in New South Wales, Australia. They will supply JX m24x2.1m dome ball tef, with fluctuating quantities from 0 to 500 units from July 2025 to January 2026. This product is categorized under bolts and is reported by the company.
+
+SOUTH32 operates the Appin West colliery in New South Wales, Australia. They will supply JX m24x2.1m dome ball tef galvanized, with consistent quantities of 100 units from June 2025 to January 2026. This product is categorized under bolts and is reported by the company.
+
+SOUTH32 operates the Appin West colliery in New South Wales, Australia. They will supply nut m36 boot bolt drive n, with consistent quantities of 15 units from July 2025 to January 2026. This product is categorized under bolts and is reported by the company.
+
+SOUTH32 operates the Appin West colliery in New South Wales, Australia. They will supply J-lok spin2stall 1200mm x, with varying quantities from 22680 to 2280 units from June 2025 to January 2026. This product is categorized under cables and is reported by the company.
+
+SOUTH32 operates the Appin West colliery in New South Wales, Australia. They do not plan to supply any Sumo totto 36mmx8m hollow from June 2025 to January 2026. This product is categorized under cables and is reported by the company.
+
+SOUTH32 operates the Appin West colliery in New South Wales, Australia. They will supply cable pack (50 p/pack) 31mm x 8m tex, with consistent quantities of 2 units from June 2025 to January 2026. This product is categorized under cables and is reported by the company.
+
+SOUTH32 operates the Appin West colliery in New South Wales, Australia. They do not plan to supply any cable pack (50 p/pack) 31mm x 10m tex from June 2025 to January 2026. This product is categorized under cables and is reported by the company.
+
+SOUTH32 Dendrobiom Coal P/L operates the Dendrobium colliery in New South Wales, Australia. They do not plan to supply any JFG3230hnh2 & hipsteelspp from June 2025 to January 2026. This product is categorized under cables and is reported by the company.
+
+SOUTH32 Dendrobiom Coal P/L operates the Dendrobium colliery in New South Wales, Australia. They do not plan to supply any JFG324000th & hipsteelspp from June 2025 to January 2026. This product is categorized under cables and is reported by the company.
+
+SOUTH32 DENDROBIUM COAL P/L JA operates at the Dendrobium site in New South Wales. They produce PLASTIC MESH 28.00M X 2.0, with no reported sales from June 2025 to January 2026.
+
+SOUTH32 DENDROBIUM COAL P/L JA operates at the Dendrobium site in New South Wales. They manufacture 200x200 mm Plastic inserts, with consistent sales of 2000 units from June 2025 to January 2026.
+
+SOUTH32 DENDROBIUM COAL P/L JA operates at the Dendrobium site in New South Wales. They supply JBS M24X1.2M DOME BALL TE, with steady sales of 200 units from June 2025 to January 2026.
+
+SOUTH32 DENDROBIUM COAL P/L JA operates at the Dendrobium site in New South Wales. They offer JBS M24X1.8M DOME BALL TE, with sales of 90 units from June 2025 to January 2026.
+
+SOUTH32 DENDROBIUM COAL P/L JA operates at the Dendrobium site in New South Wales. They provide JBS M24X1.8M DOME BALL TE, with sales of 100 units in June 2025, 200 units in July to November 2025, and 200 units in December 2025 and January 2026.
+
+SOUTH32 DENDROBIUM COAL P/L JA operates at the Dendrobium site in New South Wales. They distribute M42 Dolly 500mm Long, with consistent sales of 2 units from June 2025 to January 2026.
+
+SOUTH32 DENDROBIUM COAL P/L JA operates at the Dendrobium site in New South Wales. They manufacture FLAT PLATE 100X100X25MM 6, with sales of 40 units in June, August, October, and December 2025, and 20 units in July, September, and November 2025.
+
+SOUTH32 DENDROBIUM COAL P/L JA operates at the Dendrobium site in New South Wales. They supply F/G BOLT 22MMX1800MM XHT, with no reported sales from June 2025 to January 2026.
+
+SOUTH32 DENDROBIUM COAL P/L JA operates at the Dendrobium site in New South Wales. They produce F/G BOLT 32MMX1800MM SOLI, with consistent sales of 2000 units from June 2025 to January 2026.
+
+SOUTH32 DENDROBIUM COAL P/L JA operates at the Dendrobium site in New South Wales. They offer F/G BOLT 32MM GROUTING CONNECTOR, with no reported sales from June 2025 to January 2026.
+
+SOUTH32 DENDROBIUM COAL P/L JA operates at the Dendrobium site in New South Wales. They distribute RESIN CAPSULE GIT 25.5mm 1200mm, with consistent sales of 18270 units from June 2025 to January 2026.
+
+SOUTH32 DENDROBIUM COAL P/L JA operates at the Dendrobium site in New South Wales. They manufacture KANGA PLATE 150X150X5MM 3, with sales of 15000 units from June 2025 to January 2026.
+
+SOUTH32 DENDROBIUM COAL P/L JA operates at the Dendrobium site in New South Wales. They supply KANGA PLATE 200X200X5MM 3, with sales of 6000 units from June 2025 to January 2026.
+
+SOUTH32 DENDROBIUM COAL P/L JA operates at the Dendrobium site in New South Wales. They produce J-LOK DUAL LIF 1200 X 32M, with sales of 4000 units from June 2025 to January 2026.
+
+SOUTH32 DENDROBIUM COAL P/L JA operates at the Dendrobium site in New South Wales. They manufacture PLASTIC MESH SHEET 2.5M X 1400, with sales of 500 units from June 2025 to January 2026.
+
+SOUTH32 DENDROBIUM COAL P/L JA operates at the Dendrobium site in New South Wales. They supply BOOT BOLT 36MM X 1800MM -, with sales of 60 units in June, July, and November 2025, 500 units in September 2025, and 60 units in October, December 2025, and January 2026.
+
+SOUTH32 DENDROBIUM COAL P/L JA operates at the Dendrobium site in New South Wales. They manufacture JX M24X0.6M DOME BALL RED, with sales of 100 units in June, August, and October 2025, and 0 units in July, September, and December 2025, and January 2026.
+
+SOUTH32 DENDROBIUM COAL P/L JA operates at the Dendrobium site in New South Wales. They supply JX M24X2.4M DOME BALL TEF, with consistent sales of 92 units from June 2025 to January 2026.
+
+SOUTH32 DENDROBIUM COAL P/L JA operates at the Dendrobium site in New South Wales. They distribute Grout Lance suit M42 TEX, with no reported sales from June 2025 to January 2026.
+
+SOUTH32 DENDROBIUM COAL P/L JA operates at the Dendrobium site in New South Wales. They supply Grout Lance suit M42 TEX, with no reported sales from June 2025 to January 2026.
+
+SOUTH32 DENDROBIUM COAL P/L JA operates at the Dendrobium site in New South Wales. They produce coal cables, specifically the Sumo 70 tonne cable with a 10.2 metre cable pack, identified by product code SUM70D102P5030. This product is expected to have consistent demand throughout June 2025 to January 2026, with a quantity of 2 units per month.
+
+SOUTH32 DENDROBIUM COAL P/L JA also manufactures another coal cable product, identified by product code TEXSUMO080P5030. This product description indicates a cable pack containing 50 pieces, measuring 31mm by 8 metres. The supply for this product is forecasted to be 22 units per month from June 2025 to January 2026.
+
+SOUTH32 DENDROBIUM COAL P/L JA produces yet another coal cable product with product code TEXSUMO100P5030. This product is described as a cable pack containing 50 pieces, measuring 31mm by 10 metres. The supply for this product is forecasted to be 10 units in June and October 2025, 6 units in August and September 2025, and 10 units in November 2025 and January 2026.
+
+SPRINGVALE COAL P/LJA001 operates at the Springvale site in New South Wales. They produce coal products including a cable set identified by product code BW152MM. This product is described as a barrel and wedge set with a GFCABGP15 designation. The supply for this product is forecasted to be 500 units in June, August, and October 2025, and 0 units in July, September, and December 2025.
+
+SPRINGVALE COAL P/LJA001 also manufactures a 20mm grout gun identified by product code GROUTGUN20. This product is expected to have consistent demand throughout June 2025 to January 2026, with a quantity of 2 units per month.
+
+SPRINGVALE COAL P/LJA001 produces plastic sheets identified by product code HIPSTEELSPP. These sheets measure 300mm by 300mm and are expected to have a steady supply of 2000 units per month from June 2025 to January 2026.
+
+SPRINGVALE COAL P/LJA001 manufactures cable bolts identified by product code JCB1508TS3. This product is described as a cable bolt twin with a 15.2mm diameter. The supply for this product is forecasted to be 250 units in July and November 2025, and 0 units in June, August, and October 2025.
+
+SPRINGVALE COAL P/LJA001 also produces cable trusses identified by product code JCT1511TS3. This product is described as a cable truss with a 15.2mm diameter and an 11.0m length, with a 8m bulbed design. The supply for this product is forecasted to be 200 units in June, September, and October 2025, and 0 units in July, August, and December 2025.
+
+SPRINGVALE COAL P/LJA001 manufactures a 32mm x 1500mm solid bolt identified by product code JFG321500H. This product is expected to have a steady supply of 2000 units per month from June 2025 to January 2026.
+
+SPRINGVALE COAL P/LJA001 produces a J-LOK G dual product identified by product code JGD100025SFS55. This product is described as having a 1000mm x 25mm size. The supply for this product is forecasted to be 0 units from June 2025 to January 2026.
+
+SPRINGVALE COAL P/LJA001 also manufactures a J-LOK G dual product identified by product code JGD140025SFS46. This product is described as having a 1400mm x 25mm size. The supply for this product is forecasted to be 7500 units per month from June 2025 to January 2026.
+
+SPRINGVALE COAL P/LJA001 produces a J-LOK PG life cycle cable identified by product code JLLPG120036MR. This product is described as having a 1200mm x 36mm size. The supply for this product is forecasted to be 4024 units in June, 2646 units in August, and 4024 units in October 2025, and 2646 units in September and December 2025.
+
+SPRINGVALE COAL P/LJA001 manufactures a single J-LOK product identified by product code JLS120025SH. This product is described as having a 1200mm x 25mm size. The supply for this product is forecasted to be 0 units from June 2025 to January 2026.
+
+SPRINGVALE COAL P/LJA001 produces an indicator washer for trusses identified by product code JTWI152TRUSS. The supply for this product is forecasted to be 0 units from June 2025 to January 2026.
+
+ULAN COAL MINES P/LJA011 operates at the Ulan Coal site in New South Wales. They produce a 16mm grout gun identified by product code GROUTGUN16. This product is expected to have consistent demand throughout June 2025 to January 2026, with a quantity of 2 units per month.
+
+ULAN COAL MINES P/LJA011 also manufactures a product identified by product code SMC12105510004. This product is described as having a 1210mm x 55mm size. The supply for this product is forecasted to be 370 units in July, September, and December 2025, and 0 units in August and October 2025.
+
+ULAN COAL MINES P/LJA011 produces a JBS M24x1.2m dome ball te identified by product code JBS2412BPR. This product is expected to have a steady supply of 500 units per month from June 2025 to January 2026.
+
+ULAN COAL MINES P/LJA011 manufactures a cable bolt triple identified by product code JCB1508TRIS3. This product is described as having a 15.2mm diameter. The supply for this product is forecasted to be 0 units from June 2025 to January 2026.
+
+ULAN COAL MINES P/LJA011 produces a cable truss identified by product code JCT1511TS3. This product is described as having a 11m length and a 15.2mm diameter. The supply for this product is forecasted to be 0 units from June 2025 to January 2026.
+
+ULAN COAL MINES P/LJA011 manufactures a cable bolt 8m 15.2mm identified by product code JCB1508TS3. This product is described as having a 15.2mm diameter and an 8m length. The supply for this product is forecasted to be 0 units from June 2025 to January 2026.
+
+Ulan Coal Mines P/L operates at the Ulan Coal site in New South Wales, Australia. They produce various products including Coal, specifically focusing on different types of plates and mesh. In June 2025, they reported no sales for the Combi Plate Rolled Edge 3 (product_code: JCPRE3ULAN), but in July 2025, they started selling 1750mm thrust dowels (product_code: JFG221750BSTH) with a quantity of 1000 units. By August 2025, this quantity increased to 2000 units, continuing until January 2026. Another product, PLASTIC PLATE (product_code: JHISPPLB), showed a similar pattern, starting with 1000 units in June 2025 and increasing to 2000 units by October 2025. The company also produces 150 x 5 Kanga (product_code: JK151505388RRW), consistently reporting sales of 11760 units every month from June 2025 to January 2026. Resin capsules 440mm fast set (product_code: JLS44025FC) had no sales in June and July 2025, but saw a spike of 1400 units in September 2025, continuing through November 2025. POST GROUT RESIN (product_code: JLLPG120036MR) showed a consistent pattern of sales, with peaks in June and October 2025, and troughs in July and November 2025. Plastic mesh (product_code: JPMM2418) started with 400 units in June 2025 and increased to 800 units by August 2025, maintaining this level until January 2026. Underground roadways repair (product_code: JURRGROUT20KG) did not report any sales in the given period. BUTTERFLY (product_code: JWW280300) maintained steady sales of 5760 units every month from June 2025 to January 2026. JX M24X1.8M DOME BALL S P (product_code: JX2418BTPS60B) reported consistent sales of 140 units every month from June 2025 to January 2026. SPIN2STALL RESIN 1100MM (product_code: STSA11002555) showed a high demand, with sales of 14000 units every month from June 2025 to January 2026. TD80 grout 15KG (product_code: TD80GROUT15) did not report any sales in the given period. Grout Tube 16mm 300M (product_code: TUBE16GR) started with 5 units in June 2025, decreased to 2 units in July and August 2025, then increased back to 5 units in October 2025, and maintained this level until January 2026. Ulan West Underground operates at the Ulan West site in New South Wales, Australia. They produce Coal, focusing on Cable, Mesh, and Plate categories. Cable Pack 15.2mm x 8.0m (product_code: CB1508G10P50) reported sales of 6 units in June and October 2025, while MESH RIB 2.00mx0.80m 100x (product_code: CC2008101004) showed sales of 500 units in July and November 2025. PLASTIC MESH 28.00m x 2.0 (product_code: FRASP2802) reported sales of 10 units in July and November 2025. Steel inserted plastic plate 200 x 200 - 51mm hole (product_code: HIPPSTEELSPP2051) reported sales of 1000 units in June and October 2025. 1.8m x 32mm dowel breakout nut (product_code: JFG321800H) reported sales of 250 units in June and October 2025. 1200mm x 32mm resin LIF (product_code: JLLD120032MS55) reported sales of 300 units in June and October 2025.
+
+ULAN WEST UNDERGROUND JA168 operates at the Ulan West site in New South Wales, Australia. They plan to use 16MM GROUT GUN (product_code: GROUTGUN16) throughout 2025 and early 2026, with consistent usage of 2 units per month starting from June 2025.
+
+ULAN WEST UNDERGROUND JA168 also plans to use JBS2412BTPS (1.2M MILD STEEL RIB BOLT) at Ulan West, NSW, with production starting in October 2025, with 500 units produced in that month.
+
+ULAN WEST UNDERGROUND JA168 will deploy JBS2411HB (1.2M HEADED MILD STEEL RIB BOLT) at Ulan West, NSW, with production levels peaking at 2500 units in October 2025 and January 2026.
+
+ULAN WEST UNDERGROUND JA168 intends to use JFG221150BSTH (F/G BOLT 22MMX1150MM BLAC) at Ulan West, NSW, with consistent production of 3000 units per month from June 2025 to January 2026.
+
+ULAN WEST UNDERGROUND JA168 will apply JFM1712101004 (Fibreglass mesh) at Ulan West, NSW, with steady production of 2000 units per month from June 2025 to January 2026.
+
+ULAN WEST UNDERGROUND JA168 plans to use JHISPPLB (PLASTIC PLATE) at Ulan West, NSW, with consistent production of 3000 units per month from June 2025 to January 2026.
+
+ULAN WEST UNDERGROUND JA168 will utilize JGD88025XFS55H (J-LOK G DUAL 880X25MM X-F) at Ulan West, NSW, with production reaching 10800 units per month from June 2025 to January 2026.
+
+ULAN WEST UNDERGROUND JA168 intends to use JURRGROUT1T (Jennchem Underground Road) at Ulan West, NSW, with consistent production of 41000 units per month from June 2025 to January 2026.
+
+ULAN WEST UNDERGROUND JA168 will apply STSA11002555H (SPIN2STALL RESIN 1100MM) at Ulan West, NSW, with production levels peaking at 11040 units in September 2025 and October 2025.
+
+ULAN WEST UNDERGROUND JA168 plans to use JL5PG100036MR (1200 x 36mm resin) at Ulan West, NSW, with consistent production of 1260 units per month from June 2025 to January 2026.
+
+ULAN WEST UNDERGROUND JA168 will deploy JK15150538RW (150 x 5 KANGA PLATE) at Ulan West, NSW, with production reaching 18620 units per month from June 2025 to January 2026.
+
+ULAN WEST UNDERGROUND JA168 intends to use JWONGA (RESIN INSERTER 2M X 1.86M) at Ulan West, NSW, with zero production planned for June 2025 to January 2026.
+
+ULAN WEST UNDERGROUND JA168 will apply JWW280300 (BUTTERFLY) at Ulan West, NSW, with consistent production of 5760 units per month from June 2025 to January 2026.
+
+ULAN WEST UNDERGROUND JA168 plans to use JX2418BTPS (JX M24X1.8M DOME BALL S P) at Ulan West, NSW, with production reaching 14000 units per month from June 2025 to January 2026.
+
+ULAN WEST UNDERGROUND JA168 intends to use TD80GROUT15 (TD80 grout 15KG) at Ulan West, NSW, with zero production planned for June 2025 to January 2026.
+
+ULAN WEST UNDERGROUND JA168 will apply SMC121055101004 (Cusp Mesh 1150x1000mm) at Ulan West, NSW, with zero production planned for June 2025 to January 2026.
+
+DARTBROOK COMMERCIALP/L JA549 operates at the Dartbrook site in New South Wales, Australia. They plan to use SMB5612101005 (5600 x 1200 MINE MESH) at Dartbrook, NSW, with production starting in June 2025, with 450 units produced in that month.
+
+DARTBROOK COMMERCIALP/L JA549 will apply SMMB4812101004 (4.8 x 1.2m SENTINEL MESH) at Dartbrook, NSW, with consistent production of 450 units per month from June 2025 to January 2026.
+
+WAMBO COAL PTY LTD JA053 operates at the Wambo site in New South Wales, Australia. They plan to use TD80GROUT (Top Down 80MPA Cable Grou) at Wambo, NSW, but no specific production plans are indicated.
+
+WILSON MINING SERVICES P/L JA0 operates at the Wilson site in New South Wales, Australia. They plan to use COUPLER32 (COUPLER TO SUIT 32MM HOLL) at Wilson, NSW, with production starting in September 2025, with 200 units produced in that month.
+
+ASHTON COAL OPERATIONS P/L JA0 produces coal at the Ashton site in New South Wales. The company plans to assemble 200 units of the ASHPOD component, with production targets peaking at 9,000 units in June 2025, decreasing to 7,000 units in September 2025, and then increasing back to 9,000 units in October 2025.
+
+ASHTON COAL OPERATIONS P/L JA1 also operates at the Ashton site in New South Wales, producing coal. They plan to assemble 70 units of the ASHPOD component, with production targets ranging from 3,150 units in June 2025 to 2,450 units in January 2026.
+
+ASHTON COAL OPERATIONS P/L JA2 continues to operate at the Ashton site in New South Wales, producing coal. They plan to assemble 200 units of the ASHPOD component, with production targets fluctuating between 8,000 units in August 2025 and 7,000 units in September 2025.
+
+ASHTON COAL OPERATIONS P/L JA3 operates at the Ashton site in New South Wales, producing coal. They plan to assemble 50 units of the TGSUMO08P5030BW component, but have no planned production for any month from June 2025 to January 2026.
+
+ASHTON COAL OPERATIONS P/L JA4 also operates at the Ashton site in New South Wales, producing coal. They plan to assemble 50 units of the TGSUMO08P5030BW component, similar to ASHTON COAL OPERATIONS P/L JA3, with no planned production for any month from June 2025 to January 2026.
+
+ASHTON COAL OPERATIONS P/L JA5 operates at the Ashton site in New South Wales, producing coal. They plan to assemble 50 units of the TGSUMO08P5030BW component, with no planned production for any month from June 2025 to January 2026.
+
+CENTENNIAL AIRLY P/LJA202 operates at the Airly Coal site in New South Wales, producing coal. They plan to assemble 1 unit of the JCB2204TOS component, with production targets ranging from 400 units in June 2025 to 300 units in November 2025.
+
+CENTENNIAL AIRLY P/LJA203 also operates at the Airly Coal site in New South Wales, producing coal. They plan to assemble 1 unit of the JCB2206TOS component, with production targets ranging from 0 units in June 2025 to 100 units in July and November 2025, and December 2025.
+
+CENTENNIAL MYUNA P/LJA164 operates at the Myuna site in New South Wales, producing coal. They plan to assemble 1 unit of the JCB2204TOS component, with consistent production targets of 700 units per month from June 2025 to January 2026.
+
+CENTENNIAL MYUNA P/LJA165 also operates at the Myuna site in New South Wales, producing coal. They plan to assemble 1 unit of the JCB2206TOS component, with production targets ranging from 300 units in June 2025 to January 2026.
+
+DELTA COAL JA357 operates at the Delta Coal site in New South Wales, producing coal. They plan to assemble 135 units of the CVPODHB01 component, with no planned production for any month from June 2025 to January 2026.
+
+DELTA COAL JA358 also operates at the Delta Coal site in New South Wales, producing coal. They plan to assemble 65 units of the CVPODHB01 component, with no planned production for any month from June 2025 to January 2026.
+
+DELTA COAL JA359 operates at the Delta Coal site in New South Wales, producing coal. They plan to assemble 200 units of the CVPODHB01 component, with no planned production for any month from June 2025 to January 2026.
+
+DELTA COAL JA360 operates at the Delta Coal site in New South Wales, producing coal. They plan to assemble 65 units of the CVPODPLAS1 component, with consistent production targets of 4,550 units per month from June 2025 to January 2026.
+
+DELTA COAL JA361 also operates at the Delta Coal site in New South Wales, producing coal. They plan to assemble 60 units of the CVPODPLAS1 component, with consistent production targets of 4,200 units per month from June 2025 to January 2026.
+
+DELTA COAL JA362 operates at the Delta Coal site in New South Wales, producing coal. They plan to assemble 70 units of the CVPODPLAS1 component, with consistent production targets of 4,900 units per month from June 2025 to January 2026.
+
+DELTA COAL JA363 operates at the Delta Coal site in New South Wales, producing coal. They plan to assemble 50 units of the CVPODPLAS1 component, with consistent production targets of 3,500 units per month from June 2025 to January 2026.
+
+DELTA COAL JA364 also operates at the Delta Coal site in New South Wales, producing coal. They plan to assemble 100 units of the CVPODPLAS1 component, with consistent production targets of 7,000 units per month from June 2025 to January 2026.
+
+DELTA COAL JA366 operates at the Delta Coal site in New South Wales, producing coal. They plan to assemble 1 unit of the JCB2204TOS component, with consistent production targets of 400 units per month from June 2025 to January 2026.
+
+DELTA COAL JA368 also operates at the Delta Coal site in New South Wales, producing coal. They plan to assemble 1 unit of the JCB2206TOS component, with production targets ranging from 50 units in June 2025 to January 2026.
+
+SIMEC Mining Tahmoorcoal P/L operates at the Tahmoorcoal site in New South Wales, producing Coal. The product code HIPSTEELSPP36 is part of the assembly TAHPODPLASXFG, with a component quantity of 60. Starting from July 2025, the production volume is expected to be 1500 units per month until January 2026.
+
+SIMEC Mining Tahmoorcoal P/L also produces Coal under the product code JFG221200XHTH, which is assembled into TAHPODPLASXFG with a component quantity of 60. Similar to the previous product, the production volume will be 1500 units per month from July 2025 to January 2026.
+
+SIMEC Mining Tahmoorcoal P/L manufactures Coal with the product code JV15151036RL, assembled into TAHPODPLASXFG with a component quantity of 160. The production volume is forecasted to be 4000 units per month from July 2025 to January 2026.
+
+SIMEC Mining Tahmoorcoal P/L produces Coal with the product code JWW280300D24, assembled into TAHPODPLASXFG with a component quantity of 120. The production volume is expected to be 3000 units per month from July 2025 to January 2026.
+
+SIMEC Mining Tahmoorcoal P/L manufactures Coal with the product code JX2421BIWPH, assembled into TAHPODPLASXFG with a component quantity of 2. The production volume is projected to be 50 units per month from July 2025 to January 2026.
+
+SIMEC Mining Tahmoorcoal P/L produces Coal with the product code JX2421BP3, assembled into TAHPODPLASXFG with a component quantity of 120. The production volume is forecasted to be 3000 units per month from July 2025 to January 2026.
+
+SIMEC Mining Tahmoorcoal P/L manufactures Coal with the product code JSD3412PLSPC3M, assembled into TAHPODSTL with a component quantity of 60. The production volume is expected to be 3000 units per month from July 2025 to January 2026.
+
+SIMEC Mining Tahmoorcoal P/L produces Coal with the product code JV15151036RL, assembled into TAHPODSTL with a component quantity of 160. The production volume is forecasted to be 8000 units per month from July 2025 to January 2026.
+
+SIMEC Mining Tahmoorcoal P/L manufactures Coal with the product code JWW280300D24, assembled into TAHPODSTL with a component quantity of 180. The production volume is expected to be 9000 units per month from July 2025 to January 2026.
+
+SIMEC Mining Tahmoorcoal P/L produces Coal with the product code JX2421BIWPH, assembled into TAHPODSTL with a component quantity of 2. The production volume is projected to be 100 units per month from July 2025 to January 2026.
+
+SIMEC Mining Tahmoorcoal P/L manufactures Coal with the product code JX2421BP3, assembled into TAHPODSTL with a component quantity of 120. The production volume is forecasted to be 6000 units per month from July 2025 to January 2026.
+
+South32 Appin East Colliery operates at the Appin East site in New South Wales, producing Coal. The product code JCB3112(8m)G100TX is assembled into TEXSUMO080P5030 with a component quantity of 50. There is no planned production for this product from June 2025 to January 2026.
+
+South32 Appin East Colliery also produces Coal with the product code JV30301256GI, assembled into TEXSUMO080P5031 with a component quantity of 50. Similarly, there is no planned production for this product from June 2025 to January 2026.
+
+South32 Appin West Colliery operates at the Appin West site in New South Wales, producing Coal. The product code JX2421BIWPH is assembled into JX21BTPS39IWH1B with a component quantity of 1. The production volume is expected to be 225 units per month from June 2025 to January 2026.
+
+South32 Appin West Colliery also produces Coal with the product code JX2421BTPS, assembled into JX21BTPS39IWH1B with a component quantity of 39. The production volume is forecasted to be 8775 units per month from June 2025 to January 2026.
+
+South32 Appin West Colliery manufactures Coal with the product code JCB2808B1236GTO, assembled into SUMOTO08P503014 with a component quantity of 50. There is no planned production for this product from June 2025 to January 2026.
+
+South32 Appin West Colliery produces Coal with the product code JV30301446GS, assembled into SUMOTO08P503014 with a component quantity of 50. There is no planned production for this product from June 2025 to January 2026.
+
+South32 Appin West Colliery manufactures Coal with the product code JCB3112(8m)G100TX, assembled into TEXSUMO080P5030 with a component quantity of 50. The production volume is expected to be 100 units per month from June 2025 to January 2026.
+
+South32 Appin West Colliery also produces Coal with the product code JV30301256GI, assembled into TEXSUMO080P5030 with a component quantity of 50. The production volume is forecasted to be 100 units per month from June 2025 to January 2026.
+
+South32 Appin West Colliery manufactures Coal with the product code JCB3112(10m)G100TX, assembled into TEXSUMO100P5030 with a component quantity of 50. There is no planned production for this product from June 2025 to January 2026.
+
+SOUTH32 operates the Appin West colliery in New South Wales, producing coal. The company uses the assembly TEXSUMO100P5030 with a component quantity of 50.0. For the period from June 2025 to January 2026, the production is expected to be consistent at 1100 units per month.
+
+SOUTH32 also operates the Dendrobium colliery in New South Wales, producing coal. The company uses the assembly BOXJFG323SPP100 with a component quantity of 100.0. For the period from June 2025 to January 2026, the production is expected to be zero units per month.
+
+SOUTH32 continues to operate the Dendrobium colliery in New South Wales, producing coal. The company uses the assembly BOXJFG324SPP100 with a component quantity of 100.0. For the period from June 2025 to January 2026, the production is expected to be zero units per month.
+
+SOUTH32 operates the Dendrobium colliery in New South Wales, producing coal. The company uses the assembly BOXJFG323SPP100 with a component quantity of 1.0. For the period from June 2025 to January 2026, the production is expected to be zero units per month.
+
+SOUTH32 operates the Dendrobium colliery in New South Wales, producing coal. The company uses the assembly BOXJFG324SPP100 with a component quantity of 100.0. For the period from June 2025 to January 2026, the production is expected to be zero units per month.
+
+SOUTH32 operates the Dendrobium colliery in New South Wales, producing coal. The company uses the assembly BOXJFG324SPP100 with a component quantity of 1.0. For the period from June 2025 to January 2026, the production is expected to be zero units per month.
+
+SOUTH32 operates the Dendrobium colliery in New South Wales, producing coal. The company uses the assembly JBS2418BTP3B40 with a component quantity of 40.0. For the period from June 2025 to January 2026, the production is expected to be 3600 units per month.
+
+SOUTH32 operates the Dendrobium colliery in New South Wales, producing coal. The company uses the assembly JX24BTPS59IWH1B with a component quantity of 1.0. For the period from June 2025 to January 2026, the production is expected to be 92 units per month.
+
+SOUTH32 operates the Dendrobium colliery in New South Wales, producing coal. The company uses the assembly JX24BTPS59IWH1B with a component quantity of 59.0. For the period from June 2025 to January 2026, the production is expected to be 5428 units per month.
+
+SOUTH32 operates the Appin West colliery in New South Wales, producing coal. The company uses the assembly TEXSUMO080P5030 with a component quantity of 50.0. For the period from June 2025 to January 2026, the production is expected to be 1100 units per month.
+
+SOUTH32 operates the Appin West colliery in New South Wales, producing coal. The company uses the assembly TEXSUMO080P5030 with a component quantity of 50.0. For the period from June 2025 to January 2026, the production is expected to be 1100 units per month.
+
+SOUTH32 operates the Appin West colliery in New South Wales, producing coal. The company uses the assembly TEXSUMO100P5030 with a component quantity of 50.0. For the period from June 2025 to January 2026, the production is expected to be 500 units per month.
+
+SOUTH32 operates the Appin West colliery in New South Wales, producing coal. The company uses the assembly TEXSUMO100P5030 with a component quantity of 50.0. For the period from June 2025 to January 2026, the production is expected to be 500 units per month.
+
+SOUTH32 operates the Ulan West underground mine in New South Wales, producing coal. The company uses the assembly CB1508G10P50 with a component quantity of 50.0. For the period from June 2025 to January 2026, the production is expected to be 300 units per month.
+
+SOUTH32 operates the Ulan West underground mine in New South Wales, producing coal. The company uses the assembly CB1508G10P50 with a component quantity of 50.0. For the period from June 2025 to January 2026, the production is expected to be 300 units per month.
+
+SOUTH32 operates the Appin West colliery in New South Wales, producing coal. The company uses the assembly JCB2206B430DBBW with a component quantity of 1.0. For the period from June 2025 to January 2026, the production is expected to be 1400 units per month.
+
+SOUTH32 operates the Appin West colliery in New South Wales, producing coal. The company uses the assembly JCB2206B430DBBW with a component quantity of 1.0. For the period from June 2025 to January 2026, the production is expected to be 1400 units per month.
+
+SOUTH32 operates the Appin West colliery in New South Wales, producing coal. The company uses the assembly JCB2206B430BW with a component quantity of 1.0. For the period from June 2025 to January 2026, the production is expected to be 200 units per month.
+
+SOUTH32 operates the Appin West colliery in New South Wales, producing coal. The company uses the assembly JCB2206B430BW with a component quantity of 1.0. For the period from June 2025 to January 2026, the production is expected to be 200 units per month.
+
+SOUTH32 operates the Appin West colliery in New South Wales, producing coal. The company uses the assembly JCB2208B430DBBW for the product code JCB2208, with a component quantity of 1.0. Production is expected to peak at 300 units in June 2025, then drop to 0 in July 2025, before increasing again to 300 units in October 2025, continuing this pattern through December 2025, and finally dropping to 0 in January 2026.
+
+SOUTH32 also operates the Appin West colliery in New South Wales, producing coal. They use the assembly JCB2208B430DBBW for the product code BW218MMD, with a component quantity of 1.0. Production is expected to peak at 300 units in June 2025, then drop to 0 in July 2025, before increasing again to 300 units in October 2025, continuing this pattern through December 2025, and finally dropping to 0 in January 2026.
+
+ULAN Coal Mines P/L operates the Ulan mine in New South Wales, producing coal. The company uses the assembly JX2418BTPS60B for the product code JX2418BTPS, with a component quantity of 60.0. Production is consistent at 8,400 units per month from June 2025 through January 2026.
+
+ANGLO Coal operates the Aquila warehouse in Queensland, producing coal. The company uses the product code HIPSTEELSPP42 for a plastic plate 300mm square, with a component quantity of 1.0. Production is expected to remain steady at 3,000 units per month from June 2025 through January 2026.
+
+ANGLO Coal operates the Aquila warehouse in Queensland, producing coal. The company uses the product code JFG221450STH for a bolt 22mmx1450mm orange, with a component quantity of 1.0. Production is expected to remain steady at 3,000 units per month from June 2025 through January 2026.
+
+ANGLO Coal operates the Aquila warehouse in Queensland, producing coal. The company uses the product code JK15150538RC for a kangaroo plate 150x150x5mm, with a component quantity of 1.0. Production is expected to remain steady at 15,000 units per month from June 2025 through January 2026.
+
+ANGLO Coal operates the Aquila warehouse in Queensland, producing coal. The company uses the product code JLLPG100036MR for a J-lok pg lif cable 1000x3, with a component quantity of 1.0. Production is expected to remain steady at 2,520 units per month from June 2025 through January 2026.
+
+ANGLO Coal operates the Aquila warehouse in Queensland, producing coal. The company uses the product code JWW280300 for a butterfly plate 280x300x1, with a component quantity of 1.0. Production is expected to remain steady at 3,840 units per month from June 2025 through January 2026.
+
+ANGLO Coal operates the Aquila warehouse in Queensland, producing coal. The company uses the product code JURRGROUT1T for Jennchem underground road, with a component quantity of 1.0. Production is expected to remain steady at 10,000 units per month from June 2025 through January 2026.
+
+ANGLO Coal operates the Aquila warehouse in Queensland, producing coal. The company uses the product code JX15BTPS45I5BP for a bolt JX1.5 pallet (400), with a component quantity of 1.0. Production is expected to remain steady at 300 units per month from June 2025 through January 2026.
+
+ANGLO Coal operates the Aquila warehouse in Queensland, producing coal. The company uses the product code STSA8802555 for 25mm spin to stall dual A, with a component quantity of 1.0. Production is expected to remain steady at 15,000 units per month from June 2025 through January 2026.
+
+ANGLO Coal operates the Aquila warehouse in Queensland, producing coal. The company uses the product code TD80GROUT for top down 80mpa cable grout, with a component quantity of 1.0. Production is expected to remain steady at 1,624 units per month from June 2025 through January 2026.
+
+ANGLO Coal operates the Grosvenor warehouse in Queensland, producing coal. The company uses the product code BW218MMD for a barrel & wedge to suit 21, with a component quantity of 1.0.
+
+ANGLO Coal operates the Grosvenor warehouse in Queensland, producing coal. The company uses the product code COTTONWASTE25 for cotton waste - 5kg bag, with a component quantity of 1.0.
+
+ANGLO Coal operates the Grosvenor warehouse in Queensland, producing coal. The company uses the product code GRPOD21C32 for a Grosvener 21pod 32mm dowel, with a component quantity of 1.0.
+
+ANGLO Coal operates the Grosvenor warehouse in Queensland, producing coal. The company uses the product code GRPOD21S for a pod steel 2.1m roof, 1.8m, with a component quantity of 1.0.
+
+ANGLO Coal operates the Grosvenor warehouse in Queensland, producing coal. The company uses the product code HIPSTLSPP2051BW for a plastic plate 200mm square, with a component quantity of 1.0.
+
+ANGLO Coal operates the Grosvenor warehouse in Queensland, producing coal. The company uses the product code JCB22061BW for a superstrand c/bolt 21.8mm, with a component quantity of 1.0.
+
+ANGLO Coal operates the Grosvenor warehouse in Queensland, producing coal. The company uses the product code JDO630046 for a dollie 25sq drive 300mm l, with a component quantity of 1.0.
+
+ANGLO Coal operates the Grosvenor warehouse in Queensland, producing coal. The company uses the product code JFG321800HSPBW for a f/g bolt 32mmx1800mm solid, with a component quantity of 1.0.
+
+ANGLO COAL operates at the Grosvenor site in Queensland. They produce various products including Coal, such as Kanga Plate (200x200x6mm), J-lok Dual (1000x25mm fast), J-lok Dual Lif (1200x32m), J-lok PG Cable (1000x36mm), Plastic Mesh Sheet (3.1m x), Volcano Plate (200x200x12m), Jx M24x0.6m Dome Ball Yellow, Jx M24x1.8m Dome Ball Teflon, Jx M24x2.1m Dome Ball Teflon, Jx M24x2.4m Dome Ball Teflon, J-lok Spin2Stall (1400mm x), J-lok Spin2Stall (1600 x 2), and 27T Tensioner Head. These products are described with specific dimensions and materials.
+
+ANGLO COAL also operates at the Moranbah site in Queensland. They produce Coal products including J-lok Dual (1000x25mm fast), J-lok Dual Lif (1200x32m), Plastic Plate (300mm square), Plastic Plate (200mm square), Superstrand C/Bolt (21.8mm), and Dollie 25sq Drive 300mm Long. The production of J-lok Dual Lif (1200x32m) is expected to peak at 3000 units per month starting from June 2025.
+
+The inventory includes various product codes and descriptions, with some products having forecasted demand starting from June 2025. For instance, Cotton Waste (5kg bag) is forecasted to have a consistent demand of 20 units per month from June 2025 to January 2026.
+
+ANGLO COAL - MORANBAH NTH WHSE operates at Moranbah, Queensland, Australia. They stock F/G BOLT 32mm x 1800mm SOLI, with a consistent supply of 3000 units each month from June 2025 to January 2026.
+
+ANGLO COAL - MORANBAH NTH WHSE also supplies J-LOK DUAL LIF 1200 x 32mm, maintaining a steady inventory of 4000 units per month from June 2025 to January 2026.
+
+ANGLO COAL - MORANBAH NTH WHSE does not stock J-LOK LIF SINGLE 600 x 25mm, reporting zero units for all months from June 2025 to January 2026.
+
+ANGLO COAL - MORANBAH NTH WHSE offers J-LOK PG CABLE 1000 x 36mm, with a consistent supply of 3360 units each month from June 2025 to January 2026.
+
+ANGLO COAL - MORANBAH NTH WHSE does not stock J-Lok PG Cable 500 x 36mm, reporting zero units for all months from June 2025 to January 2026.
+
+ANGLO COAL - MORANBAH NTH WHSE provides JPM50024 cut 10.0mtr x 2, with a supply of 485 units each month from June 2025 to January 2026.
+
+ANGLO COAL - MORANBAH NTH WHSE does not stock POD STEEL 1.8m bolts, reporting zero units for July 2025 to December 2025, and January 2026.
+
+ANGLO COAL - MORANBAH NTH WHSE supplies POD CUTTABLE 2.1m bolts, with a supply of 25 units each month from June 2025 to January 2026.
+
+ANGLO COAL - MORANBAH NTH WHSE provides POD STEEL 2.1m & 1.8m bolts, with a supply of 70 units each month from June 2025 to January 2026.
+
+ANGLO COAL - MORANBAH NTH WHSE does not stock Jennchem underground road, reporting zero units for all months from June 2025 to January 2026.
+
+ANGLO COAL - MORANBAH NTH WHSE does not stock Volcano plate 200x200x12m, reporting zero units for all months from June 2025 to January 2026.
+
+ANGLO COAL - MORANBAH NTH WHSE does not stock JX M24x1.2m dome ball yellow, reporting zero units for all months from June 2025 to January 2026.
+
+ANGLO COAL - MORANBAH NTH WHSE supplies JX M24x1.8m dome ball tef, with a supply of 2000 units each month from June 2025 to January 2026.
+
+ANGLO COAL - MORANBAH NTH WHSE provides JX M24x2.1m dome ball tef, with a supply of 2000 units each month from June 2025 to January 2026.
+
+ANGLO COAL - MORANBAH NTH WHSE does not stock Nut M24 x 125d molycoated, reporting zero units for all months from June 2025 to January 2026.
+
+ANGLO COAL - MORANBAH NTH WHSE does not stock J-LOK spin2stall 1200mm x, reporting zero units for all months from June 2025 to January 2026.
+
+ANGLO COAL - MORANBAH NTH WHSE supplies J-LOK spin2stall 1400mm x, with a supply of 22000 units each month from June 2025 to January 2026.

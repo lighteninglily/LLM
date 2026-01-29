@@ -1,0 +1,1029 @@
+On June 1, 2025, 90,000 units of COILBW4.88-ASTM-1064 were ordered under the WIP ross_order, with the ross_code 1RM0600. The day's achievement was 26,680 units, and the actual total reached 26,680 units.
+
+On June 2, 2025, the same order continued with an achievement of 28,595 units, bringing the actual total to 28,595 units.
+
+On June 3, 2025, the order saw an achievement of 2,065 units, with the actual total reaching 2,065 units.
+
+On June 4, 2025, the order achieved 16,480 units, with an additional 16,525 units achieved on the previous day, bringing the actual total to 33,005 units.
+
+On June 5, 2025, the order achieved 4,195 units, while 19,765 units were achieved on the same day for the 6.5mm C12D product. The actual total reached 24,587 units.
+
+On June 5, 2025, another 10,350 units of COILBW4.88-ASTM-1064 were achieved, bringing the actual total to 10,350 units.
+
+On June 6, 2025, 6,235 units of R500L5.0-Coils were achieved, with the actual total reaching 6,235 units.
+
+On June 6, 2025, 6,195 units of R500L5.6-Coils were achieved, along with 14,515 units on the previous day, bringing the actual total to 20,710 units.
+
+On June 7, 2025, 14,420 units of R500L5.6-Coils were achieved, with an additional 16,060 units achieved on the previous day, bringing the actual total to 30,480 units.
+
+On June 8, 2025, 14,390 units of R500L5.6-Coils were achieved, with the actual total reaching 14,390 units.
+
+On June 9, 2025, 640 units of R500L5.6-Coils were achieved, with the actual total reaching 640 units.
+
+On June 9, 2025, 3,150 units of Rework On hold dia5.60Galv Blk Dot were achieved, along with 6,080 units on the previous day, bringing the actual total to 9,230 units.
+
+On June 10, 2025, 5,060 units of R500L5.0-Coils were achieved, with the actual total reaching 5,060 units.
+
+On June 11, 2025, 7,710 units of R500L5.0-Coils were achieved, along with 17,575 units on the previous day, bringing the actual total to 25,285 units.
+
+On June 12, 2025, 18,665 units of R500L5.0-Coils were achieved, with an additional 15,152 units achieved on the previous day, bringing the actual total to 33,817 units.
+
+On June 12, 2025, 20,435 units of R500L5.0-Coils were achieved, along with 9,240 units on the previous day, bringing the actual total to 29,675 units.
+
+On June 12, 2025, 10,787 units of R500L5.0-Coils were achieved, with the actual total reaching 10,787 units.
+
+On June 13, 2025, 26,045 units of R500L5.0-Coils were achieved, along with 10,730 units on the previous day, bringing the actual total to 36,775 units.
+
+On June 14, 2025, 6,420 units of R500L5.0-Coils were achieved, with the actual total reaching 6,420 units.
+
+Rework On hold dia5.60Galv Blk Dot is being processed under the WIP ross_order. The dmw_product is R500L5.0-Coils with ross_code CW500L5. It was worked on on June 14, 2025, achieving 1500.0 kg of material. The next day, June 15, 2025, it continued with the same_next_day status, achieving 6990.0 kg. On June 16, 2025, the achieved weight was 6135.0 kg, with an additional 1495.0 kg achieved the previous day. The following day, June 17, 2025, the achieved weight increased to 9230.0 kg, with a total of 23221.0 kg achieved over two days. On June 18, 2025, the achieved weight was 24785.0 kg, contributing to a total of 48145.0 kg. On June 19, 2025, the achieved weight was 27690.0 kg. On June 20, 2025, the achieved weight was 1810.0 kg, followed by 11755.0 kg and 6210.0 kg on the same day. On June 21, 2025, the achieved weight was 4030.0 kg, and on June 22, 2025, it was 30480.0 kg. On June 23, 2025, the achieved weight was 30480.0 kg, continuing the trend.
+
+6.5mm C12D is another product being processed under the WIP ross_order. The dmw_product is R500L5.0-Coils with ross_code CW500L5. On June 15, 2025, it achieved 8215.0 kg, and on June 17, 2025, it achieved 9230.0 kg, contributing to a total of 23221.0 kg. On June 19, 2025, it achieved 27690.0 kg, and on June 20, 2025, it achieved 27690.0 kg. On June 21, 2025, it achieved 9275.0 kg, and on June 23, 2025, it achieved 6225.0 kg, contributing to a total of 6225.0 kg.
+
+7.0mm SAE1008 is also being processed under the WIP ross_order. The dmw_product is R500L5.0-Coils with ross_code CW500L5. On June 24, 2025, it achieved 24835.0 kg, and on June 25, 2025, it achieved 13945.0 kg, contributing to a total of 51420.0 kg.
+
+Reworked balance coils with a diameter of 4.50mm were processed under the ross_order WIP, dmw_product R500L4.0-Coils, with ross_code CW500L4. A total of 12,000 units were ordered, with an achievement of 4,560 units on June 26, 2025, and an additional 6,250 units reported on the same day. The actual total achieved was 10,810 units.
+
+On June 26, 2025, work continued on the ross_order WIP, dmw_product R500L5.0-Coils, with ross_code CW500L5. The same_next_day status was set to S. An achievement of 1,410 units was recorded, with the actual total being 1,410 units.
+
+The same day, another batch of 2,000 units of the ross_order WIP, dmw_product R500L5.0-Coils, with ross_code CW500L5, was processed. The same_next_day status was set to S, achieving exactly 2,000 units.
+
+On June 26, 2025, rework balance coils with diameters of 4.12mm, 4.24mm, 4.50mm, and 4.88mm were processed under the ross_order WIP, dmw_product R500L4.0-Coils, with ross_code CW500L4. A total of 12,000 units were ordered, with an achievement of 4,560 units on June 26, 2025, and an additional 6,250 units reported on the same day. The actual total achieved was 10,810 units.
+
+On June 27, 2025, no work was reported for the ross_order WIP, dmw_product R500L5.0-Coils, with ross_code CW500L5. The same_next_day status was set to N, and no achievements were recorded.
+
+On June 28, 2025, work continued on the ross_order WIP, dmw_product R500L5.0-Coils, with ross_code CW500L5. The same_next_day status was set to N, and an achievement of 3,075 units was recorded.
+
+On June 29, 2025, no work was reported for the ross_order WIP, dmw_product R500L5.0-Coils, with ross_code CW500L5. The same_next_day status was set to N, and no achievements were recorded.
+
+On June 30, 2025, rework balance coils with a diameter of 4.50mm were processed under the ross_order WIP, dmw_product R500L4.0-Coils, with ross_code CW500L4. A total of 45,000 units were ordered, with an achievement of 15,671 units on June 30, 2025.
+
+On July 1, 2025, work continued on the ross_order WIP, dmw_product R500L4.0-Coils, with ross_code CW500L4. The same_next_day status was set to S, and an achievement of 6,255 units was recorded.
+
+On July 1, 2025, rework balance coils with diameters of 4.12mm, 4.24mm, 4.50mm, and 4.88mm were processed under the ross_order WIP, dmw_product R500L4.0-Coils, with ross_code CW500L4. A total of 12,000 units were ordered, with an achievement of 6,255 units on July 1, 2025, and an additional 4,740 units reported on the same day. The actual total achieved was 10,995 units.
+
+On July 2, 2025, work continued on the ross_order WIP, dmw_product R500L4.0-Coils, with ross_code CW500L4. The same_next_day status was set to S, and an achievement of 7,675 units was recorded.
+
+On July 2, 2025, rework balance coils with a diameter of 4.50mm were processed under the ross_order WIP, dmw_product R500L4.0-Coils, with ross_code CW500L4. A total of 12,000 units were ordered, with an achievement of 16,770 units on July 2, 2025.
+
+On July 3, 2025, work continued on the ross_order WIP, dmw_product R500L4.0-Coils, with ross_code CW500L4. The same_next_day status was set to S, and an achievement of 3,910 units was recorded.
+
+On July 3, 2025, rework balance coils with diameters of 4.12mm, 4.24mm, 4.50mm, and 4.88mm were processed under the ross_order WIP, dmw_product R500L4.0-Coils, with ross_code CW500L4. A total of 12,000 units were ordered, with an achievement of 2,505 units on July 3, 2025, and an additional 7,482 units reported on the same day. The actual total achieved was 9,987 units.
+
+On July 4, 2025, rework balance coils with a diameter of 4.50mm were processed under the ross_order Testing, dmw_product R500L4.0-Coils, with ross_code CW500L4. A total of 500 units were ordered, with an achievement of 605 units on July 4, 2025.
+
+On July 4, 2025, rework balance coils with a diameter of 4.50mm were processed under the ross_order Testing, dmw_product Unknown, with ross_code CW500L4.75. A total of 500 units were ordered, with an achievement of 605 units on July 4, 2025.
+
+On July 4, 2025, rework balance coils with a diameter of 4.50mm were processed under the ross_order WIP, dmw_product R500L4.0-Coils, with ross_code CW500L4. A total of 2,000 units were ordered, with an achievement of 1,990 units on July 4, 2025.
+
+On July 4, 2025, rework balance coils with a diameter of 4.50mm were processed under the ross_order WIP, dmw_product R500L5.0-Coils, with ross_code CW500L5. A total of 67,500 units were ordered, with an achievement of 6,020 units on July 4, 2025.
+
+On July 5, 2025, work continued on the ross_order WIP, dmw_product R500L5.0-Coils, with ross_code CW500L5. The same_next_day status was set to N, and an achievement of 12,280 units was recorded.
+
+On July 5, 2025, work continued on the ross_order WIP, dmw_product R500L5.0-Coils, with ross_code CW500L5. The same_next_day status was set to N, and an achievement of 13,925 units was recorded.
+
+On July 5, 2025, rework balance coils with a diameter of 6.5/7.0mm were processed under the ross_order WIP, dmw_product R500L5.0-Coils, with ross_code CW500L5. A total of 67,500 units were ordered, with an achievement of 6,020 units on July 5, 2025.
+
+Rework on bal coils with diameters 4.12, 4.24, 4.50, and 4.88 mm is ongoing. The work is listed as WIP with the DMW product R500L4.0-Coils and ROSS code CW500L4. No same-day action was taken, and the activity took place on July 7, 2025.
+
+The task of reworking 5.5mm SAE1008/C12D bal coils is still in progress. It is also listed as WIP with the DMW product R500L4.0-Coils and ROSS code CW500L4. No same-day action was taken, and the activity occurred on July 7, 2025.
+
+5.5mm C12D bal coils are being reworked, and the task is on hold. It is listed as WIP with the DMW product R500L4.0-Coils and ROSS code CW500L4. A quantity of 45,000 units is involved, and no same-day action was taken. The activity took place on July 8, 2025.
+
+Achievement of 4,385 kg was recorded on July 9, 2025, with no same-day action. The activity is listed as WIP with the DMW product R500L4.0-Coils and ROSS code CW500L4.
+
+Rework on 6.5mm C12D bal coils is ongoing. It is listed as WIP with the DMW product R500L5.6-Coils and ROSS code CW500L5.6. A quantity of 30,000 units is involved, and same-day action was taken. The activity took place on July 9, 2025.
+
+Achievement of 4,000 kg was recorded on July 10, 2025, with no same-day action. The activity is listed as WIP with the DMW product R500L5.0-Coils and ROSS code CW500L5.
+
+Rework on 6.5/7.0mm C12D bal coils is ongoing. It is listed as WIP with the DMW product R500L5.0-Coils and ROSS code CW500L5. Achievement of 13,790 kg was recorded on July 10, 2025, with no same-day action.
+
+Rework on 6.5mm C12D bal coils is ongoing. It is listed as WIP with the DMW product R500L5.0-Coils and ROSS code CW500L5. A quantity of 90,000 units is involved, and same-day action was taken. The activity took place on July 11, 2025.
+
+Rework on 6.5mm C12D bal coils is ongoing. It is listed as WIP with the DMW product R500L5.0-Coils and ROSS code CW500L5. Achievement of 4,040 kg was recorded on July 12, 2025, with no same-day action.
+
+Rework on 5.6mm Galvanized bal coils is ongoing. It is listed as WIP with the DMW product COILGW5.0 and ROSS code COILGW5. A quantity of 60,000 units is involved, and same-day action was taken. The activity took place on July 10, 2025.
+
+Achievement of 2,345 kg was recorded on July 11, 2025, with no same-day action. The activity is listed as WIP with the DMW product R500L5.0-Coils and ROSS code CW500L5.
+
+Rework on 6.5mm C12D bal coils is ongoing. It is listed as WIP with the DMW product R500L5.0-Coils and ROSS code CW500L5. A quantity of 90,000 units is involved, and same-day action was taken. The activity took place on July 11, 2025.
+
+Rework on 5.6mm Galvanized bal coils is ongoing. It is listed as WIP with the DMW product COILGW5.0 and ROSS code COILGW5. Achievement of 4,040 kg was recorded on July 12, 2025, with no same-day action.
+
+Rework on 5.5mm C12D bal coils is ongoing. It is listed as WIP with the DMW product R500L3.15-Coils and ROSS code CW500L3.15. A quantity of 19,500 units is involved, and no same-day action was taken. The activity took place on July 14, 2025.
+
+Achievement of 9,230 kg was recorded on July 15, 2025, with no same-day action. The activity is listed as WIP with the DMW product R500L4.0-Coils and ROSS code CW500L4.
+
+Rework on 6.0mm SAE1022 ICDAS Turkey bal coils is ongoing. It is listed as WIP with the DMW product R500L4.0-Coils and ROSS code CW500L4. Achievement of 4,010 kg was recorded on July 15, 2025, with no same-day action.
+
+Rework on 6.5/7.0mm C12D bal coils is ongoing. It is listed as WIP with the DMW product R500L5.0-Coils and ROSS code CW500L5. Achievement of 10,620 kg was recorded on July 17, 2025, with no same-day action.
+
+Achievement of 1,905 kg was recorded on July 18, 2025, with no same-day action. The activity is listed as WIP with the DMW product R500L4.0-Coils and ROSS code CW500L4.
+
+8.0mm SAE1008 is processed with the ROSS order 581529, using the DMW product COILBW4.88-ASTM-1064 and the ROSS code 1RM0600. The quantity is 120,000. On July 18, 2025, the same next day flag is set to 'S', achieving 2,045 units and 22,702 kilograms. The actual totals recorded are 253,904.22 kilograms.
+
+On July 19, 2025, the same next day flag is 'N', achieving 27,055 units and 16,925 kilograms. The actual totals are 451,674.6 kilograms.
+
+On July 20, 2025, the same next day flag is 'N', achieving 20,435 units and 18,860 kilograms. The actual totals are 403,952.6 kilograms.
+
+On July 21, 2025, the same next day flag is 'N', achieving 10,270 units and 6,445 kilograms. The actual totals are 171,997.35 kilograms.
+
+8.0mm SAE1008 is processed with the ROSS order 581529, using the DMW product COILBW4.88-ASTM-1064 and the ROSS code 1RM0600. The quantity is 120,000. On July 21, 2025, the same next day flag is 'S', achieving 16,536 units and 10,300 kilograms. The actual totals recorded are 170,320.08 kilograms.
+
+On July 22, 2025, the same next day flag is 'N', achieving 20,635 units and 23,085 kilograms. The actual totals are 450,753.2 kilograms.
+
+On July 23, 2025, the same next day flag is 'N', achieving 20,695 units and 10,669 kilograms. The actual totals are 323,676.48 kilograms.
+
+On July 24, 2025, the same next day flag is 'N', achieving 10,354 units and 20,463 kilograms. The actual totals are 318,339.61 kilograms.
+
+On July 25, 2025, the same next day flag is 'N', achieving 1,055 units and 10,340 kilograms. The actual totals are 1,090.87 kilograms.
+
+8.0mm SAE1008 is processed with the ROSS order 581529, using the DMW product COILBW4.88-ASTM-1064 and the ROSS code 1RM0600. The quantity is 120,000. On July 25, 2025, the same next day flag is 'S', achieving 20,670 units and 22,455 kilograms. The actual totals recorded are 446,343.75 kilograms.
+
+On July 26, 2025, the same next day flag is 'N', achieving 14,505 units and 22,813 kilograms. The actual totals are 386,614.48 kilograms.
+
+On July 27, 2025, the same next day flag is 'N', achieving 10,380 units and 20,760 kilograms. The actual totals are 0 kilograms.
+
+On July 28, 2025, the same next day flag is 'N', achieving 12,440 units. The actual totals are 0 kilograms.
+
+8.0mm SAE1008 is processed with the ROSS order 581529, using the DMW product COILBW4.88-ASTM-1064 and the ROSS code 1RM0600. The quantity is 40,000. On July 29, 2025, the same next day flag is 'S', achieving 6,190 units and 16,255 kilograms. The actual totals recorded are 61,900.87 kilograms.
+
+6.0mm SAE1022 ICDAS Turkey is processed with the ROSS order WIP, using the DMW product R500L4.0-Coils and the ROSS code CW500L4. The quantity is 40,000. On July 30, 2025, the same next day flag is 'N', achieving 3,950 units and 8,060 kilograms. The actual totals are 39,500.0 kilograms.
+
+On July 31, 2025, the same next day flag is 'N', achieving 7,140 units and 7,870 kilograms. The actual totals are 71,400.0 kilograms.
+
+On August 1, 2025, the same next day flag is 'N'.
+
+On August 2, 2025, the same next day flag is 'N'.
+
+On August 3, 2025, the same next day flag is 'N'.
+
+On August 4, 2025, the system recorded data for week 32 without achieving any specific milestone.
+
+On August 5, 2025, the system continued to record data for week 32 without achieving any specific milestone.
+
+On August 6, 2025, the system recorded data for week 32 without achieving any specific milestone.
+
+On August 7, 2025, the system recorded data for week 32 without achieving any specific milestone.
+
+On August 8, 2025, the system recorded data for week 32 without achieving any specific milestone.
+
+On August 9, 2025, the system recorded data for week 32 without achieving any specific milestone.
+
+On August 10, 2025, the system recorded data for week 33 without achieving any specific milestone.
+
+On August 11, 2025, the system recorded data for week 33 without achieving any specific milestone.
+
+On August 12, 2025, the system recorded data for week 33 without achieving any specific milestone.
+
+On August 13, 2025, the system recorded data for week 33 without achieving any specific milestone.
+
+On August 14, 2025, the system recorded data for week 33 without achieving any specific milestone.
+
+On August 15, 2025, the system recorded data for week 33 without achieving any specific milestone.
+
+On August 16, 2025, the system recorded data for week 33 without achieving any specific milestone.
+
+On August 17, 2025, the system recorded data for week 34 without achieving any specific milestone.
+
+On August 18, 2025, the system recorded data for week 34 without achieving any specific milestone.
+
+On August 19, 2025, the system recorded data for week 34 without achieving any specific milestone.
+
+On August 20, 2025, the system recorded data for week 34 without achieving any specific milestone.
+
+On August 21, 2025, the system recorded data for week 34 without achieving any specific milestone.
+
+On August 22, 2025, the system recorded data for week 34 without achieving any specific milestone.
+
+On August 23, 2025, the system recorded data for week 34 without achieving any specific milestone.
+
+On August 24, 2025, no production was scheduled for the product R500L5.0-Coils. The week number was 35.
+
+On August 25, 2025, no production was scheduled for the product R500L5.0-Coils. The week number was 35.
+
+On August 26, 2025, no production was scheduled for the product R500L5.0-Coils. The week number was 35.
+
+On August 27, 2025, no production was scheduled for the product R500L5.0-Coils. The week number was 35.
+
+On August 28, 2025, no production was scheduled for the product R500L5.0-Coils. The week number was 35.
+
+On August 29, 2025, no production was scheduled for the product R500L5.0-Coils. The week number was 35.
+
+On August 30, 2025, the product R500L5.0-Coils had a production order pending (WIP). The quantity was 30,000 units, and the production achieved 6,735 units. The week number was 35.
+
+On August 31, 2025, no production was scheduled for the product R500L5.0-Coils. The week number was 36.
+
+On September 1, 2025, no production was scheduled for the product R500L5.0-Coils. The week number was 36.
+
+On September 2, 2025, no production was scheduled for the product R500L5.0-Coils. However, 13,637 units were achieved, and 4,122 units were produced. The week number was 36.
+
+On September 2, 2025, the product R500L5.0-Coils had a production order pending (WIP). The quantity was 4,000 units, and the production achieved 4,122 units. The week number was 36.
+
+On September 3, 2025, no production was scheduled for the product R500L5.0-Coils. However, 15,503 units were achieved. The week number was 36.
+
+On September 4, 2025, no production was scheduled for the product R500L5.0-Coils. However, 17,230 units were achieved. The week number was 36.
+
+On September 5, 2025, no production was scheduled for the product R500L5.0-Coils. The week number was 36.
+
+On September 6, 2025, no production was scheduled for the product R500L5.0-Coils. The week number was 36.
+
+On September 7, 2025, no production was scheduled for the product R500L5.0-Coils. The week number was 37.
+
+On September 8, 2025, no production was scheduled for the product R500L5.0-Coils. However, 20,146 units were achieved. The week number was 37.
+
+On September 9, 2025, no production was scheduled for the product R500L4.0blk. However, 3,053 units were achieved. The week number was 37.
+
+On September 10, 2025, no production was scheduled for the product R500L4.0blk. However, 2,765 units were achieved. The week number was 37.
+
+R500L4.5blk is being manufactured with a quantity of 15000.0 units. The order status is WIP, and the Ross code is CW500L4.5. The production was initiated on September 10, 2025, and the same day it was marked as S (same day). The achieved quantity on the same day was 7391.0 units.
+
+On September 11, 2025, the manufacturing process continued with the same day status marked as N. The achieved quantity on this day was 1536.0 units.
+
+Dia5.0Galv is being produced with a quantity of 15000.0 units. The Ross code for this product is CW500L5.0. The production was initiated on September 11, 2025, and the same day it was marked as S. The achieved quantity on the same day was 3890.0 units.
+
+On September 12, 2025, the manufacturing process continued with the same day status marked as N. The achieved quantity on this day was 4060.0 units.
+
+The next day, September 13, 2025, the manufacturing process continued with the same day status marked as N.
+
+On September 14, 2025, the manufacturing process continued with the same day status marked as N.
+
+On September 15, 2025, the manufacturing process continued with the same day status marked as N. The achieved quantity on this day was 7009.0 units, and the achieved quantity on the previous day was 4225.0 units.
+
+On September 18, 2025, the production of 8.0mm SAE1008 started with a quantity of 108000.0 units. The Ross order number is 581529, and the Ross code is 1RM0650. The production was marked as N (not same day).
+
+On September 18, 2025, the production of 6.0mm SAE1022 from Vietthep started with a quantity of 30000.0 units. The Ross code for this product is CW500L4. The production was marked as S (same day). The achieved quantity on the same day was 4136.0 units.
+
+On September 19, 2025, the production of 8.0mm SAE1008 continued with a quantity of 108000.0 units. The Ross order number is 581529, and the Ross code is 1RM0650. The production was marked as N (not same day). The achieved quantity on this day was 2432.0 units, and the achieved quantity on the previous day was 4850.0 units.
+
+On September 19, 2025, the production of 8.0mm SAE1008 continued with a quantity of 108000.0 units. The Ross order number is 581529, and the Ross code is 1RM0650. The production was marked as S (same day). The achieved quantity on this day was 2432.0 units, and the achieved quantity on the previous day was 4850.0 units.
+
+On September 20, 2025, the production of 8.0mm SAE1008 continued with a quantity of 108000.0 units. The Ross order number is 581529, and the Ross code is 1RM0650. The production was marked as N (not same day). The achieved quantity on this day was 2415.0 units.
+
+On September 22, 2025, the production of 5.5mm C12D started with a quantity of 60000.0 units. The Ross code for this product is CW500L4.5. The production was marked as S (same day). The achieved quantity on this day was 4648.0 units, and the achieved quantity on the previous day was 9302.0 units.
+
+On September 23, 2025, the production of 5.5mm C12D continued with a quantity of 60000.0 units. The Ross code for this product is CW500L4.5. The production was marked as N (not same day). The achieved quantity on this day was 16620.0 units, and the achieved quantity on the previous day was 12438.0 units.
+
+On September 24, 2025, the production of 5.5mm C12D continued with a quantity of 60000.0 units. The Ross code for this product is CW500L4.5. The production was marked as N (not same day). The achieved quantity on this day was 4505.0 units.
+
+On September 24, 2025, the production of 8.0mm SAE1008 started with a quantity of 144000.0 units. The Ross order number is 581529, and the Ross code is 1RM0600. The production was marked as S (same day). The achieved quantity on this day was 2378.0 units, and the achieved quantity on the previous day was 14461.0 units.
+
+On September 25, 2025, the achievement was recorded as 16,601.0, with an additional value of 19,217.0 noted.
+
+On September 26, 2025, the achievement was recorded as 19,168.0.
+
+On September 27, 2025, the achievement was recorded as 19,202.0, with an additional value of 9,470.0 noted.
+
+On September 28, 2025, the achievement was recorded as 16,860.0, with an additional value of 14,823.0 noted.
+
+On September 29, 2025, the achievement was recorded as 2,388.0, with an additional value of 6,098.0 noted.
+
+On September 30, 2025, the achievement was recorded as 95,640.0, with an additional value of 143,780.0 noted.
+
+On October 1, 2025, the achievement was recorded as 70,570.0, with an additional value of 23,960.0 noted.
+
+A comment of 8.0mm SAE1008 was made on October 2, 2025, with a Ross order number 581529, DMW product COILBW4.88/ 6GA-ASTM-1064, Ross code 1RM0600, quantity 144,000.0, and an achievement of 16,860.0, with an additional value of 14,823.0 noted.
+
+On October 3, 2025, the achievement was recorded as 2,401.0.
+
+On October 4, 2025, the achievement was recorded as 2,427.0, with a same-next-day status noted.
+
+A comment of 6.5mm SAE1022 Viet Thep was made on October 4, 2025, with a Ross order number WIP, DMW product unknown, Ross code CW500L4.0 GX, quantity 30,000.0, and an achievement of 6,146.0.
+
+On October 5, 2025, the achievement was recorded as 2,254.0.
+
+A comment of 8.0mm SAE1008 was made on October 5, 2025, with a Ross order number 581529, DMW product COILBW4.88/ 6GA-ASTM-1064, Ross code 1RM0600, and a same-next-day status noted. The achievement was recorded as 74,800.0, with an additional value of 48,200.0 noted.
+
+On October 6, 2025, the achievement was recorded as 4,852.0, with an additional value of 159,220.0 noted.
+
+On October 7, 2025, the achievement was recorded as 16,885.0, with an additional value of 19,183.0 noted.
+
+On October 8, 2025, the achievement was recorded as 12,037.0, with an additional value of 14,433.0 noted.
+
+On October 9, 2025, the achievement was recorded as 2,440.0, with an additional value of 12,149.0 noted.
+
+A comment of 8.0mm SAE1008 was made on October 10, 2025, with a Ross order number 581529, DMW product COILBW4.88/ 6GA-ASTM-1064, Ross code 1RM0600, quantity 81,600.0, and an achievement of 12,037.0, with an additional value of 16,920.0 noted.
+
+On October 11, 2025, the achievement was recorded as 16,794.0, with an additional value of 7,211.0 noted.
+
+A comment of 8.0mm SAE1008 was made on October 12, 2025, with a Ross order number 581529, DMW product COILBW4.70/ 6.5GA-ASTM-1064, Ross code 1RM0650, and an achievement of 4,772.0, with an additional value of 16,783.0 noted.
+
+On October 13, 2025, a production run was initiated with the comment "5.5mm C12D". The product is listed as R500L4.0-Coils with a Ross code of CW500L4. The quantity ordered is 21,000 units. The production run was marked as "same next day" and achieved 5,946 units by the end of the day.
+
+On October 14, 2025, another production run commenced. The comment notes "8.0mm SAE1008". The product is COILBW4.70/ 6.5GA-ASTM-1064 with a Ross code of 1RM0650. The order quantity is 12,152 units. This run was also marked as "same next day" and achieved 12,152 units by the end of the day.
+
+On October 15, 2025, a production run was started but no specific comments or achievements were recorded.
+
+On October 16, 2025, a production run was initiated with an unknown product. The quantity produced is 12,006 units, and the achievement for the day is 14,541 units.
+
+On October 17, 2025, a production run was started with the comment "7.0mm SAE1022 Viet Thep". The product is listed as Unknown with a Ross code of CW500L4.75 GX. The quantity ordered is 40,000 units. The production run achieved 2,135 units by the end of the day.
+
+On October 18, 2025, a production run was started with an unknown product. The quantity produced is 16,861 units, and the achievement for the day is 6,977 units.
+
+On October 19, 2025, a production run was started but no specific comments or achievements were recorded.
+
+On October 20, 2025, a production run was started but no specific comments or achievements were recorded.
+
+On October 21, 2025, a production run was started with the comment "6.5mm SAE1008". The product is COILBW4.12/ 8GA-ASTM-1064 with a Ross code of 1RM0800. The quantity ordered is 144,000 units. The production run achieved 1,796 units by the end of the day.
+
+On October 22, 2025, a production run was started with an unknown product. The quantity produced is 9,310 units, and the achievement for the day is 14,893 units.
+
+On October 23, 2025, a production run was started with an unknown product. The quantity produced is 9,677 units, and the achievement for the day is 9,663 units.
+
+On October 24, 2025, a production run was started with an unknown product. The quantity produced is 7,287 units, and the achievement for the day is 2,401 units.
+
+On October 25, 2025, a production run was started with an unknown product. The quantity produced is 8,307 units, and the achievement for the day is 9,597 units.
+
+On October 26, 2025, a production run was started but no specific comments or achievements were recorded.
+
+On October 27, 2025, a production run was started with the comment "6.5mm SAE1022 Viet Thep". The product is listed as Unknown with a Ross code of CW500L4.0 GX. The quantity ordered is 40,000 units. The production run achieved 5,805 units by the end of the day.
+
+On October 28, 2025, a production run was started with an unknown product. The quantity produced is 8,162 units, and the achievement for the day is 12,657 units.
+
+On October 29, 2025, a production run was started with an unknown product. The quantity produced is 7,681 units.
+
+On October 29, 2025, a coil with specifications of 6.5mm SAE1008 was ordered under Ross Order number 581529. The DMW product is COILBW4.12/ 8GA-ASTM-1064, with Ross Code 1RM0800. The order was fulfilled the same day, and the quantity was 144,000 units. The achievement for this day was 4,756 units.
+
+On October 30, 2025, no specific order or fulfillment details were recorded. The week was 44, and the achievement was 7,133 units.
+
+On October 31, 2025, no specific order or fulfillment details were recorded. The week was 44.
+
+On November 1, 2025, no specific order or fulfillment details were recorded. The week was 44.
+
+On November 2, 2025, no specific order or fulfillment details were recorded. The week was 45.
+
+On November 3, 2025, no specific order or fulfillment details were recorded. The week was 45, and the achievement was 9,531 units, with an additional 4,761 units achieved the previous day.
+
+On November 4, 2025, no specific order or fulfillment details were recorded. The week was 45, and the achievement was 14,370 units, with an additional 4,803 units achieved the previous day.
+
+On November 4, 2025, a coil with specifications of 6.5mm SAE1008 was ordered under Ross Order number 581529. The DMW product is COILBW4.12/ 8GA-ASTM-1064, with Ross Code 1RM0800. The order quantity was 144,000 units, and the same day fulfillment was noted. The achievement for this day was 4,844 units.
+
+On November 5, 2025, no specific order or fulfillment details were recorded. The week was 45, and the achievement was 11,967 units, with an additional 12,163 units achieved the previous day.
+
+On November 6, 2025, no specific order or fulfillment details were recorded. The week was 45, and the achievement was 9,439 units, with an additional 12,058 units achieved the previous day.
+
+On November 7, 2025, no specific order or fulfillment details were recorded. The week was 45, and the achievement was 12,176 units, with an additional 16,874 units achieved the previous day.
+
+On November 8, 2025, no specific order or fulfillment details were recorded. The week was 45, and the achievement was 7,238 units, with an additional 7,239 units achieved the previous day.
+
+On November 9, 2025, a coil with specifications of 5.5mm SAE1008 was ordered under Ross Order number 581529. The DMW product is COILBW4.12/ 8GA-ASTM-1064, with Ross Code 1RM0800. The order quantity was 24,000 units, and the week was 46. The achievement for this day was 5,001 units.
+
+On November 10, 2025, a coil with specifications of 7.0mm SAE1022 Viet Thep was ordered under WIP status. The DMW product is unknown, with Ross Code CW500L4.75 GX. The order quantity was 40,000 units, and the week was 46. The achievement for this day was 14,240 units.
+
+On November 11, 2025, no specific order or fulfillment details were recorded. The week was 46, and the achievement was 20,477 units.
+
+On November 12, 2025, no specific order or fulfillment details were recorded. The week was 46, and the achievement was 6,254 units.
+
+On November 12, 2025, a coil with specifications of 5.5mm SAE1008 was ordered under Ross Order number 581529. The DMW product is COILBW4.12/ 8GA-ASTM-1064, with Ross Code 1RM0800. The order quantity was not specified, and the week was 46. The same day fulfillment was noted, and the achievement for this day was 2,388 units, with an additional 7,207 units achieved the previous day.
+
+On November 12, 2025, a coil with specifications of 5.5mm C12D was ordered. The DMW product is COILBW3.15, with Ross Code CW500L3.15. The order quantity was not specified, and the week was 46. The same day fulfillment was noted, and the achievement for this day was 2,878 units.
+
+On November 13, 2025, no specific order or fulfillment details were recorded. The week was 46, and the achievement was 5,369 units, with an additional 8,974 units achieved the previous day.
+
+On November 14, 2025, no specific order or fulfillment details were recorded. The week was 46, and the achievement was 1,575 units.
+
+On November 14, 2025, a batch of 6.5mm SAE1022 Viet Thep material was processed, with the Ross order status marked as WIP. The DMW product is unknown, and the Ross code is CW500L4.0 GX. The quantity processed was 40,000 units, and the achievement for the day was 650 units.
+
+On November 15, 2025, no next-day work was scheduled. The achievement for the day was 1,878 units.
+
+On November 16, 2025, no next-day work was scheduled. The week was 47, and the achievement for the day was 4,513 units.
+
+On November 17, 2025, no next-day work was scheduled. The week was 47, and the achievement for the day was 7,550 units, with an additional achievement of 6,222 units.
+
+On November 18, 2025, no next-day work was scheduled. The week was 47, and the achievement for the day was 6,013 units, with an additional achievement of 5,353 units.
+
+On November 19, 2025, next-day work was scheduled. The comment noted 7.0mm SAE1022 Viet Thep material. The Ross order status was WIP, and the DMW product was unknown. The Ross code was CW500L4.75 GX, with a quantity of 40,000 units. The achievement for the day was 12,708 units.
+
+On November 20, 2025, no next-day work was scheduled. The week was 47, and the achievement for the day was 14,457 units, with an additional achievement of 14,684 units.
+
+On November 21, 2025, rework balance R500L4.75/4.88blk/Galv was processed. The Ross order was 254216, and the DMW product was COILBW3.15. The Ross code was CW500L3.15, with a quantity of 16,000 units. No next-day work was scheduled. The week was 47, and the achievement for the day was 2,425 units.
+
+On November 21, 2025, next-day work was scheduled. The comment noted 5.5mm C12D material. The Ross order was 254216, and the DMW product was COILBW3.15. The Ross code was CW500L3.15, with a quantity of 15,000 units. No next-day work was scheduled. The week was 47, and the achievement for the day was 8,290 units.
+
+On November 22, 2025, no next-day work was scheduled. The week was 47, and the achievement for the day was 6,057 units.
+
+On November 22, 2025, next-day work was scheduled. The comment noted 5.5mm C12D material. The DMW product was COILBW4.5, and the Ross code was CW500L4.5. The quantity processed was 36,000 units. No next-day work was scheduled. The week was 47, and the achievement for the day was 7,605 units.
+
+On November 23, 2025, no next-day work was scheduled. The week was 48, and the achievement for the day was 10,629 units.
+
+On November 24, 2025, no next-day work was scheduled. The week was 48, and the achievement for the day was 10,174 units.
+
+On November 24, 2025, next-day work was scheduled. The comment noted 7.0mm SAE1022 Viet Thep material. The Ross order was not available, and the DMW product was unknown. The Ross code was CW750L5.0 GX, with a quantity of 54,000 units. Next-day work was scheduled. The week was 48, and the achievement for the day was 2,054 units, with an additional achievement of 23,302 units.
+
+On November 25, 2025, no next-day work was scheduled. The week was 48, and the achievement for the day was 31,133 units.
+
+On November 25, 2025, next-day work was scheduled. The comment noted rework balance R500L5.0/5.6blk. The Ross order was not available, and the DMW product was R500L4.0-Coils. The Ross code was CW500L4, with a quantity of 12,000 units. Next-day work was scheduled. The week was 48, and the achievement for the day was 5,607 units.
+
+On November 26, 2025, no next-day work was scheduled. The week was 48, and the achievement for the day was 5,291 units, with an additional achievement of 3,292 units.
+
+On November 27, 2025, no next-day work was scheduled. The week was 48, and the achievement for the day was 2,230 units.
+
+On November 27, 2025, next-day work was scheduled. The comment noted rework balance R500L4.88blk. The Ross order was not available, and the DMW product was R500L4.0-Coils. The Ross code was CW500L4, with a quantity of 500 units. Next-day work was scheduled. The week was 48, and the achievement for the day was 850 units.
+
+Rework coil COILGW5.6 was processed on November 27, 2025, with no associated Ross order. The DMW product is COILGW5.0, and the Ross code is COILGW5. A quantity of 11,000 units was reworked, and the same day status is marked as 'S'. No achievements were reported for this day.
+
+On November 28, 2025, the same day status changed to 'N'. No Ross order was associated with this processing. The DMW product remains COILGW5.0, and the Ross code is still COILGW5. An achievement of 4,060 units was recorded.
+
+Rework coil R500L5.0 was processed on November 28, 2025, with no associated Ross order. The DMW product is COILGW5.0, and the Ross code is COILGW5. A quantity of 6,000 units was reworked, and the same day status is marked as 'S'. Achievements of 1,010 units were recorded, with an additional 2,152 units achieved the following day.
+
+On November 29, 2025, the same day status changed to 'N'. No Ross order was associated with this processing. No achievements were reported for this day.
+
+On November 30, 2025, the same day status changed to 'N'. No Ross order was associated with this processing. No achievements were reported for this day.
+
+On December 1, 2025, the same day status changed to 'N'. No Ross order was associated with this processing. No achievements were reported for this day.
+
+Rework coil COILGW5.6 was processed again on December 1, 2025, with no associated Ross order. The DMW product is COILGW5.0, and the Ross code is COILGW5. A quantity of 3,049 units was reworked, and the same day status is marked as 'S'. No achievements were reported for this day.
+
+On December 2, 2025, the same day status changed to 'N'. No Ross order was associated with this processing. No achievements were reported for this day.
+
+On December 3, 2025, the same day status changed to 'N'. No Ross order was associated with this processing. No achievements were reported for this day.
+
+Rework coil COILGW54.88 was processed on December 4, 2025, with no associated Ross order. The DMW product is unknown, and the Ross code is COILGW3.15. A quantity of 15,000 units was reworked, and the same day status is marked as 'N'. No achievements were reported for this day.
+
+For tie wire 3.15blk, processed on December 5, 2025, with no associated Ross order. The same day status is marked as 'N'. An achievement of 5,191 units was recorded, with an additional 6,326 units achieved the following day.
+
+6.5mm SAE1022 Viet Thep was processed on December 6, 2025, with no associated Ross order. The DMW product is R750L4.0-Coils GX, and the Ross code is CW750L4.0 GX. A quantity of 40,000 units was reworked, and the same day status is marked as 'N'. Achievements of 12,256 units were recorded, with an additional 16,943 units achieved the following day.
+
+7.0mm SAE1022 Viet Thep was processed on December 7, 2025, with no associated Ross order. The DMW product is R750L4.75-Coils GX, and the Ross code is CW750L4.75 GX. A quantity of 32,000 units was reworked, and the same day status is marked as 'N'. Achievements of 8,220 units were recorded, with an additional 14,430 units achieved the following day.
+
+On December 8, 2025, the same day status changed to 'N'. No Ross order was associated with this processing. No achievements were reported for this day.
+
+Rework coil COILGW5.6 was processed again on December 8, 2025, with no associated Ross order. The DMW product is COILGW5.0, and the Ross code is COILGW5. A quantity of 1,468 units was reworked, and the same day status is marked as 'S'. Achievements of 10,545 units were recorded.
+
+On December 9, 2025, the same day status changed to 'N'. No Ross order was associated with this processing. An achievement of 6,310 units was recorded.
+
+On December 9, 2025, the same day status changed to 'S'. No Ross order was associated with this processing.
+
+On December 10, 2025, the same day status changed to 'N'. No Ross order was associated with this processing. No achievements were reported for this day.
+
+On December 11, 2025, the same day status changed to 'N'. No Ross order was associated with this processing. No achievements were reported for this day.
+
+On December 12, 2025, the same day status changed to 'N'. No Ross order was associated with this processing. No achievements were reported for this day.
+
+On December 13, 2025, no rework was performed. On December 14, 2025, no rework was conducted either. On December 15, 2025, rework was done on CW7504.75GX low Agt, with a DMW product of COILGW4 and a Ross code of COILGW4. A quantity of 2000.0 units was ordered, and no rework was performed. The achieved quantity was 2096.0 units. Also on December 15, 2025, rework was done on CW7504.75GX Blk Dots, with a DMW product of R500L3.15-Coils and a Ross code of CW500L3.15. A quantity of 3000.0 units was ordered, and rework was performed the next day. The achieved quantity was 1289.0 units. On December 16, 2025, no rework was performed. On December 17, 2025, no rework was performed. On December 17, 2025, rework was done on CW7504.00GX Blk Dots, with a DMW product of R500L3.15-Coils and a Ross code of CW500L3.15. A quantity of 1300.0 units was ordered, and rework was performed the next day. The achieved quantity was 1289.0 units. Also on December 17, 2025, rework was done on 6.5mm SAE1012, with a DMW product of R500L5.0-Coils and a Ross code of CW500L5. A quantity of 30000.0 units was ordered, and rework was performed the next day. The achieved quantity was 5341.0 units. On December 18, 2025, no rework was performed. On December 18, 2025, rework was done on CW7504.00GX Blk Dots, with a DMW product of R500L3.15-Coils and a Ross code of CW500L3.15. A quantity of 150.0 units was ordered, and rework was performed the next day. The achieved quantity was 150.0 units. Also on December 18, 2025, rework was done on 6.5mm SAE1012, with a DMW product of R500L5.0-Coils and a Ross code of CW500L5. A quantity of 30000.0 units was ordered, and rework was performed the next day. The achieved quantity was 8297.0 units. On December 19, 2025, no rework was performed. On December 19, 2025, rework was done on 5.5mm SAE1012, with a DMW product of R500L4.00-Coils and a Ross code of CW500L4.0. A quantity of 24000.0 units was ordered, and rework was performed the next day. The achieved quantity was 5492.0 units. On December 20, 2025, no rework was performed. On December 20, 2025, rework was done on 5.5mm SAE1012, with a DMW product of R500L4.00-Coils and a Ross code of CW500L4.0. A quantity of 24000.0 units was ordered, and rework was performed the next day. The achieved quantity was 12347.0 units. On December 21, 2025, no rework was performed. On December 21, 2025, rework was done on 6.5mm SAE1022 Viet Thep, with a DMW product of R750L4.0-Coils GX and a Ross code of CW750L4.0 GX. A quantity of 30000.0 units was ordered, and rework was performed the next day. The achieved quantity was 3525.0 units. On December 22, 2025, no rework was performed. On December 22, 2025, rework was done on 6.5mm SAE1022 Viet Thep, with a DMW product of R750L4.0-Coils GX and a Ross code of CW750L4.0 GX. A quantity of 30000.0 units was ordered, and rework was performed the next day. The achieved quantity was 4923.0 units. On December 23, 2025, no rework was performed. On December 23, 2025, rework was done on 5.5mm SAE1012, with a DMW product of R500L4.00-Coils and a Ross code of CW500L4.0. A quantity of 24000.0 units was ordered, and rework was performed the next day. The achieved quantity was 12347.0 units. On December 23, 2025, no rework was performed. On December 23, 2025, rework was done on CW7504.00blk, with a DMW product of R500L3.15-Coils and a Ross code of CW500L3.15. A quantity of 300.0 units was ordered, and rework was performed the next day. The achieved quantity was 550.0 units.
+
+On December 24, 2025, a production run of 6.5mm SAE1022 material from Viet Thep was completed. The product code is CW750L4.0 GX, and it was part of the R750L4.0-Coils GX series. No next-day delivery was requested, and the production was achieved on the same day. The total quantity produced was 4069 units.
+
+On the same day, another production run of 6.0mm SAE1022 material from Viet Thep was initiated. The product code is CW750L4.0 GX, and it was also part of the R750L4.0-Coils GX series. Next-day delivery was requested, and the production was achieved on the same day. The total quantity produced was 4115 units, with an additional production of 9471 units reported the previous day.
+
+On December 25, 2025, no production runs were recorded.
+
+On December 26, 2025, a production run of 6.5mm SAE1012 material from Viet Thep was completed. The product code is CW500L5, and it was part of the R500L5.0-Coils series. Next-day delivery was requested, and the production was achieved on the same day. The total quantity produced was 30000 units, with an additional production of 11957 units reported the previous day. An additional production of 2932 units was also recorded.
+
+On December 27, 2025, no production runs were recorded.
+
+On December 27, 2025, a production run of 6.5mm SAE1012 material from Viet Thep was completed. The product code is CW500L5, and it was part of the R500L5.0-Coils series. Next-day delivery was requested, and the production was achieved on the same day. The total quantity produced was 30000 units, with an additional production of 18498 units reported the previous day.
+
+On December 28, 2025, a production run of 6.5mm SAE1012 material from Viet Thep was completed. The product code is CW500L5, and it was part of the R500L5.0-Coils series. Next-day delivery was requested, and the production was achieved on the same day. The total quantity produced was 30000 units, with an additional production of 10762 units reported the previous day. An additional production of 20079 units was also recorded.
+
+On December 28, 2025, a production run of 6.5mm SAE1012 material from Viet Thep was completed. The product code is CW500L5, and it was part of the R500L5.0-Coils series. Next-day delivery was requested, and the production was achieved on the same day. The total quantity produced was 30000 units, with an additional production of 3065 units reported the previous day.
+
+On December 29, 2025, a rework of R500L5.60Blk was completed. The product code is CW500L5, and it was part of the R500L5.0-Coils series. Next-day delivery was requested, and the production was achieved on the same day. The total quantity produced was 1638 units, with an additional production of 1645 units reported the previous day.
+
+On December 29, 2025, a rework of dia4.75GX Blk was completed. The product code is CW750L4.0 GX, and it was part of the R750L4.0-Coils GX series. Next-day delivery was requested, and the production was achieved on the same day. The total quantity produced was 3000 units, with an additional production of 1515 units reported the previous day.
+
+On December 29, 2025, no production runs were recorded.
+
+On December 30, 2025, a production run of 6.5mm SAE1012 material from Viet Thep was completed. The product code is CW500L5, and it was part of the R500L5.0-Coils series. Next-day delivery was requested, and the production was achieved on the same day. The total quantity produced was 30000 units, with an additional production of 1459 units reported the previous day.
+
+On December 30, 2025, a rework of COILGW5.6 was completed. The product code is COILGW4, and it was part of the COILGW4 series. Next-day delivery was requested, and the production was achieved on the same day. The total quantity produced was 2425 units, with an additional production of 2415 units reported the previous day.
+
+On December 31, 2025, a production run of 5.5mm SAE1012 material from Viet Thep was completed. The product code is CW500L4.0, and it was part of the R500L4.00-Coils series. Next-day delivery was not requested, and the production was achieved on the same day. The total quantity produced was 12000 units, with an additional production of 8163 units reported the previous day. An additional production of 3927 units was also recorded.
+
+On December 31, 2025, a rework of COILGW5.6 was completed. The product code is CW500L3.15, and it was part of the R500L3.15-Coils series. Next-day delivery was requested, and the production was achieved on the same day. The total quantity produced was 10000 units, with an additional production of 978 units reported the previous day.
+
+On January 1, 2026, no production runs were recorded.
+
+On January 2, 2026, no production runs were recorded.
+
+Rework on hold COILGW5.6 is scheduled for January 5, 2026. The quantity is 623.0, and it was marked as same next day. The achieved quantity is 670.0.
+
+Rework on hold COILGWX4 is also scheduled for January 5, 2026. The quantity is 300.0, and it was marked as same next day. The achieved quantity is 132.0.
+
+Rework on hold COILGW5.6 is rescheduled for January 6, 2026. The quantity is 57.0, and it was marked as same next day. The achieved quantity is 57.0.
+
+Rework on hold CW500L4.5 is scheduled for January 6, 2026. The quantity is 1836.0, and it was marked as same next day. The achieved quantity is 1893.0.
+
+Rework on hold CW500L5.0 is scheduled for January 6, 2026. The quantity is 437.0, and it was marked as same next day. The achieved quantity is 423.0.
+
+6.5mm SAE1022 Viet Thep rework is scheduled for January 6, 2026. The quantity is 30000.0, and it was marked as same next day. The achieved quantity is 3705.0, and the achieved quantity one is 10354.0.
+
+Rework on hold COILGW5.6 is rescheduled for January 7, 2026. The quantity is 10000.0, and it was marked as same next day. The achieved quantity is 5058.0, and the achieved quantity one is 3859.0.
+
+Rework on hold COILGW5.6 is rescheduled for January 8, 2026. The quantity is 11568.0, and it was marked as same next day. The achieved quantity is 11568.0, and the achieved quantity one is 13143.0.
+
+Rework on hold COILGW5.6 is rescheduled for January 9, 2026. The quantity is 10000.0, and it was marked as same next day. The achieved quantity is 5058.0, and the achieved quantity one is 3859.0.
+
+Rework on hold COILGW5.6 is rescheduled for January 10, 2026. The quantity is 10000.0, and it was marked as same next day. The achieved quantity is 879.0, and the achieved quantity one is 1669.0.
+
+6.5mm SAE1022 Viet Thep rework is rescheduled for January 10, 2026. The quantity is 30000.0, and it was marked as same next day. The achieved quantity is 2075.0.
+
+Rework on hold CW500L4.11 is rescheduled for January 13, 2026. The quantity is 2000.0, and it was marked as same next day. The achieved quantity is 1039.0.
+
+Rework on hold CW500L4.12 is rescheduled for January 13, 2026. The quantity is 2000.0, and it was marked as same next day. The achieved quantity is 2049.0.
+
+Rework on hold CW500L4.00 is rescheduled for January 13, 2026. The quantity is 18000.0, and it was marked as same next day. The achieved quantity is 919.0.
+
+On January 14, 2026, no same-day achievement was recorded, and the week was marked as the third week of the year. The achieved value was 1,997.0.
+
+On January 15, 2026, no same-day achievement was recorded, and the week remained the third week of the year. The achieved value was 915.0.
+
+On January 16, 2026, no same-day achievement was recorded, and the week was still the third week of the year. The achieved value was 580.0.
+
+A comment regarding the material "6.5mm SAE1022 Viet Thep" was noted. No Ross order was specified, but the DMW product was identified as "R750L4.0-Coils GX." The Ross code was "CW750L4.0 GX," and the quantity was 30,000.0 units. On the same day, a same-day achievement was recorded, and the week was the third week of the year. The achieved value was 8,343.0.
+
+On January 17, 2026, no same-day achievement was recorded, and the week was the third week of the year. The achieved value was 13,463.0.
+
+On January 18, 2026, no same-day achievement was recorded, and the week moved to the fourth week of the year.
+
+On January 19, 2026, no same-day achievement was recorded, and the week was the fourth week of the year.
+
+On January 20, 2026, no same-day achievement was recorded, and the week was the fourth week of the year.
+
+On January 21, 2026, no same-day achievement was recorded, and the week was the fourth week of the year.
+
+A comment regarding the material "7.0mm SAE1022 Viet Thep" was noted. No Ross order was specified, but the DMW product was identified as "R750L4.75-Coils GX." The Ross code was "CW750L4.75 GX," and the quantity was 30,000.0 units. On January 22, 2026, no same-day achievement was recorded, and the week was the fourth week of the year. The achieved value was 12,365.0.
+
+On January 23, 2026, no same-day achievement was recorded, and the week was the fourth week of the year.
+
+On January 24, 2026, no same-day achievement was recorded, and the week was the fourth week of the year. The achieved value was 18,870.0.
+
+On January 25, 2026, no same-day achievement was recorded, and the week was the fifth week of the year. The achieved value was 12,650.0.
+
+On January 26, 2026, no same-day achievement was recorded, and the week was the fifth week of the year.
+
+On January 27, 2026, no same-day achievement was recorded, and the week was the fifth week of the year.
+
+On January 28, 2026, no same-day achievement was recorded, and the week was the fifth week of the year.
+
+On January 29, 2026, no same-day achievement was recorded, and the week was the fifth week of the year.
+
+On January 30, 2026, no same-day achievement was recorded, and the week was the fifth week of the year.
+
+On January 31, 2026, no same-day achievement was recorded, and the week was the fifth week of the year.
+
+On February 1, 2026, no same-day achievement was recorded, and the week moved to the sixth week of the year.
+
+On February 2, 2026, there was no same-day occurrence recorded, and it fell within the sixth week of the month.
+
+On February 3, 2026, similarly, no same-day event was noted, continuing the sixth week.
+
+On February 4, 2026, the day passed without any same-day occurrences, maintaining the sixth week.
+
+On February 5, 2026, no same-day event was reported, still within the sixth week.
+
+On February 6, 2026, there were no same-day events, continuing the sixth week.
+
+On February 7, 2026, the day passed without any same-day occurrences, marking the transition to the seventh week.
+
+On February 8, 2026, no same-day event was noted, continuing the seventh week.
+
+On February 9, 2026, similarly, no same-day event was recorded, still within the seventh week.
+
+On February 10, 2026, no same-day event was reported, continuing the seventh week.
+
+On February 11, 2026, no same-day event was noted, still within the seventh week.
+
+On February 12, 2026, no same-day event was recorded, continuing the seventh week.
+
+On February 13, 2026, no same-day event was reported, still within the seventh week.
+
+On February 14, 2026, no same-day event was noted, continuing the seventh week.
+
+On February 15, 2026, no same-day event was recorded, marking the transition to the eighth week.
+
+On February 16, 2026, no same-day event was reported, continuing the eighth week.
+
+On February 17, 2026, no same-day event was noted, still within the eighth week.
+
+On February 18, 2026, no same-day event was recorded, continuing the eighth week.
+
+On February 19, 2026, no same-day event was reported, still within the eighth week.
+
+On February 20, 2026, no same-day event was noted, continuing the eighth week.
+
+On February 21, 2026, no same-day event was recorded, concluding the eighth week.
+
+On February 22, 2026, an event occurred in week 9. No additional details are available for this specific entry.
+
+On February 23, 2026, another event took place in week 9. No further information is provided.
+
+On February 24, 2026, an event was recorded in week 9. No additional details are available.
+
+On February 25, 2026, an event happened in week 9. No further information is provided.
+
+On February 26, 2026, an event was noted in week 9. No additional details are available.
+
+On February 27, 2026, an event took place in week 9. No further information is provided.
+
+On February 28, 2026, an event was recorded in week 9. No additional details are available.
+
+On March 1, 2026, an event occurred in week 10. No further information is provided.
+
+On March 2, 2026, another event took place in week 10. No additional details are available.
+
+On March 3, 2026, an event was recorded in week 10. No additional details are available.
+
+On March 4, 2026, an event happened in week 10. No further information is provided.
+
+On March 5, 2026, an event was noted in week 10. No additional details are available.
+
+On March 6, 2026, an event took place in week 10. No further information is provided.
+
+On March 7, 2026, an event was recorded in week 10. No additional details are available.
+
+On March 8, 2026, an event occurred in week 11. No further information is provided.
+
+On March 9, 2026, another event took place in week 11. No additional details are available.
+
+On March 10, 2026, an event was recorded in week 11. No additional details are available.
+
+On March 11, 2026, an event happened in week 11. No further information is provided.
+
+On March 12, 2026, an event was noted in week 11. No additional details are available.
+
+On March 13, 2026, an event took place in week 11. No further information is provided.
+
+On March 14, 2026, there was no same-day occurrence recorded, and it fell within the 11th week of the year.
+
+On March 15, 2026, there was no same-day occurrence recorded, and it fell within the 12th week of the year.
+
+On March 16, 2026, there was no same-day occurrence recorded, and it fell within the 12th week of the year.
+
+On March 17, 2026, there was no same-day occurrence recorded, and it fell within the 12th week of the year.
+
+On March 18, 2026, there was no same-day occurrence recorded, and it fell within the 12th week of the year.
+
+On March 19, 2026, there was no same-day occurrence recorded, and it fell within the 12th week of the year.
+
+On March 20, 2026, there was no same-day occurrence recorded, and it fell within the 12th week of the year.
+
+On March 21, 2026, there was no same-day occurrence recorded, and it fell within the 12th week of the year.
+
+On March 22, 2026, there was no same-day occurrence recorded, and it fell within the 13th week of the year.
+
+On March 23, 2026, there was no same-day occurrence recorded, and it fell within the 13th week of the year.
+
+On March 24, 2026, there was no same-day occurrence recorded, and it fell within the 13th week of the year.
+
+On March 25, 2026, there was no same-day occurrence recorded, and it fell within the 13th week of the year.
+
+On March 26, 2026, there was no same-day occurrence recorded, and it fell within the 13th week of the year.
+
+On March 27, 2026, there was no same-day occurrence recorded, and it fell within the 13th week of the year.
+
+On March 28, 2026, there was no same-day occurrence recorded, and it fell within the 13th week of the year.
+
+On March 29, 2026, there was no same-day occurrence recorded, and it fell within the 14th week of the year.
+
+On March 30, 2026, there was no same-day occurrence recorded, and it fell within the 14th week of the year.
+
+On March 31, 2026, there was no same-day occurrence recorded, and it fell within the 14th week of the year.
+
+On April 1, 2026, there was no same-day occurrence recorded, and it fell within the 14th week of the year.
+
+On April 2, 2026, there was no same-day occurrence recorded, and it fell within the 14th week of the year.
+
+On April 3, 2026, an event occurred during week 14, with no specific details noted beyond the date and week number.
+
+On April 4, 2026, another event took place during week 14, continuing the pattern observed on the previous day.
+
+On April 5, 2026, an event was recorded during week 15, marking a transition from the previous week.
+
+On April 6, 2026, an event continued during week 15, maintaining the sequence established on the previous days.
+
+On April 7, 2026, an event persisted during week 15, showing consistency in the weekly pattern.
+
+On April 8, 2026, an event was documented during week 15, reinforcing the ongoing trend.
+
+On April 9, 2026, an event was reported during week 15, continuing the weekly cycle.
+
+On April 10, 2026, an event was recorded during week 15, maintaining the consistent pattern.
+
+On April 11, 2026, an event was noted during week 15, keeping the weekly sequence intact.
+
+On April 12, 2026, an event occurred during week 16, signaling a shift to a new week.
+
+On April 13, 2026, an event took place during week 16, continuing the new weekly pattern.
+
+On April 14, 2026, an event was recorded during week 16, sustaining the new weekly sequence.
+
+On April 15, 2026, an event was documented during week 16, maintaining the new weekly pattern.
+
+On April 16, 2026, an event was reported during week 16, continuing the new weekly sequence.
+
+On April 17, 2026, an event was noted during week 16, sustaining the new weekly pattern.
+
+On April 18, 2026, an event was recorded during week 16, maintaining the new weekly sequence.
+
+On April 19, 2026, an event occurred during week 17, indicating a further shift to a new week.
+
+On April 20, 2026, an event took place during week 17, continuing the new weekly pattern.
+
+On April 21, 2026, an event was recorded during week 17, sustaining the new weekly sequence.
+
+On April 22, 2026, an event was documented during week 17, maintaining the new weekly pattern.
+
+On April 23, 2026, an event occurred on day 17 with no same next day occurrence.
+
+On April 24, 2026, an event occurred on day 17 with no same next day occurrence.
+
+On April 25, 2026, an event occurred on day 17 with no same next day occurrence.
+
+On April 26, 2026, an event occurred on day 18 with no same next day occurrence.
+
+On April 27, 2026, an event occurred on day 18 with no same next day occurrence.
+
+On April 28, 2026, an event occurred on day 18 with no same next day occurrence.
+
+On April 29, 2026, an event occurred on day 18 with no same next day occurrence.
+
+On April 30, 2026, an event occurred on day 18 with no same next day occurrence.
+
+On May 1, 2026, an event occurred on day 18 with no same next day occurrence.
+
+On May 2, 2026, an event occurred on day 18 with no same next day occurrence.
+
+On May 3, 2026, an event occurred on day 18 with no same next day occurrence.
+
+On May 4, 2026, an event occurred on day 18 with no same next day occurrence.
+
+On May 5, 2026, an event occurred on day 18 with no same next day occurrence.
+
+On May 6, 2026, an event occurred on day 18 with no same next day occurrence.
+
+On May 7, 2026, an event occurred on day 18 with no same next day occurrence.
+
+On May 8, 2026, an event occurred on day 18 with no same next day occurrence.
+
+On May 9, 2026, an event occurred on day 18 with no same next day occurrence.
+
+On May 10, 2026, an event occurred on day 19 with no same next day occurrence.
+
+On May 11, 2026, an event occurred on day 19 with no same next day occurrence.
+
+On May 12, 2026, an event occurred on day 19 with no same next day occurrence.
+
+On May 13, 2026, an event occurred where the same day condition was not met, and it was recorded in week 20.
+
+On May 14, 2026, another instance of the same day condition not being met was recorded, continuing in week 20.
+
+On May 15, 2026, the same day condition was still not met, and the record was kept in week 20.
+
+On May 16, 2026, the same day condition remained unmet, and the record was noted in week 20.
+
+On May 17, 2026, the same day condition was not met, and the record transitioned to week 21.
+
+On May 18, 2026, the same day condition continued to not be met, and the record was updated to week 21.
+
+On May 19, 2026, the same day condition was still not met, and the record was recorded in week 21.
+
+On May 20, 2026, the same day condition was not met, and the record was documented in week 21.
+
+On May 21, 2026, the same day condition was not met, and the record was recorded in week 21.
+
+On May 22, 2026, the same day condition was still not met, and the record was noted in week 21.
+
+On May 23, 2026, the same day condition was not met, and the record was recorded in week 21.
+
+On May 24, 2026, the same day condition was not met, and the record was documented in week 22.
+
+On May 25, 2026, the same day condition was still not met, and the record was noted in week 22.
+
+On May 26, 2026, the same day condition was not met, and the record was recorded in week 22.
+
+On May 27, 2026, the same day condition was still not met, and the record was documented in week 22.
+
+On May 28, 2026, the same day condition was not met, and the record was recorded in week 22.
+
+On May 29, 2026, the same day condition was still not met, and the record was noted in week 22.
+
+On May 30, 2026, the same day condition was not met, and the record was documented in week 22.
+
+On May 31, 2026, the same day condition was still not met, and the record was recorded in week 23.
+
+On June 1, 2026, the same day condition was not met, and the record was documented in week 23.
+
+On June 2, 2026, there was no same-day activity recorded for week 23.
+
+On June 3, 2026, there was no same-day activity recorded for week 23.
+
+On June 4, 2026, there was no same-day activity recorded for week 23.
+
+On June 5, 2026, there was no same-day activity recorded for week 23.
+
+On June 6, 2026, there was no same-day activity recorded for week 23.
+
+On June 7, 2026, there was no same-day activity recorded for week 24.
+
+On June 8, 2026, there was no same-day activity recorded for week 24.
+
+On June 9, 2026, there was no same-day activity recorded for week 24.
+
+On June 10, 2026, there was no same-day activity recorded for week 24.
+
+On June 11, 2026, there was no same-day activity recorded for week 24.
+
+On June 12, 2026, there was no same-day activity recorded for week 24.
+
+On June 13, 2026, there was no same-day activity recorded for week 24.
+
+On June 14, 2026, there was no same-day activity recorded for week 25.
+
+On June 15, 2026, there was no same-day activity recorded for week 25.
+
+On June 16, 2026, there was no same-day activity recorded for week 25.
+
+On June 17, 2026, there was no same-day activity recorded for week 25.
+
+On June 18, 2026, there was no same-day activity recorded for week 25.
+
+On June 19, 2026, there was no same-day activity recorded for week 25.
+
+On June 20, 2026, there was no same-day activity recorded for week 25.
+
+On June 21, 2026, there was no same-day activity recorded for week 26.
+
+On June 22, 2026, an event occurred in week 26 with no specific details noted.
+
+On June 23, 2026, another event took place in week 26, again with no additional information.
+
+On June 24, 2026, an event was recorded in week 26.
+
+On June 25, 2026, an event was documented in week 26.
+
+On June 26, 2026, an event was logged in week 26.
+
+On June 27, 2026, an event was noted in week 26.
+
+On June 28, 2026, an event shifted to week 27.
+
+On June 29, 2026, another event was recorded in week 27.
+
+On June 30, 2026, an event was documented in week 27.
+
+On July 1, 2026, an event was reported in week 27.
+
+On July 2, 2026, an event was logged in week 27.
+
+On July 3, 2026, an event was noted in week 27.
+
+On July 4, 2026, an event was recorded in week 27.
+
+On July 5, 2026, an event shifted to week 28.
+
+On July 6, 2026, an event was logged in week 28.
+
+On July 7, 2026, an event was noted in week 28.
+
+On July 8, 2026, an event was recorded in week 28.
+
+On July 9, 2026, an event was documented in week 28.
+
+On July 10, 2026, an event was reported in week 28.
+
+On July 11, 2026, an event was logged in week 28.
+
+On July 12, 2026, an event occurred on day 29 of the year.
+On July 13, 2026, another event took place on day 29 of the year.
+On July 14, 2026, an event was recorded on day 29 of the year.
+On July 15, 2026, an event happened on day 29 of the year.
+On July 16, 2026, an event was noted on day 29 of the year.
+On July 17, 2026, an event was documented on day 29 of the year.
+On July 18, 2026, an event was registered on day 29 of the year.
+On July 19, 2026, an event occurred on day 30 of the year.
+On July 20, 2026, another event took place on day 30 of the year.
+On July 21, 2026, an event was recorded on day 30 of the year.
+On July 22, 2026, an event happened on day 30 of the year.
+On July 23, 2026, an event was noted on day 30 of the year.
+On July 24, 2026, an event was documented on day 30 of the year.
+On July 25, 2026, an event was registered on day 30 of the year.
+On July 26, 2026, an event occurred on day 31 of the year.
+On July 27, 2026, another event took place on day 31 of the year.
+On July 28, 2026, an event was recorded on day 31 of the year.
+On July 29, 2026, an event happened on day 31 of the year.
+On July 30, 2026, an event was noted on day 31 of the year.
+On July 31, 2026, an event was documented on day 31 of the year.
+
+On August 1, 2026, there was no same-day occurrence recorded. The week number was 31.
+
+On August 2, 2026, there was no same-day occurrence recorded. The week number was 32.
+
+On August 3, 2026, there was no same-day occurrence recorded. The week number was 32.
+
+On August 4, 2026, there was no same-day occurrence recorded. The week number was 32.
+
+On August 5, 2026, there was no same-day occurrence recorded. The week number was 32.
+
+On August 6, 2026, there was no same-day occurrence recorded. The week number was 32.
+
+On August 7, 2026, there was no same-day occurrence recorded. The week number was 32.
+
+On August 8, 2026, there was no same-day occurrence recorded. The week number was 32.
+
+On August 9, 2026, there was no same-day occurrence recorded. The week number was 33.
+
+On August 10, 2026, there was no same-day occurrence recorded. The week number was 33.
+
+On August 11, 2026, there was no same-day occurrence recorded. The week number was 33.
+
+On August 12, 2026, there was no same-day occurrence recorded. The week number was 33.
+
+On August 13, 2026, there was no same-day occurrence recorded. The week number was 33.
+
+On August 14, 2026, there was no same-day occurrence recorded. The week number was 33.
+
+On August 15, 2026, there was no same-day occurrence recorded. The week number was 33.
+
+On August 16, 2026, there was no same-day occurrence recorded. The week number was 34.
+
+On August 17, 2026, there was no same-day occurrence recorded. The week number was 34.
+
+On August 18, 2026, there was no same-day occurrence recorded. The week number was 34.
+
+On August 19, 2026, there was no same-day occurrence recorded. The week number was 34.
+
+On August 20, 2026, there was no same-day occurrence recorded. The week number was 34.
+
+On August 21, 2026, an event occurred during week 34.
+On August 22, 2026, another event took place during week 34.
+On August 23, 2026, an event was recorded during week 35.
+On August 24, 2026, an event was noted during week 35.
+On August 25, 2026, an event was documented during week 35.
+On August 26, 2026, an event was registered during week 35.
+On August 27, 2026, an event was reported during week 35.
+On August 28, 2026, an event was captured during week 35.
+On August 29, 2026, an event was logged during week 35.
+On August 30, 2026, an event was marked during week 36.
+On August 31, 2026, an event was entered during week 36.
+On September 1, 2026, an event was added during week 36.
+On September 2, 2026, an event was included during week 36.
+On September 3, 2026, an event was incorporated during week 36.
+On September 4, 2026, an event was integrated during week 36.
+On September 5, 2026, an event was merged during week 36.
+On September 6, 2026, an event was combined during week 37.
+On September 7, 2026, an event was joined during week 37.
+On September 8, 2026, an event was appended during week 37.
+On September 9, 2026, an event was attached during week 37.
+
+On September 10, 2026, there was no same-day occurrence recorded, and it falls within week 37.
+
+On September 11, 2026, there was no same-day occurrence recorded, and it continues within week 37.
+
+On September 12, 2026, there was no same-day occurrence recorded, and it remains in week 37.
+
+On September 13, 2026, there was no same-day occurrence recorded, and it transitions to week 38.
+
+On September 14, 2026, there was no same-day occurrence recorded, and it stays in week 38.
+
+On September 15, 2026, there was no same-day occurrence recorded, and it persists in week 38.
+
+On September 16, 2026, there was no same-day occurrence recorded, and it continues in week 38.
+
+On September 17, 2026, there was no same-day occurrence recorded, and it remains in week 38.
+
+On September 18, 2026, there was no same-day occurrence recorded, and it continues in week 38.
+
+On September 19, 2026, there was no same-day occurrence recorded, and it persists in week 38.
+
+On September 20, 2026, there was no same-day occurrence recorded, and it transitions to week 39.
+
+On September 21, 2026, there was no same-day occurrence recorded, and it remains in week 39.
+
+On September 22, 2026, there was no same-day occurrence recorded, and it continues in week 39.
+
+On September 23, 2026, there was no same-day occurrence recorded, and it persists in week 39.
+
+On September 24, 2026, there was no same-day occurrence recorded, and it remains in week 39.
+
+On September 25, 2026, there was no same-day occurrence recorded, and it continues in week 39.
+
+On September 26, 2026, there was no same-day occurrence recorded, and it persists in week 39.
+
+On September 27, 2026, there was no same-day occurrence recorded, and it transitions to week 40.
+
+On September 28, 2026, there was no same-day occurrence recorded, and it remains in week 40.
+
+On September 29, 2026, there was no same-day occurrence recorded, and it continues in week 40.
+
+On September 30, 2026, there was no same-day occurrence recorded, and it fell within week 40.
+
+On October 1, 2026, there was no same-day occurrence recorded, and it also fell within week 40.
+
+On October 2, 2026, there was no same-day occurrence recorded, and it continued to fall within week 40.
+
+On October 3, 2026, there was no same-day occurrence recorded, and it remained within week 40.
+
+On October 4, 2026, there was no same-day occurrence recorded, and it transitioned to week 41.
+
+On October 5, 2026, there was no same-day occurrence recorded, and it stayed in week 41.
+
+On October 6, 2026, there was no same-day occurrence recorded, and it persisted in week 41.
+
+On October 7, 2026, there was no same-day occurrence recorded, and it continued in week 41.
+
+On October 8, 2026, there was no same-day occurrence recorded, and it remained in week 41.
+
+On October 9, 2026, there was no same-day occurrence recorded, and it stayed in week 41.
+
+On October 10, 2026, there was no same-day occurrence recorded, and it concluded the week 41 period.

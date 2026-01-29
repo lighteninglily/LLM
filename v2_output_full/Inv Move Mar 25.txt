@@ -1,0 +1,623 @@
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300000 units of Luna & Milo CopperBody Classic #00 for $55.1 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300001 units of Luna & Milo CopperBody Classic #0 for $123.2 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300002 units of Luna & Milo CopperBody Classic #1 for $224 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300003 units of Luna & Milo CopperBody Classic #2 for $99 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300004 units of Luna & Milo CopperBody Classic #3 for $389.4 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300005 units of Luna & Milo CopperBody Classic #4 for $191.4 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300006 units of Luna & Milo CopperBody Classic #5 for $358.2 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300007 units of Luna & Milo CopperBody Classic #6 for $250.2 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300008 units of Luna & Milo CopperBody Classic #7 for $180 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300009 units of Luna & Milo CopperBody Classic #8 for $120 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300010 units of Luna & Milo CopperBody Classic #9 for $40 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300011 units of Luna & Milo CopperBody Classic #10 for $198 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300012 units of Luna & Milo CopperBody Classic #11 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300013 units of Luna & Milo CopperBody Classic #12 for $161.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300014 units of Luna & Milo CopperBody Classic #13 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300015 units of Luna & Milo CopperBody Classic #14 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300016 units of Luna & Milo CopperBody Classic #15 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300017 units of Luna & Milo CopperBody Classic #16 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300018 units of Luna & Milo CopperBody Classic #17 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300019 units of Luna & Milo CopperBody Classic #18 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300020 units of Luna & Milo CopperBody Classic #19 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300021 units of Luna & Milo CopperBody Classic #20 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300022 units of Luna & Milo CopperBody Classic #21 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300023 units of Luna & Milo CopperBody Classic #22 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300024 units of Luna & Milo CopperBody Classic #23 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300025 units of Luna & Milo CopperBody Classic #24 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300026 units of Luna & Milo CopperBody Classic #25 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300027 units of Luna & Milo CopperBody Classic #26 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300028 units of Luna & Milo CopperBody Classic #27 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300029 units of Luna & Milo CopperBody Classic #28 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300030 units of Luna & Milo CopperBody Classic #29 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300031 units of Luna & Milo CopperBody Classic #30 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300032 units of Luna & Milo CopperBody Classic #31 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300033 units of Luna & Milo CopperBody Classic #32 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300034 units of Luna & Milo CopperBody Classic #33 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300035 units of Luna & Milo CopperBody Classic #34 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300036 units of Luna & Milo CopperBody Classic #35 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300037 units of Luna & Milo CopperBody Classic #36 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300038 units of Luna & Milo CopperBody Classic #37 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300039 units of Luna & Milo CopperBody Classic #38 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300040 units of Luna & Milo CopperBody Classic #39 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300041 units of Luna & Milo CopperBody Classic #40 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300042 units of Luna & Milo CopperBody Classic #41 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300043 units of Luna & Milo CopperBody Classic #42 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300044 units of Luna & Milo CopperBody Classic #43 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300045 units of Luna & Milo CopperBody Classic #44 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300046 units of Luna & Milo CopperBody Classic #45 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300047 units of Luna & Milo CopperBody Classic #46 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300048 units of Luna & Milo CopperBody Classic #47 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300049 units of Luna & Milo CopperBody Classic #48 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300050 units of Luna & Milo CopperBody Classic #49 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300051 units of Luna & Milo CopperBody Classic #50 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300052 units of Luna & Milo CopperBody Classic #51 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300053 units of Luna & Milo CopperBody Classic #52 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300054 units of Luna & Milo CopperBody Classic #53 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300055 units of Luna & Milo CopperBody Classic #54 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300056 units of Luna & Milo CopperBody Classic #55 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300057 units of Luna & Milo CopperBody Classic #56 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300058 units of Luna & Milo CopperBody Classic #57 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300059 units of Luna & Milo CopperBody Classic #58 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300060 units of Luna & Milo CopperBody Classic #59 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300061 units of Luna & Milo CopperBody Classic #60 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300062 units of Luna & Milo CopperBody Classic #61 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300063 units of Luna & Milo CopperBody Classic #62 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300064 units of Luna & Milo CopperBody Classic #63 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300065 units of Luna & Milo CopperBody Classic #64 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300066 units of Luna & Milo CopperBody Classic #65 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300067 units of Luna & Milo CopperBody Classic #66 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300068 units of Luna & Milo CopperBody Classic #67 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300069 units of Luna & Milo CopperBody Classic #68 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300070 units of Luna & Milo CopperBody Classic #69 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300071 units of Luna & Milo CopperBody Classic #70 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300072 units of Luna & Milo CopperBody Classic #71 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300073 units of Luna & Milo CopperBody Classic #72 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300074 units of Luna & Milo CopperBody Classic #73 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300075 units of Luna & Milo CopperBody Classic #74 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300076 units of Luna & Milo CopperBody Classic #75 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300077 units of Luna & Milo CopperBody Classic #76 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300078 units of Luna & Milo CopperBody Classic #77 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300079 units of Luna & Milo CopperBody Classic #78 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300080 units of Luna & Milo CopperBody Classic #79 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300081 units of Luna & Milo CopperBody Classic #80 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300082 units of Luna & Milo CopperBody Classic #81 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300083 units of Luna & Milo CopperBody Classic #82 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300084 units of Luna & Milo CopperBody Classic #83 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300085 units of Luna & Milo CopperBody Classic #84 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300086 units of Luna & Milo CopperBody Classic #85 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300087 units of Luna & Milo CopperBody Classic #86 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300088 units of Luna & Milo CopperBody Classic #87 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300089 units of Luna & Milo CopperBody Classic #88 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300090 units of Luna & Milo CopperBody Classic #89 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300091 units of Luna & Milo CopperBody Classic #90 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300092 units of Luna & Milo CopperBody Classic #91 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300093 units of Luna & Milo CopperBody Classic #92 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300094 units of Luna & Milo CopperBody Classic #93 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300095 units of Luna & Milo CopperBody Classic #94 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300096 units of Luna & Milo CopperBody Classic #95 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300097 units of Luna & Milo CopperBody Classic #96 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300098 units of Luna & Milo CopperBody Classic #97 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300099 units of Luna & Milo CopperBody Classic #98 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+Vet Surgical & Medical Supplies Pty Ltd purchased 300100 units of Luna & Milo CopperBody Classic #99 for $38.95 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+SOUTH32 purchased 45 units of Luna & Milo CopperBody Classic #14 for $42.75 each on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+SOUTH32 purchased 45 units of Luna & Milo CopperBody Classic #15 for $44.25 each on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+SOUTH32 purchased 32 units of Luna & Milo CopperBody Castration #0 for $60.80 each on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+SOUTH32 purchased 32 units of Luna & Milo CopperBody Castration #1 for $32 each on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+SOUTH32 purchased 33 units of Luna & Milo CopperBody Castration #2 for $33 each on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+SOUTH32 purchased 33 units of Luna & Milo CopperBody Castration #3 for $33 each on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+SOUTH32 purchased 33 units of Luna & Milo CopperBody Castration #4 for $31.35 each on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+SOUTH32 purchased 36 units of Luna & Milo CopperBody Castration #5 for $34.56 each on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+SOUTH32 purchased 36 units of Luna & Milo CopperBody Castration #6 for $35.10 each on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+SOUTH32 purchased 36 units of Luna & Milo CopperBody Castration #7 for $35.40 each on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+SOUTH32 purchased 40 units of Luna & Milo CopperBody Castration #8 for $39.33 each on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+SOUTH32 purchased 40 units of Luna & Milo CopperBody Castration #9 for $40 each on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+SOUTH32 purchased 41 units of Luna & Milo CopperBody Castration #11 for $41 each on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+SOUTH32 purchased 41 units of Luna & Milo CopperBody Castration #12 for $40.32 each on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+SOUTH32 purchased 41 units of Luna & Milo CopperBody Castration #13 for $38.95 each on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+SOUTH32 purchased 45 units of Luna & Milo CopperBody Castration #14 for $42.75 each on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+SOUTH32 purchased 45 units of Luna & Milo CopperBody Castration #15 for $42.75 each on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+SOUTH32 purchased 40 units of Luna & Milo CopperBody 4-Legs #0 for $40 each on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+SOUTH32 purchased 40 units of Luna & Milo CopperBody 4-Legs #1 for $40 each on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+SOUTH32 purchased 41 units of Luna & Milo CopperBody 4-Legs #2 for $41 each on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-001 on March 25, 2025. Order contains 10,000 units of Luna & Milo CopperBody 4-Legs #3 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-002 on March 25, 2025. Order contains 16,000 units of Luna & Milo CopperBody 4-Legs #4 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-003 on March 25, 2025. Order contains 13,000 units of Luna & Milo CopperBody 4-Legs #5 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-004 on March 25, 2025. Order contains 8,000 units of Luna & Milo CopperBody 4-Legs #6 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-005 on March 25, 2025. Order contains 4,000 units of Luna & Milo CopperBody 4-Legs #7 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-006 on March 25, 2025. Order contains 19,000 units of Luna & Milo CopperBody 4-Legs #8 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-007 on March 25, 2025. Order contains 9,000 units of Luna & Milo CopperBody 4-Legs #9 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-008 on March 25, 2025. Order contains 14,000 units of Luna & Milo CopperBody 4-Legs #10 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-009 on March 25, 2025. Order contains 10,000 units of Luna & Milo CopperBody 4-Legs #11 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-010 on March 25, 2025. Order contains 250 units of Luna & Milo Probiotic Dental Care 100ml for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-011 on March 25, 2025. Order contains 250 units of Luna & Milo Probiotic Derma Care 100ml for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-012 on March 25, 2025. Order contains 250 units of Luna & Milo Probiotic Ear Care 100ml for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-013 on March 25, 2025. Order contains 250 units of Luna & Milo Probiotic Eye Care 100ml for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-014 on March 25, 2025. Order contains 180 units of Cup Inlay, UHMW-PE for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-015 on March 25, 2025. Order contains 60 units of CBLO Cortical Screw 2.4mm x 12mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-016 on March 25, 2025. Order contains 60 units of CBLO Cortical Screw 2.4mm x 14mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-017 on March 25, 2025. Order contains 15 units of CBLO Cortical Screw 2.4mm x 16mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-018 on March 25, 2025. Order contains 90 units of CBLO Cortical Screw 2.7mm x 16mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order CSCBLO2718 on March 25, 2023. Order contains 15 units of CBLO Cortical Screw 2.7mm x 18mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order CSCBLO3516 on March 25, 2023. Order contains 15 units of CBLO Cortical Screw 3.5mm x 16mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order CSCBLO3518 on March 25, 2023. Order contains 105 units of CBLO Cortical Screw 3.5mm x 18mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order CSCBLO3520 on March 25, 2023. Order contains 150 units of CBLO Cortical Screw 3.5mm x 20mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order CSCBLO3522 on March 25, 2023. Order contains 105 units of CBLO Cortical Screw 3.5mm x 22mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order CSCBLO3524 on March 25, 2023. Order contains 105 units of CBLO Cortical Screw 3.5mm x 24mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order CSCBLO3526 on March 25, 2023. Order contains 120 units of CBLO Cortical Screw 3.5mm x 26mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order CSCBLO3528 on March 25, 2023. Order contains 45 units of CBLO Cortical Screw 3.5mm x 28mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order CSCBLO3532 on March 25, 2023. Order contains 45 units of CBLO Cortical Screw 3.5mm x 32mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order FH1-T-18.XXL on March 25, 2023. Order contains 218.5 units of Innoplant-Taper Head, TiAl6V4, TiN, 18-XXL for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order FH1-T-18-L on March 25, 2023. Order contains 218.5 units of Innoplant-Taper Head, TiAl6V4, TiN, 18-L for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order FH1-T-18-M on March 25, 2023. Order contains 218.5 units of Innoplant-Taper Head, TiAl6V4, TiN, 18-M for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order HC2-T-24 on March 25, 2023. Order contains 1410 units of Screw Cup SL, Titan, 24 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order IPG8052N on March 25, 2023. Order contains 825 units of Infusion Pump IN-G8052N for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order LSCBLO2010 on March 25, 2023. Order contains 27 units of CBLO Locking Screw 2.0mm x 10mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order LSCBLO2410 on March 25, 2023. Order contains 27 units of CBLO Locking Screw 2.4mm x 10mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order LSCBLO2412 on March 25, 2023. Order contains 27 units of CBLO Locking Screw 2.4mm x 12mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order LSCBLO2414 on March 25, 2023. Order contains 54 units of CBLO Locking Screw 2.4mm x 14mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order LSCBLO2416 on March 25, 2023. Order contains 27 units of CBLO Locking Screw 2.4mm x 16mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order LSCBLO2430 on March 25, 2023. Order contains 27 units of CBLO Locking Screw 2.4mm x 30mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-001 on January 10, 2025. Order contains 10,000 units of CBLO Locking Screw 2.7mm x 16mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-002 on January 10, 2025. Order contains 10,000 units of CBLO Locking Screw 2.7mm x 18mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-003 on January 10, 2025. Order contains 10,000 units of CBLO Locking Screw 2.7mm x 24mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-004 on January 10, 2025. Order contains 8,100 units of CBLO Locking Screw 2.7mm x 26mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-005 on January 10, 2025. Order contains 54,000 units of CBLO Locking Screw 2.7mm x 32mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-006 on January 10, 2025. Order contains 29,000 units of CBLO Locking Screw 3.5mm x 14mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-007 on January 10, 2025. Order contains 58,000 units of CBLO Locking Screw 3.5mm x 16mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-008 on January 10, 2025. Order contains 87,000 units of CBLO Locking Screw 3.5mm x 18mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-009 on January 10, 2025. Order contains 174,000 units of CBLO Locking Screw 3.5mm x 20mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-010 on January 10, 2025. Order contains 87,000 units of CBLO Locking Screw 3.5mm x 22mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-011 on January 10, 2025. Order contains 87,000 units of CBLO Locking Screw 3.5mm x 28mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-012 on January 10, 2025. Order contains 58,000 units of CBLO Locking Screw 3.5mm x 32mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-013 on January 10, 2025. Order contains 58,000 units of CBLO Locking Screw 3.5mm x 34mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-014 on January 10, 2025. Order contains 58,000 units of CBLO Locking Screw 3.5mm x 36mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+CENTENNIAL COAL placed order PO-2025-015 on January 10, 2025. Order contains 245,000 units of Anatomical locking CBLO plate 35 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+CENTENNIAL COAL placed order PO-2025-016 on January 10, 2025. Order contains 530,000 units of Anatomical locking CBLO plate 35 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+CENTENNIAL COAL placed order PO-2025-017 on January 10, 2025. Order contains 245,000 units of Anatomical locking CBLO plate 27 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+CENTENNIAL COAL placed order PO-2025-018 on January 10, 2025. Order contains 265,000 units of Anatomical locking CBLO plate 35 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+CENTENNIAL COAL placed order PO-2025-019 on January 10, 2025. Order contains 275,000 units of Anatomical locking CBLO plate 35 broad for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-020 on January 10, 2025. Order contains 450 units of Polyurethane Iodophor infused drape 20cm x 30cm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-001 on January 10, 2025. Order contains 10 units of SP57130 - Autoclave Sterilization Pouch - Self Sealing 57mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-001 on January 10, 2025. Order contains 795 units of SPG602 - Syringe Pump IN-G602 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-001 on January 10, 2025. Order contains 99 units of SS1508 - Staple 5 x 8 mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-001 on January 10, 2025. Order contains 99 units of SS1720 - Staple 7 x 20 mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-001 on January 10, 2025. Order contains 17.5 units of STDSHIP - Star Track FPP for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-001 on January 10, 2025. Order contains 315 units of SWM3105 - SWM3 Wedge Size 10.5mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-001 on January 10, 2025. Order contains 315 units of SWM312 - SWM3 Wedge Size 12mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-001 on January 10, 2025. Order contains 705 units of TS2-T-055 - 3Con Stem, TiAl6V4, # 5,5 for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-001 on January 10, 2025. Order contains 495 units of ZL191502 - Zlig 24 fibers / 15mm, 8 - 12kg, 3000N Artificial C... for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-001 on January 10, 2025. Order contains 495 units of ZL191503 - Zlig 32 fibers / 17mm, 12 - 25kg, 4000N Artificial ... for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-001 on January 10, 2025. Order contains 495 units of ZL191504 - Zlig 48 fibers / 19mm, 25 - 45kg, 6000 Artificial ... for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-001 on January 10, 2025. Order contains 4500 units of ZL191508 - Zlig Interference Screw and Instrumenten Set consi... for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-001 on January 10, 2025. Order contains 3.5 units of ZL191520 - Zlig K-Wire, blunt/blunt, 1.0 x 190mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-001 on January 10, 2025. Order contains 3.5 units of ZL191522 - Zlig K-Wire, blunt/blunt 1.8x190mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-001 on January 10, 2025. Order contains 32 units of ZL191541 - Zlig Interference Screw cannulated 1.1/4.0/10.0mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-001 on January 10, 2025. Order contains 32 units of ZL191546 - Zlig Interference Screw cannulated 1.1/4.5/15.0mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-001 on January 10, 2025. Order contains 32 units of ZL191547 - Zlig Interference Screw cannulated 1.1/4.5/20.0mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-001 on January 10, 2025. Order contains 32 units of ZL191548 - Zlig Interference Screw cannulated 1.1/4.5/25.0mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: order_record]
+SOUTH32 placed order PO-2025-001 on January 10, 2025. Order contains 32 units of ZL191566 - Zlig Interference Screw cannulated 2.9/5.0/15.0mm for delivery to APPIN MINE, NSW.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+SOUTH32 purchased 32 units of ZL191568 - Zlig Interference Screw cannulated 32/5.0/20.0mm for $849.60 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+SOUTH32 purchased 96 units of ZL191572 - Titanium Interference screw, 4.0x L18, cannulated for $2,880.00 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+SOUTH32's total sales value: $26,945.80 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+SOUTH32's total sales value: $26,945.80 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+SOUTH32's total sales value: $26,945.80 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+SOUTH32's total sales value: $26,945.80 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+SOUTH32's other sales: $0.00 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+SOUTH32's cash sales: $0.00 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+SOUTH32's credits: -$66.65 AUD on March 25, 2025.
+
+[Source: Inv Move Mar 25.xls | Type: sales_record]
+SOUTH32's total sales value: $26,879.15 AUD on March 25, 2025.

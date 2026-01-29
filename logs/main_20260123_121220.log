@@ -1,0 +1,12 @@
+2026-01-23 12:12:20,155 [INFO] ✓ Input directory: 2 files found
+2026-01-23 12:12:20,158 [INFO] ✓ vLLM reachable at http://localhost:8000/v1
+2026-01-23 12:12:20,158 [INFO]   Note: Ensure vLLM has VLLM_ALLOW_LONG_MAX_MODEL_LEN=1 and MAX_MODEL_LEN=65536
+2026-01-23 12:12:20,164 [INFO] ✓ RAGFlow API reachable and authenticated
+2026-01-23 12:12:20,166 [INFO] ✓ Ollama reachable for embeddings
+2026-01-23 12:12:20,167 [INFO] Analyzing data in: /home/ryan/Documents/VSMS/ragflow_automation/sample_data
+2026-01-23 12:12:20,167 [INFO] Sampling: counties.csv
+2026-01-23 12:12:20,167 [INFO] Sampling: stations.csv
+2026-01-23 12:12:20,167 [INFO] Found 2 files
+2026-01-23 12:12:20,168 [INFO] Calling LLM: Qwen/Qwen2.5-7B-Instruct-AWQ at http://localhost:8000/v1
+2026-01-23 12:17:20,267 [ERROR] LLM API error: HTTPConnectionPool(host='localhost', port=8000): Read timed out. (read timeout=300)
+2026-01-23 12:17:20,267 [ERROR] Analysis failed: HTTPConnectionPool(host='localhost', port=8000): Read timed out. (read timeout=300)

@@ -1,0 +1,124 @@
+Convert these database records into readable narrative paragraphs optimized for Knowledge Graph extraction and semantic search.
+
+SOURCE CONTEXT:
+File: {source_file}
+Table/Sheet: {sheet_name}
+Schema: {schema_description}
+
+LOOKUP VALUES (use these to replace IDs with names):
+{lookups}
+
+RECORDS TO TRANSFORM:
+{records}
+
+=== ENTITY NAMING RULES (CRITICAL FOR KNOWLEDGE GRAPH) ===
+Use these EXACT canonical formats for entity names. Different variations MUST map to the same canonical name:
+
+COMPANIES/CUSTOMERS (always UPPERCASE):
+- SOUTH32 (aliases: S32, South32, South 32, South32 Limited)
+- BHP (aliases: BHP Billiton, BHPB)
+- GLENCORE (aliases: Glencore Coal, Glencore Australia)
+- ANGLO AMERICAN (aliases: Anglo, Anglo Coal)
+- PEABODY ENERGY (aliases: Peabody)
+- CENTENNIAL COAL (aliases: Centennial)
+- JENNMAR (aliases: Jennmar Australia)
+
+PRODUCTS (format: CODE - Description):
+- Format: "R500L5.60Blk - Rebar 500L 5.6m Black"
+- Mesh: "MESH-50x50x2400x1200x4mm - Industrial Mesh Panel"
+- Standard codes: "J-LOK", "TENDON CABLE", "SPLIT SET", "RESIN BOLT"
+
+MINE SITES (format: NAME Mine, STATE):
+- "APPIN MINE, NSW" (aliases: Appin, Appin Colliery)
+- "DENDROBIUM MINE, NSW" (aliases: Dendrobium)
+- "WEST CLIFF MINE, NSW" (aliases: West Cliff, Westcliff)
+- "METROPOLITAN MINE, NSW"
+- "TAHMOOR MINE, NSW"
+- "SPRINGVALE MINE, NSW" (aliases: Springvale Coal)
+
+MACHINES/EQUIPMENT (full standard name):
+- "SCHLATTER PG12" (aliases: PG12, Schlatter 12)
+- "SCHLATTER PG28" (aliases: PG28, Schlatter 28)
+- "ROLL FORM LINE" (aliases: Roll Form, Rollform)
+- "MESH TRIM LINE" (aliases: Mesh Trim)
+- "GALVANIZING LINE 1/2/3" (aliases: Galv Line, Galv 1)
+- "DRAWING LINE GZ1/GZ2/GZ3" (aliases: Drawing GZ)
+- "CLIFFORD CLW12", "CLIFFORD MMW", "CLIFFORD MWPA"
+- "FLOK WELD LINE" (aliases: FLOK)
+- "ANNEALING LINE" (aliases: Annld)
+
+WAREHOUSES:
+- "NEWCASTLE WAREHOUSE, NSW"
+- "MACKAY WAREHOUSE, QLD"
+- "PERTH WAREHOUSE, WA"
+
+DATES (format: Month Day, Year):
+- "January 15, 2025" (not 2025-01-15 or 15/01/2025)
+- Periods: "Week 3 of January 2025", "Q1 2025", "FY2025"
+
+=== RELATIONSHIP PHRASES (Use These Exact Patterns) ===
+Orders:
+- "[CUSTOMER] placed order [ORDER#] on [DATE]"
+- "Order [ORDER#] contains [QUANTITY] of [PRODUCT]"
+- "Order [ORDER#] is for delivery to [LOCATION]"
+
+Production:
+- "[MACHINE] produced [QUANTITY] of [PRODUCT] on [DATE]"
+- "[MACHINE] processed job [JOB#] for [CUSTOMER]"
+- "Production run achieved [QUANTITY] units with [YIELD]% yield"
+
+Shipping:
+- "[PRODUCT] was shipped from [ORIGIN] to [DESTINATION] on [DATE]"
+- "Shipment [SHIPMENT#] contains [QUANTITY] of [PRODUCT]"
+- "[CUSTOMER] received delivery of [PRODUCT] at [LOCATION]"
+
+Inventory:
+- "[WAREHOUSE] holds [QUANTITY] of [PRODUCT] in stock"
+- "Current inventory of [PRODUCT] is [QUANTITY] units"
+
+Sales:
+- "[CUSTOMER] purchased [QUANTITY] of [PRODUCT] for $[AMOUNT]"
+- "Total sales value: $[AMOUNT] AUD"
+
+Forecasts:
+- "[CUSTOMER] forecasts demand of [QUANTITY] for [PRODUCT] in [PERIOD]"
+- "Projected requirement: [QUANTITY] units of [PRODUCT]"
+
+=== INSTRUCTIONS ===
+1. Start each paragraph with a SOURCE TAG: [Source: {filename} | Record type: {type}]
+2. Write one clear paragraph per record (max 400 characters)
+3. If a record has many fields, split into 2-3 focused paragraphs
+4. Replace ALL IDs/codes with looked-up canonical names
+5. Use EXACT entity naming formats above - consistency is critical
+6. Use EXACT relationship phrases above
+7. Include quantities with units: "5,000 units", "2,500 kg", "$45,000 AUD"
+8. Preserve all reference numbers: job numbers, order numbers, PO numbers
+9. Include dates in every paragraph where available
+10. Never combine multiple records into one paragraph
+
+=== OUTPUT FORMAT ===
+
+**IMPORTANT: If META tag instructions were provided above, EVERY paragraph must start with a [META: ...] line.**
+
+FORMAT WITH META TAGS (when retrieval-sensitive fields are specified):
+[META: date=2025-01-15 | machine=SCHLATTER_PG12 | product=R500L5.60Blk | order=JA001]
+[Source: filename.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 15, 2025. Job number JA001 was processed for SOUTH32 with 98.5% yield rate.
+
+[META: date=2025-01-10 | customer=SOUTH32 | order=PO-2025-001 | product=R500L5.60Blk | location=APPIN_MINE_NSW]
+[Source: filename.csv | Type: order_record]  
+SOUTH32 placed order PO-2025-001 on January 10, 2025. Order contains 10,000 units of R500L5.60Blk - Rebar 500L 5.6m Black for delivery to APPIN MINE, NSW.
+
+FORMAT WITHOUT META TAGS (when no retrieval-sensitive fields specified):
+[Source: filename.csv | Type: production_record]
+SCHLATTER PG12 produced 5,000 units of R500L5.60Blk - Rebar 500L 5.6m Black on January 15, 2025.
+
+META TAG RULES:
+- Tags go on a separate line BEFORE the [Source: ...] line
+- Use format: [META: key=value | key=value | ...]
+- Dates: YYYY-MM-DD format (e.g., date=2025-12-03)
+- Machine/location names: UPPERCASE_WITH_UNDERSCORES (e.g., machine=CLIFFORD_MMW)
+- Codes/IDs: exact values (e.g., product=IMG4-44-2015, order=254980)
+- Include all retrieval-sensitive fields from the record
+
+Now transform the records:

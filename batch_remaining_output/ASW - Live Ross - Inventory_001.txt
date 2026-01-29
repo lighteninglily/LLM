@@ -1,0 +1,999 @@
+Friction-Lok rings are stored in warehouse M1 at ASW Perth. The company code is 3, and the product group description is Friction-Lok. The part code is FBRING47, and the part description is Friction Lok Ring. 47 Diameter. The inventory control status is QOH, indicating quantity on hand. There are no units in stock, and no units have been picked, dispatched, reserved, or awaiting confirmation out. The available quantity is 0.
+
+FRICTION LOK BOLTS 47mm x 2400mm, galvanized, 150 bolts per pack, are stored in warehouse M1 at ASW Perth. The company code is 3, and the product group description is Friction-Lok. The part code is JFL4724G, and the part description is FRICTION LOK BOLT 47mm x 2400mm - GAL150 BOLTS PER PACK. The inventory control status is QOH, indicating quantity on hand. There are 1800 units in stock, and no units have been picked, dispatched, reserved, or awaiting confirmation out. The available quantity is 1800.
+
+FRICTION LOK BOLTS 47mm x 2400mm, galvanized, 150 bolts per pack, are stored in warehouse M1 at ASW Perth. The company code is 3, and the product group description is Friction-Lok. The part code is JFL4724G, and the part description is FRICTION LOK BOLT 47mm x 2400mm - GAL150 BOLTS PER PACK. The inventory control status is QR, indicating quantity reserved. There are 9900 units reserved, and no units have been picked, dispatched, reserved, or awaiting confirmation out. The available quantity is 9900.
+
+SHOTCRETE MESH 3.00m x 1.17m, 4mm wire, is stored in warehouse M1 at ASW Perth. The company code is 3, and the product group description is Jennchem Seals. The part code is SMESH300011704, and the part description is SHOTCRETE MESH 3.00m x 1.17m, 4mm wire. The inventory control status is QOH, indicating quantity on hand. There are no units in stock, and no units have been picked, dispatched, reserved, or awaiting confirmation out. The available quantity is 0.
+
+BDBOT-9423/390-9384x2384xN12BDBOT-9423/390 is stored in warehouse M1 at ASW Perth. The company code is 3, and the product group description is Mesh. The part code is BDBOT9423.390, and the part description is BDBOT-9423/390-9384x2384xN12BDBOT-9423/390. The inventory control status is QOH, indicating quantity on hand. There are 40 units in stock, and no units have been picked, dispatched, reserved, or awaiting confirmation out. The available quantity is 40.
+
+BDTOP-9423/390-9394x2394xN12BDTOP-9423/390 is stored in warehouse M1 at ASW Perth. The company code is 3, and the product group description is Mesh. The part code is BDTOP9423.390, and the part description is BDTOP-9423/390-9394x2394xN12BDTOP-9423/390. The inventory control status is QOH, indicating quantity on hand. There are no units in stock, and no units have been picked, dispatched, reserved, or awaiting confirmation out. The available quantity is 0.
+
+Mesh Rib 2m x 1.5m, 100 x 100 ap, 4.0mm wire, galvanized, is stored in warehouse M1 at ASW Perth. The company code is 3, and the product group description is Mesh. The part code is CC2015101004G, and the part description is Mesh Rib 2m x 1.5m, 100 x 100 ap, 4.0mm wire, galvanized. The inventory control status is QOH, indicating quantity on hand. There are no units in stock, and no units have been picked, dispatched, reserved, or awaiting confirmation out. The available quantity is 0.
+
+Mesh Mine 4.0m x 2.4m, 100 x 100 ap, 5.0mm wire, is stored in warehouse M1 at ASW Perth. The company code is 3, and the product group description is Mesh. The part code is CC4024101005, and the part description is Mesh Mine 4.0m x 2.4m, 100 x 100 ap, 5.0mm wire. The inventory control status is QOH, indicating quantity on hand. There are no units in stock, and no units have been picked, dispatched, reserved, or awaiting confirmation out. The available quantity is 0.
+
+Mesh Roof 5.00m x 1.35m, 100 x 100 ap, 5.0mm wire, is stored in warehouse M1 at ASW Perth. The company code is 3, and the product group description is Mesh. The part code is CC5014101005, and the part description is Mesh Roof 5.00m x 1.35m, 100 x 100 ap, 5.0mm wire. The inventory control status is QOH, indicating quantity on hand. There are no units in stock, and no units have been picked, dispatched, reserved, or awaiting confirmation out. The available quantity is 0.
+
+Mine Mesh 2400mm x 2400mm, 100 x 100 ap, 5.6mm wire, is stored in warehouse M1 at ASW Perth. The company code is 3, and the product group description is Mesh. The part code is CCP24241010056G, and the part description is Mine Mesh 2400mm x 2400mm, 100 x 100 ap, 5.6mm wire. The inventory control status is QOH, indicating quantity on hand. There are 400 units in stock, and no units have been picked, dispatched, reserved, or awaiting confirmation out. The available quantity is 400.
+
+Mesh Strap 3.0m x 0.3m, 100 x 100 ap, 8.0mm wire, galvanized, is stored in warehouse M1 at ASW Perth. The company code is 3, and the product group description is Mesh. The part code is CCP300310108G, and the part description is Mesh Strap 3.0m x 0.3m, 100 x 100 ap, 8.0mm wire, galvanized. The inventory control status is QOH, indicating quantity on hand. There are 19 units in stock, and no units have been picked, dispatched, reserved, or awaiting confirmation out. The available quantity is 19.
+
+Mesh Mine 3.5m x 2.4m, 100 x 100 ap, 5.6mm wire, is stored in warehouse M1 at ASW Perth. The company code is 3, and the product group description is Mesh. The part code is CCP35241010056G, and the part description is Mesh Mine 3.5m x 2.4m, 100 x 100 ap, 5.6mm wire. The inventory control status is QOH, indicating quantity on hand. There are 750 units in stock, and 700 units have been dispatched. The available quantity is 50.
+
+Mesh Mine 4.0m x 2.4m, 100 x 100 ap, 5.6mm wire, is stored in warehouse M1 at ASW Perth. The company code is 3, and the product group description is Mesh. The part code is CCP40241010056G, and the part description is Mesh Mine 4.0m x 2.4m, 100 x 100 ap, 5.6mm wire. The inventory control status is QOH, indicating quantity on hand. There are 600 units in stock, and no units have been picked, dispatched, reserved, or awaiting confirmation out. The available quantity is 600.
+
+Mesh Mine 4.2m x 2.4m, 100 x 100 ap, 5.6mm wire, is stored in warehouse M1 at ASW Perth. The company code is 3, and the product group description is Mesh. The part code is CCP42241010056G, and the part description is Mesh Mine 4.2m x 2.4m, 100 x 100 ap, 5.6mm wire. The inventory control status is QOH, indicating quantity on hand. There are 3696 units in stock, and no units have been picked, dispatched, reserved, or awaiting confirmation out. The available quantity is 3696.
+
+Mesh Mine 4.5m x 2.4m, 100 x 100 ap, 5.6mm wire, is stored in warehouse M1 at ASW Perth. The company code is 3, and the product group description is Mesh. The part code is CCP45241010056G, and the part description is Mesh Mine 4.5m x 2.4m, 100 x 100 ap, 5.6mm wire. The inventory control status is QOH, indicating quantity on hand. There are 2959 units in stock, and 1400 units have been dispatched. The available quantity is 1559.
+
+Mine Mesh 4.8m x 2.4m, 100 x 100 ap, 5mm wire, black, is stored in warehouse M1 at ASW Perth. The company code is 3, and the product group description is Mesh. The part code is CCP4824101005, and the part description is Mine Mesh 4.8m x 2.4m, 100 x 100 ap, 5mm wire, black. The inventory control status is QOH, indicating quantity on hand. There are no units in stock, and no units have been picked, dispatched, reserved, or awaiting confirmation out. The available quantity is 0.
+
+Mine Mesh 4800mm x 2400mm, 100 x 100 ap, 5.6mm wire, galvanized, is stored in warehouse M1 at ASW Perth. The company code is 3, and the product group description is Mesh. The part code is CCP48241010056G, and the part description is Mine Mesh 4800mm x 2400mm, 100 x 100 ap, 5.6mm wire, galvanized. The inventory control status is QOH, indicating quantity on hand. There are no units in stock, and no units have been picked, dispatched, reserved, or awaiting confirmation out. The available quantity is 0.
+
+Mine Mesh 5000mm long, is stored in warehouse M1 at ASW Perth. The company code is 3, and the product group description is Mesh. The part code is CCP50241010056G, and the part description is Mine Mesh 5000mm long. The inventory control status is QOH, indicating quantity on hand. There are no units in stock, and no units have been picked, dispatched, reserved, or awaiting confirmation out. The available quantity is 0.
+
+Ausro Strap 4.0m x 0.3m, OSH106H-4003, is stored in warehouse M1 at ASW Perth. The company code is 3, and the product group description is Mesh. The part code is JOS4003B, and the part description is Ausro Strap 4.0m x 0.3m, OSH106H-4003. The inventory control status is QOH, indicating quantity on hand. There are 516 units in stock, and 300 units have been dispatched. The available quantity is 216.
+
+Ausro Strap W 4000mm * 300mm * 10mm, OSH106H-4003G, is stored in warehouse M1 at ASW Perth. The company code is 3, and the product group description is Mesh. The part code is JOS4003G, and the part description is Ausro Strap W 4000mm * 300mm * 10mm, OSH106H-4003G. The inventory control status is QOH, indicating quantity on hand. There are 82 units in stock, and no units have been picked, dispatched, reserved, or awaiting confirmation out. The available quantity is 82.
+
+M1 - ASW Perth warehouse holds mesh products. The part code JOS5803B, described as Ausro Strap 5.8 x 0.3 OSH106H-5803, has an inventory level of 0 units. Similarly, JOS6000B and JOS6003B have no inventory levels. JOS6003B is available in 540 units, with 400 units in despatch and 400 unconfirmed. JOS6003G is available in 144 units. Mesh seismic products include MS30241010056GD, available in 665 units, and MS45241010056G, available in 67 units. Reinforced second aperture galvanized mesh, MS45241010056G2, is available in 69 units. Larger mesh seismic products such as MS50241010056G are available in 567 units. Roof mesh products include SMB5018101005, SMB5018101005G, SMB5113515105S, SMB5414101005C, SMB5612101005, SMF1614101004, SMF2214101004, and SMF24151010034G, all with zero inventory levels. Rib mesh product SMF36121010056G has 250 units available, meeting minimum and maximum levels of 250 and 500 respectively.
+
+M1 - ASW Perth warehouse has a stock of Mesh MESH MINE 4.5MX1.7M 100X100 APT 5.6MM WIRE - GALIMG5H-44-4517_JEN, part code SMF45171010056G, with zero inventory levels and no IC status changes recorded.
+
+M1 - ASW Perth warehouse also holds Mesh MESH Mine 4.5M X 2.4M 100X100 APT 5.0MM WIRE, part code SMF4524101005, with similar zero inventory levels and no IC status changes recorded.
+
+M1 - ASW Perth warehouse maintains a stock of 4mm Galvanized Wire in coils, part code COILGW4, with an inventory quantity of 2.49 tons and available quantity of 2.49 tons.
+
+M1 - ASW Perth warehouse has no stock of P COILGW4 Very High Tensile, part code COILGW4VHT, with zero inventory levels and no IC status changes recorded.
+
+M1 - ASW Perth warehouse stores Galvanized Wire 5mm, part code COILGW5, with an inventory quantity of 8 tons and available quantity of 8 tons.
+
+M1 - ASW Perth warehouse has 5.55mm Galvanized Wire in coils, part code COILGW5.6, with minimum level set at 1782 tons, maximum level at 2673 tons, and current inventory quantity of 0 tons.
+
+M1 - ASW Perth warehouse has 5.55mm Galvanized Wire in coils, part code COILGW5.6, with minimum level set at 1782 tons, maximum level at 2673 tons, and current inventory quantity of 1196.0654 tons.
+
+M1 - ASW Perth warehouse keeps 6.3mm Galvanized Wire in coils, part code COILGW6.3, with inventory quantity of 17.9407 tons and available quantity of 17.9407 tons.
+
+M1 - ASW Perth warehouse has no stock of 2.0mm Galfan Wire, part code COILZG2.0, with zero inventory levels and no IC status changes recorded.
+
+M1 - ASW Perth warehouse maintains 4.0mm Galfan Wire in coils, part code COILZG4, with an inventory quantity of 12 tons and available quantity of 12 tons.
+
+M1 - ASW Perth warehouse stores 10mm Bright Wire in coils, part code CW500L10MM, with an inventory quantity of 27.995 tons and available quantity of 27.995 tons.
+
+M1 - ASW Perth warehouse has no stock of Hard Drawn Wire 3.97mm black, part code CW500L3.97HD, with zero inventory levels and no IC status changes recorded.
+
+M1 - ASW Perth warehouse keeps 4.0mm Bright Wire in coils, part code CW500L4, with an inventory quantity of 71.9787 tons, 12.04 tons in despatch, and available quantity of 59.9387 tons.
+
+M1 - ASW Perth warehouse stores 5.0mm Bright Wire in coils, part code CW500L5, with an inventory quantity of 53.984 tons, 24.139 tons in despatch, and available quantity of 29.845 tons.
+
+M1 - ASW Perth warehouse keeps 5.6mm Bright Wire in coils, part code CW500L5.6, with an inventory quantity of 41.1271 tons and available quantity of 41.1271 tons.
+
+M1 - ASW Perth warehouse stores 6.0mm Bright Wire in coils, part code CW500L6, with an inventory quantity of 30.6007 tons and available quantity of 30.6007 tons.
+
+M1 - ASW Perth warehouse keeps 6.3mm Bright Wire in coils, part code CW500L6.3, with an inventory quantity of 17.585 tons and available quantity of 17.585 tons.
+
+M1 - ASW Perth warehouse stores 7.10mm Bright Wire in coils, part code CW500L7.1, with an inventory quantity of 8.966 tons and available quantity of 8.966 tons.
+
+M1 - ASW Perth warehouse keeps 8.0mm Bright Wire in coils, part code CW500L8, with an inventory quantity of 25.931 tons, 6.009 tons in despatch, and available quantity of 19.922 tons.
+
+M1 - ASW Perth warehouse stores 6.0mm Ribbed Wire in spools, part code D500L06.0SP, with an inventory quantity of 49.9703 tons and available quantity of 49.9703 tons.
+
+M1 - ASW Perth warehouse holds Mesh Components Coil, Rod, Wire parts. Part D500L06.3SP, 6.3mm Ribbed wire in Spools, has an IC Quantity of 0 and is measured in TONN. The part description is 6.3mm Ribbed wire in SpoolsD500L6.3-Spools.
+
+M1 - ASW Perth warehouse holds Mesh Components Coil, Rod, Wire parts. Part D500L07.6SP, 7.60mm Ribbed Wire in Spools, has an IC Quantity of 16.3599 and is measured in TONN. The part description is 7.60mm Ribbed Wire in SpoolsD500L7.6-Spools. The minimum and maximum levels are set to 40 and 60 respectively.
+
+M1 - ASW Perth warehouse holds Mesh Components Coil, Rod, Wire parts. Part D500L08.6SP, 8.60mm Ribbed Wire in Spools, has an IC Quantity of 32.095 and is measured in TONN. The part description is 8.60mm Ribbed Wire in SpoolsD500L8.6-Spools. The minimum and maximum levels are set to 40 and 60 respectively.
+
+M1 - ASW Perth warehouse holds Mesh Components Coil, Rod, Wire parts. Part D500L09.5SP, 9.50mm Ribbed Wire in Spools, has an IC Quantity of 3.4962 and is measured in TONN. The part description is 9.50mm Ribbed Wire in SpoolsD500L9.5-Spools. The minimum and maximum levels are set to 26 and 38 respectively.
+
+M1 - ASW Perth warehouse holds Mesh Components Coil, Rod, Wire parts. Part D500L12.0SP, 12mm Rib Wire in Spools, has an IC Quantity of 0 and is measured in TONN. The part description is 12mm Rib Wire in SpoolsD500L12.0-Spools. The minimum and maximum levels are set to 0 and 0 respectively.
+
+M1 - ASW Perth warehouse holds Bar Chairs parts. Part FCBR25, 25mm x 4mm Bar Chairs, has an IC Quantity of 700 and is measured in EA. The part description is 25mm x 4mm Bar Chairs SuitFCBR25. The minimum and maximum levels are set to 0 and 0 respectively.
+
+M1 - ASW Perth warehouse holds Bar Chairs parts. Part FCBR40, 40mm x 4mm Bar Chairs, has an IC Quantity of 500 and is measured in EA. The part description is 40mm x 4mm Bar Chairs SuitFCBR40. The minimum and maximum levels are set to 0 and 0 respectively.
+
+M1 - ASW Perth warehouse holds Bar Chairs parts. Part FCBR50, 50mm x 4mm Bar Chairs, has an IC Quantity of 500 and is measured in EA. The part description is 50mm x 4mm Bar Chairs SuitFCBR50. The minimum and maximum levels are set to 0 and 0 respectively.
+
+M1 - ASW Perth warehouse holds Bar Chairs parts. Part FCBR75, 75mm x 4mm Bar Chairs, has an IC Quantity of 2500 and is measured in EA. The part description is 75mm x 4mm Bar Chairs SuitFCBR75. The minimum and maximum levels are set to 0 and 0 respectively.
+
+M1 - ASW Perth warehouse holds Fast Clip Mesh Chairs parts. Part FCMR20, 20mm Fast Clip Mesh Chairs, has an IC Quantity of 1200 and is measured in EA. The part description is 20mm Fast Clip Mesh ChairsFCMR20. The minimum and maximum levels are set to 0 and 0 respectively.
+
+M1 - ASW Perth warehouse holds Fast Clip Mesh Chairs parts. Part FCMR25, 25mm Fast Clip Mesh Chairs, has an IC Quantity of 2700 and is measured in EA. The part description is 25mm Fast Clip Mesh ChairsFCMR25. The minimum and maximum levels are set to 0 and 0 respectively.
+
+M1 - ASW Perth warehouse holds Fast Clip Mesh Chairs parts. Part FCMR40, 40mm Fast Clip Mesh Chairs, has an IC Quantity of 2300 and is measured in EA. The part description is 40mm Fast Clip Mesh ChairsFCMR40. The minimum and maximum levels are set to 0 and 0 respectively.
+
+M1 - ASW Perth warehouse holds Fast Clip Mesh Chairs parts. Part FCMR50, 50mm Fast Clip Mesh Chairs, has an IC Quantity of 3200 and is measured in EA. The part description is 50mm Fast Clip Mesh ChairsFCMR50. The minimum and maximum levels are set to 0 and 0 respectively.
+
+M1 - ASW Perth warehouse holds Fast Clip Mesh Chairs parts. Part FCMR60, 60mm Fast Clip Mesh Chairs, has an IC Quantity of 2400 and is measured in EA. The part description is 60mm Fast Clip Mesh ChairsFCMR60. The minimum and maximum levels are set to 0 and 0 respectively.
+
+M1 - ASW Perth warehouse holds Fast Clip Mesh Chairs parts. Part FCMR65, 65mm Fast Clip Mesh Chairs, has an IC Quantity of 3800 and is measured in EA. The part description is 65mm Fast Clip Mesh ChairsFCMR65. The minimum and maximum levels are set to 0 and 0 respectively.
+
+M1 - ASW Perth warehouse holds Fast Clip Mesh Chairs parts. Part FCMR75, 75mm Fast Clip Mesh Chairs, has an IC Quantity of 1100 and is measured in EA. The part description is 75mm Fast Clip Mesh ChairsFCMR75. The minimum and maximum levels are set to 0 and 0 respectively.
+
+M1 - ASW Perth warehouse holds 1.2Kg Rolls for Belt Packs parts. Part TIE1.4MM, 1.2Kg Rolls, has an IC Quantity of 320 and is measured in EA. The part description is 1.2Kg Rolls for Belt PacksTie-1.4mm. The minimum and maximum levels are set to 0 and 0 respectively.
+
+M1 - ASW Perth warehouse holds Tie wire parts. Part TIE3.15X1.2MM, 3.15mm - 1.2m Length, has an IC Quantity of 58.5 and is measured in TONN. The part description is Tie wire - 3.15mm - 1.2m LengthTie-3.15mm-1.2m. The minimum and maximum levels are set to 52 and 79 respectively.
+
+M1 - ASW Perth warehouse holds Tie wire parts. Part TIE3.15X2.3MM, 3.15mm x 2.3m Length, has an IC Quantity of 9.25 and is measured in TONN. The part description is Tie Wire 3.15mmx2.3m LenghtTie-3.15mm-2.3m. The minimum and maximum levels are set to 21 and 43 respectively.
+
+M1 - ASW Perth warehouse holds Tie wire parts. Part TIE3.15X2.4MM, 3.15mm x 2.4m Length, has an IC Quantity of 0 and is measured in TONN. The part description is Tie Wire 3.15mmx2.4m LengthTie-3.15mm-2.4m. The minimum and maximum levels are set to 0 and 0 respectively.
+
+M1 - ASW Perth warehouse houses Mesh Components Coil, Rod, Wire with part code TIE4.0X1000KG. The inventory level is monitored closely, with a current quantity of 2.02 TONN available, meeting the minimum and maximum levels set at 5 and 8 respectively. The inventory control status is QOH, indicating that the quantity on hand matches the actual stock.
+
+M1 - ASW Perth warehouse does not hold any inventory for 6mm Wire 6m long (750 pcs) with part code 6MBW6. The inventory level is zero, and there are no pending or reserved quantities.
+
+M1 - ASW Perth warehouse also lacks stock for 8mm Wire 6m long (425 pcs) with part code 6MBW8. Similar to the previous part, the inventory level is zero, and there are no pending or reserved quantities.
+
+M1 - ASW Perth warehouse maintains records for S&C Rib Wire 6.0x1000mm - 1 Piece with part code D500L6X1M. Currently, there is no inventory held, with all quantities at zero.
+
+M1 - ASW Perth warehouse keeps track of S&C Rib Wire 12.0x2000mm - 1 Piece with part code D500N12X2M. Like the previous parts, the inventory level is zero, and there are no pending or reserved quantities.
+
+M1 - ASW Perth warehouse stores S&C Brt Wire 10x6000mm 500kgs with part code SCBW10X6M. The inventory level is zero, and there are no pending or reserved quantities.
+
+M1 - ASW Perth warehouse has 9 units of S&C Brt Wire 4.0x2395mm 500Kgs with part code SCBW4X2.3M. The inventory level is 9, with 8 units picked and 1 unit available. There are no pending or reserved quantities.
+
+M1 - ASW Perth warehouse does not have any inventory for S&C Brt Wire 4.0x6000mm 500kgs with part code SCBW4X6.0M. The inventory level is zero, and there are no pending or reserved quantities.
+
+M1 - ASW Perth warehouse does not have any inventory for S&C Brt Wire 10x6000mm 500kgs with part code SCBW4X6M. The inventory level is zero, and there are no pending or reserved quantities.
+
+M1 - ASW Perth warehouse does not have any inventory for S&C Brt Wire 5.6x2395mm 500kgs with part code SCBW5.6X2.3MK50. The inventory level is zero, and there are no pending or reserved quantities.
+
+M1 - ASW Perth warehouse does not have any inventory for S&C Brt Wire 5.6x2410mm 500Kgs with part code SCBW5.6X2.41M. The inventory level is zero, and there are no pending or reserved quantities.
+
+M1 - ASW Perth warehouse does not have any inventory for S&C Brt Wire 5.0x2395mm 500Kgs with part code SCBW5X2.3M. The inventory level is zero, and there are no pending or reserved quantities.
+
+M1 - ASW Perth warehouse does not have any inventory for S&C Brt Wire 5.0x2410mm 500kgs with part code SCBW5X2.41M. The inventory level is zero, and there are no pending or reserved quantities.
+
+M1 - ASW Perth warehouse has 2 units of S&C Brt Wire 5.0x6000mm 500Kgs with part code SCBW5X6M. The inventory level is 2, with 1 unit picked and 1 unit available. There are no pending or reserved quantities.
+
+M1 - ASW Perth warehouse does not have any inventory for S&C Brt Wire 6.3x2395mm 500kgs with part code SCBW6.3X2.3M. The inventory level is zero, and there are no pending or reserved quantities.
+
+M1 - ASW Perth warehouse does not have any inventory for S&C Brt Wire 6.3x2420mm 500Kgs with part code SCBW6.3X2.42M. The inventory level is zero, and there are no pending or reserved quantities.
+
+M1 - ASW Perth warehouse has 4 units of S&C Brt Wire 6.3x6000mm 500kgs with part code SCBW6.3X6M. The inventory level is 4, with 4 units picked and 4 units available. There are no pending or reserved quantities.
+
+M1 - ASW Perth warehouse does not have any inventory for S&C Brt Wire 6.0x6000mm 500Kgs with part code SCBW6X6M. The inventory level is zero, and there are no pending or reserved quantities.
+
+M1 - ASW Perth warehouse does not have any inventory for S&C Brt Wire 8X2600mm 500Kgs with part code SCBW8X2.6. The inventory level is zero, and there are no pending or reserved quantities.
+
+M1 - ASW Perth warehouse does not have any inventory for S&C Brt Wire 8x6000mm 500kgs with part code SCBW8X6.0. The inventory level is zero, and there are no pending or reserved quantities.
+
+S&C Rib Wire 6.0x1800mm 500kgs SCN6.0-1800-500kgs is stored in warehouse M1 at ASW Perth. The product group is Smooth Rod Raw Materials, and the inventory level is zero across all statuses.
+
+S&C Rib Wire 6.0x6000mm 500kgs SCN6.0-6000-500kgs is also stored in warehouse M1 at ASW Perth. It belongs to the Smooth Rod Raw Materials product group, with zero inventory levels across all statuses.
+
+S&C Rib Wire 6.0x7200mm 500kgs SCN6.0-7200-500kgs is stored in warehouse M1 at ASW Perth. This product is part of the Smooth Rod Raw Materials product group, and it has zero inventory levels across all statuses.
+
+S&C Galv 1.25mmx300mmx2.85kg SCN GW1.25-300-2.85Kg is stored in warehouse M1 at ASW Perth. It is part of the Smooth Rod Raw Materials product group, with an inventory quantity of 348, and zero levels across all other statuses.
+
+S&C Galv 1.25mmx400mmx3.8Kg SCN GW1.25-400-3.8Kg is stored in warehouse M1 at ASW Perth. It belongs to the Smooth Rod Raw Materials product group, with zero inventory levels across all statuses.
+
+S&C Wire 10mmx3500mm SCBW10-3500 is stored in warehouse M1 at ASW Perth. This product is part of the Smooth Rod Raw Materials product group, and it has zero inventory levels across all statuses.
+
+S&C Galv Wire 6.3x1000mm SCN GW6.3-1000 is stored in warehouse M1 at ASW Perth. It is part of the Smooth Rod Raw Materials product group, with an inventory quantity of 40000, and 20000 units available after accounting for 20000 units in despatch and 20000 unconfirmed quantities.
+
+S&C Gal Wire 6.3x6000mm 500kgs SCN GW6.3-6000-500kgs is stored in warehouse M1 at ASW Perth. It belongs to the Smooth Rod Raw Materials product group, with zero inventory levels across all statuses.
+
+S&C Galv Wire 6.3x6000mm 500Pc SCN GW6.3-6000-500Pcs is stored in warehouse M1 at ASW Perth. This product is part of the Smooth Rod Raw Materials product group, and it has zero inventory levels across all statuses.
+
+S&C Wire 8.0x6000mm 500 Kg SCN BW8.0-6000-500Kg is stored in warehouse M1 at ASW Perth. It is part of the Smooth Rod Raw Materials product group, and it has zero inventory levels across all statuses.
+
+Crimping Pliers Type 001 ACC CRIMP001-CRIMPPLIERS is stored in warehouse M1 at ASW Perth. It is part of the Steel Mesh product group, and it has zero inventory levels across all statuses.
+
+Fence Pliers Type 001 ACC FPLIER001-FENCEPLIER is stored in warehouse M1 at ASW Perth. This product is part of the Steel Mesh product group, and it has zero inventory levels across all statuses.
+
+Joint Clamp 5mm ACC JCLAMP005-JOINTCLAMP is stored in warehouse M1 at ASW Perth. It is part of the Steel Mesh product group, and it has zero inventory levels across all statuses.
+
+Joint Clamp 6mm ACC JCLAMP006-JOINTCLAMP is stored in warehouse M1 at ASW Perth. This product is part of the Steel Mesh product group, and it has zero inventory levels across all statuses.
+
+Joint Clamp 8mm ACC JCLAMP008-JOINTCLAMP is stored in warehouse M1 at ASW Perth. It is part of the Steel Mesh product group, and it has zero inventory levels across all statuses.
+
+Joint Clamp Bolt Type 100 ACC JCLAMP100-JOINTCLAMP is stored in warehouse M1 at ASW Perth. This product is part of the Steel Mesh product group, and it has zero inventory levels across all statuses.
+
+Y Post Caps Yellow ACC PCAP001 is stored in warehouse M1 at ASW Perth. It is part of the Steel Mesh product group, and it has zero inventory levels across all statuses.
+
+Post Driver Type 001 ACC PDRIVE-001 is stored in warehouse M1 at ASW Perth. This product is part of the Steel Mesh product group, and it has zero inventory levels across all statuses.
+
+Post Driver Type 002 ACC PDRIVE002-POSTDRIVER is stored in warehouse M1 at ASW Perth. It is part of the Steel Mesh product group, and it has zero inventory levels across all statuses.
+
+Ratchet Strainer 001 ACC RAT001 is stored in warehouse M1 at ASW Perth. This product is part of the Steel Mesh product group, and it has zero inventory levels across all statuses.
+
+M1 - ASW Perth warehouse, located in Western Australia, holds steel mesh products including staple gun parts (Part Code: ACCSTAPLEGUN001). The inventory status shows zero units available across all metrics.
+
+M1 - ASW Perth warehouse, located in Western Australia, stores steel mesh products such as chain strainers (Part Code: ACCSTRAIN1CHN). The inventory status indicates zero units available across all metrics.
+
+M1 - ASW Perth warehouse, located in Western Australia, maintains inventory of tensioning handles (Part Code: ACCTENS1HAND). The inventory status reflects zero units available across all metrics.
+
+M1 - ASW Perth warehouse, located in Western Australia, keeps stock of wire twisting tools (Part Code: ACCWTWIST001). The inventory status shows zero units available across all metrics.
+
+M1 - ASW Perth warehouse, located in Western Australia, has 229 units of BDBOT-8723/280-8774X2274XN12 (Part Code: BDBOT8723.280) available, with no units picked, despatched, reserved, awaiting confirm out, or unconfirmed.
+
+M1 - ASW Perth warehouse, located in Western Australia, has 225 units of BDBOT-8724/230-8734X2354XN10 (Part Code: BDBOT8724.230) available, with no units picked, despatched, reserved, awaiting confirm out, or unconfirmed.
+
+M1 - ASW Perth warehouse, located in Western Australia, does not have any units of BDBOT-8923/340-8934X2334XN12 (Part Code: BDBOT8923.340) available.
+
+M1 - ASW Perth warehouse, located in Western Australia, does not have any units of BDBOT-9323/390-9364X2364XN12 (Part Code: BDBOT9323.390) available.
+
+M1 - ASW Perth warehouse, located in Western Australia, has 180 units of BDTOP-8723/280-8794X2294XN8 (Part Code: BDTOP8723.280) available, with no units picked, despatched, reserved, awaiting confirm out, or unconfirmed.
+
+M1 - ASW Perth warehouse, located in Western Australia, has 420 units of BDTOP-8724/230-8744X2364XN8 (Part Code: BDTOP8724.230) available, with no units picked, despatched, reserved, awaiting confirm out, or unconfirmed.
+
+M1 - ASW Perth warehouse, located in Western Australia, does not have any units of BDTOP-8923/340-8944X2344XN10 (Part Code: BDTOP8923.340) available.
+
+M1 - ASW Perth warehouse, located in Western Australia, does not have any units of BDTOP-9323/390-9374x2374xN12 (Part Code: BDTOP9323.390) available.
+
+M1 - ASW Perth warehouse, located in Western Australia, has 430 units of 100x100x3000x2400x5.6 Ind Mesh (Part Code: CCP30241010056G) available, with 250 units despatched and 250 units unconfirmed, leaving 180 units available.
+
+M1 - ASW Perth warehouse, located in Western Australia, does not have any units of MESH MINE 4.5MX1.2M 100X100 APT 5.6MM WIRE - GAL (Part Code: CCP45121010056G) available.
+
+M1 - ASW Perth warehouse, located in Western Australia, does not have any units of DNU- see SMF45171010056G (Part Code: CCP45171010056G) available.
+
+M1 - ASW Perth warehouse, located in Western Australia, does not have any units of Spider Clamps 12.5mm (Part Code: CFPCLAMPS12.5) available.
+
+M1 - ASW Perth warehouse, located in Western Australia, does not have any units of Nut&Bolt - M12x25 (Part Code: CFPSCREWSM12X25) available.
+
+M1 - ASW Perth warehouse, located in Western Australia, does not have any units of Anti Theft Nut&Bolt - M8X25 (Part Code: CFPSCREWSM8X25) available.
+
+M1 - ASW Perth warehouse, located in Western Australia, does not have any units of Anti Theft Nut&Bolt - M8x30 (Part Code: CFPSCREWSM8X30) available.
+
+M1 - ASW Perth warehouse, located in Western Australia, does not have any units of 6x1.8+3B CGates BPVC 1x6m (Part Code: CGATEBPVC) available.
+
+M1 - ASW Perth warehouse has steel mesh products including 9000x1800+3Barb CGates Galvanized (Part Code: CGATEG900180B3), which has an inventory status of zero units available.
+
+M1 - ASW Perth warehouse also stocks Spl Gate CGate Special (Part Code: CGATESPEC), with no units available.
+
+Helical PVCB 4mm-35Kg (315m) (Part Code: CHCWB4PVC35H) is another product in the steel mesh group at M1 - ASW Perth, with zero units available.
+
+I Fence Post Galvanized - 2.6m (Part Code: CIFPG7044.260) and I Fence Post Galvanized - 3.4m (Part Code: CIFPG7044.340) are both present in M1 - ASW Perth's inventory, with zero units available.
+
+T/L Wire HG-PVCB 2mm-5kg (180m) (Part Code: CLW2PVCB5) is also part of the steel mesh collection at M1 - ASW Perth, with zero units available.
+
+A large coil of 25x25x1200x30000x2.0 Mesh Coil IMG2-11-12C30 (Part Code: CM1200C3002G) is stored at M1 - ASW Perth, with zero units available.
+
+Cthru Mesh 2350-IMG4H-2325 (Part Code: CTHRUIMG4H2325) is available with 500 units in stock at M1 - ASW Perth.
+
+Ctrhu Mesh 1150-IMG4H-2412 (Part Code: CTHRUIMG4H2412) is available with 569 units in stock at M1 - ASW Perth.
+
+Cthru mesh 1750-IMG4H-2418 (Part Code: CTHRUIMG4H2418) is available with 118 units in stock at M1 - ASW Perth.
+
+T Wire BPVC 1.57mm-5kg (325m) (Part Code: CTWBPVC1.57) is stored at M1 - ASW Perth, with zero units available.
+
+SL62 Square Mesh 6x2.4 (Part Code: D500LSL62) is available with zero units in stock at M1 - ASW Perth.
+
+SL72 Square Mesh 6x2.4 (Part Code: D500LSL72) is available with zero units in stock at M1 - ASW Perth.
+
+N10 Dbar in Coils (Part Code: D500N10COIL) is available with 155.7192 tons in stock at M1 - ASW Perth.
+
+10MM Ribbed Reinforcing Bar 6M (Part Code: D500N10X6M) is available with 1 ton in stock at M1 - ASW Perth.
+
+12MM Ribbed Reinforcing Bar 6M (Part Code: D500N12X6M) is available with 87.145 tons in stock at M1 - ASW Perth.
+
+N12 Dbar In Coils (Part Code: D500N12XCOIL) is available with 130.2387 tons in stock at M1 - ASW Perth.
+
+16MM Ribbed Reinforcing Bar 6M (Part Code: D500N16X6M) is available with 63.381 tons in stock at M1 - ASW Perth.
+
+N20x6m lengths (Part Code: D500N20X6M) are available with 5.04 tons in stock at M1 - ASW Perth.
+
+N8 Dbar in Coil (Part Code: D500N8.0COIL) is available with 55.1439 tons in stock at M1 - ASW Perth.
+
+RL1018 Rectangular Mesh 6x2.4 is stored in warehouse M1 at ASW Perth. The inventory level is 199 units, with 80 units available for despatch. Currently, there are no picked, reserved, or awaiting confirm out quantities.
+
+RL1218 Rectangular Mesh 6x2.4 is also stored in warehouse M1 at ASW Perth. The inventory level stands at 155 units, all of which are available for use.
+
+100x100x6000x2400x8.6x7.6P D500RL918 is stored in warehouse M1 at ASW Perth, but currently has no inventory or available quantities.
+
+SL81 Square Mesh D500SL81 is stored in warehouse M1 at ASW Perth. There are 100 units in inventory, with 40 units available for despatch. The remaining 60 units are available for future use.
+
+SL82 Square Mesh 6x2.4 D500SL82 is stored in warehouse M1 at ASW Perth. The inventory level is 906 units, all of which are available for use.
+
+SL92 Square Mesh 6x2.4 D500SL92 is stored in warehouse M1 at ASW Perth, but currently has no inventory or available quantities.
+
+Flat Washer with 8.5mm Slot DFA-8.5Washer is stored in warehouse M1 at ASW Perth, but currently has no inventory or available quantities.
+
+Dble Angle 5 Line Barb Wire Breaker DFA-BWAD-5Line is stored in warehouse M1 at ASW Perth, but currently has no inventory or available quantities.
+
+Dble Angle 5 Line Corner Bar Wire Breaker DFA-BWADC-5Line is stored in warehouse M1 at ASW Perth, but currently has no inventory or available quantities.
+
+Single Angle 5 Line Barb Wire Breaker DFA-BWAS-5Line is stored in warehouse M1 at ASW Perth, but currently has no inventory or available quantities.
+
+Single Angle 5 Line Corner Bar Wire Breaker DFA-BWADC-5Line is stored in warehouse M1 at ASW Perth, but currently has no inventory or available quantities.
+
+Barb Wire Break for Gates - Start Line DFA-BWGS-5Line is stored in warehouse M1 at ASW Perth, but currently has no inventory or available quantities.
+
+Start 5 Line Barb Wire Bracket DFA-BWS-5Line is stored in warehouse M1 at ASW Perth, but currently has no inventory or available quantities.
+
+Start 5 Line Corner Barb Wire Breaker DFA-BWSC-5Line is stored in warehouse M1 at ASW Perth, but currently has no inventory or available quantities.
+
+45 Degree Corner Plates - Left Hand Side DFA-CnrPlate-LHS is stored in warehouse M1 at ASW Perth, but currently has no inventory or available quantities.
+
+45 Degree Corner Plates - Right Hand Side DFA-CnrPlate-RHS is stored in warehouse M1 at ASW Perth, but currently has no inventory or available quantities.
+
+2.4m Double Side Alligator Top Rail DFA-Allig-Dble-2400 is stored in warehouse M1 at ASW Perth, but currently has no inventory or available quantities.
+
+1m Pedestrian Gate Frame DFA-DFPG1HFR is stored in warehouse M1 at ASW Perth, but currently has no inventory or available quantities.
+
+1m Pedestrian Gate - Heavy Left Hand Side/Right Hand Side DFA-DFPG1HLR is stored in warehouse M1 at ASW Perth, but currently has no inventory or available quantities.
+
+1m Pedestrian Gate - Left Hand Side Hinges Included DFA-DFPG1ML is stored in warehouse M1 at ASW Perth, but currently has no inventory or available quantities.
+
+M1 - ASW Perth warehouse, located in Perth, Western Australia, holds steel mesh products including various gate components and panels. The warehouse currently has no inventory levels set for any of these items, and all inventory control statuses indicate a Quick On Hand (QOH) status. Part DFADFPG1MR, a 1m Ped Gate Compl - RH Hinges, is available in quantities of 0 across all stages of inventory management. Similarly, part DFADFVG24HLR, a 2.4m Wide Hvy Veh Gt LHS/RHS, is also available in quantities of 0. Other parts such as DFADFVG30SLH, DFADFVG30SRH, DFADFVGPHLH, DFADFVGPHRH, DFADFVGPSLH, DFADFVGPSLR, DFASGLE2400, JOS3003B, JOS3003G, MP122404G, MP242404G, MP252404G, MP3012507504G, MP302404G, MP312404G, MP352404G, MP362404G, and MP411904G are all available in quantities of 0.
+
+JOS3003B, an Ausro Strap 3.0 x 0.3 OSH106H-3003, has an inventory quantity of 310, while JOS3003G, an Ausro Straps Gal 3.0 x 0.3 OSH106H-3003G, has an inventory quantity of 394. Both parts are ready for immediate use with no pending actions or reservations.
+
+MP242404G, a 358 Panels 2.4m x 2.4m, has an inventory quantity of 218, falling within the minimum and maximum levels set by the company. This indicates that the warehouse has sufficient stock to meet current demands without needing additional orders.
+
+MP302404G, a 358 Panels 3.0m x 2.4m, has an inventory quantity of 252, which is above the minimum level but below the maximum level, suggesting a balanced inventory status. MP362404G, a 358 Panels 3.6m x 2.4m, has an inventory quantity of 71, also above the minimum level but below the maximum level, indicating a similar balanced status.
+
+MP312404G, a 358 Panel 3.1m x 2.4m, has an inventory quantity of 64, which is above the minimum level but below the maximum level, showing a balanced inventory status. MP352404G, a 358 PANEL 3.5M X 2.4M, has an inventory quantity of 0, indicating that it is out of stock and may need replenishment.
+
+MP411904G, a 358 Panels 4050x1895, has an inventory quantity of 0, indicating that it is out of stock and may need replenishment.
+
+M1 - ASW Perth warehouse stores various steel mesh products. MP412004G, described as 358 Panels 4050x1950IMZG4-305-4H19H, has an inventory status of zero units across all metrics. MP422404G, 358 PANEL 4.2M X 2.4MIMZG4-305-4224, also shows zero units. MP432404G, 358 PANEL 4.3M X 2.4MIMZG4-305-4324, similarly has no inventory. MP452404G, 358 Panels 4.5m x 2.4mIMZG4-305-4524, has 43 units available for despatch but none reserved or awaiting confirmation. MP462404G, 358 Mesh 4.6m x 2.4mIMZG4-305-4624, and MP602404G, 358 Panels 6m x 2.4mIMZG4-305-6024, both have zero units. MP60H204HG, 358 Panels 6.4m x 2.395mIMZG4-305H-64H24H, and MP642404G, 358 Mesh 6.4m x 2.4mIMZG4-305-6424, also show zero units. MS15H45241010G and MS25H45241010G, both DNU-see MS45241010056G and MS45241010056G2, respectively, have zero units. MS5H45241010G, 100x100x4500x2400x5.6 SM MeshIMG5H-44-4524-JEN-SM, has zero units. MS5H50241010G, DNU-see MS50241010056G, and MSTRAP300308G, DNU-see CCP300310108G, both have zero units. PMES6H2015G, 17x50x2000x1500x6.3mm Pig MeshIMG6H-207-2015G, and PMES6H2415G, 17x50x2400x1500x6.3mm Pig MeshIMG6H-207-2415G, both have zero units. RAZ550CON, 550mm Concertina Barbed TapeRAZ550CON, has zero units. RFWZAL25HT1T, HT Trellis Wire-2.5-1 Ton CoilRFWZAL25HT-1 TON COILS, and RFWZAL315HT1T, HT Trellis Wire3.15-1 Ton CoilRFWZAL315HT-1 TON COILS, both have zero units. SESCREW0425X30, Self Tapp Screw 30mm- 100 boxSESCREW0425-30mm, has zero units. SL41, SL 41 Square Mesh 6X2.4R500SL41, has 1732 units available, with a minimum level of 882 and a maximum level of 1323.
+
+M1 - ASW Perth warehouse, managed by Company Code 3, holds Steel Mesh products. The SL41G part, described as SL 41 Square Mesh 6X2.4 GalvR500SL41, has an inventory count of 1225 units available. No other movements have been recorded for this part.
+
+The SM5H36241010FG part, known as 100x100x3600x2400x5.6 Ind MeshIMG5H-44-3624, is also stored in M1 - ASW Perth. It currently has 600 units available, with no recent transactions noted.
+
+The SM5H40241010FG part, marked as DNU- see CCP40241010056G, is not present in the inventory; thus, it has 0 units available.
+
+The SM5H501610104G part, described as 100x100x5000x1600x5.6 4mm GalvIMG5H4-44-5016-WLC, is similarly absent from the inventory, with 0 units available.
+
+The SM5H50241010G part, noted as DNU- see MS50241010056G, is also missing from the inventory, with 0 units available.
+
+The SMB1811202005 part, identified as 200x200x1800x1100x5mm LDMeshIMB5-88-1811, is not in stock, with 0 units available.
+
+The SMB4024101005 part, described as DNU- see CC402410105, is also not present in the inventory, with 0 units available.
+
+The SMB4517101005 part, known as 100x100x4500x1700x5mm Bright MIMB5-44-4517, has 1525 units available, with no recent movements recorded.
+
+The SMB4524101005 part, described as 100x100x4500x2400x5mm BlackIMB5-44-4524, is not in stock, with 0 units available.
+
+The SMB4814100505 part, identified as 100x100x4800x1400x4x5IMB45-44-4814-CCC, is also not present in the inventory, with 0 units available.
+
+The SMB4814101505 part, noted as 100x150x4800x1400x5mmIMB5-46-4814-MCO, is not in stock, with 0 units available.
+
+The SMB4H45171010 part, described as 100x100x4500x1700x4.24mm BlackIMB4H-44-4517, has 470 units available, with 60 units picked and 60 unconfirmed.
+
+The SMB5002100505 part, marked as DNU- see SMB5002101004, is not in stock, with 0 units available.
+
+The SMB5002101004 part, identified as 100x50x25x5000x250x4x5IMB45-421-5002-DEN, is also not present in the inventory, with 0 units available.
+
+The SMB5011101005 part, described as 100x100x5000x1100x5mm - DWAIMB5-44-5011-DWA, is not in stock, with 0 units available.
+
+The SMB5014101005 part, noted as DNU- see CC5014101005, is also not present in the inventory, with 0 units available.
+
+The SMB5016101005 part, identified as 100x100x5000x1600x5mm - JNAIMB5-44-5016-JNA, is not in stock, with 0 units available.
+
+The SMB5016101505 part, noted as DNU- see SMB5016151005S, is also not present in the inventory, with 0 units available.
+
+The SMB5112151504 part, described as 150x150x5100x1150x4x5 - DEN2IMB45-66-5111-DEN2, is not in stock, with 0 units available.
+
+M1 - ASW Perth warehouse, managed by company code 3, holds steel mesh products. Part code SMB5114151005, described as DNU- see SMB5113515105S, has an inventory count of zero across all metrics.
+
+M1 - ASW Perth warehouse, managed by company code 3, holds steel mesh products. Part code SMB5117151504, described as DNU- see SMB5118151505, has an inventory count of zero across all metrics.
+
+M1 - ASW Perth warehouse, managed by company code 3, holds steel mesh products. Part code SMB5118151505, described as 150x150x5100x1700x4x5IMB45-66-5117-DEN, has an inventory count of zero across all metrics.
+
+M1 - ASW Perth warehouse, managed by company code 3, holds steel mesh products. Part code SMB5616151005, described as 100x100x5600x1600x5mm Ind MeshIMB5-44-5616, has an inventory count of zero across all metrics.
+
+M1 - ASW Perth warehouse, managed by company code 3, holds steel mesh products. Part code SMB5H482410100, described as 100x100x4800x2400x5.6mm Ind MeIMB5H-44-4824, has an inventory count of zero across all metrics.
+
+M1 - ASW Perth warehouse, managed by company code 3, holds steel mesh products. Part code SMB5H50171015, described as DNU- see SMB5018101005, has an inventory count of zero across all metrics.
+
+M1 - ASW Perth warehouse, managed by company code 3, holds steel mesh products. Part code SMB6012101505, described as 100x150x6000x1200x4x5 Ind MeshIMB45-46-6012-DPI, has an inventory count of zero across all metrics.
+
+M1 - ASW Perth warehouse, managed by company code 3, holds steel mesh products. Part code SMBS3003101008, described as 100x100x3000x300x8 Black StrapIMB8-44-3003, has an inventory count of 1218 units available.
+
+M1 - ASW Perth warehouse, managed by company code 3, holds steel mesh products. Part code SMBS6003101008, described as 100x100x6000x300x8mm Mesh StraIMB8-44-6003, has an inventory count of 1250 units available.
+
+M1 - ASW Perth warehouse, managed by company code 3, holds steel mesh products. Part code SMC303H1200510G, described as 50x100x3.15x1200x30mIMG3H-24-1200C30, has an inventory count of zero across all metrics.
+
+M1 - ASW Perth warehouse, managed by company code 3, holds steel mesh products. Part code SMC603H1200510G, described as 50x100x3.15x1200x60mIMG3H-24-1200C60, has an inventory count of zero across all metrics.
+
+M1 - ASW Perth warehouse, managed by company code 3, holds steel mesh products. Part code SMESH1200850505, described as DNU- see SMESH300011704, has an inventory count of zero across all metrics.
+
+M1 - ASW Perth warehouse, managed by company code 3, holds steel mesh products. Part code SMF11090505004G, described as 50x50x1150x950x4mm Weld MeshIMG4-22-1109, has an inventory count of zero across all metrics.
+
+M1 - ASW Perth warehouse, managed by company code 3, holds steel mesh products. Part code SMF12080505005G, described as 50x50x1200x800x5mm Ind MeshIMG5-22-1208, has an inventory count of zero across all metrics.
+
+M1 - ASW Perth warehouse, managed by company code 3, holds steel mesh products. Part code SMF1614101005, described as DNU- see SMF1614101004, has an inventory count of zero across all metrics.
+
+M1 - ASW Perth warehouse, managed by company code 3, holds steel mesh products. Part code SMF17121001004G, described as 100x100x1700x1200x4mm Ind MeshIMG4-44-1712-WLC, has an inventory count of zero across all metrics.
+
+M1 - ASW Perth warehouse, managed by company code 3, holds steel mesh products. Part code SMF1814101004, described as 100x150x1800x1400x4mm - DMEIMB4-46-1814-DME, has an inventory count of zero across all metrics.
+
+M1 - ASW Perth warehouse, managed by company code 3, holds steel mesh products. Part code SMF20120505004G, described as 50x50x2000x1200x4mm Ind MeshIMG4-22-2012, has an inventory count of 385 units available.
+
+M1 - ASW Perth warehouse, managed by company code 3, holds steel mesh products. Part code SMF20120507504G, described as 50x75x2000x1200x4mm Ind MeshIMG4-23-2012, has an inventory count of 149 units available.
+
+M1 - ASW Perth warehouse, managed by company code 3, holds steel mesh products. Part code SMF20151001004G, described as DNU- see CC2015101004G, has an inventory count of zero across all metrics.
+
+M1 - ASW Perth warehouse, managed by Company Code 3, stores various steel mesh products. The warehouse holds SMF23110102005G, a 100x200x2.3x1.1x5mm weld mesh, with zero inventory levels and no available quantity.
+
+M1 - ASW Perth warehouse also stocks SMF24090505004G, a 50x50x2350x950x4mm weld mesh, with similar zero inventory levels and no available quantity.
+
+SMF24120505004G, a 50x50x2400x1200x4mm ind mesh, is stored in M1 - ASW Perth with a minimum level of 800 and a maximum level of 1200. The current inventory status shows an IC Quantity of 1, indicating one unit available.
+
+SMF24120505005G, a 50x50x2400x1200x5mm ind mesh, has an IC Quantity of 566, all of which are available.
+
+SMF24120507504G, a 50x75x2400x1200x4mm ind mesh, has zero inventory levels and no available quantity.
+
+SMF24120575005G, a 50x75x2400x1200x5mm ind mesh, has an IC Quantity of 201, all of which are available.
+
+SMF24120755004G, a 75x50x2400x1200x4mm ind mesh, has zero inventory levels and no available quantity.
+
+SMF24120755005G, a 75x50x2400x1200x5m ind mesh, has zero inventory levels and no available quantity.
+
+SMF24120757504G, a 75x75x2400x1200x4mm ind mesh, has zero inventory levels and no available quantity.
+
+SMF24121001004G, a 100x100x2400x1200x4mm gal mesh, has an IC Quantity of 1236, all of which are available.
+
+SMF24121001005G, a 100x100x2400x1200x5mm ind mesh, has zero inventory levels and no available quantity.
+
+SMF241575504, a 50x75x2400x1500x4mm ind mesh, has zero inventory levels and no available quantity.
+
+SMF2420101003, a 100x100x2400x2000x3.15mm ind mesh, has zero inventory levels and no available quantity.
+
+SMF2512040404G, a 40x40x2500x1200x4mm ind mesh, has zero inventory levels and no available quantity.
+
+SMF2516757503G, a 2.5mx1.6m 75x75 apt 3.15mm wire - gal mesh, has zero inventory levels and no available quantity.
+
+SMF2618101003, a 100x100x2600x1800x3.15mm ind mesh, has zero inventory levels and no available quantity.
+
+SMF29110102005G, a 100x200x2.9x1.1x5mm weld mesh, has zero inventory levels and no available quantity.
+
+SMF2H201202525G, a 25x25x2000x1200x2.5mm ind mesh, has an IC Quantity of 198, all of which are available.
+
+SMF2H241202525G, a 25x25x2400x1200x2.5mm ind mesh, has zero inventory levels and no available quantity.
+
+SMF2H302402525G, a 25x25x3000x2400x2.5mm ind mesh, has an IC Quantity of 60, all of which are available.
+
+M1 - ASW Perth warehouse, managed by Company Code 3, holds various steel mesh products. The warehouse contains a significant stock of SMF3024050505G, a 50x50x3000x2400x5mm weld mesh, with an inventory count of 478 units, meeting the minimum level requirement. Additionally, there is a surplus of 530 units available after accounting for despatched items and reserved quantities.
+
+The warehouse also stocks SMF30240755005G, a 75x50x3000x2400x5mm ind mesh, with an inventory count of 264 units. This product meets the minimum level requirement and has no reserved or despatched quantities.
+
+SMF30241001005G, a 100x100x3000x2400x5mm ind mesh, is another item stored in the warehouse, with an inventory count of 314 units, matching the minimum level requirement. There are no reserved or despatched quantities for this product.
+
+Company Code 3's warehouse also maintains a stock of SMF3H20125050G, a 50x50x2000x1200x3.5mm ind mesh, with an inventory count of 500 units. This product meets the minimum level requirement and has no reserved or despatched quantities.
+
+SMF3H24125050G, a 50x50x2400x1200x3.15mm ind mesh, is stored with an inventory count of 559 units, exceeding the minimum level. After accounting for 225 units despatched, 334 units remain available.
+
+The warehouse also keeps a stock of SMF3H24125075G, a 50x75x2400x1200x3.15mm ind mesh, with an inventory count of 100 units, matching the minimum level requirement. There are no reserved or despatched quantities for this product.
+
+SMF3H24122525G, a 25x25x2400x1200x3.15mm ind mesh, is stored with an inventory count of 14 units. This product meets the minimum level requirement and has no reserved or despatched quantities.
+
+SMF3H24122550G, a 25x50x2400x1200x3.15mm ind mesh, is stored but currently has no inventory count.
+
+SMF3H24125025G, a 50x25x2400x1200x3.15 ind mesh, is stored but currently has no inventory count.
+
+SMF3H24127575G, a 75x75x2400x1500x3.15 tfh mesh, is stored but currently has no inventory count.
+
+SMF3H24171010G, a 100x100x2400x1700x3.15mm ind mesh, is stored but currently has no inventory count.
+
+SMF3H25267575G, a 75x75x2500x1600x3.15 mesh, is stored but currently has no inventory count.
+
+SMF3H30242525G, a 25x25x3000x2400x3.15 ind mesh, is stored with an inventory count of 7 units. This product meets the minimum level requirement and has no reserved or despatched quantities.
+
+M1 - ASW Perth warehouse, managed by Company Code 3, holds various steel mesh products. The warehouse stock includes 25x50x3000x2400x3.15 Ind Mesh (Part Code: SMF3H30242550G) with an inventory of 28 units available. Another product is 50x25x3000x2400x3.15 Ind Mesh (Part Code: SMF3H30245025G), currently with zero units in stock. The warehouse also stores 50x50x3000x2400x3.15 Ind Mesh (Part Code: SMF3H30245050G) with 150 units available. Additionally, there are 50x75x3000x2400x3.15 Ind Mesh (Part Code: SMF3H30245075G) with 332 units available. Other items include 50x50x4400x1500x3.15 Ind Mesh (Part Code: SMF3H44155050G) with zero units, 50x50x4000x2000x4mm Gal Mesh (Part Code: SMF4024505004G) with zero units, 100x200x4.1x1.1x5mm Weld mesh (Part Code: SMF41110102005G) with zero units, 100x50x4500x1200x4mm Ind Mesh (Part Code: SMF45121000504G) with zero units, and 100x100x4500x1200 Ind mesh (Part Code: SMF45121001005G) with zero units. There are also 100x100x4500x2800x5.6 Ind Mesh (Part Code: SMF45281010056G) with 54 units available. Other products include 100x200x4.6x1.1x5mm Weld Mesh (Part Code: SMF46110102005G) with zero units, 100x200x4600x1500 Ind Mesh (Part Code: SMF46150102005G) with zero units, MESH 100X100X4800X1400X4MM BLACK (Part Code: SMF4814101004) with zero units, 100x200x4750x1100 Ind Mesh (Part Code: SMF48150102005G) with zero units, DNU- see CCP48241010056G (Part Code: SMF48241010056G) with zero units, DNU- see CCP50241010056G (Part Code: SMF50241010056G) with zero units, DNU- see SMB5018101005G (Part Code: SMF55H50171015G) with zero units, 100x100x2400x300x5.6IMG5H-44-2403 (Part Code: SMF5H240301010G) with 250 units available. Lastly, there are 100x100x2400x1200x5.6 Ind Mesh (Part Code: SMF5H241201010G) with zero units and USE CODE CCP24241010056GIMG5H-44-2424 (Part Code: SMF5H242401010G) with zero units.
+
+M1 - ASW Perth warehouse stores steel mesh products. Part code SMF5H30241010G is described as 100x100x3000x2400x5.6 Ind MeshIMG5H-44-3024-IND. The inventory status indicates zero units at all levels, with QOH status code and EA unit of measure.
+
+M1 - ASW Perth warehouse stores steel mesh products. Part code SMF5H352401010G is described as DNU- see CCP35241010056G. The inventory status indicates zero units at all levels, with QOH status code and EA unit of measure.
+
+M1 - ASW Perth warehouse stores steel mesh products. Part code SMF5H35241010G is described as 100x100x3500x2400x5.6 Ind MeshIMG5H-44-3524-JEN. The inventory status indicates zero units at all levels, with QOH status code and EA unit of measure.
+
+M1 - ASW Perth warehouse stores steel mesh products. Part code SMF5H40241010G is described as DNU- see CCP40241010056G. The inventory status indicates zero units at all levels, with QOH status code and EA unit of measure.
+
+M1 - ASW Perth warehouse stores steel mesh products. Part code SMF5H45181010G is described as 100x100x4500x1800x5.6 Ind MeshIMG5H-44-4518. The inventory status indicates zero units at all levels, with QOH status code and EA unit of measure.
+
+M1 - ASW Perth warehouse stores steel mesh products. Part code SMF5H45241010G is described as DNU- see CCP45241010056G. The inventory status indicates zero units at all levels, with QOH status code and EA unit of measure.
+
+M1 - ASW Perth warehouse stores steel mesh products. Part code SMF5H60151515G is described as 150x150x6000x1500x5.6 CtlIMG5H-66-6015. The inventory status indicates zero units at all levels, with QOH status code and EA unit of measure.
+
+M1 - ASW Perth warehouse stores steel mesh products. Part code SMF60121000504G is described as 100x50x6000x1200x4mm Ind MeshIMG4-42-6012. The inventory status indicates zero units at all levels, with QOH status code and EA unit of measure.
+
+M1 - ASW Perth warehouse stores steel mesh products. Part code SMF60121001005G is described as 100x100x6000x1200x5 Ind MeshIMG5-44-6012. The inventory status indicates zero units at all levels, with QOH status code and EA unit of measure.
+
+M1 - ASW Perth warehouse stores steel mesh products. Part code SMF60150102005G is described as 100x200x6000x1500 Ind MeshIMG5-48-6015. The inventory status indicates zero units at all levels, with QOH status code and EA unit of measure.
+
+M1 - ASW Perth warehouse has a minimum level of 12 and maximum level of 17 for part code SROL11005C305G, described as 100x150x30mx1100x5 Shpyrd coilIMG5-46-1100C30. The inventory status indicates 26 units in stock, with QOH status code and EA unit of measure. Six units have been despatched, leaving 20 units available.
+
+M1 - ASW Perth warehouse stores steel mesh products. Part code SROL1500C305G is described as 100x200x1500x30mx5mmIMG5-48-15C30. The inventory status indicates zero units at all levels, with QOH status code and EA unit of measure.
+
+M1 - ASW Perth warehouse stores steel mesh products. Part code SROLL1800C60 is described as Mesh Rolls 1800x60mIMB4-44-18C60. The inventory status indicates zero units at all levels, with QOH status code and EA unit of measure.
+
+M1 - ASW Perth warehouse stores steel mesh products. Part code SSM2412101004 is described as 100x100x4x2400x1200x4.0SSIMSS4-44-2412. The inventory status indicates zero units at all levels, with QOH status code and EA unit of measure.
+
+M1 - ASW Perth warehouse stores steel mesh products. Part code SSM2412101005 is described as 100x100x5x2400x1200x5.6 SSIMSS5-44-2412. The inventory status indicates 115 units in stock, with QOH status code and EA unit of measure.
+
+M1 - ASW Perth warehouse stores steel mesh products. Part code SSM2412252503 is described as 25x25x2400x1200x3mm SS316IMSS3-11-2412. The inventory status indicates 24 units in stock, with QOH status code and EA unit of measure.
+
+M1 - ASW Perth warehouse stores steel mesh products. Part code SSM2412505003 is described as 50x50x3x2400x1200x3 SSIMSS3-22-2412. The inventory status indicates 125 units in stock, with QOH status code and EA unit of measure.
+
+M1 - ASW Perth warehouse stores steel mesh products. Part code SSM2412505004 is described as 50x50x2400x1200x4 SSIMSS4-22-2412. The inventory status indicates 181 units in stock, with QOH status code and EA unit of measure.
+
+M1 - ASW Perth warehouse stores steel mesh products. Part code SSM2412505005 is described as 50x50x2400x1200x5mm SS316IMSS5-22-2412. The inventory status indicates 78 units in stock, with QOH status code and EA unit of measure.
+
+M1 - ASW Perth warehouse stores steel mesh products. Part code SSM2H24122525 is described as 25x25x2400x1200x2.5mm SS316IMSS2H-11-2412. The inventory status indicates zero units at all levels, with QOH status code and EA unit of measure.
+
+M1 - ASW Perth warehouse holds steel mesh products. The company code is 3. The first product is SYARD091015C30G, a 100x150x30mx900x5 shpyard coil, with an inventory quantity of 39 units available. No transactions have been recorded for this part.
+
+The second product is SYARD600910155G, a 100x150x6000x900x5 sheepyard, with an inventory quantity of 1206 units available. 20 units were reserved for despatch, leaving 1186 units available.
+
+The third product is SYARD601110155G, another 100x150x6000x1100x5 sheepyard, with an inventory quantity of 669 units available. 32 units were reserved for despatch, leaving 637 units available.
+
+TCHDRND1, a heavy duty gate high round post 35/41, has no inventory quantity available.
+
+TCHDRND2, a heavy duty gate hanging round post 60kg, also has no inventory quantity available.
+
+TMESH1200C60, tank mesh rolls 1200x60m, has an inventory quantity of 10 units available.
+
+TMESH1550C60, tank mesh rolls 1550x60m, has an inventory quantity of 8 units available.
+
+VEE Mesh 2400 long is not currently in stock.
+
+TG110-12/06/06-2.2M, TG110-12/06/06-3.8M, TG110-12/06/06-9.2M, and TG110-12/06/06-9.6M, all truss girder parts, have no inventory quantity available.
+
+TG112-10/60/60-4.0M, TG119-12/60/60 - 10.0M smooth bottom cord, and TG120-12/06/06-1.2M, TG120-12/06/06-1.4M, TG120-12/06/06-3.2M, TG120-12/06/06-3.6M, and TG120-12/06/06-4.2M, all truss girder parts, have no inventory quantity available.
+
+TG120-12/06/06-4.4M, a truss girder part, has no inventory quantity available.
+
+TG120-12/06/06-3.6M, a truss girder part, has an inventory quantity of 50 units available.
+
+M1 - ASW Perth warehouse, located in Western Australia, holds Truss Girder parts including T121X3.8M120606, which has the part description TG121-12/06/06-3.8M. The inventory status indicates a quantity of zero across all fields, reflecting a QOH status with units measured in each (EA).
+
+M1 - ASW Perth warehouse, located in Western Australia, stores Truss Girder parts such as T121X6.0M120606, described as TG121-12/06/06-6.0M. Similar to the previous entry, the inventory status shows zero across all fields, indicating a QOH status with each unit measured in each (EA).
+
+M1 - ASW Perth warehouse, situated in Western Australia, maintains Truss Girder parts like T121X6.2M120606, with the part description TG121-12/06/06-6.2M. The inventory status reflects a quantity of zero across all fields, showing a QOH status with each unit measured in each (EA).
+
+M1 - ASW Perth warehouse, located in Western Australia, keeps Truss Girder parts including T121X6.6M120606, described as TG121-12/06/06-6.6M. The inventory status indicates a quantity of zero across all fields, reflecting a QOH status with units measured in each (EA).
+
+M1 - ASW Perth warehouse, situated in Western Australia, stores Truss Girder parts such as T121X7.0M120606, with the part description TG121-12/06/06-7.0M. The inventory status shows zero across all fields, indicating a QOH status with each unit measured in each (EA).
+
+M1 - ASW Perth warehouse, located in Western Australia, maintains Truss Girder parts like T121X7.2M120606, described as TG121-12/06/06-7.2M. The inventory status reflects a quantity of zero across all fields, showing a QOH status with each unit measured in each (EA).
+
+M1 - ASW Perth warehouse, situated in Western Australia, keeps Truss Girder parts including T121X8.2M120606, with the part description TG121-12/06/06-8.2M. The inventory status indicates a quantity of zero across all fields, reflecting a QOH status with units measured in each (EA).
+
+M1 - ASW Perth warehouse, located in Western Australia, stores Truss Girder parts such as T121X8.4M120606, with the part description TG121-12/06/06-8.4M. The inventory status shows zero across all fields, indicating a QOH status with each unit measured in each (EA).
+
+M1 - ASW Perth warehouse, situated in Western Australia, maintains Truss Girder parts like T121X8.6M120606, described as TG121-12/06/06-8.6M. The inventory status reflects a quantity of zero across all fields, showing a QOH status with each unit measured in each (EA).
+
+M1 - ASW Perth warehouse, located in Western Australia, stores Truss Girder parts such as T121X9.0M120606, with the part description TG121-12/06/06-9.0M. The inventory status shows zero across all fields, indicating a QOH status with each unit measured in each (EA).
+
+M1 - ASW Perth warehouse, situated in Western Australia, keeps Truss Girder parts including T121X9.2M120606, described as TG121-12/06/06-9.2M. The inventory status indicates a quantity of zero across all fields, reflecting a QOH status with units measured in each (EA).
+
+M1 - ASW Perth warehouse, located in Western Australia, stores Truss Girder parts such as T121X9.4M120606, with the part description TG121-12/06/06-9.4M. The inventory status shows zero across all fields, indicating a QOH status with each unit measured in each (EA).
+
+M1 - ASW Perth warehouse, situated in Western Australia, maintains Truss Girder parts like T121X9.6M120606, described as TG121-12/06/06-9.6M. The inventory status reflects a quantity of zero across all fields, showing a QOH status with each unit measured in each (EA).
+
+M1 - ASW Perth warehouse, located in Western Australia, stores Truss Girder parts such as T135X10M100606, with the part description TG135-10/06/06-10MTG135-10/06/06-10M. The inventory status shows zero across all fields, indicating a QOH status with each unit measured in each (EA).
+
+M1 - ASW Perth warehouse, situated in Western Australia, keeps Truss Girder parts including T150X2.0M120606, described as TG150-12/06/06-2.0M. The inventory status indicates a quantity of zero across all fields, reflecting a QOH status with units measured in each (EA).
+
+M1 - ASW Perth warehouse, located in Western Australia, stores Truss Girder parts such as T150X3.0M120606, with the part description TG150-12/06/06-3.0M. The inventory status shows zero across all fields, indicating a QOH status with each unit measured in each (EA).
+
+M1 - ASW Perth warehouse, situated in Western Australia, maintains Truss Girder parts like T150X3.2M120606, described as TG150-12/06/06-3.2M. The inventory status reflects a quantity of zero across all fields, showing a QOH status with each unit measured in each (EA).
+
+M1 - ASW Perth warehouse, located in Western Australia, stores Truss Girder parts such as T150X3.4M120606, with the part description TG150-12/06/06-3.4M. The inventory status shows zero across all fields, indicating a QOH status with each unit measured in each (EA).
+
+M1 - ASW Perth warehouse, situated in Western Australia, keeps Truss Girder parts including T155X3.2M120606, described as TG155-12/06/06-3.2M. The inventory status indicates a quantity of zero across all fields, reflecting a QOH status with units measured in each (EA).
+
+M1 - ASW Perth warehouse, located in Western Australia, stores Truss Girder parts such as T164X1.8M126063, with the part description TG164-12/60/63-1.8M. The inventory status shows zero across all fields, indicating a QOH status with each unit measured in each (EA).
+
+M1 - ASW Perth warehouse stores Truss Girder parts including T164X2.0M120606 with part description TG164-12/06/06-2.0M. The inventory status is QOH with zero units available.
+
+M1 - ASW Perth warehouse stores Truss Girder parts including T180X10M100606 with part description TG180-10/06/06/10MTG180-10/06/06/10M. The inventory status is QOH with zero units available.
+
+M1 - ASW Perth warehouse stores Truss Girder parts including T190X4.0M120608 with part description TG190-12/06/08-4.0M. The inventory status is QOH with zero units available.
+
+M1 - ASW Perth warehouse stores Truss Girder parts including T270X10M100608 with part description TG270-10/06/08-10MTG270-10/06/08-10M. The inventory status is QOH with zero units available.
+
+M1 - ASW Perth warehouse stores Truss Girder parts including T320X10M100608 with part description TG320-10/06/08-10MTG320-10/06/08-10M. The inventory status is QOH with zero units available.
+
+M1 - ASW Perth warehouse stores Truss Girder parts including T90X3.8M100606 with part description TG90-10/06/06-3.8MTG90-10/06/06-3.8M. The inventory status is QOH with zero units available.
+
+M1 - ASW Perth warehouse stores 300 units of Truss Girder part T100X9M with part description TG100-10/6/6 - 9m Trusses. The inventory status is QOH with 300 units available.
+
+M1 - ASW Perth warehouse stores 1048 units of Truss Girder part T135X9M with part description TG135-10/6/6-9m. The inventory status is QOH with 1048 units available.
+
+M1 - ASW Perth warehouse stores 300 units of Truss Girder part T180X9M with part description TG180-10x6x6 - 9m. The inventory status is QOH with 300 units available.
+
+M1 - ASW Perth warehouse stores 200 units of Truss Girder part T230X9M with part description P TG230-10/6/6 - 9m. The inventory status is QOH with 200 units available.
+
+M1 - ASW Perth warehouse stores 150 units of Truss Girder part T270X9M with part description P TG270-10/6/8-9m. The inventory status is QOH with 150 units available.
+
+M1 - ASW Perth warehouse does not store any units of Truss Girder part ANNUALLEAVE with part description Annual Leave.
+
+M1 - ASW Perth warehouse does not store any units of Truss Girder part CLEANING with part description Plant Cleaning.
+
+M1 - ASW Perth warehouse does not store any units of Truss Girder part CRANE with part description Crane Operating.
+
+M1 - ASW Perth warehouse does not store any units of Truss Girder part CUTBACK2 with part description Cutback Bolt Shear.
+
+M1 - ASW Perth warehouse does not store any units of Truss Girder part FORKLIFTLOGIST with part description Forklift Drivers Logistic.
+
+M1 - ASW Perth warehouse does not store any units of Truss Girder part FORKLIFTPROD with part description Forklift Driver Production.
+
+M1 - ASW Perth warehouse does not store any units of Truss Girder part LEAVEWITHOUTPAY with part description Leave Without Pay.
+
+M1 - ASW Perth warehouse does not store any units of Truss Girder part LIGHTDUTY with part description Light Duties.
+
+M1 - ASW Perth warehouse does not store any units of Truss Girder part MEDICALCHECK with part description Medical Check.
+
+Plant Maintenance - General is stored in the Work in Process product group at M1 - ASW Perth warehouse. The part code is PLANTMTCE, and it has an inventory status of QOH with a quantity of 0.
+
+Plant Maintenance - Breakdown is also stored in the Work in Process product group at M1 - ASW Perth warehouse. The part code is PLANTMTCEB, and it has an inventory status of QOH with a quantity of 0.
+
+Plant Maintenance - Preventative is stored in the Work in Process product group at M1 - ASW Perth warehouse. The part code is PLANTMTCEP, and it has an inventory status of QOH with a quantity of 0.
+
+Public holiday hours are recorded in the Work in Process product group at M1 - ASW Perth warehouse. The part code is PUBLICHOLIDAY, and it has an inventory status of QOH with a quantity of 0.
+
+Quality Control Check is stored in the Work in Process product group at M1 - ASW Perth warehouse. The part code is QUALITYCONTROL, and it has an inventory status of QOH with a quantity of 0.
+
+LABOR: Setup Clifford is recorded in the Work in Process product group at M1 - ASW Perth warehouse. The part code is SETUPCLIFFORD, and it has an inventory status of QOH with a quantity of 0.
+
+LABOR: Setup Pittini is stored in the Work in Process product group at M1 - ASW Perth warehouse. The part code is SETUPPITTINI, and it has an inventory status of QOH with a quantity of 0.
+
+LABOR: Setup Straighteners is recorded in the Work in Process product group at M1 - ASW Perth warehouse. The part code is SETUPSTRAIGHT, and it has an inventory status of QOH with a quantity of 0.
+
+LABOR: Setup Truss Girder is stored in the Work in Process product group at M1 - ASW Perth warehouse. The part code is SETUPTRUSSGIR, and it has an inventory status of QOH with a quantity of 0.
+
+Sick Leave is recorded in the Work in Process product group at M1 - ASW Perth warehouse. The part code is SICKLEAVE, and it has an inventory status of QOH with a quantity of 0.
+
+LABOR: Support Hours is stored in the Work in Process product group at M1 - ASW Perth warehouse. The part code is SUPPHRS, and it has an inventory status of QOH with a quantity of 0.
+
+Training is recorded in the Work in Process product group at M1 - ASW Perth warehouse. The part code is TRAINING, and it has an inventory status of QOH with a quantity of 0.
+
+Workers comp hours are stored in the Work in Process product group at M1 - ASW Perth warehouse. The part code is WORKERSCOMP, and it has an inventory status of QOH with a quantity of 0.
+
+Part XXXXXX with no description is stored in the Work in Process product group at M1 - ASW Perth warehouse. The part code is XXXXXX, and it has an inventory status of QOH with a quantity of 0.
+
+SHOTCRETE MESH 3.00MX1.17M 4MM WIRE - GALIMG4D-66-3012 is stored in the Jennchem Seals product group at M2 - ASW Brisbane warehouse. The part code is SMESH300011704, and it has a minimum level of 3200, a maximum level of 4800, an inventory status of QOH with a quantity of 1455.
+
+BDBOT-9423/390-9384x2384xN12BDBOT-9423/390 is stored in the Mesh product group at M2 - ASW Brisbane warehouse. The part code is BDBOT9423.390, and it has an inventory status of QOH with a quantity of 0.
+
+BDTOP-9423/390-9394x2394xN12BDTOP-9423/390 is stored in the Mesh product group at M2 - ASW Brisbane warehouse. The part code is BDTOP9423.390, and it has an inventory status of QOH with a quantity of 0.
+
+Mesh Rib 2M x 1.5M 100 x 100 Apt 4.0mm wire GalIMG4-44-2015-JNA is stored in the Mesh product group at M2 - ASW Brisbane warehouse. The part code is CC2015101004G, and it has a minimum level of 4000, a maximum level of 6000, an inventory status of QOH with a quantity of 4200.
+
+Mesh Roof 5.00MX1.35M 100X100 APT 5.0MM WIREIMB5-44-5014-JNA is stored in the Mesh product group at M2 - ASW Brisbane warehouse. The part code is CC5014101005, and it has a minimum level of 1050, a maximum level of 1600, an inventory status of QOH with a quantity of 1534.
+
+Mine Mesh 2400x2400mm100x100 ap 5.6mm gal is stored in the Mesh product group at M2 - ASW Brisbane warehouse. The part code is CCP24241010056G, and it has an inventory status of QOH with a quantity of 50.
+
+MESH MINE 4.0MX2.4M 100X100 APT 5.6MM WIRE is stored in warehouse M2 at ASW Brisbane. The part code is CCP40241010056G and the current inventory level is 1800 units. The minimum and maximum levels are set to 2000 and 3000 respectively.
+
+MESH MINE 4.2MX2.4M 100X100 APT 5.6MM WIRE is also stored in warehouse M2 at ASW Brisbane. The part code is CCP42241010056G and there are currently no units in stock.
+
+MESH MINE 4.5MX2.4M 100X100 APIMG5H-44-4524_JEN is stored in warehouse M2 at ASW Brisbane. The part code is CCP45241010056G and the current inventory level is 7150 units. The minimum and maximum levels are set to 5917 and 8875 respectively.
+
+Mine Mesh 4.8 M x 2.4M 100 x 100 Apt 5mm Wire -BlkIMB5-44-4824 is stored in warehouse M2 at ASW Brisbane. The part code is CCP4824101005 and the current inventory level is 1500 units.
+
+Mine Mesh 4800X2400mm 100x100mm Apt 5.6mm wire GalvIMG5H-44-4824 is stored in warehouse M2 at ASW Brisbane. The part code is CCP48241010056G and the current inventory level is 3400 units. The minimum and maximum levels are set to 2333 and 3500 respectively.
+
+GX MESH 4.80MX1.125M 100X100 APT 4.0MM WIRE - GAL is stored in warehouse M2 at ASW Brisbane. The part code is GXB48111010100VG and there are currently no units in stock.
+
+GX MESH - ROOF 4.8M X 1.1M GALGLENCORE COAL MAT # 400124620 - ULAN NO.3 is stored in warehouse M2 at ASW Brisbane. The part code is GXB48111010VGU3 and there are currently no units in stock.
+
+GX MESH ROOF 4.80X1.21M 100X100 APT 4.0MM WIRE - GALV is stored in warehouse M2 at ASW Brisbane. The part code is GXB48121010040G and the current inventory level is 0 units. The minimum and maximum levels are set to 0 and 480 respectively.
+
+GX MESH - ROOF 4.8M X 1.2M GALAPPIN WEST MAT # 10992135 is stored in warehouse M2 at ASW Brisbane. The part code is GXB48121010VGAW and there are currently no units in stock.
+
+GX MESH - ROOF 4.8M X 1.2M GALDENDROBIUM MAT # 10992135 is stored in warehouse M2 at ASW Brisbane. The part code is GXB48121010VGDE and there are currently no units in stock.
+
+GX MESH ROOF 5.00MX1.20M 100X100APT 4.0MM WIRE GAL is stored in warehouse M2 at ASW Brisbane. The part code is GXB50121010040 and there are currently no units in stock.
+
+GX MESH 5.0M X 1.16M 100X100 APT 4.00MM WIRE - GAL is stored in warehouse M2 at ASW Brisbane. The part code is GXB5012101004G and there are currently no units in stock.
+
+GX MESH - ROOF 5.0M X 1.2M GALGLENCORE COAL MAT # 400037854 - OAKY CREEK is stored in warehouse M2 at ASW Brisbane. The part code is GXB50121010VGOC and there are currently no units in stock.
+
+GX MESH - ROOF 5.0M X 1.2M GALGLENCORE COAL MAT # 400195486 - ULAN WEST is stored in warehouse M2 at ASW Brisbane. The part code is GXB50121010VGUW and there are currently no units in stock.
+
+GX MESH 5.0MX1.2M 100X150 APT VARIABLE WIRE - GAL is stored in warehouse M2 at ASW Brisbane. The part code is GXB50121010VG and there are currently no units in stock.
+
+GX MESH ROOF 5.00M X 1.70M 100X150 APT 4.00MM WIRE - GAL is stored in warehouse M2 at ASW Brisbane. The part code is GXB501710154G and there are currently no units in stock.
+
+GX MESH ROOF 5.00MX1.75M 150X100 -IMGX44H-46-5017 is stored in warehouse M2 at ASW Brisbane. The part code is GXB5018101504G and there are currently no units in stock.
+
+GX MESH ROOF 5.60M X 1.40M 100X100 APT 4.0MM WIRE - GAL is stored in warehouse M2 at ASW Brisbane. The part code is GXB5614101004G and the current inventory level is 2040 units. The minimum and maximum levels are set to 480 and 960 respectively.
+
+Ausro Strap 4.0 x 0.3OSH106H-4003 is stored in warehouse M2 at ASW Brisbane. The part code is JOS4003B and the current inventory level is 10 units.
+
+Ausro Strap W 4000*300*10OSH106H-4003G is stored in warehouse M2 at ASW Brisbane. The part code is JOS4003G and there are currently no units in stock.
+
+M2 warehouse in ASW Brisbane carries mesh products. The company code is 3. The part code JOS5803B, known as Ausro Strap 5.8 x 0.3 OSH106H-5803, has a minimum level of 0 and maximum level of 0. Its inventory status is QOH, with a unit of measure EA. The current quantity is 0, with no picked, despatched, reserved, awaiting confirm out, unconfirmed, or available quantities.
+
+The part code JOS6000B, also known as DNU - SEE JOS6003B, follows similar inventory parameters with a minimum level of 0 and maximum level of 0. Its inventory status is QOH, with a unit of measure EA. The current quantity is 0, with no picked, despatched, reserved, awaiting confirm out, unconfirmed, or available quantities.
+
+Part code JOS6003B, named Ausro STRAP W 300*6000*10MM BLACK OSH106H-6003, has a minimum level of 480 and maximum level of 750. Its inventory status is QOH, with a unit of measure EA. The current quantity is 64, with no picked, despatched, reserved, awaiting confirm out, unconfirmed, or available quantities.
+
+Part code JOS6003G, described as AUSRO STRAP 6.0MX0.3M 10MM WIRE GAL OSH106H-6003G, has a minimum level of 0 and maximum level of 0. Its inventory status is QOH, with a unit of measure EA. The current quantity is 1160, with no picked, despatched, reserved, awaiting confirm out, unconfirmed, or available quantities.
+
+Part code SMB4814101005C, known as MESH ROOF 4.8MX1.42M 100X100 APT 5.0MM WIRE IMB5-44-4814-JCR, has a minimum level of 1920 and maximum level of 2880. Its inventory status is QOH, with a unit of measure EA. The current quantity is 0, with no picked, despatched, reserved, awaiting confirm out, unconfirmed, or available quantities.
+
+Part code SMB48141015045, described as MESH ROOF 4.80 M X 1.40M 100X150 APT 4.0MM & 5.0MM WIRE, has a minimum level of 0 and maximum level of 0. Its inventory status is QOH, with a unit of measure EA. The current quantity is 0, with no picked, despatched, reserved, awaiting confirm out, unconfirmed, or available quantities.
+
+Part code SMB5016151005S, named MESH ROOF 5.00MX1.55M 100X100 APT 5.0MM WIRE SLG IMB5-46-5016-JNA, has a minimum level of 1452 and maximum level of 2178. Its inventory status is QOH, with a unit of measure EA. The current quantity is 3861, with no picked, despatched, reserved, awaiting confirm out, unconfirmed, or available quantities.
+
+Part code SMB5018101005, described as MESH ROOF 5.00MX1.75M 100X100 APT 5.0MM WIRE IMB55H-46-5017-JAS, has a minimum level of 0 and maximum level of 0. Its inventory status is QOH, with a unit of measure EA. The current quantity is 1568, with no picked, despatched, reserved, awaiting confirm out, unconfirmed, or available quantities.
+
+Part code SMB5018101005G, known as MESH ROOF 5.00MX1.75M 100X100 APT 5.0MM WIRE-GAL IMG55H-46-5017-JAS, has a minimum level of 960 and maximum level of 1440. Its inventory status is QOH, with a unit of measure EA. The current quantity is 520, with no picked, despatched, reserved, awaiting confirm out, unconfirmed, or available quantities.
+
+Part code SMB5113515105S, named MESH ROOF 5.10MX1.35M 150X100 APT 5.0MM WIRE SLG IMB5-64-5113-JMOL, has a minimum level of 4338 and maximum level of 6507. Its inventory status is QOH, with a unit of measure EA. The current quantity is 3014, with no picked, despatched, reserved, awaiting confirm out, unconfirmed, or available quantities.
+
+Part code SMB5414101005, described as DNU- see SMB5414101005C, has a minimum level of 0 and maximum level of 0. Its inventory status is QOH, with a unit of measure EA. The current quantity is 0, with no picked, despatched, reserved, awaiting confirm out, unconfirmed, or available quantities.
+
+Part code SMB5414101005C, known as MESH ROOF 5.40 M X 1.40M 100X100 APT 5.0MM WIRE IMB5-44-5414-JEN, has a minimum level of 3641 and maximum level of 5462. Its inventory status is QOH, with a unit of measure EA. The current quantity is 0, with no picked, despatched, reserved, awaiting confirm out, unconfirmed, or available quantities.
+
+Part code SMB54141015045, described as MESH ROOF 5.40 M X 1.40M 100X150 APT 4.0MM & 5.0MM WIRE, has a minimum level of 0 and maximum level of 0. Its inventory status is QOH, with a unit of measure EA. The current quantity is 0, with no picked, despatched, reserved, awaiting confirm out, unconfirmed, or available quantities.
+
+Part code SMB5612101005, named MESH ROOF 5.60MX1.2M 100X100 APT 5.0MM WIRE IMB5-44-5612-JMA, has a minimum level of 1100 and maximum level of 1650. Its inventory status is QOH, with a unit of measure EA. The current quantity is 1680, with no picked, despatched, reserved, awaiting confirm out, unconfirmed, or available quantities.
+
+Part code SMF1614101004, described as Rib Mesh 1.6 x 1.4M 100x100 Apt 4mm Wire IMB4-44-1614-MCO, has a minimum level of 0 and maximum level of 0. Its inventory status is QOH, with a unit of measure EA. The current quantity is 3377, with no picked, despatched, reserved, awaiting confirm out, unconfirmed, or available quantities.
+
+Part code SMF1711151504UW, known as MESH - RIB 1.7M X 1.1M 150X150MM APT GLENCORE COAL MAT # 400208837 - ULAN WEST, has a minimum level of 0 and maximum level of 0. Its inventory status is QOH, with a unit of measure EA. The current quantity is 0, with no picked, despatched, reserved, awaiting confirm out, unconfirmed, or available quantities.
+
+Part code SMF1716101003G, described as RIB MESH 1.7M X 1.6M, 100X100 APT & 3.15MM GAL WIRE, has a minimum level of 0 and maximum level of 0. Its inventory status is QOH, with a unit of measure EA. The current quantity is 0, with no picked, despatched, reserved, awaiting confirm out, unconfirmed, or available quantities.
+
+Part code SMF2115151504U3, named MESH - RIB 2.1M X 1.5M 150X150MM APT GLENCORE COAL MAT # 400024932 - ULAN NO.3, has a minimum level of 0 and maximum level of 0. Its inventory status is QOH, with a unit of measure EA. The current quantity is 0, with no picked, despatched, reserved, awaiting confirm out, unconfirmed, or available quantities.
+
+Part code SMF2118151504U3, described as MESH - RIB 2.15M X 1.8M 150X150MM APT 4MM WIRE, has a minimum level of 0 and maximum level of 0. Its inventory status is QOH, with a unit of measure EA. The current quantity is 0, with no picked, despatched, reserved, awaiting confirm out, unconfirmed, or available quantities.
+
+Part code SMF2214101004, known as MESH RIB 2.20MX1.40M 100X100 APT 4.0MM WIRE IMB4-44-2214-JMOL, has a minimum level of 750 and maximum level of 1150. Its inventory status is QOH, with a unit of measure EA. The current quantity is 635, with no picked, despatched, reserved, awaiting confirm out, unconfirmed, or available quantities.
+
+MESH RIB 2.40mx1.50m 100x100 apt 3.0/4.0mm wire -GIMG34-44-2415-JAS is stored in warehouse M2 at ASW Brisbane. The product group is Mesh, and it has a minimum level of 1783 and a maximum level of 2675. Currently, the inventory count is 0 across all statuses.
+
+MESH - RIB 2.1m x 1.5m 150x150mm aptglencore coal mat # 400069557 - oaky creek is also stored in warehouse M2 at ASW Brisbane. It belongs to the Mesh product group and has no minimum or maximum levels. The current inventory count is 0 across all statuses.
+
+MESH MINE 5.7mx1.6m 100x100 apt 5mm wire - blk is stored in warehouse M2 at ASW Brisbane. This product group is Mesh, with a minimum level of 2400 and a maximum level of 3600. The current inventory count is 7290, and it is available for use.
+
+MESH MINE 5.7mx1.6m 100x100 apt 5mm wire - gal is stored in warehouse M2 at ASW Brisbane. It belongs to the Mesh product group and has a minimum level of 0 and a maximum level of 0. The current inventory count is 900, and it is available for use.
+
+4mm galvanized wire in coils COILGW4 is stored in warehouse M2 at ASW Brisbane. This product group is Mesh Components Coil, Rod, Wire, and it has no minimum or maximum levels. The current inventory count is 0 across all statuses.
+
+P COILGW4 very high tensile COILGW4VHT is stored in warehouse M2 at ASW Brisbane. It belongs to the Mesh Components Coil, Rod, Wire product group and has no minimum or maximum levels. The current inventory count is 0 across all statuses.
+
+Galvanized wire 5mm COILGW5 is stored in warehouse M2 at ASW Brisbane. This product group is Mesh Components Coil, Rod, Wire, with a minimum level of 0 and a maximum level of 0. The current inventory count is 2, and it is available for use.
+
+5.55mm galvanized wire in coils COILGW5.6 is stored in warehouse M2 at ASW Brisbane. It belongs to the Mesh Components Coil, Rod, Wire product group and has no minimum or maximum levels. The current inventory count is 0 across all statuses.
+
+6.3mm galvanized wire in coils COILGW6.3 is stored in warehouse M2 at ASW Brisbane. This product group is Mesh Components Coil, Rod, Wire, and it has no minimum or maximum levels. The current inventory count is 0 across all statuses.
+
+2.0mm galfan wire COILZG2.0 is stored in warehouse M2 at ASW Brisbane. It belongs to the Mesh Components Coil, Rod, Wire product group and has no minimum or maximum levels. The current inventory count is 0 across all statuses.
+
+4.0mm galfan wire in coils COILZG4 is stored in warehouse M2 at ASW Brisbane. This product group is Mesh Components Coil, Rod, Wire, with a minimum level of 0 and a maximum level of 0. The current inventory count is 0 across all statuses.
+
+10mm bright wire in coils R500L10.0-Coils is stored in warehouse M2 at ASW Brisbane. It belongs to the Mesh Components Coil, Rod, Wire product group and has no minimum or maximum levels. The current inventory count is 0 across all statuses.
+
+Hard drawn wire 3.97mm black R500L3.97-Coils is stored in warehouse M2 at ASW Brisbane. This product group is Mesh Components Coil, Rod, Wire, with a minimum level of 0 and a maximum level of 0. The current inventory count is 1, and it is available for use.
+
+4.0mm bright wire in coils R500L4.0-Coils is stored in warehouse M2 at ASW Brisbane. It belongs to the Mesh Components Coil, Rod, Wire product group and has no minimum or maximum levels. The current inventory count is 0 across all statuses.
+
+5.0mm bright wire in coils R500L5.0-Coils is stored in warehouse M2 at ASW Brisbane. This product group is Mesh Components Coil, Rod, Wire, with a minimum level of 0 and a maximum level of 0. The current inventory count is 0 across all statuses.
+
+5.6mm bright wire in coils R500L5.6-Coils is stored in warehouse M2 at ASW Brisbane. It belongs to the Mesh Components Coil, Rod, Wire product group and has no minimum or maximum levels. The current inventory count is 0 across all statuses.
+
+6.0mm bright wire in coils R500L6.0-Coils is stored in warehouse M2 at ASW Brisbane. This product group is Mesh Components Coil, Rod, Wire, with a minimum level of 0 and a maximum level of 0. The current inventory count is 2, and it is available for use.
+
+6.3mm bright wire in coils R500L6.3-Coils is stored in warehouse M2 at ASW Brisbane. It belongs to the Mesh Components Coil, Rod, Wire product group and has no minimum or maximum levels. The current inventory count is 0 across all statuses.
+
+7.10mm bright wire in coils R500L7.1-Coils is stored in warehouse M2 at ASW Brisbane. This product group is Mesh Components Coil, Rod, Wire, with a minimum level of 0 and a maximum level of 0. The current inventory count is 0 across all statuses.
+
+8.0mm bright wire in coils R500L8.0-Coils is stored in warehouse M2 at ASW Brisbane. It belongs to the Mesh Components Coil, Rod, Wire product group and has no minimum or maximum levels. The current inventory count is 0 across all statuses.
+
+M2 warehouse at ASW Brisbane carries various mesh components and fast clip mesh chairs. Part code D500L06.0SP represents 6.0mm ribbed wire in spools, while D500L06.3SP is 6.3mm ribbed wire in spools. Both have an inventory control status of QOH, indicating they are tracked by current on-hand quantity. Similarly, D500L07.6SP and D500L08.6SP represent 7.60mm and 8.60mm ribbed wire in spools respectively, all with zero inventory levels. Part code D500L09.5SP denotes 9.50mm ribbed wire in spools, and D500L12.0SP is 12mm rib wire in spools, all with zero inventory levels.
+
+The warehouse also stocks bar chairs with part codes FCBR25, FCBR40, FCBR50, FCBR75, each representing different sizes ranging from 25mm x 4mm to 75mm x 4mm. These chairs are all available in units (EA), with zero inventory levels. Additionally, there are fast clip mesh chairs with part codes FCMR20, FCMR25, FCMR40, FCMR50, FCMR60, FCMR65, FCMR75, each representing different sizes ranging from 20mm to 75mm. These chairs are also available in units (EA), with zero inventory levels.
+
+Lastly, the warehouse holds tie wires including TIE1.4MM, TIE3.15X1.2MM, and TIE3.15X2.3MM, each described by their respective lengths and weights. All these items are currently tracked by their inventory control status of QOH, indicating they are managed based on current on-hand quantity, with zero inventory levels.
+
+M2 - ASW Brisbane warehouse manages inventory for Mesh Components Coil, Rod, Wire, with part code TIE3.15X2.4MM. The current inventory level is 56 units, with a maximum level of 84 units. The inventory status is reported as QOH, indicating quantity on hand. The unit of measure is TONN, and the available quantity is 5 units.
+
+M2 - ASW Brisbane warehouse handles inventory for 6mm Wire 6m long (750 pcs), with part code 6MBW6. The current inventory level is 2250 units, with a maximum level of 3375 units. The inventory status is reported as QOH, indicating quantity on hand. The unit of measure is EA, and the available quantity is 1500 units.
+
+M2 - ASW Brisbane warehouse tracks inventory for 8mm Wire 6m long (425 pcs), with part code 6MBW8. The current inventory level is 2975 units, with a maximum level of 750 units. The inventory status is reported as QOH, indicating quantity on hand. The unit of measure is EA, and the available quantity is 2975 units.
+
+M2 - ASW Brisbane warehouse monitors inventory for S&C Brt Wire 4.0x2395mm 500kgs, with part code SCBW4X2.3M. The current inventory level is 0 units, with no maximum level set. The inventory status is reported as QOH, indicating quantity on hand. The unit of measure is EA, and the available quantity is 0 units.
+
+M2 - ASW Brisbane warehouse oversees inventory for S&C Brt Wire 4.0x6000mm 500kgs, with part code SCBW4X6.0M. The current inventory level is 0 units, with no maximum level set. The inventory status is reported as QOH, indicating quantity on hand. The unit of measure is EA, and the available quantity is 0 units.
+
+M2 - ASW Brisbane warehouse controls inventory for S&C Brt Wire 10x6000mm 500kgs, with part code SCBW4X6M. The current inventory level is 0 units, with no maximum level set. The inventory status is reported as QOH, indicating quantity on hand. The unit of measure is EA, and the available quantity is 0 units.
+
+M2 - ASW Brisbane warehouse maintains inventory for S&C Brt Wire 5.6x2395mm 500kgs, with part code SCBW5.6X2.3MK50. The current inventory level is 0 units, with no maximum level set. The inventory status is reported as QOH, indicating quantity on hand. The unit of measure is EA, and the available quantity is 0 units.
+
+M2 - ASW Brisbane warehouse tracks inventory for S&C Brt Wire 5.6x2410mm 500kgs, with part code SCBW5.6X2.41M. The current inventory level is 0 units, with no maximum level set. The inventory status is reported as QOH, indicating quantity on hand. The unit of measure is EA, and the available quantity is 0 units.
+
+M2 - ASW Brisbane warehouse monitors inventory for S&C Brt Wire 5.0x2395mm 500kgs, with part code SCBW5X2.3M. The current inventory level is 0 units, with no maximum level set. The inventory status is reported as QOH, indicating quantity on hand. The unit of measure is EA, and the available quantity is 0 units.
+
+M2 - ASW Brisbane warehouse oversees inventory for S&C Brt Wire 5.0x2410mm 500kgs, with part code SCBW5X2.41M. The current inventory level is 0 units, with no maximum level set. The inventory status is reported as QOH, indicating quantity on hand. The unit of measure is EA, and the available quantity is 0 units.
+
+M2 - ASW Brisbane warehouse controls inventory for S&C Brt Wire 6.3x2395mm 500kgs, with part code SCBW6.3X2.3M. The current inventory level is 0 units, with no maximum level set. The inventory status is reported as QOH, indicating quantity on hand. The unit of measure is EA, and the available quantity is 0 units.
+
+M2 - ASW Brisbane warehouse tracks inventory for S&C Brt Wire 6.3x2420mm 500kgs, with part code SCBW6.3X2.42M. The current inventory level is 0 units, with no maximum level set. The inventory status is reported as QOH, indicating quantity on hand. The unit of measure is EA, and the available quantity is 0 units.
+
+M2 - ASW Brisbane warehouse maintains inventory for S&C Brt Wire 6.3x6000mm 500kgs, with part code SCBW6.3X6M. The current inventory level is 0 units, with no maximum level set. The inventory status is reported as QOH, indicating quantity on hand. The unit of measure is EA, and the available quantity is 0 units.
+
+M2 - ASW Brisbane warehouse oversees inventory for S&C Brt Wire 6.0x6000mm 500kgs, with part code SCBW6X6M. The current inventory level is 0 units, with no maximum level set. The inventory status is reported as QOH, indicating quantity on hand. The unit of measure is EA, and the available quantity is 0 units.
+
+M2 - ASW Brisbane warehouse monitors inventory for S&C Brt Wire 8X2600mm 500kgs, with part code SCBW8X2.6. The current inventory level is 0 units, with no maximum level set. The inventory status is reported as QOH, indicating quantity on hand. The unit of measure is EA, and the available quantity is 0 units.
+
+M2 - ASW Brisbane warehouse tracks inventory for S&C Brt Wire 8x6000mm 500kgs, with part code SCBW8X6.0. The current inventory level is 0 units, with no maximum level set. The inventory status is reported as QOH, indicating quantity on hand. The unit of measure is EA, and the available quantity is 0 units.
+
+M2 - ASW Brisbane warehouse controls inventory for S&C Rib Wire 6.0x1800mm 500kgs, with part code SCRW6X1.8M. The current inventory level is 0 units, with no maximum level set. The inventory status is reported as QOH, indicating quantity on hand. The unit of measure is EA, and the available quantity is 0 units.
+
+M2 - ASW Brisbane warehouse oversees inventory for S&C Rib Wire 6.0x6000mm 500kgs, with part code SCRW6X6M. The current inventory level is 0 units, with no maximum level set. The inventory status is reported as QOH, indicating quantity on hand. The unit of measure is EA, and the available quantity is 0 units.
+
+M2 - ASW Brisbane warehouse monitors inventory for S&C Rib Wire 6.0x7200mm 500kgs, with part code SCRW6X7.2M. The current inventory level is 0 units, with no maximum level set. The inventory status is reported as QOH, indicating quantity on hand. The unit of measure is EA, and the available quantity is 0 units.
+
+M2 - ASW Brisbane warehouse tracks inventory for S&C Galv 1.25mmx300mmx2.85kg, with part code SCW1.25X300G. The current inventory level is 0 units, with no maximum level set. The inventory status is reported as QOH, indicating quantity on hand. The unit of measure is EA, and the available quantity is 0 units.
+
+M2 warehouse in ASW Brisbane, managed by company code 3, holds various smooth rod raw materials. The first item is S & C Galv 1.25mm x 400mm x 3.8kg, part code SCW1.25X400G, with no inventory levels and an IC status code of QOH. The second item is S&C Wire 10mm x 3500mm, part code SCW10X3.5M, also with zero inventory levels and QOH status. The third item is S&C Galv Wire 6.3mm x 1000mm, part code SCW6.3X1MG, with similar inventory and status. The fourth item is S&C Gal Wire 6.3mm x 6000mm weighing 500kg, part code SCW6.3X6MG, with zero inventory levels and QOH status. The fifth item is S&C Galv Wire 6.3mm x 6000mm containing 500 pieces, part code SCW6.3X6MP500G, with zero inventory levels and QOH status. The sixth item is S&C Wire 8.0mm x 6000mm weighing 500kg, part code SCW8X6M, with zero inventory levels and QOH status.
+
+The warehouse also stores steel mesh components. The first steel mesh item is Crimping Pliers Type 001, part code ACCCRIMP001, with zero inventory levels and QOH status. The second item is Fence Pliers Type 001, part code ACCFPLIER001, with similar inventory and status. The third item is Joint Clamp 5mm, part code ACCJCLAMP005, with zero inventory levels and QOH status. The fourth item is Joint Clamp 6mm, part code ACCJCLAMP006, with zero inventory levels and QOH status. The fifth item is Joint Clamp 8mm, part code ACCJCLAMP008, with zero inventory levels and QOH status. The sixth item is Joint Clamp Bolt Type 100, part code ACCJCLAMP100, with zero inventory levels and QOH status. The seventh item is Y Post Caps - Yellow, part code ACCPCAP001, with zero inventory levels and QOH status. The eighth item is Post Driver Type 001, part code ACCPDRIVE1, with zero inventory levels and QOH status. The ninth item is Post Driver Type 002, part code ACCPDRIVE2, with zero inventory levels and QOH status. The tenth item is Ratchet Strainer 001, part code ACCRAT001, with zero inventory levels and QOH status. The eleventh item is Staple Gun 001, part code ACCSTAPLEGUN001, with zero inventory levels and QOH status. The twelfth item is Chain Strainer - Type 001, part code ACCSTRAIN1CHN, with zero inventory levels and QOH status. The thirteenth item is Tensioning Handle Type 001, part code ACCTENS1HAND, with zero inventory levels and QOH status. The fourteenth item is Wire Twisting Tool 001, part code ACCWTWIST001, with zero inventory levels and QOH status.
+
+M2 warehouse in ASW Brisbane, managed by company code 3, holds various steel mesh products. Part code BDBOT8723.280, described as BDBOT-8723/280-8774X2274XN12BDBOT-8723/280, has an inventory level of 0 units. Similarly, part code BDBOT8724.230, described as BDBOT-8724/230-8734X2354XN10BDBOT-8724/230, also has 0 units in stock. Part code BDBOT8923.340, described as BDBOT-8923/340-8934X2334XN12BDBOT-8923/340, and part code BDBOT9323.390, described as BDBOT-9323/390-9364X2364XN12BDBOT-9323/390, both have 0 units in stock as well. Part code BDTOP8723.280, described as BDTOP-8723/280-8794X2294XN8BDTOP-8723/280, part code BDTOP8724.230, described as BDTOP-8724/230-8744X2364XN8BDTOP-8724/230, part code BDTOP8923.340, described as BDTOP-8923/340-8944X2344XN10BDTOP-8923/340, and part code BDTOP9323.390, described as BDTOP-9323/390-9374x2374xN12BDTOP-9323/390, all have 0 units in stock. Part code CCP30241010056G, described as 100x100x3000x2400x5.6 Ind MeshP IMG5H-44-3024_JEN, has 940 units available. Part code CCP45171010056G, described as DNU- see SMF45171010056G, has 0 units in stock. Part code CFPCLAMPS12.5, described as Spider Clamps 12.5mmCFPCLAMPS-12.5, has 0 units in stock. Part code CFPSCREWSM12X25, described as Nut&Bolt - M12x25CFPSCREWS-M12x25, has 0 units in stock. Part code CFPSCREWSM8X25, described as Anti Theft Nut&Bolt - M8X25CFPSCREWS-M8X25, has 0 units in stock. Part code CFPSCREWSM8X30, described as Anti Theft Nut&Bolt - M8x30CFPSCREWS-M8x30, has 0 units in stock. Part code CGATEBPVC, described as 6x1.8+3B CGates BPVC 1x6mCGATEBPVC600180B3, has 0 units in stock. Part code CGATEG900180B3, described as 9000x1800+3Barb CGates GalvCGATEG900180B3, has 0 units in stock. Part code CGATESPEC, described as Spl GateCGATE Special, has 0 units in stock. Part code CHCWB4PVC35H, described as Helical PVCB 4mm-35Kg(315m)CHCWBPVC4-35H, has 0 units in stock. Part code CIFPG7044.260, described as I Fence Post Galv - 2.6mCIFPG7044-260, has 0 units in stock. Part code CIFPG7044.340, described as I Fence Post Galv - 3.4mCIFPG7044-340, has 0 units in stock.
+
+M2 - ASW Brisbane warehouse stocks various steel mesh products. The warehouse holds T/L Wire HG-PVCB 2mm-5kg (180m) with part code CLW2PVCB5, but currently has no inventory levels recorded.
+
+M2 - ASW Brisbane warehouse maintains a stock of 45 units of 25x25x1200x30000x2.0 Mesh Coil IMG2-11-12C30, part code CM1200C3002G, with all inventory levels at zero except for available quantity which is 45.
+
+M2 - ASW Brisbane warehouse does not have any inventory of Cthru Mesh 2350-IMG4H-2325, part code CTHRUIMG4H2325, with all inventory levels at zero.
+
+M2 - ASW Brisbane warehouse does not have any inventory of Ctrhu Mesh 1150-IMG4H-2412, part code CTHRUIMG4H2412, with all inventory levels at zero.
+
+M2 - ASW Brisbane warehouse does not have any inventory of Cthru mesh 1750-IMG4H-2418, part code CTHRUIMG4H2418, with all inventory levels at zero.
+
+M2 - ASW Brisbane warehouse does not have any inventory of T Wire BPVC 1.57mm-5kg (325m), part code CTWBPVC1.57, with all inventory levels at zero.
+
+M2 - ASW Brisbane warehouse has 380 units of SL62 Square Mesh 6x2.4, part code D500LSL62, with all inventory levels at zero except for available quantity which is 380.
+
+M2 - ASW Brisbane warehouse does not have any inventory of SL72 Square Mesh 6x2.4, part code D500LSL72, with all inventory levels at zero.
+
+M2 - ASW Brisbane warehouse does not have any inventory of N10 Dbar in Coils, part code D500N10COIL, with all inventory levels at zero.
+
+M2 - ASW Brisbane warehouse has 1.61 tons of 12MM Ribbed Reinforcing Bar 6m, part code D500N12X6M, with all inventory levels at zero except for available quantity which is 1.61 tons.
+
+M2 - ASW Brisbane warehouse does not have any inventory of N12 Dbar In Coils, part code D500N12XCOIL, with all inventory levels at zero.
+
+M2 - ASW Brisbane warehouse does not have any inventory of 16MM Ribbed Reinforcing Bar 6m, part code D500N16X6M, with all inventory levels at zero.
+
+M2 - ASW Brisbane warehouse does not have any inventory of N20x6m lengths, part code D500N20X6M, with all inventory levels at zero.
+
+M2 - ASW Brisbane warehouse does not have any inventory of N8 Dbar in Coil, part code D500N8.0COIL, with all inventory levels at zero.
+
+M2 - ASW Brisbane warehouse does not have any inventory of RL1018 Rectangular Mesh 6x2.4, part code D500RL1018, with all inventory levels at zero.
+
+M2 - ASW Brisbane warehouse does not have any inventory of RL1218 Rectangular Mesh 6x2.4, part code D500RL1218, with all inventory levels at zero.
+
+M2 - ASW Brisbane warehouse does not have any inventory of SL81 Square Mesh, part code D500SL81, with all inventory levels at zero.
+
+M2 - ASW Brisbane warehouse does not have any inventory of SL82 Square Mesh 6x2.4, part code D500SL82, with all inventory levels at zero.
+
+M2 - ASW Brisbane warehouse has 336 units of SL92 Square Mesh 6x2.4, part code D500SL92, with all inventory levels at zero except for available quantity which is 336.
+
+M2 - ASW Brisbane warehouse does not have any inventory of Flat Washer with 8.5mm Slot, part code DFA8.5WASHER, with all inventory levels at zero.
+
+M2 warehouse, located in ASW Brisbane, holds steel mesh products including Dble Angle 5 Ln Barb Wire Bracket (Part Code: DFABWAD5L) with no inventory levels recorded. Similarly, Dble Angle 5 Ln Cnr Bar Wire Bracket (Part Code: DFABWADC5L) is also stored here with zero inventory. Single Angle 5 line Barb Wire Bracket (Part Code: DFABWAS5L) and Single Angle 5 Ln Cnr Bar Wire Bracket (Part Code: DFABWASC5L) are present but have no stock. Barb Wire Break for Gates - Start (Part Code: DFABWGS5L) and Start 5 Line Barb Wire Bracket (Part Code: DFABWS5L) are also kept in the warehouse with no inventory. Start 5 Line Cnr Barb Wire Bracket (Part Code: DFABWSC5L) is another item stored here with no stock.
+
+45 Degree Cnr Plates - Left Hand Side (Part Code: DFACNRPlATELHS) and Right Hand Side (Part Code: DFACNRPlATERHS) are part of the steel mesh product group, both stored in M2 warehouse with no inventory. The 2.4m Double Side Alligtr Top Rail (Part Code: DFADBLE2400) is also stored here with no inventory. Ped Gate Frame 1m (Part Code: DFADFPG1HFR) and 1m Ped Gate - Heavy Left Hand Side/Right Hand Side (Part Codes: DFADFPG1HLR, DFADFPG1MR) are stored in M2 warehouse with no inventory. Ped Gate - 1m Left Hand Side Hinges Included (Part Code: DFADFPG1ML) and Ped Gate - 1m Right Hand Side Hinges Included (Part Code: DFADFPG1MR) are also stored here with no inventory.
+
+2.4m Wide Heavy Vehicle Gate Left Hand Side/Right Hand Side (Part Codes: DFADFVG24HLR) has an inventory of 2 units. 3.0m Wide Vehicle Gate Left Hand Side (Part Code: DFADFVG30SLH) and Right Hand Side (Part Code: DFADFVG30SRH) are stored with an inventory of 1 unit each. Heavy Gate Post Left Hand Side (Part Code: DFADFVGPHLH) and Right Hand Side (Part Code: DFADFVGPHRH) are stored with no inventory. Standard Gate Post Left Hand Side (Part Code: DFADFVGPSLH) is also stored with no inventory.
+
+Standard Gate Post RHSDFA-DFVGPSLR is stored in warehouse M2 - ASW Brisbane, part of the Steel Mesh product group. It has no inventory levels set and its current status is QOH (Quantity On Hand). No units have been picked, despatched, reserved, or awaiting confirm out. The available quantity is zero.
+
+2.4m Single Attached Alligator Top Rail DFA-Alllig-Sgle-2400 is also stored in warehouse M2 - ASW Brisbane under the Steel Mesh product group. Like the previous item, it has no inventory levels set and its current status is QOH (Quantity On Hand). No units have been picked, despatched, reserved, or awaiting confirm out. The available quantity is zero.
+
+Ausro Strap 3.0 x 0.3 OSH106H-3003 is stored in warehouse M2 - ASW Brisbane, part of the Steel Mesh product group. It has minimum and maximum levels set at 400 and 800 respectively. Its current status is CONFIN (Confirmed Inventory). No units have been picked, despatched, reserved, or awaiting confirm out. The available quantity is 198.
+
+Ausro Straps Gal 3.0 x 0.3 OSH106H-3003G is stored in warehouse M2 - ASW Brisbane, part of the Steel Mesh product group. It has minimum and maximum levels set at 0 and 0 respectively. Its current status is QOH (Quantity On Hand). No units have been picked, despatched, reserved, or awaiting confirm out. The available quantity is 440.
+
+358 Mesh 1.2 x 2.4 IMZG4-305-1224 is stored in warehouse M2 - ASW Brisbane, part of the Steel Mesh product group. It has no inventory levels set and its current status is QOH (Quantity On Hand). No units have been picked, despatched, reserved, or awaiting confirm out. The available quantity is zero.
+
+358 Panels 2.4m x 2.4m IMZG4-305-2424 is stored in warehouse M2 - ASW Brisbane, part of the Steel Mesh product group. It has minimum and maximum levels set at 18 and 27 respectively. Its current status is QOH (Quantity On Hand). No units have been picked, despatched, reserved, or awaiting confirm out. The available quantity is 237.
+
+358 Panels 2.5m x 2.4m IMZG4-305-2524 is stored in warehouse M2 - ASW Brisbane, part of the Steel Mesh product group. It has no inventory levels set and its current status is QOH (Quantity On Hand). No units have been picked, despatched, reserved, or awaiting confirm out. The available quantity is 235.
+
+50x75x3000x1200x4mm Ind Mesh IMZG4-23-3012 is stored in warehouse M2 - ASW Brisbane, part of the Steel Mesh product group. It has no inventory levels set and its current status is QOH (Quantity On Hand). No units have been picked, despatched, reserved, or awaiting confirm out. The available quantity is 83.
+
+358 Panels 3.0m x 2.4m IMZG4-305-3024 is stored in warehouse M2 - ASW Brisbane, part of the Steel Mesh product group. It has minimum and maximum levels set at 15 and 23 respectively. Its current status is QOH (Quantity On Hand). No units have been picked, despatched, reserved, or awaiting confirm out. The available quantity is 189.
+
+358 Panel 3.1m x 2.4m IMZG4-305-3124 is stored in warehouse M2 - ASW Brisbane, part of the Steel Mesh product group. It has minimum and maximum levels set at 74 and 111 respectively. Its current status is QOH (Quantity On Hand). No units have been picked, despatched, reserved, or awaiting confirm out. The available quantity is 142.
+
+358 Panels 3.6m x 2.4m IMZG4-305-3624 is stored in warehouse M2 - ASW Brisbane, part of the Steel Mesh product group. It has minimum and maximum levels set at 68 and 102 respectively. Its current status is QOH (Quantity On Hand). No units have been picked, despatched, reserved, or awaiting confirm out. The available quantity is 11.
+
+358 Panels 4050x1895 IMZG4-305-4H19 is stored in warehouse M2 - ASW Brisbane, part of the Steel Mesh product group. It has no inventory levels set and its current status is QOH (Quantity On Hand). No units have been picked, despatched, reserved, or awaiting confirm out. The available quantity is 140.
+
+358 Panels 4050x1950 IMZG4-305-4H19H is stored in warehouse M2 - ASW Brisbane, part of the Steel Mesh product group. It has no inventory levels set and its current status is QOH (Quantity On Hand). No units have been picked, despatched, reserved, or awaiting confirm out. The available quantity is 70.
+
+358 Panels 4.5m x 2.4m IMZG4-305-4524 is stored in warehouse M2 - ASW Brisbane, part of the Steel Mesh product group. It has no inventory levels set and its current status is QOH (Quantity On Hand). No units have been picked, despatched, reserved, or awaiting confirm out. The available quantity is 95.
+
+DNU- see MS45241010056G is stored in warehouse M2 - ASW Brisbane, part of the Steel Mesh product group. It has no inventory levels set and its current status is QOH (Quantity On Hand). No units have been picked, despatched, reserved, or awaiting confirm out. The available quantity is zero.
+
+DNU- see MS45241010056G2 is stored in warehouse M2 - ASW Brisbane, part of the Steel Mesh product group. It has no inventory levels set and its current status is QOH (Quantity On Hand). No units have been picked, despatched, reserved, or awaiting confirm out. The available quantity is zero.
+
+100x100x4500x2400x5.6 SM Mesh IMG5H-44-4524-JEN-SM is stored in warehouse M2 - ASW Brisbane, part of the Steel Mesh product group. It has no inventory levels set and its current status is QOH (Quantity On Hand). No units have been picked, despatched, reserved, or awaiting confirm out. The available quantity is zero.
+
+DNU- see CCP300310108G is stored in warehouse M2 - ASW Brisbane, part of the Steel Mesh product group. It has no inventory levels set and its current status is QOH (Quantity On Hand). No units have been picked, despatched, reserved, or awaiting confirm out. The available quantity is zero.
+
+M2 - ASW Brisbane warehouse holds steel mesh products, including 17x50x2000x1500x6.3mm Pig Mesh (Part Code: PMES6H2015G) with an inventory of 20 units available. Similarly, 17x50x2400x1500x6.3mm Pig Mesh (Part Code: PMES6H2415G) has 42 units available. The warehouse also stocks 550mm Concertina Barbed Tape (Part Code: RAZ550CON) with 34 units available. No units are available for HT Trellis Wire-2.5-1 Ton Coil (Part Code: RFWZAL25HT1T) and HT Trellis Wire3.15-1 Ton Coil (Part Code: RFWZAL315HT1T). Self Tapp Screw 30mm (Part Code: SESCREW0425X30) is also not available with zero units. SL 41 Square Mesh (Part Code: SL41) and 100x100x3600x2400x5.6 Ind Mesh (Part Code: SM5H36241010FG) both have zero units available. DNU (Details Not Updated) for DNU- see CCP40241010056G (Part Code: SM5H40241010FG) and DNU- see MS50241010056G (Part Code: SM5H50241010G) indicate no stock. 200x200x1800x1100x5mm LDMesh (Part Code: SMB1811202005) and DNU- see CC402410105 (Part Code: SMB4024101005) also show zero units available. 100x100x4500x1700x5mm Bright Mesh (Part Code: SMB4517101005), 100x100x4500x2400x5mm Black Mesh (Part Code: SMB4524101005), and 100x100x4800x1400x4x5 Mesh (Part Code: SMB4814100505) all have zero units available. DNU- see SMB4814101005C (Part Code: SMB4814101005C) and DNU- see SMB4814101005C (Part Code: SMB4814101005C) similarly indicate no stock. 100x150x4800x1400x5mm Mesh (Part Code: SMB4814101505) has 88 units available, meeting the minimum level of 1320 and maximum level of 1980. 100x100x4500x1700x4.24mm Black Mesh (Part Code: SMB4H50241010) and 100x100x5000x2400x4.50 Mesh (Part Code: SMB4H50241010) both show zero units available.
+
+M2 warehouse in ASW Brisbane, managed by Company Code 3, holds various steel mesh products. Part code SMB5002100505, described as DNU-see SMB5002101004, has an inventory level of zero. Part code SMB5002101004, described as 100x50x25x5000x250x4x5IMB45-421-5002-DEN, has an inventory quantity of 2687 units available. Part code SMB5011101005, described as 100x100x5000x1100x5mm-DWAIMB5-44-5011-DWA, has no inventory quantity. Part code SMB5014101005, described as DNU-see CC5014101005, also has no inventory quantity. Part code SMB5016101005, described as 100x100x5000x1600x5mm-JNAIMB5-44-5016-JNA, similarly has no inventory quantity. Part code SMB5016101505, described as DNU-see SMB5016151005S, has no inventory quantity. Part code SMB5112151504, described as 150x150x5100x1150x4x5-DEN2IMB45-66-5111-DEN2, has an inventory quantity of 420 units available, within a minimum level of 2808 and maximum level of 4212. Part code SMB5114151005, described as DNU-see SMB5113515105S, has no inventory quantity. Part code SMB5117151504, described as DNU-see SMB5118151505, has no inventory quantity. Part code SMB5118151505, described as 150x150x5100x1700x4x5IMB45-66-5117-DEN, has an inventory quantity of 4304 units available, within a minimum level of 2700 and maximum level of 4050. Part code SMB5616151005, described as 100x100x5600x1600x5mm-Ind MeshIMB5-44-5616, has an inventory quantity of 30 units available. Part code SMB5H482410100, described as 100x100x4800x2400x5.6mm-Ind MeIMB5H-44-4824, has no inventory quantity. Part code SMB5H50171015, described as DNU-see SMB5018101005, has no inventory quantity. Part code SMB6012101505, described as 100x150x6000x1200x4x5-Ind MeshIMB45-46-6012-DPI, has an inventory quantity of 20 units available. Part code SMBS3003101008, described as 100x100x3000x300x8Black StrapIMB8-44-3003, has no inventory quantity. Part code SMBS6003101008, described as 100x100x6000x300x8mmMeshStrapIMB8-44-6003, has an inventory quantity of 31 units available. Part code SMC303H1200510G, described as 50x100x3.15x1200x30mIMG3H-24-1200C30, has an inventory quantity of 12 units available. Part code SMC603H1200510G, described as 50x100x3.15x1200x60mIMG3H-24-1200C60, has an inventory quantity of 6 units available. Part code SMESH1200850505, described as DNU-see SMESH300011704, has no inventory quantity. Part code SMF11090505004G, described as 50x50x1150x950x4mmWeldMeshIMG4-22-1109, has an inventory quantity of 348 units available.
+
+M2 warehouse, located in ASW Brisbane, holds various steel mesh products. Part code SMF12080505005G, described as 50x50x1200x800x5mm Ind MeshIMG5-22-1208, has an inventory count of 0 units.
+
+Another part, SMF1614101005, described as DNU- see SMF1614101004, also has an inventory count of 0 units.
+
+Part code SMF17121001004G, described as 100x100x1700x1200x4mm Ind MeshIMG4-44-1712-WLC, is currently in stock with 10575 units.
+
+SMF1814101004, described as 100x150x1800x1400x4mm - DMEIMB4-46-1814-DME, has an inventory count of 150 units.
+
+Part code SMF20120505004G, described as 50x50x2000x1200x4mm Ind MeshIMG4-22-2012, has 388 units available.
+
+SMF20120507504G, described as 50x75x2000x1200x4mm Ind MeshIMG4-23-2012, has 200 units available.
+
+Part code SMF20151001004G, described as DNU- see CC2015101004G, has an inventory count of 0 units.
+
+SMF23110102005G, described as 100x200x2.3x1.1x5mm Weld MeshIMG5-48-2311, maintains a stock level of 138 units.
+
+Part code SMF24090505004G, described as 50x50x2350x950x4mm Weld MeshIMG4-22-2309, has 379 units available.
+
+SMF24120505004G, described as 50x50x2400x1200x4mm Ind MeshIMG4-22-2412, has an inventory count of 2100 units, with 575 units despatched and 575 units awaiting confirmation out.
+
+Part code SMF24120505005G, described as 50x50x2400x1200x5 Ind MeshIMG5-22-2412, has 528 units available.
+
+SMF241205075005G, described as 50x75x2400x1200x5 Ind MeshIMG5-23-2412, has 83 units available.
+
+Part code SMF24120755004G, described as 75x50x2400x1200x4mm Ind MeshIMG4-32-2412, has an inventory count of 0 units.
+
+SMF24120755005G, described as 75x50x2400x1200x5m Ind MeshIMG5-32-2412, has 299 units available.
+
+SMF24120757504G, described as 75x75x2400x1200x4mm Ind MeshIMG4-33-2412, has 395 units available.
+
+Part code SMF24121001004G, described as 100x100x2400x1200x4mm Gal MeshIMG4-44-2412, has 247 units available.
+
+SMF24121001005G, described as 100x100x2400x1200x5mm Ind MeshIMG5-44-2412, has 100 units available.
+
+Part code SMF241575504, described as 50x75x2400x1500x4 Ind MeshIMB4-23-2415-RTF, has 300 units available.
+
+SMF2420101003, described as 100x100x2400x2000x3.15 Ind MesIMB3H-44-2420-DCLA, has 379 units available.
+
+M2 warehouse in ASW Brisbane carries steel mesh products. Part code SMF2512040404G, described as 40x40x2500x1200x4mm Ind Mesh, has an inventory count of 200 units, all available.
+
+Part code SMF2516101031G, known as MESH RIB 2.5MX1.60M 100X100 APT 3.15MM WIRE GALV, has no inventory on hand.
+
+Part code SMF2516757503G, named MESH 2.5MX1.6M 75X75 APT 3.15MM WIRE - GAL, also shows zero inventory.
+
+Part code SMF2518101031G, referred to as MESH RIB 2.5MX1.80M 100X100 APT 3.15MM WIRE GALV, similarly has no stock.
+
+Part code SMF2618101003, identified as 100x100x2600x1800x3.15 Ind Mesh, has a minimum level of 1733, maximum level of 2600, and an inventory count of 300 units, all available.
+
+Part code SMF29110102005G, known as 100x200x2.9x1.1x 5mm Weld mesh, has no inventory.
+
+Part code SMF2H152402525G, described as 25x25x1475x2375x2.5mm Ind Mesh, has no inventory.
+
+Part code SMF2H201202525G, known as 25x25x2000x1200x2.5mm Ind mesh, also shows zero inventory.
+
+Part code SMF2H241202525G, named 25x25x2400x1200x2.5mm Ind Mesh, has an inventory count of 80 units, with 80 units awaiting despatch, and 80 units unconfirmed.
+
+Part code SMF2H302402525G, identified as 25x25x3000x2400x2.5mm Ind Mesh, has no inventory.
+
+Part code SMF30121501004G, known as 150x100x3000x1200x4mm Gal Mesh, has no inventory.
+
+Part code SMF30240505004G, described as 50x50x3000x2400x4mm Weld Mesh, has an inventory count of 606 units, with 250 units in despatch and 250 units unconfirmed, leaving 356 units available.
+
+Part code SMF30240505005G, known as 50x50x3000x2400x5mm Weld mesh, has an inventory count of 121 units, with 12 units in despatch and 12 units unconfirmed, leaving 109 units available.
+
+Part code SMF30240575005G, identified as 50x75x3000x2400x5 Ind Mesh, has an inventory count of 77 units, with 77 units available.
+
+Part code SMF30240755005G, known as 75x50x3000x2400x5mm Ind Mesh, has no inventory.
+
+Part code SMF30241001005G, described as 100x100x3000x2400x5 Ind Mesh, has an inventory count of 969 units, with 50 units in despatch and 50 units unconfirmed, leaving 919 units available.
+
+Part code SMF30241010056G, known as USE PART CCP30241010056G, has no inventory.
+
+Part code SMF35110102005G, identified as 100x200x3.5x1.1x 5mm Weld Mesh, has an inventory count of 67 units, all available.
+
+Part code SMF3H20084040G, known as 40x40x2020x865x3.15mm Galve, has an inventory count of 400 units, all available.
+
+M2 - ASW Brisbane warehouse holds steel mesh products. Part code SMF3H20125050G, described as 50x50x2000x1200x3.5mm Ind MeshIMG3H-22-2012, has an inventory count of 299 units available.

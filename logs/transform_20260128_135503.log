@@ -1,0 +1,5 @@
+2026-01-28 13:55:04,186 [INFO] Read 24908 records from ASW - Data Warehouse - Sales & Credit Detail.csv
+2026-01-28 13:55:04,757 [INFO]   Normalized entity names for 24908 records
+2026-01-28 13:55:04,758 [INFO]   Analyzing file schema...
+2026-01-28 13:55:06,736 [INFO]   File analysis: sales_order - 4 entities
+2026-01-28 13:55:06,736 [INFO] Transforming ASW - Data Warehouse - Sales & Credit Detail.csv: 24908 records in 1246 batches
