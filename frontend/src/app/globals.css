@@ -1,0 +1,134 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+    --primary: 221.2 83.2% 53.3%;
+    --primary-foreground: 210 40% 98%;
+    --secondary: 210 40% 96.1%;
+    --secondary-foreground: 222.2 47.4% 11.2%;
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+    --accent: 210 40% 96.1%;
+    --accent-foreground: 222.2 47.4% 11.2%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 221.2 83.2% 53.3%;
+    --radius: 0.5rem;
+  }
+
+  .dark {
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+    --card: 222.2 84% 4.9%;
+    --card-foreground: 210 40% 98%;
+    --popover: 222.2 84% 4.9%;
+    --popover-foreground: 210 40% 98%;
+    --primary: 217.2 91.2% 59.8%;
+    --primary-foreground: 222.2 47.4% 11.2%;
+    --secondary: 217.2 32.6% 17.5%;
+    --secondary-foreground: 210 40% 98%;
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+    --accent: 217.2 32.6% 17.5%;
+    --accent-foreground: 210 40% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: 224.3 76.3% 48%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+/* Custom Table Styling for Chat */
+.prose table {
+  @apply w-full border-collapse my-4 text-sm;
+  border: 1px solid #374151;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.prose thead {
+  @apply bg-gray-800;
+}
+
+.prose th {
+  @apply px-4 py-3 text-left font-semibold text-gray-200 border-b border-gray-700;
+  white-space: nowrap;
+}
+
+.prose th:has(+ th) {
+  @apply border-r border-gray-700;
+}
+
+.prose td {
+  @apply px-4 py-2.5 border-b border-gray-800;
+}
+
+.prose td:has(+ td) {
+  @apply border-r border-gray-800/50;
+}
+
+.prose tbody tr {
+  @apply bg-gray-900/30 transition-colors;
+}
+
+.prose tbody tr:nth-child(even) {
+  @apply bg-gray-900/60;
+}
+
+.prose tbody tr:hover {
+  @apply bg-gray-800/80;
+}
+
+/* Right-align numeric columns */
+.prose td:nth-child(n+2) {
+  @apply text-right font-mono;
+}
+
+/* Currency styling */
+.prose td:contains("$") {
+  @apply text-green-400;
+}
+
+/* Bold totals row */
+.prose tbody tr:last-child:has(strong) {
+  @apply bg-gray-800 font-semibold border-t-2 border-gray-600;
+}
+
+.prose tbody tr:last-child:has(strong) td {
+  @apply py-3;
+}
+
+/* Table scrolling for overflow */
+.prose .table-wrapper {
+  @apply overflow-x-auto;
+}
+
+/* Make tables responsive */
+@media (max-width: 768px) {
+  .prose table {
+    @apply text-xs;
+  }
+  .prose th, .prose td {
+    @apply px-2 py-1.5;
+  }
+}
